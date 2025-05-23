@@ -386,7 +386,7 @@ g_bios = [
             &#8220;Alice in Seville&#8221; Time magazine July 7, 1952.<Br>
             Image source: https://en.wikipedia.org/wiki/Alice_Bache_Gould
         `,
-        photos: ["images_bios/alice_bache_gould.png"],
+        photos: ["images_bios/Alice_Bache_Gould.png"],
         photoTitles: [],
         dateCreated: "before 2006",dateUpdated:
  "",

@@ -93,7 +93,7 @@ p_bios = [
                 Dictionary of Women Scientists</em> (2000)
             Image source: wikipedia public domain entry for Emily Parsons
         `,
-        photos: ["images_bios/emily_parsons.jpg"],
+        photos: ["images_bios/emily_Parsons.jpg"],
         photoTitles: [],
         dateCreated: "before 2006",
         dateUpdated: "April 12, 2025",

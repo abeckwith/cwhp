@@ -120,7 +120,7 @@ r_bios = [
                 Richards and the New England Kitchen</em> (1987).<br>
                 Image source: https://en.wikipedia.org/wiki/Ellen_Swallow_Richards
         `,
-        photos: ["images_bios/ellen_swallow_richards.jpg"],
+        photos: ["images_bios/Ellen_Swallow_Richards.jpg"],
         photoTitles: [],
         dateCreated: "before 2006",dateUpdated:
  "April 7, 2025",

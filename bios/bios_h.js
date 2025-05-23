@@ -94,7 +94,7 @@ h_bios = [
                 Women Scientists</em> (2000).<Br>
                 Image source: https://en.wikipedia.org/wiki/Alice_Hamilton
         `,
-        photos: ["images_bios/alice_hamilton.jpg"],
+        photos: ["images_bios/Alice_Hamilton.jpg"],
         photoTitles: [],
         dateCreated: "before 2006",
         dateUpdated: "",
@@ -105,7 +105,7 @@ h_bios = [
     {
         organization: false,
         lastName: "Hamilton",
-        firstName: "Marget",
+        firstName: "Margaret",
         middleName: "",
         familyName: "",
         fileLetter: "",
@@ -135,7 +135,7 @@ h_bios = [
                 href="http://klabs.org/home_page/hamilton.htm" target="_blank">http://klabs.org/home_page/hamilton.htm</a><br>
                 Image source: https://en.wikipedia.org/wiki/Margaret_Hamilton_%28software_engineer%29
         `,
-        photos: ["images_bios/margaret_hamilton_1995.jpg"],
+        photos: ["images_bios/Margaret_Hamilton_1995.jpg"],
         photoTitles: [],
         dateCreated: "before 2006",
         dateUpdated: "April 5, 2025",
@@ -226,7 +226,7 @@ h_bios = [
             <em>Encyclopedia Britannia</em><Br>
             Image source: https://en.wikipedia.org/wiki/Sophia_Hayden
         `,
-        photos: ["images_bios/sophia_bennett.jpg"],
+        photos: ["images_bios/Sophia_Bennett.jpg"],
         photoTitles: [],
         dateCreated: "before 2006",
         dateUpdated: "",
@@ -304,7 +304,7 @@ h_bios = [
             Radcliffe alumni awards website<br>
             Image source: Judith Herman
         `,
-        photos: ["images_bios/judyherman.jpg"],
+        photos: ["images_bios/JudyHerman.jpg"],
         photoTitles: [],
         dateCreated: "before 2006",
         dateUpdated: "April 7, 2025",
@@ -511,7 +511,7 @@ h_bios = [
             Our Literary Foremothers&#8221;<br>
                 Image source: https://en.wikipedia.org/wiki/Pauline_Hopkins
         `,
-        photos: ["images_bios/pauline_elizabeth_hopkins.jpg"],
+        photos: ["images_bios/Pauline_Elizabeth_Hopkins.jpg"],
         photoTitles: [],
         dateCreated: "before 2006",
         dateUpdated: "",
@@ -565,7 +565,7 @@ h_bios = [
             Institute Library; Cambridge Chronicle, July 2, 1998.<Br>
             Image source: https://en.wikipedia.org/wiki/Cornelia_Horsford
         `,
-        photos: ["images_bios/cornelia_horsford.jpg"],
+        photos: ["images_bios/Cornelia_Horsford.jpg"],
         photoTitles: [],
         dateCreated: "before 2006",
         dateUpdated: "",
@@ -846,7 +846,7 @@ h_bios = [
             with Frank Aqueno in 1993 <br>
                 Image source: https://en.wikipedia.org/wiki/Ruth_Hubbard
         `,
-        photos: ["images_bios/ruth_wald.jpg"],
+        photos: ["images_bios/Ruth_Wald.jpg"],
         photoTitles: [],
         dateCreated: "before 2006",
         dateUpdated: "April 5, 2025",
@@ -896,7 +896,7 @@ h_bios = [
             <em>Encyclopedia Britannica</em>, <em>Wikipedia</em><Br>
             Image source: https://en.wikipedia.org/wiki/Anna_Hyatt_Huntington
         `,
-        photos: ["images_bios/anna_vaughn_hyatt.jpg"],
+        photos: ["images_bios/Anna_Vaughn_Hyatt.jpg"],
         photoTitles: [],
         dateCreated: "before 2006",
         dateUpdated: "April 5, 2025",

@@ -367,7 +367,7 @@ w_bios = [
             Toronto: Second Story Press, 1997.<Br>
             Image source: https://en.wikipedia.org/wiki/Anne_Whitney
         `,
-        photos: ["images_bios/anne_whitney.jpg"],
+        photos: ["images_bios/Anne_Whitney.jpg"],
         photoTitles: [],
         dateCreated: "before 2006",
         dateUpdated: "April 8, 2025",
@@ -580,7 +580,7 @@ w_bios = [
             
                 Image source: https://commons.wikimedia.org/wiki/File:Mrs._John_Winthrop.jpg
         `,
-        photos: ["images_bios/hannah_winthrop.jpg"],
+        photos: ["images_bios/HANNAH_Winthrop.jpg"],
         photoTitles: [],
         dateCreated: "before 2006",
         dateUpdated: "April 8, 2025",
@@ -635,7 +635,7 @@ w_bios = [
             Schlesinger Library.<br>
             Image source: https://en.wikipedia.org/wiki/Ozeline_Wise
         `,
-        photos: ["images_bios/ozeline__wise.jpg"],
+        photos: ["images_bios/Ozeline__Wise.jpg"],
         photoTitles: [],
         dateCreated: "before 2006",
         dateUpdated: "April 8, 2025",
@@ -738,7 +738,7 @@ w_bios = [
                 https://en.wikipedia.org/wiki/Alice_Wolf<Br><Br>
                 Image source: https://en.wikipedia.org/wiki/Alice_Wolf
         `,
-        photos: ["images_bios/alice_wolf.jpg"],
+        photos: ["images_bios/Alice_Wolf.jpg"],
         photoTitles: [],
         dateCreated: "before 2006",
         dateUpdated: "April 6, 2025",

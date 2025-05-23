@@ -53,9 +53,9 @@ s_bios = [
         `,
         photos: ["images_bios/Saavedra.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
- "April 11, 2025",
-        
+        dateCreated: "before 2006",
+        dateUpdated: "April 11, 2025",
+
         photoHeights: [],
         categories: ["Community Leaders", "Educators/Teachers"],
     },
@@ -144,9 +144,9 @@ s_bios = [
         `,
         photos: ["images_bios/may_sarton.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
- "April 7, 2025",
-        
+        dateCreated: "before 2006",
+        dateUpdated: "April 7, 2025",
+
         photoHeights: [],
         categories: ["Refugees", "Writers/Authors/Poets/Journalists/Editors"],
     },
@@ -182,11 +182,11 @@ s_bios = [
                 1917-1950</em>. Houghton Mifflin, 2000<Br>
                 Image source: https://en.wikipedia.org/wiki/Marian_Cannon_Schlesinger
         `,
-        photos: ["images_bios/marian_schlesinger.jpg"],
-        photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
- "April 7, 2025",
-        
+        photos: ["images_bios/Marian_Schlesinger.jpg"],
+        photoTitle: [],
+        dateCreated: "before 2006",
+        dateUpdated: "April 7, 2025",
+
         photoHeights: [],
         categories: ["Artists", "Writers/Authors/Poets/Journalists/Editors"],
         "Shea, Mary Rose (Merlesena)": ["Activists", "Childcare Providers"],
@@ -236,9 +236,9 @@ s_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
- "April 7, 2025",
-        
+        dateCreated: "before 2006",
+        dateUpdated: "April 7, 2025",
+
         photoHeights: [],
         categories: [""],
     },
@@ -330,9 +330,9 @@ s_bios = [
         `,
         photos: ["images_bios/Simmons Blue Suit_small.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
- "April 12, 2025",
-        
+        dateCreated: "before 2006",
+        dateUpdated: "April 12, 2025",
+
         photoHeights: [],
         categories: [
             "Community Leaders",
@@ -392,9 +392,9 @@ s_bios = [
            `,
         photos: ["images_bios/Alice_Kimball_Smith.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
- "April 11, 2025",
-        
+        dateCreated: "before 2006",
+        dateUpdated: "April 11, 2025",
+
         photoHeights: [],
         categories: ["Writers/Authors/Poets/Journalists/Editors"],
     },
@@ -446,11 +446,10 @@ s_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
- "",
-        
+        dateCreated: "before 2006",
+        dateUpdated: "",
+
         photoHeights: [],
         categories: ["Writers/Authors/Poets/Journalists/Editors", "Architects"],
     },
-   
 ];

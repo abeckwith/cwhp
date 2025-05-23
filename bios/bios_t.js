@@ -50,11 +50,11 @@ t_bios = [
             L. Witlieb,<em> The Book of Women's Firsts</em>, New York: Random House,
             1992<br>
        <Br> Image source: https://en.wikipedia.org/wiki/Helen_B._Taussig        `,
-        photos: ["images_bios/helen_taussig.jpg"],
+        photos: ["images_bios/Helen_Taussig.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
- "April 7, 2025",
-        
+        dateCreated: "before 2006",
+        dateUpdated: "April 7, 2025",
+
         photoHeights: [],
         categories: ["Physicians", "Writers/Authors/Poets/Journalists/Editors"],
     },
@@ -113,9 +113,9 @@ t_bios = [
         `,
         photos: ["images_bios/katharine_taylor.jpeg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
- "April 7, 2025",
-        
+        dateCreated: "before 2006",
+        dateUpdated: "April 7, 2025",
+
         photoHeights: [],
         categories: ["Educators/Teachers"],
     },
@@ -172,9 +172,9 @@ t_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
- "",
-        
+        dateCreated: "before 2006",
+        dateUpdated: "",
+
         photoHeights: [],
         categories: [
             "Historians and History Projects",
@@ -226,11 +226,11 @@ t_bios = [
             Cambridge Chronicle 21 November 1985<br>
             Image source: https://commons.wikimedia.org/wiki/File:Mary_Crutchfield_Thompson_%2813270319163%29.jpg
         `,
-        photos: ["images_bios/mary_crutchfield_thompson.jpg"],
+        photos: ["images_bios/Mary_Crutchfield_Thompson.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
- "April 8, 2025",
-        
+        dateCreated: "before 2006",
+        dateUpdated: "April 8, 2025",
+
         photoHeights: [],
         categories: ["Dentists"],
     },
@@ -280,11 +280,11 @@ t_bios = [
             Obituary on sciencenetwork.com<br>
                 Image source: https://en.wikipedia.org/wiki/Ruth_Turner
         `,
-        photos: ["images_bios/ruth_turner.jpg"],
+        photos: ["images_bios/Ruth_Turner.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
- "April 12, 2025",
-        
+        dateCreated: "before 2006",
+        dateUpdated: "April 12, 2025",
+
         photoHeights: [],
         categories: ["Scientists"],
     },

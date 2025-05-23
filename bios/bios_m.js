@@ -573,7 +573,7 @@ m_bios = [
             &#8221;Birth Insurance attacked&#8221;<em> New York Times</em>, May 11, 1906.
             <Br>Photo source: https://en.wikipedia.org/wiki/Estelle_M._H._Merrill
         `,
-        photos: ["images_bios/estelle_merrill.png"],
+        photos: ["images_bios/Estelle_Merrill.png"],
         photoTitles: [],
         dateCreated: "before 2006",
         dateUpdated: "",
@@ -634,7 +634,7 @@ m_bios = [
                 1996.
                 <br>Photo source: https://en.wikipedia.org/wiki/Agnes_Mongan
         `,
-        photos: ["images_bios/agnesmongan.png"],
+        photos: ["images_bios/AgnesMongan.png"],
         photoTitles: [],
         dateCreated: "before 2006",
         dateUpdated: "April 5, 2025",
@@ -759,7 +759,7 @@ m_bios = [
            
         <Br>Image source: https://en.wikipedia.org/wiki/Maud_Morgan
                 `,
-        photos: ["images_bios/maudcabot.png"],
+        photos: ["images_bios/MaudCabot.png"],
         photoTitles: [],
         dateCreated: "before 2006",
         dateUpdated: "April 12, 2025",

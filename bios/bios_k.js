@@ -116,7 +116,7 @@ k_bios = [
                 <Br>
                 Photo source: https://en.wikipedia.org/wiki/Vera_Kistiakowsky
         `,
-        photos: ["images_bios/vera_k.jpg"],
+        photos: ["images_bios/Vera_K.jpg"],
         photoTitles: [],
         dateCreated: "before 2006",
         dateUpdated: "April 5, 2025",

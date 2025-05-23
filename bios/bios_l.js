@@ -55,8 +55,8 @@ l_bios = [
         `,
         photos: ["images_bios/Florence%20Ladd%20small.jpeg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
- "",
+        dateCreated: "before 2006",
+        dateUpdated: "",
 
         photoHeights: [],
         categories: ["Psychologists", "Educators/Teachers"],
@@ -94,10 +94,10 @@ l_bios = [
             in Cambridge, MA.&#8221; <em>Cambridge Chronicle</em> January 29, 2002<br>
           
        <br> Image source: https://dougholder.blogspot.com/2012/01/linda-larson-poet-who-writes-what-she.html`,
-        photos: ["images_bios/lindalarson.jpg"],
+        photos: ["images_bios/LindaLarson.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
- "April 12, 2025",
+        dateCreated: "before 2006",
+        dateUpdated: "April 12, 2025",
 
         photoHeights: [],
         categories: ["Writers/Authors/Poets/Journalists/Editors"],
@@ -134,8 +134,8 @@ l_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
- "",
+        dateCreated: "before 2006",
+        dateUpdated: "",
 
         photoHeights: [],
         categories: ["Childcare Providers"],
@@ -174,10 +174,10 @@ l_bios = [
             <em>Boston Globe,</em> February 1, '05.<Br>
             Photo source: https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt
         `,
-        photos: ["images_bios/henrietta_swan_leavitt.jpg"],
+        photos: ["images_bios/Henrietta_Swan_Leavitt.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
- "",
+        dateCreated: "before 2006",
+        dateUpdated: "",
 
         photoHeights: [],
         categories: ["Scientists"],
@@ -214,8 +214,8 @@ l_bios = [
         `,
         photos: ["images_bios/lesbian_avengers.png"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
- "",
+        dateCreated: "before 2006",
+        dateUpdated: "",
 
         photoHeights: [],
         categories: ["Feminist Organizations"],
@@ -299,8 +299,8 @@ l_bios = [
         `,
         photos: ["images_bios/EdithLesley_small.jpeg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
- "",
+        dateCreated: "before 2006",
+        dateUpdated: "",
 
         photoHeights: [],
         categories: ["Educators/Teachers"],
@@ -376,8 +376,8 @@ l_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
- "",
+        dateCreated: "before 2006",
+        dateUpdated: "",
 
         photoHeights: [],
         categories: ["Nurses", "Volunteers", "Community Leaders"],
@@ -429,10 +429,10 @@ l_bios = [
             <em>Biography of Alice M Longfellow</em>, Longfellow National Historic Site.<Br>
             Image source: https://en.wikipedia.org/wiki/Alice_Mary_Longfellow
         `,
-        photos: ["images_bios/alice_longfellow.jpg"],
+        photos: ["images_bios/Alice_Longfellow.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
- "April 5, 2025",
+        dateCreated: "before 2006",
+        dateUpdated: "April 5, 2025",
 
         photoHeights: [],
         categories: ["Philanthropists", "Preservationists"],
@@ -485,8 +485,8 @@ l_bios = [
         `,
         photos: ["images_bios/maria_lowell.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
- "April 5, 2025",
+        dateCreated: "before 2006",
+        dateUpdated: "April 5, 2025",
 
         photoHeights: [],
         categories: [
@@ -541,10 +541,10 @@ l_bios = [
             book manuscripts<Br>
             Image source: https://en.wikipedia.org/wiki/Lois_Lowry
         `,
-        photos: ["images_bios/lois_lowry.jpg"],
+        photos: ["images_bios/Lois_Lowry.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
- "April 5, 2025",
+        dateCreated: "before 2006",
+        dateUpdated: "April 5, 2025",
 
         photoHeights: [],
         categories: ["Writers/Authors/Poets/Journalists/Editors"],
@@ -643,8 +643,8 @@ l_bios = [
         `,
         photos: ["images_bios/Florence%20Luscombe%201977%20small.jpeg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
- "",
+        dateCreated: "before 2006",
+        dateUpdated: "",
 
         photoHeights: [],
         categories: [

@@ -166,7 +166,7 @@ f_bios = [
       Cynthia R Daniels. <em>Exposing 
       Men: The Science and Politics of Male Reproduction</em>. New York (2006).<Br>
       https://woodsholemuseum.org/WHHWomen/GladysFriedler.html`,
-        photos: ["images_bios/friedler_gaby.jpg"],
+        photos: ["images_bios/Friedler_Gaby.jpg"],
         photoTitles: [],
         dateCreated: "before 2006",dateUpdated:
  "April 11, 205",

@@ -731,7 +731,7 @@ d_bios = [
 
       
         `,
-        photos: ["images_bios/Dorothea%20Dix%20LOC.GIF"],
+        photos: ["images_bios/Dorothea%20Dix%20LOC.gif"],
         photoTitles: [],
         dateCreated: "before 2006",
         dateUpdated: "",

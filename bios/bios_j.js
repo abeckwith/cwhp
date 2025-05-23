@@ -255,7 +255,7 @@ j_bios = [
             Schlesinger Library collections
             <br>Image source: https://en.wikipedia.org/wiki/Alice_Palache_Jones
         `,
-        photos: ["images_bios/alicepalache.png"],
+        photos: ["images_bios/AlicePalache.png"],
         photoTitles: [],
         dateCreated: "before 2006",dateUpdated:
  "",
