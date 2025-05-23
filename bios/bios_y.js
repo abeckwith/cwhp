@@ -13,7 +13,7 @@ y_bios = [
         deathLocation: "",
         narrative: `
 
-            Photo by Phyllis Bretholtz.
+            
         <br>Susan Yanow was born in 1952 in Oregon and grew up in San Francisco,
             California. She graduated from Galileo High School and attended the University of California Santa Cruz,
             graduating with a B.A. in Psychology in 1970. Yanow moved to the East Coast to attend Boston College&rsquo;s
@@ -129,9 +129,9 @@ y_bios = [
                 public health</em> vol. 103,1 (2013): 14-6. doi:10.2105/AJPH.2012.3011196
         `,
         photos: ["images_bios/Sarah Yanow_headshot 2018_small.jpg"],
-        photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
- "",
+        photoTitles: ["Photo by Phyllis Bretholtz"],
+        dateCreated: "before 2006",
+        dateUpdated: "",
         photoPos: [],
         photoHeights: [],
         categories: ["Activists", "Writers/Authors/Poets/Journalists/Editors"],
@@ -179,8 +179,8 @@ y_bios = [
     `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
- "",
+        dateCreated: "before 2006",
+        dateUpdated: "",
         photoPos: [],
         photoHeights: [],
         categories: ["Radio Hosts", "Refugees"],
@@ -229,8 +229,8 @@ y_bios = [
     `,
         photos: ["images_bios/YWCA%201916%20girls%20basketball%20team.jpeg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
- "April 12, 2025",
+        dateCreated: "before 2006",
+        dateUpdated: "April 12, 2025",
         photoPos: [],
         photoHeights: [],
         categories: ["Social or Philanthropic Organizations"],

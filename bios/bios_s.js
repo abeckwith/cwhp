@@ -51,7 +51,7 @@ s_bios = [
         references: `Oral interview by Sarah Boyer<br>
         Image source: https://ctacusa.com/about-us/staff/sylvia-saavedra-keber/
         `,
-        photos: ["images_bios/saavedra.jpg"],
+        photos: ["images_bios/Saavedra.jpg"],
         photoTitles: [],
         dateCreated: "before 2006",dateUpdated:
  "April 11, 2025",
@@ -390,7 +390,7 @@ s_bios = [
             http://oasis.lib.harvard.edu<br>
             Image from University of Chicago Photographic Archive, apf1-07690, Hanna Holborn Gray Special Collections Research Center, University of Chicago Library.
            `,
-        photos: ["images_bios/alice_kimball_smith.jpg"],
+        photos: ["images_bios/Alice_Kimball_Smith.jpg"],
         photoTitles: [],
         dateCreated: "before 2006",dateUpdated:
  "April 11, 2025",

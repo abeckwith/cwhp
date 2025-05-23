@@ -103,7 +103,7 @@ c_bios = [
             Cambridge Political Equality Association and for Grace A Johnson.<Br>
             Image source: Ida M. Tarbell Collection, 1890-1944, Merrick Archives and Special Collections, Pelletier Library, Allegheny College
         `,
-        photos: ["images_bios/CPEA.png"],
+        photos: ["images_bios/cpea.png"],
         photoTitles: [],
         dateCreated: "before 2006",dateUpdated:
  "",
