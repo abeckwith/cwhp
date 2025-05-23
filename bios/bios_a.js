@@ -58,7 +58,7 @@ a_bios = [
         deathDate: "00.00.1958",
         deathLocation: "Portsmouth, NH",
         narrative: ` 
-            Born and raised in a literary and religious family
+            CHECK....Born and raised in a literary and religious family
             in Cambridge, Eleanor Hallowell Abbott was the daughter of clergyman Edward
             Abbott who was rector at St James Episcopal Church and who edited a journal
             <em>Literary World</em>. Her grandfather, Jacob Abbott was a friend of Longfellow
