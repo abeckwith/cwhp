@@ -1,5 +1,4 @@
 g_bios = [
-   
     {
         organization: false,
         lastName: "Gatherwright",
@@ -33,9 +32,9 @@ g_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
- "",
-        
+        dateCreated: "before 2006",
+        dateUpdated: "",
+
         photoHeights: [],
         categories: ["Musicians"],
     },
@@ -92,9 +91,9 @@ g_bios = [
         `,
         photos: ["images_bios/gilman.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
- "",
-        
+        dateCreated: "before 2006",
+        dateUpdated: "",
+
         photoHeights: [],
         categories: [""],
     },
@@ -163,9 +162,9 @@ g_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
- "",
-        
+        dateCreated: "before 2006",
+        dateUpdated: "",
+
         photoHeights: [],
         categories: ["Educational", "Institutions/Schools"],
     },
@@ -239,9 +238,9 @@ g_bios = [
         `,
         photos: ["images_bios/louise_gluck.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
- "April 5, 2025",
-        
+        dateCreated: "before 2006",
+        dateUpdated: "April 5, 2025",
+
         photoHeights: [],
         categories: ["Writers/Authors/Poets/Journalists/Editors"],
     },
@@ -315,9 +314,9 @@ g_bios = [
         `,
         photos: ["images_bios/MiriamGoodman1.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
- "",
-        
+        dateCreated: "before 2006",
+        dateUpdated: "",
+
         photoHeights: [],
         categories: [
             "Photographers",
@@ -388,9 +387,9 @@ g_bios = [
         `,
         photos: ["images_bios/Alice_Bache_Gould.png"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
- "",
-        
+        dateCreated: "before 2006",
+        dateUpdated: "",
+
         photoHeights: [],
         categories: [
             "Educators/Teachers",
@@ -476,9 +475,9 @@ g_bios = [
         `,
         photos: ["images_bios/Saundra_Graham.png"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
- "April 5, 2025",
-        
+        dateCreated: "before 2006",
+        dateUpdated: "April 5, 2025",
+
         photoHeights: [],
         categories: ["Activists", "Political Leaders"],
     },
@@ -549,14 +548,16 @@ g_bios = [
                 post, 4/21/2017,</span> <span
                >https://www.facebook.com/pg/YWCACambMA/photos/?tab=album&amp;album_id=10155047494801125</span><br>
             <br>
-            Image source: YWCA of Cambridge
+          
 
         `,
-        photos: ["images_bios/renae_gray.jpg"],
-        photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
- "April 8, 2025",
-        
+        photos: ["images_bios/MicheleScottRenaeGray.jpg"],
+        photoTitles: [
+            "Michele Scott and Renae Gray <br>Photo Courtesy of Michele Scott",
+        ],
+        dateCreated: "before 2006",
+        dateUpdated: "April 8, 2025",
+
         photoHeights: [],
         categories: ["Activists", "Educators/Teachers"],
     },
@@ -644,9 +645,9 @@ g_bios = [
         `,
         photos: ["images_bios/suzanne_greene.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
- "April 8, 2025",
-        
+        dateCreated: "before 2006",
+        dateUpdated: "April 8, 2025",
+
         photoHeights: [],
         categories: ["Educators/Teachers", "Historians and History Projects"],
     },
@@ -680,9 +681,9 @@ g_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
- "",
-        
+        dateCreated: "before 2006",
+        dateUpdated: "",
+
         photoHeights: [],
         categories: [
             "Businesses and Service Providers (Women-Owned, Feminist)",

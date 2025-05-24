@@ -189,7 +189,6 @@ s_bios = [
 
         photoHeights: [],
         categories: ["Artists", "Writers/Authors/Poets/Journalists/Editors"],
-        "Shea, Mary Rose (Merlesena)": ["Activists", "Childcare Providers"],
     },
     {
         organization: false,
@@ -234,8 +233,8 @@ s_bios = [
             Montgomery, &#8220;Boston project creates new niche,&#8221; <em>Cleveland Plain
                 Dealer</em>, November 28, 2005.
         `,
-        photos: [""],
-        photoTitles: [],
+        photos: ["images_bios/MaryRoseShea.jpg"],
+        photoTitles: ["Photo Courtesy of the Shea Family"],
         dateCreated: "before 2006",
         dateUpdated: "April 7, 2025",
 

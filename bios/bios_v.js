@@ -34,8 +34,8 @@ v_bios = [
         otherNotes: "",
         references: `Nomination materials from Sylvia S. Keber.<Br>Cambridge Chronicle, January 31 1985
         `,
-        photos: [""],
-        photoTitles: [],
+        photos: ["images_bios/JuliaV.jpg"],
+        photoTitles: ["Photo Courtesy of Sylvia Saavedra-Keber"],
         dateCreated: "before 2006",dateUpdated:
  "April 6, 2025",
         

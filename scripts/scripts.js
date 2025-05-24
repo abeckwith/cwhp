@@ -226,7 +226,7 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
         //has a title first first image:
         if (person.photoTitles.length > 0 && person.photoTitles[0] != "")
             title =
-                '<tr><td align="center">' +
+                '<tr><td align="center" style="width:100px">' +
                 person.photoTitles[0] +
                 "</td></tr>";
         else title = "";

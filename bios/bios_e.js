@@ -101,7 +101,7 @@ photoPos:[],
             Cambridge Public Library <em>Annual Report</em> FY99
             <br>Image source: <em>Boston Globe</em>, Aug. 17, 2011
         `,
-        photos: ["images_bios/zelma_o_evelyn.png"],
+        photos: ["images_bios/ZelmaEvelyn.png"],
         photoTitles: [],
         dateCreated: "before 2006",dateUpdated:
  "April 5, 2025",
