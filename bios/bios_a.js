@@ -735,7 +735,7 @@ a clothing manufacturer. <Br><Br> Dominga's parents emigrated from the African i
         `,
         photos: ["images_bios/arditti.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "2003",
         dateUpdated: "April 6, 2025",
 
         photoHeights: [],

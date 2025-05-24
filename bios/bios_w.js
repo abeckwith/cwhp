@@ -235,7 +235,7 @@ w_bios = [
         `,
         photos: ["images_bios/bw-head-small.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "2003",
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],

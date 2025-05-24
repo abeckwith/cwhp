@@ -134,7 +134,7 @@ l_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "2003",
         dateUpdated: "",
 
         photoHeights: [],
