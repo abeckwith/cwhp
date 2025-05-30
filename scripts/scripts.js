@@ -775,6 +775,7 @@ function formatLocation(loc) {
  * Creates the menu bar at the top of each page
  * @param {Integer} whichOneGray the index of the menu item that will be set to grey
  */
+//testing
 function setMenu(whichOneGray) {
     menu =
         '<a id="0" class="top-links" href="index.html">Home</a>' +
