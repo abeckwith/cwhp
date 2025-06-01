@@ -1035,11 +1035,13 @@ m_bios = [
         deathLocation: "",
         narrative: `
         
-        <i>Robin McCree shares with the <b>Cambridge Black History Project</b> the story of what led her to become the first
+        <i>Robin McCree was the first
         Black female probation officer in the city of Cambridge, and then 
-        later, the first Black assistant clerk magistrate in the city of Cambridge</i>:
+        later, the first Black assistant clerk magistrate in the city of Cambridge</i>.<br><br>
+        Here, she shares her story with the <b>Cambridge Black History Project</b>:
        <h2> <a href='https://vimeo.com/725359798' target='_blank'>Robin McCree's story</a></h2><Br><Br>
-        <a href='https://cambridgeblackhistoryproject.org/'>The Cambridge Black HIstory Project homepage</a>
+        <a href='https://cambridgeblackhistoryproject.org/' target='_blank'>The Cambridge Black HIstory Project homepage
+        <Br><img src='images_util/CBHP.jpg' width='200'></a>
         
 
     
