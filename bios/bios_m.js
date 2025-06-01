@@ -920,84 +920,84 @@ m_bios = [
       Rosario Morales was an activist, feminist poet, visual artist, and major contemporary
        Puerto Rican author, with an interest in anthropology and radical social science.
 
- <Br><BR>
+            <Br><BR>
 
-Morales grew up in New York City speaking Spanish at home with her Puerto Rican immigrant
- parents and her siblings.  She transitioned to English as her primary language while
-  attending NYC schools.  She joined the communist party in 1949, where she met Richard 
-  (Dick) Levins. They married in 1950, and facing the blacklist and Dick's possible drafting
-   into the Korean War, moved to Puerto Rico in 1951, where they farmed and had two children.
-    In 1956 they returned to New York where Rosario was a visual artist and studied at City
-     College in New York. They returned to Puerto Rico in 1961, where Rosario did oil painting,
-      printmaking and explored a range of fiber arts. She was an amateur naturalist researching
-       and drawing bromeliads, and began studying anthropology in summer programs at the 
-       University of Michigan.
+            Morales grew up in New York City speaking Spanish at home with her Puerto Rican immigrant
+            parents and her siblings.  She transitioned to English as her primary language while
+            attending NYC schools.  She joined the communist party in 1949, where she met Richard 
+            (Dick) Levins. They married in 1950, and facing the blacklist and Dick's possible drafting
+            into the Korean War, moved to Puerto Rico in 1951, where they farmed and had two children.
+                In 1956 they returned to New York where Rosario was a visual artist and studied at City
+                College in New York. They returned to Puerto Rico in 1961, where Rosario did oil painting,
+                printmaking and explored a range of fiber arts. She was an amateur naturalist researching
+                and drawing bromeliads, and began studying anthropology in summer programs at the 
+                University of Michigan.
 
- <Br><BR>
+            <Br><BR>
 
-The family moved to Chicago in 1967, where Rosario entered the Masters program in 
-Anthropology at the University of Chicago and she and daughter Aurora were active 
-in the Chicago feminist movement.  They then moved to Cambridge in 1975 where Dick
- joined the faculty at the Harvard School of Public Health.  Morales and her 
- husband briefly taught a course together in a collective they formed called 
- The Center for Applied Science that was designed to look at learning, teaching, 
- and doing science as a collective.  They studied topics as varied as corn 
- pollination and ant colonies.  Rosario soon became involved in Cambridge political
-  movements, including the Take Back the Night marches, and did poetry readings 
-  and was part of several local writing groups.
+            The family moved to Chicago in 1967, where Rosario entered the Masters program in 
+            Anthropology at the University of Chicago and she and daughter Aurora were active 
+            in the Chicago feminist movement.  They then moved to Cambridge in 1975 where Dick
+            joined the faculty at the Harvard School of Public Health.  Morales and her 
+            husband briefly taught a course together in a collective they formed called 
+            The Center for Applied Science that was designed to look at learning, teaching, 
+            and doing science as a collective.  They studied topics as varied as corn 
+            pollination and ant colonies.  Rosario soon became involved in Cambridge political
+            movements, including the Take Back the Night marches, and did poetry readings 
+            and was part of several local writing groups.
 
- <Br><BR>
+            <Br><BR>
 
-In 1981, Rosario and Aurora both contributed pieces to <em>This Bridge Called My Back: 
-Writings by Radical Women of Color</em>, edited by Cher'rie Moraga and Gloria Anzald&#250;a, 
-and Morales would soon become a well-known figure among Cambridge feminists and poets.  
+            In 1981, Rosario and Aurora both contributed pieces to <em>This Bridge Called My Back: 
+            Writings by Radical Women of Color</em>, edited by Cher'rie Moraga and Gloria Anzald&#250;a, 
+            and Morales would soon become a well-known figure among Cambridge feminists and poets.  
 
- 
-<Br><BR>
-In the early 1980s, Morales gave regular poetry readings at the feminist bookstore
- New Words in Inman Square as well as at the Jefferson Park Writing Center, 
- Cambridge Poets in the Park, The Art of Black Music and Dance, and at the Strand
-  Theatre in Dorchester.  She also did a reading live on WGBH radio for International Women's Day.   
+            
+            <Br><BR>
+            In the early 1980s, Morales gave regular poetry readings at the feminist bookstore
+            New Words in Inman Square as well as at the Jefferson Park Writing Center, 
+            Cambridge Poets in the Park, The Art of Black Music and Dance, and at the Strand
+            Theatre in Dorchester.  She also did a reading live on WGBH radio for International Women's Day.   
 
- <Br><BR>
+            <Br><BR>
 
-In 1986, Morales published Getting Home Alive with her daughter Aurora, a groundbreaking 
-collection of multi-genre writing about being Puerto Rican women in
+            In 1986, Morales published Getting Home Alive with her daughter Aurora, a groundbreaking 
+            collection of multi-genre writing about being Puerto Rican women in
 
-Puerto Rico and the United States. Excerpts have been widely anthologized and 
-are used in textbooks from primary schools to graduate courses.  
+            Puerto Rico and the United States. Excerpts have been widely anthologized and 
+            are used in textbooks from primary schools to graduate courses.  
 
- <Br><BR>
+            <Br><BR>
 
-In 1987, she was one of 18 Massachusetts poets and writers whose work was inscribed
- in granite and installed along the new Orange Line MBTA stations.  In 1990, she 
- was part of the Community Writers series.
+            In 1987, she was one of 18 Massachusetts poets and writers whose work was inscribed
+            in granite and installed along the new Orange Line MBTA stations.  In 1990, she 
+            was part of the Community Writers series.
 
- <Br><BR>
+            <Br><BR>
 
-In the late 1990s she became part of the Women's Community Cancer Project, 
-formed by feminist cancer activists in Cambridge, Boston and Lexington. 
-The group advocated for new medical, social, and political approaches 
-to cancer-particularly cancers that affect women and educated the public 
-about environmental carcinogens. With artist Be Sargent, the group co-created
- a mural, installed at 20 Church St. In Cambridge, depicting women activists 
- who had died of cancer.  Rosario died of multiple myeloma, a cancer associated 
- with the pesticide dieldrin, in 2011. Her daughter Aurora moved to Cambridge 
- that year, and in 2014 published a collection of her own and Rosario's prose writing,
-  <em>Cosecha and Other Stories</em>.   
+            In the late 1990s she became part of the Women's Community Cancer Project, 
+            formed by feminist cancer activists in Cambridge, Boston and Lexington. 
+            The group advocated for new medical, social, and political approaches 
+            to cancer-particularly cancers that affect women and educated the public 
+            about environmental carcinogens. With artist Be Sargent, the group co-created
+            a mural, installed at 20 Church St. In Cambridge, depicting women activists 
+            who had died of cancer.  Rosario died of multiple myeloma, a cancer associated 
+            with the pesticide dieldrin, in 2011. Her daughter Aurora moved to Cambridge 
+            that year, and in 2014 published a collection of her own and Rosario's prose writing,
+            <em>Cosecha and Other Stories</em>.   
 
- <Br><BR>
+            <Br><BR>
 
-In 2005, Smith College's <em>Voices of Feminism Oral History Project</em> published an 
-extensive interview with Morales, reflecting on all parts of her life and her 
-life's work.  In it, she stated, "I fell in love with New England and really with
- the community of the feminist movement that I'm part of. It's my home. I've become
-  a New Englander in every way. They'll have to carry me out feet first, is what I 
-  keep saying...I have a lot of good friends here...I'm a member of the Women's 
-  Community Cancer Project, which is a woman's group. So I have these whole networks 
-  of friends, my writing group, of friends and groups and mostly women." 
+            In 2005, Smith College's <em>Voices of Feminism Oral History Project</em> published an 
+            extensive interview with Morales, reflecting on all parts of her life and her 
+            life's work.  In it, she stated, "I fell in love with New England and really with
+            the community of the feminist movement that I'm part of. It's my home. I've become
+            a New Englander in every way. They'll have to carry me out feet first, is what I 
+            keep saying...I have a lot of good friends here...I'm a member of the Women's 
+            Community Cancer Project, which is a woman's group. So I have these whole networks 
+            of friends, my writing group, of friends and groups and mostly women." 
 
-  
+            
         `,
         otherNotes: "",
         references: `
@@ -1020,5 +1020,43 @@ life's work.  In it, she stated, "I fell in love with New England and really wit
 
         photoHeights: [],
         categories: ["Activists", "Writers/Authors/Poets/Journalists/Editors"],
+    },
+      {
+        organization: false,
+        lastName: "McCree",
+        firstName: "Robin",
+        middleName: "",
+        familyName: "",
+        fileLetter: "",
+        title: `Probation officer and clerk magistrate in Cambridge`,
+        birthDate: "",
+        birthLocation: "",
+        deathDate: "",
+        deathLocation: "",
+        narrative: `
+        
+        <i>Robin McCree shares with the <b>Cambridge Black History Project</b> the story of what led her to become the first
+        Black female probation officer in the city of Cambridge, and then 
+        later, the first Black assistant clerk magistrate in the city of Cambridge</i>:
+       <h2> <a href='https://vimeo.com/725359798' target='_blank'>Robin McCree's story</a></h2><Br><Br>
+        <a href='https://cambridgeblackhistoryproject.org/'>The Cambridge Black HIstory Project homepage</a>
+        
+
+    
+        `,
+        otherNotes: "",
+        references: `
+        
+        `,
+        photos: [""
+          
+        ],
+        photoTitles: [
+        ],
+        dateCreated: "June 1, 2025",
+        dateUpdated: "",
+
+        photoHeights: [],
+        categories: ["Clerk", "Law enforcement"],
     },
 ];

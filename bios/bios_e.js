@@ -57,12 +57,11 @@ e_bios = [
                 `,
         photos: ["images_bios/martha_may_eliot.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
- "",
-photoPos:[],
+        dateCreated: "before 2006",
+        dateUpdated: "",
+        photoPos: [],
         photoHeights: [],
         categories: ["Physicians"],
-        
     },
     {
         organization: false,
@@ -103,12 +102,11 @@ photoPos:[],
         `,
         photos: ["images_bios/ZelmaEvelyn.png"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
- "April 5, 2025",
-photoPos:[],
+        dateCreated: "before 2006",
+        dateUpdated: "April 5, 2025",
+        photoPos: [],
         photoHeights: [],
         categories: ["Activists", "Volunteers"],
-        
     },
     {
         organization: false,
@@ -169,11 +167,84 @@ photoPos:[],
         `,
         photos: ["images_bios/tess_ewing.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
- "April 5, 2025",
-photoPos:[],
+        dateCreated: "before 2006",
+        dateUpdated: "April 5, 2025",
+        photoPos: [],
         photoHeights: [],
         categories: ["Activists", "Educators/Teachers"],
-        
     },
+     {
+        organization: false,
+        lastName: "Easterling",
+        firstName: "Dr. Ruth",
+        middleName: "Marguerite",
+        familyName: "",
+        fileLetter: "",
+        title: `Pathologist, First African American Woman to be Admitted to Tufts Medical School`,
+        birthDate: "02.17.1898",
+        birthLocation: "Georgetown Country, SC",
+        deathDate: "06.16.1943",
+        deathLocation: "Cambridge, MA",
+        narrative: `
+ 
+        Dr. Ruth Marguerite Easterling was born in South Carolina and raised in Cambridge, Massachusetts, 
+        residing much of her life at 55 Dana Street. She was the only child of James and Mary Easterling,
+        and her father worked as a railroad porter. Dr. Easterling attended the Ellis Grammar School at 
+        40 Norris Street and graduated from Cambridge High and Latin High School with honors. 
+        
+        <br><Br>Easterling attended
+        Jackson College for Women, a "coordinate" college of Tufts University, studying pre-medicine. 
+        In 1917, she was the first African American woman to be admitted to Tufts University School of 
+        Medicine, and she graduated in 1921.<Br><Br>
+
+        Dr. Easterling moved to New York to begin her internship at Metropolitan Hospital on Welfare Island, 
+        where she received training from New York Medical College faculty. Dr. Easterling began her career 
+        as a pathologist with Harvard Laboraties and Beth Israel Hospital in Boston. There she worked with
+        Dr. Augustus Hinton (a son of freed slaves), helping him with the Hinton test for syphilis. She 
+        later worked on tuberculosis research with Dr. John B. West, and their findings were published in
+        1939. Dr. Easterling also worked for a time at the Tuskegee Veterans Administration Hospital in
+        Alabama. <Br><Br>
+        She later returned to Cambridge and was named Director of Laboratories at the Cambridge 
+         City Hospital. In 1943, at the age of 45, she was diagnosed with breast cancer. 
+        <Br><Br>Upon her death that same year, she was recognized by the Massachusetts House of Representatives 
+        and the City of Cambridge for her enormous contributions to the community and science. Tufts 
+        University School of Medicine continues to celebrate her legacy with a portrait in the Sackler 
+        School of Graduate Biomedical Sciences and a scholarship in her name.
+
+           `,
+        otherNotes: "",
+        references: `
+        Obituary from The Boston Globe, June 1943<br>
+        Photo Source NIH US National Library of Medicine, Public Domain<br><br>
+
+        "Deaths and Funerals: Dr. Ruth Easterling." The Boston Globe, June 17, 1943, Boston, Massachusetts, page 11. 
+        <br>Retrieved from Newspapers.com on June 5, 2020: https://www.newspapers.com/clip/52830380/obituary-for-ruth-m-easterling/<br><br>
+
+        NIH National Library of Medicine Biography.<br>Retrieved June 2, 2020:
+        https://cfmedicine.nlm.nih.gov/physicians/biography_94.html<br><br>
+
+        "Deaths and Funerals: Dr. Ruth Easterling." The Boston Globe, June 17, 1943, Boston, Massachusetts, page 11.<br>
+        Retrieved from Newspapers.com on June 5, 2020: https://www.newspapers.com/clip/52830380/obituary-for-ruth-m-easterling/<br><br>
+
+        Tufts School of Medicine, Alumni Profiles.<br>
+        Retrieved on June 5, 2020:
+        https://medicine.tufts.edu/administration/multicultural-affairs/alumni-profiles<br><br>
+
+
+        Find a Grave Online Memorial.
+        <br>Retrieved by June 5, 2020: https://www.findagrave.com/memorial/139844089
+
+        `,
+        photos: ["images_bios/easterling.png", "images_bios/easterling2.png"],
+        photoTitles: [],
+        dateCreated: "June 2025 (written July 2020 - added to site 2025)",
+        dateUpdated: "",
+        photoPos: [],
+        photoHeights: [],
+        categories: ["Doctors"],
+    },
+
+
+   
+
 ];

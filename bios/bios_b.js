@@ -2130,4 +2130,72 @@ b_bios = [
         photoHeights: [],
         categories: [""],
     },
+      {
+        organization: false,
+        lastName: "Butcher",
+        firstName: "Susan",
+        middleName: "",
+        familyName: "",
+        fileLetter: "",
+        title: `Champion Dog Sled Racer`,
+        birthDate: "12.26.1954",
+        birthLocation: "Cambridge, MA",
+        deathDate: "08.05.2006",
+        deathLocation: "Seattle, WA",
+        narrative: `
+
+
+    Four-time Iditarod Champion, Susan Butcher, was born and grew up in Cambridge. She attended The 
+    Warehouse Cooperative School, an alternative school located in a vacated warehouse in an industrial 
+    area in Roxbury.  She attributed her love of outdoor adventures to vacations spent in the Maine woods 
+    during her childhood. Butcher studied to become a veterinary technician at Colorado State University. 
+    She moved to Alaska in 1975, to pursue her passion for dogsled racing and to train for the Iditarod 
+    Trail Sled Dog Race.<Br><Br>
+    Butcher, who raced in her first Iditarod, a grueling 1,100 mile race from Anchorage to
+    Nome, in 1978, finished in the top five from 1980 to 1984. In 1985, she was leading in the early
+    stages of the race when a sick and dying moose blundered into her path on the trail. A few
+    frantic minutes later, two of Butcher's dogs were dead, others were injured and she was out of
+    the race. In 1986, she became the second woman to win the race. She added victories in 1987,
+    1988, and 1990, and finished in the top four through 1993. Butcher finished in the top five in 12
+    of her 17 attempts at the Iditarod from 1978 to 1994. Her success brought unprecedented
+    attention to the race.<Br><Br>
+    Butcher's careful training and treatment of her dogs revolutionized the sport. She raised
+    and trained dogs with her husband at Trail Breakers Kennel near Fairbanks, Alaska. In a 1990
+    interview with the Boston Globe, Butcher commented on her relationship with her sled dogs,
+    “They used to say this race was one-third dog, one-third musher, and one-third luck, but I think
+    I changed that. I am meticulous about training and caring for my dogs. They're everything - my
+    friends, family, and co-workers. They are the athletes and are trained and chosen for
+    competition just like any athlete.”<Br><Br>
+    In 1994, Butcher ran her last Iditarod, when she decided to have children. She had two
+    daughters, Tekla and Chisana, with her husband, lawyer and musher, David Monson. She
+    passed away in 2006, at age 51, in Seattle, WA, from leukemia. In 2008, the Alaska state
+    legislature established Susan Butcher Day, to be observed on the first Saturday of March each
+    year. Later that year, the University of Alaska at Fairbanks announced the creation of the Susan
+    Butcher Institute, to develop public service and leadership skills among young Alaskans.
+            
+
+            `,
+        otherNotes: "",
+        references: ` Bernstein, V. Susan Butcher, Pioneer in Sled Dog Racing. (August 17, 2006). New York
+        Times. <Br>Retrieved 7/4/2020 from
+        https://www.nytimes.com/2006/08/07/sports/07butcher.html.<Br><Br>
+        Academy of Achievement (n.d). Interview with Susan Butcher, Champion Dog Sled Racer.
+        <Br>Retrieved 7/4/2020 from https://achievement.org/achiever/susan-butcher/#interview/<Br><Br>
+
+        Alaska Sports Hall of Fame (n.d.). Susan Butcher: Hard-nosed Competitor. <Br>Retrieved 7/4/2020
+        from http://alaskasports.wpengine.com/inductee/susan-butcher/
+        https://www.thecrimson.com/article/1974/5/24/the-warehouse-school-one-alternative-pthe/<Br><Br>
+        <Br>Photo source: https://commons.wikimedia.org/wiki/File:Fairbanks_-_Susan_Butcher_and_Dogs.jpg
+
+        `,
+        photos: ["images_bios/susan_butcher.jpg"],
+        photoTitles: [],
+        dateCreated: "June 2025 (written July 2020 - added to site 2025)",
+        dateUpdated: "",
+
+        photoHeights: [],
+        categories: ["Athlete"],
+    },
 ];
+
+

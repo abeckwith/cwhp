@@ -92,7 +92,7 @@ function showRecents(num) {
                     .split(delimiter)[0]
                     .substring(0, 3); //1st 3 chars: Jan
                 year = thename.dateCreated.split(delimiter)[1];
-
+                console.log(monthNameShort + ", " + year)
                 //find month number
                 monthNum = 0;
                 for (let index = 0; index < months.length; index++) {
@@ -121,9 +121,9 @@ function showRecents(num) {
                         thename.firstName +
                         " " +
                         thename.lastName +
-                        "</a>: " +
+                        "</a>:<b> " +
                         thename.title +
-                        ", added " +
+                        "</b><br>&nbsp;&nbsp;&nbsp; added " +
                         thename.dateCreated;
             }
         });
