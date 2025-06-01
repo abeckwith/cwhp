@@ -121,10 +121,10 @@ function showRecents(num) {
                         thename.firstName +
                         " " +
                         thename.lastName +
-                        "</a>:<b> " +
+                        "</a>:<i> " +
                         thename.title +
-                        "</b><br>&nbsp;&nbsp;&nbsp; added " +
-                        thename.dateCreated;
+                        "</i><br><span style='font-size:1.3vw'>&nbsp;&nbsp;&nbsp; added <b>" +
+                        thename.dateCreated + "</b></span>";
             }
         });
     });
