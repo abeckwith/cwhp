@@ -233,11 +233,11 @@ e_bios = [
 
         Find a Grave Online Memorial.
         <br>Retrieved by June 5, 2020: https://www.findagrave.com/memorial/139844089
-
+<br><Br><b>NOTE: bio written July 2020 - added to site in 2025
         `,
         photos: ["images_bios/easterling.png", "images_bios/easterling2.png"],
         photoTitles: [],
-        dateCreated: "June 1 2025 (written July 2020 - added to site 2025)",
+        dateCreated: "June 1, 2025 ",
         dateUpdated: "",
         photoPos: [],
         photoHeights: [],

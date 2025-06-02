@@ -2130,7 +2130,7 @@ b_bios = [
         photoHeights: [],
         categories: [""],
     },
-      {
+    {
         organization: false,
         lastName: "Butcher",
         firstName: "Susan",
@@ -2186,16 +2186,14 @@ b_bios = [
         from http://alaskasports.wpengine.com/inductee/susan-butcher/
         https://www.thecrimson.com/article/1974/5/24/the-warehouse-school-one-alternative-pthe/<Br><Br>
         <Br>Photo source: https://commons.wikimedia.org/wiki/File:Fairbanks_-_Susan_Butcher_and_Dogs.jpg
-
+<br><Br><b>NOTE: bio written July 2020 - added to site in 2025
         `,
         photos: ["images_bios/susan_butcher.jpg"],
         photoTitles: [],
-        dateCreated: "June 2025 (written July 2020 - added to site 2025)",
+        dateCreated: "June 1, 2025 ",
         dateUpdated: "",
 
         photoHeights: [],
         categories: ["Athlete"],
     },
 ];
-
-
