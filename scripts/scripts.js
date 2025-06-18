@@ -324,9 +324,12 @@ function makeSidebar(letterIndex, stepping, topical, search) {
         names = [];
         strippedNames = [];
         bioLetterList.forEach((thename) => {
+            // if(thename.middleName === "" && thename.firstName=== "")
+            //     lName = thename.lastName;
+            // else
+            lName = stripName(thename.lastName);
             fName = stripName(thename.firstName);
             mName = stripName(thename.middleName);
-            lName = stripName(thename.lastName);
             strippedNames.push([lName, mName, fName]);
 
             if (thename.firstName !== "") {
@@ -339,7 +342,8 @@ function makeSidebar(letterIndex, stepping, topical, search) {
                 names.push(
                     thename.lastName + ", " + thename.firstName + " " + mid
                 );
-            } else names.push(thename.lastName.substring(0, 20) + "..."); //too long
+            } 
+            else names.push(thename.lastName);//.substring(0, 20) + "..."); //too long
         });
         namesLists.push(names);
         strippedNamesList.push(strippedNames);

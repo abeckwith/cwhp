@@ -8,7 +8,7 @@ body {
     background-color: white; /*white;/*rgb(250, 235, 223);*/
     font-family: "Open Sans";
     margin-left: 2vh;
-    margin-right: 1vh;
+    margin-righd: 1vh;
     font-size: 2.2vh;
     /* overflow:hidden; */
 }
@@ -120,7 +120,9 @@ td > a {
     font-size: 18px;
     font-style: italic;
 }
-
+table{
+    font-size:89%; /* was 100% */
+}
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
     #recents {
@@ -144,7 +146,7 @@ td > a {
         font-size: 65%;
     }
     .name-link {
-        font-size: 254%;
+        font-size: 224%;
     }
     .letter-link {
         font-size: 100%;
