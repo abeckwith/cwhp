@@ -34,13 +34,16 @@ body {
     overflow-x: auto;
 }
 
-.name-link {
+.name-link, .letter-link {
     cursor: pointer;
-
     color: blue;
     text-decoration: underline;
 }
-.name-link:hover {
+.name-link{
+        padding-bottom: 4%;
+
+}
+.name-link:hover, .letter-link:hover {
     border: 1px solid black;
     border-radius: 5px;
 }
@@ -120,9 +123,9 @@ td > a {
     font-size: 18px;
     font-style: italic;
 }
-table{
-    font-size:89%; /* was 100% */
-}
+/* table{
+    font-size:89%; 
+} */
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
     #recents {
@@ -325,6 +328,7 @@ a.search-buttons {
     #myInput,
     #results a,
     .name-link,
+    .letter-link,
     li,
     li a,
     #all-sources,

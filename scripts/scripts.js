@@ -931,7 +931,7 @@ function init(topical, search) {
             ", false, " +
             topical +
             ", false" +
-            ')" class="name-link letter-links">' +
+            ')" class="letter-link letter-links">' +
             element.toUpperCase() +
             "</a>";
     }
