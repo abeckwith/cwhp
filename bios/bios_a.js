@@ -539,7 +539,7 @@ as a writer were recognized only after her death. The founding members, who incl
         familyName: "",
         fileLetter: "",
         title: `Stitcher`,
-        birthDate: "07.10.1994",
+        birthDate: "07.10.1904",
         birthLocation: "New Bedford, MA",
         deathDate: "11.05.1999",
         deathLocation: "Cambridge, MA",

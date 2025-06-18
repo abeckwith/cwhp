@@ -347,6 +347,7 @@ function makeSidebar(letterIndex, stepping, topical, search) {
     //build each entry, clickable:
     if (!topical && !search) {
         for (i = 0; i < namesLists[letterIndex].length; i++) {
+            firstCommaLast = namesLists[letterIndex][i];
             if (search) add = "' target='_blank";
             else add = "'";
             html +=
@@ -355,7 +356,8 @@ function makeSidebar(letterIndex, stepping, topical, search) {
                 "-" +
                 i +
                 "'>" +
-                "<a href='bios.html?lNm=" +
+                "<a title='" + 
+                firstCommaLast + "' href='bios.html?lNm=" +
                 strippedNamesList[letterIndex][i][0] +
                 "&mNm=" +
                 strippedNamesList[letterIndex][i][1] +
@@ -363,7 +365,7 @@ function makeSidebar(letterIndex, stepping, topical, search) {
                 strippedNamesList[letterIndex][i][2] +
                 add +
                 "'>" +
-                namesLists[letterIndex][i] +
+                firstCommaLast +
                 "</a></td></tr>";
         }
     }
