@@ -910,7 +910,8 @@ b_bios = [
             to the United States. Bishop's book <em>Complete Poems</em>, was awarded
             the National Book Award in 1970. That year Bishop began to teach at Harvard
             University where she remained for seven years, also spending short stints at
-            the University of Washington, New York University. Shortly before her death,
+            the University of Washington, New York University.
+            <br><Br> Shortly before her death,
             she also taught at Massachusetts Institute for Technology. In 1976, Bishop became
             the first American and the first woman to be awarded the Books Abroad/Neustadt
             International Prize for Literature. That same year, Bishop published her final
@@ -2162,10 +2163,10 @@ b_bios = [
     Butcher's careful training and treatment of her dogs revolutionized the sport. She raised
     and trained dogs with her husband at Trail Breakers Kennel near Fairbanks, Alaska. In a 1990
     interview with the Boston Globe, Butcher commented on her relationship with her sled dogs,
-    “They used to say this race was one-third dog, one-third musher, and one-third luck, but I think
+    "They used to say this race was one-third dog, one-third musher, and one-third luck, but I think
     I changed that. I am meticulous about training and caring for my dogs. They're everything - my
     friends, family, and co-workers. They are the athletes and are trained and chosen for
-    competition just like any athlete.”<Br><Br>
+    competition just like any athlete."<Br><Br>
     In 1994, Butcher ran her last Iditarod, when she decided to have children. She had two
     daughters, Tekla and Chisana, with her husband, lawyer and musher, David Monson. She
     passed away in 2006, at age 51, in Seattle, WA, from leukemia. In 2008, the Alaska state
@@ -2195,5 +2196,107 @@ b_bios = [
 
         photoHeights: [],
         categories: ["Athlete"],
+    },
+     {
+        organization: false,
+        lastName: "Beckwith",
+        firstName: "Barbara",
+        middleName: "",
+        familyName: "Shutt",
+        fileLetter: "",
+        title: `Activist, Teacher, Writer`,
+        birthDate: "1937",
+        birthLocation: "Brooklyn, NY",
+        deathDate: "",
+        deathLocation: "",
+        narrative: `
+
+
+        Barbara Beckwith grew up in New York, Pennsylvania and New Jersey, moving to 
+        Cambridge in 1965 where she enthusiastically took on the roles of activist, journalist, 
+        teacher, and writer.<br><Br>
+
+        In the 1970s and 1980s, Barbara was involved in local fights for rent control, educational 
+        access, withdrawal from the Vietnam War, women's liberation, ending the nuclear arms race, 
+        social responsibility in science, and writers' rights.<br><Br>
+
+        In the 1970s, she went door-to-door to advocate for rent control, and then for ending the 
+        Vietnam War. In 1980s, alarmed by the nuclear arms buildup during President Reagan's 
+        presidency, she and other Cambridge women formed an affinity group and participated in civil 
+        disobedience at various sites, including at an arms marketing event at the Colonnade Hotel in
+        Cambridge. Arrested twice for trespassing, she did community service, per a judge's orders.<br><Br>
+
+        Barbara was committed to Cambridge's public schools, which her two sons attended. 
+        She helped launch the Cambridge School Volunteers Program (museum kits and speakers programs) 
+        and the city's after-school program. As education chair of the Civic Unity Committee, 
+        she pressed for more Black teachers, library books, curriculum, and participated in the 
+        hiring of Cambridge's first African American Superintendent of Schools, Alfonso Cheatham.
+        As Clerk of the Cambridge Civic Association, she worked on progressive platforms.<br><Br>
+
+        Barbara taught English for 12 years at Pilot School in Cambridge and Home Base in 
+        Watertown, both alternative public high schools. She developed courses on subjects such 
+        as <i>Real People</i> (interviewing), <i>Language and Power</i>, and <i>Assertiveness</i>.<br><Br>
+
+        She worked with Cambridge-based non-profit FairTest to co-author <i>Standing Up to the SAT</i> 
+        (ARCO, 1989), a critique of standardized tests. In the 1990s, she was active in Cambridge-based
+        Educators for Social Responsibility, where she and other teachers developed teaching guides 
+        on nuclear issues and concepts of peace. She served on the editorial board of Science for 
+        the People, based in Central Square, and with her husband Jon, was active in its sociobiology
+         study group.<br><Br>
+
+        Barbara returned to college in her 40s to get a journalism degree, worked at the Middlesex 
+        News and Brookline Chronicle, and then became a freelance writer (the Cambridge Chronicle published 
+        her first feature article on Huron Ave women business owners.) She published articles and 
+        essays in local, regional, national and movement/feminist newspapers, magazines, anthologies, 
+        and radio. She was for many years a news editor and contributor to the Cambridge-based feminist
+        journal, <i>Sojourner: the Women's Forum</i>.<br><Br>
+
+        In the 1990s, she taught journalism as an adjunct professor at Framingham State College, 
+        Suffolk University, and Emerson College, and led journalism, travel and essay writing workshops
+        at the Cambridge Center for Adult Education. Barbara was a National Writers Union's activist
+        and Boston Chapter Steering Committee member, serving three terms on the national executive
+        board. In 1991, PEN New England awarded her their "Friend to Writers" award for organizing
+            biennial "For Love AND Money" writers' conferences held at the John F Kennedy School of
+            Government. She was also the union's Series Advisor for the <i>Writers Life</i> monthly speaker
+            series at the Cambridge Center for Adult Education.<br><Br>
+
+        As a member of the NWU national and local diversity committees, Barbara worked to prioritize 
+        issues vital to writers of color, LGBTQ writers, and writers with disabilities. She built a 
+        "Publishers and Editors Who Work with Writers of Color" database. She also worked with 100 
+        writers to produce the union's <i>Building Strength Through Diversity</i> handbook (2002).<br><Br>
+
+        The more Barbara became aware of the complexity of anti-Black racism, she determined to take 
+        action in every sphere (institutional, interpersonal, individual) of her life. She joined 
+        Community Change Inc's anti-racism library committee, and volunteered as a Gustavus Meyers 
+        Awards book reviewer.<br><Br>
+
+        In the 1990s, she worked to challenge institutional, cultural, and individual racism. In 2001,
+        She became a co-facilitator of <i>"White People Challenging Racism: Moving from Talk to Action"</i> 
+        workshops at the Cambridge Center for Adult Education, and co-led workshops or spoke at White
+        Privilege conferences, at racial justice conferences in Connecticut, Pennsylvania, and at
+        Cambridge's Women's Explore lecture/discussion series.<br><Br>
+
+        She compiled her personal essays that pondered white privilege and racism (including her own) 
+        into a booklet series: <i>What Was I Thinking? Reflecting on Everyday Racism</i> (2009), <i>Digging Deeper
+        into Everyday Racism</i> (2013) and <i>Questions and Quandaries</i> (2015) exploring everyday racism, including her own.
+        <br><Br>
+        In her 80s, Barbara coached a Women's Writing Workshop for older women who live in Mission Hill,
+        Fenway, Jamaica Plain, Roxbury and Dorchester. The free workshop culminated in <i>From Our Notebooks:
+        Essays, Stories, and Reflections</i> booklets (2017, 2019).<br><Br>
+
+        Barbara increasingly found her niche in essay writing, so when her husband was diagnosed with 
+        Alzheimer's disease in 2020, she wrote a series of personal essays on their experience, as a way
+        to find perspective.
+            `,
+        otherNotes: "",
+        references: ` Interview and email exchange with Barbara Beckwith
+        `,
+        photos: ["images_bios/barbarabeckwith.jpg"],
+        photoTitles: [],
+        dateCreated: "June 21, 2025 ",
+        dateUpdated: "",
+
+        photoHeights: [],
+        categories: ["Activists", "Writers/Authors/Poets/Journalists/Editors", "Teachers"],
     },
 ];

@@ -710,7 +710,7 @@ a clothing manufacturer. <Br><Br> Dominga's parents emigrated from the African i
             breast cancer, she co-founded the Women's Community Cancer Project, a grassroots
             all-volunteer project committed to cancer education and prevention for women.
             The work of the Project has focused mostly on the connections between cancer
-            and the environment. <br>
+            and the environment. <br><Br>
             Her work on behalf of the Argentine Human Rights movement in the eighties brought
             her in contact with the Grandmothers of the Plaza de Mayo in Argentina, a group
             committed to truth and justice and the restitution of their true identity to

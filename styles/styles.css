@@ -173,6 +173,7 @@ td > a {
     #menu-bar {
         font-size: 30vw;
     }
+  
 }
 /* table{font-size:20%! important;} */
 
@@ -344,6 +345,7 @@ a.search-buttons {
     #bio-container {
         width: 60vw;
         font-size: 15px;
+        /* margin: 2vh 5vw; */
     }
     a {
         font-size: 10px;

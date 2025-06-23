@@ -186,7 +186,7 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
     person = bios[ltrIndex][indexOfPerson];
     currentLetter = ltrIndex;
     currentPersonIndex = indexOfPerson;
-    let html = "<div id='bio-container' style='margin: 2vh 5vw;'>";
+    let html = "<div id='bio-container' style='margin: 2vw 13vw 2vw 6vw; line-height:1.7'>";
 
     //name:
     html += "<div class='name-heading'><strong>";
