@@ -46,7 +46,7 @@ p_bios = [
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
-        categories: ["Community Leaders"],
+        categories: ["Community Leader"],
     },
     {
         organization: false,
@@ -99,7 +99,7 @@ p_bios = [
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
-        categories: ["Community Leaders", "Nurses"],
+        categories: ["Community Leader", "Nurse"],
     },
     {
         organization: false,
@@ -159,7 +159,7 @@ p_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Activists"],
+        categories: ["Activist"],
     },
     {
         organization: false,
@@ -217,7 +217,7 @@ p_bios = [
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
-        categories: ["Scientists"],
+        categories: ["Scientist"],
     },
     {
         organization: false,
@@ -281,7 +281,7 @@ p_bios = [
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
-        categories: ["Reformers", "Writers/Authors/Poets/Journalists/Editors"],
+        categories: ["Reformer", "Writers/Authors/Poets/Journalists/Editors"],
     },
     {
         organization: false,
@@ -333,6 +333,6 @@ p_bios = [
         dateUpdated: "Apirl 12, 2025",
 
         photoHeights: [],
-        categories: ["Physical Therapists ", "Volunteers"],
+        categories: ["Physical Therapist ", "Volunteers"],
     },
 ];

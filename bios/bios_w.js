@@ -32,7 +32,7 @@ w_bios = [
         dateUpdated: "April 6, 2025",
 
         photoHeights: [],
-        categories: ["Educators/Teachers"],
+        categories: ["Teacher/Educator"],
     },
     {
         organization: false,
@@ -91,7 +91,7 @@ w_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Activists", "Educators/Teachers", "Volunteers"],
+        categories: ["Activist", "Teacher/Educator", "Volunteers"],
     },
     {
         organization: false,
@@ -214,7 +214,7 @@ w_bios = [
             more than an inspiration to the early battered women's movement. She provided
             critical analysis of &#8220;male-pattern violence,&#8221; offered support to
             struggling feminists establishing women's centers and shelters, and established
-            a broad, international network of women and men activists committed to ending
+            a broad, international network of women and men Activists committed to ending
             men's violence toward women. To say we are profoundly indebted to her
             vision, passion and dedication is an understatement. Her contributions are beyond
             comprehension and certainly far exceed this modest herstory of Betsy Warrior.&#8221;
@@ -239,7 +239,7 @@ w_bios = [
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
-        categories: ["Activists", "Writers/Authors/Poets/Journalists/Editors"],
+        categories: ["Activist", "Writers/Authors/Poets/Journalists/Editors"],
     },
     {
         organization: false,
@@ -307,7 +307,7 @@ w_bios = [
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
-        categories: ["Political Leaders"],
+        categories: ["Political Leader"],
     },
     {
         organization: false,
@@ -350,7 +350,7 @@ w_bios = [
             in 1902, and it was installed in Cambridge rather than Boston. <br><br>
              She
             was an active member of the woman suffrage movement and was a close friend as
-            well as a cousin of the activist, Lucy Stone. She lived in Boston and summered
+            well as a cousin of the Activist, Lucy Stone. She lived in Boston and summered
             in the White Mountains in Shelburne, New Hampshire until her death in 1915.
             She is buried in Mount Auburn Cemetery, Cambridge. Her papers are held in the
             Wellesley College Archives.
@@ -373,7 +373,7 @@ w_bios = [
         dateUpdated: "April 8, 2025",
 
         photoHeights: [],
-        categories: ["Artists", "Writers/Authors/Poets/Journalists/Editors"],
+        categories: ["Artist", "Writers/Authors/Poets/Journalists/Editors"],
     },
     {
         organization: false,
@@ -419,7 +419,7 @@ w_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Factory Workers", "Volunteers"],
+        categories: ["Factory Worker", "Volunteers"],
     },
     {
         organization: true,
@@ -487,7 +487,7 @@ w_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Refugees", "Social or Philanthropic Organizations"],
+        categories: ["Refugee", "Social/Philanthropic Organization"],
     },
     {
         organization: false,
@@ -519,7 +519,7 @@ w_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Educators/Teachers"],
+        categories: ["Teacher/Educator"],
     },
     {
         organization: false,
@@ -587,7 +587,7 @@ w_bios = [
 
         photoHeights: [],
         categories: [
-            "Community Leaders",
+            "Community Leader",
             "Writers/Authors/Poets/Journalists/Editors",
         ],
     },
@@ -693,7 +693,7 @@ w_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Community Leaders", "Political Leaders"],
+        categories: ["Community Leader", "Political Leader"],
     },
     {
         organization: false,
@@ -744,7 +744,7 @@ w_bios = [
         dateUpdated: "April 6, 2025",
 
         photoHeights: [],
-        categories: ["Political Leaders", "Refugees"],
+        categories: ["Political Leader", "Refugee"],
     },
     {
         organization: true,
@@ -794,8 +794,8 @@ w_bios = [
 
         photoHeights: [],
         categories: [
-            "Educational Institutions/Schools",
-            "Feminist Organizations",
+            "Educational Institution/School",
+            "Feminist Organization",
         ],
     },
     {
@@ -848,7 +848,7 @@ w_bios = [
         dateUpdated: "April 11, 2025",
 
         photoHeights: ["100"],
-        categories: ["Feminist Organizations"],
+        categories: ["Feminist Organization"],
     },
     {
         organization: true,
@@ -910,7 +910,7 @@ w_bios = [
 
         photoHeights: [],
         categories: [
-            "Businesses and Service Providers (Women-Owned, Feminist)",
+            "Business or Service Provider (Women-Owned, Feminist)",
         ],
     },
     {
@@ -963,7 +963,7 @@ w_bios = [
 
         photoHeights: [],
         categories: [
-            "Businesses and Service Providers (Women-Owned, Feminist)",
+            "Business or Service Provider (Women-Owned, Feminist)",
         ],
     },
     {
@@ -1006,8 +1006,8 @@ w_bios = [
 
         photoHeights: [],
         categories: [
-            "Educational Institutions/Schools",
-            "Feminist Organizations",
+            "Educational Institution/School",
+            "Feminist Organization",
         ],
     },
 ];

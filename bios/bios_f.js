@@ -53,7 +53,7 @@ f_bios = [
  "",
         photoPos: [],
         photoHeights: [],
-        categories: ["Activists", "Educators/Teachers"],
+        categories: ["Activist", "Teacher/Educator"],
     },
     {
         organization: true,
@@ -107,7 +107,7 @@ f_bios = [
         photoPos: [],
         photoHeights: [],
         categories: [
-            "Businesses and Service Providers (Women-Owned, Feminist)",
+            "Business or Service Provider (Women-Owned, Feminist)",
         ],
     },
     {
@@ -172,7 +172,7 @@ f_bios = [
  "April 11, 205",
         photoPos: [],
         photoHeights: [],
-        categories: ["Scientists"],
+        categories: ["Scientist"],
     },
     {
         organization: false,
@@ -219,7 +219,7 @@ f_bios = [
  "",
         photoPos: [],
         photoHeights: [],
-        categories: ["Artists"],
+        categories: ["Artist"],
     },
     {
         organization: false,
@@ -292,7 +292,7 @@ In
         photoPos: [],
         photoHeights: [],
         categories: [
-            "Social or Philanthropic Organizations",
+            "Social/Philanthropic Organization",
             "Writers/Authors/Poets/Journalists/Editors",
         ],
     },

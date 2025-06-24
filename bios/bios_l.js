@@ -59,7 +59,7 @@ l_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Psychologists", "Educators/Teachers"],
+        categories: ["Psychologist", "Teacher/Educator"],
     },
     {
         organization: false,
@@ -138,7 +138,7 @@ l_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Childcare Providers"],
+        categories: ["Childcare Provider"],
     },
     {
         organization: false,
@@ -180,7 +180,7 @@ l_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Scientists"],
+        categories: ["Scientist"],
     },
     {
         organization: true,
@@ -218,7 +218,7 @@ l_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Feminist Organizations"],
+        categories: ["Feminist Organization"],
     },
     {
         organization: false,
@@ -303,7 +303,7 @@ l_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Educators/Teachers"],
+        categories: ["Teacher/Educator"],
     },
     {
         organization: false,
@@ -380,7 +380,7 @@ l_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Nurses", "Volunteers", "Community Leaders"],
+        categories: ["Nurse", "Volunteers", "Community Leader"],
     },
     {
         organization: false,
@@ -435,7 +435,7 @@ l_bios = [
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
-        categories: ["Philanthropists", "Preservationists"],
+        categories: ["Philanthropist", "Preservationist"],
     },
     {
         organization: false,
@@ -490,7 +490,7 @@ l_bios = [
 
         photoHeights: [],
         categories: [
-            "Abolitionists",
+            "Abolitionist",
             "Writers/Authors/Poets/Journalists/Editors",
         ],
     },
@@ -648,9 +648,9 @@ l_bios = [
 
         photoHeights: [],
         categories: [
-            "Activists",
-            "Suffragists and Suffrage Groups",
-            "Architects",
+            "Activist",
+            "Suffragists/Suffrage Group",
+            "Architect",
         ],
     },
 ];

@@ -40,7 +40,7 @@ v_bios = [
  "April 6, 2025",
         
         photoHeights: [],
-        categories: ["Activists"],
+        categories: ["Activist"],
     },
     {
         organization: false,
@@ -95,6 +95,6 @@ v_bios = [
  "April 12, 2025",
         
         photoHeights: [],
-        categories: ["Actresses", "Educators/Teachers", "Musicians"],
+        categories: ["Actress", "Teacher/Educator", "Musician"],
     },
 ];

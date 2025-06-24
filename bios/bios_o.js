@@ -60,7 +60,7 @@ o_bios = [
  "",
         
         photoHeights: [],
-        categories: ["Historians and History Projects"],
+        categories: ["Historian/History Project"],
     },
 
     {
@@ -121,6 +121,6 @@ o_bios = [
  "April 12, 2025",
         
         photoHeights: [],
-        categories: ["Librarians", "Writers/Authors/Poets/Journalists/Editors"],
+        categories: ["Librarian", "Writers/Authors/Poets/Journalists/Editors"],
     },
 ];

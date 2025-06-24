@@ -61,6 +61,6 @@ i_bios = [
         dateUpdated: "April 5, 2025",
         photoPos: [],
         photoHeights: [],
-        categories: ["Educators/Teachers"],
+        categories: ["Teacher/Educator"],
     },
 ];

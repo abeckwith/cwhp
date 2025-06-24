@@ -61,7 +61,7 @@ e_bios = [
         dateUpdated: "",
         photoPos: [],
         photoHeights: [],
-        categories: ["Physicians"],
+        categories: ["Doctor"],
     },
     {
         organization: false,
@@ -106,7 +106,7 @@ e_bios = [
         dateUpdated: "April 5, 2025",
         photoPos: [],
         photoHeights: [],
-        categories: ["Activists", "Volunteers"],
+        categories: ["Activist", "Volunteers"],
     },
     {
         organization: false,
@@ -115,7 +115,7 @@ e_bios = [
         middleName: "",
         familyName: "",
         fileLetter: "",
-        title: `Labor and community activist, educator`,
+        title: `Labor and community Activist, educator`,
         birthDate: "07.27.1946",
         birthLocation: "Boston, MA",
         deathDate: "",
@@ -171,7 +171,7 @@ e_bios = [
         dateUpdated: "April 5, 2025",
         photoPos: [],
         photoHeights: [],
-        categories: ["Activists", "Educators/Teachers"],
+        categories: ["Activist", "Teacher/Educator"],
     },
      {
         organization: false,
@@ -241,7 +241,7 @@ e_bios = [
         dateUpdated: "",
         photoPos: [],
         photoHeights: [],
-        categories: ["Doctors"],
+        categories: ["Doctor"],
     },
 
 

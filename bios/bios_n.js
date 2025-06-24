@@ -52,7 +52,7 @@ n_bios = [
 photoPos:[],
         photoHeights: ["150"],
         categories: [
-            "Businesses and Service Providers (Women-Owned, Feminist)",
+            "Business or Service Provider (Women-Owned, Feminist)",
         ],
         
     },

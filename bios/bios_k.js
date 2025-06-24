@@ -58,7 +58,7 @@ k_bios = [
         dateUpdated: "April 6, 2025",
         photoHeights: [],
         categories: [
-            "Political Leaders",
+            "Political Leader",
             "Writers/Authors/Poets/Journalists/Editors",
         ],
     },
@@ -122,6 +122,6 @@ k_bios = [
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
-        categories: ["Scientists"],
+        categories: ["Scientist"],
     },
 ];

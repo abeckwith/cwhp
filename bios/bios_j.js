@@ -63,10 +63,10 @@ j_bios = [
         
         photoHeights: [],
         categories: [
-            "Reformers",
-            "Suffragists and Suffrage Groups",
-            "Abolitionists",
-            "Refugees",
+            "Reformer",
+            "Suffragists/Suffrage Group",
+            "Abolitionist",
+            "Refugee",
         ],
     },
     {
@@ -140,8 +140,8 @@ j_bios = [
         
         photoHeights: [],
         categories: [
-            "Educators/Teachers",
-            "Political Leaders",
+            "Teacher/Educator",
+            "Political Leader",
             "Writers/Authors/Poets/Journalists/Editors",
         ],
     },
@@ -202,9 +202,9 @@ j_bios = [
         
         photoHeights: [],
         categories: [
-            "Activists",
-            "Political Leaders",
-            "Suffragists and Suffrage Groups",
+            "Activist",
+            "Political Leader",
+            "Suffragists/Suffrage Group",
         ],
     },
     {
@@ -261,6 +261,6 @@ j_bios = [
  "",
         
         photoHeights: [],
-        categories: ["Business Women"],
+        categories: ["Businesswoman"],
     },
 ];

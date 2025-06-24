@@ -43,7 +43,7 @@ a_bios = [
         dateCreated: "before 2006",
         dateUpdated: "",
 
-        categories: ["Political Leaders"],
+        categories: ["Political Leader"],
     },
     {
         organization: false,
@@ -236,7 +236,7 @@ a_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Educators/Teachers"],
+        categories: ["Teacher/Educator"],
     },
     {
         organization: false,
@@ -279,7 +279,7 @@ a_bios = [
 
         photoHeights: [],
         categories: [
-            "Historians and History Projects",
+            "Historian/History Project",
             "Writers/Authors/Poets/Journalists/Editors",
         ],
     },
@@ -321,7 +321,7 @@ a_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Community Leaders"],
+        categories: ["Community Leader"],
     },
     {
         organization: false,
@@ -451,7 +451,7 @@ as a writer were recognized only after her death. The founding members, who incl
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Nurses"],
+        categories: ["Nurse"],
     },
     {
         organization: false,
@@ -485,7 +485,7 @@ as a writer were recognized only after her death. The founding members, who incl
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Activists"],
+        categories: ["Activist"],
     },
     {
         organization: false,
@@ -529,7 +529,7 @@ as a writer were recognized only after her death. The founding members, who incl
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Activists"],
+        categories: ["Activist"],
     },
     {
         organization: false,
@@ -568,7 +568,7 @@ a clothing manufacturer. <Br><Br> Dominga's parents emigrated from the African i
         dateUpdated: "March 2025",
 
         photoHeights: [],
-        categories: ["Factory Workers"],
+        categories: ["Factory Worker"],
     },
     {
         organization: false,
@@ -614,7 +614,7 @@ a clothing manufacturer. <Br><Br> Dominga's parents emigrated from the African i
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Sportswomen", "Educators/Teachers"],
+        categories: ["Sportswoman", "Teacher/Educator"],
     },
     {
         organization: false,
@@ -739,7 +739,7 @@ a clothing manufacturer. <Br><Br> Dominga's parents emigrated from the African i
         dateUpdated: "April 6, 2025",
 
         photoHeights: [],
-        categories: ["Community Leaders", "Scientists"],
+        categories: ["Community Leader", "Scientist"],
     },
     {
         organization: false,
@@ -787,7 +787,7 @@ a clothing manufacturer. <Br><Br> Dominga's parents emigrated from the African i
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Community Leaders"],
+        categories: ["Community Leader"],
     },
     {
         organization: false,
@@ -824,7 +824,7 @@ a clothing manufacturer. <Br><Br> Dominga's parents emigrated from the African i
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Activists"],
+        categories: ["Activist"],
     },
     {
         organization: false,

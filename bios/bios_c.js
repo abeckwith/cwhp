@@ -66,7 +66,7 @@ c_bios = [
  "",
 
         photoHeights: [],
-        categories: ["Social or Philanthropic Organizations"],
+        categories: ["Social/Philanthropic Organization"],
     },
     {
         organization: true,
@@ -109,7 +109,7 @@ c_bios = [
  "",
 
         photoHeights: [215],
-        categories: ["Suffragists and Suffrage Groups"],
+        categories: ["Suffragists/Suffrage Group"],
     },
     {
         organization: true,
@@ -172,7 +172,7 @@ c_bios = [
  "",
 
         photoHeights: [],
-        categories: ["Educational", "Institutions/Schools"],
+        categories: ["Educational Institution/School", "School/Institution"],
     },
     {
         organization: false,
@@ -237,7 +237,7 @@ c_bios = [
  "",
 
         photoHeights: [],
-        categories: ["Scientists", "Suffragists and Suffrage Groups"],
+        categories: ["Scientist", "Suffragists/Suffrage Group"],
     },
     {
         organization: false,
@@ -335,7 +335,7 @@ c_bios = [
  "",
 
         photoHeights: [],
-        categories: ["Social or Philanthropic Organizations", "Women's Clubs"],
+        categories: ["Social/Philanthropic Organization", "Women's Club"],
     },
     {
         organization: true,
@@ -381,7 +381,7 @@ c_bios = [
  "",
 
         photoHeights: [],
-        categories: ["Feminist Organizations"],
+        categories: ["Feminist Organization"],
     },
     {
         organization: true,
@@ -426,7 +426,7 @@ c_bios = [
  "",
 
         photoHeights: [],
-        categories: ["Social or Philanthropic Organizations"],
+        categories: ["Social/Philanthropic Organization"],
     },
     {
         organization: false,
@@ -484,7 +484,7 @@ c_bios = [
  "",
 
         photoHeights: [],
-        categories: ["Educators/Teachers", "Psychologists"],
+        categories: ["Teacher/Educator", "Psychologist"],
     },
     {
         organization: false,
@@ -531,7 +531,7 @@ c_bios = [
  "April 11, 2025",
 
         photoHeights: [],
-        categories: ["Business Women", "Chefs"],
+        categories: ["Businesswoman", "Chef"],
     },
     {
         organization: false,
@@ -588,7 +588,7 @@ c_bios = [
  "",
 
         photoHeights: [],
-        categories: ["Chefs"],
+        categories: ["Chef"],
     },
     {
         organization: true,
@@ -640,8 +640,8 @@ c_bios = [
 
         photoHeights: [],
         categories: [
-            "Childcare Providers",
-            "Businesses and Service Providers (Women-Owned, Feminist)",
+            "Childcare Provider",
+            "Business or Service Provider (Women-Owned, Feminist)",
         ],
     },
     {
@@ -681,7 +681,7 @@ c_bios = [
 
         photoHeights: [],
         categories: [
-            "Businesses and Service Providers (Women-Owned, Feminist)",
+            "Business or Service Provider (Women-Owned, Feminist)",
         ],
     },
     {
@@ -728,7 +728,7 @@ c_bios = [
 
         photoHeights: [],
         categories: [
-            "Businesses and Service Providers (Women-Owned, Feminist)",
+            "Business or Service Provider (Women-Owned, Feminist)",
         ],
     },
     {
@@ -792,7 +792,7 @@ c_bios = [
  "",
 
         photoHeights: [],
-        categories: ["Business Women"],
+        categories: ["Businesswoman"],
     },
     {
         organization: false,
@@ -858,7 +858,7 @@ c_bios = [
  "",
 
         photoHeights: [],
-        categories: ["Educators/Teachers"],
+        categories: ["Teacher/Educator"],
     },
     {
         organization: false,
@@ -919,7 +919,7 @@ c_bios = [
  "",
 
         photoHeights: [],
-        categories: ["Clairvoyants"],
+        categories: ["Clairvoyant"],
     },
     {
         organization: false,
@@ -1040,7 +1040,7 @@ c_bios = [
  "",
 
         photoHeights: [],
-        categories: ["Actresses"],
+        categories: ["Actress"],
     },
     {
         organization: false,
@@ -1092,6 +1092,6 @@ Image source: https://en.wikipedia.org/wiki/Charlotte_Cushman
  "",
 
         photoHeights: [],
-        categories: ["Actresses"],
+        categories: ["Actress"],
     },
 ];

@@ -56,7 +56,7 @@ t_bios = [
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
-        categories: ["Physicians", "Writers/Authors/Poets/Journalists/Editors"],
+        categories: ["Doctor", "Writers/Authors/Poets/Journalists/Editors"],
     },
     {
         organization: false,
@@ -117,7 +117,7 @@ t_bios = [
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
-        categories: ["Educators/Teachers"],
+        categories: ["Teacher/Educator"],
     },
     {
         organization: false,
@@ -177,8 +177,8 @@ t_bios = [
 
         photoHeights: [],
         categories: [
-            "Historians and History Projects",
-            "Scientists",
+            "Historian/History Project",
+            "Scientist",
             "Writers/Authors/Poets/Journalists/Editors",
         ],
     },
@@ -232,7 +232,7 @@ t_bios = [
         dateUpdated: "April 8, 2025",
 
         photoHeights: [],
-        categories: ["Dentists"],
+        categories: ["Dentist"],
     },
     {
         organization: false,
@@ -286,6 +286,6 @@ t_bios = [
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
-        categories: ["Scientists"],
+        categories: ["Scientist"],
     },
 ];

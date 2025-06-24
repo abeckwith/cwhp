@@ -38,7 +38,7 @@ d_bios = [
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
-        categories: ["Historians and History Projects"],
+        categories: ["Historian/History Project"],
     },
     {
         organization: true,
@@ -79,7 +79,7 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Educational Institutions/Schools"],
+        categories: ["Educational Institution/School"],
     },
     {
         organization: false,
@@ -135,7 +135,7 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Musicians"],
+        categories: ["Musician"],
     },
     {
         organization: false,
@@ -178,7 +178,7 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Dancers"],
+        categories: ["Dancer"],
     },
     {
         organization: false,
@@ -214,7 +214,7 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Business Women", "Community Leaders"],
+        categories: ["Businesswoman", "Community Leader"],
     },
     {
         organization: false,
@@ -275,7 +275,7 @@ d_bios = [
         dateUpdated: "April 6, 2025",
 
         photoHeights: [],
-        categories: ["Police", "Military"],
+        categories: ["Law Enforcement", "Military"],
     },
     {
         organization: true,
@@ -319,7 +319,7 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Feminist Organizations"],
+        categories: ["Feminist Organization"],
     },
     {
         organization: false,
@@ -390,8 +390,8 @@ d_bios = [
 
         photoHeights: [],
         categories: [
-            "Environmentalists",
-            "Political Leaders",
+            "Environmentalist",
+            "Political Leader",
             "Writers/Authors/Poets/Journalists/Editors",
         ],
     },
@@ -496,8 +496,8 @@ d_bios = [
 
         photoHeights: [],
         categories: [
-            "Activists",
-            "Musicians",
+            "Activist",
+            "Musician",
             "Writers/Authors/Poets/Journalists/Editors",
         ],
     },
@@ -669,7 +669,7 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Psychiatrists", "Refugees"],
+        categories: ["Psychiatrist", "Refugee"],
     },
     {
         organization: false,
@@ -737,7 +737,7 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Educators/Teachers", "Reformers"],
+        categories: ["Teacher/Educator", "Reformer"],
     },
     {
         organization: false,
@@ -829,7 +829,7 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Scientists"],
+        categories: ["Scientist"],
     },
     {
         organization: false,
@@ -898,8 +898,8 @@ d_bios = [
 
         photoHeights: [],
         categories: [
-            "Activists",
-            "Educators/Teachers",
+            "Activist",
+            "Teacher/Educator",
             "Writers/Authors/Poets/Journalists/Editors",
         ],
     },
@@ -959,6 +959,6 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Business Women"],
+        categories: ["Businesswoman"],
     },
 ];

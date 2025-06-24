@@ -36,7 +36,7 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Musicians"],
+        categories: ["Musician"],
     },
     {
         organization: false,
@@ -166,7 +166,7 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Educational", "Institutions/Schools"],
+        categories: ["Educational Institution/School", "School/Institution"],
     },
     {
         organization: false,
@@ -319,7 +319,7 @@ g_bios = [
 
         photoHeights: [],
         categories: [
-            "Photographers",
+            "Photographer",
             "Writers/Authors/Poets/Journalists/Editors",
         ],
     },
@@ -392,9 +392,9 @@ g_bios = [
 
         photoHeights: [],
         categories: [
-            "Educators/Teachers",
-            "Historians and History Projects",
-            "Scientists",
+            "Teacher/Educator",
+            "Historian/History Project",
+            "Scientist",
         ],
     },
     {
@@ -479,7 +479,7 @@ g_bios = [
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
-        categories: ["Activists", "Political Leaders"],
+        categories: ["Activist", "Political Leader"],
     },
     {
         organization: false,
@@ -559,7 +559,7 @@ g_bios = [
         dateUpdated: "April 8, 2025",
 
         photoHeights: [],
-        categories: ["Activists", "Educators/Teachers"],
+        categories: ["Activist", "Teacher/Educator"],
     },
     {
         organization: false,
@@ -649,7 +649,7 @@ g_bios = [
         dateUpdated: "April 8, 2025",
 
         photoHeights: [],
-        categories: ["Educators/Teachers", "Historians and History Projects"],
+        categories: ["Teacher/Educator", "Historian/History Project"],
     },
     {
         organization: true,
@@ -686,7 +686,7 @@ g_bios = [
 
         photoHeights: [],
         categories: [
-            "Businesses and Service Providers (Women-Owned, Feminist)",
+            "Business or Service Provider (Women-Owned, Feminist)",
         ],
     },
 ];

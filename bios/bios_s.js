@@ -57,7 +57,7 @@ s_bios = [
         dateUpdated: "April 11, 2025",
 
         photoHeights: [],
-        categories: ["Community Leaders", "Educators/Teachers"],
+        categories: ["Community Leader", "Teacher/Educator"],
     },
     {
         organization: false,
@@ -148,7 +148,7 @@ s_bios = [
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
-        categories: ["Refugees", "Writers/Authors/Poets/Journalists/Editors"],
+        categories: ["Refugee", "Writers/Authors/Poets/Journalists/Editors"],
     },
     {
         organization: false,
@@ -188,7 +188,7 @@ s_bios = [
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
-        categories: ["Artists", "Writers/Authors/Poets/Journalists/Editors"],
+        categories: ["Artist", "Writers/Authors/Poets/Journalists/Editors"],
     },
     {
         organization: false,
@@ -334,9 +334,9 @@ s_bios = [
 
         photoHeights: [],
         categories: [
-            "Community Leaders",
-            "Historians and History Projects",
-            "Political Leaders",
+            "Community Leader",
+            "Historian/History Project",
+            "Political Leader",
         ],
     },
     {
@@ -449,6 +449,6 @@ s_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Writers/Authors/Poets/Journalists/Editors", "Architects"],
+        categories: ["Writers/Authors/Poets/Journalists/Editors", "Architect"],
     },
 ];

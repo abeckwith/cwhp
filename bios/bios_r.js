@@ -126,7 +126,7 @@ r_bios = [
  "April 7, 2025",
         
         photoHeights: [],
-        categories: ["Educators/Teachers", "Scientists"],
+        categories: ["Teacher/Educator", "Scientist"],
     },
     {
         organization: false,
@@ -174,7 +174,7 @@ r_bios = [
  "April 7, 2025",
         
         photoHeights: [],
-        categories: ["Educators/Teachers", "Psychologists"],
+        categories: ["Teacher/Educator", "Psychologist"],
     },
     {
         organization: false,
@@ -249,7 +249,7 @@ r_bios = [
  "",
         
         photoHeights: [],
-        categories: ["Activists", "Educators/Teachers", "Reformers"],
+        categories: ["Activist", "Teacher/Educator", "Reformer"],
     },
     {
         organization: false,
@@ -298,7 +298,7 @@ r_bios = [
  "April 7, 2025",
 photoPos:[],
         photoHeights: [],
-        categories: ["Activists", "Writers/Authors/Poets/Journalists/Editors"],
+        categories: ["Activist", "Writers/Authors/Poets/Journalists/Editors"],
         
     },
 ];

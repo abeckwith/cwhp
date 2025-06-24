@@ -51,7 +51,7 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Activists", "Writers/Authors/Poets/Journalists/Editors"],
+        categories: ["Activist", "Writers/Authors/Poets/Journalists/Editors"],
     },
     {
         organization: false,
@@ -100,7 +100,7 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Physicians"],
+        categories: ["Doctor"],
     },
     {
         organization: false,
@@ -141,7 +141,7 @@ h_bios = [
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
-        categories: ["Business Women"],
+        categories: ["Businesswoman"],
     },
     {
         organization: false,
@@ -180,7 +180,7 @@ h_bios = [
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
-        categories: ["Community Leaders", "Factory Workers"],
+        categories: ["Community Leader", "Factory Worker"],
     },
     {
         organization: false,
@@ -232,7 +232,7 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Architects"],
+        categories: ["Architect"],
     },
     {
         organization: false,
@@ -310,7 +310,7 @@ h_bios = [
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
-        categories: ["Educators/Teachers", "Psychiatrists"],
+        categories: ["Teacher/Educator", "Psychiatrist"],
     },
     {
         organization: false,
@@ -365,7 +365,7 @@ h_bios = [
         dateUpdated: "Aril 8, 2025",
 
         photoHeights: [200, 300],
-        categories: ["Clergy", "Educators/Teachers"],
+        categories: ["Clergy", "Teacher/Educator"],
     },
     {
         organization: false,
@@ -419,7 +419,7 @@ h_bios = [
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
-        categories: ["Educators/Teachers"],
+        categories: ["Teacher/Educator"],
     },
     {
         organization: false,
@@ -712,7 +712,7 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Architects"],
+        categories: ["Architect"],
     },
     {
         organization: false,
@@ -795,7 +795,7 @@ h_bios = [
         dateUpdated: "April 4, 2025",
 
         photoHeights: [],
-        categories: ["Lawyers", "Educators/Teachers", "Business Women"],
+        categories: ["Lawyer", "Teacher/Educator", "Businesswoman"],
     },
     {
         organization: false,
@@ -852,7 +852,7 @@ h_bios = [
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
-        categories: ["Activists", "Refugees", "Scientists"],
+        categories: ["Activist", "Refugee", "Scientist"],
     },
     {
         organization: false,
@@ -902,7 +902,7 @@ h_bios = [
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
-        categories: ["Artists"],
+        categories: ["Artist"],
     },
     {
         organization: false,
@@ -1003,6 +1003,6 @@ Born in Boston in 1886, Marjorie Hurd
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Sportswomen", "Volunteers"],
+        categories: ["Sportswoman", "Volunteers"],
     },
 ];

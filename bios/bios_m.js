@@ -86,7 +86,7 @@ m_bios = [
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
-        categories: ["Nurses", "Veterans"],
+        categories: ["Nurse", "Military"],
     },
     {
         organization: true,
@@ -137,7 +137,7 @@ m_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Historians and History Projects"],
+        categories: ["Historian/History Project"],
     },
     {
         organization: false,
@@ -189,7 +189,7 @@ m_bios = [
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
-        categories: ["Community Leaders", "Political Leaders"],
+        categories: ["Community Leader", "Political Leader"],
     },
     {
         organization: false,
@@ -249,7 +249,7 @@ m_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Activists", "Scientists"],
+        categories: ["Activist", "Scientist"],
     },
     {
         organization: false,
@@ -303,7 +303,7 @@ m_bios = [
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
-        categories: ["Scientists", "Writers/Authors/Poets/Journalists/Editors"],
+        categories: ["Scientist", "Writers/Authors/Poets/Journalists/Editors"],
     },
     {
         organization: true,
@@ -357,7 +357,7 @@ m_bios = [
 
         photoHeights: [],
         categories: [
-            "Businesses and Service Providers (Women-Owned, Feminist)",
+            "Business or Service Provider (Women-Owned, Feminist)",
         ],
     },
     {
@@ -438,7 +438,7 @@ m_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Activists", "Educators/Teachers", "Scientists"],
+        categories: ["Activist", "Teacher/Educator", "Scientist"],
     },
     {
         organization: false,
@@ -514,7 +514,7 @@ m_bios = [
 
         photoHeights: [],
         categories: [
-            "Educators/Teachers",
+            "Teacher/Educator",
             "Writers/Authors/Poets/Journalists/Editors",
         ],
     },
@@ -580,8 +580,8 @@ m_bios = [
 
         photoHeights: [],
         categories: [
-            "Community Leaders",
-            "Educators/Teachers",
+            "Community Leader",
+            "Teacher/Educator",
             "Writers/Authors/Poets/Journalists/Editors",
         ],
     },
@@ -640,7 +640,7 @@ m_bios = [
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
-        categories: ["Historians and History Projects"],
+        categories: ["Historian/History Project"],
     },
     {
         organization: false,
@@ -699,7 +699,7 @@ m_bios = [
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
-        categories: ["Physicians"],
+        categories: ["Doctor"],
     },
     {
         organization: false,
@@ -765,7 +765,7 @@ m_bios = [
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
-        categories: ["Artists", "Educators/Teachers"],
+        categories: ["Artist", "Teacher/Educator"],
     },
     {
         organization: false,
@@ -853,7 +853,7 @@ m_bios = [
         dateUpdated: "April 15, 2025",
 
         photoHeights: [],
-        categories: ["Business Women"],
+        categories: ["Businesswoman"],
     },
     {
         organization: false,
@@ -897,9 +897,9 @@ m_bios = [
 
         photoHeights: [],
         categories: [
-            "Artists",
-            "Educators/Teachers",
-            "Scientists",
+            "Artist",
+            "Teacher/Educator",
+            "Scientist",
             "Writers/Authors/Poets/Journalists/Editors",
         ],
     },
@@ -1019,7 +1019,7 @@ m_bios = [
         dateUpdated: "April 30, 2025",
 
         photoHeights: [],
-        categories: ["Activists", "Writers/Authors/Poets/Journalists/Editors"],
+        categories: ["Activist", "Writers/Authors/Poets/Journalists/Editors"],
     },
     {
         organization: false,
@@ -1064,6 +1064,6 @@ m_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Clerk", "Law enforcement"],
+        categories: ["Clerk", "Law Enforcement"],
     },
 ];
