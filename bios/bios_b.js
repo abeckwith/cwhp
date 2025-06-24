@@ -2288,7 +2288,7 @@ b_bios = [
           experience and share it with others in a similar situation.  <br><Br>Barbara has lived in the same home in Cambridge for nearly 60 years. 
             `,
         otherNotes: "",
-        references: ` Interview and email exchange with Barbara Beckwith
+        references: `Interview and email exchange by Anthony Beckwith
         `,
         photos: ["images_bios/barbarabeckwith.jpg"],
         photoTitles: [],
