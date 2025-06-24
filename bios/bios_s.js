@@ -142,7 +142,7 @@ s_bios = [
             Henry Holt, 1994; Cambridge Historical Commission files<Br>
             Image source: https://en.wikipedia.org/wiki/May_Sarton
         `,
-        photos: ["images_bios/may_sarton.jpg"],
+        photos: ["images_bios/May_Sarton.jpg"],
         photoTitles: [],
         dateCreated: "before 2006",
         dateUpdated: "April 7, 2025",
@@ -183,12 +183,13 @@ s_bios = [
                 Image source: https://en.wikipedia.org/wiki/Marian_Cannon_Schlesinger
         `,
         photos: ["images_bios/Marian_Schlesinger.jpg"],
-        photoTitle: [],
+       
+        photoTitles: [],
         dateCreated: "before 2006",
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
-        categories: ["Artist", "Writers/Authors/Poets/Journalists/Editors"],
+        categories: ["Artist", "Author"],
     },
     {
         organization: false,
