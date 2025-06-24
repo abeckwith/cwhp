@@ -239,7 +239,7 @@ w_bios = [
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
-        categories: ["Activist", "Writer"],
+        categories: ["Activist", "Writer", "Editor"],
     },
     {
         organization: false,

@@ -100,7 +100,7 @@ l_bios = [
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
-        categories: ["Writer"],
+        categories: ["Writer", "Editor"],
     },
     {
         organization: false,

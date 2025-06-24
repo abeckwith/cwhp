@@ -280,7 +280,7 @@ a_bios = [
         photoHeights: [],
         categories: [
             "Historian/History Project",
-            "Writers",
+            "Writer", "Editor"
         ],
     },
     {

@@ -178,7 +178,7 @@ t_bios = [
         photoHeights: [],
         categories: [
             "Historian/History Project",
-            "Scientist",
+            "Scientist", "Editor",
         ],
     },
     {

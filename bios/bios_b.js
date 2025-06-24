@@ -132,7 +132,7 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Activist", "Economist"],
+        categories: ["Activist", "Economist", "Editor"],
     },
     {
         organization: false,
@@ -728,7 +728,7 @@ b_bios = [
             "Philanthropist",
             "Political Leader",
             "Sportswoman",
-            "Writers",
+            "Writer", "Editor",
         ],
     },
     {
@@ -1044,7 +1044,7 @@ b_bios = [
         categories: [
             "Activist",
             "Author",
-            "Suffragists/Suffrage Group",
+            "Suffragists/Suffrage Group", "Editor",
         ],
     },
     {
@@ -2285,7 +2285,7 @@ b_bios = [
         Essays, Stories, and Reflections</i> booklets (2017, 2019).  She also increasingly dedicated herself to essay writing and
          so when her husband was diagnosed with Alzheimer's disease in 2020, she began to write and distribute
           a series of personal essays intitled "On Learning to Care", allowing her to explore her own perspective on their 
-          experience and share it with others in a similar situation.  <br><Br>Barbara has lived in the same house in Cambridge for nearly 60 years. 
+          experience and share it with others in a similar situation.  <br><Br>Barbara has lived in the same home in Cambridge for nearly 60 years. 
             `,
         otherNotes: "",
         references: ` Interview and email exchange with Barbara Beckwith

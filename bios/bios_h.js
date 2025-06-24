@@ -419,7 +419,7 @@ h_bios = [
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
-        categories: ["Teacher/Educator"],
+        categories: ["Teacher/Educator", "Editor"],
     },
     {
         organization: false,

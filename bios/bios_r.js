@@ -298,7 +298,7 @@ r_bios = [
  "April 7, 2025",
 photoPos:[],
         photoHeights: [],
-        categories: ["Activist", "Writer"],
+        categories: ["Activist", "Writer", "Editor"],
         
     },
 ];
