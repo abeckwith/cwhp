@@ -2233,7 +2233,7 @@ b_bios = [
         hiring of Cambridge's first African American Superintendent of Schools, Alfonso Cheatham.
         As Clerk of the Cambridge Civic Association, she worked on progressive platforms.<br><Br>
 
-        Barbara taught English for 12 years at Pilot School in Cambridge and Home Base in 
+        Starting in the 1970s, Barbara taught English for 12 years at Pilot School in Cambridge and Home Base in 
         Watertown, both alternative public high schools. She developed courses on subjects such 
         as <i>Real People</i> (interviewing), <i>Language and Power</i>, and <i>Assertiveness</i>.<br><Br>
 
@@ -2276,17 +2276,16 @@ b_bios = [
         Privilege conferences, at racial justice conferences in Connecticut, Pennsylvania, and at
         Cambridge's Women's Explore lecture/discussion series.<br><Br>
 
-        She compiled her personal essays that pondered white privilege and racism (including her own) 
+        She compiled her personal essays that pondered racism and white privilege (including her own) 
         into a booklet series: <i>What Was I Thinking? Reflecting on Everyday Racism</i> (2009), <i>Digging Deeper
-        into Everyday Racism</i> (2013) and <i>Questions and Quandaries</i> (2015) exploring everyday racism, including her own.
+        into Everyday Racism</i> (2013) and <i>Questions and Quandaries</i> (2015).
         <br><Br>
-        In her 80s, Barbara coached a Women's Writing Workshop for older women who live in Mission Hill,
+        Barbara - in her 80s at this point - began coaching a Women's Writing Workshop for older women who lived in Mission Hill,
         Fenway, Jamaica Plain, Roxbury and Dorchester. The free workshop culminated in <i>From Our Notebooks:
-        Essays, Stories, and Reflections</i> booklets (2017, 2019).<br><Br>
-
-        Barbara increasingly found her niche in essay writing, so when her husband was diagnosed with 
-        Alzheimer's disease in 2020, she wrote a series of personal essays on their experience, as a way
-        to find perspective.
+        Essays, Stories, and Reflections</i> booklets (2017, 2019).  She also increasingly dedicated herself to essay writing and
+         so when her husband was diagnosed with Alzheimer's disease in 2020, she began to write and distribute
+          a series of personal essays intitled "On Learning to Care", allowing her to explore her own perspective on their 
+          experience and share it with others in a similar situation.  <br><Br>Barbara has lived in the same house in Cambridge for nearly 60 years. 
             `,
         otherNotes: "",
         references: ` Interview and email exchange with Barbara Beckwith
