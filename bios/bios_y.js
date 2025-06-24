@@ -17,9 +17,9 @@ y_bios = [
         <br>Susan Yanow was born in 1952 in Oregon and grew up in San Francisco,
             California. She graduated from Galileo High School and attended the University of California Santa Cruz,
             graduating with a B.A. in Psychology in 1970. Yanow moved to the East Coast to attend Boston College&rsquo;s
-            School of Social Work, graduating with an M.S.W. in 1975. <br>
+            School of Social Work, graduating with an M.S.W. in 1975. <br><Br>
              Her 25-year career as a clinical social worker focused on working in inpatient,
-            outpatient and private practice with survivors of violence and sexual abuse. <br>
+            outpatient and private practice with survivors of violence and sexual abuse. <br><Br>
              Yanow was active with the Boston chapter of the Reproductive Rights National
             Network (R2N2), which was founded in 1978 amidst a national debate about abortion that had intensified since
             the passage of Roe v. Wade in 1973. Locally, R2N2 partnered with a number of other reproductive rights
@@ -32,11 +32,11 @@ y_bios = [
             shootings in 1994, and Yanow coordinated that project while continuing her clinical social work practice. In
             2000, Yanow became the full time Executive Director of AAP, which had projects in 17 states to expand
             abortion access. In 2006 Yanow left AAP, which in 2012 changed its name to Provide and shifted its focus to
-            improving referrals and changing social service attitudes in the Southeast. <br>
+            improving referrals and changing social service attitudes in the Southeast. <br><Br>
              Since 2006, Yanow has consulted for a number of U.S. organizations that work to
             expand access to abortion, including the Byllye Avery Institute, Sister Song, the Reproductive Health Access
             Project (RHAP), and Planned Parenthood New York City. She also worked with the International Consortium on
-            Medical Abortion and Women on Waves/Women on Web. <br>
+            Medical Abortion and Women on Waves/Women on Web. <br><Br>
              Yanow has also co-founded several organizations that directly support abortion
             access initiatives, including Women Help Women (WHW), Creating a Clinician Corps (C3), the Later Abortion
             Initiative (LAI; now at Ibis Reproductive Health) and EASE Project Expanding Abortion Services in the South.
@@ -45,7 +45,7 @@ y_bios = [
             September 28, 2014 to provide information about medical abortion and abortion services. WHW&rsquo;s staff
             answers thousands of emails from women seeking guidance on contraception, reproductive healthcare and
             abortion. In other countries, WHW helps provide access to abortion pills (misoprostol and mifepristone) and
-            guidance on self-managed abortions. In April 2017, WHW launched SASS (Self-managed Abortion; Safe and
+            guidance on self-managed abortions.<Br><Br>In April 2017, WHW launched SASS (Self-managed Abortion; Safe and
             Supported) to address dwindling access to abortion in many parts of the United States, and especially for
             women in rural and low-income communities. SASS provides direct, secure counseling to women who are
             self-managing an abortion with pills at home. SASS also guides women on information and options for
@@ -79,7 +79,7 @@ y_bios = [
             abortion, to providers offering the service, and for people understanding what abortion entails and why the
             numerous restrictions which purport to increase safety are unnecessary and present barriers to care. <br>
              Yanow&rsquo;s past Board service includes: Cambridge Women&rsquo;s Center, Chennai
-            Children Foundation, NARAL ProChoice Massachusetts, and Social Workers for Reproductive Justice. <br>
+            Children Foundation, NARAL ProChoice Massachusetts, and Social Workers for Reproductive Justice. <br><Br>
              She currently serves on the Boards of the American Civil Liberties Union of
             Massachusetts, the Cambridge Commission on the Status of Women (CCSW) and Nurses for Sexual and Reproductive
             Health (NSRH). In 2016, NARAL Massachusetts honored Yanow and Dr. Bigby at the annual Champions for Choice
