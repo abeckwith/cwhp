@@ -51,7 +51,7 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Activist", "Writers/Authors/Poets/Journalists/Editors"],
+        categories: ["Activist", "Author"],
     },
     {
         organization: false,
@@ -517,7 +517,7 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Writers/Authors/Poets/Journalists/Editors"],
+        categories: ["Writer"],
     },
     {
         organization: false,
@@ -571,7 +571,7 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Writers/Authors/Poets/Journalists/Editors"],
+        categories: ["Author"],
     },
     {
         organization: false,

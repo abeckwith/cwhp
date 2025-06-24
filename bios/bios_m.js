@@ -303,7 +303,7 @@ m_bios = [
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
-        categories: ["Scientist", "Writers/Authors/Poets/Journalists/Editors"],
+        categories: ["Scientist", "Writer"],
     },
     {
         organization: true,
@@ -515,7 +515,7 @@ m_bios = [
         photoHeights: [],
         categories: [
             "Teacher/Educator",
-            "Writers/Authors/Poets/Journalists/Editors",
+            "Poet",
         ],
     },
     {
@@ -582,7 +582,7 @@ m_bios = [
         categories: [
             "Community Leader",
             "Teacher/Educator",
-            "Writers/Authors/Poets/Journalists/Editors",
+            "Writer",
         ],
     },
     {
@@ -900,7 +900,7 @@ m_bios = [
             "Artist",
             "Teacher/Educator",
             "Scientist",
-            "Writers/Authors/Poets/Journalists/Editors",
+            "Writer",
         ],
     },
     {
@@ -1019,7 +1019,7 @@ m_bios = [
         dateUpdated: "April 30, 2025",
 
         photoHeights: [],
-        categories: ["Activist", "Writers/Authors/Poets/Journalists/Editors"],
+        categories: ["Activist", "Poet", "Author"],
     },
     {
         organization: false,

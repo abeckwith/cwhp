@@ -76,8 +76,8 @@ j_bios = [
         middleName: "Sprague",
         familyName: "",
         fileLetter: "",
-        title: `Politician (one of first two women elected to Cambridge School Committee);
-                Teacher; Author; Poet; Copy Editor`,
+        title: `Politician (one of first two women elected to Cambridge School Committee),
+                Teacher, Author, Poet, Copy Editor`,
         birthDate: "03.17.1813",
         birthLocation: "Cranston, RI",
         deathDate: "05.14.1902",
@@ -142,7 +142,7 @@ j_bios = [
         categories: [
             "Teacher/Educator",
             "Political Leader",
-            "Writers/Authors/Poets/Journalists/Editors",
+            "Poet","Author"
         ],
     },
     {

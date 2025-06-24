@@ -26,7 +26,7 @@ k_bios = [
             they had brought with them.<br><br>
             In 1879, the Massachusetts Legislature passed
             a law allowing women to vote in school committee elections. That same year,
-            Phebe Mitchell Kendall and Sarah Sprague Jacob>
+            Phebe Mitchell Kendall and Sarah Sprague Jacob
             became the first women elected to the Cambridge School Committee. Phebe Kendall
             served until 1894. In 1896, Phebe Mitchell Kendall edited a biography of her
             sister, Maria Mitchell (1818-1889) who had made her name as astronomer, educator,
@@ -59,7 +59,7 @@ k_bios = [
         photoHeights: [],
         categories: [
             "Political Leader",
-            "Writers/Authors/Poets/Journalists/Editors",
+            "Writer",
         ],
     },
     {

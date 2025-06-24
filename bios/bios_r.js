@@ -75,7 +75,7 @@ r_bios = [
  "April 7, 2025",
         
         photoHeights: [225],
-        categories: ["Writers/Authors/Poets/Journalists/Editors"],
+        categories: ["Author"],
     },
     {
         organization: false,
@@ -269,8 +269,8 @@ r_bios = [
             then came to Cambridge in the 1950s to do graduate work in history at Harvard
             University. During this period, she became active in civil rights in Cambridge
             and was a founder of the Boston chapter of the Episcopal Society for Cultural
-            and Racial Unity. She went to Selma, AL, to march with Martin Luther King, Jr..
-            Her home in Cambridge became a center for educational and welfare reform. From
+            and Racial Unity. She went to Selma, AL, to march with Martin Luther King, Jr.
+            <br><Br>Her home in Cambridge became a center for educational and welfare reform. From
             1968 to 1975, she left graduate work to become an editor for behavioral studies
             at the Harvard University Press. In 1974 she and Stephan Thernstrom developed
             the idea of creating the<em> Harvard Encyclopedia of American Ethnic Groups </em>(1980), of which she became
@@ -298,7 +298,7 @@ r_bios = [
  "April 7, 2025",
 photoPos:[],
         photoHeights: [],
-        categories: ["Activist", "Writers/Authors/Poets/Journalists/Editors"],
+        categories: ["Activist", "Writer"],
         
     },
 ];

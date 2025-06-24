@@ -83,7 +83,7 @@ a_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Writers/Authors/Poets/Journalists/Editors"],
+        categories: ["Author"],
     },
 
     {
@@ -141,7 +141,7 @@ a_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Writers/Authors/Poets/Journalists/Editors"],
+        categories: ["Author"],
     },
     {
         organization: false,
@@ -184,7 +184,7 @@ a_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Writers/Authors/Poets/Journalists/Editors"],
+        categories: ["Author"],
     },
     {
         organization: false,
@@ -280,7 +280,7 @@ a_bios = [
         photoHeights: [],
         categories: [
             "Historian/History Project",
-            "Writers/Authors/Poets/Journalists/Editors",
+            "Writers",
         ],
     },
     {
@@ -359,7 +359,7 @@ a_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Writers/Authors/Poets/Journalists/Editors"],
+        categories: ["Author"],
     },
     {
         organization: false,

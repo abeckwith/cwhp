@@ -111,8 +111,8 @@ td > a {
     flex-grow: 1;
     height: 100%;
     position: relative;
-    max-width: 25vw;
-    min-width: 15vw;
+    max-width: 23vw;
+    min-width: 12vw;
     top: 0;
     overflow-y: auto;
     overflow-x: hidden;

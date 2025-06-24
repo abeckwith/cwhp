@@ -239,7 +239,7 @@ w_bios = [
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
-        categories: ["Activist", "Writers/Authors/Poets/Journalists/Editors"],
+        categories: ["Activist", "Writer"],
     },
     {
         organization: false,
@@ -373,7 +373,7 @@ w_bios = [
         dateUpdated: "April 8, 2025",
 
         photoHeights: [],
-        categories: ["Artist", "Writers/Authors/Poets/Journalists/Editors"],
+        categories: ["Artist", "Poet"],
     },
     {
         organization: false,
@@ -588,7 +588,7 @@ w_bios = [
         photoHeights: [],
         categories: [
             "Community Leader",
-            "Writers/Authors/Poets/Journalists/Editors",
+            "Writer",
         ],
     },
     {

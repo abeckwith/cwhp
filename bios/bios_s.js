@@ -148,7 +148,7 @@ s_bios = [
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
-        categories: ["Refugee", "Writers/Authors/Poets/Journalists/Editors"],
+        categories: ["Refugee", "Poet", "Author"],
     },
     {
         organization: false,
@@ -395,7 +395,7 @@ s_bios = [
         dateUpdated: "April 11, 2025",
 
         photoHeights: [],
-        categories: ["Writers/Authors/Poets/Journalists/Editors"],
+        categories: ["Author"],
     },
     {
         organization: false,
@@ -449,6 +449,6 @@ s_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Writers/Authors/Poets/Journalists/Editors", "Architect"],
+        categories: ["Writer", "Architect"],
     },
 ];

@@ -392,7 +392,7 @@ d_bios = [
         categories: [
             "Environmentalist",
             "Political Leader",
-            "Writers/Authors/Poets/Journalists/Editors",
+            "Journalist",
         ],
     },
     {
@@ -498,7 +498,7 @@ d_bios = [
         categories: [
             "Activist",
             "Musician",
-            "Writers/Authors/Poets/Journalists/Editors",
+            "Author",
         ],
     },
     {
@@ -610,7 +610,7 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Writers/Authors/Poets/Journalists/Editors"],
+        categories: ["Poet"],
     },
     {
         organization: false,
@@ -900,7 +900,7 @@ d_bios = [
         categories: [
             "Activist",
             "Teacher/Educator",
-            "Writers/Authors/Poets/Journalists/Editors",
+            "Writer",
         ],
     },
     {

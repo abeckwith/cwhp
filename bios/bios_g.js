@@ -242,7 +242,7 @@ g_bios = [
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
-        categories: ["Writers/Authors/Poets/Journalists/Editors"],
+        categories: ["Poet", "Author"],
     },
     {
         organization: false,
@@ -320,7 +320,7 @@ g_bios = [
         photoHeights: [],
         categories: [
             "Photographer",
-            "Writers/Authors/Poets/Journalists/Editors",
+            "Poet",
         ],
     },
     {

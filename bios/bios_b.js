@@ -328,7 +328,7 @@ b_bios = [
         photoHeights: [],
         categories: [
             "Intelligence Officer",
-            "Writers/Authors/Poets/Journalists/Editors",
+            "Author",
         ],
     },
     {
@@ -728,7 +728,7 @@ b_bios = [
             "Philanthropist",
             "Political Leader",
             "Sportswoman",
-            "Writers/Authors/Poets/Journalists/Editors",
+            "Writers",
         ],
     },
     {
@@ -819,7 +819,7 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Writers/Authors/Poets/Journalists/Editors"],
+        categories: ["Author"],
     },
     {
         organization: false,
@@ -935,7 +935,7 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Writers/Authors/Poets/Journalists/Editors"],
+        categories: ["Poet"],
     },
     {
         organization: true,
@@ -1043,7 +1043,7 @@ b_bios = [
         photoHeights: [],
         categories: [
             "Activist",
-            "Writers/Authors/Poets/Journalists/Editors",
+            "Author",
             "Suffragists/Suffrage Group",
         ],
     },
@@ -1315,7 +1315,7 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Writers/Authors/Poets/Journalists/Editors"],
+        categories: ["Poet"],
     },
     {
         organization: false,
@@ -1474,7 +1474,7 @@ b_bios = [
         categories: [
             "Historian/History Project",
             "Television Producer",
-            "Writers/Authors/Poets/Journalists/Editors",
+            "Author",
         ],
     },
     {
@@ -1584,7 +1584,7 @@ b_bios = [
             "Fashion Designer",
             "Historian/History Project",
             "Television Producer",
-            "Writers/Authors/Poets/Journalists/Editors",
+            "Author",
         ],
     },
     {
@@ -1879,7 +1879,7 @@ b_bios = [
         photoHeights: [],
         categories: [
             "Community Leader",
-            "Writers/Authors/Poets/Journalists/Editors",
+            "Author",
         ],
     },
     {
@@ -2296,6 +2296,6 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Activist", "Writers/Authors/Poets/Journalists/Editors", "Teacher/Educator"],
+        categories: ["Activist", "Writer", "Teacher/Educator", "Journalist"],
     },
 ];

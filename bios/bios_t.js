@@ -56,7 +56,7 @@ t_bios = [
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
-        categories: ["Doctor", "Writers/Authors/Poets/Journalists/Editors"],
+        categories: ["Doctor", "Author"],
     },
     {
         organization: false,
@@ -179,7 +179,6 @@ t_bios = [
         categories: [
             "Historian/History Project",
             "Scientist",
-            "Writers/Authors/Poets/Journalists/Editors",
         ],
     },
     {

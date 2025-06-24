@@ -121,6 +121,6 @@ o_bios = [
  "April 12, 2025",
         
         photoHeights: [],
-        categories: ["Librarian", "Writers/Authors/Poets/Journalists/Editors"],
+        categories: ["Librarian", "Poet", "Author"],
     },
 ];

@@ -281,7 +281,7 @@ p_bios = [
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
-        categories: ["Reformer", "Writers/Authors/Poets/Journalists/Editors"],
+        categories: ["Reformer", "Author"],
     },
     {
         organization: false,

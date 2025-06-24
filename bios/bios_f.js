@@ -293,7 +293,7 @@ In
         photoHeights: [],
         categories: [
             "Social/Philanthropic Organization",
-            "Writers/Authors/Poets/Journalists/Editors",
+            "Author",
         ],
     },
 ];

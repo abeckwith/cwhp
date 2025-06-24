@@ -100,7 +100,7 @@ l_bios = [
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
-        categories: ["Writers/Authors/Poets/Journalists/Editors"],
+        categories: ["Writer"],
     },
     {
         organization: false,
@@ -491,7 +491,7 @@ l_bios = [
         photoHeights: [],
         categories: [
             "Abolitionist",
-            "Writers/Authors/Poets/Journalists/Editors",
+            "Poet",
         ],
     },
     {
@@ -547,7 +547,7 @@ l_bios = [
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
-        categories: ["Writers/Authors/Poets/Journalists/Editors"],
+        categories: ["Author"],
     },
     {
         organization: false,

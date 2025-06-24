@@ -134,7 +134,7 @@ y_bios = [
         dateUpdated: "",
         photoPos: [],
         photoHeights: [],
-        categories: ["Activist", "Writers/Authors/Poets/Journalists/Editors"],
+        categories: ["Activist", "Writer"],
     },
     {
         organization: false,
