@@ -100,7 +100,7 @@ w_bios = [
         middleName: "",
         familyName: "",
         fileLetter: "",
-        title: `Feminist, Human Rights Activisst, Tenant's and Welfare Rights Organizer`,
+        title: `Feminist, Human Rights Activist, Tenant's and Welfare Rights Organizer`,
         birthDate: "00.00.1940",
         birthLocation: "Boston, MA",
         deathDate: "",
