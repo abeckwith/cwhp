@@ -2220,8 +2220,8 @@ b_bios = [
         access, withdrawal from the Vietnam War, women's liberation, ending the nuclear arms race, 
         social responsibility in science, and writers' rights.<br><Br>
 
-        In the 1970s, she went door-to-door to advocate for rent control, and then for ending the 
-        Vietnam War. In 1980s, alarmed by the nuclear arms buildup during President Reagan's 
+        In the 1970s, she went door-to-door to advocate for rent control, and then to end the 
+        Vietnam War. In the 1980s, alarmed by the nuclear arms buildup during President Reagan's 
         presidency, she and other Cambridge women formed an affinity group and participated in civil 
         disobedience at various sites, including at an arms marketing event at the Colonnade Hotel in
         Cambridge. Arrested twice for trespassing, she did community service, per a judge's orders.<br><Br>
@@ -2280,12 +2280,15 @@ b_bios = [
         into a booklet series: <i>What Was I Thinking? Reflecting on Everyday Racism</i> (2009), <i>Digging Deeper
         into Everyday Racism</i> (2013) and <i>Questions and Quandaries</i> (2015).
         <br><Br>
-        Barbara - in her 80s at this point - began coaching a Women's Writing Workshop for older women who lived in Mission Hill,
-        Fenway, Jamaica Plain, Roxbury and Dorchester. The free workshop culminated in <i>From Our Notebooks:
-        Essays, Stories, and Reflections</i> booklets (2017, 2019).  She also increasingly dedicated herself to essay writing and
-         so when her husband was diagnosed with Alzheimer's disease in 2020, she began to write and distribute
-          a series of personal essays intitled "On Learning to Care", allowing her to explore her own perspective on their 
-          experience and share it with others in a similar situation.  <br><Br>Barbara has lived in the same home in Cambridge for nearly 60 years. 
+        In her 80s, Barbara coached a Women's Writing Workshop for older women who live in Mission 
+        Hill, Fenway, Jamaica Plain, Roxbury and Dorchester. The free workshop culminated in <i>From
+         Our Notebooks: Essays, Stories, and Reflections booklets </i>(2017, 2019).<br><Br>
+
+        When her husband was diagnosed with Alzheimer's disease in 2020, she wrote essays to explore her
+        perspective on their experience, freely sharing her "Learning to Care" series with others facing
+        caregiving challenges, at home and in memory care facilities.
+
+       
             `,
         otherNotes: "",
         references: `Interview and email exchange by Anthony Beckwith
