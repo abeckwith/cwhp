@@ -12,8 +12,9 @@ body {
     font-size: 2.2vh;
     /* overflow:hidden; */
 }
-#abouts{
+.abouts{
     margin-left:10vw;
+    margin-right:10vw;
 }
 #recents {
     margin-bottom: 25px;
