@@ -279,7 +279,7 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
         html +=
             "<br><br><strong>References:</strong><Br>" + person.references + "";
     dt =
-        "<hr><div style='text-align:right'>Date this bio was created: " +
+        "<hr><div style='text-align:right'>Entry created: " +
         person.dateCreated;
     if (person.dateUpdated !== "")
         dt += "<Br>Last updated: " + person.dateUpdated + "</div>";
@@ -624,6 +624,7 @@ function search() {
                             ) + "...<br><Br><br>";
                         loc++;
                     }
+                    result += "</center>";
                 }
             }
         }
