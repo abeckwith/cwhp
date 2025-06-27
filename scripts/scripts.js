@@ -20,7 +20,7 @@ let RECENT_MONTHS_LIMIT = 12; //for recent additions page
  * Also called when page is loaded when person is selected
  **/
 function startBio() {
-        setMenu(1); //1 = set that one to gray
+    setMenu(1); //1 = set that one to gray
 
     //get params from URL:
     p = getParams();
@@ -92,7 +92,7 @@ function showRecents(num) {
                     .split(delimiter)[0]
                     .substring(0, 3); //1st 3 chars: Jan
                 year = thename.dateCreated.split(delimiter)[1];
-                console.log(monthNameShort + ", " + year)
+                console.log(monthNameShort + ", " + year);
                 //find month number
                 monthNum = 0;
                 for (let index = 0; index < months.length; index++) {
@@ -124,7 +124,8 @@ function showRecents(num) {
                         "</a>:<i> " +
                         thename.title +
                         "</i><br><span style='font-size:1.3vw'>&nbsp;&nbsp;&nbsp; added <b>" +
-                        thename.dateCreated + "</b></span>";
+                        thename.dateCreated +
+                        "</b></span>";
             }
         });
     });
@@ -186,7 +187,8 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
     person = bios[ltrIndex][indexOfPerson];
     currentLetter = ltrIndex;
     currentPersonIndex = indexOfPerson;
-    let html = "<div id='bio-container' style='margin: 2vw 13vw 2vw 6vw; line-height:1.7'>";
+    let html =
+        "<div id='bio-container' style='margin: 2vw 13vw 2vw 6vw; line-height:1.7'>";
 
     //name:
     html += "<div class='name-heading'><strong>";
@@ -304,6 +306,7 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
             }
         }
 }
+
 /**
  * Creates the left sidebar with the alphabetical list of women
  * @param {Integer} personIndex location of person within list of people,
@@ -342,8 +345,7 @@ function makeSidebar(letterIndex, stepping, topical, search) {
                 names.push(
                     thename.lastName + ", " + thename.firstName + " " + mid
                 );
-            } 
-            else names.push(thename.lastName);//.substring(0, 20) + "..."); //too long
+            } else names.push(thename.lastName); //.substring(0, 20) + "..."); //too long
         });
         namesLists.push(names);
         strippedNamesList.push(strippedNames);
@@ -360,8 +362,9 @@ function makeSidebar(letterIndex, stepping, topical, search) {
                 "-" +
                 i +
                 "'>" +
-                "<a title='" + 
-                firstCommaLast + "' href='bios.html?lNm=" +
+                "<a title='" +
+                firstCommaLast +
+                "' href='bios.html?lNm=" +
                 strippedNamesList[letterIndex][i][0] +
                 "&mNm=" +
                 strippedNamesList[letterIndex][i][1] +
@@ -790,7 +793,7 @@ function setMenu(whichOneGray) {
         '<a id="2" class="search-buttons" href="topical.html">Subject Index</a>' +
         '<a id="3" class="top-links" href="search.html">Site Search &#x1F50E;</a>' +
         '<a id="4" class="top-links" href="recents.html">Recent Entries</a>' +
-        '<a id="5" class="top-links" href="links.html">Links</a>' + 
+        '<a id="5" class="top-links" href="links.html">Links</a>' +
         '<a id="6" class="top-links" href="sources.html">Sources</a>' +
         '<a id="7" class="top-links" href="nominations.html">Nominations</a>' +
         '<a id="8" class="top-links" href="internship.html">Get Involved</a>' +
@@ -801,7 +804,6 @@ function setMenu(whichOneGray) {
     document.getElementById("myTopnav").innerHTML = menu;
     document.getElementById("" + whichOneGray).style.backgroundColor =
         "rgb(115, 114, 114)";
-  
 }
 /**
  * Make all bios arrays available and do counts
@@ -823,8 +825,25 @@ function setTotals(about) {
         console.log("TOTAL: " + totalEntries);
         console.log("Each letter count:");
     }
+
+    // document.getElementById("total-women3").innerHTML = totalEntries;
+
     for (let i = 0; i < personCounts.length; i++) {
         console.log(alph.charAt(i) + ": " + personCounts[i]);
+    }
+    // Collapsible function for main headers
+    var collapsibles = document.getElementsByClassName("collapsible");
+    console.log("HELLO");
+    for (var i = 0; i < collapsibles.length; i++) {
+        collapsibles[i].addEventListener("click", function () {
+            this.classList.toggle("active");
+            var content = this.nextElementSibling;
+            if (content.style.display === "block") {
+                content.style.display = "none";
+            } else {
+                content.style.display = "block";
+            }
+        });
     }
 }
 /**

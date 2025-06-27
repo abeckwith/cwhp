@@ -8,9 +8,12 @@ body {
     background-color: white; /*white;/*rgb(250, 235, 223);*/
     font-family: "Open Sans";
     margin-left: 2vh;
-    margin-righd: 1vh;
+    margin-right: 1vh;
     font-size: 2.2vh;
     /* overflow:hidden; */
+}
+#abouts{
+    margin-left:10vw;
 }
 #recents {
     margin-bottom: 25px;
@@ -34,17 +37,84 @@ body {
     overflow-x: auto;
 }
 
-.name-link, .letter-link {
+.name-link,
+.letter-link {
     cursor: pointer;
     color: blue;
     text-decoration: underline;
 }
-.name-link{
-        padding-bottom: 4%;
-
+.name-link {
+    padding-bottom: 4%;
 }
-.name-link:hover, .letter-link:hover {
+.name-link:hover,
+.letter-link:hover {
     border: 1px solid black;
+    border-radius: 5px;
+}
+.collapsible {
+    background-color: #555; /* Opaque header */
+    color: white;
+    cursor: pointer;
+    margin:1vw 5vw;
+    padding: 15px;
+    width: 70%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 18px;
+    transition: background-color 1.2s;
+}
+
+.collapsible:hover {
+    background-color: blue;
+}
+
+.about-content {
+    padding: 0 20px;
+    display: none;
+    background-color: rgba(255, 255, 255, 0.6); /* Translucent haze effect */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 10px;
+    margin: 10px 5vw;
+    border-radius: 8px;
+    overflow: hidden;
+    font-size:90%;
+    width:70%;
+    transition: max-height 1.2s ease-out;
+}
+
+.about-content p {
+    padding: 10px;
+    margin: 0;
+}
+
+.header {
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-size: 22px;
+    color: #666;
+    text-align: center;
+}
+
+.sub-collapsible {
+    margin-left: 20px;
+    background-color: #888;
+    padding: 10px;
+    color: white;
+}
+
+.sub-collapsible:hover {
+    background-color: #666;
+}
+
+.sub-content {
+    background-color: rgba(
+        255,
+        255,
+        255,
+        0.7
+    ); /* Slightly more opaque for sub-content */
+    padding: 10px;
     border-radius: 5px;
 }
 
@@ -173,7 +243,6 @@ td > a {
     #menu-bar {
         font-size: 30vw;
     }
-  
 }
 /* table{font-size:20%! important;} */
 
@@ -337,8 +406,8 @@ a.search-buttons {
     .style-box {
         font-size: 15px;
     }
-    #all-sources{
-        color:red;
+    #all-sources {
+        color: red;
         margin: 10vw 20vw;
     }
 
