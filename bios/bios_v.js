@@ -68,7 +68,7 @@ v_bios = [
             with the organization &#8220;Arts in Education,&#8221; participating in various
             seminars that included the teaching of the renowned educators Paulo Freire and
             Augusto Boal.<br><br>
-            Flavia Viggiani teaches in the combined 5-6 grade
+            Flavia Viggiani has taught in the combined 5-6 grade
             of the Amigos program at the Kennedy School in Cambridge in a two-way full immersion
             Spanish/English classroom. She shares her class of twenty students with an English-speaking
             teaching partner. Involved in theater and music herself, she arranged an African

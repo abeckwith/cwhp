@@ -338,14 +338,14 @@ a_bios = [
         narrative: `
          
             Elizabeth Perkins attended Buckingham School and
-            graduated from Bryn Mawr College. She was married to federal judge Bailey Aldrich
-            of Cambridge, MA.<Br><Br> Aldrich assisted Harvard Professor Ralph Barton Perry in the
+            graduated from Bryn Mawr College. <Br><Br> Aldrich assisted Harvard Professor Ralph Barton Perry in the
             1935 Pulitzer Prize-winning biography,<em> The Thought and Character of William
                 James</em>, later becoming sole editor of the briefer version of that work.
             In 1942, she produced a volume of James' selected writings: <em>As William
                 James Said.</em> She volunteered for CARE and for Shady Hill School in Cambridge,
             for which she was an overseer and an initiator and head of the Parents Work
-            Plan. She was 93 when she died.
+            Plan. She was 93 when she died.  She was married to federal judge Bailey Aldrich
+            of Cambridge, MA.
 
             `,
         otherNotes: "",
