@@ -76,7 +76,7 @@ function showRecents(num) {
         "November",
         "December",
     ];
-    html = "";
+    html = "<span class='nice-header'>RECENT ENTRIES (from the last " + RECENT_MONTHS_LIMIT + " months)</span><br>";
     //go through each A-Z bio list:
     all_bios.forEach((bioLetterList) => {
         //go through each name for this letter:
@@ -111,21 +111,21 @@ function showRecents(num) {
                 //only add to list if within number of months selected:
                 if (monthsDifference < RECENT_MONTHS_LIMIT)
                     html +=
-                        "<Br><a href='bios.html?lNm=" +
+                        "<br><a href='bios.html?lNm=" +
                         thename.lastName +
                         "&mNm=" +
                         thename.middleName +
                         "&fNm=" +
                         thename.firstName +
                         "'>" +
-                        thename.firstName +
-                        " " +
                         thename.lastName +
+                        ", " +
+                        thename.firstName +
                         "</a>:<i> " +
                         thename.title +
-                        "</i><br><span style='font-size:1.3vw'>&nbsp;&nbsp;&nbsp; added <b>" +
+                        "</i><br>&nbsp;&nbsp;&nbsp; added <b>" +
                         thename.dateCreated +
-                        "</b></span>";
+                        "</b><Br>";
             }
         });
     });
