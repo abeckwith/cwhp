@@ -517,6 +517,20 @@ function setupCategories() {
     document.getElementById("side-table-cats").innerHTML = html;
 }
 /**
+ * 
+ * @param {String} html html code to remove elements from
+ * @param {String} el element to be removed
+ * @returns original html with all parts of elements removed
+ */
+function removeElements(html, el) {
+  const parser = new DOMParser();
+  const doc = parser.parseFromString(html, 'text/html');
+  
+  doc.querySelectorAll(el).forEach(img => img.remove());
+  
+  return doc.body.innerHTML;
+}
+/**
  * Builds the search page
  */
 function search() {
@@ -572,13 +586,19 @@ function search() {
                 ) {
                     //narrative without line breaks:
                     text = person.narrative.replace(/\s+/g, " ");
+
                     text = text.replaceAll("<strong>", "");
                     text = text.replaceAll("<em>", "");
                     text = text.replaceAll("<i>", "");
                     text = text.replaceAll("<b>", "");
-                    text = text.replaceAll("<br>", "");
-                    text = text.replaceAll("<Br>", "");
-                    text = text.replaceAll("<BR>", "");
+                    // text = text.replaceAll("<br>", "");
+                    // text = text.replaceAll("<Br>", "");
+                    // text = text.replaceAll("<BR>", "");
+
+                    //get rid of any images:
+                   text = removeElements(text, 'img');
+                   text = removeElements(text, 'br');
+                //    text = removeElements(text, 'h2');
 
                     totalPeople++;
                     fName = stripName(person.firstName);

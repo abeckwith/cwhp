@@ -1047,9 +1047,13 @@ m_bios = [
         </center>
        The <a href='https://cambridgeblackhistoryproject.org/' target='_blank'>Cambridge Black HIstory Project</a>
         is an organization dedicated to preserving the lives and accomplishments
-       of Black Cantabridgians.  We encourage you to explore the powerful stories they share on their website:<br>
-        <Br><center><a href='https://cambridgeblackhistoryproject.org/' target='_blank'>
-        <img style='border-style: none;' src='images_util/CBHP.jpg' width='200'></a></center>
+       of Black Cantabridgians.  We encourage you to explore the powerful stories they share on their website:
+       <br>
+        <Br><center>
+        <a href='https://cambridgeblackhistoryproject.org/' target='_blank'>
+
+        <img style='border-style: none;' src='images_util/CBHP.jpg' width='200'>
+        </a></center>
         
 
     
