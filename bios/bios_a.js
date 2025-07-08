@@ -60,11 +60,11 @@ a_bios = [
         narrative: ` 
             Born and raised in a literary and religious family
             in Cambridge, Eleanor Hallowell Abbott was the daughter of clergyman Edward
-            Abbott who was rector at St James Episcopal Church and who edited a journal
-            <em>Literary World</em>. Her grandfather, Jacob Abbott was a friend of Longfellow
+            Abbott who was rector at St. James Episcopal Church, who edited a journal
+            <em>Literary World</em>. Her grandfather, Jacob Abbott, was a friend of Longfellow
             and a writer of children's stories. She attended private schools and Radcliffe
             College and then worked as a secretary and teacher at the teacher's college,
-            Lowell State Normal School. In 1908, she married Dr. Fordyce Coburn and moved
+            Lowell State Normal School. In 1908, Abbott married Dr. Fordyce Coburn and moved
             to Wilton, N.H. She began her writing career when two of her poems were accepted
             by <em>Harper's Magazine</em> in 1909.<br><br> She produced seventy-five short
             stories and fourteen &#8220;unblushingly romantic&#8221; novels about young
