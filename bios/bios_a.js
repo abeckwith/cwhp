@@ -58,20 +58,20 @@ a_bios = [
         deathDate: "00.00.1958",
         deathLocation: "Portsmouth, NH",
         narrative: ` 
-            Born and raised in a literary and religious family
-            in Cambridge, Eleanor Hallowell Abbott was the daughter of clergyman Edward
-            Abbott who was rector at St. James Episcopal Church, who edited a journal
-            <em>Literary World</em>. Her grandfather, Jacob Abbott, was a friend of Longfellow
-            and a writer of children's stories. She attended private schools and Radcliffe
-            College and then worked as a secretary and teacher at the teacher's college,
-            Lowell State Normal School. In 1908, Abbott married Dr. Fordyce Coburn and moved
-            to Wilton, N.H. She began her writing career when two of her poems were accepted
-            by <em>Harper's Magazine</em> in 1909.<br><br> She produced seventy-five short
-            stories and fourteen &#8220;unblushingly romantic&#8221; novels about young
-            women that brought her a measure of popularity in the 1910s and 1920s. In 1936,
-            she wrote an autobiography about her childhood in Cambridge entitled <em>Being
-                Little in Cambridge When Everyone Else Was Big</em>. Some of her typescripts
-            and correspondence are held at the University of New Hampshire.`,
+            Eleanor Hallowell Abbott was raised in a literary and religious family in Cambridge. She
+    attended private schools and Radcliffe College, then worked as a secretary and teacher
+    at the Lowell State Normal School, a teacher's college. She began her writing career
+    when two of her poems were accepted by <i>Harper's Magazine</i> in 1909.<br><Br>
+    Her writing brought her a measure of popularity in the 1910s and 1920s when she
+    produced seventy-five short stories and fourteen "unblushingly romantic" novels about
+    young women. In 1936, she wrote an autobiography about her childhood in Cambridge,
+    entitled <i>Being Little in Cambridge When Everyone Else Was Big</i>.<Br><br>
+    In 1908, upon her marriage to Dr. Fordyce Coburn, she moved to Wilton, N.H. Some of
+    her typescripts and correspondence are held at the University of New Hampshire.<br><Br>
+    Hallowell Abbot's father was a clergyman, Edward Abbott. He was rector at St. James
+    Episcopal Church and edited a journal <i>Literary World</i>. Her grandfather, Jacob Abbott,
+    was a friend of Longfellow and a writer of children's stories.  
+        `,
         otherNotes: "",
         references: ` University of New Hampshire special collections
             biographical note; Review of her autobiography in <em>Time</em> magazine, Oct
