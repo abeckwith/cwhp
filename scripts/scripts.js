@@ -389,9 +389,9 @@ function makeSidebar(letterIndex, stepping, topical, search) {
             if (!stepping) makeBio(letterIndex, 0, true, false, false);
         } else {
             document.getElementById("side-table").innerHTML =
-                "No entries for " + ltr.toUpperCase() + " yet!";
+                "No entries for " + ltr.toUpperCase() + " yet";
             document.getElementById("bio").innerHTML =
-                "<h1>No entries for " + ltr.toUpperCase() + " yet!</h1>";
+                "<h1>No entries for " + ltr.toUpperCase() + " yet</h1>";
         }
 }
 /**
@@ -853,7 +853,6 @@ function setTotals(about) {
     }
     // Collapsible function for main headers
     var collapsibles = document.getElementsByClassName("collapsible");
-    console.log("HELLO");
     for (var i = 0; i < collapsibles.length; i++) {
         collapsibles[i].addEventListener("click", function () {
             this.classList.toggle("active");

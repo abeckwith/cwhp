@@ -80,7 +80,7 @@ a_bios = [
         photos: ["images_bios/Portrait_of_Eleanor_Hallowell_Abbott.jpg"],
         photoTitles: [],
         dateCreated: "before 2006",
-        dateUpdated: "",
+        dateUpdated: "July 9, 2025",
 
         photoHeights: [],
         categories: ["Author"],
