@@ -103,9 +103,9 @@ a_bios = [
             Born in Ireland, Mary Manning went to London to
             study theater when she was 16 years old. After returning to Ireland, she worked
             as an actress and playwright in the 1920s and 1930s at the renowned Abbey Theater
-            and the Gate Theater in Dublin and wrote film criticism for the <em>Irish Statesman</em>.
-            Two of her plays were produced at the Abbey Theater and she worked collaboratively
-            on several projects with the playwright, Samuel Beckett who had been her childhood
+            and the Gate Theater in Dublin; she also wrote film criticism for the <em>Irish Statesman</em>.
+            Two of her plays were produced at the Abbey Theater, and she worked collaboratively
+            on several projects with the playwright Samuel Beckett, who had been her childhood
             friend. In 1935, she emigrated to Boston and married Mark De Wolfe Howe, a lawyer
             who became a professor at Harvard Law School. Her three daughters were raised
             in Cambridge. While in Cambridge, Mary Manning Howe wrote the novel, <em>Mount
@@ -117,16 +117,16 @@ a_bios = [
             married her lawyer, Faneuil Adams.<br>
             <br>Her writings include the novel <em>The Last Chronicles
                 of Ballyfungus</em> (1978), a humorous view of the Anglo-Irish gentry, and the
-            play, <em>Go Lovely Rose</em>, based on the life of Rose Kennedy, produced as
+            play <em>Go Lovely Rose</em>, based on the life of Rose Kennedy, produced as
             a one woman show at the Fourth International Women Playwright's Conference
             held in Galway shortly before her death at the age of 93. One daughter, Susan
             Howe (born in 1937), went on to become a well-known poet and professor at State
-            University of New York, Buffalo and another daughter Fanny Howe, became a novelist
+            University of New York, Buffalo.  Her daughter Fanny Howe, became a novelist
             and poet, teaching creative writing at MIT and Tufts and at University of California,
-            San Diego, publishing novels that depicted the Cambridge and Boston area in
-            the 1970s. Mary Manning Howe Adams was 93 when she died. Her correspondence
-            with Samuel Beckett is held in the Samuel Beckett collection at the University
-            of Texas, Austin and her correspondence with her daughters is held at the University
+            San Diego.  She also published novels that depicted the Cambridge and Boston area in
+            the 1970s. Her correspondence
+            with Samuel Beckett is held in the Samuel Beckett Collection at the University
+            of Texas, Austin, and her correspondence with her daughters at the University
             of California, San Diego.
 
             `,
