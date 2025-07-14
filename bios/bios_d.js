@@ -206,9 +206,9 @@ d_bios = [
             Tribute to Women Award in 1993. <br><br>She was 69 when she died. <br>
             `,
         otherNotes: "",
-        references: ` <em>Cambridge Chronicle</em> 1-17-01
+        references: ` <em>Cambridge Chronicle</em> 1-17-01<Br>Image source: <em>Boston Globe</em>Sept. 13, 1993
         `,
-        photos: [""],
+        photos: ["images_bios/darbeloff.png"],
         photoTitles: [],
         dateCreated: "before 2006",
         dateUpdated: "",
