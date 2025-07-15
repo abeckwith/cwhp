@@ -1656,7 +1656,7 @@ b_bios = [
                 Center in 1972, the longest running women's center in the US. Annie
             Popkin who wrote her doctoral dissertation on this group has deposited her reference
             materials at Schlesinger library.
-            See also Women's Educational Center<br>
+            See also <a href="bios.html?ln=WomensCenter&mN=&fN="Women's Educational Center</a><br>
             <br>
             `,
         otherNotes: "",
@@ -1960,7 +1960,7 @@ b_bios = [
             encouraging others on to high levels of personal achievement and the successful
             pursuit of individual goals. <br><br>She was also involved with the Cambridge Peace
             Commission and the First Parish Unitarian Universalist Church. She participated
-            as a member of the Back Porch Dance Company. 
+            as a member of the <a href="bios.html?lNm=BackPorchDanceCompany&mNm=&fNm=">Back Porch Dance Company</a>. 
 
             `,
         otherNotes: "",
@@ -1991,7 +1991,7 @@ b_bios = [
 
             Annie E. Burrell attended the Houghton Elementary
             School and Cambridge Rindge and Latin School. She was a homemaker and also worked
-            for many years at the Window Shop in Harvard Square and at the Cambridge Election
+            for many years at the <a href="bios.html?lNm=WindowShop&mNm=&fNm=">Window Shop</a> in Harvard Square and at the Cambridge Election
             Commission. <br><br>She was an active member on the board of directors at the Cambridge
             Community Center from 1985 to 1993. In 1993 she was named honorary member and
             continued her service to the center and community by supporting their activities
@@ -2179,14 +2179,18 @@ b_bios = [
         otherNotes: "",
         references: ` Bernstein, V. Susan Butcher, Pioneer in Sled Dog Racing. (August 17, 2006). New York
         Times. <Br>Retrieved 7/4/2020 from
-        https://www.nytimes.com/2006/08/07/sports/07butcher.html.<Br><Br>
+        <a href="https://www.nytimes.com/2006/08/07/sports/07butcher.html">
+        https://www.nytimes.com/2006/08/07/sports/07butcher.html</a>.<Br><Br>
         Academy of Achievement (n.d). Interview with Susan Butcher, Champion Dog Sled Racer.
-        <Br>Retrieved 7/4/2020 from https://achievement.org/achiever/susan-butcher/#interview/<Br><Br>
+        <Br>Retrieved 7/4/2020 from <a href="https://achievement.org/achiever/susan-butcher/#interview/">
+        https://achievement.org/achiever/susan-butcher/#interview/</a><Br><Br>
 
         Alaska Sports Hall of Fame (n.d.). Susan Butcher: Hard-nosed Competitor. <Br>Retrieved 7/4/2020
-        from http://alaskasports.wpengine.com/inductee/susan-butcher/
-        https://www.thecrimson.com/article/1974/5/24/the-warehouse-school-one-alternative-pthe/<Br><Br>
-        <Br>Photo source: https://commons.wikimedia.org/wiki/File:Fairbanks_-_Susan_Butcher_and_Dogs.jpg
+        from <a href=" http://alaskasports.wpengine.com/inductee/susan-butcher/"> http://alaskasports.wpengine.com/inductee/susan-butcher/</a>
+        <Br><br><a href="https://www.thecrimson.com/article/1974/5/24/the-warehouse-school-one-alternative-pthe/">
+        https://www.thecrimson.com/article/1974/5/24/the-warehouse-school-one-alternative-pthe/</a><Br><Br>
+        Photo source: <a href="https://commons.wikimedia.org/wiki/File:Fairbanks_-_Susan_Butcher_and_Dogs.jpg">
+        https://commons.wikimedia.org/wiki/File:Fairbanks_-_Susan_Butcher_and_Dogs.jpg</a>
 <br><Br><b>NOTE: bio written July 2020 - added to site in 2025
         `,
         photos: ["images_bios/susan_butcher.jpg"],

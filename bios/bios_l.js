@@ -180,7 +180,7 @@ l_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        categories: ["Scientist"],
+        categories: ["Scientist", "Astronomer"],
     },
     {
         organization: true,
@@ -452,7 +452,7 @@ l_bios = [
         narrative: `
             Maria (White) Lowell was born in Watertown to
             Abijah White and Anna Maria (Howard) White. Maria attended the Ursuline Convent
-            School in Charleston, but her formal education ended in 1834, when the school
+            School in Charlestown, but her formal education ended in 1834, when the school
             burned down. Five years later, Maria joined a group of &#8220;well-educated
             and thinking women,&#8221; whom Margaret Fuller
             guided in her &#8220;Conversations.&#8221; The goal of these women was stated

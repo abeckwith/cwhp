@@ -237,7 +237,7 @@ c_bios = [
  "",
 
         photoHeights: [],
-        categories: ["Scientist", "Suffragists/Suffrage Group"],
+        categories: ["Scientist", "Suffragists/Suffrage Group", "Astronomer"],
     },
     {
         organization: false,
@@ -888,7 +888,7 @@ c_bios = [
             
 
             Following the death of her husband, Lucy Cooke
-            moved to Montpellier, where she continued her healing business with the help
+            moved to Montpelier, where she continued her healing business with the help
             of an assistant, Everett William Raddin, who later became her second husband.
             They developed a successful mail-order business, offering consultations by mail,
             and selling various herbal remedies. Dr. Lucy Cooke also claimed to be able

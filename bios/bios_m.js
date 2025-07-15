@@ -824,28 +824,30 @@ m_bios = [
             on
             May
             31, 2008
-            at http://www.kirjasto.sci.fi/rfrost.htm.<br>
+            at <a href="http://www.kirjasto.sci.fi/rfrost.htm">http://www.kirjasto.sci.fi/rfrost.htm</a>.<br><br>
             Faggen,
             R. (2001). <em>The Cambridge Companion to Robert Frost. </em>University Press,
-            Cambridge, UK. Found on May 15, 2008 <a href="http://books.google.com/books?id=ApVwkZqt6uwC&amp;printsec=copyright&amp;dq=faggen+the+cambridge+companion+to+robert+frost"
-            >here</a
-            <br>
+            Cambridge, UK. Found on May 15, 2008 
+            <a href="http://books.google.com/books?id=ApVwkZqt6uwC&amp;printsec=copyright&amp;dq=faggen+the+cambridge+companion+to+robert+frost"
+            >here</a>
+            <br><br>
             Parini,
             J. (1999). <em>Robert Frost: a life.</em> Fistzhenry &amp; Whiteside Ltd.,
             Markham, Ontario. <br>
             <em>New
                 York Times</em> Obituary, 11/29/1988. &#8220;Theodore Morrison, poet and professor,
-            87&#8221;. Found on May 15, 2008 at <br>
-            http://query.nytimes.com/gst/fullpage.html?res=940DE0DA143FF93AA15752C1A96E948260<br>
+            87&#8221;. Found on May 15, 2008 at 
+            <a href="http://query.nytimes.com/gst/fullpage.html?res=940DE0DA143FF93AA15752C1A96E948260">
+            http://query.nytimes.com/gst/fullpage.html?res=940DE0DA143FF93AA15752C1A96E948260</a><br><br>
             Seymour,
             M. (1996). &#8220;Stopping by woods for seduction&#8221;,
             <em>New York
-                Times</em> article published May 19, 1996, found on May 15, 2008 at
-            http://query.nytimes.com/gst/fullpage.html?res=9C07EFD91339F93AA25756C0A960958260<br>
+                Times</em> article published May 19, 1996, found on May 15, 2008
+            <a href="http://query.nytimes.com/gst/fullpage.html?res=9C07EFD91339F93AA25756C0A960958260">here</a><br><br>
             Tuten, Nancy Lewis and John Zubizarreta, editors.
             <em>Robert Frost Encyclopedia</em>. Westport,
             Conn.: Greenwood Press, 2001. Found <a href="http://books.google.com/books?id=RjZuWeTJpAkC&amp;pg=PA466&amp;lpg=PA466&amp;dq=Robert+Frost+Encyclopedia+Tuten+Zubizarreta"
-            >here</a><br>Image courtesty of Middlebury College Special Collections, Middlebury, Vermont
+            >here</a><br><br>Image courtesty of Middlebury College Special Collections, Middlebury, Vermont
         `,
         photos: ["images_bios/kay_morrison.png"],
         photoTitles: [],
@@ -1043,14 +1045,14 @@ m_bios = [
          to leading a women's
          bible study group in her church</i>.<br><br>
         Here, she shares her story with the <b>Cambridge Black History Project</b>:
-       <h2> <center><a href='https://vimeo.com/725359798' target='_blank'>Robin McCree's story</a></h2><Br><Br>
+       <h2> <center><a href='https://vimeo.com/725359798'>Robin McCree's story</a></h2><Br><Br>
         </center>
-       The <a href='https://cambridgeblackhistoryproject.org/' target='_blank'>Cambridge Black HIstory Project</a>
+       The <a href='https://cambridgeblackhistoryproject.org/'>Cambridge Black HIstory Project</a>
         is an organization dedicated to preserving the lives and accomplishments
        of Black Cantabridgians.  We encourage you to explore the powerful stories they share on their website:
        <br>
         <Br><center>
-        <a href='https://cambridgeblackhistoryproject.org/' target='_blank'>
+        <a href='https://cambridgeblackhistoryproject.org/'>
 
         <img style='border-style: none;' src='images_util/CBHP.jpg' width='200'>
         </a></center>
