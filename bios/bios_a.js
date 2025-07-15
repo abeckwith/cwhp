@@ -481,11 +481,15 @@ as a writer were recognized only after her death. The founding members, who incl
             Ellen M. Al-Wegayan was raised in West Roxbury
             and graduated from the University of Massachusetts at Amherst in 1964. After
             living in Kuwait with her first husband, she returned to Boston and Cambridge
-            to raise her daughter. <Br><Br>For many years she operated Kirkland Family Day Care,
+            to raise her daughter. <Br><Br>
+            
+            For many years she operated Kirkland Family Day Care,
             and at the same time was active in community and school affairs. Among her civic
             activities, she was a founding member of Cambridge Tenants Union, a board member
-            of the Feminist Credit Union, and active in the organization &#8220;Save Central
-            Square&#8221;.`,
+            of the 
+            <a href="bios.html?lNm=MassachusettsFeministFederalCreditUnion&mNm=&fNm=">
+            Massachusetts Feminist Credit Union</a>, and active in the organization <em>Save Central
+            Square</em>`,
         otherNotes: "",
         references: `
         `,
@@ -688,7 +692,7 @@ a clothing manufacturer. <Br><Br> Dominga's parents emigrated from the African i
         deathDate: "12.25.2009",
         deathLocation: "Cambridge, MA",
         narrative: `
-             Born in Argentina, Rita Arditti is one of the three
+             Born in Argentina, Rita Arditti was one of the three
             daughters of a Sephardic Jewish family that had emigrated from Turkey. Under
             Peron's government, the national university was closed much of the time, making
             it hard for students to pursue their studies. In 1952 she came to the US and
@@ -706,12 +710,12 @@ a clothing manufacturer. <Br><Br> Dominga's parents emigrated from the African i
             entitled &quot;Biology and Social Issues&quot; in which she taught biological
             principles and the various ways in which they may be used in society to perpetuate
             inequality, she became involved with the feminist movement and co-founded, with
-            three other women, New Words, a women's bookstore, in Cambridge in 1974. Starting
+            three other women, <a href="bios.html?lNm=NewWords(Centerfor)&mNm=&fNm=">New Words</a>, a women's bookstore, in Cambridge in 1974. Starting
             as a single room rented from a restaurant on Kirkland Street, the store expanded
             to include an impressive collection of books, talks, and lectures, in a new
             location on Hampshire Street, contributing to build a strong community of women
             and to participation in civic dialogue. After 28 years of operation, the New
-            Words bookstore was eventually transformed into the Center for New Words, its
+            Words bookstore was eventually transformed into the Center for <a href="bios.html?lNm=NewWords(Centerfor)&mNm=&fNm=">New Words</a>, its
             mission being to &quot;use the power and creativity of words and ideas to strengthen
             the voice of progressive and marginalized women in society.&quot; It is currently
             located at the YWCA building on Temple Street in Central Square, Cambridge.
@@ -734,7 +738,7 @@ a clothing manufacturer. <Br><Br> Dominga's parents emigrated from the African i
             Wise Women Award from the Center for Women Policy Studies in Washington, DC,
             and in 1999 she received the Peace and Justice Award from the City of Cambridge,
             MA. In 2005, she was chosen to be one of the &quot;Women Who Dared&quot; from
-            the Jewish Women's Archive. She is an Emeritus faculty member of the Union Institute
+            the Jewish Women's Archive. She was an Emeritus faculty member of the Union Institute
             and University where she taught for 30 years. 
 
             `,
