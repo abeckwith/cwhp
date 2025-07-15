@@ -343,7 +343,7 @@ w_bios = [
             at Washington and in Boston (1863). Among her works, were statues and portrait
             busts of well-known women, including Harriet Martineau, (presented to Wellesley
             College but destroyed in a fire) Lucy Stone, and Harriet Beecher Stowe. Her
-            statue of Charles Sumner, completed when she was eighty, is in Harvard Square.
+            statue of Charles Sumner, completed when she was eighty, is just outside of Harvard Square.
             Her anonymous entry in the 1875 design competition for the Sumner statue was
             first selected and then disqualified by the judges when they learned it had
             been designed by a woman. With the support of friends, she completed the statue
@@ -365,10 +365,12 @@ w_bios = [
             Anne Whitney Papers, Wellesley College Archives<br>
             Martin, Elizabeth and Vivan Meyer. <em>Female Gazes: Seventy-Five Women Artists</em>.
             Toronto: Second Story Press, 1997.<Br>
-            Image source: https://en.wikipedia.org/wiki/Anne_Whitney
+            Whitney <a href="https://en.wikipedia.org/wiki/Anne_Whitney">image</a> 
+             and statue <a href="https://commons.wikimedia.org/wiki/File:Charles_Sumner_statue_%28Cambridge,_MA%29_-_Anne_Whitney_sculptor.JPG">
+        image</a> from wikimedia commons 
         `,
-        photos: ["images_bios/Anne_Whitney.jpg"],
-        photoTitles: [],
+        photos: ["images_bios/Anne_Whitney.jpg", "images_bios/whitneySumnerStatue.jpeg"],
+        photoTitles: ["", "Whitney's Charles Sumner statue"],
         dateCreated: "before 2006",
         dateUpdated: "April 8, 2025",
 
@@ -410,7 +412,8 @@ w_bios = [
             house was dedicated to Toni and Irvin Williams.<br>
             `,
         otherNotes: "",
-        references: `Photo courtesy of Toni Williams.
+        references: `Photo courtesy of Toni Williams.<Br>
+       
 <Br>Oral interview by Sarah Boyer.
         `,
         photos: ["images_bios/Toni%20Williams%20small.jpg"],
