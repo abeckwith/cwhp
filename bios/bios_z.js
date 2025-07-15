@@ -12,7 +12,7 @@ z_bios = [
         deathDate: "",
         deathLocation: "",
         narrative: `
-         Daughter of Tony Zappala, Dolores Zappala was born and raised in Cambridge. She was educated in 
+         Dolores Zappala was born and raised in Cambridge, the daugther of Anthony and Dolores (Totsi) Zappala. She was educated in 
          Cambridge schools, graduating from Matignon High School in 1965. In the 60s she joined the Blessed
           Sacrament Color Guards (SAC) in Cambridge, and her sister Ann Marie soon followed her into the group.
            The young sisters' involvement persuaded their father (at their mother's urging) to become active in
