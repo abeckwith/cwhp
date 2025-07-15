@@ -12,25 +12,25 @@ a_bios = [
         deathDate: "",
         deathLocation: "",
         narrative: `
-        The daughter of an American diplomat, Benjamin
-            Mayham Hulley and his wife, Joan Carrington Hulley, Barbara was raised in France
-            and Ireland and graduated from Smith College in 1948. She married Paul Kurt
-            
-            Ackermann in 1945 who became a Boston University professor of German. Beginning
-
-            her political career in 1962, she was active in the Cambridge School Committee
-            for six years and was a Cambridge city councilor for ten years. For two of those
-            ten years she presided over both bodies as the first woman mayor (1972-1973).
-            
-            <br><br>
-
-            In 1972, she was a delegate to the Democratic National Convention from Massachusetts.
-            In 1989, Ackermann wrote an account of her experiences as a Cambridge politician
-            in a book entitled, <em>&#8220;You the Mayor?&#8221;: The Education of a City
-                Politician</em> which offers insights into political life and the functioning
-            of a city .In recent years, she has been active as chair of the Massachusetts
-            non-profit organization, Universal Health Care Education Fund (UHCEF), part
-            of MASS-CARE.
+        In 1973, Barbara Ackermann became the first woman to serve as mayor of Cambridge.
+        Born in Stockholm on March 1, 1925, she grew up in France and graduated from Smith
+        College. According to her daughter, Joan Ackermann, she was “a savvy politician who
+        could compromise but knew what she was aiming for and held to the path.”
+        Ackermann was a lifelong fighter for equality for all. Known for never backing down in
+        her efforts to advocate for the disenfranchised, she embodied the term “social justice
+        warrior.”
+        She was a member of the Cambridge School Committee from 1962 to 1968, when she
+        was elected to the City Council. After her term as mayor, she returned to her seat on the
+        City Council and remained a member until 1977.
+        In 1972, Ackermann was a delegate to the Democratic National Convention from
+        Massachusetts. In 1989, she wrote an account of her experiences as a Cambridge
+        politician in a book entitled, <em>"You the Mayor?”: The Education of a City Politician</em>, which
+        offers insights into political life and the functioning of a city. In addtion, she was active
+        as chair of the Massachusetts non-profit organization Universal Health Care Education
+        Fund (UHCEF), part of MASS-CARE.
+        Barbara Ackermann was the daughter of Benjamin Hulley, of the United States Foreign
+        Service, and Joan Carrington. In 1946, she married Paul Ackermann, a Boston
+        University professor of German, who died in 2011.
             `,
         otherNotes: "",
         references: ` The Political Graveyard: Index to Politicians (online
@@ -41,7 +41,7 @@ a_bios = [
         photoHeights: [],
         
         dateCreated: "before 2006",
-        dateUpdated: "",
+        dateUpdated: "July 15, 2025",
 
         categories: ["Political Leader"],
     },
