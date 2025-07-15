@@ -199,31 +199,41 @@ a_bios = [
         deathDate: "06.27.1907",
         deathLocation: "Arlington, MA",
         narrative: `
-            Elizabeth Cabot Cary was the daughter of Mary
-            Ann Cushing (Perkins) and Thomas Graves Cary, a Boston business man. Through
-            her sister, who had married a professor of Greek at Harvard, she met the Swiss
-            naturalist, Louis Agassiz, who had begun a brilliant career teaching at Harvard
-            and who founded the Museum of Comparative Zoology. The two married in 1850
-            and she took on the role of stepmother to his three children by his first marriage.
+            In 1850, Elizabeth Cabot Cary married Louis
+            Agassiz, founder of the Museum of Comparative
+            Zoology at Harvard, where he was a teacher. She
+            took on the role of stepmother to his three
+            children by his first marriage. Five years later, she
+            opened a girls' school in their home at 36 Quincy
+            Street, Cambridge, where Agassiz and a number
+            of other Harvard professors lectured. Until 1863,
+            when the closed, it provided a small income and
+            addressed the need for the education of young
+            women. Elizabeth Agassiz took notes on her
+            husband's lectures and published introductory
+            texts on natural history with her stepson, the
+            oceanographer and natural historian, Alexander
+            Agassiz. <br><Br>
             
-            Five years later, she opened a girls' school in their home at 36 Quincy
-            Street Cambridge where Louis Agassiz and a number of other Harvard professors
-            lectured. The school provided a small income and addressed the need for the
-            education of young women until 1863 when the school closed. Elizabeth Agassiz
-            took notes on her husband's lectures and published introductory texts
-            on natural history with her stepson, the oceanographer and natural historian,
-            Alexander Agassiz. In 1865, she co-authored a record of her husband's
-            expedition to Brazil, <em>A Journey in Brazil</em>.<br><br>Later, she served as scribe
-            for the Hassler Expedition (1872), providing the only account of her husband's
-            last theories on glaciation. <br>
-            After Louis Agassiz's death in 1873, Elizabeth
-            joined six other women in an attempt to persuade Harvard to open its doors to
-            women. The result was the Harvard Annex, founded in 1879, which later became
-            Radcliffe College. She threw her influence to those who believed that women
-            students should be offered the same courses as the men and be taught by the
-            same professors. At the age of 72, she accepted the first presidency of Radcliffe
-            and remained at its head until 1902. Shortly before her death she moved from
-            Cambridge to Arlington Heights where she died in 1907 at the age of seventy-five.
+            In 1865, she co-authored a record of her
+            husband's expedition to Brazil, <EM>A Journey in Brazil</EM>.
+            Later, she served as scribe for the Hassler
+            Expedition (1872), providing the only account of
+            her husband's last theories on glaciation. After
+            Louis Agassiz's death in 1873, Elizabeth joined six
+            other women in an attempt to persuade Harvard
+            to open its doors to women. The result was the
+            Harvard Annex, founded in 1879, which later
+
+            became Radcliffe College. She used her influence
+            to convince those who believed that women
+            students should be offered the same courses as
+             men and be taught by the same
+            professors. At the age of 72, she accepted the first
+            presidency of Radcliffe and remained at its head
+            until 1902. Shortly before her death she moved
+            from Cambridge to Arlington Heights, where she
+            died in 1907 at the age of seventy-five.
 
             `,
         otherNotes: "",
@@ -233,7 +243,7 @@ a_bios = [
         photos: ["images_bios/eliabeth cabot aggasiz.jpeg"],
         photoTitles: [],
         dateCreated: "before 2006",
-        dateUpdated: "",
+        dateUpdated: "July 15, 2025",
 
         photoHeights: [],
         categories: ["Teacher/Educator"],
