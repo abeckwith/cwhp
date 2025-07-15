@@ -81,6 +81,8 @@ function showRecents(num) {
     all_bios.forEach((bioLetterList) => {
         //go through each name for this letter:
         bioLetterList.forEach((thename) => {
+            if(thename.deathDate == "" && thename.firstName !== "") 
+                console.log(thename.lastName + ", " + thename.firstName + " (b. " + thename.birthDate + ")");
             if (thename.dateCreated != "before 2006") {
                 //if something like Mar 2024:
 
@@ -92,7 +94,7 @@ function showRecents(num) {
                     .split(delimiter)[0]
                     .substring(0, 3); //1st 3 chars: Jan
                 year = thename.dateCreated.split(delimiter)[1];
-                console.log(monthNameShort + ", " + year);
+                // console.log(monthNameShort + ", " + year);
                 //find month number
                 monthNum = 0;
                 for (let index = 0; index < months.length; index++) {
@@ -210,7 +212,7 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
             formatLocation(person.birthLocation) +
             "</div>";
 
-    if (person.deathDateDate != "" || person.deathLocation != "") {
+    if (person.deathDate != "" || person.deathLocation != "") {
         dth = formatDate("d. ", person.deathDate);
         if (dth == "d. ") dth = "";
         html += "<div>" + dth + formatLocation(person.deathLocation) + "</div>";
