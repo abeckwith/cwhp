@@ -387,8 +387,8 @@ w_bios = [
         title: `Factory worker, PTA president, Volunteer`,
         birthDate: "08.24.1921",
         birthLocation: "",
-        deathDate: "",
-        deathLocation: "",
+        deathDate: "12.14.2014",
+        deathLocation: "Cambridge, MA",
         narrative: `
             Born
             in Cambridge on Howard Street, Antoinette (Toni) Rinaldi's family moved
@@ -419,7 +419,7 @@ w_bios = [
         photos: ["images_bios/Toni%20Williams%20small.jpg"],
         photoTitles: [],
         dateCreated: "before 2006",
-        dateUpdated: "",
+        dateUpdated: "Dec. 14, 2014",
 
         photoHeights: [],
         categories: ["Factory Worker", "Volunteers"],

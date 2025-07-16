@@ -9,8 +9,8 @@ a_bios = [
         title: `First woman mayor of Cambridge`,
         birthDate: "03.01.1925",
         birthLocation: "Stockholm, Sweden",
-        deathDate: "",
-        deathLocation: "",
+        deathDate: "07.04.2020",
+        deathLocation: "Lenox, MA",
         narrative: `
         In 1973, Barbara Ackermann became the first woman to serve as mayor of Cambridge.
         Born in Stockholm on March 1, 1925, she grew up in France and graduated from Smith

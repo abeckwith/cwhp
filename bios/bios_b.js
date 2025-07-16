@@ -197,8 +197,8 @@ b_bios = [
         title: `Abolitionist, escaped slave`,
         birthDate: "ca.1833",
         birthLocation: "Hampton, Virginia",
-        deathDate: "",
-        deathLocation: "",
+        deathDate: "11.08.1901",
+        deathLocation: "Cambridge, MA",
         narrative: `
 
             Born a slave, Louisa was given the name Mary Frances Melburn as a child which
@@ -229,7 +229,7 @@ b_bios = [
         photos: [""],
         photoTitles: [],
         dateCreated: "before 2006",
-        dateUpdated: "",
+        dateUpdated: "July 16, 2025",
 
         photoHeights: [],
         categories: ["Abolitionist", "Refugee"],
@@ -1488,8 +1488,8 @@ b_bios = [
                 Television Producer`,
         birthDate: "00.00.1937",
         birthLocation: "Winthrop, MA",
-        deathDate: "",
-        deathLocation: "",
+        deathDate: "09.07.2022",
+        deathLocation: "Cambridge, MA",
         narrative: `
 
 
@@ -1577,7 +1577,7 @@ b_bios = [
         photos: [""],
         photoTitles: [],
         dateCreated: "before 2006",
-        dateUpdated: "",
+        dateUpdated: "July 16, 2025",
 
         photoHeights: [],
         categories: [

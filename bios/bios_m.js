@@ -9,8 +9,8 @@ m_bios = [
         title: `Navy Nurse (Retired)`,
         birthDate: "03.19.1948",
         birthLocation: "Arlington, MA",
-        deathDate: "",
-        deathLocation: "",
+        deathDate: "03.18.2025",
+        deathLocation: "Cambridge, MA",
         narrative: `
             Daughter
             of Mary Josephine (Barron) and Thomas Christopher O'Dwyer, Sr., Mary Jo
@@ -83,7 +83,7 @@ m_bios = [
         photos: ["images_bios/MajorsMJ_small.jpg"],
         photoTitles: [],
         dateCreated: "before 2006",
-        dateUpdated: "April 12, 2025",
+        dateUpdated: "July 16, 2025",
 
         photoHeights: [],
         categories: ["Nurse", "Military"],
