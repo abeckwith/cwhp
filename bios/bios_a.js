@@ -40,7 +40,7 @@ a_bios = [
         photoTitles: [""],
         photoHeights: [],
         
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "July 15, 2025",
 
         categories: ["Political Leader"],
@@ -79,7 +79,7 @@ a_bios = [
         `,
         photos: ["images_bios/Portrait_of_Eleanor_Hallowell_Abbott.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "July 9, 2025",
 
         photoHeights: [],
@@ -137,7 +137,7 @@ a_bios = [
         `,
         photos: ["images_bios/Mary_Manning_(writer).jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -180,7 +180,7 @@ a_bios = [
         `,
         photos: ["images_bios/Hannah_Adams_portrait.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -242,7 +242,7 @@ a_bios = [
         `,
         photos: ["images_bios/eliabeth cabot aggasiz.jpeg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "July 15, 2025",
 
         photoHeights: [],
@@ -284,7 +284,7 @@ a_bios = [
         `,
         photos: ["images_bios/carol albright.jpeg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -327,7 +327,7 @@ a_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -365,7 +365,7 @@ a_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -418,7 +418,7 @@ as a writer were recognized only after her death. The founding members, who incl
     `,
         photos: ["images_bios/alice james books.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -457,7 +457,7 @@ as a writer were recognized only after her death. The founding members, who incl
         `,
         photos: ["images_bios/corinne woodson alleyne.png"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -495,7 +495,7 @@ as a writer were recognized only after her death. The founding members, who incl
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -539,7 +539,7 @@ as a writer were recognized only after her death. The founding members, who incl
         `,
         photos: ["images_bios/rosalie anders.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -578,7 +578,7 @@ a clothing manufacturer. <Br><Br> Dominga's parents emigrated from the African i
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "March 2025",
 
         photoHeights: [],
@@ -624,7 +624,7 @@ a clothing manufacturer. <Br><Br> Dominga's parents emigrated from the African i
         `,
         photos: ["images_bios/constance applebee.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -672,7 +672,7 @@ a clothing manufacturer. <Br><Br> Dominga's parents emigrated from the African i
         `,
         photos: ["images_bios/linda archer.png"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -797,7 +797,7 @@ a clothing manufacturer. <Br><Br> Dominga's parents emigrated from the African i
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -834,7 +834,7 @@ a clothing manufacturer. <Br><Br> Dominga's parents emigrated from the African i
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -868,7 +868,7 @@ a clothing manufacturer. <Br><Br> Dominga's parents emigrated from the African i
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],

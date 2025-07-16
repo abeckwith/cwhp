@@ -58,7 +58,7 @@ j_bios = [
         `,
         photos: ["images_bios/harriet_jacobs.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
+        dateCreated: "prior to 2006",dateUpdated:
  "April 5, 2025",
         
         photoHeights: [],
@@ -135,7 +135,7 @@ j_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
+        dateCreated: "prior to 2006",dateUpdated:
  "",
         
         photoHeights: [],
@@ -197,7 +197,7 @@ j_bios = [
         `,
         photos: ["images_bios/grace_johnson.png"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
+        dateCreated: "prior to 2006",dateUpdated:
  "April 8, 2025",
         
         photoHeights: [],
@@ -257,7 +257,7 @@ j_bios = [
         `,
         photos: ["images_bios/AlicePalache.png"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
+        dateCreated: "prior to 2006",dateUpdated:
  "",
         
         photoHeights: [],

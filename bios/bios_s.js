@@ -53,7 +53,7 @@ s_bios = [
         `,
         photos: ["images_bios/Saavedra.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 11, 2025",
 
         photoHeights: [],
@@ -144,7 +144,7 @@ s_bios = [
         `,
         photos: ["images_bios/May_Sarton.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
@@ -185,7 +185,7 @@ s_bios = [
         photos: ["images_bios/Marian_Schlesinger.jpg"],
        
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
@@ -236,7 +236,7 @@ s_bios = [
         `,
         photos: ["images_bios/MaryRoseShea.jpg"],
         photoTitles: ["Photo Courtesy of the Shea Family"],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
@@ -330,7 +330,7 @@ s_bios = [
         `,
         photos: ["images_bios/Simmons Blue Suit_small.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
@@ -392,7 +392,7 @@ s_bios = [
            `,
         photos: ["images_bios/Alice_Kimball_Smith.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 11, 2025",
 
         photoHeights: [],
@@ -446,7 +446,7 @@ s_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],

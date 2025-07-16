@@ -36,7 +36,7 @@ v_bios = [
         `,
         photos: ["images_bios/JuliaV.jpg"],
         photoTitles: ["Photo Courtesy of Sylvia Saavedra-Keber"],
-        dateCreated: "before 2006",dateUpdated:
+        dateCreated: "prior to 2006",dateUpdated:
  "April 6, 2025",
         
         photoHeights: [],
@@ -91,7 +91,7 @@ v_bios = [
         2004 Kennedy Center artist detail `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
+        dateCreated: "prior to 2006",dateUpdated:
  "April 12, 2025",
         
         photoHeights: [],

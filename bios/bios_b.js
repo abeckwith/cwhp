@@ -55,7 +55,7 @@ b_bios = [
         `,
         photos: ["images_bios/BPD_small.jpeg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -128,7 +128,7 @@ b_bios = [
         `,
         photos: ["images_bios/EmilyGreeneBalch.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -177,7 +177,7 @@ b_bios = [
         `,
         photos: ["images_bios/mary louise baldwin.jpeg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -228,7 +228,7 @@ b_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "July 16, 2025",
 
         photoHeights: [],
@@ -262,7 +262,7 @@ b_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -322,7 +322,7 @@ b_bios = [
         `,
         photos: ["images_bios/mary bancroft.jpeg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -369,7 +369,7 @@ b_bios = [
         `,
         photos: ["images_bios/ruth barron copy.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -420,7 +420,7 @@ b_bios = [
         `,
         photos: ["images_bios/charlotte bates.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -478,7 +478,7 @@ b_bios = [
         `,
         photos: ["images_bios/de ama battle head shot small.jpeg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -517,7 +517,7 @@ b_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -581,7 +581,7 @@ b_bios = [
         `,
         photos: ["images_bios/Mabel_Hubbard_Bell.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -638,7 +638,7 @@ b_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -719,7 +719,7 @@ b_bios = [
         `,
         photos: ["images_bios/Sara Mae Berman.jpeg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -762,7 +762,7 @@ b_bios = [
         `,
         photos: ["images_bios/beukema.jpeg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -815,7 +815,7 @@ b_bios = [
         `,
         photos: ["images_bios/ann bernays.webp"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -856,7 +856,7 @@ b_bios = [
         `,
         photos: ["images_bios/grete bibring.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -931,7 +931,7 @@ b_bios = [
         `,
         photos: ["images_bios/Elizabeth_Bishop,_1934_yearbook_portrait.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -978,7 +978,7 @@ b_bios = [
         `,
         photos: ["images_bios/black womens oral history.avif"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -1037,7 +1037,7 @@ b_bios = [
         `,
         photos: ["images_bios/Alice Stone Blackwell LOC small.jpeg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -1100,7 +1100,7 @@ b_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -1142,7 +1142,7 @@ b_bios = [
         `,
         photos: ["images_bios/ann bolger.jpeg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -1190,7 +1190,7 @@ b_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -1257,7 +1257,7 @@ b_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -1311,7 +1311,7 @@ b_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -1359,7 +1359,7 @@ b_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -1467,7 +1467,7 @@ b_bios = [
         `,
         photos: ["images_bios/Brass sisters.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 6, 2025",
 
         photoHeights: [],
@@ -1576,7 +1576,7 @@ b_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "July 16, 2025",
 
         photoHeights: [],
@@ -1625,7 +1625,7 @@ b_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -1672,7 +1672,7 @@ b_bios = [
         `,
         photos: ["images_bios/Bread_and_Roses_Menu.png"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -1738,7 +1738,7 @@ b_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -1785,7 +1785,7 @@ b_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -1821,7 +1821,7 @@ b_bios = [
         `,
         photos: ["images_bios/brunt ruth 1917 chls.png"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -1873,7 +1873,7 @@ b_bios = [
         `,
         photos: ["images_bios/Sara_Bull_photo.png"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -1928,7 +1928,7 @@ b_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -1968,7 +1968,7 @@ b_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -2003,7 +2003,7 @@ b_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -2041,7 +2041,7 @@ b_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -2079,7 +2079,7 @@ b_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -2125,7 +2125,7 @@ b_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 6, 2025",
 
         photoHeights: [],

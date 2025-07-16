@@ -82,7 +82,7 @@ m_bios = [
         `,
         photos: ["images_bios/MajorsMJ_small.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "July 16, 2025",
 
         photoHeights: [],
@@ -133,7 +133,7 @@ m_bios = [
         `,
         photos: ["images_bios/map_feminist.png"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -185,7 +185,7 @@ m_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
@@ -245,7 +245,7 @@ m_bios = [
         `,
         photos: ["images_bios/Markham_HWD.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -299,7 +299,7 @@ m_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
@@ -352,7 +352,7 @@ m_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -434,7 +434,7 @@ m_bios = [
             improve radar,&#8221; <em>The Boston Globe</em>, May25, 2004.`,
         photos: ["images_bios/Genevieve%20McGlinchey%20Mathison%20small.jpeg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -575,7 +575,7 @@ m_bios = [
         `,
         photos: ["images_bios/Estelle_Merrill.png"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -636,7 +636,7 @@ m_bios = [
         `,
         photos: ["images_bios/AgnesMongan.png"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
@@ -695,7 +695,7 @@ m_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
@@ -761,7 +761,7 @@ m_bios = [
                 `,
         photos: ["images_bios/MaudCabot.png"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
@@ -851,7 +851,7 @@ m_bios = [
         `,
         photos: ["images_bios/kay_morrison.png"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 15, 2025",
 
         photoHeights: [],
@@ -894,7 +894,7 @@ m_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],

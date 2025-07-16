@@ -32,7 +32,7 @@ g_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -91,7 +91,7 @@ g_bios = [
         `,
         photos: ["images_bios/gilman.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -162,7 +162,7 @@ g_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -238,7 +238,7 @@ g_bios = [
         `,
         photos: ["images_bios/louise_gluck.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
@@ -314,7 +314,7 @@ g_bios = [
         `,
         photos: ["images_bios/MiriamGoodman1.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -387,7 +387,7 @@ g_bios = [
         `,
         photos: ["images_bios/Alice_Bache_Gould.png"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -475,7 +475,7 @@ g_bios = [
         `,
         photos: ["images_bios/Saundra_Graham.png"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
@@ -555,7 +555,7 @@ g_bios = [
         photoTitles: [
             "Michele Scott and Renae Gray <br>Photo Courtesy of Michele Scott",
         ],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 8, 2025",
 
         photoHeights: [],
@@ -645,7 +645,7 @@ g_bios = [
         `,
         photos: ["images_bios/suzanne_greene.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 8, 2025",
 
         photoHeights: [],
@@ -681,7 +681,7 @@ g_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],

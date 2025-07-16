@@ -62,7 +62,7 @@ c_bios = [
         `,
         photos: ["images_bios/neighborhood house on moore.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
+        dateCreated: "prior to 2006",dateUpdated:
  "",
 
         photoHeights: [],
@@ -105,7 +105,7 @@ c_bios = [
         `,
         photos: ["images_bios/cpea.png"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
+        dateCreated: "prior to 2006",dateUpdated:
  "",
 
         photoHeights: [215],
@@ -168,7 +168,7 @@ c_bios = [
         `,
         photos: ["images_bios/CSALA_195x250.jpeg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
+        dateCreated: "prior to 2006",dateUpdated:
  "",
 
         photoHeights: [],
@@ -233,7 +233,7 @@ c_bios = [
         `,
         photos: ["images_bios/annie cannon.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
+        dateCreated: "prior to 2006",dateUpdated:
  "",
 
         photoHeights: [],
@@ -278,7 +278,7 @@ c_bios = [
         `,
         photos: ["images_bios/Cornelia_Cannon_in_~April_1948.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
+        dateCreated: "prior to 2006",dateUpdated:
  "",
 
         photoHeights: [],
@@ -331,7 +331,7 @@ c_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
+        dateCreated: "prior to 2006",dateUpdated:
  "",
 
         photoHeights: [],
@@ -377,7 +377,7 @@ c_bios = [
         `,
         photos: ["images_bios/The_Second_Wave_First_Issue_Cover.png"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
+        dateCreated: "prior to 2006",dateUpdated:
  "",
 
         photoHeights: [],
@@ -422,7 +422,7 @@ c_bios = [
         `,
         photos: ["images_bios/centro presente.png"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
+        dateCreated: "prior to 2006",dateUpdated:
  "",
 
         photoHeights: [],
@@ -480,7 +480,7 @@ c_bios = [
         `,
         photos: ["images_bios/jeanne chall.jpeg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
+        dateCreated: "prior to 2006",dateUpdated:
  "",
 
         photoHeights: [],
@@ -527,7 +527,7 @@ c_bios = [
         `,
         photos: ["images_bios/joycechen.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
+        dateCreated: "prior to 2006",dateUpdated:
  "April 11, 2025",
 
         photoHeights: [],
@@ -584,7 +584,7 @@ c_bios = [
         `,
         photos: ["images_bios/Julia_Child_restore.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
+        dateCreated: "prior to 2006",dateUpdated:
  "",
 
         photoHeights: [],
@@ -635,7 +635,7 @@ c_bios = [
         `,
         photos: ["images_bios/ccrc.png"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
+        dateCreated: "prior to 2006",dateUpdated:
  "",
 
         photoHeights: [],
@@ -676,7 +676,7 @@ c_bios = [
             "images_bios/city-girl-cafe-1-square-0721ede4631d516b7a3d1cbcd61e5b6b-of0zjyvr75k2.jpg",
         ],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
+        dateCreated: "prior to 2006",dateUpdated:
  "",
 
         photoHeights: [],
@@ -723,7 +723,7 @@ c_bios = [
         `,
         photos: ["images_bios/clayground.png"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
+        dateCreated: "prior to 2006",dateUpdated:
  "",
 
         photoHeights: [],
@@ -788,7 +788,7 @@ c_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
+        dateCreated: "prior to 2006",dateUpdated:
  "",
 
         photoHeights: [],
@@ -854,7 +854,7 @@ c_bios = [
         `,
         photos: ["images_bios/Ada-Comstock-1905.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
+        dateCreated: "prior to 2006",dateUpdated:
  "",
 
         photoHeights: [],
@@ -915,7 +915,7 @@ c_bios = [
         `,
         photos: ["images_bios/lucy cooke.webp"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
+        dateCreated: "prior to 2006",dateUpdated:
  "",
 
         photoHeights: [],
@@ -967,7 +967,7 @@ c_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
+        dateCreated: "prior to 2006",dateUpdated:
  "",
 
         photoHeights: [],
@@ -1036,7 +1036,7 @@ c_bios = [
             "images_bios/Jane_Curtin_at_the_41st_Emmy_Awards_cropped_and_altered.jpg",
         ],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
+        dateCreated: "prior to 2006",dateUpdated:
  "",
 
         photoHeights: [],
@@ -1088,7 +1088,7 @@ Image source: https://en.wikipedia.org/wiki/Charlotte_Cushman
         `,
         photos: ["images_bios/Charlotte_Cushman_(Sully,_1843).jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
+        dateCreated: "prior to 2006",dateUpdated:
  "",
 
         photoHeights: [],

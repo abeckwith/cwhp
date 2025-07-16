@@ -95,7 +95,7 @@ p_bios = [
         `,
         photos: ["images_bios/emily_Parsons.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
@@ -155,7 +155,7 @@ p_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -213,7 +213,7 @@ p_bios = [
         `,
         photos: ["images_bios/Cecilia_Gaposchkin.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
@@ -277,7 +277,7 @@ p_bios = [
         `,
         photos: ["images_bios/peirce.png"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
@@ -329,7 +329,7 @@ p_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "Apirl 12, 2025",
 
         photoHeights: [],

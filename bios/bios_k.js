@@ -54,7 +54,7 @@ k_bios = [
         `,
         photos: ["images_bios/phebe_mitchell.png"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 6, 2025",
         photoHeights: [],
         categories: [
@@ -118,7 +118,7 @@ k_bios = [
         `,
         photos: ["images_bios/Vera_K.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],

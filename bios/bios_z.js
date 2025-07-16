@@ -46,7 +46,7 @@ World Guard International online site www.wgi.org/about/halloffame.php
     `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "July 11, 2025",
         photoPos: [],
         photoHeights: [],

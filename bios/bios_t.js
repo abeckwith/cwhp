@@ -52,7 +52,7 @@ t_bios = [
        <Br> Image source: https://en.wikipedia.org/wiki/Helen_B._Taussig        `,
         photos: ["images_bios/Helen_Taussig.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
@@ -113,7 +113,7 @@ t_bios = [
         `,
         photos: ["images_bios/katharine_taylor.jpeg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
@@ -172,7 +172,7 @@ t_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -227,7 +227,7 @@ t_bios = [
         `,
         photos: ["images_bios/Mary_Crutchfield_Thompson.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 8, 2025",
 
         photoHeights: [],
@@ -281,7 +281,7 @@ t_bios = [
         `,
         photos: ["images_bios/Ruth_Turner.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],

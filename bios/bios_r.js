@@ -71,7 +71,7 @@ r_bios = [
         `,
         photos: ["images_bios/reys.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
+        dateCreated: "prior to 2006",dateUpdated:
  "April 7, 2025",
         
         photoHeights: [225],
@@ -122,7 +122,7 @@ r_bios = [
         `,
         photos: ["images_bios/Ellen_Swallow_Richards.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
+        dateCreated: "prior to 2006",dateUpdated:
  "April 7, 2025",
         
         photoHeights: [],
@@ -170,7 +170,7 @@ r_bios = [
         `,
         photos: ["images_bios/anne_roe.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
+        dateCreated: "prior to 2006",dateUpdated:
  "April 7, 2025",
         
         photoHeights: [],
@@ -245,7 +245,7 @@ r_bios = [
         `,
         photos: ["images_bios/Anne%20Roorbach%20small.jpeg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
+        dateCreated: "prior to 2006",dateUpdated:
  "",
         
         photoHeights: [],
@@ -294,7 +294,7 @@ r_bios = [
         `,
         photos: ["images_bios/rubinow.webp"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
+        dateCreated: "prior to 2006",dateUpdated:
  "April 7, 2025",
 photoPos:[],
         photoHeights: [],

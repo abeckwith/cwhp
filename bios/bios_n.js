@@ -47,7 +47,7 @@ n_bios = [
         `,
         photos: ["images_bios/new_words.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
+        dateCreated: "prior to 2006",dateUpdated:
  "April 12, 2025",
 photoPos:[],
         photoHeights: ["150"],

@@ -28,7 +28,7 @@ w_bios = [
         `,
         photos: ["images_bios/mary_wadden.png"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 6, 2025",
 
         photoHeights: [],
@@ -87,7 +87,7 @@ w_bios = [
         `,
         photos: ["images_bios/Juliaquilt_cropped_small.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -303,7 +303,7 @@ w_bios = [
         `,
         photos: ["images_bios/whitman_florence.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
@@ -371,7 +371,7 @@ w_bios = [
         `,
         photos: ["images_bios/Anne_Whitney.jpg", "images_bios/whitneySumnerStatue.jpeg"],
         photoTitles: ["", "Whitney's Charles Sumner statue"],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 8, 2025",
 
         photoHeights: [],
@@ -418,7 +418,7 @@ w_bios = [
         `,
         photos: ["images_bios/Toni%20Williams%20small.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "Dec. 14, 2014",
 
         photoHeights: [],
@@ -486,7 +486,7 @@ w_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -518,7 +518,7 @@ w_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -585,7 +585,7 @@ w_bios = [
         `,
         photos: ["images_bios/HANNAH_Winthrop.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 8, 2025",
 
         photoHeights: [],
@@ -640,7 +640,7 @@ w_bios = [
         `,
         photos: ["images_bios/Ozeline__Wise.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 8, 2025",
 
         photoHeights: [],
@@ -692,7 +692,7 @@ w_bios = [
         `,
         photos: ["images_bios/wise.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -743,7 +743,7 @@ w_bios = [
         `,
         photos: ["images_bios/Alice_Wolf.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 6, 2025",
 
         photoHeights: [],
@@ -792,7 +792,7 @@ w_bios = [
             Library; Central Square Women's Walking Tour.`,
         photos: ["images_bios/888MemDr.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -847,7 +847,7 @@ w_bios = [
         `,
         photos: ["images_bios/womenscoffehouse.png"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 11, 2025",
 
         photoHeights: ["100"],
@@ -908,7 +908,7 @@ w_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -961,7 +961,7 @@ w_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -1004,7 +1004,7 @@ w_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],

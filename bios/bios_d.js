@@ -34,7 +34,7 @@ d_bios = [
         `,
         photos: ["images_bios/elizabeth_dana.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
@@ -75,7 +75,7 @@ d_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -131,7 +131,7 @@ d_bios = [
         `,
         photos: ["images_bios/mabel daniels.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -174,7 +174,7 @@ d_bios = [
         `,
         photos: ["images_bios/dantuono.png"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -210,7 +210,7 @@ d_bios = [
         `,
         photos: ["images_bios/darbeloff.png"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -315,7 +315,7 @@ d_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -385,7 +385,7 @@ d_bios = [
         `,
         photos: ["images_bios/Henrietta Davis Bio Photo_small.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -491,7 +491,7 @@ d_bios = [
             "Photo by Betsy Sowers",
             "Photo courtesy of Deborah Silverstein. Pictured: Marcia Diehl, at center, with bandmates of the New Harmony Sisterhood Band--Katie Tolles, Kendal Hale, Pat Oullette and Deborah Silverstein.",
         ],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -549,7 +549,7 @@ d_bios = [
         `,
         photos: ["images_bios/Mary_A._Denison.png"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -606,7 +606,7 @@ d_bios = [
         `,
         photos: ["images_bios/der_hovanessian.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -665,7 +665,7 @@ d_bios = [
         `,
         photos: ["images_bios/Helene-Deutsch.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -733,7 +733,7 @@ d_bios = [
         `,
         photos: ["images_bios/Dorothea%20Dix%20LOC.gif"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -782,7 +782,7 @@ d_bios = [
         `,
         photos: ["images_bios/driscoll_small.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -825,7 +825,7 @@ d_bios = [
         `,
         photos: ["images_bios/Cora_Du_Bois_(cropped).jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -893,7 +893,7 @@ d_bios = [
         `,
         photos: ["images_bios/Louise%20Dunlap.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -955,7 +955,7 @@ d_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],

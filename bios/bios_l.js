@@ -55,7 +55,7 @@ l_bios = [
         `,
         photos: ["images_bios/Florence%20Ladd%20small.jpeg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -96,7 +96,7 @@ l_bios = [
        <br> Image source: https://dougholder.blogspot.com/2012/01/linda-larson-poet-who-writes-what-she.html`,
         photos: ["images_bios/LindaLarson.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
@@ -176,7 +176,7 @@ l_bios = [
         `,
         photos: ["images_bios/Henrietta_Swan_Leavitt.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -214,7 +214,7 @@ l_bios = [
         `,
         photos: ["images_bios/lesbian_avengers.png"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -299,7 +299,7 @@ l_bios = [
         `,
         photos: ["images_bios/EdithLesley_small.jpeg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -376,7 +376,7 @@ l_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -431,7 +431,7 @@ l_bios = [
         `,
         photos: ["images_bios/Alice_Longfellow.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
@@ -485,7 +485,7 @@ l_bios = [
         `,
         photos: ["images_bios/maria_lowell.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
@@ -543,7 +543,7 @@ l_bios = [
         `,
         photos: ["images_bios/Lois_Lowry.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
@@ -643,7 +643,7 @@ l_bios = [
         `,
         photos: ["images_bios/Florence%20Luscombe%201977%20small.jpeg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],

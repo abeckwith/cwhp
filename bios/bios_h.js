@@ -47,7 +47,7 @@ h_bios = [
         `,
         photos: ["images_bios/Isabella%20Halsted%20small.jpeg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -96,7 +96,7 @@ h_bios = [
         `,
         photos: ["images_bios/Alice_Hamilton.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -137,7 +137,7 @@ h_bios = [
         `,
         photos: ["images_bios/Margaret_Hamilton_1995.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
@@ -176,7 +176,7 @@ h_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
@@ -228,7 +228,7 @@ h_bios = [
         `,
         photos: ["images_bios/Sophia_Bennett.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -306,7 +306,7 @@ h_bios = [
         `,
         photos: ["images_bios/JudyHerman.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
@@ -361,7 +361,7 @@ h_bios = [
                 `,
         photos: ["images_bios/suzanne_hiatt2.jpg", "images_bios/suzanne_hiatt.png"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "Aril 8, 2025",
 
         photoHeights: [200, 300],
@@ -415,7 +415,7 @@ h_bios = [
         `,
         photos: ["images_bios/agnes_hocking.jpeg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
@@ -466,7 +466,7 @@ h_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -513,7 +513,7 @@ h_bios = [
         `,
         photos: ["images_bios/Pauline_Elizabeth_Hopkins.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -567,7 +567,7 @@ h_bios = [
         `,
         photos: ["images_bios/Cornelia_Horsford.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -708,7 +708,7 @@ h_bios = [
         `,
         photos: ["images_bios/howe.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],
@@ -848,7 +848,7 @@ h_bios = [
         `,
         photos: ["images_bios/Ruth_Wald.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
@@ -898,7 +898,7 @@ h_bios = [
         `,
         photos: ["images_bios/Anna_Vaughn_Hyatt.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
@@ -999,7 +999,7 @@ Born in Boston in 1886, Marjorie Hurd
         `,
         photos: ["images_bios/Hurd.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",
+        dateCreated: "prior to 2006",
         dateUpdated: "",
 
         photoHeights: [],

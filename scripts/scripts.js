@@ -83,7 +83,7 @@ function showRecents(num) {
         bioLetterList.forEach((thename) => {
             if(thename.deathDate == "" && thename.firstName !== "") 
                 console.log(thename.lastName + ", " + thename.firstName + " (b. " + thename.birthDate + ")");
-            if (thename.dateCreated != "before 2006") {
+            if (thename.dateCreated != "prior to 2006") {
                 //if something like Mar 2024:
 
                 //covers"Jan 2025" and "January 2, 2025":

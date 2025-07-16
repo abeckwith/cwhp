@@ -49,7 +49,7 @@ f_bios = [
   Used with permission of Susan Fleischmann`,
         photos: ["images_bios/Fleischmann_small.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
+        dateCreated: "prior to 2006",dateUpdated:
  "",
         photoPos: [],
         photoHeights: [],
@@ -102,7 +102,7 @@ f_bios = [
   `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
+        dateCreated: "prior to 2006",dateUpdated:
  "",
         photoPos: [],
         photoHeights: [],
@@ -168,7 +168,7 @@ f_bios = [
       https://woodsholemuseum.org/WHHWomen/GladysFriedler.html`,
         photos: ["images_bios/Friedler_Gaby.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
+        dateCreated: "prior to 2006",dateUpdated:
  "April 11, 205",
         photoPos: [],
         photoHeights: [],
@@ -215,7 +215,7 @@ f_bios = [
     Nomination by Robin Hein. Cambridge newspapers.`,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
+        dateCreated: "prior to 2006",dateUpdated:
  "",
         photoPos: [],
         photoHeights: [],
@@ -287,7 +287,7 @@ In
   `,
         photos: ["images_bios/margaret_fuller.jpg"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
+        dateCreated: "prior to 2006",dateUpdated:
  "",
         photoPos: [],
         photoHeights: [],

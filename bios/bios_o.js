@@ -56,7 +56,7 @@ o_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
+        dateCreated: "prior to 2006",dateUpdated:
  "",
         
         photoHeights: [],
@@ -117,7 +117,7 @@ o_bios = [
         `,
         photos: ["images_bios/caroline_orne.png"],
         photoTitles: [],
-        dateCreated: "before 2006",dateUpdated:
+        dateCreated: "prior to 2006",dateUpdated:
  "April 12, 2025",
         
         photoHeights: [],
