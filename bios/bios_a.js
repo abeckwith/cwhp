@@ -121,7 +121,7 @@ a_bios = [
             a one woman show at the Fourth International Women Playwright's Conference
             held in Galway shortly before her death at the age of 93. One daughter, Susan
             Howe (born in 1937), went on to become a well-known poet and professor at State
-            University of New York, Buffalo.  Her daughter Fanny Howe, became a novelist
+            University of New York, Buffalo.  Her daughter Fanny Howe became a novelist
             and poet, teaching creative writing at MIT and Tufts and at University of California,
             San Diego.  She also published novels that depicted the Cambridge and Boston area in
             the 1970s. Her correspondence
