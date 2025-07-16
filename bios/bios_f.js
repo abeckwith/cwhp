@@ -49,7 +49,8 @@ f_bios = [
   Used with permission of Susan Fleischmann`,
         photos: ["images_bios/Fleischmann_small.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",dateUpdated:
+        dateCreated: "2008",
+        dateUpdated:
  "",
         photoPos: [],
         photoHeights: [],

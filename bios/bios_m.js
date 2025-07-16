@@ -82,7 +82,7 @@ m_bios = [
         `,
         photos: ["images_bios/MajorsMJ_small.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "2014",
         dateUpdated: "July 16, 2025",
 
         photoHeights: [],
@@ -133,7 +133,7 @@ m_bios = [
         `,
         photos: ["images_bios/map_feminist.png"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "2020",
         dateUpdated: "",
 
         photoHeights: [],
@@ -245,7 +245,7 @@ m_bios = [
         `,
         photos: ["images_bios/Markham_HWD.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "2014",
         dateUpdated: "",
 
         photoHeights: [],
@@ -352,7 +352,7 @@ m_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "2014",
         dateUpdated: "",
 
         photoHeights: [],

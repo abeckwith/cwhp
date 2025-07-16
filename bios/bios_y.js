@@ -130,7 +130,7 @@ y_bios = [
         `,
         photos: ["images_bios/Sarah Yanow_headshot 2018_small.jpg"],
         photoTitles: ["Photo by Phyllis Bretholtz"],
-        dateCreated: "prior to 2006",
+        dateCreated: "2018",
         dateUpdated: "",
         photoPos: [],
         photoHeights: [],

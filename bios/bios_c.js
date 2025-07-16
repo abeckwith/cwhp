@@ -676,8 +676,9 @@ c_bios = [
             "images_bios/city-girl-cafe-1-square-0721ede4631d516b7a3d1cbcd61e5b6b-of0zjyvr75k2.jpg",
         ],
         photoTitles: [],
-        dateCreated: "prior to 2006",dateUpdated:
- "",
+        dateCreated: "2008",
+        dateUpdated:
+          "",
 
         photoHeights: [],
         categories: [

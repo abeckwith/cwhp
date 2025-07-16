@@ -385,7 +385,7 @@ d_bios = [
         `,
         photos: ["images_bios/Henrietta Davis Bio Photo_small.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "2016",
         dateUpdated: "",
 
         photoHeights: [],
@@ -491,7 +491,7 @@ d_bios = [
             "Photo by Betsy Sowers",
             "Photo courtesy of Deborah Silverstein. Pictured: Marcia Diehl, at center, with bandmates of the New Harmony Sisterhood Band--Katie Tolles, Kendal Hale, Pat Oullette and Deborah Silverstein.",
         ],
-        dateCreated: "prior to 2006",
+        dateCreated: "2014",
         dateUpdated: "",
 
         photoHeights: [],
@@ -606,7 +606,7 @@ d_bios = [
         `,
         photos: ["images_bios/der_hovanessian.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "2018",
         dateUpdated: "",
 
         photoHeights: [],
@@ -782,7 +782,7 @@ d_bios = [
         `,
         photos: ["images_bios/driscoll_small.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "2008",
         dateUpdated: "",
 
         photoHeights: [],
@@ -893,7 +893,7 @@ d_bios = [
         `,
         photos: ["images_bios/Louise%20Dunlap.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "2008",
         dateUpdated: "",
 
         photoHeights: [],

@@ -295,7 +295,7 @@ h_bios = [
             Harvard Medical School. She is
             the author of the award-winning books Father-Daughter Incest (Harvard University
             Press, 1981), and Trauma and Recovery (Basic Books, 1992). 
-            Her new book, Truth and Repair: How Trauma Survivors Envision Justice, was published
+            Her new book, <em>Truth and Repair: How Trauma Survivors Envision Justice</em>, was published
             in March, 2023. `,
         otherNotes: "",
         references: `
@@ -306,7 +306,7 @@ h_bios = [
         `,
         photos: ["images_bios/JudyHerman.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "2023",
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],

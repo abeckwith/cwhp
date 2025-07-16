@@ -314,7 +314,7 @@ g_bios = [
         `,
         photos: ["images_bios/MiriamGoodman1.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "2014",
         dateUpdated: "",
 
         photoHeights: [],
@@ -555,7 +555,7 @@ g_bios = [
         photoTitles: [
             "Michele Scott and Renae Gray <br>Photo Courtesy of Michele Scott",
         ],
-        dateCreated: "prior to 2006",
+        dateCreated: "2020",
         dateUpdated: "April 8, 2025",
 
         photoHeights: [],
@@ -645,7 +645,7 @@ g_bios = [
         `,
         photos: ["images_bios/suzanne_greene.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "2014",
         dateUpdated: "April 8, 2025",
 
         photoHeights: [],

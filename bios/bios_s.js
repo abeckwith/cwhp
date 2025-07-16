@@ -273,7 +273,7 @@ s_bios = [
             racial and religious lines and addressing civic issues like community-police relations, employment,
             education and housing. In 1982, concerned about job stability and providing for her children, Simmons
             started her own small business, the Cambridgeport Insurance Agency, which has operated for over thirty five
-            years.In 2018, that agency became affiliated with Allstate Insurance Company. <br><br>
+            years.  In 2018, that agency became affiliated with Allstate Insurance Company. <br><br>
              Passionate about her civic work, Simmons decided that she could affect more change
             in municipal governance and ran for local office in the early 1990s, losing two times before winning a seat
             on the School Committee in 1991. Simmons was a strong advocate for minority representation in Cambridge,
@@ -330,7 +330,7 @@ s_bios = [
         `,
         photos: ["images_bios/Simmons Blue Suit_small.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "2018",
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],

@@ -40,7 +40,7 @@ a_bios = [
         photoTitles: [""],
         photoHeights: [],
         
-        dateCreated: "prior to 2006",
+        dateCreated: "2014",
         dateUpdated: "July 15, 2025",
 
         categories: ["Political Leader"],

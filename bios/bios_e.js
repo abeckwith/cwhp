@@ -167,7 +167,7 @@ e_bios = [
         `,
         photos: ["images_bios/tess_ewing.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "2014",
         dateUpdated: "April 5, 2025",
         photoPos: [],
         photoHeights: [],

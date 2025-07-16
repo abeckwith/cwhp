@@ -214,7 +214,7 @@ l_bios = [
         `,
         photos: ["images_bios/lesbian_avengers.png"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "2018",
         dateUpdated: "",
 
         photoHeights: [],
@@ -299,7 +299,7 @@ l_bios = [
         `,
         photos: ["images_bios/EdithLesley_small.jpeg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "2008",
         dateUpdated: "",
 
         photoHeights: [],

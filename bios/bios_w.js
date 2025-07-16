@@ -87,7 +87,7 @@ w_bios = [
         `,
         photos: ["images_bios/Juliaquilt_cropped_small.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "2014",
         dateUpdated: "",
 
         photoHeights: [],
@@ -235,7 +235,7 @@ w_bios = [
         `,
         photos: ["images_bios/bw-head-small.jpg"],
         photoTitles: [],
-        dateCreated: "2003",
+        dateCreated: "2014",
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
@@ -743,7 +743,7 @@ w_bios = [
         `,
         photos: ["images_bios/Alice_Wolf.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "2014",
         dateUpdated: "April 6, 2025",
 
         photoHeights: [],

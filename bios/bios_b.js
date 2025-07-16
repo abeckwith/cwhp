@@ -1467,7 +1467,7 @@ b_bios = [
         `,
         photos: ["images_bios/Brass sisters.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "2016",
         dateUpdated: "April 6, 2025",
 
         photoHeights: [],
@@ -1576,7 +1576,7 @@ b_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "2016",
         dateUpdated: "July 16, 2025",
 
         photoHeights: [],
