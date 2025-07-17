@@ -7,7 +7,7 @@ s_bios = [
         familyName: "",
         fileLetter: "",
         title: `Factory worker, educator, counselor, community leader`,
-        birthDate: "12.27.1948",
+        birthDate: "00.00.1948",
         birthLocation: "",
         deathDate: "",
         deathLocation: "",
@@ -252,7 +252,7 @@ s_bios = [
         title: `Business Owner<br>
                 City Councilor, Former Mayor and School Committee Member, City of Cambridge <br>
                 First African American Woman Mayor in Massachusetts`,
-        birthDate: "10.02.1951",
+        birthDate: "00.00.1951",
         birthLocation: "Cambridge, MA",
         deathDate: "",
         deathLocation: "",

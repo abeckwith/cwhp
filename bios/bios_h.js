@@ -110,7 +110,7 @@ h_bios = [
         familyName: "",
         fileLetter: "",
         title: `Software engineer, NASA software designer, founder of software company`,
-        birthDate: "08.17.1936",
+        birthDate: "00.00.1936",
         birthLocation: "",
         deathDate: "",
         deathLocation: "",

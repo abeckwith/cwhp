@@ -839,7 +839,7 @@ d_bios = [
         familyName: "",
         fileLetter: "",
         title: `Writer, teacher, social activist`,
-        birthDate: "07.27.1938",
+        birthDate: "00.00.1938",
         birthLocation: "Berkeley, CA",
         deathDate: "",
         deathLocation: "",

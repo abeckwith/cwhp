@@ -116,7 +116,7 @@ e_bios = [
         familyName: "",
         fileLetter: "",
         title: `Labor and community Activist, educator`,
-        birthDate: "07.27.1946",
+        birthDate: "00.00.1946",
         birthLocation: "Boston, MA",
         deathDate: "",
         deathLocation: "",
