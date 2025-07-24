@@ -47,7 +47,7 @@ d_bios = [
         middleName: "",
         familyName: "",
         fileLetter: "",
-        title: `Pre-school<br>founded 1971 in Cambridge, MA`,
+        title: `Pre-school<br>founded 1971 in Cambridge`,
         birthDate: "",
         birthLocation: "",
         deathDate: "",
@@ -111,7 +111,7 @@ d_bios = [
             Glee Club. She sang soprano in the Cecilia Society and began to win prizes for
             her composition. Marion MacDowell produced the first performance of her cantata,<em>The
                 Desolate City</em> (1913) at the MacDowell Colony following which she was regularly
-            invited to use the studios of the colony in Petersborough NH to create her musical
+            invited to use the studios of the colony in Petersborough New Hampshire to create her musical
             compositions. <br><br>Although her first compositions were more conventional, she became
             interested in modern music while preparing a piece for soprano, chorus and orchestra
             based on a poem The <em>Song of Jael</em> (1940) by her friend Edwin Arlington
@@ -339,7 +339,7 @@ d_bios = [
             Organization and Social Planning from Boston College Graduate School of Social Work in 1972, which included
             coursework in public policy and city planning at Massachusetts Institute for Technology. In 1996, she
             received a Master of Public Administration from Harvard University JFK School of Government. She is a
-            longtime resident of Cambridgeport, MA, where she and her husband Richard Bock raised their two sons, Daniel
+            longtime resident of Cambridgeport, where she and her husband Richard Bock raised their two sons, Daniel
             and Aaron. <br><br>
                 
              Davis began her career in neighborhood planning for the city of Cambridge, and

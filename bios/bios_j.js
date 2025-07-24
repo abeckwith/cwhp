@@ -160,11 +160,11 @@ j_bios = [
         narrative: `
             Grace Allen Fitch was born in Indiana to Elizabeth
             Harriet (Bennett) and Appleton Howe Fitch who were from New England Grace Fitch's
-            family soon returned to Hopkinton, MA. She went to public school and then attended
+            family soon returned to Hopkinton, Massachusetts. She went to public school and then attended
             Pratt Institute Library School in Brooklyn, where she worked as assistant reference
             librarian for a year after her graduation in 1891. She met her future husband,
             Lewis Jerome Johnson, a Harvard graduate, while studying botany at Harvard Summer
-            School, marrying him in 1893. <br><br>In 1894, the couple moved to Cambridge, MA where
+            School, marrying him in 1893. <br><br>In 1894, the couple moved to Cambridge where
             her husband joined the Harvard Engineering Department. She had two sons. She
             became interested in woman suffrage and served as president of the Cambridge
                 Political Equality Association. In 1912, she was one of three Massachusetts

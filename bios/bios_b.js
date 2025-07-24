@@ -468,7 +468,7 @@ b_bios = [
             the heartbeat of Africa and the Carribean Islands to Boston.&#8221; In 1995,
             she was recognized with the Commonwealth award for her outstanding contribution
             to the arts of Massachusetts and in 1996, she was awarded an honorary degree
-            in humane letters from Mount Ida College of Newton, MA. In 2006, De Ama Battle
+            in humane letters from Mount Ida College of Newton, Massachusetts. In 2006, De Ama Battle
             received the Boston Dance Alliance Lifetime Achievement award.
 
             `,
@@ -659,7 +659,7 @@ b_bios = [
         narrative: `
              The
             daughter of Saul and May Sidore, who owned a knitting factory in Manchester,
-            NH, Sara Mae was the eldest of five children. She married Larry Berman in 1955
+            New Hampshire, Sara Mae was the eldest of five children. She married Larry Berman in 1955
             and attended the Rhode Island School of Design, graduating in 1958 with a BFA
             in Interior Design. The couple moved to Cambridge in 1958, following her graduation,
             and had three children. They currently have six grandchildren.<br><br>
@@ -879,7 +879,7 @@ b_bios = [
 
             Elizabeth Bishop was the daughter of Gertrude
             Bulmer and William Thomas Bishop, who owned the J.W. Bishop contracting firm
-            in Worcester MA. Her father died before her first birthday and her mother was
+            in Worcester Massachusetts. Her father died before her first birthday and her mother was
             committed to a mental hospital by the time she was five years old. She was raised
             by maternal grandparents in Great Village, Nova Scotia. As a child she suffered
             from various physical and nervous ailments that made it difficult for her to
@@ -1381,7 +1381,7 @@ b_bios = [
 
             Marilynn Brass is the daughter of Dorothy (Katziff)
             Brass and Harry Brass. Raised in a lively orthodox Jewish household in Winthrop,
-            MA, she was influenced by the enthusiastic cooking of her mother and grandmother.
+            Massachusetts, she was influenced by the enthusiastic cooking of her mother and grandmother.
             As a young woman, she attended Northeastern University where she studied English
             and Journalism, graduating with a Bachelor of Arts degree <em>cum laude</em>
             and with Departmental Honors in English in 1964. <br><br>She went on to study English
@@ -1496,7 +1496,7 @@ b_bios = [
             Sheila Brass is the daughter of Dorothy (Katziff)
             Brass and Harry Brass. Like her younger sister, Marilynn
                     Brass, she was raised in a lively orthodox Jewish-American household
-            in Winthrop, MA, where the cooking and baking of her mother and grandmother
+            in Winthrop, Massachusetts, where the cooking and baking of her mother and grandmother
             made her enthusiastic about the history of the culinary arts.<br><br>
              As a young woman, she attended Massachusetts College
             of Art and Design, majoring in Fashion Design and Illustration. She was graduated
@@ -1702,7 +1702,7 @@ b_bios = [
             playing at full-volume.<br><br>
             
             The name Bread and Roses was adopted from the demand of the
-            women-led textile strikers in Lawrence, MA in 1912: &ldquo;We want bread and roses, too.&rdquo; The
+            women-led textile strikers in Lawrence, Massachusetts in 1912: &ldquo;We want bread and roses, too.&rdquo; The
             statement
             was a reflection that the goal of the strike was to ensure that workers could do more than meet basic needs
             .<br><br>

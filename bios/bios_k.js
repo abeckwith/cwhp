@@ -16,7 +16,7 @@ k_bios = [
             in about 1828. She and her sister Maria were largely educated by their father,
             William Mitchell, a teacher, banker, and amateur astronomer. Phebe married Joshua
             Kendall, a private boys' school teacher, and moved to to Bristol, RI by 1860.
-            They later settled in Cambridge, MA. By 1873, Joshua Kendall had opened his
+            They later settled in Cambridge. By 1873, Joshua Kendall had opened his
             own private school for boys at 13 Appian Way in Cambridge. The family lived
             at 123 Inman Street, a modest two-story wood frame house. Mr. Kendall operated
             Kendall's Day and Family School from 1873 until 1906. From 1898 to 1906, the

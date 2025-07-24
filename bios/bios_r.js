@@ -91,7 +91,7 @@ r_bios = [
         deathLocation: "Boston, MA",
         narrative: `
             Ellen Swallow was born in the small town of Dunstable,
-            MA to Fanny and Peter Swallow. She attended Westford Academy in Westford, MA,
+            Massachusetts to Fanny and Peter Swallow. She attended Westford Academy in Westford, Massachusetts,
             graduating in 1863. After studying and then teaching in Worcester, she went
             to Vassar College, which had just opened at an advanced level, graduating in
             1870. She then had the opportunity to attend the Massachusetts Institute of
@@ -265,7 +265,7 @@ r_bios = [
         deathLocation: "Tucson, AZ",
         narrative: `
             Betty Ann Rubinow (who went by Ann) was the daughter
-            of Meyer and Beverley Orlov in Brookline, MA. She attended Bryn Mawr College,
+            of Meyer and Beverley Orlov in Brookline, Massachusetts. She attended Bryn Mawr College,
             then came to Cambridge in the 1950s to do graduate work in history at Harvard
             University. During this period, she became active in civil rights in Cambridge
             and was a founder of the Boston chapter of the Episcopal Society for Cultural
@@ -277,7 +277,7 @@ r_bios = [
             managing editor. She started her own press,
             Langdon Press, after leaving Harvard University Press, and worked as a free-lance
             author and consultant. <br><Br>
-            In 1980, she moved to Stowe, VT, and opened a
+            In 1980, she moved to Stowe, Vermont, and opened a
             bed and breakfast. Soon after, she was diagnosed with a benign brain tumor that
             left her with a slight limp. There in Vermont, she worked with the Episcopal
             church and decided to pursue a theological degree, which she began in Vermont

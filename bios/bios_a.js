@@ -311,12 +311,12 @@ a_bios = [
             degree in history from Radcliffe College in 1941. While in college, she served
             as a reporter for the <em>New York Times</em> and the <em>Boston Herald</em>.
             <Br><Br>She married Charles Duane Aldrich, later general counsel of the New England
-            Telephone Company with whom she had nine children. They lived in Wellesley MA
+            Telephone Company with whom she had nine children. They lived in Wellesley, Massachusetts,
             for many years. She was director of finance and of state government for the
             League of Women Voters of Massachusetts, Junior Service President; board member
             of the Friendly Aid Society, Cambridge Homes, and a member of the Governor's
             Commission on the Status of Women in the 1980s. <Br><Br>Following the death of her husband
-            in 1984, she moved from Bronxville NY to Cambridge where she was an interviewer
+            in 1984, she moved from Bronxville New York to Cambridge where she was an interviewer
             for the Harvard and Radcliffe admissions office for 12 years and endowed an
             Elizabeth Cannon Aldrich Memorial Fund at Radcliffe. She was 81 when she died.
 
@@ -355,7 +355,7 @@ a_bios = [
                 James Said.</em> She volunteered for CARE and for Shady Hill School in Cambridge,
             for which she was an overseer and an initiator and head of the Parents Work
             Plan. She was 93 when she died.  She was married to federal judge Bailey Aldrich
-            of Cambridge, MA.
+            of Cambridge.
 
             `,
         otherNotes: "",
@@ -737,8 +737,7 @@ as a writer were recognized only after her death. The founding members, who incl
             <br><br>
             In 1994, she was the recipient of a Jessie Bernard
             Wise Women Award from the Center for Women Policy Studies in Washington, DC,
-            and in 1999 she received the Peace and Justice Award from the City of Cambridge,
-            MA. In 2005, she was chosen to be one of the &quot;Women Who Dared&quot; from
+            and in 1999 she received the Peace and Justice Award from the City of Cambridge. In 2005, she was chosen to be one of the &quot;Women Who Dared&quot; from
             the Jewish Women's Archive. She was an Emeritus faculty member of the Union Institute
             and University where she taught for 30 years. 
 

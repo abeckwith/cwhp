@@ -609,7 +609,7 @@ w_bios = [
         narrative: `
             Ozeline Barrett Pearson was the second daughter
             of Frances Lavina (Gale) and William B. Pearson. Her father moved from Jamaica
-            to Worcester, MA soon after the
+            to Worcester, Massachusetts soon after the
             birth of his first daughter, Satya (Pearson) Barrett. Soon after Ozeline's
             birth, the family moved to Cambridge where for many years he was pastor of St.
             Paul African Methodist Episcopal Church.<br><br>

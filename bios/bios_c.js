@@ -398,7 +398,7 @@ c_bios = [
         narrative: `
 
             Established in 1981, Centro Presente is an immigrant-led,
-            community-based organization in Cambridge MA. It was originally created in response
+            community-based organization in Cambridge. It was originally created in response
             to the influx of Central Americans fleeing U.S.-sponsored civil war but soon
             
 
@@ -938,7 +938,7 @@ c_bios = [
             Originally from Louisville, Kentucky, Sister Rose Marie Cummings
             joined the Dominican order soon after graduation. Sister Rose visited Puerto
             Rico from 1966 to 1971 and fell in love with the island. <br><br>She worked in Massachusetts
-            from 1972 to 1999. In the mid 1970s, she worked in Framingham, MA as a bilingual
+            from 1972 to 1999. In the mid 1970s, she worked in Framingham, Massachusetts as a bilingual
             counselor in the public school system. She was very active in the Sanctuary
             movement in the 1980s and was one of the co-founders of Centro
                 Presente in 1981 during the period that she was attached to Saint Mary's

@@ -17,7 +17,7 @@ s_bios = [
             with the poor and disenfranchised. When Salvadore Allende's socialist
             government was overthrown, Sylvia's parents were concerned for her safety,
             and she emigrated from Chile to the United States in 1970. <br><Br>
-            After arriving in Watertown, MA, she worked at
+            After arriving in Watertown, Massachusetts, she worked at
             factory jobs: first, she spent a year at Fenton Shoe in Cambridgeport, gluing
             shoe soles with a hot glue that aggravated her asthma; then she worked at Fanny
             Farmer, breaking up pieces of warm chocolate. As this also began to affect her
@@ -261,7 +261,7 @@ s_bios = [
         </p>
         <p><br>
             Photo Credit: Stephen Maclone</p>
-        <p> E. Denise Simmons is a lifelong resident of Cambridge, MA. Simmons was one of only
+        <p> E. Denise Simmons is a lifelong resident of Cambridge. Simmons was one of only
             two African American students during her nine years at St. Mary&rsquo;s, a parochial school in Cambridge,
             before entering the public school system, which was much more diverse. She graduated from Cambridge High and
             Latin in 1971. Simmons went on to receive a Bachelor of Arts in Sociology from the University of
@@ -306,7 +306,7 @@ s_bios = [
             monument to all civil rights activists that followed in Hall&rsquo;s footsteps. Simmons is also behind an
             effort to create a Cambridge museum, which would document the city&rsquo;s rich and diverse history. <br><br>
              Simmons is a mother to four children, Jada, Nadene, Atieno, and Anthony (deceased),
-            and a grandmother to five. In August 2009, she married her longtime partner Mattie B. Hayes of Brooklyn, NY.
+            and a grandmother to five. In August 2009, she married her longtime partner Mattie B. Hayes of Brooklyn, New York.
             They became the first same-sex couple to marry at St. Bartholomew&rsquo;s Episcopal Church, one of the
             oldest African American churches in Cambridge, known for its social justice activism. Their marriage was
             officiated by Rev. Leslie Sterling, Reverend Irene Monroe, and Simmons&rsquo; daughter, Jada D. Simmons who,

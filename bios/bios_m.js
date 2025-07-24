@@ -207,7 +207,7 @@ m_bios = [
 
   
             Helen Deane Markham was brought up in Springfield,
-            MA, where she attended the public schools. She graduated from Wellesley College,
+            Massachusetts, where she attended the public schools. She graduated from Wellesley College,
             then attended Brown University to pursue a graduate degree in biology, and took
             her Ph.D. in 1943. She spent the following year as a lecturer at McGill University
             and came to live in Cambridge in 1944 and work in the Department of Anatomy
@@ -454,7 +454,7 @@ m_bios = [
         deathLocation: "",
         narrative: `
         Gail Lewis Beckwith was born in Cambridge in 1937 and grew up in Newton.  
-        She graduated from Smith College in Northampton, MA, with an English degree.  In 1958, she married 
+        She graduated from Smith College in Northampton, Massachusetts, with an English degree.  In 1958, she married 
         the artist Michael Mazur and the couple made their home in Cambridge, living at first on a dead end
          street adjacent to the American Repertory Theater and later on Avon Hill, where Gail still resides. 
           In the midst of national turmoil in 1968, Mazur and her husband helped found the group Artists Against
@@ -723,7 +723,7 @@ m_bios = [
             York. In 1938 she had a successful show at the Julian Levy Gallery, during which
             some of her paintings sold to the Whitney Museum, the Metropolitan Museum of
             Art, and the Museum of Modern Art. <br><br>In 1940 she and her husband moved to Andover,
-            MA, where he taught art at Phillips Academy, and she began to teach at the nearby
+            Massachusetts, where he taught art at Phillips Academy, and she began to teach at the nearby
             girls' boarding school, Abbot Academy. The couple had two children. In
             1957 she separated from her husband and moved to Boston, then, a few years later,
             to Cambridge, where she lived and painted for the rest of her life. She continued
@@ -815,7 +815,7 @@ m_bios = [
             1943, is dedicated to &#8220;K.M. for her part in it.''<br><br>
             The
             Morrison's lost their son, Robert, in a car accident in 1955. (Books
-            and Writers, 2002.) Kay's husband Theodore passed away in Amherst, MA
+            and Writers, 2002.) Kay's husband Theodore passed away in Amherst, Massachusetts
             in 1988 leaving her with her daughter, Anne Smyth, four grandchildren and two
             great grandchildren. (New York Times, 1988.) `,
         otherNotes: "",
@@ -926,7 +926,7 @@ m_bios = [
 
             Morales grew up in New York City speaking Spanish at home with her Puerto Rican immigrant
             parents and her siblings.  She transitioned to English as her primary language while
-            attending NYC schools.  She joined the communist party in 1949, where she met Richard 
+            attending New York City schools.  She joined the communist party in 1949, where she met Richard 
             (Dick) Levins. They married in 1950, and facing the blacklist and Dick's possible drafting
             into the Korean War, moved to Puerto Rico in 1951, where they farmed and had two children.
                 In 1956 they returned to New York where Rosario was a visual artist and studied at City

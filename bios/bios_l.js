@@ -319,12 +319,11 @@ l_bios = [
         deathLocation: "Cambridge, MA",
         narrative: `
             Emily Lewis was born Emily Barron on February
-            22, 1908 in Adams Run, South Carolina. Shortly there after, she moved to Cambridge,
-            MA where she was raised by the family of Leila and Henry Springer. She attended
+            22, 1908 in Adams Run, South Carolina. Shortly there after, she moved to Cambridge, where she was raised by the family of Leila and Henry Springer. She attended
             Webster Grammar School (on Upton Street) and continued her education at Cambridge
             High &amp; Latin School. Emily's husband, Arthur Lewis, died in 1973 and Emily
             died on May 20, 1997 at the age of 89. She is survived by her daughter, Florence,
-            of Cambridge, MA and her son, William Lewis, Jr., who resides in Whitinsville,
+            of Cambridge and her son, William Lewis, Jr., who resides in Whitinsville,
             MA.<br><br>
             Emily
             was employed as a nurse. The opportunity arose during World War II when the
@@ -603,7 +602,7 @@ l_bios = [
             including Radcliffe graduate students, a nurturing environment. <br><br>She continued
             this style of cooperative living with a new groups of young people into her
             nineties when illness compelled her to give up independent living. In the late
-            1930s, she bought land in Tamworth, NH, where she designed and built a rustic
+            1930s, she bought land in Tamworth, New Hampshire, where she designed and built a rustic
             cabin. Each year until she became almost blind, she spent the entire summer
             working in a carefully designed garden and climbing in the White Mountains.<br>
             Luscomb ran for public office at least four times,

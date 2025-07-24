@@ -124,7 +124,7 @@ h_bios = [
             became the director of software programming at MIT's Instrumentation Laboratory
             for the Apollo and Skylab NASA missions, overseeing the moon flights. She produced
             over 130 papers, proceeding and reports.<br><br>
-            In 1986, she founded and became CEO of Hamilton Technologies, in Cambridge MA,
+            In 1986, she founded and became CEO of Hamilton Technologies, in Cambridge,
             a software company. She has been recognized with the Augusta Ada Lovelace Award
             by the Association of Women in Computing in 1986 and the NASA Exceptional Space
             Act Award, in 2003 for her contributions to the Apollo Program and to the field
@@ -211,7 +211,7 @@ h_bios = [
             a large construction project, and negative critical response to her work, Hayden
             experienced a collapse at the site, but returned a few months later for the
             dedication of the building. <br><br>She retired from architecture and never designed
-            another building. She moved to Winthrop, MA where she was active in women's
+            another building. She moved to Winthrop, Massachusetts where she was active in women's
             societies. Around 1900, she married an artist, William Blackstone Bennett, and
             lived a retired life.<br>
              A plan of her thesis illustration for a Fine Arts building
@@ -539,7 +539,7 @@ h_bios = [
             from the manufacture of baking powder, became an enthusiastic amateur archaeologist,
             convinced that Leif Erikson had landed in North America and resided along the
             Charles River. He purchased land and erected a tower and monument to this theory
-            in Weston MA at the junction of the Charles and Stony Brook Rivers. Just before
+            in Weston Massachusetts at the junction of the Charles and Stony Brook Rivers. Just before
             his death in 1893, he asked his daughter to carry on his work. <br><br>
             In subsequent years, Cornelia Horsford published his unfinished writings along
             with her own studies. In her essay &#8220;Graves of the Northmen,&#8221; published
@@ -731,7 +731,7 @@ h_bios = [
         Audrey I-Wei Huang's parents, Ho-Chung and Hedy Huang, were born in China and grew up quite poor in Taiwan.  
         Yet they were both able to attend college in the United States on academic scholarships in the early 1960s, 
         following the lifting of eight decades of Chinese exclusion laws in this country. They both achieved advanced
-         degrees in the U.S. and lived for a time in Ithaca, NY, where Audrey was born in 1967. <Br><br>
+         degrees in the U.S. and lived for a time in Ithaca, New York, where Audrey was born in 1967. <Br><br>
 
         Huang came to the Boston area to attend Boston University in the mid-1980s and in 1991 moved to West Cambridge,
          where she has lived ever since.  She found her first employment at the Addison-Wesley Publishing Company in Reading, 
