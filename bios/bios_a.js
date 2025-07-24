@@ -558,17 +558,18 @@ as a writer were recognized only after her death. The founding members, who incl
         deathDate: "11.05.1999",
         deathLocation: "Cambridge, MA",
         narrative: `
-Dominga "Minnie" Andrade was a long-time resident of Cambridge, where she worked as a stitcher for 
-a clothing manufacturer. <Br><Br> Dominga's parents emigrated from the African island of Cape Verde 
-(a Portuguese colony at the time) to New Bedford - her mother Marianna "Mary" Fortes Gomes
- in 1898 and her father Caesar Julio Lopes in 1901.  As early as age 15, Dominga started 
- working as a cotton mill "doffer" (replacing bobbins or spindles from a spinning frame 
- as they would run out) in New Bedford.  <Br><Br>At age 16, Dominga (who went by Minie or Minnie)
-  married Rufino Rosa Andrade (also from Cape Verde) and then moved to Cambridge with her
-   husband in the 1930's where she continued as a cotton worker for many years.  Dominga 
-   raised seven children in Cambridge and was a longtime member of the International 
-   Ladies Garment Workers Union.  She and her husband lived on Market St. in Cambridge 
-   for close to 60 years. <br><Br>Dominga died at home in Cambridge after a brief illness at the age of 95.
+        Dominga “Minnie” Andrade was a longtime resident of Cambridge, where she worked as a stitcher for a
+    clothing manufacturer.<br><br>
+
+    Dominga's parents emigrated from the African island Cape Verde (a Portuguese colony at the time). Her
+    mother, Marianna “Mary” Fortes Gomes, arrived in 1898 and her father, Caesar Julio Lopes, in 1901. At
+    the age of 15, Dominga started working in New Bedford as a cotton mill “doffer,” replacing bobbins or
+    spindles from a spinning frame as they ran out.<br><Br>
+    At age 16, Dominga (who went by Minie or Minnie) married Ruffino Rosa Andrade, who was also from
+    Cape Verde. They moved to Cambridge in the 1930s, where Dominga was employed as a cotton worker
+    for many years. A longtime member of the International Ladies' Garment Workers' Union, Dominga raised
+    seven children in Cambridge. She and her husband lived on Market Street for close to 60 years.<br><Br>
+    Dominga died at home in Cambridge after a brief illness at the age of 95.
             `,
         otherNotes: "",
         references: ` <em>Cambridge Chronicle</em>, 11-17-99<br>
@@ -579,7 +580,7 @@ a clothing manufacturer. <Br><Br> Dominga's parents emigrated from the African i
         photos: [""],
         photoTitles: [],
         dateCreated: "prior to 2006",
-        dateUpdated: "March 2025",
+        dateUpdated: "July 24, 2025",
 
         photoHeights: [],
         categories: ["Factory Worker"],
