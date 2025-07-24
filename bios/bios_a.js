@@ -390,15 +390,15 @@ as a writer were recognized only after her death. The founding members, who incl
  Cumming, Marjorie Fletcher, Jean Pedrick, Lee Rudolph, Ron Schreiber, Betsy Sholl, and 
  Cornelia Veenendaal, had as a primary purpose the encouragement of women poets. Patricia
  Cumming, who was then the head of the Writing Program at MIT, was able to obtain the use 
- of MIT Press for typesetting and printing the poetry publications.<br>
+ of MIT Press for typesetting and printing the poetry publications.<br><Br>
      The cooperative press was situated at 135 Mount Auburn Street in Cambridge and required
       the poets whose works were accepted for publication to spend some time working at the 
       press. By the 1980s, the group had expanded to include eleven women and two men and 
       included the widely recognized poets Ruth Whitman and Jane Kenyon. In 1987, the Women's 
       National Book Association recognized Marjorie Fletcher, then president of the press, 
-      as one of the "70 women who have made a difference."<Br>
-     The press was featured in major publications including Ms, Poets & Writers, Slate and 
-     Poetry Daily. Many authors that the press published went on to receive major poetry 
+      as one of the "70 women who have made a difference."<Br><Br>
+     The press was featured in major publications including <i>Ms</i>, <i>Poets & Writers</i>, <i>Slate</i> and 
+     <i>Poetry Daily</i>. Many authors that the press published went on to receive major poetry 
      awards and their books were reviewed in important literary journals. Recently, the 
      poet Jo Pitkin has described the excitement of working at Alice James Books with 
      feminist women poets in the 1980s.
@@ -407,11 +407,11 @@ as a writer were recognized only after her death. The founding members, who incl
         otherNotes: "",
         references: `
         <br>
-        Judith Rosen,&#8221;Alice James Books at 30,&#8221; <em>Publishers Weekly</em>,
+        Judith Rosen,&#8221;<i>Alice James Books at 30</i>,&#8221; <em>Publishers Weekly</em>,
         May 19, 2003<br>
-        &#8221;Bookwomen: 70 who have made a difference&#8221; Women's National
+        &#8221;<i>Bookwomen: 70 who have made a difference</i>&#8221; Women's National
         Book Association <br>
-        Ali Kazam , &#8220;Beacon Voices: Jo Pitkin&#8221; Beacon Dispatch, Issue 28,
+        Ali Kazam , &#8220;<i>Beacon Voices: Jo Pitkin</i>&#8221; Beacon Dispatch, Issue 28,
         December 2006, January 2007<br>
         www.alicejamesbooks.org<br>
         Image courtesy of Alice James Books
