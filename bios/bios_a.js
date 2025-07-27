@@ -592,7 +592,7 @@ as a writer were recognized only after her death. The founding members, who incl
         middleName: "M. K.",
         familyName: "",
         fileLetter: "",
-        title: `Physical education teacher.`,
+        title: `Physical education teacher, introduced Women's Field Hockey to US`,
         birthDate: "02.23.1873",
         birthLocation: "Chigwell, England",
         deathDate: "01.26.1981",
@@ -600,20 +600,30 @@ as a writer were recognized only after her death. The founding members, who incl
         narrative: `
  
             
-            Constance M. K. Applebee attended the British
-            College of Physical Education and came to the US in 1901 to take a course in
-            anthropometry- the measurement of the human body. She mounted the first demonstration
-            of the English game of field hockey in Cambridge, Massachusetts, in a courtyard
-            adjacent to the Harvard University gymnasium. She then arranged a series of
-            exhibition matches at prominent women's colleges including Radcliffe,
-            Mount Holyoke, Bryn Mawr, Smith, Vassar, and Wellesley. <br><br>She formed a team in
-            Philadelphia, Pennsylvania, and in 1920 took the team members to England- where
-            they lost eight out of ten matches. Their application to participate in the
-            1920 Olympics in Antwerp was rejected. She founded the American Field Hockey
-            Association in 1901 and headed it for twenty years, then founding the United
-            States Field Hockey Association in 1922. She was for 10 years the editor and
-            publisher of <em>Sportswoman</em>, a magazine for women athletes, the first
-            magazine of its kind in America.
+         
+
+        In 1901, Constance M.K. Applebee mounted the first demonstration of the
+        English game of field hockey in the United States. It was held in
+        Cambridge, Massachusetts, in a courtyard adjacent to the Harvard
+        University gymnasium. A graduate of the British College of Physical
+        Education in London, she had come in this country to take a course in
+        anthropometry, the measurement of the human body. The demonstration
+        took place while she was attending a women's physical education course at
+        Harvard.<Br><Br>
+        Through her energy and enthusiasm, field hockey soon became very
+        popular in women's colleges such as Vassar, Smith, Wellesley, Mount
+        Holyoke, and Radcliffe.<Br><Br>
+        "The Apple," as she was known, was hired in 1904 as athletic director at
+        Bryn Mawr College in Pennsylvania, a position she held through 1928. In
+        1901, she founded the American Field Hockey Association and headed it
+        for 20 years. She also helped found the United States Field Hockey
+        Association in 1922 and the following year created a field hockey camp in
+        Mount Pocono, Pennsylvania. She was for 10 years the editor and
+        publisher of Sportswoman, a magazine for women athletes, the first
+        magazine of its kind in America.<Br><Br>
+        Throughout her life, Applebee commuted between England and the United
+        States, coaching young woman in field hockey and the importance of
+        sportsmanship. She did not retire until she was 94.
 
             `,
         otherNotes: "",
@@ -621,12 +631,15 @@ as a writer were recognized only after her death. The founding members, who incl
                 Book of Women's Firsts</em>, 1992.<br>
             Wikipedia (online encyclopedia) <a
                 href="http://en.wikipedia.org/wiki/Constance_M._K._Applebee">http://en.wikipedia.org/wiki/Constance_M._K._Applebee</a>;<br>
-            <em>Encyclopedia Britannica </em>(2006)<Br>Photo source: wikipedia
+            <em>Encyclopedia Britannica </em>(2006)<Br>
+            <a href="https://www.britannica.com/biography/Constance-M-K-Applebee">https://www.britannica.com/biography/Constance-M-K-Applebee</a><br>
+            Jan. 5, 1959 Sports Illustrated<br>
+            Photo source: wikipedia
         `,
         photos: ["images_bios/constance applebee.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2006",
-        dateUpdated: "",
+        dateUpdated: "July 27, 2025",
 
         photoHeights: [],
         categories: ["Sportswoman", "Teacher/Educator"],
