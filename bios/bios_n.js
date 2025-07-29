@@ -51,6 +51,7 @@ n_bios = [
  "April 12, 2025",
 photoPos:[],
         photoHeights: ["150"],
+        authors: "",
         categories: [
             "Business or Service Provider (Women-Owned, Feminist)",
         ],

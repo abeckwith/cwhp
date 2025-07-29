@@ -61,6 +61,7 @@ e_bios = [
         dateUpdated: "",
         photoPos: [],
         photoHeights: [],
+        authors: "",
         categories: ["Doctor"],
     },
     {
@@ -106,6 +107,7 @@ e_bios = [
         dateUpdated: "April 5, 2025",
         photoPos: [],
         photoHeights: [],
+        authors: "",
         categories: ["Activist", "Volunteers"],
     },
     {
@@ -171,6 +173,7 @@ e_bios = [
         dateUpdated: "April 5, 2025",
         photoPos: [],
         photoHeights: [],
+        authors: "",
         categories: ["Activist", "Teacher/Educator"],
     },
      {
@@ -241,6 +244,7 @@ e_bios = [
         dateUpdated: "",
         photoPos: [],
         photoHeights: [],
+        authors: "",
         categories: ["Doctor"],
     },
 

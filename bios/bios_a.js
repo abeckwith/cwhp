@@ -43,6 +43,7 @@ a_bios = [
         dateCreated: "2014",
         dateUpdated: "July 15, 2025",
 
+        authors: "",
         categories: ["Political Leader"],
     },
     {
@@ -83,6 +84,7 @@ a_bios = [
         dateUpdated: "July 9, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: ["Author"],
     },
 
@@ -141,6 +143,7 @@ a_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Author"],
     },
     {
@@ -184,6 +187,7 @@ a_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Author"],
     },
     {
@@ -246,6 +250,7 @@ a_bios = [
         dateUpdated: "July 15, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: ["Teacher/Educator"],
     },
     {
@@ -288,6 +293,7 @@ a_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: [
             "Historian/History Project",
             "Writer", "Editor"
@@ -331,6 +337,7 @@ a_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Community Leader"],
     },
     {
@@ -369,6 +376,7 @@ a_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Author"],
     },
     {
@@ -422,6 +430,7 @@ as a writer were recognized only after her death. The founding members, who incl
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: [""],
     },
 
@@ -461,6 +470,7 @@ as a writer were recognized only after her death. The founding members, who incl
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Nurse"],
     },
     {
@@ -499,6 +509,7 @@ as a writer were recognized only after her death. The founding members, who incl
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Activist"],
     },
     {
@@ -543,6 +554,7 @@ as a writer were recognized only after her death. The founding members, who incl
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Activist"],
     },
     {
@@ -583,6 +595,7 @@ as a writer were recognized only after her death. The founding members, who incl
         dateUpdated: "July 24, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: ["Factory Worker"],
     },
     {
@@ -642,6 +655,7 @@ as a writer were recognized only after her death. The founding members, who incl
         dateUpdated: "July 27, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: ["Sportswoman", "Teacher/Educator"],
     },
     {
@@ -690,6 +704,7 @@ as a writer were recognized only after her death. The founding members, who incl
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: [""],
     },
     {
@@ -766,6 +781,7 @@ as a writer were recognized only after her death. The founding members, who incl
         dateUpdated: "April 6, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: ["Community Leader", "Scientist"],
     },
     {
@@ -814,6 +830,7 @@ as a writer were recognized only after her death. The founding members, who incl
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Community Leader"],
     },
     {
@@ -851,6 +868,7 @@ as a writer were recognized only after her death. The founding members, who incl
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Activist"],
     },
     {
@@ -885,6 +903,7 @@ as a writer were recognized only after her death. The founding members, who incl
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Volunteers"],
     },
 ];

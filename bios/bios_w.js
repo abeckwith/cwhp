@@ -32,6 +32,7 @@ w_bios = [
         dateUpdated: "April 6, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: ["Teacher/Educator"],
     },
     {
@@ -91,6 +92,7 @@ w_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Activist", "Teacher/Educator", "Volunteers"],
     },
     {
@@ -239,6 +241,7 @@ w_bios = [
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: ["Activist", "Writer", "Editor"],
     },
     {
@@ -307,6 +310,7 @@ w_bios = [
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: ["Political Leader"],
     },
     {
@@ -375,6 +379,7 @@ w_bios = [
         dateUpdated: "April 8, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: ["Artist", "Poet"],
     },
     {
@@ -422,6 +427,7 @@ w_bios = [
         dateUpdated: "Dec. 14, 2014",
 
         photoHeights: [],
+        authors: "",
         categories: ["Factory Worker", "Volunteers"],
     },
     {
@@ -490,6 +496,7 @@ w_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Refugee", "Social/Philanthropic Organization"],
     },
     {
@@ -522,6 +529,7 @@ w_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Teacher/Educator"],
     },
     {
@@ -589,6 +597,7 @@ w_bios = [
         dateUpdated: "April 8, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: [
             "Community Leader",
             "Writer",
@@ -644,6 +653,7 @@ w_bios = [
         dateUpdated: "April 8, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: ["Volunteers"],
     },
     {
@@ -696,6 +706,7 @@ w_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Community Leader", "Political Leader"],
     },
     {
@@ -747,6 +758,7 @@ w_bios = [
         dateUpdated: "April 6, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: ["Political Leader", "Refugee"],
     },
     {
@@ -796,6 +808,7 @@ w_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: [
             "Educational Institution/School",
             "Feminist Organization",
@@ -851,6 +864,7 @@ w_bios = [
         dateUpdated: "April 11, 2025",
 
         photoHeights: ["100"],
+        authors: "",
         categories: ["Feminist Organization"],
     },
     {
@@ -912,6 +926,7 @@ w_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: [
             "Business or Service Provider (Women-Owned, Feminist)",
         ],
@@ -965,6 +980,7 @@ w_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: [
             "Business or Service Provider (Women-Owned, Feminist)",
         ],
@@ -1008,6 +1024,7 @@ w_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: [
             "Educational Institution/School",
             "Feminist Organization",

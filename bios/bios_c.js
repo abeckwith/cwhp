@@ -66,6 +66,7 @@ c_bios = [
  "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Social/Philanthropic Organization"],
     },
     {
@@ -109,6 +110,7 @@ c_bios = [
  "",
 
         photoHeights: [215],
+        authors: "",
         categories: ["Suffragists/Suffrage Group"],
     },
     {
@@ -172,6 +174,7 @@ c_bios = [
  "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Educational Institution/School", "School/Institution"],
     },
     {
@@ -237,6 +240,7 @@ c_bios = [
  "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Scientist", "Suffragists/Suffrage Group", "Astronomer"],
     },
     {
@@ -282,6 +286,7 @@ c_bios = [
  "",
 
         photoHeights: [],
+        authors: "",
         categories: [""],
     },
     {
@@ -335,6 +340,7 @@ c_bios = [
  "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Social/Philanthropic Organization", "Women's Club"],
     },
     {
@@ -381,6 +387,7 @@ c_bios = [
  "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Feminist Organization"],
     },
     {
@@ -426,6 +433,7 @@ c_bios = [
  "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Social/Philanthropic Organization"],
     },
     {
@@ -484,6 +492,7 @@ c_bios = [
  "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Teacher/Educator", "Psychologist"],
     },
     {
@@ -531,6 +540,7 @@ c_bios = [
  "April 11, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: ["Businesswoman", "Chef"],
     },
     {
@@ -588,6 +598,7 @@ c_bios = [
  "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Chef"],
     },
     {
@@ -639,6 +650,7 @@ c_bios = [
  "",
 
         photoHeights: [],
+        authors: "",
         categories: [
             "Childcare Provider",
             "Business or Service Provider (Women-Owned, Feminist)",
@@ -681,6 +693,7 @@ c_bios = [
           "",
 
         photoHeights: [],
+        authors: "",
         categories: [
             "Business or Service Provider (Women-Owned, Feminist)",
         ],
@@ -728,6 +741,7 @@ c_bios = [
  "",
 
         photoHeights: [],
+        authors: "",
         categories: [
             "Business or Service Provider (Women-Owned, Feminist)",
         ],
@@ -793,6 +807,7 @@ c_bios = [
  "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Businesswoman"],
     },
     {
@@ -859,6 +874,7 @@ c_bios = [
  "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Teacher/Educator"],
     },
     {
@@ -920,6 +936,7 @@ c_bios = [
  "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Clairvoyant"],
     },
     {
@@ -972,6 +989,7 @@ c_bios = [
  "",
 
         photoHeights: [],
+        authors: "",
         categories: [""],
     },
     {
@@ -1041,6 +1059,7 @@ c_bios = [
  "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Actress"],
     },
     {
@@ -1093,6 +1112,7 @@ Image source: https://en.wikipedia.org/wiki/Charlotte_Cushman
  "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Actress"],
     },
 ];

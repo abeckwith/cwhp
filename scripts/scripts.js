@@ -76,13 +76,23 @@ function showRecents(num) {
         "November",
         "December",
     ];
-    html = "<span class='nice-header'>RECENT ENTRIES (from the last " + RECENT_MONTHS_LIMIT + " months)</span><br>";
+    html =
+        "<span class='nice-header'>RECENT ENTRIES (from the last " +
+        RECENT_MONTHS_LIMIT +
+        " months)</span><br>";
     //go through each A-Z bio list:
     all_bios.forEach((bioLetterList) => {
         //go through each name for this letter:
         bioLetterList.forEach((thename) => {
-            if(thename.deathDate == "" && thename.firstName !== "") 
-                console.log(thename.lastName + ", " + thename.firstName + " (b. " + thename.birthDate + ")");
+            if (thename.deathDate == "" && thename.firstName !== "")
+                console.log(
+                    thename.lastName +
+                        ", " +
+                        thename.firstName +
+                        " (b. " +
+                        thename.birthDate +
+                        ")"
+                );
             if (thename.dateCreated != "prior to 2006") {
                 //if something like Mar 2024:
 
@@ -288,7 +298,11 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
     if (person.dateUpdated !== "")
         dt += "<Br>Last updated: " + person.dateUpdated + "</div>";
     else dt += "</div>"; // "Last updated: 2006-2010";
-    html += "<br>" + dt + "<br><br><br><br><br><br><br><br><br>";
+
+    atr = "";
+    if (person.authors.trim() !== "") atr = "<div style='text-align:right'>Authors/Editors: " + person.authors  +"</div>";
+
+    html += "<br>" + dt + atr + "<br><br><br><br><br><br><br><br><br>";
 
     document.getElementById("bio").innerHTML = html;
 
@@ -519,18 +533,18 @@ function setupCategories() {
     document.getElementById("side-table-cats").innerHTML = html;
 }
 /**
- * 
+ *
  * @param {String} html html code to remove elements from
  * @param {String} el element to be removed
  * @returns original html with all parts of elements removed
  */
 function removeElements(html, el) {
-  const parser = new DOMParser();
-  const doc = parser.parseFromString(html, 'text/html');
-  
-  doc.querySelectorAll(el).forEach(img => img.remove());
-  
-  return doc.body.innerHTML;
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(html, "text/html");
+
+    doc.querySelectorAll(el).forEach((img) => img.remove());
+
+    return doc.body.innerHTML;
 }
 /**
  * Builds the search page
@@ -598,9 +612,9 @@ function search() {
                     // text = text.replaceAll("<BR>", "");
 
                     //get rid of any images:
-                   text = removeElements(text, 'img');
-                   text = removeElements(text, 'br');
-                //    text = removeElements(text, 'h2');
+                    text = removeElements(text, "img");
+                    text = removeElements(text, "br");
+                    //    text = removeElements(text, 'h2');
 
                     totalPeople++;
                     fName = stripName(person.firstName);

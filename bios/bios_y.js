@@ -134,6 +134,7 @@ y_bios = [
         dateUpdated: "",
         photoPos: [],
         photoHeights: [],
+        authors: "",
         categories: ["Activist", "Writer"],
     },
     {
@@ -183,6 +184,7 @@ y_bios = [
         dateUpdated: "",
         photoPos: [],
         photoHeights: [],
+        authors: "",
         categories: ["Radio Host", "Refugee"],
     },
     {
@@ -233,6 +235,7 @@ y_bios = [
         dateUpdated: "April 12, 2025",
         photoPos: [],
         photoHeights: [],
+        authors: "",
         categories: ["Social/Philanthropic Organization"],
     },
 ];

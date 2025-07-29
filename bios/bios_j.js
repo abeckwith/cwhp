@@ -62,6 +62,7 @@ j_bios = [
  "April 5, 2025",
         
         photoHeights: [],
+        authors: "",
         categories: [
             "Reformer",
             "Suffragists/Suffrage Group",
@@ -139,6 +140,7 @@ j_bios = [
  "",
         
         photoHeights: [],
+        authors: "",
         categories: [
             "Teacher/Educator",
             "Political Leader",
@@ -201,6 +203,7 @@ j_bios = [
  "April 8, 2025",
         
         photoHeights: [],
+        authors: "",
         categories: [
             "Activist",
             "Political Leader",
@@ -261,6 +264,7 @@ j_bios = [
  "",
         
         photoHeights: [],
+        authors: "",
         categories: ["Businesswoman"],
     },
 ];

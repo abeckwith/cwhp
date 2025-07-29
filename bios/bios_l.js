@@ -59,6 +59,7 @@ l_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Psychologist", "Teacher/Educator"],
     },
     {
@@ -100,6 +101,7 @@ l_bios = [
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: ["Writer", "Editor"],
     },
     {
@@ -138,6 +140,7 @@ l_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Childcare Provider"],
     },
     {
@@ -180,6 +183,7 @@ l_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Scientist", "Astronomer"],
     },
     {
@@ -218,6 +222,7 @@ l_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Feminist Organization"],
     },
     {
@@ -303,6 +308,7 @@ l_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Teacher/Educator"],
     },
     {
@@ -379,6 +385,7 @@ l_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Nurse", "Volunteers", "Community Leader"],
     },
     {
@@ -434,6 +441,7 @@ l_bios = [
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: ["Philanthropist", "Preservationist"],
     },
     {
@@ -488,6 +496,7 @@ l_bios = [
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: [
             "Abolitionist",
             "Poet",
@@ -546,6 +555,7 @@ l_bios = [
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: ["Author"],
     },
     {
@@ -646,6 +656,7 @@ l_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: [
             "Activist",
             "Suffragists/Suffrage Group",

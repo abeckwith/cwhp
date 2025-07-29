@@ -75,6 +75,7 @@ r_bios = [
  "April 7, 2025",
         
         photoHeights: [225],
+        authors: "",
         categories: ["Author"],
     },
     {
@@ -126,6 +127,7 @@ r_bios = [
  "April 7, 2025",
         
         photoHeights: [],
+        authors: "",
         categories: ["Teacher/Educator", "Scientist"],
     },
     {
@@ -174,6 +176,7 @@ r_bios = [
  "April 7, 2025",
         
         photoHeights: [],
+        authors: "",
         categories: ["Teacher/Educator", "Psychologist"],
     },
     {
@@ -249,6 +252,7 @@ r_bios = [
  "",
         
         photoHeights: [],
+        authors: "",
         categories: ["Activist", "Teacher/Educator", "Reformer"],
     },
     {
@@ -298,6 +302,7 @@ r_bios = [
  "April 7, 2025",
 photoPos:[],
         photoHeights: [],
+        authors: "",
         categories: ["Activist", "Writer", "Editor"],
         
     },

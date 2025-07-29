@@ -50,6 +50,7 @@ World Guard International online site www.wgi.org/about/halloffame.php
         dateUpdated: "July 11, 2025",
         photoPos: [],
         photoHeights: [],
+        authors: "",
         categories: ["Community Director"],
     },
 ]

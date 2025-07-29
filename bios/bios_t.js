@@ -56,6 +56,7 @@ t_bios = [
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: ["Doctor", "Author"],
     },
     {
@@ -117,6 +118,7 @@ t_bios = [
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: ["Teacher/Educator"],
     },
     {
@@ -176,6 +178,7 @@ t_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: [
             "Historian/History Project",
             "Scientist", "Editor",
@@ -231,6 +234,7 @@ t_bios = [
         dateUpdated: "April 8, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: ["Dentist"],
     },
     {
@@ -285,6 +289,7 @@ t_bios = [
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: ["Scientist"],
     },
 ];

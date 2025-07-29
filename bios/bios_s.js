@@ -57,6 +57,7 @@ s_bios = [
         dateUpdated: "April 11, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: ["Community Leader", "Teacher/Educator"],
     },
     {
@@ -148,6 +149,7 @@ s_bios = [
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: ["Refugee", "Poet", "Author"],
     },
     {
@@ -189,6 +191,7 @@ s_bios = [
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: ["Artist", "Author"],
     },
     {
@@ -240,6 +243,7 @@ s_bios = [
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: [""],
     },
     {
@@ -334,6 +338,7 @@ s_bios = [
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: [
             "Community Leader",
             "Historian/History Project",
@@ -396,6 +401,7 @@ s_bios = [
         dateUpdated: "April 11, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: ["Author"],
     },
     {
@@ -450,6 +456,7 @@ s_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Writer", "Architect"],
     },
 ];

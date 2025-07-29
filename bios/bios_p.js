@@ -46,6 +46,7 @@ p_bios = [
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: ["Community Leader"],
     },
     {
@@ -99,6 +100,7 @@ p_bios = [
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: ["Community Leader", "Nurse"],
     },
     {
@@ -159,6 +161,7 @@ p_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Activist"],
     },
     {
@@ -217,6 +220,7 @@ p_bios = [
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: ["Scientist"],
     },
     {
@@ -281,6 +285,7 @@ p_bios = [
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: ["Reformer", "Author"],
     },
     {
@@ -333,6 +338,7 @@ p_bios = [
         dateUpdated: "Apirl 12, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: ["Physical Therapist ", "Volunteers"],
     },
 ];

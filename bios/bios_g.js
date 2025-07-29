@@ -36,6 +36,7 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Musician"],
     },
     {
@@ -95,6 +96,7 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: [""],
     },
     {
@@ -166,6 +168,7 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Educational Institution/School", "School/Institution"],
     },
     {
@@ -242,6 +245,7 @@ g_bios = [
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: ["Poet", "Author"],
     },
     {
@@ -318,6 +322,7 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: [
             "Photographer",
             "Poet",
@@ -391,6 +396,7 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: [
             "Teacher/Educator",
             "Historian/History Project",
@@ -479,6 +485,7 @@ g_bios = [
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: ["Activist", "Political Leader"],
     },
     {
@@ -559,6 +566,7 @@ g_bios = [
         dateUpdated: "April 8, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: ["Activist", "Teacher/Educator"],
     },
     {
@@ -649,6 +657,7 @@ g_bios = [
         dateUpdated: "April 8, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: ["Teacher/Educator", "Historian/History Project"],
     },
     {
@@ -685,6 +694,7 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: [
             "Business or Service Provider (Women-Owned, Feminist)",
         ],

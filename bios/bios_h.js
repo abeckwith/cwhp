@@ -51,6 +51,7 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Activist", "Author"],
     },
     {
@@ -100,6 +101,7 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Doctor"],
     },
     {
@@ -141,6 +143,7 @@ h_bios = [
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: ["Businesswoman"],
     },
     {
@@ -180,6 +183,7 @@ h_bios = [
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: ["Community Leader", "Factory Worker"],
     },
     {
@@ -232,6 +236,7 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Architect"],
     },
     {
@@ -310,6 +315,7 @@ h_bios = [
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: ["Teacher/Educator", "Psychiatrist"],
     },
     {
@@ -365,6 +371,7 @@ h_bios = [
         dateUpdated: "Aril 8, 2025",
 
         photoHeights: [200, 300],
+        authors: "",
         categories: ["Clergy", "Teacher/Educator"],
     },
     {
@@ -419,6 +426,7 @@ h_bios = [
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: ["Teacher/Educator", "Editor"],
     },
     {
@@ -470,6 +478,7 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Acquitted of Witchcraft"],
     },
     {
@@ -517,6 +526,7 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Writer"],
     },
     {
@@ -571,6 +581,7 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Author"],
     },
     {
@@ -712,6 +723,7 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Architect"],
     },
     {
@@ -795,6 +807,7 @@ h_bios = [
         dateUpdated: "April 4, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: ["Lawyer", "Teacher/Educator", "Businesswoman"],
     },
     {
@@ -852,6 +865,7 @@ h_bios = [
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: ["Activist", "Refugee", "Scientist"],
     },
     {
@@ -902,6 +916,7 @@ h_bios = [
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
+        authors: "",
         categories: ["Artist"],
     },
     {
@@ -1003,6 +1018,7 @@ Born in Boston in 1886, Marjorie Hurd
         dateUpdated: "",
 
         photoHeights: [],
+        authors: "",
         categories: ["Sportswoman", "Volunteers"],
     },
 ];
