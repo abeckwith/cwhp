@@ -1545,7 +1545,22 @@ b_bios = [
         for 11 years. They were responsible for research, photo shoots, and marketing information for several of
          Miller&apos;s books on antiques and collectibles. Together, they were responsible for the first section
           on rare and collectible cookbooks for Miller&apos;s Publications, and were principals in writing and producing
-           a comprehensive guide to kitchenware and culinary antiques.<br><br>The sisters have always been interested in old cookbooks, which gave them an insight into the history of domestic cooking. They collected published and unpublished cookbooks, culinary advertising and culinary antiques, menus, and food molds from all over the world, some dating from the seventeenth century. Their collections and knowledge of culinary history led to frequent speaking engagements at museums, libraries, and educational institutions throughout the country.<br><br>In 2006, they launched their first publication based on unpublished cookbooks, creating a new category of cookbook that translates heirloom recipes for the modern kitchen. This book,&nbsp;<em>Heirloom Baking with the Brass Sisters</em>, was one of three nominees for a James Beard Foundation Award in the Baking and Dessert category.<br><br>Their second book, <em>Heirloom Cooking with the Brass Sisters</em>, appeared in October 2008. Both this and the previous volume were selected by <em>Food &amp; Wine Magazine</em> as among the 25 best cookbooks of the year, and were included in the magazine&apos;s volumes of&nbsp;<em>The Best of the Best Cookbooks</em>.<br><br>In 2008, the sisters appeared on their own television show, &ldquo;The Brass Sisters: Queens of Comfort Food,&rdquo; which was broadcast on WGBH, the public television station in Boston. In 2011, they presented their one-hour special,&nbsp;&ldquo;The Brass Sisters Celebrate the Holidays&rdquo;&nbsp;on the Cooking Channel. They were part of a select group to win a &ldquo;Throwdown&rdquo; with Chef Bobby Flay on the Food Network by baking their mother&apos;s recipe for Pineapple Upside-Down Cake.</p>
+           a comprehensive guide to kitchenware and culinary antiques.<br><br>The sisters have always been interested in 
+           old cookbooks, which gave them an insight into the history of domestic cooking. They collected published and 
+           unpublished cookbooks, culinary advertising and culinary antiques, menus, and food molds from all over the world, 
+           some dating from the seventeenth century. Their collections and knowledge of culinary history led to frequent 
+           speaking engagements at museums, libraries, and educational institutions throughout the country.<br><br>In 2006, 
+           they launched their first publication based on unpublished cookbooks, creating a new category of cookbook that
+            translates heirloom recipes for the modern kitchen. This book,&nbsp;<em>Heirloom Baking with the Brass Sisters</em>, 
+            was one of three nominees for a James Beard Foundation Award in the Baking and Dessert category.<br><br>Their 
+            second book, <em>Heirloom Cooking with the Brass Sisters</em>, appeared in October 2008. Both this and the previous
+             volume were selected by <em>Food &amp; Wine Magazine</em> as among the 25 best cookbooks of the year, and were 
+             included in the magazine&apos;s volumes of&nbsp;<em>The Best of the Best Cookbooks</em>.<br><br>In 2008, the
+              sisters appeared on their own television show, &ldquo;The Brass Sisters: Queens of Comfort Food,&rdquo; which
+               was broadcast on WGBH, the public television station in Boston. In 2011, they presented their one-hour special,
+               &nbsp;&ldquo;The Brass Sisters Celebrate the Holidays&rdquo;&nbsp;on the Cooking Channel. They were part of a 
+               select group to win a &ldquo;Throwdown&rdquo; with Chef Bobby Flay on the Food Network by baking their 
+               mother&apos;s recipe for Pineapple Upside-Down Cake.</p>
         <p>In 2015, they published&nbsp;<em>Baking with the Brass Sisters: Over 125 Recipes for Classic Cakes, Pies,
          Cookies, Breads, Desserts, and Savories from America&apos;s Favorite Home Bakers.</em><br><br>With her sister,
           Marilynn, Sheila was honored by the City of Cambridge in 2016 when they were named &ldquo;Cambridge 
@@ -1575,7 +1590,7 @@ b_bios = [
         dateUpdated: "July 29, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "Jan Gardner (editor)",
         categories: [
             "Fashion Designer",
             "Historian/History Project",
@@ -2207,7 +2222,7 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "Siobhan Bredin",
         categories: ["Athlete"],
     },
      {

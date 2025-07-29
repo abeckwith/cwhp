@@ -520,7 +520,7 @@ m_bios = [
         dateUpdated: "April 4, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "Anthony Beckwith",
         categories: [
             "Teacher/Educator",
             "Poet",
@@ -1035,7 +1035,7 @@ m_bios = [
         dateUpdated: "April 30, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "Anthony Beckwith",
         categories: ["Activist", "Poet", "Author"],
     },
     {

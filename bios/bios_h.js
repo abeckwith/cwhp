@@ -807,7 +807,7 @@ h_bios = [
         dateUpdated: "April 4, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "Anthony Beckwith",
         categories: ["Lawyer", "Teacher/Educator", "Businesswoman"],
     },
     {
