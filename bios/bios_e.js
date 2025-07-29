@@ -244,7 +244,7 @@ e_bios = [
         dateUpdated: "",
         photoPos: [],
         photoHeights: [],
-        authors: "Joanna Shea O'Brien",
+        authors: "Joanna Shea O'Brien (author)",
         categories: ["Doctor"],
     },
 

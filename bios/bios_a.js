@@ -75,7 +75,7 @@ a_bios = [
         `,
         otherNotes: "",
         references: ` University of New Hampshire special collections
-            biographical note; Review of her autobiography in <em>Time</em> magazine, Oct
+            biographical note<br>Review of her autobiography in <em>Time</em> magazine, Oct
             05, 1936.<Br>Photo source: wikipedia
         `,
         photos: ["images_bios/Portrait_of_Eleanor_Hallowell_Abbott.jpg"],

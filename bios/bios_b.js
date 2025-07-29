@@ -242,35 +242,46 @@ b_bios = [
         organization: false,
         lastName: "Barnes",
         firstName: "Mary",
-        middleName: "W.",
+        middleName: "West",
         familyName: "",
         fileLetter: "",
         title: `Pilot, community leader`,
-        birthDate: "ca.1920",
+        birthDate: "1920",
         birthLocation: "Newton, MA",
         deathDate: "06.09.1999",
         deathLocation: "Concord, MA",
         narrative: `
 
             Mary Barnes was a 35-year resident of Cambridge,
-            who attended Beaver Country Day School and graduated from St. Timothy's.
-            She was one of the first female pilots in World War II. She served with the
-            Women's Auxiliary Service (WASP). She was a former board member of the
+            who attended Beaver Country Day School and graduated from St. Timothy's.<br><Br>
+            Barnes was one of the first women to serve with the
+            Women's Auxiliary Service PILOTS (WASP) during WWII. Woomen in this role served as United States federal civil 
+            service employees. Barnes was a trained pilots, like all WASP members. The WASP tested and ferried planes
+             and trained 
+            other pilots as a way to free up male pilots serving in combat postitions. 
+            <br><Br>
+            She was a former board member of the
             Hospice of Cambridge and also past president of the Cambridge Visiting Nurses
             Association. Mary Barnes was a member of the Board of Trustees of the Fernald
-            School in Waltham and the Christ Church in Cambridge. <br><br>She was 79 when she died.
+            School in Waltham and the Christ Church in Cambridge. 
+            She was also active with the <i>Cambridge Home for the Aged</i> and <i>Delta House Respite</i>
+            <br><Br>
+            Mary West was married to William S. Barnes, a former professor at the Fletcher School of Law and Diplomacy 
+            and they had a daughter and a son.<br>
+            
+            She was 79 when she died.
 
             `,
         otherNotes: "",
-        references: ` <em>Boston Globe</em> 6-25-99
+        references: ` <em>Boston Globe</em> 6-25-99<br>The Cambridge Chronicle, Volume 153, Number 24, 17 June 1999
         `,
         photos: [""],
         photoTitles: [],
         dateCreated: "prior to 2006",
-        dateUpdated: "",
+        dateUpdated: "July 29, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "Anthony Beckwith (editor)",
         categories: ["Community Leader", "Pilot"],
     },
     {
@@ -2214,7 +2225,7 @@ b_bios = [
         https://www.thecrimson.com/article/1974/5/24/the-warehouse-school-one-alternative-pthe/</a><Br><Br>
         Photo source: <a href="https://commons.wikimedia.org/wiki/File:Fairbanks_-_Susan_Butcher_and_Dogs.jpg">
         https://commons.wikimedia.org/wiki/File:Fairbanks_-_Susan_Butcher_and_Dogs.jpg</a>
-<br><Br><b>NOTE: bio written July 2020 - added to site in 2025
+<br><Br><b>NOTE: bio written July 2020 - added to site in 2025</b>
         `,
         photos: ["images_bios/susan_butcher.jpg"],
         photoTitles: [],
@@ -2222,7 +2233,7 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Siobhan Bredin",
+        authors: "Siobhan Bredin (author)",
         categories: ["Athlete"],
     },
      {
