@@ -43,7 +43,7 @@ a_bios = [
         dateCreated: "2014",
         dateUpdated: "July 15, 2025",
 
-        authors: "",
+        authors: "Joan Sindall (editor)",
         categories: ["Political Leader"],
     },
     {
@@ -84,7 +84,7 @@ a_bios = [
         dateUpdated: "July 9, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "Joan Sindall (editor)",
         categories: ["Author"],
     },
 
@@ -655,7 +655,7 @@ as a writer were recognized only after her death. The founding members, who incl
         dateUpdated: "July 27, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "Joan Sindall (editor)",
         categories: ["Sportswoman", "Teacher/Educator"],
     },
     {

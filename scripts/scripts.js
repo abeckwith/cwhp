@@ -300,7 +300,8 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
     else dt += "</div>"; // "Last updated: 2006-2010";
 
     atr = "";
-    if (person.authors.trim() !== "") atr = "<div style='text-align:right'>Authors/Editors: " + person.authors  +"</div>";
+    if (person.authors.trim() !== "") 
+        atr = "<div style='text-align:right'>Authors & Editors: " + person.authors  +"</div>";
 
     html += "<br>" + dt + atr + "<br><br><br><br><br><br><br><br><br>";
 
