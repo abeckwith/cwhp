@@ -1492,92 +1492,61 @@ b_bios = [
         deathLocation: "Cambridge, MA",
         narrative: `
 
+    
+        Sheila Brass, with her younger sister Marilynn Brass, was a cookbook co-author and cooking 
+        show co-host who elevated heirloom recipes and amassed a valued collection of cookbooks.
+        <p>The Brass sisters were lauded by the James Beard Foundation for their heirloom baking cookbook 
+        and &ldquo;The Food Flirts,&rdquo; the 2017 PBS show for which they were co-hosts and executive producers.</p>
+        <p>Their collection of 6,500 cookbooks, including many that were handwritten, is now housed at Michigan 
+        State University&rsquo;s renowned culinary library.</p>
+        <p>&ldquo;The sisters were exceptional at breaking down barriers with their personalities and scrumptious
+         treats,&rdquo; Denise Drower Swidey, supervising editor for &ldquo;The Food Flirts,&rdquo; told The 
+         Boston Globe. The show was a finalist for a James Beard award. Sheila &ldquo;was such an inspiration 
+         because she had so many career pivots and life changes as an older woman,&rdquo; Swidey added.</p>
+        <p>Sheila was the daughter of Dorothy (Katziff) Brass and Harry Brass. She was raised in a lively orthodox
+         Jewish-American household in Winthrop, Massachusetts, where the cooking and baking of her mother and 
+         grandmother inspired her.</p>
+        <p>She attended Massachusetts College of Art and Design, majoring in Fashion Design and Illustration. 
+        She graduated in 1958 with a Bachelor of Fine Arts degree in the top 10 percent of her class.&nbsp;<br>
+        She was a fashion designer for ten years in New York and Boston. Her designs were featured in&nbsp;<em>
+        Women&apos;s Wear Daily&nbsp;</em>and sold in specialty shops.<br><br>She moved to Cambridge in 1972 and 
+        became the Director of Marketing for Associates for International Research where she developed cost of 
+        living surveys for United States nationals living and working abroad.<br>In 1984, she joined the WGBH 
+        Educational Foundation in Boston as the Executive Assistant to the Vice President of National Programming
+         for 25 years.<br><br>The sisters, licensed antique dealers for more than 40 years, owned and operated 
+         Shelmar Antiques.</p>
+        <p>The sisters were the North American Consultants for Miller&apos;s Publications, located in London, 
+        for 11 years. They were responsible for research, photo shoots, and marketing information for several of
+         Miller&apos;s books on antiques and collectibles. Together, they were responsible for the first section
+          on rare and collectible cookbooks for Miller&apos;s Publications, and were principals in writing and producing
+           a comprehensive guide to kitchenware and culinary antiques.<br><br>The sisters have always been interested in old cookbooks, which gave them an insight into the history of domestic cooking. They collected published and unpublished cookbooks, culinary advertising and culinary antiques, menus, and food molds from all over the world, some dating from the seventeenth century. Their collections and knowledge of culinary history led to frequent speaking engagements at museums, libraries, and educational institutions throughout the country.<br><br>In 2006, they launched their first publication based on unpublished cookbooks, creating a new category of cookbook that translates heirloom recipes for the modern kitchen. This book,&nbsp;<em>Heirloom Baking with the Brass Sisters</em>, was one of three nominees for a James Beard Foundation Award in the Baking and Dessert category.<br><br>Their second book, <em>Heirloom Cooking with the Brass Sisters</em>, appeared in October 2008. Both this and the previous volume were selected by <em>Food &amp; Wine Magazine</em> as among the 25 best cookbooks of the year, and were included in the magazine&apos;s volumes of&nbsp;<em>The Best of the Best Cookbooks</em>.<br><br>In 2008, the sisters appeared on their own television show, &ldquo;The Brass Sisters: Queens of Comfort Food,&rdquo; which was broadcast on WGBH, the public television station in Boston. In 2011, they presented their one-hour special,&nbsp;&ldquo;The Brass Sisters Celebrate the Holidays&rdquo;&nbsp;on the Cooking Channel. They were part of a select group to win a &ldquo;Throwdown&rdquo; with Chef Bobby Flay on the Food Network by baking their mother&apos;s recipe for Pineapple Upside-Down Cake.</p>
+        <p>In 2015, they published&nbsp;<em>Baking with the Brass Sisters: Over 125 Recipes for Classic Cakes, Pies,
+         Cookies, Breads, Desserts, and Savories from America&apos;s Favorite Home Bakers.</em><br><br>With her sister,
+          Marilynn, Sheila was honored by the City of Cambridge in 2016 when they were named &ldquo;Cambridge 
+          Food Heroes.&rdquo;
 
-            Sheila Brass is the daughter of Dorothy (Katziff)
-            Brass and Harry Brass. Like her younger sister, Marilynn
-                    Brass, she was raised in a lively orthodox Jewish-American household
-            in Winthrop, Massachusetts, where the cooking and baking of her mother and grandmother
-            made her enthusiastic about the history of the culinary arts.<br><br>
-             As a young woman, she attended Massachusetts College
-            of Art and Design, majoring in Fashion Design and Illustration. She was graduated
-            in 1958 with a Bachelor of Fine Arts degree in the top 10 percent of her class.
-            <br>
-            She was a fashion designer for ten years in both
-            New York and Boston. Her designs were featured in <em>Women's Wear Daily
-            </em>and sold in specialty shops. <br><br>
-            She moved to Cambridge in 1972 and became the
-            Director of Marketing for Associates for International Research where she developed
-            cost of living surveys for United States nationals living and working abroad.<br>
-            Sheila joined the WGBH Educational Foundation
-            in 1984, working for the Public Television Station, in Boston, as the Executive
-            Assistant to the Vice President of National Programming for 25 years.<br><br>
-            
-
-            With her younger sister, Marilynn, she owns and runs Shelmar Antiques, which
-            the sisters started when they left their jobs in 1975 to care for their ailing
-            father. They have been licensed antique dealers for more than 40 years.<br><br>
-            The sisters were the North American Consultants
-            for Miller's Publications, located in London, for 11 years. They were
-            responsible for research, photo shoots, and marketing information for several
-            of Miller's books on antiques and collectibles. Together, they were responsible
-            for the first section on rare and collectible cookbooks for Miller's Publications,
-            and with her sister, Marilynn, were principals in writing and producing a comprehensive
-            guide to kitchenware and culinary antiques. <br><br>
-            The sisters have always been interested in old
-            cookbooks, which gave them an insight into the history of domestic cooking.
-            They began to collect both handwritten manuscript and printed cookbooks, culinary
-            advertising and culinary antiques, menus, and food molds from all over the world,
-            some dating from the seventeenth century. Their collections (which include 6,500
-            cookbooks) and their knowledge of culinary history have led to frequent speaking
-            engagements at museums, libraries, and educational institutions throughout the
-            country.<br><br>
-            In 2006, they launched their first publication
-            based on manuscript cookbooks, creating a new category of cookbook that translates
-            heirloom recipes for the modern kitchen. This book, <em>Heirloom Baking with
-                the Brass Sisters</em>, was one of three nominees for a James Beard Foundation
-            Award in the Baking and Dessert category in 2007.<br><br>
-             Their second book, <em>Heirloom Cooking with the Brass
-                Sisters</em>, appeared in October 2008. Both this and the previous volume were
-            selected by <em>Food &amp; Wine Magazine</em> to be noted among the 25 best
-            cookbooks published in 2007 and 2009, and were included in the magazine's volumes
-            of <em>The Best of the Best Cookbooks</em>.<br><br>
-             In 2008, the sisters appeared in their own television
-            show, &#8220;The Brass Sisters: Queens of Comfort Food,&#8221; which was broadcast
-            on WGBH, the Public Television Station in Boston. In 2011, they presented their
-            one-hour special, <em>The Brass Sisters Celebrate the Holidays</em> on the Cooking
-            Channel. They were part of a select group to win a &#8220;Throwdown&#8221; with
-            Chef Bobby Flay on the Food Network by baking their mother's recipe for
-            Pineapple Upside-Down Cake.<br><br>
-            With her sister, Marilynn, she was honored by
-            the City of Cambridge in 2016 when they were named &#8220;Cambridge Food Heroes.&#8221;<br><br>
-             The Brass Sisters are presently working on a television
-            series. They publish a blog offering memories of Cambridge along with heirloom
-            recipes.<br>
             `,
         otherNotes: "",
-        references: ` Marilynn Brass, Sheila Brass.<em> Heirloom Baking
-                with the Brass Sisters: more than 100 years of recipes discovered from family
-                cookbooks, original journals, scraps of paper, and grandmother's kitchen</em>.
-            New York, NY: Black Dog &amp; Leventhal Publishers, 2006.<br>
-            Marilynn Brass, Sheila Brass. <em>Heirloom Cooking With The Brass Sisters: Recipes
-                You Remember and Love</em>. New York, NY: Black Dog &amp; Leventhal Publishers,
-            2008<br>
-            Marilynn Brass, Sheila Brass. <em>Baking With The Brass Sisters: Over 125 Recipes
-                for Classic Cakes, Pies, Cookies, Breads, Desserts, and Savories from America's
-                Favorite Home Bakers</em>. New York, NY: St. Martin's Griffin, 2015.<br>
-            <em>Miller's Buyer's Guide: Kitchenware: What To Look for And What
-                to Pay For Kitchenware For Over 2000 Items Of Kitchenware</em>. London: Mitchell
-            Beazley, 2005.<br>
-            Bill Brett, Kerry Brett, Carol Beggy. <em>Boston, Inspirational Women </em>Boston,
-            MA: Three Bean Press, 2011.<br>
+        references: `Marilynn Brass, Sheila Brass.
+          <em>&nbsp;Heirloom Baking with the Brass Sisters: more than 100 years of recipes discovered from family 
+          cookbooks, original journals, scraps of paper, and grandmother&apos;s kitchen</em>. New York, NY: Black
+           Dog &amp; Leventhal Publishers, 2006.<br>Marilynn Brass, Sheila Brass.&nbsp;<em>Heirloom Cooking with 
+           the Brass Sisters: Recipes You Remember and Love</em>. New York, NY: Black Dog &amp; Leventhal Publishers,
+            2008<br>Marilynn Brass, Sheila Brass.&nbsp;<em>Baking with the Brass Sisters: Over 125 Recipes for 
+            Classic Cakes, Pies, Cookies, Breads, Desserts, and Savories from America&apos;s Favorite Home Bakers</em>.
+             New York, NY: St. Martin&apos;s Griffin, 2015.<br><em>Miller&apos;s Buyer&apos;s Guide: Kitchenware: 
+             What to Look for and What to Pay for Kitchenware for Over 2000 Items of Kitchenware</em>. London: Mitchell
+              Beazley, 2005.<br>Bill Brett, Kerry Brett, Carol Beggy.&nbsp;<em>Boston, Inspirational Women&nbsp;
+              </em>Boston, MA: Three Bean Press, 2011.<br>The Brass Sisters&apos; s website: 
+              <a href="http://www.thebrasssisters.com/">www.thebrasssisters.com</a><Br>
+        The Boston Globe, Sept. 12, 2022</p>
+     
 
-            The Brass Sisters'
-            s website: <a href="http://www.thebrasssisters.com">www.thebrasssisters.com</a>
         `,
         photos: [""],
         photoTitles: [],
         dateCreated: "2016",
-        dateUpdated: "July 16, 2025",
+        dateUpdated: "July 29, 2025",
 
         photoHeights: [],
         categories: [
