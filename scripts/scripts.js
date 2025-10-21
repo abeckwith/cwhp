@@ -84,15 +84,15 @@ function showRecents(num) {
     all_bios.forEach((bioLetterList) => {
         //go through each name for this letter:
         bioLetterList.forEach((thename) => {
-            if (thename.deathDate == "" && thename.firstName !== "")
-                console.log(
-                    thename.lastName +
-                        ", " +
-                        thename.firstName +
-                        " (b. " +
-                        thename.birthDate +
-                        ")"
-                );
+            // if (thename.deathDate == "" && thename.firstName !== "")
+            //     console.log(
+            //         thename.lastName +
+            //             ", " +
+            //             thename.firstName +
+            //             " (b. " +
+            //             thename.birthDate +
+            //             ")"
+            //     );
             if (thename.dateCreated != "prior to 2006") {
                 //if something like Mar 2024:
 
@@ -103,8 +103,9 @@ function showRecents(num) {
                 monthNameShort = thename.dateCreated
                     .split(delimiter)[0]
                     .substring(0, 3); //1st 3 chars: Jan
+                
                 year = thename.dateCreated.split(delimiter)[1];
-                // console.log(monthNameShort + ", " + year);
+
                 //find month number
                 monthNum = 0;
                 for (let index = 0; index < months.length; index++) {
@@ -118,8 +119,7 @@ function showRecents(num) {
                 currMonth = new Date().getMonth();
 
                 monthsDifference =
-                    (currYear - year) * 12 + currMonth + monthNum;
-
+                    (currYear - year) * 12 + currMonth - monthNum;
                 //only add to list if within number of months selected:
                 if (monthsDifference < RECENT_MONTHS_LIMIT)
                     html +=
