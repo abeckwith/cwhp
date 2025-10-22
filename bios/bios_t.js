@@ -49,7 +49,7 @@ t_bios = [
                 Dictionary of Women Scientists</em>. Routledge, 2000; Phyllis J. Read and Bernard
             L. Witlieb,<em> The Book of Women's Firsts</em>, New York: Random House,
             1992<br>
-       <Br> Image source: https://en.wikipedia.org/wiki/Helen_B._Taussig        `,
+       <Br> Image source: <a href="https://en.wikipedia.org/wiki/Helen_B._Taussig ">https://en.wikipedia.org/wiki/Helen_B._Taussig </a>       `,
         photos: ["images_bios/Helen_Taussig.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2006",
@@ -109,7 +109,7 @@ t_bios = [
             Mass.: Windflower Press, 1979.<br>
             May Sarton,<em> Recovering: A Journal, 1978-1979</em>,. New York: W.W. Norton
             pp 242-244.
-            <br>Image used wth permission from Shady Hill School (https://www.shs.org/)
+            <br>Image used wth permission from Shady Hill School (<a href="https://www.shs.org/">https://www.shs.org/</a>)
             
         `,
         photos: ["images_bios/katharine_taylor.jpeg"],
@@ -226,7 +226,7 @@ t_bios = [
             <em>Black Women in America, A Historical Encyclopedia</em> ed. Darlene Clark,
             Carlson Publishing, Inc.,1993.<Br>
             Cambridge Chronicle 21 November 1985<br>
-            Image source: https://commons.wikimedia.org/wiki/File:Mary_Crutchfield_Thompson_%2813270319163%29.jpg
+            Image source: <a href="https://commons.wikimedia.org/wiki/File:Mary_Crutchfield_Thompson_%2813270319163%29.jpg">https://commons.wikimedia.org/wiki/File:Mary_Crutchfield_Thompson_%2813270319163%29.jpg</a>
         `,
         photos: ["images_bios/Mary_Crutchfield_Thompson.jpg"],
         photoTitles: [],
@@ -281,7 +281,7 @@ t_bios = [
         references: ` <em>
                 Harvard Gazette</em>, May 2001<br>
             Obituary on sciencenetwork.com<br>
-                Image source: https://en.wikipedia.org/wiki/Ruth_Turner
+                Image source: <a href="https://en.wikipedia.org/wiki/Ruth_Turner">https://en.wikipedia.org/wiki/Ruth_Turner</a>
         `,
         photos: ["images_bios/Ruth_Turner.jpg"],
         photoTitles: [],

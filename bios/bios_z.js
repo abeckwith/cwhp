@@ -40,9 +40,9 @@ References:
         `,
         otherNotes: "",
         references: `From a Sarah Boyer oral interview<Br>
-        Blessed Sacrament Color Guards online site www.blessedsac.org/SAC_HISTORY.html; 
+        Blessed Sacrament Color Guards: <a href="www.blessedsac.org/SAC_HISTORY.htm ">www.blessedsac.org/SAC_HISTORY.html</a> 
         (this includes a photograph of the Zappala family)
-World Guard International online site www.wgi.org/about/halloffame.php
+World Guard International: <a href="www.wgi.org/about/halloffame.php">www.wgi.org/about/halloffame.php</a>
     `,
         photos: [""],
         photoTitles: [],

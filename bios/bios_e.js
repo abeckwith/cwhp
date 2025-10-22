@@ -53,7 +53,7 @@ e_bios = [
                 Book of Women's Firsts</em> (1992); &#8220;Changing the Face of Medicine&#8221;
             National Library of Medicine web site. <a
                 href="http://www.nlm.nih.gov/changingthefaceofmedicine/physicians/biography_99.html" target="_blank">http://www.nlm.nih.gov/changingthefaceofmedicine/physicians/biography_99.html</a>
-            <Br>Image source: https://en.wikipedia.org/wiki/Martha_May_Eliot
+            <Br>Image source: <a href="https://en.wikipedia.org/wiki/Martha_May_Eliot">https://en.wikipedia.org/wiki/Martha_May_Eliot</a>
                 `,
         photos: ["images_bios/martha_may_eliot.jpg"],
         photoTitles: [],
@@ -163,9 +163,9 @@ e_bios = [
         references: `
             Tess Ewing staff biography (autobiographical statement), College of Public and
             Community Service, UMass Boston
-            <br>https://www.faireconomy.org/board_tess_ewing<br>
+            <br><a href="https://www.faireconomy.org/board_tess_ewing">https://www.faireconomy.org/board_tess_ewing</a><br>
             Tess Ewing, personal communication.<br>
-            Image source: https://www.faireconomy.org/board_tess_ewing
+            Image source: <a href="https://www.faireconomy.org/board_tess_ewing">https://www.faireconomy.org/board_tess_ewing</a>
         `,
         photos: ["images_bios/tess_ewing.jpg"],
         photoTitles: [],
@@ -221,21 +221,22 @@ e_bios = [
         Photo Source NIH US National Library of Medicine, Public Domain<br><br>
 
         "Deaths and Funerals: Dr. Ruth Easterling." The Boston Globe, June 17, 1943, Boston, Massachusetts, page 11. 
-        <br>Retrieved from Newspapers.com on June 5, 2020: https://www.newspapers.com/clip/52830380/obituary-for-ruth-m-easterling/<br><br>
+        <br>Retrieved from Newspapers.com on June 5, 2020: <a href="https://www.newspapers.com/clip/52830380/obituary-for-ruth-m-easterling/">https://www.newspapers.com/clip/52830380/obituary-for-ruth-m-easterling/</a><br><br>
 
         NIH National Library of Medicine Biography.<br>Retrieved June 2, 2020:
-        https://cfmedicine.nlm.nih.gov/physicians/biography_94.html<br><br>
+       <a href=" https://cfmedicine.nlm.nih.gov/physicians/biography_94.html">https://cfmedicine.nlm.nih.gov/physicians/biography_94.html</a><br><br>
 
         "Deaths and Funerals: Dr. Ruth Easterling." The Boston Globe, June 17, 1943, Boston, Massachusetts, page 11.<br>
-        Retrieved from Newspapers.com on June 5, 2020: https://www.newspapers.com/clip/52830380/obituary-for-ruth-m-easterling/<br><br>
+        Retrieved from Newspapers.com on June 5, 2020: <a href="https://www.newspapers.com/clip/52830380/obituary-for-ruth-m-easterling/">
+        https://www.newspapers.com/clip/52830380/obituary-for-ruth-m-easterling/</a><br><br>
 
         Tufts School of Medicine, Alumni Profiles.<br>
         Retrieved on June 5, 2020:
-        https://medicine.tufts.edu/administration/multicultural-affairs/alumni-profiles<br><br>
+        <a href="https://medicine.tufts.edu/administration/multicultural-affairs/alumni-profiles">https://medicine.tufts.edu/administration/multicultural-affairs/alumni-profiles</a><br><br>
 
 
         Find a Grave Online Memorial.
-        <br>Retrieved by June 5, 2020: https://www.findagrave.com/memorial/139844089
+        <br>Retrieved by June 5, 2020: <a href="https://www.findagrave.com/memorial/139844089">https://www.findagrave.com/memorial/139844089</a>
 <br><Br><b>NOTE: bio written July 2020 - added to site in 2025
         `,
         photos: ["images_bios/easterling.png", "images_bios/easterling2.png"],

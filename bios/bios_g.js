@@ -235,9 +235,9 @@ g_bios = [
                 http://www.english.uiuc.edu/maps/poets/g_l/gluck/about.htm</a><br>
             Hass, Robert &quot;About Louise Gluck&quot; Modern American Poetry
           
-            Brief Biography, http://www.helical-library.net/gluck/bio.asp. Date accessed:
+            Brief Biography, <a href="http://www.helical-library.net/gluck/bio.asp">http://www.helical-library.net/gluck/bio.asp</a>. Date accessed:
             4/22/2013<Br>
-            Image source: https://en.wikipedia.org/wiki/Louise_Gl%C3%BCck
+            Image source: <a href="https://en.wikipedia.org/wiki/Louise_Gl%C3%BCck">ttps://en.wikipedia.org/wiki/Louise_Gl%C3%BCck</a>
         `,
         photos: ["images_bios/louise_gluck.jpg"],
         photoTitles: [],
@@ -310,10 +310,10 @@ g_bios = [
             Obituary, <em>The Boston Globe</em> , May 14, 2008 <br>
             Bryan Marquard. &#8220;Miriam Goodman, 69; poet also nurtured others' art&#8221;
             <em>The Boston Globe</em>, May 16, 2008
-           /<br>
+           <br>
             Leslie Lawrence &#8220;Miriam Goodman, Poet, 1938-2008&#8221; We Remember, Jewish
-            Women's Archive websitebr>
-            Miriam Goodman online web sitebr>
+            Women's Archive website<br>
+            Miriam Goodman online web site<Br>
             Press release, Griffin Museum of Photography, April 2, 2009
         `,
         photos: ["images_bios/MiriamGoodman1.jpg"],
@@ -388,7 +388,7 @@ g_bios = [
         references: ` Kathleen E. LeMieux; Massachusetts Historical Society,
             Alice Bache Gould'papers Guidie to the Collection<br>
             &#8220;Alice in Seville&#8221; Time magazine July 7, 1952.<Br>
-            Image source: https://en.wikipedia.org/wiki/Alice_Bache_Gould
+            Image source: <a href="https://en.wikipedia.org/wiki/Alice_Bache_Gould">https://en.wikipedia.org/wiki/Alice_Bache_Gould</a>
         `,
         photos: ["images_bios/Alice_Bache_Gould.png"],
         photoTitles: [],
@@ -550,10 +550,10 @@ g_bios = [
             New England Blacks in Philanthropy website, blog post, 1/31/17,
             https://sel-law.squarespace.com/renae-gray-post<br>
             <span >Silva-Collins, Candelaria, blog,
-                7/1/2008</span>, http://candelariasilva.com/a-tribute-to-the-lovely-renae-gray/<br>
+                7/1/2008</span>, <a href="http://candelariasilva.com/a-tribute-to-the-lovely-renae-gray/">http://candelariasilva.com/a-tribute-to-the-lovely-renae-gray/</a><br>
             <span >YWCA Cambridge Massachusetts Facebook
-                post, 4/21/2017,</span> <span
-               >https://www.facebook.com/pg/YWCACambMA/photos/?tab=album&amp;album_id=10155047494801125</span><br>
+                post, 4/21/2017,</span> <span>
+                <a href="https://www.facebook.com/pg/YWCACambMA/photos/?tab=album&amp;album_id=10155047494801125">https://www.facebook.com/pg/YWCACambMA/photos/?tab=album&amp;album_id=10155047494801125</a></span><br>
             <br>
           
 

@@ -174,7 +174,7 @@ b_bios = [
             `,
         otherNotes: "",
         references: ` <em>Notable American Women</em> (1609-1950) Vol
-            I; Baldwin school online site: <a href="https://baldwin.cpsd.us/">https://baldwin.cpsd.us//a>
+            I; Baldwin school: <a href="https://baldwin.cpsd.us/">https://baldwin.cpsd.us//a>
             <Br>Photo source: wikipedia
         `,
         photos: ["images_bios/mary louise baldwin.jpeg"],
@@ -836,7 +836,7 @@ b_bios = [
             in a Name: Ima Hogg Knew&#8221;<em> NY Times</em>, January 1997; Anne Bernays
             &#8220;Remembering Mrs McIntosh &#8220; <em>Chronicle of Higher Education</em>,
             Feb 9, 2002:&#8220;Meet the Writers: Anne Bernays&#8221; (includes interview)
-            online site, Barnes and Noble.com
+            Barnes and Noble website
         `,
         photos: ["images_bios/ann bernays.webp"],
         photoTitles: [],
@@ -1679,7 +1679,7 @@ b_bios = [
                 Center in 1972, the longest running women's center in the US. Annie
             Popkin who wrote her doctoral dissertation on this group has deposited her reference
             materials at Schlesinger library.
-            See also <a href="bios.html?ln=WomensCenter&mN=&fN="Women's Educational Center</a><br>
+            See also <a href="bios.html?ln=WomensCenter&mN=&fN=">Women's Educational Center</a><br>
             <br>
             `,
         otherNotes: "",
@@ -1757,7 +1757,8 @@ b_bios = [
             `,
         otherNotes: "",
         references: ` Written by Kimm Topping, printed in Mapping Feminist Cambridge guidebook, 2019:
-            https://historycambridge.org/self-guided-tours/self-guided-tour-mapping-feminist-cambridge-inman-square-1970s-1990s/<br>
+            <a href="https://historycambridge.org/self-guided-tours/self-guided-tour-mapping-feminist-cambridge-inman-square-1970s-1990s/">
+            https://historycambridge.org/self-guided-tours/self-guided-tour-mapping-feminist-cambridge-inman-square-1970s-1990s/</a><br>
             Stories for Bread and Roses provided by Pat Hynes.
         `,
         photos: [""],
@@ -2154,7 +2155,8 @@ b_bios = [
         otherNotes: "",
         references: ` <em>Cambridge Chronicle</em> 09-16-99<Br>
         US Censuses: 1910, 1941<Br>
-        https://kinginstitute.stanford.edu/king-preaches-cambridges-union-baptist-church
+        <a href="https://kinginstitute.stanford.edu/king-preaches-cambridges-union-baptist-church">
+        https://kinginstitute.stanford.edu/king-preaches-cambridges-union-baptist-church</a>
         `,
         photos: [""],
         photoTitles: [],

@@ -173,7 +173,7 @@ d_bios = [
             Phyllis J. Read and Bernard L. Witlieb <em>The
                 Book of Women's Firsts,</em> 1992.<br>
             Carolyn Warner,<em>Treasury of Women's Quotations,</em> 1992<Br>New York
-            International Ballet Competition online site/retrieved on May 19, 2006
+            International Ballet Competition/retrieved on May 19, 2006
         `,
         photos: ["images_bios/dantuono.png"],
         photoTitles: [],
@@ -267,7 +267,8 @@ d_bios = [
 
         <em>Cambridge Chronicle</em>, 30 March 1967. 3 May 1977, 18 October 1979<br>
         <em>Boston Globe</em>, July 17 1995 <Br>
-        https://www.cambridgema.gov/Departments/cambridgepolice/aboutthedepartment/departmenthistory<Br>
+        <a href="https://www.cambridgema.gov/Departments/cambridgepolice/aboutthedepartment/departmenthistory">
+        https://www.cambridgema.gov/Departments/cambridgepolice/aboutthedepartment/departmenthistory</a><Br>
         1930 U.S. Census<Br>
         1954 <em>Cambridge City Directory</em><Br>
         U.S. Dept. of Veteran Affairs <em>BIRLS Death File</em><Br>
@@ -612,7 +613,8 @@ d_bios = [
             neighborhood,&#8221; <em>The Worcester Phoenix</em>, November 12 - 19, 1999<br>
             McIntire, D. <em>International Who's Who in Poetry and Poets' Encyclopedia</em>,
             Routledge, 2001, p. 139-40.<br>
-            http://www.cervenabarvapress.com/der-hovanessianinterview.htm
+            <a href="http://www.cervenabarvapress.com/der-hovanessianinterview.htm">
+            http://www.cervenabarvapress.com/der-hovanessianinterview.htm</a>
         `,
         photos: ["images_bios/der_hovanessian.jpg"],
         photoTitles: [],
@@ -791,7 +793,7 @@ d_bios = [
             Charles Hagen, &#8220;Review/Art<br>
             When the Outside World Is Danger <em>New York Times</em> December 27, 1991<br>
             Cambridge Arts Council website<br>
-            Ellen Driscoll online site: http://www.ellendriscoll.net
+            <a href="http://www.ellendriscoll.net">http://www.ellendriscoll.net<
         `,
         photos: ["images_bios/driscoll_small.jpg"],
         photoTitles: [],

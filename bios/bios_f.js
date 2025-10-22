@@ -168,7 +168,7 @@ f_bios = [
       Science Studies Mary Wyer</em> (ed.) 312-331.(2001)<Br>
       Cynthia R Daniels. <em>Exposing 
       Men: The Science and Politics of Male Reproduction</em>. New York (2006).<Br>
-      https://woodsholemuseum.org/WHHWomen/GladysFriedler.html`,
+      <a href="https://woodsholemuseum.org/WHHWomen/GladysFriedler.html">https://woodsholemuseum.org/WHHWomen/GladysFriedler.html</a>`,
         photos: ["images_bios/Friedler_Gaby.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2006",dateUpdated:
@@ -288,7 +288,7 @@ In
     Margaret Fuller Neighborhood House website, <a href="http://www.margaretfullerhouse.org/index.html" 
     target="_blank">http://www.margaretfullerhouse.org/index.html</a>
     <br>
-     Image source: https://en.wikipedia.org/wiki/Margaret_Fuller
+     Image source: <a href="https://en.wikipedia.org/wiki/Margaret_Fuller">https://en.wikipedia.org/wiki/Margaret_Fuller</a>
   `,
         photos: ["images_bios/margaret_fuller.jpg"],
         photoTitles: [],

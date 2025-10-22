@@ -42,8 +42,8 @@ n_bios = [
             <br>
             &#8220;From the Schlesinger Library&#8221; <em>Radcliffe Quarterly</em>, Winter
             2003.
-            <br>https://historyproject.omeka.net/items/show/872<Br>
-            Photo source: https://commons.m.wikimedia.org/
+            <br><a href="https://historyproject.omeka.net/items/show/872">https://historyproject.omeka.net/items/show/872</a>Br>
+            Photo source: <a href="https://commons.m.wikimedia.org/">https://commons.m.wikimedia.org/</a>
         `,
         photos: ["images_bios/new_words.jpg"],
         photoTitles: [],

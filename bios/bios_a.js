@@ -696,7 +696,7 @@ as a writer were recognized only after her death. The founding members, who incl
             Cambridge City Directories
             <br>
             City of Cambridge Street Listings<Br>
-            Image source: WNET/http://www.pbs.org/wnet/religionandethics/week245/cover.html
+            Image source: WNET <a href="http://www.pbs.org/wnet/religionandethics/week245/cover.html">http://www.pbs.org/wnet/religionandethics/week245/cover.html</a>
         `,
         photos: ["images_bios/linda archer.png"],
         photoTitles: [],

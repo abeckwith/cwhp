@@ -232,7 +232,8 @@ c_bios = [
               Annie Jump Cannon, head-and-shoulders
             portrait, 1922. <br>
             New York World Telegram and the Sun Newspaper Photograph Collection, Library
-            of Congress.<br>Public domain Image source: https://en.wikipedia.org/wiki/Annie_Jump_Cannon
+            of Congress.<br>Public domain Image source: 
+            <a href="https://en.wikipedia.org/wiki/Annie_Jump_Cannon">https://en.wikipedia.org/wiki/Annie_Jump_Cannon</a>
         `,
         photos: ["images_bios/annie cannon.jpg"],
         photoTitles: [],
@@ -275,9 +276,10 @@ c_bios = [
         otherNotes: "",
         references: `Marion Cannon Schlesinger, <em>Snatched from Oblivion</em>,
             Little Brown (1997); <br>
-            Cambridge Public Library online site &#8220;Penwomen of Cambridge Past: Biographies
+            Cambridge Public Library &#8220;Penwomen of Cambridge Past: Biographies
             of Our Literary Foremothers&#8221;<Br>
-                Image source: https://en.wikipedia.org/wiki/Cornelia_James_Cannon
+                Image source: <a href="https://en.wikipedia.org/wiki/Cornelia_James_Cannon">
+                https://en.wikipedia.org/wiki/Cornelia_James_Cannon</a>
 
         `,
         photos: ["images_bios/Cornelia_Cannon_in_~April_1948.jpg"],
@@ -423,7 +425,7 @@ c_bios = [
         otherNotes: "",
         references: `Un Encuentro con Centro Presente (A discussion
             at Cambridge Community Television) <Br>
-            Centro Presente's 25th Anniversary and Holiday Fiesta <Br>>
+            Centro Presente's 25th Anniversary and Holiday Fiesta <Br>
             Centro Presente's home page: <a href="http://www.cpresente.org" target="_blank">http://www.cpresente.org</a>
 
         `,
@@ -532,7 +534,8 @@ c_bios = [
             <br>
             Giving Gallery: about Joyce Chen
             
-        <Br>Image source: https://en.wikipedia.org/wiki/Joyce_Chen_(chef)
+        <Br>Image source: <a href="https://en.wikipedia.org/wiki/Joyce_Chen_(chef)">
+        https://en.wikipedia.org/wiki/Joyce_Chen_(chef)</a>
         `,
         photos: ["images_bios/joycechen.jpg"],
         photoTitles: [],
@@ -866,7 +869,8 @@ c_bios = [
             `,
         otherNotes: "",
         references: `<em>Notable American Women, Modern Period</em>;
-            Ada Louise Comstock papers, Smith College.<br>Public domain Image source: https://en.wikipedia.org/wiki/Ada_Comstock
+            Ada Louise Comstock papers, Smith College.<br>Public domain Image source: 
+            <a href="https://en.wikipedia.org/wiki/Ada_Comstock">https://en.wikipedia.org/wiki/Ada_Comstock</a>
         `,
         photos: ["images_bios/Ada-Comstock-1905.jpg"],
         photoTitles: [],
@@ -1049,7 +1053,7 @@ c_bios = [
         references: `
             <em>Cambridge Chronicle</em>. Sept 6, 2000<br>
             hollywood.com<Br>
-            <br>Image source: https://en.wikipedia.org/wiki/Jane_Curtin
+            <br>Image source: <a href="https://en.wikipedia.org/wiki/Jane_Curtin">https://en.wikipedia.org/wiki/Jane_Curtin</a>
         `,
         photos: [
             "images_bios/Jane_Curtin_at_the_41st_Emmy_Awards_cropped_and_altered.jpg",
@@ -1104,7 +1108,7 @@ c_bios = [
         references: `<em> American Women: 1500 Hundred Biographies</em>,
             Frances E. Willard and Mary A. Livermore (eds.), Volume I, (1897)<Br><em>Notable
                 American Women</em> (1950)<Br><em>Encyclopedia Americana</em>, 1995<Br>
-Image source: https://en.wikipedia.org/wiki/Charlotte_Cushman
+Image source: <a href="https://en.wikipedia.org/wiki/Charlotte_Cushman">https://en.wikipedia.org/wiki/Charlotte_Cushman</a>
         `,
         photos: ["images_bios/Charlotte_Cushman_(Sully,_1843).jpg"],
         photoTitles: [],

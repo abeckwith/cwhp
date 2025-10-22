@@ -75,7 +75,7 @@ m_bios = [
         references: `
             Veterans Services Department, City of Cambridge.<br>
             January 4, 2011 Mass. Assoc. of Women Veterans Honors<br>
-            https://www.youtube.com/watch?v=MnTlRJ6UBpc <br>
+            <a href="https://www.youtube.com/watch?v=MnTlRJ6UBpc">https://www.youtube.com/watch?v=MnTlRJ6UBpc</a> <br>
             St. Ansel Alumni Awards description
             <br>
             www.ahernfoundation.org
@@ -182,7 +182,7 @@ m_bios = [
         references: ` Benjamin Bussey Thatcher, <em>Indian Biography</em>.
             New York (1832); Lucius R. Paige. <em>History of Cambridge 1630-1877</em>, Boston
             1877<Br>Menotomy Journal timeline
-            <Br>> Frederick J Lund (compiler), &#8220;Brief
+            <Br> Frederick J Lund (compiler), &#8220;Brief
             History of Somerville,&#8221; Somerville Planning Board, 1996.
         `,
         photos: [""],
@@ -579,7 +579,7 @@ m_bios = [
                 in America</em>, 1898.<br>
             <em>Blue Book of Cambridge</em>, Cambridge MA, 1904.<br>
             &#8221;Birth Insurance attacked&#8221;<em> New York Times</em>, May 11, 1906.
-            <Br>Photo source: https://en.wikipedia.org/wiki/Estelle_M._H._Merrill
+            <Br>Photo source: <a href="https://en.wikipedia.org/wiki/Estelle_M._H._Merrill">https://en.wikipedia.org/wiki/Estelle_M._H._Merrill</a>
         `,
         photos: ["images_bios/Estelle_Merrill.png"],
         photoTitles: [],
@@ -641,7 +641,7 @@ m_bios = [
                 Harvard Art Museum Archives<br>
                 <em>Harvard University Gazette</em>, September19,
                 1996.
-                <br>Photo source: https://en.wikipedia.org/wiki/Agnes_Mongan
+                <br>Photo source: <a href="https://en.wikipedia.org/wiki/Agnes_Mongan">https://en.wikipedia.org/wiki/Agnes_Mongan</a>
         `,
         photos: ["images_bios/AgnesMongan.png"],
         photoTitles: [],
@@ -768,7 +768,7 @@ m_bios = [
             Maud Morgan, <em>Maud's
                 Journey: A Life From Art</em>.( Berkeley, New Earth Publications) 1995. <br>
            
-        <Br>Image source: https://en.wikipedia.org/wiki/Maud_Morgan
+        <Br>Image source: <a href="https://en.wikipedia.org/wiki/Maud_Morgan">https://en.wikipedia.org/wiki/Maud_Morgan</a>
                 `,
         photos: ["images_bios/MaudCabot.png"],
         photoTitles: [],
@@ -1017,10 +1017,10 @@ m_bios = [
         `,
         otherNotes: "",
         references: `
-          https://en.wikipedia.org/wiki/Rosario_Morales<Br>
+          <a href="https://en.wikipedia.org/wiki/Rosario_Morales">https://en.wikipedia.org/wiki/Rosario_Morales</a><Br>
         <em>Cambridge Chronicle</em> articles from 1982-1990<Br>
         <em>Boston Globe</em> March 4, 1982<Br>
-       Smith College interview at https://www.smith.edu/libraries/libs/ssc/vof/transcripts/Morales.pdf<Br>
+       Smith College interview at <a href="https://www.smith.edu/libraries/libs/ssc/vof/transcripts/Morales.pdf">https://www.smith.edu/libraries/libs/ssc/vof/transcripts/Morales.pdf</a><Br>
        Images source: Aurora Morales 
         `,
         photos: [

@@ -589,7 +589,8 @@ w_bios = [
                 Atlantic and the Politics of Gender.</em> (New York: Oxford University Press,
             2005); <br>
             
-                Image source: https://commons.wikimedia.org/wiki/File:Mrs._John_Winthrop.jpg
+                Image source: <a href="https://commons.wikimedia.org/wiki/File:Mrs._John_Winthrop.jpg">
+                https://commons.wikimedia.org/wiki/File:Mrs._John_Winthrop.jpg</a>
         `,
         photos: ["images_bios/HANNAH_Winthrop.jpg"],
         photoTitles: [],
@@ -645,7 +646,7 @@ w_bios = [
         references: ` Ozeline (Pearson) Wise papers and biographical information, Schlesinger
             Library. Ozeline (Pearson) Wise interview, <em>Black Women Oral History Project</em> of
             Schlesinger Library.<br>
-            Image source: https://en.wikipedia.org/wiki/Ozeline_Wise
+            Image source: <a href="https://en.wikipedia.org/wiki/Ozeline_Wise">https://en.wikipedia.org/wiki/Ozeline_Wise</a>
         `,
         photos: ["images_bios/Ozeline__Wise.jpg"],
         photoTitles: [],
@@ -749,8 +750,8 @@ w_bios = [
             chapter of the National Organization of Women. `,
         otherNotes: "",
         references: ` Harvard Gazette 6-2-2005<Br>
-                https://en.wikipedia.org/wiki/Alice_Wolf<Br><Br>
-                Image source: https://en.wikipedia.org/wiki/Alice_Wolf
+                <a href="https://en.wikipedia.org/wiki/Ozeline_Wise"><https://en.wikipedia.org/wiki/Ozeline_Wise</a><Br><Br>
+                Image source: <a href="https://en.wikipedia.org/wiki/Ozeline_Wise"><https://en.wikipedia.org/wiki/Ozeline_Wise</a>
         `,
         photos: ["images_bios/Alice_Wolf.jpg"],
         photoTitles: [],
@@ -856,7 +857,8 @@ w_bios = [
         references: ` Dominique Tremblay, finding aid for the Women's
             Coffeehouse Records, prepared October 2006. Northeastern University Library
            
-            <br>Image source: https://press.library.concordia.ca/read/ingredients-for-revolution
+            <br>Image source: <a href="https://press.library.concordia.ca/read/ingredients-for-revolution">
+            https://press.library.concordia.ca/read/ingredients-for-revolution</a>
         `,
         photos: ["images_bios/womenscoffehouse.png"],
         photoTitles: [],
@@ -971,8 +973,9 @@ w_bios = [
         otherNotes: "",
         references: ` Written by Kimm Topping, printed in Mapping Feminist
             Cambridge guidebook, 2019:
-            https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf<br>
-            www.nlgmass.org/nlg-mass-history
+            <a href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">
+            https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a><br>
+            <a href="www.nlgmass.org/nlg-mass-history">www.nlgmass.org/nlg-mass-history</a>
         `,
         photos: [""],
         photoTitles: [],

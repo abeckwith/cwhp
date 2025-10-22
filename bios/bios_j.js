@@ -51,10 +51,10 @@ j_bios = [
                 Life of a
                 Slave Girl</em> (Simon &amp; Schuster
             2003)<br>
-            Harriet Jacobs online site by Julie Adams<br>
+            Harriet Jacobs website by Julie Adams<br>
             View a <a href="https://youtu.be/wnyYNMZpmoU" target="_blank">video history of Harriet Jacobs' life</a> produced by Mount
             Auburn Cemetery.<br>
-            Image source: https://en.wikipedia.org/wiki/Harriet_Jacobs
+            Image source: <a href="https://en.wikipedia.org/wiki/Harriet_Jacobs">https://en.wikipedia.org/wiki/Harriet_Jacobs</a>
         `,
         photos: ["images_bios/harriet_jacobs.jpg"],
         photoTitles: [],
@@ -194,7 +194,7 @@ j_bios = [
             Nations.`,
         otherNotes: "",
         references: ` Grace A Johnson papers, Schlesinger Library, Radcliffe
-            Institute. http://oasis.lib.harvard.edu/oasis/deliver/~sch01027<Br>
+            Institute. <a href="http://oasis.lib.harvard.edu/oasis/deliver/~sch01027">http://oasis.lib.harvard.edu/oasis/deliver/~sch01027</a><Br>
             Image credit: History Cambridge
         `,
         photos: ["images_bios/grace_johnson.png"],
@@ -256,7 +256,7 @@ j_bios = [
             &#8220;A P. Jones&#8221; <em>New York Times</em> obituary June 13, 1989<br>
             P hotograph of Alice Palache and Katharine Hepburn at Bryn Mawr in the 1920s,
             Schlesinger Library collections
-            <br>Image source: https://en.wikipedia.org/wiki/Alice_Palache_Jones
+            <br>Image source: <a href="https://en.wikipedia.org/wiki/Alice_Palache_Jones">https://en.wikipedia.org/wiki/Alice_Palache_Jones</a>
         `,
         photos: ["images_bios/AlicePalache.png"],
         photoTitles: [],
