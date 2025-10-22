@@ -115,7 +115,7 @@ l_bios = [
         birthDate: "",
         birthLocation: "",
         deathDate: "06.27.1983",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Christol Louise came to the United States from
             Barbados. She met and married her husband, Aubrey Layne in 1925 in the St Paul
@@ -152,9 +152,9 @@ l_bios = [
         fileLetter: "",
         title: `Astronomer`,
         birthDate: "07.04.1868",
-        birthLocation: "Lancaster, MA",
+        birthLocation: "Lancaster, Massachusetts",
         deathDate: "12.12.1921",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             The daughter of a Congregational minister, George
             Leavitt and his wife, Henrietta (Kendrick), Henrietta Swan Leavitt was brought
@@ -236,7 +236,7 @@ l_bios = [
         birthDate: "01.27.1872",
         birthLocation: "New Granada (now Panama)",
         deathDate: "05.16.1953",
-        deathLocation: "Boston, MA",
+        deathLocation: "Boston, Massachusetts",
         narrative: `
            
           
@@ -320,9 +320,9 @@ l_bios = [
         fileLetter: "",
         title: `Nurse, Community Leader, Volunteer`,
         birthDate: "02.22.1908",
-        birthLocation: "Adams Run, SC",
+        birthLocation: "Adams Run, South Carolina",
         deathDate: "05.20.1997",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Emily Lewis was born Emily Barron on February
             22, 1908 in Adams Run, South Carolina. Shortly there after, she moved to Cambridge, where she was raised by the family of Leila and Henry Springer. She attended
@@ -397,9 +397,9 @@ l_bios = [
         fileLetter: "",
         title: `Philanthropist, preservationist`,
         birthDate: "09.22.1850",
-        birthLocation: "Cambridge, MA",
+        birthLocation: "Cambridge, Massachusetts",
         deathDate: "12.00.1928",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             A life long resident of Cambridge, Alice Mary
             Longfellow was the oldest daughter of the poet Henry Wadsworth Longfellow and
@@ -453,9 +453,9 @@ l_bios = [
         fileLetter: "",
         title: `Poet, abolitionist`,
         birthDate: "07.08.1821",
-        birthLocation: "Watertown, MA",
+        birthLocation: "Watertown, Massachusetts",
         deathDate: "10.27.1853",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Maria (White) Lowell was born in Watertown to
             Abijah White and Anna Maria (Howard) White. Maria attended the Ursuline Convent
@@ -567,9 +567,9 @@ l_bios = [
         fileLetter: "",
         title: `Suffragist, social activist, peace activist, architect`,
         birthDate: "02.06.1887",
-        birthLocation: "Lowell, MA",
+        birthLocation: "Lowell, Massachusetts",
         deathDate: "10.27.1985",
-        deathLocation: "Watertown, MA",
+        deathLocation: "Watertown, Massachusetts",
         narrative: `
             Florence
             Luscomb was a committed believer in world peace, women's liberation, and

@@ -10,7 +10,7 @@ r_bios = [
         birthDate: "05.16.1906",
         birthLocation: "Hamburg, Germany",
         deathDate: "12.21.1996",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Margret Rey was born Margarete Elisabeth Waldstein
             in Germany. She studied at the Klosterschule in Hamburg where she graduated
@@ -87,9 +87,9 @@ r_bios = [
         fileLetter: "",
         title: `Professor of Sanitary Chemistry and Home Economics`,
         birthDate: "12.03.1842",
-        birthLocation: "Dunstable, MA",
+        birthLocation: "Dunstable, Massachusetts",
         deathDate: "03.30.1911",
-        deathLocation: "Boston, MA",
+        deathLocation: "Boston, Massachusetts",
         narrative: `
             Ellen Swallow was born in the small town of Dunstable,
             Massachusetts to Fanny and Peter Swallow. She attended Westford Academy in Westford, Massachusetts,
@@ -139,9 +139,9 @@ r_bios = [
         fileLetter: "",
         title: `Clinical psychologist, educator`,
         birthDate: "00.00.1904",
-        birthLocation: "Denver, CO",
+        birthLocation: "Denver, Colorado",
         deathDate: "06.00.1991",
-        deathLocation: "Tucson, AZ",
+        deathLocation: "Tucson, Arizona",
         narrative: `
             Anne Roe, was a psychologist and second wife of
             the evolutionary biologist George Gaylord Simpson, whom she married in 1938.
@@ -190,7 +190,7 @@ r_bios = [
         birthDate: "03.30.1882",
         birthLocation: "West Huntington, Ontario, Canada",
         deathDate: "03.01.1964",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Anne
             Roorbach was born on March 30, 1882 in the farming community of West Huntingdon,
@@ -264,9 +264,9 @@ r_bios = [
         fileLetter: "",
         title: `Editor, activist`,
         birthDate: "12.23.1925",
-        birthLocation: "Brookline, MA",
+        birthLocation: "Brookline, Massachusetts",
         deathDate: "01.05.2007",
-        deathLocation: "Tucson, AZ",
+        deathLocation: "Tucson, Arizona",
         narrative: `
             Betty Ann Rubinow (who went by Ann) was the daughter
             of Meyer and Beverley Orlov in Brookline, Massachusetts. She attended Bryn Mawr College,

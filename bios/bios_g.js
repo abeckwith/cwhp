@@ -48,7 +48,7 @@ g_bios = [
         fileLetter: "",
         title: `Poet, novelist`,
         birthDate: "10.08.1794",
-        birthLocation: "Boston, MA",
+        birthLocation: "Boston, Massachusetts",
         deathDate: "09.15.1888",
         deathLocation: "Washington, DC",
         narrative: `
@@ -180,9 +180,9 @@ g_bios = [
         fileLetter: "",
         title: `Poet, Author, Teacher`,
         birthDate: "04.22.1943",
-        birthLocation: "New York, NY",
+        birthLocation: "New York, New York",
         deathDate: "10.13.2023",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Louise Gluck grew up in Long Island, New York,
             and attended Hewlett High School in Hewlett, New York, graduating in 1961. She
@@ -257,9 +257,9 @@ g_bios = [
         fileLetter: "",
         title: `Poet, photographer, technical writer`,
         birthDate: "09.14.1938",
-        birthLocation: "Queens, NY",
+        birthLocation: "Queens, New York",
         deathDate: "05.11.2008",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             
             Miriam Anne (Schaeffer) Goodman was born in Queens
@@ -337,7 +337,7 @@ g_bios = [
         fileLetter: "",
         title: `Mathematician, Historical researcher, Educator`,
         birthDate: "01.05.1868",
-        birthLocation: "Cambridge, MA",
+        birthLocation: "Cambridge, Massachusetts",
         deathDate: "07.25.1953",
         deathLocation: "Simancas, Spain",
         narrative: `
@@ -412,9 +412,9 @@ g_bios = [
         fileLetter: "",
         title: `Community activist, politician`,
         birthDate: "09.05.1941",
-        birthLocation: "Cambridge, MA",
+        birthLocation: "Cambridge, Massachusetts",
         deathDate: "06.23.2023",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Saundra Graham was born in Cambridge, one of eleven
             children of Charles B. Postell and Roberta (Betts) Postell. She attended public
@@ -499,7 +499,7 @@ g_bios = [
         birthDate: "04.19.1951",
         birthLocation: "Portsmouth, VA",
         deathDate: "01.24.2017",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Renae Gray,
                 daughter of Anlizia and Robert Gray, was born on April 19, 1951 in Portsmouth, Virginia and grew up in
@@ -578,9 +578,9 @@ g_bios = [
         fileLetter: "",
         title: `Teacher and local historian`,
         birthDate: "09.13.1912",
-        birthLocation: "Cambridge, MA",
+        birthLocation: "Cambridge, Massachusetts",
         deathDate: "02.10.2012",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Suzanne Revaleon Green, born in 1912 to
             James Albert Revaleon and Ruby Higginbotham, was a lifelong resident of Cambridge

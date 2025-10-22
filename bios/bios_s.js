@@ -71,7 +71,7 @@ s_bios = [
         birthDate: "05.03.1912",
         birthLocation: "Wondelgem, Belgium",
         deathDate: "07.16.1995",
-        deathLocation: "York, ME",
+        deathLocation: "York, Maine",
         narrative: `
             May Sarton was born Eleanore Marie Sarton, the
             daughter of George Sarton, a historian of science, and his Welsh wife, Eleanor
@@ -161,9 +161,9 @@ s_bios = [
         fileLetter: "",
         title: `Writer, artist`,
         birthDate: "09.13.1913",
-        birthLocation: "Cambridge, MA",
+        birthLocation: "Cambridge, Massachusetts",
         deathDate: "10.14.2017",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Marian Cannon was the fourth and youngest daughter
             of the well-known Harvard physiologist, Walter B. Cannon, and his wife, Cornelia
@@ -205,7 +205,7 @@ s_bios = [
         birthDate: "c.1925",
         birthLocation: "",
         deathDate: "01.08.2005",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Mary Shea was a wife, mother, and grandmother,
             as well as a childcare teacher and tireless activist for affordable housing
@@ -257,7 +257,7 @@ s_bios = [
                 City Councilor, Former Mayor and School Committee Member, City of Cambridge <br>
                 First African American Woman Mayor in Massachusetts`,
         birthDate: "00.00.1951",
-        birthLocation: "Cambridge, MA",
+        birthLocation: "Cambridge, Massachusetts",
         deathDate: "",
         deathLocation: "",
         narrative: `
@@ -354,9 +354,9 @@ s_bios = [
         fileLetter: "",
         title: `Historian, Editor, Administrator`,
         birthDate: "00.00.1908",
-        birthLocation: "Oak Park, IL",
+        birthLocation: "Oak Park, Illinois",
         deathDate: "02.06.2001",
-        deathLocation: "Ellensburg, WA",
+        deathLocation: "Ellensburg, Washington",
         narrative: `
             Born Alice Marchant Kimball in Illinois, she attended
             Mount Holyoke College, graduating in 1928. She continued her education, studying
@@ -415,7 +415,7 @@ s_bios = [
         birthDate: "00.00.1935",
         birthLocation: "",
         deathDate: "04.06.1998",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Born Joan Forrester in New York City in 1935,
             she received a bachelor's degree in architecture from Cornell in 1953

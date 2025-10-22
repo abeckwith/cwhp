@@ -10,7 +10,7 @@ a_bios = [
         birthDate: "03.01.1925",
         birthLocation: "Stockholm, Sweden",
         deathDate: "07.04.2020",
-        deathLocation: "Lenox, MA",
+        deathLocation: "Lenox, Massachusetts",
         narrative: `
         In 1973, Barbara Ackermann became the first woman to serve as mayor of Cambridge.
         Born in Stockholm on March 1, 1925, she grew up in France and graduated from Smith
@@ -55,9 +55,9 @@ a_bios = [
         fileLetter: "",
         title: `Writer`,
         birthDate: "00.00.1872",
-        birthLocation: "Cambridge, MA",
+        birthLocation: "Cambridge",
         deathDate: "00.00.1958",
-        deathLocation: "Portsmouth, NH",
+        deathLocation: "Portsmouth, New Hampshire",
         narrative: ` 
             Eleanor Hallowell Abbott was raised in a literary and religious family in Cambridge. She
     attended private schools and Radcliffe College, then worked as a secretary and teacher
@@ -99,7 +99,7 @@ a_bios = [
         birthDate: "00.00.1905",
         birthLocation: "Dublin, Ireland",
         deathDate: "06.25.1999",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
 
             Born in Ireland, Mary Manning went to London to
@@ -155,9 +155,9 @@ a_bios = [
         fileLetter: "",
         title: `Author`,
         birthDate: "10.01.1755",
-        birthLocation: "Medfield, MA",
+        birthLocation: "Medfield, Massachusetts",
         deathDate: "12.15.1831",
-        deathLocation: "Brookline, MA",
+        deathLocation: "Brookline, Massachusetts",
         narrative: `
 
             Hannah Adams was the first American-born professional
@@ -199,9 +199,9 @@ a_bios = [
         fileLetter: "",
         title: `First President of Radcliffe College, educator, science writer`,
         birthDate: "12.05.1822",
-        birthLocation: "Boston, MA",
+        birthLocation: "Boston, Massachusetts",
         deathDate: "06.27.1907",
-        deathLocation: "Arlington, MA",
+        deathLocation: "Arlington, Massachusetts",
         narrative: `
             In 1850, Elizabeth Cabot Cary married Louis
             Agassiz, founder of the Museum of Comparative
@@ -310,7 +310,7 @@ a_bios = [
         birthDate: "00.00.1920",
         birthLocation: "",
         deathDate: "03.05.2001",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
 
             Elizabeth Cannon Aldrich received a bachelor's
@@ -349,9 +349,9 @@ a_bios = [
         fileLetter: "",
         title: `Writer and editor`,
         birthDate: "ca.1907",
-        birthLocation: "Cambridge, MA",
+        birthLocation: "Cambridge, Massachusetts",
         deathDate: "02.15.2000",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
          
             Elizabeth Perkins attended Buckingham School and
@@ -443,9 +443,9 @@ as a writer were recognized only after her death. The founding members, who incl
         fileLetter: "",
         title: `Registered Nurse and Oral Historian`,
         birthDate: "00.00.1907",
-        birthLocation: "Cambridge, MA",
+        birthLocation: "Cambridge, Massachusetts",
         deathDate: "09.04.2000",
-        deathLocation: "Roxbury, MA",
+        deathLocation: "Roxbury, Massachusetts",
         narrative: `
 
             Born in Cambridge, Corinne Woodson Alleyne was
@@ -484,7 +484,7 @@ as a writer were recognized only after her death. The founding members, who incl
         birthDate: "",
         birthLocation: "",
         deathDate: "07.14.2002",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
 
 
@@ -521,7 +521,7 @@ as a writer were recognized only after her death. The founding members, who incl
         fileLetter: "",
         title: `Activist, social worker, Cambridge project coordinator`,
         birthDate: "1943",
-        birthLocation: "Boston, MA",
+        birthLocation: "Boston, Massachusetts",
         deathDate: "",
         deathLocation: "",
         narrative: `
@@ -566,9 +566,9 @@ as a writer were recognized only after her death. The founding members, who incl
         fileLetter: "",
         title: `Stitcher`,
         birthDate: "07.10.1904",
-        birthLocation: "New Bedford, MA",
+        birthLocation: "New Bedford, Massachusetts",
         deathDate: "11.05.1999",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
         Dominga “Minnie” Andrade was a longtime resident of Cambridge, where she worked as a stitcher for a
     clothing manufacturer.<br><br>
@@ -669,7 +669,7 @@ as a writer were recognized only after her death. The founding members, who incl
         birthDate: "ca.1951",
         birthLocation: "",
         deathDate: "07.00.1999",
-        deathLocation: "Boston, MA",
+        deathLocation: "Boston, Massachusetts",
         narrative: `
 
             Linda
@@ -719,7 +719,7 @@ as a writer were recognized only after her death. The founding members, who incl
         birthDate: "09.09.1934",
         birthLocation: "Buenos Argentina",
         deathDate: "12.25.2009",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
              Born in Argentina, Rita Arditti was one of the three
             daughters of a Sephardic Jewish family that had emigrated from Turkey. Under
@@ -844,7 +844,7 @@ as a writer were recognized only after her death. The founding members, who incl
         birthDate: "",
         birthLocation: "",
         deathDate: "12.08.2004",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
 
             As a member of Jefferson Park Tenant Task Force,
@@ -880,7 +880,7 @@ as a writer were recognized only after her death. The founding members, who incl
         fileLetter: "",
         title: `Nursing home volunteer`,
         birthDate: "03.01.1959",
-        birthLocation: "Cambridge, MA",
+        birthLocation: "Cambridge, Massachusetts",
         deathDate: "09.19.2000",
         deathLocation: "",
         narrative: `

@@ -44,9 +44,9 @@ w_bios = [
         fileLetter: "",
         title: `Teacher, Human Rights Activist, Volunteer`,
         birthDate: "05.16.1936",
-        birthLocation: "Shelby, NC",
+        birthLocation: "Shelby, North Carolina",
         deathDate: "01.03.2010",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Julia
             Abernethy Wallace was the daughter of Ethel (Thomas) and Walter Eugene Abernethy.
@@ -104,7 +104,7 @@ w_bios = [
         fileLetter: "",
         title: `Feminist, Human Rights Activist, Tenant's and Welfare Rights Organizer`,
         birthDate: "00.00.1940",
-        birthLocation: "Boston, MA",
+        birthLocation: "Boston, Massachusetts",
         deathDate: "",
         deathLocation: "",
         narrative: `
@@ -253,9 +253,9 @@ w_bios = [
         fileLetter: "",
         title: `Politician (First woman elected to Cambridge City Council)`,
         birthDate: "09.04.1862",
-        birthLocation: "Canton, NY",
+        birthLocation: "Canton, New York",
         deathDate: "11.22.1948",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
 
             Florence Josephine Lee was born on 4 September 1862 in Canton, New York, to
@@ -322,9 +322,9 @@ w_bios = [
         fileLetter: "",
         title: `Sculptor, poet`,
         birthDate: "09.02.1821",
-        birthLocation: "Watertown, MA",
+        birthLocation: "Watertown, Massachusetts",
         deathDate: "01.23.1915",
-        deathLocation: "Boston, MA",
+        deathLocation: "Boston, Massachusetts",
         narrative: `
             Anne Whitney was the daughter of gentleman farmer
             Nathaniel Whitney and his wife Sarah (Stone). Her family moved from Watertown
@@ -393,7 +393,7 @@ w_bios = [
         birthDate: "08.24.1921",
         birthLocation: "",
         deathDate: "12.14.2014",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Born
             in Cambridge on Howard Street, Antoinette (Toni) Rinaldi's family moved
@@ -508,9 +508,9 @@ w_bios = [
         fileLetter: "",
         title: `First Cambridge schoolmistress`,
         birthDate: "00.00.1645",
-        birthLocation: "Cambridge, MA",
+        birthLocation: "Cambridge, Massachusetts",
         deathDate: "11.19.1707",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Joanna Winship was the fourth daughter of Edward Winship, lieutenant of the
             Cambridge militia and his first wife, Jane (Wilkinson) Winship. Her father
@@ -541,9 +541,9 @@ w_bios = [
         fileLetter: "",
         title: `Eighteenth century woman of letters`,
         birthDate: "02.00.1727",
-        birthLocation: "Boston, MA",
+        birthLocation: "Boston, Massachusetts",
         deathDate: "00.00.1790",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Hannah Winthrop was the daughter of Thomas and
             Hannah Waldo Fayerweather. Although her exact birth date is not known, she
@@ -613,9 +613,9 @@ w_bios = [
         fileLetter: "",
         title: `State employee, volunteer`,
         birthDate: "00.00.1903",
-        birthLocation: "Worcester, MA",
+        birthLocation: "Worcester, Massachusetts",
         deathDate: "00.00.1998",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Ozeline Barrett Pearson was the second daughter
             of Frances Lavina (Gale) and William B. Pearson. Her father moved from Jamaica
@@ -668,7 +668,7 @@ w_bios = [
         birthDate: "ca.1901",
         birthLocation: "",
         deathDate: "08.08.1999",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Pearl
             Katz, the daughter of Julius Katz, was born in Kovno, Russia, in 1900 or 1901.
@@ -721,7 +721,7 @@ w_bios = [
         birthDate: "12.24.1933",
         birthLocation: "Vienna, Austria",
         deathDate: "01.26.2023",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Born in Austria, Alice came to America at the
             age of five with her family who were fleeing the Nazis. She earned a B.S. from

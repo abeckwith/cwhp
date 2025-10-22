@@ -122,7 +122,7 @@ f_bios = [
         fileLetter: "",
         title: `Developmental pharmacologist`,
         birthDate: "00.00.1926",
-        birthLocation: "Lewiston, ME",
+        birthLocation: "Lewiston, Maine",
         deathDate: "",
         deathLocation: "",
         narrative: `
@@ -187,9 +187,9 @@ f_bios = [
         fileLetter: "",
         title: `Artist`,
         birthDate: "04.18.1890",
-        birthLocation: "Salem, MA",
+        birthLocation: "Salem, Massachusetts",
         deathDate: "05.18.1951",
-        deathLocation: "Brookline, MA",
+        deathLocation: "Brookline, Massachusetts",
         narrative: `
  Mary 
     Hamilton Frye was born in Salem, Mass. on April 18, 1890 to Nathan Frye and 
@@ -235,9 +235,9 @@ f_bios = [
         fileLetter: "",
         title: `aka Sarah Margaret Fuller, Marchesa Margaret F. Ossoli<br>Author, Editor, Feminist, Transcendentalist`,
         birthDate: "05.23.1810",
-        birthLocation: "Cambridgeport, Cambridge, MA",
+        birthLocation: "Cambridgeport, Cambridge, Massachusetts",
         deathDate: "07.19.1850",
-        deathLocation: "Fire Island, NY",
+        deathLocation: "Fire Island, New York",
         narrative: `
     Born to Timothy and Margaret (Crane) Fuller in 
     1810, Sarah Margaret Fuller grew up in Cambridge. Her father gave her a very 

@@ -73,7 +73,7 @@ o_bios = [
         fileLetter: "",
         title: `Poet, author, first Cambridge librarian`,
         birthDate: "09.05.1818",
-        birthLocation: "Cambridge, MA",
+        birthLocation: "Cambridge, Massachusetts",
         deathDate: "02.07.1905",
         deathLocation: "",
         narrative: `

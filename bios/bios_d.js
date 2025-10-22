@@ -8,9 +8,9 @@ d_bios = [
         fileLetter: "",
         title: `Family and city historian`,
         birthDate: "00.00.1846",
-        birthLocation: "Cambridge, MA",
+        birthLocation: "Cambridge, Massachusetts",
         deathDate: "00.00.1939",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             A daughter of the author Richard Henry Dana, Jr
             and Sarah (Watson) Dana, she was a life long resident of Boston and Cambridge
@@ -92,9 +92,9 @@ d_bios = [
         fileLetter: "",
         title: `Composer`,
         birthDate: "11.27.1876",
-        birthLocation: "Swampscott, MA",
+        birthLocation: "Swampscott, Massachusetts",
         deathDate: "03.10.1971",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Mabel Wheeler Daniels was the daughter of Sarah
             (Wheeler) and George Frank Daniels. Her father who was in shoe manufacturing
@@ -149,7 +149,7 @@ d_bios = [
         fileLetter: "",
         title: `Dancer`,
         birthDate: "00.00.1939",
-        birthLocation: "Cambridge, MA",
+        birthLocation: "Cambridge, Massachusetts",
         deathDate: "",
         deathLocation: "",
         narrative: `
@@ -195,7 +195,7 @@ d_bios = [
         birthDate: "00.00.1931",
         birthLocation: "",
         deathDate: "12.31.2000",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             In 1992, Sybill d'Arbeloff was the first
             women to be elected chairman of the board of a Harvard Teaching Hospital. Served
@@ -230,7 +230,7 @@ d_bios = [
         fileLetter: "",
         title: `Second ever female Cambridge Police officer, military veteran`,
         birthDate: "11.27.1919",
-        birthLocation: "Cambridge, MA",
+        birthLocation: "Cambridge, Massachusetts",
         deathDate: "07.14.1995",
         deathLocation: "Wells, Maine",
         narrative: `
@@ -338,7 +338,7 @@ d_bios = [
         fileLetter: "",
         title: `Former Mayor, City Councilor, and School Committee Member, City of Cambridge`,
         birthDate: "00.00.1945",
-        birthLocation: "Newton, MA",
+        birthLocation: "Newton, Massachusetts",
         deathDate: "",
         deathLocation: "",
         narrative: `
@@ -413,9 +413,9 @@ d_bios = [
         fileLetter: "",
         title: `Singer, Songwriter, Writer, Diarist and Political Activist`,
         birthDate: "07.20.1949",
-        birthLocation: "Asheville, NC",
+        birthLocation: "Asheville, North Carolina",
         deathDate: "03.11.2015",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
                 Marcia
                 Deihl was a folk musician, singer, writer, political and cultural activist and founding member of The
@@ -520,9 +520,9 @@ d_bios = [
         fileLetter: "",
         title: `Popular novelist`,
         birthDate: "05.26.1826",
-        birthLocation: "Cambridge, MA",
+        birthLocation: "Cambridge, Massachusetts",
         deathDate: "10.11.1911",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Mary Andrews was daughter of Thomas Jefferson
             Andrews and his wife Juliette Robbins She was educated in the Boston public
@@ -575,9 +575,9 @@ d_bios = [
         fileLetter: "",
         title: `Poet, translator`,
         birthDate: "05.21.1934",
-        birthLocation: "Worcester, MA",
+        birthLocation: "Worcester, Massachusetts",
         deathDate: "03.01.2018",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Of
             Armenian heritage, Diana Der-Hovanessian she was born and lived until age five
@@ -636,7 +636,7 @@ d_bios = [
         birthDate: "10.09.1884",
         birthLocation: "Przemysl, Poland",
         deathDate: "03.29.1982",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Helene (Rosenbach) Deutsch was born in Przemysl,
             Poland to Wilhelm and Regina Rosenbach. As a young girl she wrote for the local
@@ -694,9 +694,9 @@ d_bios = [
         fileLetter: "",
         title: `Educator, Reformer`,
         birthDate: "04.04.1802",
-        birthLocation: "Hampden, ME",
+        birthLocation: "Hampden, Maine",
         deathDate: "07.18.1887",
-        deathLocation: "Trenton, NJ",
+        deathLocation: "Trenton, New Jersey",
         narrative: `
             Dorothea
             Dix was the daughter of Joseph and Mary (Bigelow) Dix. She opened her own school
@@ -813,9 +813,9 @@ d_bios = [
         fileLetter: "",
         title: `Anthropologist`,
         birthDate: "00.00.1903",
-        birthLocation: "Brooklyn, NY",
+        birthLocation: "Brooklyn, New York",
         deathDate: "00.00.1991",
-        deathLocation: "Brookline, MA",
+        deathLocation: "Brookline, Massachusetts",
         narrative: `
             Educated at Barnard, Cora Du Bois obtained her
             Ph.D. at University of California, Berkeley in 1932. After teaching at U.C.
@@ -857,7 +857,7 @@ d_bios = [
         fileLetter: "",
         title: `Writer, teacher, social activist`,
         birthDate: "00.00.1938",
-        birthLocation: "Berkeley, CA",
+        birthLocation: "Berkeley, California",
         deathDate: "",
         deathLocation: "",
         narrative: `
@@ -932,7 +932,7 @@ d_bios = [
         birthDate: "ca.1600",
         birthLocation: "England",
         deathDate: "08.00.1643",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Elizabeth Harris Glover established the first printing office in colonial
             America.

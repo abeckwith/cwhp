@@ -8,9 +8,9 @@ h_bios = [
         fileLetter: "",
         title: `Author and Activist`,
         birthDate: "05.08.1907",
-        birthLocation: "Manchester, MA",
+        birthLocation: "Manchester, Massachusetts",
         deathDate: "12.13.2006",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Photo by Nancy Scanlan. <br>
             Isabella Halsted was the daughter of Charles Hopkinson,
@@ -63,9 +63,9 @@ h_bios = [
         fileLetter: "",
         title: `Toxicologist, physician`,
         birthDate: "02.27.1869",
-        birthLocation: "Fort Wayne, IN",
+        birthLocation: "Fort Wayne, Indiana",
         deathDate: "09.22.1970",
-        deathLocation: "Hadlyme, CT",
+        deathLocation: "Hadlyme, Connecticut",
         narrative: `
             Born in Fort Wayne, Indiana to Gertrude (Pond)
             and Montgomery Hamilton, Alice was educated first at Miss Porter's School
@@ -155,9 +155,9 @@ h_bios = [
         fileLetter: "",
         title: `World War II welder, community leader`,
         birthDate: "09.27.1923",
-        birthLocation: "Cambridge, MA",
+        birthLocation: "Cambridge, Massachusetts",
         deathDate: "05.19.2012",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Bea Harvey grew up in East Cambridge during the
             Depression. Her father died when he was 50, and her mother was left with 13
@@ -197,7 +197,7 @@ h_bios = [
         birthDate: "00.00.1868",
         birthLocation: "Santiago, Chile",
         deathDate: "00.00.1953",
-        deathLocation: "MA",
+        deathLocation: "Massachusetts",
         narrative: `
             Sophia Hayden was the first woman to graduate
             in architecture from MIT in Cambridge in 1890. After graduation, she taught
@@ -327,7 +327,7 @@ h_bios = [
         fileLetter: "",
         title: `Episcopal priest , feminist theologian, educator`,
         birthDate: "09.21.1936",
-        birthLocation: "Hartford, CT",
+        birthLocation: "Hartford, Connecticut",
         deathDate: "05.30.2002",
         deathLocation: "",
         narrative: `
@@ -383,9 +383,9 @@ h_bios = [
         fileLetter: "",
         title: `Co-founder of Shady Hill School`,
         birthDate: "05.19.1877",
-        birthLocation: "Boston, MA",
+        birthLocation: "Boston, Massachusetts",
         deathDate: "00.00.1955",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Agnes Boyle O'Reilly was the daughter of Irish-born Catholic poet and editor
             of <em>The Pilot</em>, John Boyle O'Reilly. She married William Ernest
@@ -490,9 +490,9 @@ h_bios = [
         fileLetter: "",
         title: `African American writer`,
         birthDate: "00.00.1859",
-        birthLocation: "Portland, ME",
+        birthLocation: "Portland, Maine",
         deathDate: "08.13.1930",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Pauline Hopkins was born in Maine but came to
             Boston as a young girl where she attended Girls High School. After winning a
@@ -538,9 +538,9 @@ h_bios = [
         fileLetter: "",
         title: `Amateur archaeologist, Author`,
         birthDate: "09.25.1861",
-        birthLocation: "Cambridge, MA",
+        birthLocation: "Cambridge, Massachusetts",
         deathDate: "ca.1941",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Cornelia Horsford was born in Cambridge, the daughter
             of Eben Norton Horsford, a professor of chemistry at the Lawrence Scientific
@@ -593,9 +593,9 @@ h_bios = [
         fileLetter: "",
         title: `Architect; fellow, American Institute of Architects>`,
         birthDate: "09.25.1864",
-        birthLocation: "Cambridge, MA",
+        birthLocation: "Cambridge, Massachusetts",
         deathDate: "09.13.1964",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Lois
             Lilley Howe was born on September 25, 1864 in Cambridge, Massachusetts. She
@@ -821,7 +821,7 @@ h_bios = [
         birthDate: "00.00.1925",
         birthLocation: "Vienna, Austria",
         deathDate: "09.01.2016",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Ruth Hubbard was born in Vienna, Austria and escaped
             the Nazi regime with her family when she thirteen. The family moved to the Boston
@@ -877,7 +877,7 @@ h_bios = [
         fileLetter: "",
         title: `Sculptor, philanthropist, founder of wildlife preserves`,
         birthDate: "03.10.1876",
-        birthLocation: "Cambridge, MA",
+        birthLocation: "Cambridge, Massachusetts",
         deathDate: "10.04.1973",
         deathLocation: "Connecticut",
         narrative: `
@@ -928,9 +928,9 @@ h_bios = [
         fileLetter: "",
         title: `Lawyer, Volunteer, Sportswoman<br>`,
         birthDate: "06.24.1886",
-        birthLocation: "Boston, MA",
+        birthLocation: "Boston, Massachusetts",
         deathDate: "04.01.1977",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
 Born in Boston in 1886, Marjorie Hurd
             was the daughter of Alfred Dennis Hurd and Louisa Maria (Coolidge) Hurd. Her

@@ -58,9 +58,9 @@ p_bios = [
         fileLetter: "",
         title: `Civil war nurse, hospital founder`,
         birthDate: "03.08.1824",
-        birthLocation: "Taunton, MA",
+        birthLocation: "Taunton, Massachusetts",
         deathDate: "05.19.1880",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Emily Parsons, the daughter of Catherine Amory
             (Chandler) and Theophilus Parsons, was born in Taunton and educated at Cambridge
@@ -112,9 +112,9 @@ p_bios = [
         fileLetter: "",
         title: `Social activist`,
         birthDate: "ca.1913",
-        birthLocation: "New York, NY",
+        birthLocation: "New York, New York",
         deathDate: "09.08.2005",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Yvonne Blumenthal was raised in a wealthy Manhattan
             family. She went to the University of Wisconsin, graduating in 1934. Soon after,
@@ -175,7 +175,7 @@ p_bios = [
         birthDate: "05.10.1900",
         birthLocation: "Windover, Buckinghamshire, England",
         deathDate: "12.07.1979",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Cecelia Helena Payne was born in England at the
             turn of the century to Elena (Pertz) and Edward John Payne. She attended St.
@@ -232,9 +232,9 @@ p_bios = [
         fileLetter: "",
         title: `Social scientist, writer, feminist`,
         birthDate: "00.00.1836",
-        birthLocation: "Burlington, VT",
+        birthLocation: "Burlington, Vermont",
         deathDate: "00.00.1923",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Born Harriet Melusina Fay, and called Zina, she
             was one of six daughters of Emily (Hopkins) and Reverend Charles Fay, an Episcopal
@@ -297,9 +297,9 @@ p_bios = [
         fileLetter: "",
         title: `Physical therapist. Community advocate and volunteer`,
         birthDate: "03.08.1925",
-        birthLocation: "Cambridge, MA",
+        birthLocation: "Cambridge, Massachusetts",
         deathDate: "11.15.2015",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
  
             Sylvia Piltch was born in Cambridge March 8, 1925,

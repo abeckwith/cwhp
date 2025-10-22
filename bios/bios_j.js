@@ -8,7 +8,7 @@ j_bios = [
         fileLetter: "",
         title: `Abolitionist, escaped slave`,
         birthDate: "ca.1813",
-        birthLocation: "Edenton, NC",
+        birthLocation: "Edenton, North Carolina",
         deathDate: "03.07.1897",
         deathLocation: "Washington, DC",
         narrative: `
@@ -80,9 +80,9 @@ j_bios = [
         title: `Politician (one of first two women elected to Cambridge School Committee),
                 Teacher, Author, Poet, Copy Editor`,
         birthDate: "03.17.1813",
-        birthLocation: "Cranston, RI",
+        birthLocation: "Cranston, Rhode Island",
         deathDate: "05.14.1902",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Born in Cranston, Rhode Island, Sarah Sprague
             Jacobs was the eldest child of the Reverend Bela Jacobs and Sarah (&#8220;Sally&#8221;)
@@ -156,9 +156,9 @@ j_bios = [
         fileLetter: "",
         title: `Social activist, suffragist, political leader`,
         birthDate: "09.29.1871",
-        birthLocation: "Maples, IN",
+        birthLocation: "Maples, Indiana",
         deathDate: "01.17.1952",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Grace Allen Fitch was born in Indiana to Elizabeth
             Harriet (Bennett) and Appleton Howe Fitch who were from New England Grace Fitch's
@@ -219,9 +219,9 @@ j_bios = [
         fileLetter: "",
         title: `Bank vice president, birth control advocate`,
         birthDate: "04.12.1907",
-        birthLocation: "Cambridge, MA",
+        birthLocation: "Cambridge, Massachusetts",
         deathDate: "06.12.1989",
-        deathLocation: "Mount Kisco, NY",
+        deathLocation: "Mount Kisco, New York",
         narrative: `
             Alice (Palache) Jones, daughter of Charles Palache
             and Helen (Markham) Palache, was born in Cambridge, Massachusetts, on April

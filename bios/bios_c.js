@@ -186,9 +186,9 @@ c_bios = [
         fileLetter: "",
         title: `Astronomer`,
         birthDate: "12.11.1863",
-        birthLocation: "Dover, DE",
+        birthLocation: "Dover, Delaware",
         deathDate: "04.13.1941",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
 
             Born
@@ -253,9 +253,9 @@ c_bios = [
         fileLetter: "",
         title: `Writer`,
         birthDate: "11.17.1876",
-        birthLocation: "Saint Paul, MN",
+        birthLocation: "Saint Paul, Minnesota",
         deathDate: "12.7.1969",
-        deathLocation: "Franklin, NH",
+        deathLocation: "Franklin, New Hampshire",
         narrative: `
 
             Brought up in Minnesota, Cornelia James married
@@ -555,9 +555,9 @@ c_bios = [
         fileLetter: "",
         title: `Celebrity chef, author, television personality`,
         birthDate: "08.15.1912",
-        birthLocation: "Pasadena, CA",
+        birthLocation: "Pasadena, California",
         deathDate: "08.13.2004",
-        deathLocation: "Montecito, CA",
+        deathLocation: "Montecito, California",
         narrative: `
     
             Julia Child was born in Pasadena California. She
@@ -760,7 +760,7 @@ c_bios = [
         birthDate: "00.00.1898",
         birthLocation: "Poland",
         deathDate: "02.01.1965",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Bertha Cohen was a Polish immigrant who came to
             Boston at the age of twenty-two. She worked as a milliner in the old Chandler
@@ -822,11 +822,11 @@ c_bios = [
         fileLetter: "",
         title: `Educator, college dean, college president`,
         birthDate: "12.11.1876",
-        birthLocation: "Moorhead, MN",
+        birthLocation: "Moorhead, Minnesota",
         deathDate: "12.12.1973",
-        deathLocation: "New Havin, CT",
+        deathLocation: "New Havin, Connecticut",
         narrative: `
-            Born in Moorhead, Minnesota to Solomon G. Comstock,
+            Born in Moorhead, Minnesota" to Solomon G. Comstock,
             a successful lawyer and politician, Ada Comstock was the eldest of three children.
             She completed her high school education at the young age of fifteen and then
             went on to college at the University of Minnesota. After two years, she transferred
@@ -890,7 +890,7 @@ c_bios = [
         fileLetter: "",
         title: `Healer, Clairvoyant`,
         birthDate: "05.04.1819",
-        birthLocation: "Calais, VT",
+        birthLocation: "Calais, Vermont",
         deathDate: "1895",
         deathLocation: "",
         narrative: `
@@ -1005,7 +1005,7 @@ c_bios = [
         fileLetter: "",
         title: `Comedian and actress`,
         birthDate: "09.06.1947",
-        birthLocation: "Cambridge, MA",
+        birthLocation: "Cambridge, Massachusetts",
         deathDate: "",
         deathLocation: "",
         narrative: `
@@ -1075,9 +1075,9 @@ c_bios = [
         fileLetter: "",
         title: `Actress`,
         birthDate: "07.23.1816",
-        birthLocation: "Boston, MA",
+        birthLocation: "Boston, Massachusetts",
         deathDate: "02.18.1876",
-        deathLocation: "Boston, MA",
+        deathLocation: "Boston, Massachusetts",
         narrative: `
             Charlotte Cushman is the only female actress to
             be enshrined in the University of Hall of Fame for Great Americans. She was

@@ -148,7 +148,7 @@ y_bios = [
         birthDate: "00.00.1908",
         birthLocation: "Turin, Italy",
         deathDate: "10.00.2006",
-        deathLocation: "Newton, MA",
+        deathLocation: "Newton, Massachusetts",
         narrative: `
         Anna Foa was the middle daughter of Lelia and
         Ettore Foa of Turin, Italy. She married David Yona, a civil engineer, in that

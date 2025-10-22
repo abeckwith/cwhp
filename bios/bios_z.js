@@ -8,7 +8,7 @@ z_bios = [
         fileLetter: "",
         title: `Community Director`,
         birthDate: "",
-        birthLocation: "Cambridge, MA",
+        birthLocation: "Cambridge, Massachusetts",
         deathDate: "",
         deathLocation: "",
         narrative: `

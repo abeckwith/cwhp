@@ -8,9 +8,9 @@ e_bios = [
         fileLetter: "",
         title: `Pediatrician, Public Health Administrator, Educator`,
         birthDate: "04.07.1891",
-        birthLocation: "Dorchester, MA",
+        birthLocation: "Dorchester, Massachusetts",
         deathDate: "02.14.1978",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Martha May Eliot was born in 1891 in Dorchester
             to Christopher Rhodes Eliot, a Unitarian minister, and Mary Jackson May. She
@@ -75,7 +75,7 @@ e_bios = [
         birthDate: "00.00.1921",
         birthLocation: "",
         deathDate: "08.12.2011",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Zelma
             Olivia (Bradshaw) Evelyn was born in 1921 to Reginald Bradshaw and Estelle Olivia
@@ -119,7 +119,7 @@ e_bios = [
         fileLetter: "",
         title: `Labor and community Activist, educator`,
         birthDate: "00.00.1946",
-        birthLocation: "Boston, MA",
+        birthLocation: "Boston, Massachusetts",
         deathDate: "",
         deathLocation: "",
         narrative: `
@@ -185,9 +185,9 @@ e_bios = [
         fileLetter: "",
         title: `Pathologist, First African American Woman to be Admitted to Tufts Medical School`,
         birthDate: "02.17.1898",
-        birthLocation: "Georgetown Country, SC",
+        birthLocation: "Georgetown Country, South Carolina",
         deathDate: "06.16.1943",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
  
         Dr. Ruth Marguerite Easterling was born in South Carolina and raised in Cambridge, Massachusetts, 

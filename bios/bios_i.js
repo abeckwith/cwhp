@@ -9,9 +9,9 @@ i_bios = [
         title: `Cambridge schoolteacher; Member of first class of first teacher-training
                 school`,
         birthDate: "06.07.1823",
-        birthLocation: "Cambridge, MA",
+        birthLocation: "Cambridge, Massachusetts",
         deathDate: "11.25.1914",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Adeline M. Ireson was the daughter of Mary and
             Samuel Ireson. At the age of sixteen, she passed an examination to attend the

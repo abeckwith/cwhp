@@ -9,9 +9,9 @@ k_bios = [
         title: `Politician (one of first two women elected to Cambridge School Committee);
                 Biographer`,
         birthDate: "02.23.1828",
-        birthLocation: "Nantucket, MA",
+        birthLocation: "Nantucket, Massachusetts",
         deathDate: "06.04.1907",
-        deathLocation: "Belmont, MA",
+        deathLocation: "Belmont, Massachusetts",
         narrative: `Pheb Mitchell was born in Massachusetts
             in about 1828. She and her sister Maria were largely educated by their father,
             William Mitchell, a teacher, banker, and amateur astronomer. Phebe married Joshua
@@ -72,9 +72,9 @@ k_bios = [
         fileLetter: "",
         title: `Physicist`,
         birthDate: "00.00.1928",
-        birthLocation: "Princeton, NJ",
+        birthLocation: "Princeton, New Jersey",
         deathDate: "12.11.2011",
-        deathLocation: "Providence, RI",
+        deathLocation: "Providence, Rhode Island",
         narrative: `
             The daughter of the renowned physicist George
             B Kistiakowsky and his Swedish wife Hildegard Moebius, Vera was interested in

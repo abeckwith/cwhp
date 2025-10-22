@@ -10,7 +10,7 @@ v_bios = [
         birthDate: "11.17.1899",
         birthLocation: "Chile",
         deathDate: "05.05.1999",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Julia Valenzuela was a Chilean teacher who came
             to this country in her fifties and made her home in the Central Square area. She made a significant contribution to Latinos

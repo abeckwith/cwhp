@@ -8,9 +8,9 @@ m_bios = [
         fileLetter: "",
         title: `Navy Nurse (Retired)`,
         birthDate: "03.19.1948",
-        birthLocation: "Arlington, MA",
+        birthLocation: "Arlington, Massachusetts",
         deathDate: "03.18.2025",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Daughter
             of Mary Josephine (Barron) and Thomas Christopher O'Dwyer, Sr., Mary Jo
@@ -152,7 +152,7 @@ m_bios = [
         birthDate: "ca.1585",
         birthLocation: "Massachusetts",
         deathDate: "ca.1650",
-        deathLocation: "Medford, MA",
+        deathLocation: "Medford, Massachusetts",
         narrative: `
             No birth date or name has been discovered for
             the Squaw Sachem (or female ruler), widow of Nanpashemet, who ruled over the
@@ -205,7 +205,7 @@ m_bios = [
         birthDate: "00.00.1917",
         birthLocation: "North Carolina",
         deathDate: "07.20.1966",
-        deathLocation: "Boston, MA",
+        deathLocation: "Boston, Massachusetts",
         narrative: `
 
   
@@ -266,7 +266,7 @@ m_bios = [
         birthDate: "00.00.1898",
         birthLocation: "Arizona",
         deathDate: "07.08.2002",
-        deathLocation: "Peterborough, NH",
+        deathLocation: "Peterborough, New Hampshire",
         narrative: `
             Lorna Marshall wrote important studies on the
             !Kung tribe of Africa. She graduated with an English degree from the University
@@ -375,9 +375,9 @@ m_bios = [
         fileLetter: "",
         title: `Engineer, Physicist, Educator, Community Activist`,
         birthDate: "02.10.1911",
-        birthLocation: "Boston, MA",
+        birthLocation: "Boston, Massachusetts",
         deathDate: "05.17.2004",
-        deathLocation: "Newport, RI",
+        deathLocation: "Newport, Rhode Island",
         narrative: `
         Genevieve McGlinchey Mathison
             was the daughter of Sarah Clarke (1876-1959) and James J. McGlinchey (1872-1932)
@@ -456,7 +456,7 @@ m_bios = [
         fileLetter: "",
         title: `Poet, Teacher, Activist`,
         birthDate: "00.00.1937",
-        birthLocation: "Cambridge, MA",
+        birthLocation: "Cambridge, Massachusetts",
         deathDate: "",
         deathLocation: "",
         narrative: `
@@ -535,9 +535,9 @@ m_bios = [
         fileLetter: "",
         title: `Newspaper woman, educator, club president`,
         birthDate: "09.30.1858",
-        birthLocation: "Jefferson, ME",
+        birthLocation: "Jefferson, Maine",
         deathDate: "07.29.1908",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Daughter of Gilman and Celenda S. Hatch, Estelle
             attended the local public schools in Jefferson, Maine until she was fourteen,
@@ -603,9 +603,9 @@ m_bios = [
         fileLetter: "",
         title: `Art historian, art curator`,
         birthDate: "01.21.1905",
-        birthLocation: "Somerville, MA",
+        birthLocation: "Somerville, Massachusetts",
         deathDate: "09.15.1996",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Born to Charles Edward Mongan, a well-to-do physician,
             and Elizabeth Teresa (O'Brien), Mongan attended the Cambridge School (for Girls)
@@ -661,9 +661,9 @@ m_bios = [
         fileLetter: "",
         title: `Cambridge Pediatrician`,
         birthDate: "05.13.1894",
-        birthLocation: "Providence, RI",
+        birthLocation: "Providence, Rhode Island",
         deathDate: "06.05.1995",
-        deathLocation: "Needham, MA",
+        deathLocation: "Needham, Massachusetts",
         narrative: `
             Dorothea Moore was the daughter Edward Caldwell
             Moore and Eliza Coe (Brown) Moore. Her father was a minister in the Congregational
@@ -721,9 +721,9 @@ m_bios = [
         fileLetter: "",
         title: `Artist, art teacher`,
         birthDate: "00.00.1903",
-        birthLocation: "New York, NY",
+        birthLocation: "New York, New York",
         deathDate: "03.14.1999",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Born in New York City, Maud Cabot graduated from
             Barnard College in 1926 and traveled to Paris to study at the Sorbonne. She
@@ -879,9 +879,9 @@ m_bios = [
         fileLetter: "",
         title: `Artist, teacher, science writer`,
         birthDate: "05.06.1927",
-        birthLocation: "East Orange, NJ",
+        birthLocation: "East Orange, New Jersey",
         deathDate: "07.09.2002",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Phylis Morrison was born Phylis Hagen. She married
             and had one son, Bert Singer, but the marriage did not last. Self taught as
@@ -928,9 +928,9 @@ m_bios = [
         fileLetter: "",
         title: `Feminist poet, activist, author`,
         birthDate: "08.23.1930",
-        birthLocation: "NY, NY",
+        birthLocation: "NY, New York",
         deathDate: "03.23.2011",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
         
       Rosario Morales was an activist, feminist poet, visual artist, and major contemporary

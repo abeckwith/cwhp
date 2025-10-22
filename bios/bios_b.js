@@ -71,7 +71,7 @@ b_bios = [
         fileLetter: "",
         title: `Economist, peace activist, Nobel peace laureate`,
         birthDate: "01.08.1867",
-        birthLocation: "Boston, MA",
+        birthLocation: "Boston, Massachusetts",
         deathDate: "01.09.1961",
         deathLocation: "Cambridge, UK",
         narrative: `
@@ -145,9 +145,9 @@ b_bios = [
         fileLetter: "",
         title: `Educator, civic leader`,
         birthDate: "09.13.1856",
-        birthLocation: "Cambridge, MA",
+        birthLocation: "Cambridge, Massachusetts",
         deathDate: "01.09.1922",
-        deathLocation: "Boston, MA",
+        deathLocation: "Boston, Massachusetts",
         narrative: `
 
             Born in Cambridge to Mary E. (Blake) and Peter
@@ -201,7 +201,7 @@ b_bios = [
         birthDate: "ca.1833",
         birthLocation: "Hampton, Virginia",
         deathDate: "11.08.1901",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
 
             Born a slave, Louisa was given the name Mary Frances Melburn as a child which
@@ -247,9 +247,9 @@ b_bios = [
         fileLetter: "",
         title: `Pilot, community leader`,
         birthDate: "1920",
-        birthLocation: "Newton, MA",
+        birthLocation: "Newton, Massachusetts",
         deathDate: "06.09.1999",
-        deathLocation: "Concord, MA",
+        deathLocation: "Concord, Massachusetts",
         narrative: `
 
             Mary Barnes was a 35-year resident of Cambridge,
@@ -293,9 +293,9 @@ b_bios = [
         fileLetter: "",
         title: `Writer, lecturer, intelligence officer`,
         birthDate: "00.00.1903",
-        birthLocation: "Cambridge, MA",
+        birthLocation: "Cambridge, Massachusetts",
         deathDate: "01.10.1997",
-        deathLocation: "New York, NY",
+        deathLocation: "New York, New York",
         narrative: `
 
             Mary Bancroft, author and intelligence officer
@@ -359,7 +359,7 @@ b_bios = [
         birthDate: "ca.1916",
         birthLocation: "",
         deathDate: "04.21.2001",
-        deathLocation: "Boston, MA",
+        deathLocation: "Boston, Massachusetts",
         narrative: `
 
             Ruth L. Barron was the former senior vice president
@@ -402,9 +402,9 @@ b_bios = [
         fileLetter: "",
         title: `Author, Poet, Translator, Teacher`,
         birthDate: "11.30.1838",
-        birthLocation: "New York, NY",
+        birthLocation: "New York, New York",
         deathDate: "09.01.1916",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Charlotte Fiske Bates was born in New York City.
             Her father, Harvey Bates, died in her infancy, and from the time she was nine
@@ -454,7 +454,7 @@ b_bios = [
         fileLetter: "",
         title: `Dancer, storyteller, teacher of dance`,
         birthDate: "",
-        birthLocation: "Cambridge, MA",
+        birthLocation: "Cambridge, Massachusetts",
         deathDate: "",
         deathLocation: "",
         narrative: `
@@ -553,7 +553,7 @@ b_bios = [
         fileLetter: "",
         title: `Founder of education association, suffragist`,
         birthDate: "11.15.1857",
-        birthLocation: "Cambridge, MA",
+        birthLocation: "Cambridge, Massachusetts",
         deathDate: "01.03.1923",
         deathLocation: "Washington, DC",
         narrative: `
@@ -676,7 +676,7 @@ b_bios = [
         fileLetter: "",
         title: `Athlete, politician, magazine editor, businesswoman, foundation president`,
         birthDate: "00.00.1936",
-        birthLocation: "Bronx, NY",
+        birthLocation: "Bronx, New York",
         deathDate: "",
         deathLocation: "",
         narrative: `
@@ -802,7 +802,7 @@ b_bios = [
         fileLetter: "",
         title: `Novelist`,
         birthDate: "00.00.1938",
-        birthLocation: "New York, NY",
+        birthLocation: "New York, New York",
         deathDate: "",
         deathLocation: "",
         narrative: `
@@ -858,7 +858,7 @@ b_bios = [
         birthDate: "01.11.1899",
         birthLocation: "Vienna, Austria",
         deathDate: "08.10.1977",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
 
 
@@ -898,7 +898,7 @@ b_bios = [
         fileLetter: "",
         title: `Poet`,
         birthDate: "02.08.1911",
-        birthLocation: "Worcester, MA",
+        birthLocation: "Worcester, Massachusetts",
         deathDate: "10.6.1979",
         deathLocation: "",
         narrative: `
@@ -1022,9 +1022,9 @@ b_bios = [
         fileLetter: "",
         title: `Writer, editor, translator, suffragist, social activist`,
         birthDate: "09.14.1857",
-        birthLocation: "Orange, NJ",
+        birthLocation: "Orange, New Jersey",
         deathDate: "03.18.1950",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
 
 
@@ -1086,9 +1086,9 @@ b_bios = [
         fileLetter: "",
         title: `Aids activist, wilderness adventurer`,
         birthDate: "08.06.1929",
-        birthLocation: "Saranac Lake, NY",
+        birthLocation: "Saranac Lake, New York",
         deathDate: "08.06.2007",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Born in upstate New York in a tuberculosis sanatorium,
             Mary Anne was adopted at the age of six months by Gertrude and Edric Weld, and
@@ -1146,7 +1146,7 @@ b_bios = [
         fileLetter: "",
         title: `Activist, School Volunteer`,
         birthDate: "12.3.1939",
-        birthLocation: "Boston, MA",
+        birthLocation: "Boston, Massachusetts",
         deathDate: "05.23.2001",
         deathLocation: "",
         narrative: `
@@ -1190,9 +1190,9 @@ b_bios = [
         fileLetter: "",
         title: `Biologist, Educator`,
         birthDate: "02.22.1883",
-        birthLocation: "Philadelphia, PA",
+        birthLocation: "Philadelphia, Pennsylvania",
         deathDate: "09.18.1955",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
 
 
@@ -1308,7 +1308,7 @@ b_bios = [
         birthDate: "03.00.1612",
         birthLocation: "Northampton, England",
         deathDate: "09.16.1672",
-        deathLocation: "Andover, MA",
+        deathLocation: "Andover, Massachusetts",
         narrative: `
 
             Daughter of Dorothy (Yorke) and Thomas Dudley,
@@ -1363,7 +1363,7 @@ b_bios = [
         birthDate: "00.00.1908",
         birthLocation: "Vienna, Austria",
         deathDate: "07.10.2005",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
 
             Born in Vienna Austria, Hermine Brokcyzyna was a Holocaust survivor whose
@@ -1410,7 +1410,7 @@ b_bios = [
         fileLetter: "",
         title: `Culinary Historian, Cookbook Author, Antique Dealer, Television Producer`,
         birthDate: "00.00.1941",
-        birthLocation: "Winthrop, MA",
+        birthLocation: "Winthrop, Massachusetts",
         deathDate: "",
         deathLocation: "",
         narrative: `
@@ -1524,9 +1524,9 @@ b_bios = [
         title: `Culinary Historian, Cookbook Author, Fashion Designer, Antique Dealer,
                 Television Producer`,
         birthDate: "00.00.1937",
-        birthLocation: "Winthrop, MA",
+        birthLocation: "Winthrop, Massachusetts",
         deathDate: "09.07.2022",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
 
     
@@ -1620,7 +1620,7 @@ b_bios = [
         birthDate: "00.00.1904",
         birthLocation: "Western-Super-Mare, England",
         deathDate: "00.00.1995",
-        deathLocation: "Cape Cod, MA",
+        deathLocation: "Cape Cod, Massachusetts",
         narrative: `
 
 
@@ -1781,9 +1781,9 @@ b_bios = [
         fileLetter: "",
         title: `Educator, School Founder, Lecturer`,
         birthDate: "06.11.1883",
-        birthLocation: "Henderson, NC",
+        birthLocation: "Henderson, North Carolina",
         deathDate: "01.11.1961",
-        deathLocation: "Greensboro, NC",
+        deathLocation: "Greensboro, North Carolina",
         narrative: `
 
 
@@ -1920,9 +1920,9 @@ b_bios = [
         fileLetter: "",
         title: `Educator, Microbiologist ,University administrator`,
         birthDate: "07.10.1910",
-        birthLocation: "Brooklyn, NY",
+        birthLocation: "Brooklyn, New York",
         deathDate: "01.21.1998",
-        deathLocation: "Hanover, NH",
+        deathLocation: "Hanover, New Hampshire",
         narrative: `
 
 
@@ -1973,7 +1973,7 @@ b_bios = [
         fileLetter: "",
         title: `Educator`,
         birthDate: "00.00.1927",
-        birthLocation: "Boston, MA",
+        birthLocation: "Boston, Massachusetts",
         deathDate: "09.00.1999",
         deathLocation: "",
         narrative: `
@@ -2014,9 +2014,9 @@ b_bios = [
         fileLetter: "",
         title: `Community leader`,
         birthDate: "00.00.1915",
-        birthLocation: "Cambridge, MA",
+        birthLocation: "Cambridge, Massachusetts",
         deathDate: "00.00.1999",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
 
 
@@ -2052,7 +2052,7 @@ b_bios = [
         birthDate: "ca1930",
         birthLocation: "",
         deathDate: "07.00.1999",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Jeanne V. Burton was a member of the board of
             directors of the Cambridge Council on Aging. She was elected vice president
@@ -2089,9 +2089,9 @@ b_bios = [
         fileLetter: "",
         title: `Teacher`,
         birthDate: "00.00.1897",
-        birthLocation: "Cambridge, MA",
+        birthLocation: "Cambridge, Massachusetts",
         deathDate: "01.00.2000",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
 
 
@@ -2130,7 +2130,7 @@ b_bios = [
         birthDate: "11.27.1907",
         birthLocation: "",
         deathDate: "08.31.1999",
-        deathLocation: "Needham, MA",
+        deathLocation: "Needham, Massachusetts",
         narrative: `
 
 
@@ -2176,9 +2176,9 @@ b_bios = [
         fileLetter: "",
         title: `Champion Dog Sled Racer`,
         birthDate: "12.26.1954",
-        birthLocation: "Cambridge, MA",
+        birthLocation: "Cambridge, Massachusetts",
         deathDate: "08.05.2006",
-        deathLocation: "Seattle, WA",
+        deathLocation: "Seattle, Washington",
         narrative: `
 
 
@@ -2247,7 +2247,7 @@ b_bios = [
         fileLetter: "",
         title: `Activist, Teacher, Writer`,
         birthDate: "1937",
-        birthLocation: "Brooklyn, NY",
+        birthLocation: "Brooklyn, New York",
         deathDate: "",
         deathLocation: "",
         narrative: `

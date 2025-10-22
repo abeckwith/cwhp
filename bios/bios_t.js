@@ -8,9 +8,9 @@ t_bios = [
         fileLetter: "",
         title: `Pediatric cardiologist`,
         birthDate: "05.24.1898",
-        birthLocation: "Cambridge, MA",
+        birthLocation: "Cambridge, Massachusetts",
         deathDate: "05.20.1986",
-        deathLocation: "Kennet Square, PA",
+        deathLocation: "Kennet Square, Pennsylvania",
         narrative: `
             Born in Cambridge to Edith (Guild) and Frank W.
             Taussig, a professor of economics at Harvard University, Helen Taussig graduated
@@ -68,9 +68,9 @@ t_bios = [
         fileLetter: "",
         title: `Educator, Director of the Shady Hill School 1921-1949`,
         birthDate: "06.24.1888",
-        birthLocation: "Hartford, CT",
+        birthLocation: "Hartford, Connecticut",
         deathDate: "03.12.1979",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
              Born on June 24, 1888 in Hartford, Connecticut,
             Katharine was the daughter of Graham Taylor and Leah (Demarest) Taylor. She
@@ -130,9 +130,9 @@ t_bios = [
         fileLetter: "",
         title: `Historian of science, astronomer, engineer, editor`,
         birthDate: "08.21.1905",
-        birthLocation: "New York, NY",
+        birthLocation: "New York, New York",
         deathDate: "08.06.1997",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Helen Meriwether Lewis began her early education
             in New York City, where her mother was a public school teacher, continuing her
@@ -195,7 +195,7 @@ t_bios = [
         birthDate: "00.00.1902",
         birthLocation: "North Carolina",
         deathDate: "03.16.1985",
-        deathLocation: "Cape Cod, MA",
+        deathLocation: "Cape Cod, Massachusetts",
         narrative: `
             One of the first African American women to graduate
             from Tufts Dental School, Mary Crutchfield was the first black woman to practice
@@ -248,7 +248,7 @@ t_bios = [
         birthDate: "00.00.1914",
         birthLocation: "",
         deathDate: "04.30.2001",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Ruth Turner was a biologist and Curator of Malacology
             (mollusks) at Harvard Museum of Comparative Biology. She earned her bachelor's
