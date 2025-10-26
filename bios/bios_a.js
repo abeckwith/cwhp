@@ -643,9 +643,9 @@ as a writer were recognized only after her death. The founding members, who incl
         references: ` Phyllis J. Read and Bernard L. Witlieb <em>The
                 Book of Women's Firsts</em>, 1992.<br>
             Wikipedia (online encyclopedia) <a
-                href="http://en.wikipedia.org/wiki/Constance_M._K._Applebee">http://en.wikipedia.org/wiki/Constance_M._K._Applebee</a>;<br>
+                href="http://en.wikipedia.org/wiki/Constance_M._K._Applebee" target="_blank">http://en.wikipedia.org/wiki/Constance_M._K._Applebee</a>;<br>
             <em>Encyclopedia Britannica </em>(2006)<Br>
-            <a href="https://www.britannica.com/biography/Constance-M-K-Applebee">https://www.britannica.com/biography/Constance-M-K-Applebee</a><br>
+            <a href="https://www.britannica.com/biography/Constance-M-K-Applebee" target="_blank">https://www.britannica.com/biography/Constance-M-K-Applebee</a><br>
             Jan. 5, 1959 Sports Illustrated<br>
             Photo source: wikipedia
         `,
@@ -696,7 +696,7 @@ as a writer were recognized only after her death. The founding members, who incl
             Cambridge City Directories
             <br>
             City of Cambridge Street Listings<Br>
-            Image source: WNET <a href="http://www.pbs.org/wnet/religionandethics/week245/cover.html">http://www.pbs.org/wnet/religionandethics/week245/cover.html</a>
+            Image source: WNET <a href="http://www.pbs.org/wnet/religionandethics/week245/cover.html" target="_blank">http://www.pbs.org/wnet/religionandethics/week245/cover.html</a>
         `,
         photos: ["images_bios/linda archer.png"],
         photoTitles: [],
@@ -820,7 +820,7 @@ as a writer were recognized only after her death. The founding members, who incl
             `,
         otherNotes: "",
         references: ` Based on personal interview by Sandra Pullman,
-            2003; The Adbar website is <a href="http://www.ethiopianwomen.org">http://www.ethiopianwomen.org</a>,
+            2003; The Adbar website is <a href="http://www.ethiopianwomen.org" target="_blank">http://www.ethiopianwomen.org</a>,
             or they can be contacted at the organization at P.O. Box 382302, Cambridge,
             MA 02238-2302.
         `,

@@ -212,7 +212,7 @@ p_bios = [
             and Bernard L. Wilieb. <em>The Book of Women's Firsts</em>, New York,
             1992. Marilyn Ogilvie and Joy Harvey (eds.) <em>Biographical Dictionary of Women
                 Scientists</em>. Routledge, 2000.<Br>
-                Image source: <a href="https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin">https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin</a>
+                Image source: <a href="https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin" target="_blank">https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin</a>
         `,
         photos: ["images_bios/Cecilia_Gaposchkin.jpg"],
         photoTitles: [],
@@ -277,7 +277,7 @@ p_bios = [
             <br>
             Ancestry.com genealogy records including family trees, vital records, U.S. Census
             reports, and city directory entries.<Br>
-            Image source: <a href="https://en.wikipedia.org/wiki/Melusina_Fay_Peirce">https://en.wikipedia.org/wiki/Melusina_Fay_Peirce</a>
+            Image source: <a href="https://en.wikipedia.org/wiki/Melusina_Fay_Peirce" target="_blank">https://en.wikipedia.org/wiki/Melusina_Fay_Peirce</a>
         `,
         photos: ["images_bios/peirce.png"],
         photoTitles: [],

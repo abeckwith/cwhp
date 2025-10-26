@@ -100,7 +100,7 @@ f_bios = [
             and her colleagues at the Wellesley College Stone Center, are now integrated into mainstream psychology practice.<br>
   `,
         otherNotes: "",
-        references: `Written by Kimm Topping, printed in <em>Mapping Feminist Cambridge</em> guidebook, 2019: <a href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a><br>
+        references: `Written by Kimm Topping, printed in <em>Mapping Feminist Cambridge</em> guidebook, 2019: <a href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf" target="_blank">https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a><br>
   `,
         photos: [""],
         photoTitles: [],
@@ -168,7 +168,7 @@ f_bios = [
       Science Studies Mary Wyer</em> (ed.) 312-331.(2001)<Br>
       Cynthia R Daniels. <em>Exposing 
       Men: The Science and Politics of Male Reproduction</em>. New York (2006).<Br>
-      <a href="https://woodsholemuseum.org/WHHWomen/GladysFriedler.html">https://woodsholemuseum.org/WHHWomen/GladysFriedler.html</a>`,
+      <a href="https://woodsholemuseum.org/WHHWomen/GladysFriedler.html" target="_blank">https://woodsholemuseum.org/WHHWomen/GladysFriedler.html</a>`,
         photos: ["images_bios/Friedler_Gaby.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2006",dateUpdated:
@@ -288,7 +288,7 @@ In
     Margaret Fuller Neighborhood House website, <a href="http://www.margaretfullerhouse.org/index.html" 
     target="_blank">http://www.margaretfullerhouse.org/index.html</a>
     <br>
-     Image source: <a href="https://en.wikipedia.org/wiki/Margaret_Fuller">https://en.wikipedia.org/wiki/Margaret_Fuller</a>
+     Image source: <a href="https://en.wikipedia.org/wiki/Margaret_Fuller" target="_blank">https://en.wikipedia.org/wiki/Margaret_Fuller</a>
   `,
         photos: ["images_bios/margaret_fuller.jpg"],
         photoTitles: [],

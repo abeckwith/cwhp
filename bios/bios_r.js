@@ -67,7 +67,7 @@ r_bios = [
             <br>
             Amy Miller, &quot;Curious George moves into Harvard Square,&quot; <em>Cambridge
                 Chronicle</em>, July 25, 1996.<Br>
-                Image source: <a href="https://en.wikipedia.org/wiki/Margret_Rey">https://en.wikipedia.org/wiki/Margret_Rey</a>
+                Image source: <a href="https://en.wikipedia.org/wiki/Margret_Rey" target="_blank">https://en.wikipedia.org/wiki/Margret_Rey</a>
         `,
         photos: ["images_bios/reys.jpg"],
         photoTitles: [],
@@ -119,7 +119,7 @@ r_bios = [
             Marilyn and Joy Harvey <em>Dictionary of Women Scientists </em>(2000); Ancker,
             Jessica Scalzi, <em>Domesticity, Science, and Social Control: Ellen Swallow
                 Richards and the New England Kitchen</em> (1987).<br>
-                Image source: <a href="https://en.wikipedia.org/wiki/Ellen_Swallow_Richards">https://en.wikipedia.org/wiki/Ellen_Swallow_Richards</a>
+                Image source: <a href="https://en.wikipedia.org/wiki/Ellen_Swallow_Richards" target="_blank">https://en.wikipedia.org/wiki/Ellen_Swallow_Richards</a>
         `,
         photos: ["images_bios/Ellen_Swallow_Richards.jpg"],
         photoTitles: [],
@@ -168,7 +168,7 @@ r_bios = [
             Vol. 20, No. 4, 734-736 (1992)<br>
             Wrenn, Robert L., &quot;The Evolution of Anne Roe,&quot; <em>J Counseling &amp;
                 Development</em> 63: 267-75, Jan 1985.<Br>
-                Image source: <a href="https://en.wikipedia.org/wiki/Anne_Roe">https://en.wikipedia.org/wiki/Anne_Roe</a>
+                Image source: <a href="https://en.wikipedia.org/wiki/Anne_Roe" target="_blank">https://en.wikipedia.org/wiki/Anne_Roe</a>
         `,
         photos: ["images_bios/anne_roe.jpg"],
         photoTitles: [],
@@ -294,7 +294,7 @@ r_bios = [
         references: ` &#8220;Ann Orlov Rubinow,&#8221; obituary news
             article by Bryan Marquard, <em>Boston Globe</em> January 25, 2007; Obituary, <em>Cambridge Chronicle</em>
             (under Betty A. Rubinow) January 22, 20071-22-07
-            <br>Image source: <A href="https://www.vtcng.com/stowereporter/archives/betty-ann-orlov-rubinow/article_5b7f7b21-06cb-5708-ae30-d74b45d2059f.html">
+            <br>Image source: <A href="https://www.vtcng.com/stowereporter/archives/betty-ann-orlov-rubinow/article_5b7f7b21-06cb-5708-ae30-d74b45d2059f.html" target="_blank">
             https://www.vtcng.com/stowereporter/archives/betty-ann-orlov-rubinow/article_5b7f7b21-06cb-5708-ae30-d74b45d2059f.html</a>
         `,
         photos: ["images_bios/rubinow.webp"],

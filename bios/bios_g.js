@@ -235,9 +235,9 @@ g_bios = [
                 http://www.english.uiuc.edu/maps/poets/g_l/gluck/about.htm</a><br>
             Hass, Robert &quot;About Louise Gluck&quot; Modern American Poetry
           
-            Brief Biography, <a href="http://www.helical-library.net/gluck/bio.asp">http://www.helical-library.net/gluck/bio.asp</a>. Date accessed:
+            Brief Biography, <a href="http://www.helical-library.net/gluck/bio.asp" target="_blank">http://www.helical-library.net/gluck/bio.asp</a>. Date accessed:
             4/22/2013<Br>
-            Image source: <a href="https://en.wikipedia.org/wiki/Louise_Gl%C3%BCck">ttps://en.wikipedia.org/wiki/Louise_Gl%C3%BCck</a>
+            Image source: <a href="https://en.wikipedia.org/wiki/Louise_Gl%C3%BCck" target="_blank">ttps://en.wikipedia.org/wiki/Louise_Gl%C3%BCck</a>
         `,
         photos: ["images_bios/louise_gluck.jpg"],
         photoTitles: [],
@@ -550,10 +550,10 @@ g_bios = [
             New England Blacks in Philanthropy website, blog post, 1/31/17,
             https://sel-law.squarespace.com/renae-gray-post<br>
             <span >Silva-Collins, Candelaria, blog,
-                7/1/2008</span>, <a href="http://candelariasilva.com/a-tribute-to-the-lovely-renae-gray/">http://candelariasilva.com/a-tribute-to-the-lovely-renae-gray/</a><br>
+                7/1/2008</span>, <a href="http://candelariasilva.com/a-tribute-to-the-lovely-renae-gray/" target="_blank">http://candelariasilva.com/a-tribute-to-the-lovely-renae-gray/</a><br>
             <span >YWCA Cambridge Massachusetts Facebook
                 post, 4/21/2017,</span> <span>
-                <a href="https://www.facebook.com/pg/YWCACambMA/photos/?tab=album&amp;album_id=10155047494801125">https://www.facebook.com/pg/YWCACambMA/photos/?tab=album&amp;album_id=10155047494801125</a></span><br>
+                <a href="https://www.facebook.com/pg/YWCACambMA/photos/?tab=album&amp;album_id=10155047494801125" target="_blank">https://www.facebook.com/pg/YWCACambMA/photos/?tab=album&amp;album_id=10155047494801125</a></span><br>
             <br>
           
 

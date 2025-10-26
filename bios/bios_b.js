@@ -174,7 +174,7 @@ b_bios = [
             `,
         otherNotes: "",
         references: ` <em>Notable American Women</em> (1609-1950) Vol
-            I; Baldwin school: <a href="https://baldwin.cpsd.us/">https://baldwin.cpsd.us//a>
+            I; Baldwin school: <a href="https://baldwin.cpsd.us/" target="_blank">https://baldwin.cpsd.us/</a>
             <Br>Photo source: wikipedia
         `,
         photos: ["images_bios/mary louise baldwin.jpeg"],
@@ -1497,7 +1497,7 @@ b_bios = [
             Beazley, 2005.<br>
             Bill Brett, Kerry Brett, Carol Beggy. <em>Boston, Inspirational Women</em> Boston,
             MA: Three Bean Press, 2011. <br>
-            The Brass Sisters' s website: <a href="http://www.thebrasssisters.com">www.thebrasssisters.com</a>
+            The Brass Sisters' s website: <a href="http://www.thebrasssisters.com" target="_blank">www.thebrasssisters.com</a>
 
 
         `,
@@ -1590,7 +1590,7 @@ b_bios = [
              What to Look for and What to Pay for Kitchenware for Over 2000 Items of Kitchenware</em>. London: Mitchell
               Beazley, 2005.<br>Bill Brett, Kerry Brett, Carol Beggy.&nbsp;<em>Boston, Inspirational Women&nbsp;
               </em>Boston, MA: Three Bean Press, 2011.<br>The Brass Sisters&apos; s website: 
-              <a href="http://www.thebrasssisters.com/">www.thebrasssisters.com</a><Br>
+              <a href="http://www.thebrasssisters.com/" target="_blank">www.thebrasssisters.com</a><Br>
         The Boston Globe, Sept. 12, 2022</p>
      
 
@@ -1757,7 +1757,7 @@ b_bios = [
             `,
         otherNotes: "",
         references: ` Written by Kimm Topping, printed in Mapping Feminist Cambridge guidebook, 2019:
-            <a href="https://historycambridge.org/self-guided-tours/self-guided-tour-mapping-feminist-cambridge-inman-square-1970s-1990s/">
+            <a href="https://historycambridge.org/self-guided-tours/self-guided-tour-mapping-feminist-cambridge-inman-square-1970s-1990s/" target="_blank">
             https://historycambridge.org/self-guided-tours/self-guided-tour-mapping-feminist-cambridge-inman-square-1970s-1990s/</a><br>
             Stories for Bread and Roses provided by Pat Hynes.
         `,
@@ -2155,7 +2155,7 @@ b_bios = [
         otherNotes: "",
         references: ` <em>Cambridge Chronicle</em> 09-16-99<Br>
         US Censuses: 1910, 1941<Br>
-        <a href="https://kinginstitute.stanford.edu/king-preaches-cambridges-union-baptist-church">
+        <a href="https://kinginstitute.stanford.edu/king-preaches-cambridges-union-baptist-church" target="_blank">
         https://kinginstitute.stanford.edu/king-preaches-cambridges-union-baptist-church</a>
         `,
         photos: [""],
@@ -2215,17 +2215,17 @@ b_bios = [
         otherNotes: "",
         references: ` Bernstein, V. Susan Butcher, Pioneer in Sled Dog Racing. (August 17, 2006). New York
         Times. <Br>Retrieved 7/4/2020 from
-        <a href="https://www.nytimes.com/2006/08/07/sports/07butcher.html">
+        <a href="https://www.nytimes.com/2006/08/07/sports/07butcher.html" target="_blank">
         https://www.nytimes.com/2006/08/07/sports/07butcher.html</a>.<Br><Br>
         Academy of Achievement (n.d). Interview with Susan Butcher, Champion Dog Sled Racer.
-        <Br>Retrieved 7/4/2020 from <a href="https://achievement.org/achiever/susan-butcher/#interview/">
+        <Br>Retrieved 7/4/2020 from <a href="https://achievement.org/achiever/susan-butcher/#interview/" target="_blank">
         https://achievement.org/achiever/susan-butcher/#interview/</a><Br><Br>
 
         Alaska Sports Hall of Fame (n.d.). Susan Butcher: Hard-nosed Competitor. <Br>Retrieved 7/4/2020
-        from <a href=" http://alaskasports.wpengine.com/inductee/susan-butcher/"> http://alaskasports.wpengine.com/inductee/susan-butcher/</a>
-        <Br><br><a href="https://www.thecrimson.com/article/1974/5/24/the-warehouse-school-one-alternative-pthe/">
+        from <a href=" http://alaskasports.wpengine.com/inductee/susan-butcher/" target="_blank"> http://alaskasports.wpengine.com/inductee/susan-butcher/</a>
+        <Br><br><a href="https://www.thecrimson.com/article/1974/5/24/the-warehouse-school-one-alternative-pthe/" target="_blank">
         https://www.thecrimson.com/article/1974/5/24/the-warehouse-school-one-alternative-pthe/</a><Br><Br>
-        Photo source: <a href="https://commons.wikimedia.org/wiki/File:Fairbanks_-_Susan_Butcher_and_Dogs.jpg">
+        Photo source: <a href="https://commons.wikimedia.org/wiki/File:Fairbanks_-_Susan_Butcher_and_Dogs.jpg" target="_blank">
         https://commons.wikimedia.org/wiki/File:Fairbanks_-_Susan_Butcher_and_Dogs.jpg</a>
 <br><Br><b>NOTE: bio written July 2020 - added to site in 2025</b>
         `,
@@ -2342,5 +2342,85 @@ b_bios = [
         photoHeights: [],
         authors: "Anthony Beckwith",
         categories: ["Activist", "Writer", "Teacher/Educator", "Journalist"],
+    },
+     {
+        organization: false,
+        lastName: "Butterfield",
+        firstName: "Elizabeth",
+        middleName: "\"Betty\"",
+        familyName: "Eaton",
+        fileLetter: "",
+        title: `Nonprofit Bookstore Co-Founder, Social Activist`,
+        birthDate: "1913",
+        birthLocation: "Cleveland, Ohio",
+        deathDate: "07.12.1978",
+        deathLocation: "Cambridge, MA",
+        narrative: `
+
+        Betty Butterfield launched a fundraiser in 1959 for her
+        alma mater, Bryn Mawr College, that became a nonprofit bookstore.<Br><Br>
+        The Bryn Mawr Book Store remains in its original location at 373
+        Huron Avenue in West Cambridge. All of the books are donated, the staff is all volunteer,
+        and profits fund scholarships at the college.<Br><Br>
+        Over the years the store has donated well over $2 million for scholarships.
+        In an obituary for Elizabeth Butterfield, <i>The New York Times</i> wrote, "To
+        raise money for scholarships for her alma mater, Mrs. Butterfield
+        established a book sale that proved to be so successful that instead of
+        having it once a year, it became a regular business, netting about $25,000
+        (equivalent to $115,000 today) annually for scholarships. The money was
+        raised by collecting books from attics and cellars, some of which sold for
+        nickels and dimes and others that proved to be first editions of considerable
+        value."<br><Br>
+        Her husband, Lyman H. Butterfield, a historian knowledgeable about rare
+        books, helped with the sorting and pricing of books in their basement.
+        The first annual used book sale in Cambridge raised $1,800,
+        equivalent to about $18,000 today. The sale became so popular that
+        dealers lined up before the doors opened.<Br><Br>
+        In 1971 Elizabeth Butterfield and other volunteers opened a bookstore. She
+        and another volunteer subsequently bought the building. The bookstore
+        bought it from them a few years later with the help of an interest-free loan.
+        Originally called the Bryn Mawr Book Sale, the shop was re-named the
+        Bryn Mawr Book Store in the 1980s. There once were nine Bryn Mawr
+
+        used bookstores across the Northeast but the Cambridge store and The
+        Lantern in Washington, D.C., are the only survivors.<Br><Br>
+        In addition to her volunteer achievements, she worked at Harvard
+        University for 19 years, including as assistant to the dean of Radcliffe and
+        assistant registrar of the faculty. At a 1970 rally against the Vietnam War,
+        she endorsed a university-wide strike to protest the invasion of Cambodia
+        and the killing of four students at Kent State University.
+
+       
+            `,
+        otherNotes: "",
+        references: `
+            Elizabeth Eaton Butterfield, 65, Founder of Bryn Mawr Book Sale (July 14,
+            1978)
+            The New York Times
+            <a href="https://www.nytimes.com/1978/07/14/archives/elizabeth-eaton-butterfield-65-founder-of-bryn-mawr-book-sale.html" target="_blank">https://www.nytimes.com/1978/07/14/archives/elizabeth-eaton-butterfield-
+            65-founder-of-bryn-mawr-book-sale.html</a>
+           
+            “The First Fifty Years: A History of the Bryn Mawr Book Store in Cambridge
+            with a Nod to its Sister Stores” by Jan Gardner, 2023
+            <a href="https://brynmawrbookstore.com/bookstore-history-for-sale/" target="_blank">https://brynmawrbookstore.com/bookstore-history-for-sale/</a>
+           
+            Long-Time Administrator Elizabeth Butterfield Dies (July 18, 1978) Harvard
+            Crimson,
+            <a href="https://www.thecrimson.com/article/1978/7/18/long-time-administrator-elizabeth-butterfield-dies-pmrs/" target="_blank">https://www.thecrimson.com/article/1978/7/18/long-time-administrator-
+            elizabeth-butterfield-dies-pmrs/</a>
+           
+            Elizabeth Butterfield (1913 - 1978) by Dan Swanson (July 18, 1978)
+            Harvard Crimson
+            <a href="https://www.thecrimson.com/article/1978/7/18/elizabeth-butterfield-1913-1978-pbsbome/" target="_blank">https://www.thecrimson.com/article/1978/7/18/elizabeth-butterfield-1913-
+            1978-pbsbome/</a>
+        `,
+        photos: [""],
+        photoTitles: [],
+        dateCreated: "October 26, 2025 ",
+        dateUpdated: "",
+
+        photoHeights: [],
+        authors: "Jan Gardner (author",
+        categories: [""],
     },
 ];

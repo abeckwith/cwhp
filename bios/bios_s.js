@@ -49,7 +49,7 @@ s_bios = [
             `,
         otherNotes: "",
         references: `Oral interview by Sarah Boyer<br>
-        Image source: <a href="https://ctacusa.com/about-us/staff/sylvia-saavedra-keber/">https://ctacusa.com/about-us/staff/sylvia-saavedra-keber/</a>
+        Image source: <a href="https://ctacusa.com/about-us/staff/sylvia-saavedra-keber/" target="_blank">https://ctacusa.com/about-us/staff/sylvia-saavedra-keber/</a>
         `,
         photos: ["images_bios/Saavedra.jpg"],
         photoTitles: [],
@@ -141,7 +141,7 @@ s_bios = [
                 Dreaming Deep</em>; <em>A World of Light</em>. Constance Hunting <em>May Sarton:
                 Woman and Poet</em>. National Poetry Foundation, 1982; <em>Great Women Writers</em>.
             Henry Holt, 1994; Cambridge Historical Commission files<Br>
-            Image source: <a href="https://en.wikipedia.org/wiki/May_Sarton">https://en.wikipedia.org/wiki/May_Sarton</a>
+            Image source: <a href="https://en.wikipedia.org/wiki/May_Sarton" target="_blank">https://en.wikipedia.org/wiki/May_Sarton</a>
         `,
         photos: ["images_bios/May_Sarton.jpg"],
         photoTitles: [],
@@ -182,7 +182,7 @@ s_bios = [
             (Little Brown, 1979)<br>
             Arthur Schlesinger, Jr. <em>A Life in the 20th Century: Innocent Beginnings,
                 1917-1950</em>. Houghton Mifflin, 2000<Br>
-                Image source: <a href="https://en.wikipedia.org/wiki/Marian_Cannon_Schlesinger">https://en.wikipedia.org/wiki/Marian_Cannon_Schlesinger</a>
+                Image source: <a href="https://en.wikipedia.org/wiki/Marian_Cannon_Schlesinger" target="_blank">https://en.wikipedia.org/wiki/Marian_Cannon_Schlesinger</a>
         `,
         photos: ["images_bios/Marian_Schlesinger.jpg"],
        
@@ -392,7 +392,7 @@ s_bios = [
             Obituary, <em>Resonance</em> June 2006<br>
             Oral interview in Schlesinger Library<br>
             DMS<em>E News</em> (MIT). April 2001 <br>
-            <a href="http://oasis.lib.harvard.edu">http://oasis.lib.harvard.edu</a><br>
+            <a href="http://oasis.lib.harvard.edu" target="_blank">http://oasis.lib.harvard.edu</a><br>
             Image from University of Chicago Photographic Archive, apf1-07690, Hanna Holborn Gray Special Collections Research Center, University of Chicago Library.
            `,
         photos: ["images_bios/Alice_Kimball_Smith.jpg"],

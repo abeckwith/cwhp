@@ -267,7 +267,7 @@ d_bios = [
 
         <em>Cambridge Chronicle</em>, 30 March 1967. 3 May 1977, 18 October 1979<br>
         <em>Boston Globe</em>, July 17 1995 <Br>
-        <a href="https://www.cambridgema.gov/Departments/cambridgepolice/aboutthedepartment/departmenthistory">
+        <a href="https://www.cambridgema.gov/Departments/cambridgepolice/aboutthedepartment/departmenthistory" target="_blank">
         https://www.cambridgema.gov/Departments/cambridgepolice/aboutthedepartment/departmenthistory</a><Br>
         1930 U.S. Census<Br>
         1954 <em>Cambridge City Directory</em><Br>

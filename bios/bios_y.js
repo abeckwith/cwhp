@@ -90,41 +90,41 @@ y_bios = [
         references: `
             Arvind Dilawar, &ldquo;Advocates For Self-managed Abortions Are Preparing For a Post-Roe World&rdquo;,
             <em>Pacific Standard</em>, 7/12/2019,<Br> <a
-                href="https://psmag.com/social-justice/advocates-for-self-managed-abortions-are-preparing-for-a-post-roe-world">Link</a>
+                href="https://psmag.com/social-justice/advocates-for-self-managed-abortions-are-preparing-for-a-post-roe-world" target="_blank">Link</a>
             <br>
             Baker, Carrie. &ldquo;We Heart: The Period Tracking App Resisting Anti-abortion Government
             Surveillance,&rdquo; <em>Ms. Magazine</em>, 1/27/2020,<Br> <a
-                href="https://msmagazine.com/2020/01/27/we-heart-the-period-tracking-app-resisting-anti-abortion-government-surveillance/">Link</a>
+                href="https://msmagazine.com/2020/01/27/we-heart-the-period-tracking-app-resisting-anti-abortion-government-surveillance/" target="_blank">Link</a>
             <br>
             Harvard Library Hollis Catalogue of Susan Yanow publications, accessed 6/2/2020: <Br><a
-                href="https://hollis.harvard.edu/primo-explore/search?query=creator,exact,Yanow%20Susan,AND&amp;pfilter=pfilter,exact,articles,AND&amp;tab=everything&amp;search_scope=everything&amp;vid=HVD2&amp;mode=advanced&amp;offset=0">Link</a>
+                href="https://hollis.harvard.edu/primo-explore/search?query=creator,exact,Yanow%20Susan,AND&amp;pfilter=pfilter,exact,articles,AND&amp;tab=everything&amp;search_scope=everything&amp;vid=HVD2&amp;mode=advanced&amp;offset=0" target="_blank">Link</a>
             Later Abortion, History of the Initiative:<Br> <a
                 href="https://laterabortion.org/history-initiative">https://laterabortion.org/history-initiative</a>
             <br>
             NARAL Pro Choice Massachusetts 2016 Annual Champions For Choice Awardees: <Br><a
-                href="https://prochoicemass.org/2016/10/21/naral-honors-dr-judyann-bigby-susan-yanow-work-toward-advancement-reproductive-freedom-annual-champions-choice-event/">Link</a>
+                href="https://prochoicemass.org/2016/10/21/naral-honors-dr-judyann-bigby-susan-yanow-work-toward-advancement-reproductive-freedom-annual-champions-choice-event/" target="_blank">Link</a>
             <br>
             NPR Radio interviews:<Br> <a
                 href="https://www.npr.org/transcripts/9213707">https://www.npr.org/transcripts/9213707</a>,<Br><a
-                href="https://www.wbur.org/hereandnow/2017/05/04/women-help-women-website-pregnancies">https://www.wbur.org/hereandnow/2017/05/04/women-help-women-website-pregnancies</a>,
+                href="https://www.wbur.org/hereandnow/2017/05/04/women-help-women-website-pregnancies" target="_blank">https://www.wbur.org/hereandnow/2017/05/04/women-help-women-website-pregnancies</a>,
             <a
-                href="https://www.wbur.org/commonhealth/2018/05/22/abortion-battle-health-information">https://www.wbur.org/commonhealth/2018/05/22/abortion-battle-health-information</a>
+                href="https://www.wbur.org/commonhealth/2018/05/22/abortion-battle-health-information" target="_blank">https://www.wbur.org/commonhealth/2018/05/22/abortion-battle-health-information</a>
             <br>
             Nurses for Sexual and Reproductive Health: <Br><a
-                href="https://www.nsrh.org/susan-yanow--msw">https://www.nsrh.org/susan-yanow--msw</a> <br>
+                href="https://www.nsrh.org/susan-yanow--msw" target="_blank">https://www.nsrh.org/susan-yanow--msw</a> <br>
             Our Bodies, Ourselves:<Br> <a
-                href="https://www.ourbodiesourselves.org/our-story/contributors/susan-yanow/">https://www.ourbodiesourselves.org/our-story/contributors/susan-yanow/</a>
+                href="https://www.ourbodiesourselves.org/our-story/contributors/susan-yanow/" target="_blank">https://www.ourbodiesourselves.org/our-story/contributors/susan-yanow/</a>
             <br>
             Redden, Molly. &ldquo;New website offers US women help to perform their own abortions,&rdquo; <em>The
                 Guardian</em>, 4/27/2017,<Br> <a
-                href="https://www.theguardian.com/world/2017/apr/27/abortion-website-women-help-women">https://www.theguardian.com/world/2017/apr/27/abortion-website-women-help-women</a>
+                href="https://www.theguardian.com/world/2017/apr/27/abortion-website-women-help-women" target="_blank">https://www.theguardian.com/world/2017/apr/27/abortion-website-women-help-women</a>
             <br>
             <em>Rewire.News</em> articles by Susan Yanow, accessed 6/2/1010:<Br> <a
-                href="https://rewire.news/author/susan-yanow/">https://rewire.news/author/susan-yanow/</a> <br>
-            Self-Managed Abortion Podcast, Part 1: <a href="https://www.smapodcast.org">https://www.smapodcast.org</a>
+                href="https://rewire.news/author/susan-yanow/" target="_blank">https://rewire.news/author/susan-yanow/</a> <br>
+            Self-Managed Abortion Podcast, Part 1: <a href="https://www.smapodcast.org" target="_blank">https://www.smapodcast.org</a>
             <br>
             Women Help Women: Euki App.<Br> <a
-                href="https://womenhelp.org/en/page/1082/euki-app">https://womenhelp.org/en/page/1082/euki-app</a> <br>
+                href="https://womenhelp.org/en/page/1082/euki-app target="_blank"">https://womenhelp.org/en/page/1082/euki-app</a> <br>
             Yanow, Susan. &ldquo;It is time to integrate abortion into primary care.&rdquo; <em>American journal of
                 public health</em> vol. 103,1 (2013): 14-6. doi:10.2105/AJPH.2012.3011196
         `,

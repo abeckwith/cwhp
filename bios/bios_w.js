@@ -369,8 +369,8 @@ w_bios = [
             Anne Whitney Papers, Wellesley College Archives<br>
             Martin, Elizabeth and Vivan Meyer. <em>Female Gazes: Seventy-Five Women Artists</em>.
             Toronto: Second Story Press, 1997.<Br>
-            Whitney <a href="https://en.wikipedia.org/wiki/Anne_Whitney">image</a> 
-             and statue <a href="https://commons.wikimedia.org/wiki/File:Charles_Sumner_statue_%28Cambridge,_MA%29_-_Anne_Whitney_sculptor.JPG">
+            Whitney <a href="https://en.wikipedia.org/wiki/Anne_Whitney" target="_blank">image</a> 
+             and statue <a href="https://commons.wikimedia.org/wiki/File:Charles_Sumner_statue_%28Cambridge,_MA%29_-_Anne_Whitney_sculptor.JPG" target="_blank">
         image</a> from wikimedia commons 
         `,
         photos: ["images_bios/Anne_Whitney.jpg", "images_bios/whitneySumnerStatue.jpeg"],
@@ -589,7 +589,7 @@ w_bios = [
                 Atlantic and the Politics of Gender.</em> (New York: Oxford University Press,
             2005); <br>
             
-                Image source: <a href="https://commons.wikimedia.org/wiki/File:Mrs._John_Winthrop.jpg">
+                Image source: <a href="https://commons.wikimedia.org/wiki/File:Mrs._John_Winthrop.jpg" target="_blank">
                 https://commons.wikimedia.org/wiki/File:Mrs._John_Winthrop.jpg</a>
         `,
         photos: ["images_bios/HANNAH_Winthrop.jpg"],
@@ -646,7 +646,7 @@ w_bios = [
         references: ` Ozeline (Pearson) Wise papers and biographical information, Schlesinger
             Library. Ozeline (Pearson) Wise interview, <em>Black Women Oral History Project</em> of
             Schlesinger Library.<br>
-            Image source: <a href="https://en.wikipedia.org/wiki/Ozeline_Wise">https://en.wikipedia.org/wiki/Ozeline_Wise</a>
+            Image source: <a href="https://en.wikipedia.org/wiki/Ozeline_Wise" target="_blank">https://en.wikipedia.org/wiki/Ozeline_Wise</a>
         `,
         photos: ["images_bios/Ozeline__Wise.jpg"],
         photoTitles: [],
@@ -750,8 +750,8 @@ w_bios = [
             chapter of the National Organization of Women. `,
         otherNotes: "",
         references: ` Harvard Gazette 6-2-2005<Br>
-                <a href="https://en.wikipedia.org/wiki/Ozeline_Wise"><https://en.wikipedia.org/wiki/Ozeline_Wise</a><Br><Br>
-                Image source: <a href="https://en.wikipedia.org/wiki/Ozeline_Wise"><https://en.wikipedia.org/wiki/Ozeline_Wise</a>
+                <a href="https://en.wikipedia.org/wiki/Ozeline_Wise" target="_blank">https://en.wikipedia.org/wiki/Ozeline_Wise</a><Br><Br>
+                Image source: <a href="https://en.wikipedia.org/wiki/Ozeline_Wise" target="_blank">https://en.wikipedia.org/wiki/Ozeline_Wise</a>
         `,
         photos: ["images_bios/Alice_Wolf.jpg"],
         photoTitles: [],
@@ -857,7 +857,7 @@ w_bios = [
         references: ` Dominique Tremblay, finding aid for the Women's
             Coffeehouse Records, prepared October 2006. Northeastern University Library
            
-            <br>Image source: <a href="https://press.library.concordia.ca/read/ingredients-for-revolution">
+            <br>Image source: <a href="https://press.library.concordia.ca/read/ingredients-for-revolution" target="_blank">
             https://press.library.concordia.ca/read/ingredients-for-revolution</a>
         `,
         photos: ["images_bios/womenscoffehouse.png"],
@@ -973,9 +973,9 @@ w_bios = [
         otherNotes: "",
         references: ` Written by Kimm Topping, printed in Mapping Feminist
             Cambridge guidebook, 2019:
-            <a href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">
+            <a href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf" target="_blank">
             https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a><br>
-            <a href="www.nlgmass.org/nlg-mass-history">www.nlgmass.org/nlg-mass-history</a>
+            <a href="www.nlgmass.org/nlg-mass-history" target="_blank">www.nlgmass.org/nlg-mass-history</a>
         `,
         photos: [""],
         photoTitles: [],
@@ -1002,7 +1002,7 @@ w_bios = [
         deathLocation: "",
         narrative: `
 
-            The Women's School was established in 1971 by twenty women who were involved with the <a href="#WomensCenter">Women's
+            The Women's School was established in 1971 by twenty women who were involved with the <a href="https://cwhp.cambridgema.gov/bios.html?lNm=WomensCenter&mNm=&fNm=">Women's
                 Center</a> in Cambridge, Massachusetts. The school was founded as an alternative
             source of feminist education, and its ideologies were based on socialist feminism.
             It was operated as a collective with classes taught by volunteer teachers. All
