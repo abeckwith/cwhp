@@ -2399,16 +2399,16 @@ b_bios = [
             The New York Times
             <a href="https://www.nytimes.com/1978/07/14/archives/elizabeth-eaton-butterfield-65-founder-of-bryn-mawr-book-sale.html" target="_blank">https://www.nytimes.com/1978/07/14/archives/elizabeth-eaton-butterfield-
             65-founder-of-bryn-mawr-book-sale.html</a>
-           
+            <br> <br>
             “The First Fifty Years: A History of the Bryn Mawr Book Store in Cambridge
             with a Nod to its Sister Stores” by Jan Gardner, 2023
             <a href="https://brynmawrbookstore.com/bookstore-history-for-sale/" target="_blank">https://brynmawrbookstore.com/bookstore-history-for-sale/</a>
-           
+            <br> <br>
             Long-Time Administrator Elizabeth Butterfield Dies (July 18, 1978) Harvard
             Crimson,
             <a href="https://www.thecrimson.com/article/1978/7/18/long-time-administrator-elizabeth-butterfield-dies-pmrs/" target="_blank">https://www.thecrimson.com/article/1978/7/18/long-time-administrator-
             elizabeth-butterfield-dies-pmrs/</a>
-           
+            <br> <br>
             Elizabeth Butterfield (1913 - 1978) by Dan Swanson (July 18, 1978)
             Harvard Crimson
             <a href="https://www.thecrimson.com/article/1978/7/18/elizabeth-butterfield-1913-1978-pbsbome/" target="_blank">https://www.thecrimson.com/article/1978/7/18/elizabeth-butterfield-1913-
