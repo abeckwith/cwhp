@@ -598,8 +598,8 @@ d_bios = [
             Center, among others. Her work has appeared in publications such as <em>Paris
                 Review</em>, <em>Nation</em>, <em>Partisan Review</em>, <em>American Scholar</em>,
             <em>New York Times</em>, <em>Poetry</em>, and <em>AGNI Magazine</em>. Recently,
-            Garrison Keillor has read poems from her boo<br>ks on the radio on his 'Writer's
-            Almanac' on National Public Radio. <br>
+            Garrison Keillor has read poems from her books on the radio on his 'Writer's
+            Almanac' on National Public Radio. <br><Br>
             She taught workshops in translation, poetry of
             human rights, at various universities and at the Boston Globe Book Festival.
             She was Fulbright professor of American poetry at Yerevan State University in

@@ -2255,7 +2255,7 @@ b_bios = [
 
         Barbara Beckwith grew up in New York, Pennsylvania and New Jersey, moving to 
         Cambridge in 1965 where she enthusiastically took on the roles of activist, journalist, 
-        teacher, and writer.<br><Br>
+        teacher, and essayist.<br><Br>
 
         In the 1970s and 1980s, Barbara was involved in local fights for rent control, educational 
         access, withdrawal from the Vietnam War, women's liberation, ending the nuclear arms race, 

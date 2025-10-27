@@ -579,8 +579,9 @@ as a writer were recognized only after her death. The founding members, who incl
     spindles from a spinning frame as they ran out.<br><Br>
     At age 16, Dominga (who went by Minie or Minnie) married Ruffino Rosa Andrade, who was also from
     Cape Verde. They moved to Cambridge in the 1930s, where Dominga was employed as a cotton worker
-    for many years. A longtime member of the International Ladies' Garment Workers' Union, Dominga raised
-    seven children in Cambridge. She and her husband lived on Market Street for close to 60 years.<br><Br>
+    for many years. She was a longtime member of the International Ladies' Garment Workers' Union,
+    an important labor union and one of the earliest to focus on women workers' rights. Dominga raised
+    seven children in Cambridge and she and her husband lived on Market Street for close to 60 years.<br><Br>
     Dominga died at home in Cambridge after a brief illness at the age of 95.
             `,
         otherNotes: "",

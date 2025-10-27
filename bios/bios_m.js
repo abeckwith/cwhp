@@ -501,7 +501,7 @@ m_bios = [
         going in.  I could sit and listen to people talk, or sometimes I might say something, or laugh."  <br><br>
 
         The creative arts runs in Mazur's family: Gail's son Dan Mazur, a resident of Cambridge, is a graphic novelist 
-        and her daughter, Kathe Sugarman, is an actress living in Los Angeles.
+        and her daughter, Kathe Mazur, is an actress living in Los Angeles.
    
         `,
         otherNotes: "",
