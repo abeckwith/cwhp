@@ -2343,84 +2343,84 @@ b_bios = [
         authors: "Anthony Beckwith",
         categories: ["Activist", "Writer", "Teacher/Educator", "Journalist"],
     },
-     {
-        organization: false,
-        lastName: "Butterfield",
-        firstName: "Elizabeth",
-        middleName: "\"Betty\"",
-        familyName: "Eaton",
-        fileLetter: "",
-        title: `Nonprofit Bookstore Co-Founder, Social Activist`,
-        birthDate: "1913",
-        birthLocation: "Cleveland, Ohio",
-        deathDate: "07.12.1978",
-        deathLocation: "Cambridge, MA",
-        narrative: `
+    // {
+    //     organization: false,
+    //     lastName: "Butterfield",
+    //     firstName: "Elizabeth",
+    //     middleName: "\"Betty\"",
+    //     familyName: "Eaton",
+    //     fileLetter: "",
+    //     title: `Nonprofit Bookstore Co-Founder, Social Activist`,
+    //     birthDate: "1913",
+    //     birthLocation: "Cleveland, Ohio",
+    //     deathDate: "07.12.1978",
+    //     deathLocation: "Cambridge, MA",
+    //     narrative: `
 
-        Betty Butterfield launched a fundraiser in 1959 for her
-        alma mater, Bryn Mawr College, that became a nonprofit bookstore.<Br><Br>
-        The Bryn Mawr Book Store remains in its original location at 373
-        Huron Avenue in West Cambridge. All of the books are donated, the staff is all volunteer,
-        and profits fund scholarships at the college.<Br><Br>
-        Over the years the store has donated well over $2 million for scholarships.
-        In an obituary for Elizabeth Butterfield, <i>The New York Times</i> wrote, "To
-        raise money for scholarships for her alma mater, Mrs. Butterfield
-        established a book sale that proved to be so successful that instead of
-        having it once a year, it became a regular business, netting about $25,000
-        (equivalent to $115,000 today) annually for scholarships. The money was
-        raised by collecting books from attics and cellars, some of which sold for
-        nickels and dimes and others that proved to be first editions of considerable
-        value."<br><Br>
-        Her husband, Lyman H. Butterfield, a historian knowledgeable about rare
-        books, helped with the sorting and pricing of books in their basement.
-        The first annual used book sale in Cambridge raised $1,800,
-        equivalent to about $18,000 today. The sale became so popular that
-        dealers lined up before the doors opened.<Br><Br>
-        In 1971 Elizabeth Butterfield and other volunteers opened a bookstore. She
-        and another volunteer subsequently bought the building. The bookstore
-        bought it from them a few years later with the help of an interest-free loan.
-        Originally called the Bryn Mawr Book Sale, the shop was re-named the
-        Bryn Mawr Book Store in the 1980s. There once were nine Bryn Mawr
+    //     Betty Butterfield launched a fundraiser in 1959 for her
+    //     alma mater, Bryn Mawr College, that became a nonprofit bookstore.<Br><Br>
+    //     The Bryn Mawr Book Store remains in its original location at 373
+    //     Huron Avenue in West Cambridge. All of the books are donated, the staff is all volunteer,
+    //     and profits fund scholarships at the college.<Br><Br>
+    //     Over the years the store has donated well over $2 million for scholarships.
+    //     In an obituary for Elizabeth Butterfield, <i>The New York Times</i> wrote, "To
+    //     raise money for scholarships for her alma mater, Mrs. Butterfield
+    //     established a book sale that proved to be so successful that instead of
+    //     having it once a year, it became a regular business, netting about $25,000
+    //     (equivalent to $115,000 today) annually for scholarships. The money was
+    //     raised by collecting books from attics and cellars, some of which sold for
+    //     nickels and dimes and others that proved to be first editions of considerable
+    //     value."<br><Br>
+    //     Her husband, Lyman H. Butterfield, a historian knowledgeable about rare
+    //     books, helped with the sorting and pricing of books in their basement.
+    //     The first annual used book sale in Cambridge raised $1,800,
+    //     equivalent to about $18,000 today. The sale became so popular that
+    //     dealers lined up before the doors opened.<Br><Br>
+    //     In 1971 Elizabeth Butterfield and other volunteers opened a bookstore. She
+    //     and another volunteer subsequently bought the building. The bookstore
+    //     bought it from them a few years later with the help of an interest-free loan.
+    //     Originally called the Bryn Mawr Book Sale, the shop was re-named the
+    //     Bryn Mawr Book Store in the 1980s. There once were nine Bryn Mawr
 
-        used bookstores across the Northeast but the Cambridge store and The
-        Lantern in Washington, D.C., are the only survivors.<Br><Br>
-        In addition to her volunteer achievements, she worked at Harvard
-        University for 19 years, including as assistant to the dean of Radcliffe and
-        assistant registrar of the faculty. At a 1970 rally against the Vietnam War,
-        she endorsed a university-wide strike to protest the invasion of Cambodia
-        and the killing of four students at Kent State University.
+    //     used bookstores across the Northeast but the Cambridge store and The
+    //     Lantern in Washington, D.C., are the only survivors.<Br><Br>
+    //     In addition to her volunteer achievements, she worked at Harvard
+    //     University for 19 years, including as assistant to the dean of Radcliffe and
+    //     assistant registrar of the faculty. At a 1970 rally against the Vietnam War,
+    //     she endorsed a university-wide strike to protest the invasion of Cambodia
+    //     and the killing of four students at Kent State University.
 
        
-            `,
-        otherNotes: "",
-        references: `
-            Elizabeth Eaton Butterfield, 65, Founder of Bryn Mawr Book Sale (July 14,
-            1978)
-            The New York Times
-            <a href="https://www.nytimes.com/1978/07/14/archives/elizabeth-eaton-butterfield-65-founder-of-bryn-mawr-book-sale.html" target="_blank">https://www.nytimes.com/1978/07/14/archives/elizabeth-eaton-butterfield-
-            65-founder-of-bryn-mawr-book-sale.html</a>
-            <br> <br>
-            “The First Fifty Years: A History of the Bryn Mawr Book Store in Cambridge
-            with a Nod to its Sister Stores” by Jan Gardner, 2023
-            <a href="https://brynmawrbookstore.com/bookstore-history-for-sale/" target="_blank">https://brynmawrbookstore.com/bookstore-history-for-sale/</a>
-            <br> <br>
-            Long-Time Administrator Elizabeth Butterfield Dies (July 18, 1978) Harvard
-            Crimson,
-            <a href="https://www.thecrimson.com/article/1978/7/18/long-time-administrator-elizabeth-butterfield-dies-pmrs/" target="_blank">https://www.thecrimson.com/article/1978/7/18/long-time-administrator-
-            elizabeth-butterfield-dies-pmrs/</a>
-            <br> <br>
-            Elizabeth Butterfield (1913 - 1978) by Dan Swanson (July 18, 1978)
-            Harvard Crimson
-            <a href="https://www.thecrimson.com/article/1978/7/18/elizabeth-butterfield-1913-1978-pbsbome/" target="_blank">https://www.thecrimson.com/article/1978/7/18/elizabeth-butterfield-1913-
-            1978-pbsbome/</a>
-        `,
-        photos: [""],
-        photoTitles: [],
-        dateCreated: "October 26, 2025 ",
-        dateUpdated: "",
+    //         `,
+    //     otherNotes: "",
+    //     references: `
+    //         Elizabeth Eaton Butterfield, 65, Founder of Bryn Mawr Book Sale (July 14,
+    //         1978)
+    //         The New York Times
+    //         <a href="https://www.nytimes.com/1978/07/14/archives/elizabeth-eaton-butterfield-65-founder-of-bryn-mawr-book-sale.html" target="_blank">https://www.nytimes.com/1978/07/14/archives/elizabeth-eaton-butterfield-
+    //         65-founder-of-bryn-mawr-book-sale.html</a>
+    //         <br> <br>
+    //         “The First Fifty Years: A History of the Bryn Mawr Book Store in Cambridge
+    //         with a Nod to its Sister Stores” by Jan Gardner, 2023
+    //         <a href="https://brynmawrbookstore.com/bookstore-history-for-sale/" target="_blank">https://brynmawrbookstore.com/bookstore-history-for-sale/</a>
+    //         <br> <br>
+    //         Long-Time Administrator Elizabeth Butterfield Dies (July 18, 1978) Harvard
+    //         Crimson,
+    //         <a href="https://www.thecrimson.com/article/1978/7/18/long-time-administrator-elizabeth-butterfield-dies-pmrs/" target="_blank">https://www.thecrimson.com/article/1978/7/18/long-time-administrator-
+    //         elizabeth-butterfield-dies-pmrs/</a>
+    //         <br> <br>
+    //         Elizabeth Butterfield (1913 - 1978) by Dan Swanson (July 18, 1978)
+    //         Harvard Crimson
+    //         <a href="https://www.thecrimson.com/article/1978/7/18/elizabeth-butterfield-1913-1978-pbsbome/" target="_blank">https://www.thecrimson.com/article/1978/7/18/elizabeth-butterfield-1913-
+    //         1978-pbsbome/</a>
+    //     `,
+    //     photos: [""],
+    //     photoTitles: [],
+    //     dateCreated: "October 26, 2025 ",
+    //     dateUpdated: "",
 
-        photoHeights: [],
-        authors: "Jan Gardner (author",
-        categories: [""],
-    },
+    //     photoHeights: [],
+    //     authors: "Jan Gardner (author",
+    //     categories: [""],
+    // },
 ];
