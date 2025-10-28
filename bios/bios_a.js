@@ -561,8 +561,8 @@ as a writer were recognized only after her death. The founding members, who incl
         organization: false,
         lastName: "Andrade",
         firstName: "Dominga",
-        middleName: "",
-        familyName: "",
+        middleName: "\"Minnie\"",
+        familyName: "Lopes",
         fileLetter: "",
         title: `Stitcher`,
         birthDate: "07.10.1904",
@@ -590,8 +590,8 @@ as a writer were recognized only after her death. The founding members, who incl
     U.S. Census records<Br>
     1941 & 1944 Cambridge City Directories
         `,
-        photos: [""],
-        photoTitles: [],
+        photos: ["images_bios/andrade.png"],
+        photoTitles: ["1940 U.S. Census for Cambridge showing Dominga as Presser at 41 Market St."],
         dateCreated: "prior to 2006",
         dateUpdated: "July 24, 2025",
 

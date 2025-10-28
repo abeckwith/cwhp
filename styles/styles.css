@@ -238,7 +238,7 @@ td > a {
         font-size: 13%;
     }
     img {
-        width: 20%;
+        width: 105px;
         height: auto;
     }
     .top-links {
@@ -379,6 +379,10 @@ a.search-buttons {
 .topnav .icon {
     display: none;
 }
+#bio-container{
+            margin: 2vw 13vw 2vw 6vw; 
+
+}
 
 @media screen and (max-width: 700px) {
     strong,
@@ -418,20 +422,27 @@ a.search-buttons {
     }
     #all-sources {
         color: red;
-        margin: 10vw 20vw;
+        margin: 2vw 4vw;
     }
-
+    .name-heading{
+        font-size:4%;
+    }
     #bio-container {
-        width: 60vw;
-        font-size: 15px;
-        /* margin: 2vh 5vw; */
+        width: 54vw;
+        font-size: 12px;
+        margin:5px;
     }
     a {
         font-size: 10px;
     }
 
     img {
-        width: 150px;
+        width: 105px;
+  
+    }
+    #bio{
+        margin:0px;
+        padding:0px;
     }
     .topnav a {
         display: none;
@@ -441,6 +452,7 @@ a.search-buttons {
     } */
     body {
         font-size: 18px;
+        margin-left:2px;
     }
     .topnav a.icon {
         float: left;
@@ -455,7 +467,9 @@ a.search-buttons {
     .topnav.responsive {
         position: relative;
     }
-
+    .right{
+        padding-right: 5px;
+    }
     .topnav.responsive .icon {
         position: absolute;
         display: none;

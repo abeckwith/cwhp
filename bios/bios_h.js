@@ -591,7 +591,7 @@ h_bios = [
         middleName: "Lilley",
         familyName: "",
         fileLetter: "",
-        title: `Architect; fellow, American Institute of Architects>`,
+        title: `Architect; fellow, American Institute of Architects`,
         birthDate: "09.25.1864",
         birthLocation: "Cambridge, Massachusetts",
         deathDate: "09.13.1964",
