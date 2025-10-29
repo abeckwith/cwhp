@@ -2414,13 +2414,13 @@ b_bios = [
     //         <a href="https://www.thecrimson.com/article/1978/7/18/elizabeth-butterfield-1913-1978-pbsbome/" target="_blank">https://www.thecrimson.com/article/1978/7/18/elizabeth-butterfield-1913-
     //         1978-pbsbome/</a>
     //     `,
-    //     photos: [""],
-    //     photoTitles: [],
+    //     photos: ["image_bios/brynmawr.JPG"],
+    //     photoTitles: ["Bryn Mawr Bookstore in Cambridge"],
     //     dateCreated: "October 26, 2025 ",
     //     dateUpdated: "",
 
     //     photoHeights: [],
-    //     authors: "Jan Gardner (author",
+    //     authors: "Jan Gardner (author)",
     //     categories: [""],
     // },
 ];
