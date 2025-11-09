@@ -8,7 +8,7 @@ s_bios = [
         fileLetter: "",
         title: `Factory worker, educator, counselor, community leader`,
         birthDate: "00.00.1948",
-        birthLocation: "",
+        birthLocation: "Chile",
         deathDate: "",
         deathLocation: "",
         narrative: `
@@ -138,9 +138,9 @@ s_bios = [
             the grounds of the main branch of the Cambridge Public Library. `,
         otherNotes: "",
         references: ` May Sarton, <em>I Knew a Phoenix</em>; <em>Plant
-                Dreaming Deep</em>; <em>A World of Light</em>. Constance Hunting <em>May Sarton:
-                Woman and Poet</em>. National Poetry Foundation, 1982; <em>Great Women Writers</em>.
-            Henry Holt, 1994; Cambridge Historical Commission files<Br>
+                Dreaming Deep</em>; <br><br><em>A World of Light</em>. Constance Hunting <em>May Sarton:
+                Woman and Poet</em><Br><br>National Poetry Foundation, 1982; <em>Great Women Writers</em>.
+            <Br><Br>Henry Holt, 1994; Cambridge Historical Commission files<Br><Br>
             Image source: <a href="https://en.wikipedia.org/wiki/May_Sarton" target="_blank">https://en.wikipedia.org/wiki/May_Sarton</a>
         `,
         photos: ["images_bios/May_Sarton.jpg"],
