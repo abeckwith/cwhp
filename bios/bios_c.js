@@ -62,11 +62,11 @@ c_bios = [
         `,
         photos: ["images_bios/neighborhood house on moore.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",dateUpdated:
+        dateCreated: "prior to 2009",dateUpdated:
  "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Social/Philanthropic Organization"],
     },
     {
@@ -106,11 +106,11 @@ c_bios = [
         `,
         photos: ["images_bios/cpea.png"],
         photoTitles: [],
-        dateCreated: "prior to 2006",dateUpdated:
+        dateCreated: "prior to 2009",dateUpdated:
  "",
 
         photoHeights: [215],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Suffragists/Suffrage Group"],
     },
     {
@@ -170,11 +170,11 @@ c_bios = [
         `,
         photos: ["images_bios/CSALA_195x250.jpeg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",dateUpdated:
+        dateCreated: "prior to 2009",dateUpdated:
  "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Educational Institution/School", "School/Institution"],
     },
     {
@@ -237,11 +237,11 @@ c_bios = [
         `,
         photos: ["images_bios/annie cannon.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",dateUpdated:
+        dateCreated: "prior to 2009",dateUpdated:
  "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Scientist", "Suffragists/Suffrage Group", "Astronomer"],
     },
     {
@@ -284,11 +284,11 @@ c_bios = [
         `,
         photos: ["images_bios/Cornelia_Cannon_in_~April_1948.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",dateUpdated:
+        dateCreated: "prior to 2009",dateUpdated:
  "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: [""],
     },
     {
@@ -338,11 +338,11 @@ c_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2006",dateUpdated:
+        dateCreated: "prior to 2009",dateUpdated:
  "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Social/Philanthropic Organization", "Women's Club"],
     },
     {
@@ -385,11 +385,11 @@ c_bios = [
         `,
         photos: ["images_bios/The_Second_Wave_First_Issue_Cover.png"],
         photoTitles: [],
-        dateCreated: "prior to 2006",dateUpdated:
+        dateCreated: "prior to 2009",dateUpdated:
  "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Feminist Organization"],
     },
     {
@@ -431,11 +431,11 @@ c_bios = [
         `,
         photos: ["images_bios/centro presente.png"],
         photoTitles: [],
-        dateCreated: "prior to 2006",dateUpdated:
+        dateCreated: "prior to 2009",dateUpdated:
  "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Social/Philanthropic Organization"],
     },
     {
@@ -490,11 +490,11 @@ c_bios = [
         `,
         photos: ["images_bios/jeanne chall.jpeg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",dateUpdated:
+        dateCreated: "prior to 2009",dateUpdated:
  "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Teacher/Educator", "Psychologist"],
     },
     {
@@ -539,11 +539,11 @@ c_bios = [
         `,
         photos: ["images_bios/joycechen.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",dateUpdated:
+        dateCreated: "prior to 2009",dateUpdated:
  "April 11, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Businesswoman", "Chef"],
     },
     {
@@ -597,11 +597,11 @@ c_bios = [
         `,
         photos: ["images_bios/Julia_Child_restore.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",dateUpdated:
+        dateCreated: "prior to 2009",dateUpdated:
  "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Chef"],
     },
     {
@@ -649,11 +649,11 @@ c_bios = [
         `,
         photos: ["images_bios/ccrc.png"],
         photoTitles: [],
-        dateCreated: "prior to 2006",dateUpdated:
+        dateCreated: "prior to 2009",dateUpdated:
  "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: [
             "Childcare Provider",
             "Business or Service Provider (Women-Owned, Feminist)",
@@ -696,7 +696,7 @@ c_bios = [
           "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: [
             "Business or Service Provider (Women-Owned, Feminist)",
         ],
@@ -740,11 +740,11 @@ c_bios = [
         `,
         photos: ["images_bios/clayground.png"],
         photoTitles: [],
-        dateCreated: "prior to 2006",dateUpdated:
+        dateCreated: "prior to 2009",dateUpdated:
  "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: [
             "Business or Service Provider (Women-Owned, Feminist)",
         ],
@@ -806,11 +806,11 @@ c_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2006",dateUpdated:
+        dateCreated: "prior to 2009",dateUpdated:
  "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Businesswoman"],
     },
     {
@@ -874,11 +874,11 @@ c_bios = [
         `,
         photos: ["images_bios/Ada-Comstock-1905.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",dateUpdated:
+        dateCreated: "prior to 2009",dateUpdated:
  "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Teacher/Educator"],
     },
     {
@@ -936,11 +936,11 @@ c_bios = [
         `,
         photos: ["images_bios/lucy cooke.webp"],
         photoTitles: [],
-        dateCreated: "prior to 2006",dateUpdated:
+        dateCreated: "prior to 2009",dateUpdated:
  "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Clairvoyant"],
     },
     {
@@ -989,11 +989,11 @@ c_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2006",dateUpdated:
+        dateCreated: "prior to 2009",dateUpdated:
  "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: [""],
     },
     {
@@ -1059,11 +1059,11 @@ c_bios = [
             "images_bios/Jane_Curtin_at_the_41st_Emmy_Awards_cropped_and_altered.jpg",
         ],
         photoTitles: [],
-        dateCreated: "prior to 2006",dateUpdated:
+        dateCreated: "prior to 2009",dateUpdated:
  "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Actress"],
     },
     {
@@ -1112,11 +1112,11 @@ Image source: <a href="https://en.wikipedia.org/wiki/Charlotte_Cushman" target="
         `,
         photos: ["images_bios/Charlotte_Cushman_(Sully,_1843).jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",dateUpdated:
+        dateCreated: "prior to 2009",dateUpdated:
  "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Actress"],
     },
 ];

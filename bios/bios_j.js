@@ -58,11 +58,11 @@ j_bios = [
         `,
         photos: ["images_bios/harriet_jacobs.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",dateUpdated:
+        dateCreated: "prior to 2009",dateUpdated:
  "April 5, 2025",
         
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: [
             "Reformer",
             "Suffragists/Suffrage Group",
@@ -136,11 +136,11 @@ j_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2006",dateUpdated:
+        dateCreated: "prior to 2009",dateUpdated:
  "",
         
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: [
             "Teacher/Educator",
             "Political Leader",
@@ -199,11 +199,11 @@ j_bios = [
         `,
         photos: ["images_bios/grace_johnson.png"],
         photoTitles: [],
-        dateCreated: "prior to 2006",dateUpdated:
+        dateCreated: "prior to 2009",dateUpdated:
  "April 8, 2025",
         
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: [
             "Activist",
             "Political Leader",
@@ -260,11 +260,11 @@ j_bios = [
         `,
         photos: ["images_bios/AlicePalache.png"],
         photoTitles: [],
-        dateCreated: "prior to 2006",dateUpdated:
+        dateCreated: "prior to 2009",dateUpdated:
  "",
         
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Businesswoman"],
     },
 ];

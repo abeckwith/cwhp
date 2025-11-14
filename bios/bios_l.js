@@ -55,11 +55,11 @@ l_bios = [
         `,
         photos: ["images_bios/Florence%20Ladd%20small.jpeg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Psychologist", "Teacher/Educator"],
     },
     {
@@ -97,11 +97,11 @@ l_bios = [
        <br> Image source: <a href="https://dougholder.blogspot.com/2012/01/linda-larson-poet-who-writes-what-she.html" target="_blank">https://dougholder.blogspot.com/2012/01/linda-larson-poet-who-writes-what-she.html</a>`,
         photos: ["images_bios/LindaLarson.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Writer", "Editor"],
     },
     {
@@ -140,7 +140,7 @@ l_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Childcare Provider"],
     },
     {
@@ -179,11 +179,11 @@ l_bios = [
         `,
         photos: ["images_bios/Henrietta_Swan_Leavitt.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Scientist", "Astronomer"],
     },
     {
@@ -222,7 +222,7 @@ l_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Feminist Organization"],
     },
     {
@@ -308,7 +308,7 @@ l_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Teacher/Educator"],
     },
     {
@@ -381,11 +381,11 @@ l_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Nurse", "Volunteers", "Community Leader"],
     },
     {
@@ -437,11 +437,11 @@ l_bios = [
         `,
         photos: ["images_bios/Alice_Longfellow.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Philanthropist", "Preservationist"],
     },
     {
@@ -492,11 +492,11 @@ l_bios = [
         `,
         photos: ["images_bios/maria_lowell.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: [
             "Abolitionist",
             "Poet",
@@ -551,11 +551,11 @@ l_bios = [
         `,
         photos: ["images_bios/Lois_Lowry.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Author"],
     },
     {
@@ -652,11 +652,11 @@ l_bios = [
         `,
         photos: ["images_bios/Florence%20Luscombe%201977%20small.jpeg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: [
             "Activist",
             "Suffragists/Suffrage Group",

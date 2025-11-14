@@ -28,11 +28,11 @@ w_bios = [
         `,
         photos: ["images_bios/mary_wadden.png"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "April 6, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Teacher/Educator"],
     },
     {
@@ -92,7 +92,7 @@ w_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Activist", "Teacher/Educator", "Volunteers"],
     },
     {
@@ -241,7 +241,7 @@ w_bios = [
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Activist", "Writer", "Editor"],
     },
     {
@@ -306,11 +306,11 @@ w_bios = [
         `,
         photos: ["images_bios/whitman_florence.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Political Leader"],
     },
     {
@@ -375,11 +375,11 @@ w_bios = [
         `,
         photos: ["images_bios/Anne_Whitney.jpg", "images_bios/whitneySumnerStatue.jpeg"],
         photoTitles: ["", "Whitney's Charles Sumner statue"],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "April 8, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Artist", "Poet"],
     },
     {
@@ -423,11 +423,11 @@ w_bios = [
         `,
         photos: ["images_bios/Toni%20Williams%20small.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "Dec. 14, 2014",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Factory Worker", "Volunteers"],
     },
     {
@@ -492,11 +492,11 @@ w_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Refugee", "Social/Philanthropic Organization"],
     },
     {
@@ -525,11 +525,11 @@ w_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Teacher/Educator"],
     },
     {
@@ -594,11 +594,11 @@ w_bios = [
         `,
         photos: ["images_bios/HANNAH_Winthrop.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "April 8, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: [
             "Community Leader",
             "Writer",
@@ -650,11 +650,11 @@ w_bios = [
         `,
         photos: ["images_bios/Ozeline__Wise.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "April 8, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Volunteers"],
     },
     {
@@ -703,11 +703,11 @@ w_bios = [
         `,
         photos: ["images_bios/wise.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Community Leader", "Political Leader"],
     },
     {
@@ -759,7 +759,7 @@ w_bios = [
         dateUpdated: "April 6, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Political Leader", "Refugee"],
     },
     {
@@ -805,11 +805,11 @@ w_bios = [
             Library; Central Square Women's Walking Tour.`,
         photos: ["images_bios/888MemDr.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: [
             "Educational Institution/School",
             "Feminist Organization",
@@ -862,11 +862,11 @@ w_bios = [
         `,
         photos: ["images_bios/womenscoffehouse.png"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "April 11, 2025",
 
         photoHeights: ["100"],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Feminist Organization"],
     },
     {
@@ -924,11 +924,11 @@ w_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: [
             "Business or Service Provider (Women-Owned, Feminist)",
         ],
@@ -979,11 +979,11 @@ w_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: [
             "Business or Service Provider (Women-Owned, Feminist)",
         ],
@@ -1023,11 +1023,11 @@ w_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: [
             "Educational Institution/School",
             "Feminist Organization",

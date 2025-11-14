@@ -93,7 +93,7 @@ function showRecents(num) {
             //             thename.birthDate +
             //             ")"
             //     );
-            if (thename.dateCreated != "prior to 2006") {
+            if (thename.dateCreated != "prior to 2009") {
                 //if something like Mar 2024:
 
                 //covers"Jan 2025" and "January 2, 2025":

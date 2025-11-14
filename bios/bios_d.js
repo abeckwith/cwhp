@@ -34,11 +34,11 @@ d_bios = [
         `,
         photos: ["images_bios/elizabeth_dana.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Historian/History Project"],
     },
     {
@@ -76,11 +76,11 @@ d_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Educational Institution/School"],
     },
     {
@@ -133,11 +133,11 @@ d_bios = [
         `,
         photos: ["images_bios/mabel daniels.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Musician"],
     },
     {
@@ -177,11 +177,11 @@ d_bios = [
         `,
         photos: ["images_bios/dantuono.png"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Dancer"],
     },
     {
@@ -214,11 +214,11 @@ d_bios = [
         `,
         photos: ["images_bios/darbeloff.png"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Businesswoman", "Community Leader"],
     },
     {
@@ -281,7 +281,7 @@ d_bios = [
         dateUpdated: "April 6, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Law Enforcement", "Military"],
     },
     {
@@ -322,11 +322,11 @@ d_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Feminist Organization"],
     },
     {
@@ -397,7 +397,7 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: [
             "Environmentalist",
             "Political Leader",
@@ -504,7 +504,7 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: [
             "Activist",
             "Musician",
@@ -559,11 +559,11 @@ d_bios = [
         `,
         photos: ["images_bios/Mary_A._Denison.png"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: [""],
     },
     {
@@ -622,7 +622,7 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Poet"],
     },
     {
@@ -678,11 +678,11 @@ d_bios = [
         `,
         photos: ["images_bios/Helene-Deutsch.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Psychiatrist", "Refugee"],
     },
     {
@@ -747,11 +747,11 @@ d_bios = [
         `,
         photos: ["images_bios/Dorothea%20Dix%20LOC.gif"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Teacher/Educator", "Reformer"],
     },
     {
@@ -801,7 +801,7 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: [""],
     },
     {
@@ -841,11 +841,11 @@ d_bios = [
         `,
         photos: ["images_bios/Cora_Du_Bois_(cropped).jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Scientist"],
     },
     {
@@ -914,7 +914,7 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: [
             "Activist",
             "Teacher/Educator",
@@ -973,11 +973,11 @@ d_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Businesswoman"],
     },
 ];

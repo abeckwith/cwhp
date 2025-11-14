@@ -21,7 +21,7 @@ i_bios = [
             Rev. Cyrus Peirce who was supported by his wife, Harriet Peirce. A model school
             for children was set up in Lexington and the young teachers took turns teaching
             in the school. They were examined at the end of their training by Horace Mann
-            ((then actively working for the initiation of teacher training schools and public
+            (then actively working for the initiation of teacher training schools and public
             school education in Massachusetts) and Samuel Gridley Howe who also attended
             their graduation ceremony. (Another member of this class was Hannah Damon of
             West Cambridge (now Arlington) the daughter of a Unitarian minister. She served
@@ -57,11 +57,11 @@ i_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "April 5, 2025",
         photoPos: [],
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Teacher/Educator"],
     },
 ];

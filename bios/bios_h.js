@@ -47,11 +47,11 @@ h_bios = [
         `,
         photos: ["images_bios/Isabella%20Halsted%20small.jpeg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Activist", "Author"],
     },
     {
@@ -97,11 +97,11 @@ h_bios = [
         `,
         photos: ["images_bios/Alice_Hamilton.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Doctor"],
     },
     {
@@ -139,11 +139,11 @@ h_bios = [
         `,
         photos: ["images_bios/Margaret_Hamilton_1995.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Businesswoman"],
     },
     {
@@ -179,11 +179,11 @@ h_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Community Leader", "Factory Worker"],
     },
     {
@@ -232,11 +232,11 @@ h_bios = [
         `,
         photos: ["images_bios/Sophia_Bennett.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Architect"],
     },
     {
@@ -315,7 +315,7 @@ h_bios = [
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Teacher/Educator", "Psychiatrist"],
     },
     {
@@ -367,11 +367,11 @@ h_bios = [
                 `,
         photos: ["images_bios/suzanne_hiatt2.jpg", "images_bios/suzanne_hiatt.png"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "Aril 8, 2025",
 
         photoHeights: [200, 300],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Clergy", "Teacher/Educator"],
     },
     {
@@ -422,11 +422,11 @@ h_bios = [
         `,
         photos: ["images_bios/agnes_hocking.jpeg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Teacher/Educator", "Editor"],
     },
     {
@@ -474,11 +474,11 @@ h_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Acquitted of Witchcraft"],
     },
     {
@@ -522,11 +522,11 @@ h_bios = [
         `,
         photos: ["images_bios/Pauline_Elizabeth_Hopkins.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Writer"],
     },
     {
@@ -577,11 +577,11 @@ h_bios = [
         `,
         photos: ["images_bios/Cornelia_Horsford.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Author"],
     },
     {
@@ -719,11 +719,11 @@ h_bios = [
         `,
         photos: ["images_bios/howe.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Architect"],
     },
     {
@@ -861,11 +861,11 @@ h_bios = [
         `,
         photos: ["images_bios/Ruth_Wald.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Activist", "Refugee", "Scientist"],
     },
     {
@@ -912,11 +912,11 @@ h_bios = [
         `,
         photos: ["images_bios/Anna_Vaughn_Hyatt.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Artist"],
     },
     {
@@ -1014,11 +1014,11 @@ Born in Boston in 1886, Marjorie Hurd
         `,
         photos: ["images_bios/Hurd.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Sportswoman", "Volunteers"],
     },
 ];

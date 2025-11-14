@@ -46,7 +46,7 @@ p_bios = [
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Community Leader"],
     },
     {
@@ -96,11 +96,11 @@ p_bios = [
         `,
         photos: ["images_bios/emily_Parsons.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Community Leader", "Nurse"],
     },
     {
@@ -157,11 +157,11 @@ p_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Activist"],
     },
     {
@@ -216,11 +216,11 @@ p_bios = [
         `,
         photos: ["images_bios/Cecilia_Gaposchkin.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Scientist"],
     },
     {
@@ -281,11 +281,11 @@ p_bios = [
         `,
         photos: ["images_bios/peirce.png"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Reformer", "Author"],
     },
     {
@@ -334,11 +334,11 @@ p_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "Apirl 12, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Physical Therapist ", "Volunteers"],
     },
 ];

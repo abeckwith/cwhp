@@ -71,11 +71,11 @@ r_bios = [
         `,
         photos: ["images_bios/reys.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",dateUpdated:
+        dateCreated: "prior to 2009",dateUpdated:
  "April 7, 2025",
         
         photoHeights: [225],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Author"],
     },
     {
@@ -123,11 +123,11 @@ r_bios = [
         `,
         photos: ["images_bios/Ellen_Swallow_Richards.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",dateUpdated:
+        dateCreated: "prior to 2009",dateUpdated:
  "April 7, 2025",
         
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Teacher/Educator", "Scientist"],
     },
     {
@@ -172,11 +172,11 @@ r_bios = [
         `,
         photos: ["images_bios/anne_roe.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",dateUpdated:
+        dateCreated: "prior to 2009",dateUpdated:
  "April 7, 2025",
         
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Teacher/Educator", "Psychologist"],
     },
     {
@@ -248,11 +248,11 @@ r_bios = [
         `,
         photos: ["images_bios/Anne%20Roorbach%20small.jpeg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",dateUpdated:
+        dateCreated: "prior to 2009",dateUpdated:
  "",
         
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Activist", "Teacher/Educator", "Reformer"],
     },
     {
@@ -299,11 +299,11 @@ r_bios = [
         `,
         photos: ["images_bios/rubinow.webp"],
         photoTitles: [],
-        dateCreated: "prior to 2006",dateUpdated:
+        dateCreated: "prior to 2009",dateUpdated:
  "April 7, 2025",
 photoPos:[],
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Activist", "Writer", "Editor"],
         
     },

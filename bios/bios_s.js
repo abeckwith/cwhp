@@ -53,11 +53,11 @@ s_bios = [
         `,
         photos: ["images_bios/Saavedra.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "April 11, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Community Leader", "Teacher/Educator"],
     },
     {
@@ -145,11 +145,11 @@ s_bios = [
         `,
         photos: ["images_bios/May_Sarton.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Refugee", "Poet", "Author"],
     },
     {
@@ -187,11 +187,11 @@ s_bios = [
         photos: ["images_bios/Marian_Schlesinger.jpg"],
        
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Artist", "Author"],
     },
     {
@@ -239,11 +239,11 @@ s_bios = [
         `,
         photos: ["images_bios/MaryRoseShea.jpg"],
         photoTitles: ["Photo Courtesy of the Shea Family"],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: [""],
     },
     {
@@ -338,7 +338,7 @@ s_bios = [
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: [
             "Community Leader",
             "Historian/History Project",
@@ -397,11 +397,11 @@ s_bios = [
            `,
         photos: ["images_bios/Alice_Kimball_Smith.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "April 11, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Author"],
     },
     {
@@ -452,11 +452,11 @@ s_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Writer", "Architect"],
     },
 ];

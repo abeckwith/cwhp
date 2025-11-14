@@ -52,11 +52,11 @@ t_bios = [
        <Br> Image source: <a href="https://en.wikipedia.org/wiki/Helen_B._Taussig" target="_blank">https://en.wikipedia.org/wiki/Helen_B._Taussig </a>       `,
         photos: ["images_bios/Helen_Taussig.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Doctor", "Author"],
     },
     {
@@ -114,11 +114,11 @@ t_bios = [
         `,
         photos: ["images_bios/katharine_taylor.jpeg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Teacher/Educator"],
     },
     {
@@ -174,11 +174,11 @@ t_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: [
             "Historian/History Project",
             "Scientist", "Editor",
@@ -230,11 +230,11 @@ t_bios = [
         `,
         photos: ["images_bios/Mary_Crutchfield_Thompson.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "April 8, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Dentist"],
     },
     {
@@ -285,11 +285,11 @@ t_bios = [
         `,
         photos: ["images_bios/Ruth_Turner.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Scientist"],
     },
 ];

@@ -32,11 +32,11 @@ g_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Musician"],
     },
     {
@@ -92,11 +92,11 @@ g_bios = [
         `,
         photos: ["images_bios/gilman.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: [""],
     },
     {
@@ -164,11 +164,11 @@ g_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Educational Institution/School", "School/Institution"],
     },
     {
@@ -241,11 +241,11 @@ g_bios = [
         `,
         photos: ["images_bios/louise_gluck.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Poet", "Author"],
     },
     {
@@ -322,7 +322,7 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: [
             "Photographer",
             "Poet",
@@ -392,11 +392,11 @@ g_bios = [
         `,
         photos: ["images_bios/Alice_Bache_Gould.png"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: [
             "Teacher/Educator",
             "Historian/History Project",
@@ -481,11 +481,11 @@ g_bios = [
         `,
         photos: ["images_bios/Saundra_Graham.png"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Activist", "Political Leader"],
     },
     {
@@ -566,7 +566,7 @@ g_bios = [
         dateUpdated: "April 8, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Activist", "Teacher/Educator"],
     },
     {
@@ -657,7 +657,7 @@ g_bios = [
         dateUpdated: "April 8, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Teacher/Educator", "Historian/History Project"],
     },
     {
@@ -690,11 +690,11 @@ g_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: [
             "Business or Service Provider (Women-Owned, Feminist)",
         ],

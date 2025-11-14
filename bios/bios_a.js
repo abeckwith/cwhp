@@ -80,7 +80,7 @@ a_bios = [
         `,
         photos: ["images_bios/Portrait_of_Eleanor_Hallowell_Abbott.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "July 9, 2025",
 
         photoHeights: [],
@@ -139,11 +139,11 @@ a_bios = [
         `,
         photos: ["images_bios/Mary_Manning_(writer).jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Author"],
     },
     {
@@ -183,11 +183,11 @@ a_bios = [
         `,
         photos: ["images_bios/Hannah_Adams_portrait.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Author"],
     },
     {
@@ -246,11 +246,11 @@ a_bios = [
         `,
         photos: ["images_bios/eliabeth cabot aggasiz.jpeg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "July 15, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Teacher/Educator"],
     },
     {
@@ -289,11 +289,11 @@ a_bios = [
         `,
         photos: ["images_bios/carol albright.jpeg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: [
             "Historian/History Project",
             "Writer", "Editor"
@@ -333,11 +333,11 @@ a_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Community Leader"],
     },
     {
@@ -372,11 +372,11 @@ a_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Author"],
     },
     {
@@ -426,11 +426,11 @@ as a writer were recognized only after her death. The founding members, who incl
     `,
         photos: ["images_bios/alice james books.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: [""],
     },
 
@@ -466,11 +466,11 @@ as a writer were recognized only after her death. The founding members, who incl
         `,
         photos: ["images_bios/corinne woodson alleyne.png"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Nurse"],
     },
     {
@@ -505,11 +505,11 @@ as a writer were recognized only after her death. The founding members, who incl
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Activist"],
     },
     {
@@ -550,11 +550,11 @@ as a writer were recognized only after her death. The founding members, who incl
         `,
         photos: ["images_bios/rosalie anders.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Activist"],
     },
     {
@@ -592,11 +592,11 @@ as a writer were recognized only after her death. The founding members, who incl
         `,
         photos: ["images_bios/andrade.png"],
         photoTitles: ["1940 U.S. Census for Cambridge showing Dominga as Presser at 41 Market St."],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "July 24, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Factory Worker"],
     },
     {
@@ -652,7 +652,7 @@ as a writer were recognized only after her death. The founding members, who incl
         `,
         photos: ["images_bios/constance applebee.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "July 27, 2025",
 
         photoHeights: [],
@@ -701,11 +701,11 @@ as a writer were recognized only after her death. The founding members, who incl
         `,
         photos: ["images_bios/linda archer.png"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: [""],
     },
     {
@@ -782,7 +782,7 @@ as a writer were recognized only after her death. The founding members, who incl
         dateUpdated: "April 6, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Community Leader", "Scientist"],
     },
     {
@@ -827,11 +827,11 @@ as a writer were recognized only after her death. The founding members, who incl
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Community Leader"],
     },
     {
@@ -865,11 +865,11 @@ as a writer were recognized only after her death. The founding members, who incl
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Activist"],
     },
     {
@@ -900,11 +900,11 @@ as a writer were recognized only after her death. The founding members, who incl
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Volunteers"],
     },
 ];

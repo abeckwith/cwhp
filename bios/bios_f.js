@@ -54,7 +54,7 @@ f_bios = [
  "",
         photoPos: [],
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Activist", "Teacher/Educator"],
     },
     {
@@ -104,11 +104,11 @@ f_bios = [
   `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2006",dateUpdated:
+        dateCreated: "prior to 2009",dateUpdated:
  "",
         photoPos: [],
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: [
             "Business or Service Provider (Women-Owned, Feminist)",
         ],
@@ -171,11 +171,11 @@ f_bios = [
       <a href="https://woodsholemuseum.org/WHHWomen/GladysFriedler.html" target="_blank">https://woodsholemuseum.org/WHHWomen/GladysFriedler.html</a>`,
         photos: ["images_bios/Friedler_Gaby.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",dateUpdated:
+        dateCreated: "prior to 2009",dateUpdated:
  "April 11, 205",
         photoPos: [],
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Scientist"],
     },
     {
@@ -219,11 +219,11 @@ f_bios = [
     Nomination by Robin Hein. Cambridge newspapers.`,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2006",dateUpdated:
+        dateCreated: "prior to 2009",dateUpdated:
  "",
         photoPos: [],
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Artist"],
     },
     {
@@ -292,11 +292,11 @@ In
   `,
         photos: ["images_bios/margaret_fuller.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",dateUpdated:
+        dateCreated: "prior to 2009",dateUpdated:
  "",
         photoPos: [],
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: [
             "Social/Philanthropic Organization",
             "Author",

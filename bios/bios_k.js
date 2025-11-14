@@ -54,10 +54,10 @@ k_bios = [
         `,
         photos: ["images_bios/phebe_mitchell.png"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "April 6, 2025",
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: [
             "Political Leader",
             "Writer",
@@ -119,11 +119,11 @@ k_bios = [
         `,
         photos: ["images_bios/Vera_K.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Scientist"],
     },
 ];

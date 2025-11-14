@@ -86,7 +86,7 @@ m_bios = [
         dateUpdated: "July 16, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Nurse", "Military"],
     },
     {
@@ -138,7 +138,7 @@ m_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Historian/History Project"],
     },
     {
@@ -187,11 +187,11 @@ m_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Community Leader", "Political Leader"],
     },
     {
@@ -252,7 +252,7 @@ m_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Activist", "Scientist"],
     },
     {
@@ -303,11 +303,11 @@ m_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Scientist", "Writer"],
     },
     {
@@ -361,7 +361,7 @@ m_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: [
             "Business or Service Provider (Women-Owned, Feminist)",
         ],
@@ -440,11 +440,11 @@ m_bios = [
             improve radar,&#8221; <em>The Boston Globe</em>, May25, 2004.`,
         photos: ["images_bios/Genevieve%20McGlinchey%20Mathison%20small.jpeg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Activist", "Teacher/Educator", "Scientist"],
     },
     {
@@ -583,11 +583,11 @@ m_bios = [
         `,
         photos: ["images_bios/Estelle_Merrill.png"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: [
             "Community Leader",
             "Teacher/Educator",
@@ -645,11 +645,11 @@ m_bios = [
         `,
         photos: ["images_bios/AgnesMongan.png"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Historian/History Project"],
     },
     {
@@ -705,11 +705,11 @@ m_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Doctor"],
     },
     {
@@ -772,11 +772,11 @@ m_bios = [
                 `,
         photos: ["images_bios/MaudCabot.png"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Artist", "Teacher/Educator"],
     },
     {
@@ -863,11 +863,11 @@ m_bios = [
         `,
         photos: ["images_bios/kay_morrison.png"],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "April 15, 2025",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Businesswoman"],
     },
     {
@@ -907,11 +907,11 @@ m_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2006",
+        dateCreated: "prior to 2009",
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: [
             "Artist",
             "Teacher/Educator",
@@ -1085,7 +1085,7 @@ m_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: ["Clerk", "Law Enforcement"],
     },
 ];

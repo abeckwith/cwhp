@@ -47,11 +47,11 @@ n_bios = [
         `,
         photos: ["images_bios/new_words.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2006",dateUpdated:
+        dateCreated: "prior to 2009",dateUpdated:
  "April 12, 2025",
 photoPos:[],
         photoHeights: ["150"],
-        authors: "",
+        authors: "A Cambridge Women's Heritage Project volunteer",
         categories: [
             "Business or Service Provider (Women-Owned, Feminist)",
         ],
