@@ -5,7 +5,7 @@ o_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Collaborative Center Using Oral History To Build Community<Br>1980 - 1992`,
         birthDate: "",
         birthLocation: "",
@@ -60,7 +60,7 @@ o_bios = [
  "",
         
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Historian/History Project"],
     },
 
@@ -70,7 +70,7 @@ o_bios = [
         firstName: "Caroline",
         middleName: "Frances",
         familyName: "",
-        fileLetter: "",
+        
         title: `Poet, author, first Cambridge librarian`,
         birthDate: "09.05.1818",
         birthLocation: "Cambridge, Massachusetts",
@@ -122,7 +122,7 @@ o_bios = [
  "April 12, 2025",
         
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Librarian", "Poet", "Author"],
     },
 ];

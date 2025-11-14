@@ -5,7 +5,7 @@ f_bios = [
         firstName: "Susan",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Executive Director of Cambridge Community Television (CCTV); photographer`,
         birthDate: "00.00.1955",
         birthLocation: "",
@@ -54,7 +54,7 @@ f_bios = [
  "",
         photoPos: [],
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Activist", "Teacher/Educator"],
     },
     {
@@ -63,7 +63,7 @@ f_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Feminist Therapy Collective at 186 and 186 1/2 Hampshire Street<br>1973-2013`,
         birthDate: "",
         birthLocation: "",
@@ -108,7 +108,7 @@ f_bios = [
  "",
         photoPos: [],
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: [
             "Business or Service Provider (Women-Owned, Feminist)",
         ],
@@ -119,7 +119,7 @@ f_bios = [
         firstName: "Gladys",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Developmental pharmacologist`,
         birthDate: "00.00.1926",
         birthLocation: "Lewiston, Maine",
@@ -175,7 +175,7 @@ f_bios = [
  "April 11, 205",
         photoPos: [],
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Scientist"],
     },
     {
@@ -184,7 +184,7 @@ f_bios = [
         firstName: "Mary",
         middleName: "Hamilton",
         familyName: "",
-        fileLetter: "",
+        
         title: `Artist`,
         birthDate: "04.18.1890",
         birthLocation: "Salem, Massachusetts",
@@ -223,7 +223,7 @@ f_bios = [
  "",
         photoPos: [],
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Artist"],
     },
     {
@@ -232,7 +232,7 @@ f_bios = [
         firstName: "Margaret",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `aka Sarah Margaret Fuller, Marchesa Margaret F. Ossoli<br>Author, Editor, Feminist, Transcendentalist`,
         birthDate: "05.23.1810",
         birthLocation: "Cambridgeport, Cambridge, Massachusetts",
@@ -296,7 +296,7 @@ In
  "",
         photoPos: [],
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: [
             "Social/Philanthropic Organization",
             "Author",

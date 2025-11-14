@@ -5,7 +5,7 @@ a_bios = [
         firstName: "Barbara",
         middleName: "",
         familyName: "Hulley",
-        fileLetter: "",
+        
         title: `First woman mayor of Cambridge`,
         birthDate: "03.01.1925",
         birthLocation: "Stockholm, Sweden",
@@ -52,7 +52,7 @@ a_bios = [
         firstName: "Eleanor",
         middleName: "Hallowell",
         familyName: "",
-        fileLetter: "",
+        
         title: `Writer`,
         birthDate: "00.00.1872",
         birthLocation: "Cambridge",
@@ -94,7 +94,7 @@ a_bios = [
         firstName: "Mary",
         middleName: "Howe",
         familyName: "Manning",
-        fileLetter: "",
+        
         title: `Novelist and Playwright`,
         birthDate: "00.00.1905",
         birthLocation: "Dublin, Ireland",
@@ -143,7 +143,7 @@ a_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Author"],
     },
     {
@@ -152,7 +152,7 @@ a_bios = [
         firstName: "Hannah",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Author`,
         birthDate: "10.01.1755",
         birthLocation: "Medfield, Massachusetts",
@@ -187,7 +187,7 @@ a_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Author"],
     },
     {
@@ -196,7 +196,7 @@ a_bios = [
         firstName: "Elizabeth",
         middleName: "Cabot",
         familyName: "Cary",
-        fileLetter: "",
+        
         title: `First President of Radcliffe College, educator, science writer`,
         birthDate: "12.05.1822",
         birthLocation: "Boston, Massachusetts",
@@ -250,7 +250,7 @@ a_bios = [
         dateUpdated: "July 15, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Teacher/Educator"],
     },
     {
@@ -259,7 +259,7 @@ a_bios = [
         firstName: "Carol",
         middleName: "",
         familyName: "Bonomo",
-        fileLetter: "",
+        
         title: `American Historian, Editor`,
         birthDate: "00.00.1938",
         birthLocation: "",
@@ -293,7 +293,7 @@ a_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: [
             "Historian/History Project",
             "Writer", "Editor"
@@ -305,7 +305,7 @@ a_bios = [
         firstName: "Elizabeth",
         middleName: "Cannon",
         familyName: "",
-        fileLetter: "",
+        
         title: `Community leader`,
         birthDate: "00.00.1920",
         birthLocation: "",
@@ -337,7 +337,7 @@ a_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Community Leader"],
     },
     {
@@ -346,7 +346,7 @@ a_bios = [
         firstName: "Elizabeth",
         middleName: "",
         familyName: "Perkins",
-        fileLetter: "",
+        
         title: `Writer and editor`,
         birthDate: "ca.1907",
         birthLocation: "Cambridge, Massachusetts",
@@ -376,7 +376,7 @@ a_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Author"],
     },
     {
@@ -385,7 +385,7 @@ a_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Non-profit cooperative poetry press<br>(founded 1973 in Cambridge, Mass. affiliated with the University of Farmington 1996-2021)`,
         birthDate: "",
         birthLocation: "",
@@ -430,7 +430,7 @@ as a writer were recognized only after her death. The founding members, who incl
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: [""],
     },
 
@@ -440,7 +440,7 @@ as a writer were recognized only after her death. The founding members, who incl
         firstName: "Corinne",
         middleName: "Woodson",
         familyName: "",
-        fileLetter: "",
+        
         title: `Registered Nurse and Oral Historian`,
         birthDate: "00.00.1907",
         birthLocation: "Cambridge, Massachusetts",
@@ -470,7 +470,7 @@ as a writer were recognized only after her death. The founding members, who incl
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Nurse"],
     },
     {
@@ -479,7 +479,7 @@ as a writer were recognized only after her death. The founding members, who incl
         firstName: "Ellen",
         middleName: "M.",
         familyName: "",
-        fileLetter: "",
+        
         title: `Activist`,
         birthDate: "",
         birthLocation: "",
@@ -509,7 +509,7 @@ as a writer were recognized only after her death. The founding members, who incl
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Activist"],
     },
     {
@@ -518,7 +518,7 @@ as a writer were recognized only after her death. The founding members, who incl
         firstName: "Rosalie",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Activist, social worker, Cambridge project coordinator`,
         birthDate: "1943",
         birthLocation: "Boston, Massachusetts",
@@ -554,7 +554,7 @@ as a writer were recognized only after her death. The founding members, who incl
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Activist"],
     },
     {
@@ -563,7 +563,7 @@ as a writer were recognized only after her death. The founding members, who incl
         firstName: "Dominga",
         middleName: "\"Minnie\"",
         familyName: "Lopes",
-        fileLetter: "",
+        
         title: `Stitcher`,
         birthDate: "07.10.1904",
         birthLocation: "New Bedford, Massachusetts",
@@ -596,7 +596,7 @@ as a writer were recognized only after her death. The founding members, who incl
         dateUpdated: "July 24, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Factory Worker"],
     },
     {
@@ -605,7 +605,7 @@ as a writer were recognized only after her death. The founding members, who incl
         firstName: "Constance",
         middleName: "M. K.",
         familyName: "",
-        fileLetter: "",
+        
         title: `Physical education teacher, introduced Women's Field Hockey to US`,
         birthDate: "02.23.1873",
         birthLocation: "Chigwell, England",
@@ -665,7 +665,7 @@ as a writer were recognized only after her death. The founding members, who incl
         firstName: "Linda",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Cambridge resident`,
         birthDate: "ca.1951",
         birthLocation: "",
@@ -705,7 +705,7 @@ as a writer were recognized only after her death. The founding members, who incl
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: [""],
     },
     {
@@ -714,7 +714,7 @@ as a writer were recognized only after her death. The founding members, who incl
         firstName: "Rita",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Biologist; Co-founder of New Words bookstore and Women's Community Cancer
                             Project`,
         birthDate: "09.09.1934",
@@ -782,7 +782,7 @@ as a writer were recognized only after her death. The founding members, who incl
         dateUpdated: "April 6, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Community Leader", "Scientist"],
     },
     {
@@ -791,7 +791,7 @@ as a writer were recognized only after her death. The founding members, who incl
         firstName: "Seble",
         middleName: "W.",
         familyName: "",
-        fileLetter: "",
+        
         title: `Founder and head of Ethiopian Adbar Women's Alliance.`,
         birthDate: "",
         birthLocation: "Ethiopia",
@@ -831,7 +831,7 @@ as a writer were recognized only after her death. The founding members, who incl
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Community Leader"],
     },
     {
@@ -840,7 +840,7 @@ as a writer were recognized only after her death. The founding members, who incl
         firstName: "Josie",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Social Activist`,
         birthDate: "",
         birthLocation: "",
@@ -869,7 +869,7 @@ as a writer were recognized only after her death. The founding members, who incl
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Activist"],
     },
     {
@@ -878,7 +878,7 @@ as a writer were recognized only after her death. The founding members, who incl
         firstName: "Louise",
         middleName: "A.",
         familyName: "",
-        fileLetter: "",
+        
         title: `Nursing home volunteer`,
         birthDate: "03.01.1959",
         birthLocation: "Cambridge, Massachusetts",
@@ -904,7 +904,7 @@ as a writer were recognized only after her death. The founding members, who incl
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Volunteers"],
     },
 ];

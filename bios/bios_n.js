@@ -5,7 +5,7 @@ n_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Feminist center; bookstore<br>
     Founded 2002.  Formerly the New Words Bookstore (1974-2002)`,
         birthDate: "",
@@ -51,7 +51,7 @@ n_bios = [
  "April 12, 2025",
 photoPos:[],
         photoHeights: ["150"],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: [
             "Business or Service Provider (Women-Owned, Feminist)",
         ],

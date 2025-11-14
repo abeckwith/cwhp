@@ -5,7 +5,7 @@ t_bios = [
         firstName: "Helen",
         middleName: "Brooke",
         familyName: "",
-        fileLetter: "",
+        
         title: `Pediatric cardiologist`,
         birthDate: "05.24.1898",
         birthLocation: "Cambridge, Massachusetts",
@@ -56,7 +56,7 @@ t_bios = [
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Doctor", "Author"],
     },
     {
@@ -65,7 +65,7 @@ t_bios = [
         firstName: "Katharine",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Educator, Director of the Shady Hill School 1921-1949`,
         birthDate: "06.24.1888",
         birthLocation: "Hartford, Connecticut",
@@ -118,7 +118,7 @@ t_bios = [
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Teacher/Educator"],
     },
     {
@@ -127,7 +127,7 @@ t_bios = [
         firstName: "Helen",
         middleName: "Meriwether",
         familyName: "Lewis",
-        fileLetter: "",
+        
         title: `Historian of science, astronomer, engineer, editor`,
         birthDate: "08.21.1905",
         birthLocation: "New York, New York",
@@ -178,7 +178,7 @@ t_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: [
             "Historian/History Project",
             "Scientist", "Editor",
@@ -190,7 +190,7 @@ t_bios = [
         firstName: "Mary",
         middleName: "Crutchfield",
         familyName: "",
-        fileLetter: "",
+        
         title: `Dentist`,
         birthDate: "00.00.1902",
         birthLocation: "North Carolina",
@@ -234,7 +234,7 @@ t_bios = [
         dateUpdated: "April 8, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Dentist"],
     },
     {
@@ -243,7 +243,7 @@ t_bios = [
         firstName: "Ruth",
         middleName: "Dixon",
         familyName: "",
-        fileLetter: "",
+        
         title: `Biologist, malacologist`,
         birthDate: "00.00.1914",
         birthLocation: "",
@@ -289,7 +289,7 @@ t_bios = [
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Scientist"],
     },
 ];

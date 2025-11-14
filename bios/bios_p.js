@@ -5,7 +5,7 @@ p_bios = [
         firstName: "Megan",
         middleName: "Lynn",
         familyName: "Gaffney",
-        fileLetter: "",
+        
         title: `Campus leader, Advocate for women's issues`,
         birthDate: "ca.1979",
         birthLocation: "",
@@ -46,7 +46,7 @@ p_bios = [
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Community Leader"],
     },
     {
@@ -55,7 +55,7 @@ p_bios = [
         firstName: "Emily",
         middleName: "Elizabeth",
         familyName: "",
-        fileLetter: "",
+        
         title: `Civil war nurse, hospital founder`,
         birthDate: "03.08.1824",
         birthLocation: "Taunton, Massachusetts",
@@ -100,7 +100,7 @@ p_bios = [
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Community Leader", "Nurse"],
     },
     {
@@ -109,7 +109,7 @@ p_bios = [
         firstName: "Yvonne",
         middleName: "",
         familyName: "Blumenthal",
-        fileLetter: "",
+        
         title: `Social activist`,
         birthDate: "ca.1913",
         birthLocation: "New York, New York",
@@ -161,7 +161,7 @@ p_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Activist"],
     },
     {
@@ -170,7 +170,7 @@ p_bios = [
         firstName: "Cecilia",
         middleName: "Helena",
         familyName: "",
-        fileLetter: "",
+        
         title: `Astronomer`,
         birthDate: "05.10.1900",
         birthLocation: "Windover, Buckinghamshire, England",
@@ -220,7 +220,7 @@ p_bios = [
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Scientist"],
     },
     {
@@ -229,7 +229,7 @@ p_bios = [
         firstName: "Melusina",
         middleName: "",
         familyName: "Fay",
-        fileLetter: "",
+        
         title: `Social scientist, writer, feminist`,
         birthDate: "00.00.1836",
         birthLocation: "Burlington, Vermont",
@@ -285,7 +285,7 @@ p_bios = [
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Reformer", "Author"],
     },
     {
@@ -294,7 +294,7 @@ p_bios = [
         firstName: "Sylvia",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Physical therapist. Community advocate and volunteer`,
         birthDate: "03.08.1925",
         birthLocation: "Cambridge, Massachusetts",
@@ -338,7 +338,7 @@ p_bios = [
         dateUpdated: "Apirl 12, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Physical Therapist ", "Volunteers"],
     },
 ];

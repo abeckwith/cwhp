@@ -5,7 +5,7 @@ s_bios = [
         firstName: "Sylvia",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Factory worker, educator, counselor, community leader`,
         birthDate: "00.00.1948",
         birthLocation: "Chile",
@@ -57,7 +57,7 @@ s_bios = [
         dateUpdated: "April 11, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Community Leader", "Teacher/Educator"],
     },
     {
@@ -66,7 +66,7 @@ s_bios = [
         firstName: "May",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Poet and novelist<Br>aka Eleanore Marie Sarton`,
         birthDate: "05.03.1912",
         birthLocation: "Wondelgem, Belgium",
@@ -149,7 +149,7 @@ s_bios = [
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Refugee", "Poet", "Author"],
     },
     {
@@ -158,7 +158,7 @@ s_bios = [
         firstName: "Marian",
         middleName: "",
         familyName: "Cannon",
-        fileLetter: "",
+        
         title: `Writer, artist`,
         birthDate: "09.13.1913",
         birthLocation: "Cambridge, Massachusetts",
@@ -191,7 +191,7 @@ s_bios = [
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Artist", "Author"],
     },
     {
@@ -200,7 +200,7 @@ s_bios = [
         firstName: "Mary",
         middleName: "Rose",
         familyName: "Merlesena",
-        fileLetter: "",
+        
         title: `Activist; Childcare provider`,
         birthDate: "c.1925",
         birthLocation: "",
@@ -243,7 +243,7 @@ s_bios = [
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: [""],
     },
     {
@@ -252,7 +252,7 @@ s_bios = [
         firstName: "E.",
         middleName: "Denise",
         familyName: "",
-        fileLetter: "",
+        
         title: `Business Owner<br>
                 City Councilor, Former Mayor and School Committee Member, City of Cambridge <br>
                 First African American Woman Mayor in Massachusetts`,
@@ -338,7 +338,7 @@ s_bios = [
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: [
             "Community Leader",
             "Historian/History Project",
@@ -351,7 +351,7 @@ s_bios = [
         firstName: "Alice",
         middleName: "Marchant",
         familyName: "Kimball",
-        fileLetter: "",
+        
         title: `Historian, Editor, Administrator`,
         birthDate: "00.00.1908",
         birthLocation: "Oak Park, Illinois",
@@ -401,7 +401,7 @@ s_bios = [
         dateUpdated: "April 11, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Author"],
     },
     {
@@ -410,7 +410,7 @@ s_bios = [
         firstName: "Joan",
         middleName: "",
         familyName: "Forrester",
-        fileLetter: "",
+        
         title: `Feminist, Architect`,
         birthDate: "00.00.1935",
         birthLocation: "",
@@ -456,7 +456,7 @@ s_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Writer", "Architect"],
     },
 ];

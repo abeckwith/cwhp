@@ -5,7 +5,7 @@ v_bios = [
         firstName: "Julia",
         middleName: "Sylvia",
         familyName: "",
-        fileLetter: "",
+        
         title: `Activist for the Latino community`,
         birthDate: "11.17.1899",
         birthLocation: "Chile",
@@ -40,7 +40,7 @@ v_bios = [
  "April 6, 2025",
         
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Activist"],
     },
     {
@@ -49,7 +49,7 @@ v_bios = [
         firstName: "Flavia",
         middleName: "Steiner",
         familyName: "",
-        fileLetter: "",
+        
         title: `Educator, actress, singer`,
         birthDate: "",
         birthLocation: "Buenos Aires, Argentina",
@@ -96,7 +96,7 @@ v_bios = [
  "April 12, 2025",
         
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Actress", "Teacher/Educator", "Musician"],
     },
 ];

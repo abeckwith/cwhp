@@ -5,7 +5,7 @@ z_bios = [
         firstName: "Dolores",
         middleName: "M.",
         familyName: "Totsi",
-        fileLetter: "",
+        
         title: `Community Director`,
         birthDate: "",
         birthLocation: "Cambridge, Massachusetts",
@@ -50,7 +50,7 @@ World Guard International: <a href="https://www.wgi.org/about-wgi/what-is-wgi/ha
         dateUpdated: "July 11, 2025",
         photoPos: [],
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Community Director"],
     },
 ]

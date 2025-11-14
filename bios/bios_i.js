@@ -5,7 +5,7 @@ i_bios = [
         firstName: "Adeline",
         middleName: "M.",
         familyName: "",
-        fileLetter: "",
+        
         title: `Cambridge schoolteacher; Member of first class of first teacher-training
                 school`,
         birthDate: "06.07.1823",
@@ -61,7 +61,7 @@ i_bios = [
         dateUpdated: "April 5, 2025",
         photoPos: [],
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Teacher/Educator"],
     },
 ];

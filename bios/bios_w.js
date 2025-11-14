@@ -5,7 +5,7 @@ w_bios = [
         firstName: "Mary",
         middleName: "F.",
         familyName: "",
-        fileLetter: "",
+        
         title: `Teacher`,
         birthDate: "10.24.1924",
         birthLocation: "",
@@ -32,7 +32,7 @@ w_bios = [
         dateUpdated: "April 6, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Teacher/Educator"],
     },
     {
@@ -41,7 +41,7 @@ w_bios = [
         firstName: "Julia",
         middleName: "Abernethy",
         familyName: "",
-        fileLetter: "",
+        
         title: `Teacher, Human Rights Activist, Volunteer`,
         birthDate: "05.16.1936",
         birthLocation: "Shelby, North Carolina",
@@ -92,7 +92,7 @@ w_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Activist", "Teacher/Educator", "Volunteers"],
     },
     {
@@ -101,7 +101,7 @@ w_bios = [
         firstName: "Betsy",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Feminist, Human Rights Activist, Tenant's and Welfare Rights Organizer`,
         birthDate: "00.00.1940",
         birthLocation: "Boston, Massachusetts",
@@ -241,7 +241,7 @@ w_bios = [
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Activist", "Writer", "Editor"],
     },
     {
@@ -250,7 +250,7 @@ w_bios = [
         firstName: "Florence",
         middleName: "",
         familyName: "Lee",
-        fileLetter: "",
+        
         title: `Politician (First woman elected to Cambridge City Council)`,
         birthDate: "09.04.1862",
         birthLocation: "Canton, New York",
@@ -310,7 +310,7 @@ w_bios = [
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Political Leader"],
     },
     {
@@ -319,7 +319,7 @@ w_bios = [
         firstName: "Anne",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Sculptor, poet`,
         birthDate: "09.02.1821",
         birthLocation: "Watertown, Massachusetts",
@@ -379,7 +379,7 @@ w_bios = [
         dateUpdated: "April 8, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Artist", "Poet"],
     },
     {
@@ -388,7 +388,7 @@ w_bios = [
         firstName: "Antoinette",
         middleName: "",
         familyName: "Rinaldi",
-        fileLetter: "",
+        
         title: `Factory worker, PTA president, Volunteer`,
         birthDate: "08.24.1921",
         birthLocation: "",
@@ -427,7 +427,7 @@ w_bios = [
         dateUpdated: "Dec. 14, 2014",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Factory Worker", "Volunteers"],
     },
     {
@@ -436,7 +436,7 @@ w_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `1939-1971`,
         birthDate: "",
         birthLocation: "",
@@ -496,7 +496,7 @@ w_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Refugee", "Social/Philanthropic Organization"],
     },
     {
@@ -505,7 +505,7 @@ w_bios = [
         firstName: "Joanne",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `First Cambridge schoolmistress`,
         birthDate: "00.00.1645",
         birthLocation: "Cambridge, Massachusetts",
@@ -529,7 +529,7 @@ w_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Teacher/Educator"],
     },
     {
@@ -538,7 +538,7 @@ w_bios = [
         firstName: "Hannah",
         middleName: "",
         familyName: "Fayerweather",
-        fileLetter: "",
+        
         title: `Eighteenth century woman of letters`,
         birthDate: "02.00.1727",
         birthLocation: "Boston, Massachusetts",
@@ -598,7 +598,7 @@ w_bios = [
         dateUpdated: "April 8, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: [
             "Community Leader",
             "Writer",
@@ -610,7 +610,7 @@ w_bios = [
         firstName: "Ozeline",
         middleName: "Barrett",
         familyName: "Pearson",
-        fileLetter: "",
+        
         title: `State employee, volunteer`,
         birthDate: "00.00.1903",
         birthLocation: "Worcester, Massachusetts",
@@ -654,7 +654,7 @@ w_bios = [
         dateUpdated: "April 8, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Volunteers"],
     },
     {
@@ -663,7 +663,7 @@ w_bios = [
         firstName: "Pearl",
         middleName: "",
         familyName: "Katz",
-        fileLetter: "",
+        
         title: `Cambridge community leader; politician`,
         birthDate: "ca.1901",
         birthLocation: "",
@@ -707,7 +707,7 @@ w_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Community Leader", "Political Leader"],
     },
     {
@@ -716,7 +716,7 @@ w_bios = [
         firstName: "Alice",
         middleName: "Koerner",
         familyName: "",
-        fileLetter: "",
+        
         title: `State representative, former Mayor of Cambridge`,
         birthDate: "12.24.1933",
         birthLocation: "Vienna, Austria",
@@ -759,7 +759,7 @@ w_bios = [
         dateUpdated: "April 6, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Political Leader", "Refugee"],
     },
     {
@@ -768,7 +768,7 @@ w_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Community organization, 46 Pleasant Street, Cambridge`,
         birthDate: "",
         birthLocation: "",
@@ -809,7 +809,7 @@ w_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: [
             "Educational Institution/School",
             "Feminist Organization",
@@ -821,7 +821,7 @@ w_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Feminist community coffeehouse<br>Flourished 1979-ca. 1989`,
         birthDate: "",
         birthLocation: "",
@@ -866,7 +866,7 @@ w_bios = [
         dateUpdated: "April 11, 2025",
 
         photoHeights: ["100"],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Feminist Organization"],
     },
     {
@@ -875,7 +875,7 @@ w_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Woman-owned health and education center<br>1974 - 1981`,
         birthDate: "",
         birthLocation: "",
@@ -928,7 +928,7 @@ w_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: [
             "Business or Service Provider (Women-Owned, Feminist)",
         ],
@@ -939,7 +939,7 @@ w_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Woman-led law collective<br>1970s`,
         birthDate: "",
         birthLocation: "",
@@ -983,7 +983,7 @@ w_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: [
             "Business or Service Provider (Women-Owned, Feminist)",
         ],
@@ -994,7 +994,7 @@ w_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `1971-1992`,
         birthDate: "",
         birthLocation: "",
@@ -1027,7 +1027,7 @@ w_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: [
             "Educational Institution/School",
             "Feminist Organization",

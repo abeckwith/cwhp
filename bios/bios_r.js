@@ -5,7 +5,7 @@ r_bios = [
         firstName: "Margaret",
         middleName: "Elizabeth",
         familyName: "Waldsetin",
-        fileLetter: "",
+        
         title: `Author of children's books`,
         birthDate: "05.16.1906",
         birthLocation: "Hamburg, Germany",
@@ -75,7 +75,7 @@ r_bios = [
  "April 7, 2025",
         
         photoHeights: [225],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Author"],
     },
     {
@@ -84,7 +84,7 @@ r_bios = [
         firstName: "Ellen",
         middleName: "Henrietta",
         familyName: "Swallow",
-        fileLetter: "",
+        
         title: `Professor of Sanitary Chemistry and Home Economics`,
         birthDate: "12.03.1842",
         birthLocation: "Dunstable, Massachusetts",
@@ -127,7 +127,7 @@ r_bios = [
  "April 7, 2025",
         
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Teacher/Educator", "Scientist"],
     },
     {
@@ -136,7 +136,7 @@ r_bios = [
         firstName: "Anne",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Clinical psychologist, educator`,
         birthDate: "00.00.1904",
         birthLocation: "Denver, Colorado",
@@ -176,7 +176,7 @@ r_bios = [
  "April 7, 2025",
         
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Teacher/Educator", "Psychologist"],
     },
     {
@@ -185,7 +185,7 @@ r_bios = [
         firstName: "Anne",
         middleName: "Elizabeth",
         familyName: "Hubble",
-        fileLetter: "",
+        
         title: `Teacher, civic activist, political reformer, women's rights advocate`,
         birthDate: "03.30.1882",
         birthLocation: "West Huntington, Ontario, Canada",
@@ -252,7 +252,7 @@ r_bios = [
  "",
         
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Activist", "Teacher/Educator", "Reformer"],
     },
     {
@@ -261,7 +261,7 @@ r_bios = [
         firstName: "Betty",
         middleName: "Ann",
         familyName: "Orlov",
-        fileLetter: "",
+        
         title: `Editor, activist`,
         birthDate: "12.23.1925",
         birthLocation: "Brookline, Massachusetts",
@@ -303,7 +303,7 @@ r_bios = [
  "April 7, 2025",
 photoPos:[],
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Activist", "Writer", "Editor"],
         
     },

@@ -5,7 +5,7 @@ y_bios = [
         firstName: "Susan",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Reproductive Rights Activist, Writer, Social Worker`,
         birthDate: "00.00.1952",
         birthLocation: "Oregon",
@@ -134,7 +134,7 @@ y_bios = [
         dateUpdated: "",
         photoPos: [],
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Activist", "Writer"],
     },
     {
@@ -143,7 +143,7 @@ y_bios = [
         firstName: "Anna",
         middleName: "",
         familyName: "Foa",
-        fileLetter: "",
+        
         title: `Teacher, Radio Host`,
         birthDate: "00.00.1908",
         birthLocation: "Turin, Italy",
@@ -184,7 +184,7 @@ y_bios = [
         dateUpdated: "",
         photoPos: [],
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Radio Host", "Refugee"],
     },
     {
@@ -193,7 +193,7 @@ y_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `ca.1892`,
         birthDate: "",
         birthLocation: "",
@@ -235,7 +235,7 @@ y_bios = [
         dateUpdated: "April 12, 2025",
         photoPos: [],
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Social/Philanthropic Organization"],
     },
 ];

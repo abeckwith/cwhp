@@ -5,7 +5,7 @@ c_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Neighborhood house, community organization<br>1878-1973`,
         birthDate: "",
         birthLocation: "",
@@ -66,7 +66,7 @@ c_bios = [
  "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Social/Philanthropic Organization"],
     },
     {
@@ -75,7 +75,7 @@ c_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Political education and suffrage organization<br>Founded in 1896, flourished until ca.1920`,
         birthDate: "",
         birthLocation: "",
@@ -110,7 +110,7 @@ c_bios = [
  "",
 
         photoHeights: [215],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Suffragists/Suffrage Group"],
     },
     {
@@ -119,7 +119,7 @@ c_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Women's Educational Instituion`,
         birthDate: "",
         birthLocation: "",
@@ -174,7 +174,7 @@ c_bios = [
  "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Educational Institution/School", "School/Institution"],
     },
     {
@@ -183,7 +183,7 @@ c_bios = [
         firstName: "Annie",
         middleName: "Jump",
         familyName: "",
-        fileLetter: "",
+        
         title: `Astronomer`,
         birthDate: "12.11.1863",
         birthLocation: "Dover, Delaware",
@@ -241,7 +241,7 @@ c_bios = [
  "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Scientist", "Suffragists/Suffrage Group", "Astronomer"],
     },
     {
@@ -250,7 +250,7 @@ c_bios = [
         firstName: "Cornelia",
         middleName: "",
         familyName: "James",
-        fileLetter: "",
+        
         title: `Writer`,
         birthDate: "11.17.1876",
         birthLocation: "Saint Paul, Minnesota",
@@ -288,7 +288,7 @@ c_bios = [
  "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: [""],
     },
     {
@@ -297,7 +297,7 @@ c_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Educational and philanthropic woman's club<br>Founded 1892`,
         birthDate: "",
         birthLocation: "",
@@ -342,7 +342,7 @@ c_bios = [
  "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Social/Philanthropic Organization", "Women's Club"],
     },
     {
@@ -351,7 +351,7 @@ c_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Feminist organization`,
         birthDate: "",
         birthLocation: "",
@@ -389,7 +389,7 @@ c_bios = [
  "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Feminist Organization"],
     },
     {
@@ -398,7 +398,7 @@ c_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Community organization<br>Est. 1981`,
         birthDate: "",
         birthLocation: "",
@@ -435,7 +435,7 @@ c_bios = [
  "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Social/Philanthropic Organization"],
     },
     {
@@ -444,7 +444,7 @@ c_bios = [
         firstName: "Jeanne",
         middleName: "Sternlicht",
         familyName: "",
-        fileLetter: "",
+        
         title: `Reading expert, psychologist,
                 educator`,
         birthDate: "01.01.1921",
@@ -494,7 +494,7 @@ c_bios = [
  "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Teacher/Educator", "Psychologist"],
     },
     {
@@ -503,7 +503,7 @@ c_bios = [
         firstName: "Joyce",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Celebrity chef and entrepreneur`,
         birthDate: "09.14.1917",
         birthLocation: "Beijing, China",
@@ -543,7 +543,7 @@ c_bios = [
  "April 11, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Businesswoman", "Chef"],
     },
     {
@@ -552,7 +552,7 @@ c_bios = [
         firstName: "Julia",
         middleName: "Carolyn",
         familyName: "McWilliams",
-        fileLetter: "",
+        
         title: `Celebrity chef, author, television personality`,
         birthDate: "08.15.1912",
         birthLocation: "Pasadena, California",
@@ -601,7 +601,7 @@ c_bios = [
  "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Chef"],
     },
     {
@@ -610,7 +610,7 @@ c_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Resource and Referral Organization for Affordable Childcare, 187 Hampshire Street`,
         birthDate: "",
         birthLocation: "",
@@ -653,7 +653,7 @@ c_bios = [
  "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: [
             "Childcare Provider",
             "Business or Service Provider (Women-Owned, Feminist)",
@@ -665,7 +665,7 @@ c_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Women-owned Restaurant and Feminist Gathering Place, 204 Hampshire Street<br>Founded 1997`,
         birthDate: "",
         birthLocation: "",
@@ -696,7 +696,7 @@ c_bios = [
           "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: [
             "Business or Service Provider (Women-Owned, Feminist)",
         ],
@@ -707,7 +707,7 @@ c_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Women Owned Pottery Business and Collective`,
         birthDate: "",
         birthLocation: "",
@@ -744,7 +744,7 @@ c_bios = [
  "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: [
             "Business or Service Provider (Women-Owned, Feminist)",
         ],
@@ -755,7 +755,7 @@ c_bios = [
         firstName: "Bertha",
         middleName: "E.",
         familyName: "",
-        fileLetter: "",
+        
         title: `Resident and Property Owner/Developer`,
         birthDate: "00.00.1898",
         birthLocation: "Poland",
@@ -810,7 +810,7 @@ c_bios = [
  "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Businesswoman"],
     },
     {
@@ -819,7 +819,7 @@ c_bios = [
         firstName: "Ada",
         middleName: "Louise",
         familyName: "",
-        fileLetter: "",
+        
         title: `Educator, college dean, college president`,
         birthDate: "12.11.1876",
         birthLocation: "Moorhead, Minnesota",
@@ -878,7 +878,7 @@ c_bios = [
  "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Teacher/Educator"],
     },
     {
@@ -887,7 +887,7 @@ c_bios = [
         firstName: "Lucy",
         middleName: "",
         familyName: "Ainsworth",
-        fileLetter: "",
+        
         title: `Healer, Clairvoyant`,
         birthDate: "05.04.1819",
         birthLocation: "Calais, Vermont",
@@ -940,7 +940,7 @@ c_bios = [
  "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Clairvoyant"],
     },
     {
@@ -949,7 +949,7 @@ c_bios = [
         firstName: "Rose",
         middleName: "Marie",
         familyName: "",
-        fileLetter: "",
+        
         title: `Founder of Centro Presente`,
         birthDate: "",
         birthLocation: "",
@@ -993,7 +993,7 @@ c_bios = [
  "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: [""],
     },
     {
@@ -1002,7 +1002,7 @@ c_bios = [
         firstName: "Jane",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Comedian and actress`,
         birthDate: "09.06.1947",
         birthLocation: "Cambridge, Massachusetts",
@@ -1063,7 +1063,7 @@ c_bios = [
  "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Actress"],
     },
     {
@@ -1072,7 +1072,7 @@ c_bios = [
         firstName: "Charlotte",
         middleName: "Saunders",
         familyName: "",
-        fileLetter: "",
+        
         title: `Actress`,
         birthDate: "07.23.1816",
         birthLocation: "Boston, Massachusetts",
@@ -1116,7 +1116,7 @@ Image source: <a href="https://en.wikipedia.org/wiki/Charlotte_Cushman" target="
  "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Actress"],
     },
 ];

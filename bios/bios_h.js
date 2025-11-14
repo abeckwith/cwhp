@@ -5,7 +5,7 @@ h_bios = [
         firstName: "Isabella",
         middleName: "",
         familyName: "Hopkinson",
-        fileLetter: "",
+        
         title: `Author and Activist`,
         birthDate: "05.08.1907",
         birthLocation: "Manchester, Massachusetts",
@@ -51,7 +51,7 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Activist", "Author"],
     },
     {
@@ -60,7 +60,7 @@ h_bios = [
         firstName: "Alice",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Toxicologist, physician`,
         birthDate: "02.27.1869",
         birthLocation: "Fort Wayne, Indiana",
@@ -101,7 +101,7 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Doctor"],
     },
     {
@@ -110,7 +110,7 @@ h_bios = [
         firstName: "Margaret",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Software engineer, NASA software designer, founder of software company`,
         birthDate: "00.00.1936",
         birthLocation: "",
@@ -143,7 +143,7 @@ h_bios = [
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Businesswoman"],
     },
     {
@@ -152,7 +152,7 @@ h_bios = [
         firstName: "Beatrice",
         middleName: "",
         familyName: "Perry",
-        fileLetter: "",
+        
         title: `World War II welder, community leader`,
         birthDate: "09.27.1923",
         birthLocation: "Cambridge, Massachusetts",
@@ -183,7 +183,7 @@ h_bios = [
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Community Leader", "Factory Worker"],
     },
     {
@@ -192,7 +192,7 @@ h_bios = [
         firstName: "Sophia",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Architect`,
         birthDate: "00.00.1868",
         birthLocation: "Santiago, Chile",
@@ -236,7 +236,7 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Architect"],
     },
     {
@@ -245,7 +245,7 @@ h_bios = [
         firstName: "Judith",
         middleName: "",
         familyName: "Lewis",
-        fileLetter: "",
+        
         title: `Psychiatrist, professor of psychiatry`,
         birthDate: "00.00.1942",
         birthLocation: "",
@@ -315,7 +315,7 @@ h_bios = [
         dateUpdated: "April 7, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Teacher/Educator", "Psychiatrist"],
     },
     {
@@ -324,7 +324,7 @@ h_bios = [
         firstName: "Suzanne",
         middleName: "Radley",
         familyName: "",
-        fileLetter: "",
+        
         title: `Episcopal priest , feminist theologian, educator`,
         birthDate: "09.21.1936",
         birthLocation: "Hartford, Connecticut",
@@ -371,7 +371,7 @@ h_bios = [
         dateUpdated: "Aril 8, 2025",
 
         photoHeights: [200, 300],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Clergy", "Teacher/Educator"],
     },
     {
@@ -380,7 +380,7 @@ h_bios = [
         firstName: "Agnes",
         middleName: "Boyle",
         familyName: "O'Reilly",
-        fileLetter: "",
+        
         title: `Co-founder of Shady Hill School`,
         birthDate: "05.19.1877",
         birthLocation: "Boston, Massachusetts",
@@ -426,7 +426,7 @@ h_bios = [
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Teacher/Educator", "Editor"],
     },
     {
@@ -435,7 +435,7 @@ h_bios = [
         firstName: "Winifred",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Accused and acquitted of witchcraft`,
         birthDate: "ca.1659",
         birthLocation: "",
@@ -478,7 +478,7 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Acquitted of Witchcraft"],
     },
     {
@@ -487,7 +487,7 @@ h_bios = [
         firstName: "Pauline",
         middleName: "Elizabeth",
         familyName: "",
-        fileLetter: "",
+        
         title: `African American writer`,
         birthDate: "00.00.1859",
         birthLocation: "Portland, Maine",
@@ -526,7 +526,7 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Writer"],
     },
     {
@@ -535,7 +535,7 @@ h_bios = [
         firstName: "Cornelia",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Amateur archaeologist, Author`,
         birthDate: "09.25.1861",
         birthLocation: "Cambridge, Massachusetts",
@@ -581,7 +581,7 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Author"],
     },
     {
@@ -590,7 +590,7 @@ h_bios = [
         firstName: "Lois",
         middleName: "Lilley",
         familyName: "",
-        fileLetter: "",
+        
         title: `Architect; fellow, American Institute of Architects`,
         birthDate: "09.25.1864",
         birthLocation: "Cambridge, Massachusetts",
@@ -723,7 +723,7 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Architect"],
     },
     {
@@ -732,7 +732,7 @@ h_bios = [
         firstName: "Audrey",
         middleName: "I-Wei",
         familyName: "",
-        fileLetter: "",
+        
         title: `Bookseller, teacher, lawyer`,
         birthDate: "00.00.1967",
         birthLocation: "New York",
@@ -816,7 +816,7 @@ h_bios = [
         firstName: "Ruth",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Biologist; biochemist; social activist`,
         birthDate: "00.00.1925",
         birthLocation: "Vienna, Austria",
@@ -865,7 +865,7 @@ h_bios = [
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Activist", "Refugee", "Scientist"],
     },
     {
@@ -874,7 +874,7 @@ h_bios = [
         firstName: "Anna",
         middleName: "Vaughn",
         familyName: "Hyatt",
-        fileLetter: "",
+        
         title: `Sculptor, philanthropist, founder of wildlife preserves`,
         birthDate: "03.10.1876",
         birthLocation: "Cambridge, Massachusetts",
@@ -916,7 +916,7 @@ h_bios = [
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Artist"],
     },
     {
@@ -925,7 +925,7 @@ h_bios = [
         firstName: "Marjorie",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Lawyer, Volunteer, Sportswoman<br>`,
         birthDate: "06.24.1886",
         birthLocation: "Boston, Massachusetts",
@@ -1018,7 +1018,7 @@ Born in Boston in 1886, Marjorie Hurd
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Sportswoman", "Volunteers"],
     },
 ];

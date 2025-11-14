@@ -5,7 +5,7 @@ g_bios = [
         firstName: "Dorothy",
         middleName: "A.",
         familyName: "",
-        fileLetter: "",
+        
         title: `Pianist, organist`,
         birthDate: "11.13.1903",
         birthLocation: "",
@@ -36,7 +36,7 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Musician"],
     },
     {
@@ -45,7 +45,7 @@ g_bios = [
         firstName: "Caroline",
         middleName: "",
         familyName: "Howard",
-        fileLetter: "",
+        
         title: `Poet, novelist`,
         birthDate: "10.08.1794",
         birthLocation: "Boston, Massachusetts",
@@ -96,7 +96,7 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: [""],
     },
     {
@@ -105,7 +105,7 @@ g_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `1970 - 1979`,
         birthDate: "",
         birthLocation: "",
@@ -168,7 +168,7 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Educational Institution/School", "School/Institution"],
     },
     {
@@ -177,7 +177,7 @@ g_bios = [
         firstName: "Louise",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Poet, Author, Teacher`,
         birthDate: "04.22.1943",
         birthLocation: "New York, New York",
@@ -245,7 +245,7 @@ g_bios = [
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Poet", "Author"],
     },
     {
@@ -254,7 +254,7 @@ g_bios = [
         firstName: "Miriam",
         middleName: "Anne",
         familyName: "Schaeffer",
-        fileLetter: "",
+        
         title: `Poet, photographer, technical writer`,
         birthDate: "09.14.1938",
         birthLocation: "Queens, New York",
@@ -322,7 +322,7 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: [
             "Photographer",
             "Poet",
@@ -334,7 +334,7 @@ g_bios = [
         firstName: "Alice",
         middleName: "Bache",
         familyName: "",
-        fileLetter: "",
+        
         title: `Mathematician, Historical researcher, Educator`,
         birthDate: "01.05.1868",
         birthLocation: "Cambridge, Massachusetts",
@@ -396,7 +396,7 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: [
             "Teacher/Educator",
             "Historian/History Project",
@@ -409,7 +409,7 @@ g_bios = [
         firstName: "Saundra",
         middleName: "Mae",
         familyName: "Postell",
-        fileLetter: "",
+        
         title: `Community activist, politician`,
         birthDate: "09.05.1941",
         birthLocation: "Cambridge, Massachusetts",
@@ -485,7 +485,7 @@ g_bios = [
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Activist", "Political Leader"],
     },
     {
@@ -494,7 +494,7 @@ g_bios = [
         firstName: "Renae",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Educator, Community activist, Nonprofit Consultant`,
         birthDate: "04.19.1951",
         birthLocation: "Portsmouth, VA",
@@ -566,7 +566,7 @@ g_bios = [
         dateUpdated: "April 8, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Activist", "Teacher/Educator"],
     },
     {
@@ -575,7 +575,7 @@ g_bios = [
         firstName: "Suzanne",
         middleName: "",
         familyName: "Revaleon",
-        fileLetter: "",
+        
         title: `Teacher and local historian`,
         birthDate: "09.13.1912",
         birthLocation: "Cambridge, Massachusetts",
@@ -657,7 +657,7 @@ g_bios = [
         dateUpdated: "April 8, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Teacher/Educator", "Historian/History Project"],
     },
     {
@@ -666,7 +666,7 @@ g_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Craft Collective, 204 Hampshire Street<br>1974-1979`,
         birthDate: "",
         birthLocation: "",
@@ -694,7 +694,7 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: [
             "Business or Service Provider (Women-Owned, Feminist)",
         ],

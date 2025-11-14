@@ -5,7 +5,7 @@ k_bios = [
         firstName: "Phebe",
         middleName: "",
         familyName: "Mitchell",
-        fileLetter: "",
+        
         title: `Politician (one of first two women elected to Cambridge School Committee);
                 Biographer`,
         birthDate: "02.23.1828",
@@ -57,7 +57,7 @@ k_bios = [
         dateCreated: "prior to 2009",
         dateUpdated: "April 6, 2025",
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: [
             "Political Leader",
             "Writer",
@@ -69,7 +69,7 @@ k_bios = [
         firstName: "Vera",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Physicist`,
         birthDate: "00.00.1928",
         birthLocation: "Princeton, New Jersey",
@@ -123,7 +123,7 @@ k_bios = [
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Scientist"],
     },
 ];

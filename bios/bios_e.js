@@ -5,7 +5,7 @@ e_bios = [
         firstName: "Martha",
         middleName: "May",
         familyName: "",
-        fileLetter: "",
+        
         title: `Pediatrician, Public Health Administrator, Educator`,
         birthDate: "04.07.1891",
         birthLocation: "Dorchester, Massachusetts",
@@ -61,7 +61,7 @@ e_bios = [
         dateUpdated: "",
         photoPos: [],
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Doctor"],
     },
     {
@@ -70,7 +70,7 @@ e_bios = [
         firstName: "Zelma",
         middleName: "Olivia",
         familyName: "Bradshaw",
-        fileLetter: "",
+        
         title: `African-American activist, city employee, volunteer`,
         birthDate: "00.00.1921",
         birthLocation: "",
@@ -107,7 +107,7 @@ e_bios = [
         dateUpdated: "April 5, 2025",
         photoPos: [],
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Activist", "Volunteers"],
     },
     {
@@ -116,7 +116,7 @@ e_bios = [
         firstName: "Tess",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Labor and community Activist, educator`,
         birthDate: "00.00.1946",
         birthLocation: "Boston, Massachusetts",
@@ -173,7 +173,7 @@ e_bios = [
         dateUpdated: "April 5, 2025",
         photoPos: [],
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Activist", "Teacher/Educator"],
     },
      {
@@ -182,7 +182,7 @@ e_bios = [
         firstName: "Dr. Ruth",
         middleName: "Marguerite",
         familyName: "",
-        fileLetter: "",
+        
         title: `Pathologist, First African American Woman to be Admitted to Tufts Medical School`,
         birthDate: "02.17.1898",
         birthLocation: "Georgetown Country, South Carolina",

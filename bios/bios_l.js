@@ -5,7 +5,7 @@ l_bios = [
         firstName: "Florence",
         middleName: "",
         familyName: "Cawthorne",
-        fileLetter: "",
+        
         title: `Psychologist, teacher, administrator`,
         birthDate: "00.00.1932",
         birthLocation: "Washington, D.C.",
@@ -59,7 +59,7 @@ l_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Psychologist", "Teacher/Educator"],
     },
     {
@@ -68,7 +68,7 @@ l_bios = [
         firstName: "Linda",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Editor, writer`,
         birthDate: "00.00.1947",
         birthLocation: "",
@@ -101,7 +101,7 @@ l_bios = [
         dateUpdated: "April 12, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Writer", "Editor"],
     },
     {
@@ -110,7 +110,7 @@ l_bios = [
         firstName: "Christol",
         middleName: "Louise",
         familyName: "",
-        fileLetter: "",
+        
         title: `Church member, Childcare provider`,
         birthDate: "",
         birthLocation: "",
@@ -140,7 +140,7 @@ l_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Childcare Provider"],
     },
     {
@@ -149,7 +149,7 @@ l_bios = [
         firstName: "Henrietta",
         middleName: "Swan",
         familyName: "",
-        fileLetter: "",
+        
         title: `Astronomer`,
         birthDate: "07.04.1868",
         birthLocation: "Lancaster, Massachusetts",
@@ -183,7 +183,7 @@ l_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Scientist", "Astronomer"],
     },
     {
@@ -192,7 +192,7 @@ l_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `1384 Cambridge Street, Intersection of Hampshire and Cambridge Streets`,
         birthDate: "",
         birthLocation: "",
@@ -222,7 +222,7 @@ l_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Feminist Organization"],
     },
     {
@@ -231,7 +231,7 @@ l_bios = [
         firstName: "Edith",
         middleName: "",
         familyName: "",
-        fileLetter: "",
+        
         title: `Founder of The Lesley School (now Lesley University); teacher`,
         birthDate: "01.27.1872",
         birthLocation: "New Granada (now Panama)",
@@ -308,7 +308,7 @@ l_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Teacher/Educator"],
     },
     {
@@ -317,7 +317,7 @@ l_bios = [
         firstName: "Emily",
         middleName: "",
         familyName: "Barron",
-        fileLetter: "",
+        
         title: `Nurse, Community Leader, Volunteer`,
         birthDate: "02.22.1908",
         birthLocation: "Adams Run, South Carolina",
@@ -385,7 +385,7 @@ l_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Nurse", "Volunteers", "Community Leader"],
     },
     {
@@ -394,7 +394,7 @@ l_bios = [
         firstName: "Alice",
         middleName: "Mary",
         familyName: "",
-        fileLetter: "",
+        
         title: `Philanthropist, preservationist`,
         birthDate: "09.22.1850",
         birthLocation: "Cambridge, Massachusetts",
@@ -441,7 +441,7 @@ l_bios = [
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Philanthropist", "Preservationist"],
     },
     {
@@ -450,7 +450,7 @@ l_bios = [
         firstName: "Maria",
         middleName: "",
         familyName: "White",
-        fileLetter: "",
+        
         title: `Poet, abolitionist`,
         birthDate: "07.08.1821",
         birthLocation: "Watertown, Massachusetts",
@@ -496,7 +496,7 @@ l_bios = [
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: [
             "Abolitionist",
             "Poet",
@@ -508,7 +508,7 @@ l_bios = [
         firstName: "Lois",
         middleName: "",
         familyName: "Hammersberg",
-        fileLetter: "",
+        
         title: `Author of young people and children's literature`,
         birthDate: "00.00.1937",
         birthLocation: "Hawaii",
@@ -555,7 +555,7 @@ l_bios = [
         dateUpdated: "April 5, 2025",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Author"],
     },
     {
@@ -564,7 +564,7 @@ l_bios = [
         firstName: "Florence",
         middleName: "Hope",
         familyName: "",
-        fileLetter: "",
+        
         title: `Suffragist, social activist, peace activist, architect`,
         birthDate: "02.06.1887",
         birthLocation: "Lowell, Massachusetts",
@@ -656,7 +656,7 @@ l_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: [
             "Activist",
             "Suffragists/Suffrage Group",

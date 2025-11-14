@@ -5,7 +5,7 @@ j_bios = [
         firstName: "Harriet",
         middleName: "A.",
         familyName: "",
-        fileLetter: "",
+        
         title: `Abolitionist, escaped slave`,
         birthDate: "ca.1813",
         birthLocation: "Edenton, North Carolina",
@@ -62,7 +62,7 @@ j_bios = [
  "April 5, 2025",
         
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: [
             "Reformer",
             "Suffragists/Suffrage Group",
@@ -76,7 +76,7 @@ j_bios = [
         firstName: "Sarah",
         middleName: "Sprague",
         familyName: "",
-        fileLetter: "",
+        
         title: `Politician (one of first two women elected to Cambridge School Committee),
                 Teacher, Author, Poet, Copy Editor`,
         birthDate: "03.17.1813",
@@ -140,7 +140,7 @@ j_bios = [
  "",
         
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: [
             "Teacher/Educator",
             "Political Leader",
@@ -153,7 +153,7 @@ j_bios = [
         firstName: "Grace",
         middleName: "A.",
         familyName: "Fitch",
-        fileLetter: "",
+        
         title: `Social activist, suffragist, political leader`,
         birthDate: "09.29.1871",
         birthLocation: "Maples, Indiana",
@@ -203,7 +203,7 @@ j_bios = [
  "April 8, 2025",
         
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: [
             "Activist",
             "Political Leader",
@@ -216,7 +216,7 @@ j_bios = [
         firstName: "Alice",
         middleName: "",
         familyName: "Palache",
-        fileLetter: "",
+        
         title: `Bank vice president, birth control advocate`,
         birthDate: "04.12.1907",
         birthLocation: "Cambridge, Massachusetts",
@@ -264,7 +264,7 @@ j_bios = [
  "",
         
         photoHeights: [],
-        authors: "A Cambridge Women's Heritage Project volunteer",
+        authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Businesswoman"],
     },
 ];
