@@ -663,48 +663,5 @@ l_bios = [
             "Architect",
         ],
     },
-    {
-        organization: false,
-        lastName: "Leavitt",
-        firstName: "Henrietta",
-        middleName: "",
-        familyName: "Swan",
-        
-        title: `Astronomer<br>`,
-        birthDate: "07.04.1868",
-        birthLocation: "Lancaster, Massachusetts",
-        deathDate: "12.12.1921",
-        deathLocation: "Cambridge, Massachusetts",
-        narrative: `
-           <i>Henrietta Leavitt attended the Cambridge Public Schools and Radcliff College.<Br><br> She worked with the Harvard College Observatory for close to thirty years, eventually becoming a leading expert 
-           on variable stars.<Br><Br>Leavitt was a descendant of Jordan Leavitt, who settled in Hingham, Massachusetts in 1640</i>
-           
-           
-             <br><br>More information about Helen's life and work are outlined in the <b>Women Astronomical Computers at the Harvard College Observatory</b> project:
-            <center>
-             <h1>
-                <a href="https://platestacks.cfa.harvard.edu/women-at-hco/henrietta-swan-leavitt" target="_blank">Henrietta Leavitt's story</a>
-             </h1>
-      </center>
-        The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_blank">Women Astronomical Computers at the Harvard College Observatory</a> project is 
-        dedicated to highlighting the lives and work of women who spent time studying and caring 
-        for the observatory's glass plate photograph collection.<Br>
-        <center>       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_blank"> <img src="images_bios/harvard-astronomers.png" width='350'></a>
-        
-        </center>
-`,
-        otherNotes: "",
-        references: ` 
-          
-        
-             `,
-        photos: [""],
-        photoTitles: [],
-        dateCreated: "Nov. 15, 2025",
-        dateUpdated: "",
-
-        photoHeights: [],
-        authors: "",
-        categories: ["Astronomer"],
-    },
+   
 ];
