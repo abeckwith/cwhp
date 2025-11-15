@@ -685,12 +685,13 @@ l_bios = [
              <h1>
                 <a href="https://platestacks.cfa.harvard.edu/women-at-hco/henrietta-swan-leavitt" target="_blank">Henrietta Leavitt's story</a>
              </h1>
-       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_blank"> <img src="images_bios/harvard-astronomers.png" width='350'></a>
-        
-        </center>
+      </center>
         The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_blank">Women Astronomical Computers at the Harvard College Observatory</a> project is 
         dedicated to highlighting the lives and work of women who spent time studying and caring 
-        for the observatory's glass plate photograph collection.
+        for the observatory's glass plate photograph collection.<Br>
+        <center>       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_blank"> <img src="images_bios/harvard-astronomers.png" width='350'></a>
+        
+        </center>
 `,
         otherNotes: "",
         references: ` 
