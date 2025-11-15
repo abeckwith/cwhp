@@ -699,4 +699,86 @@ g_bios = [
             "Business or Service Provider (Women-Owned, Feminist)",
         ],
     },
+    {
+        organization: false,
+        lastName: "Gill",
+        firstName: "Edith",
+        middleName: "Frances",
+        familyName: "",
+        
+        title: `Astronomer<br>`,
+        birthDate: "08.20.1871",
+        birthLocation: "Cambridge, Massachusetts",
+        deathDate: "09.28.1928",
+        deathLocation: "Belmont, Massachusetts",
+        narrative: `
+           <i>Edith Gill was born in Cambridge and worked with the Harvard College Observatory from 1889 until 1927.
+           </i>
+             <br><br>More information about Edith's life and work are outlined in the <b>Women Astronomical Computers at the Harvard College Observatory</b> project:
+            <center>
+             <h1>
+                <a href="https://platestacks.cfa.harvard.edu/women-at-hco/edith-frances-gill" target="_blank">Edith Gill's story</a>
+             </h1>
+       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_blank"> <img src="images_bios/harvard-astronomers.png" width='350'></a>
+        
+        </center>
+        The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_blank">Women Astronomical Computers at the Harvard College Observatory</a> project is 
+        dedicated to highlighting the lives and work of women who spent time studying and caring 
+        for the observatory's glass plate photograph collection.
+`,
+        otherNotes: "",
+        references: ` 
+          
+        
+             `,
+        photos: [""],
+        photoTitles: [],
+        dateCreated: "Nov. 15, 2025",
+        dateUpdated: "",
+
+        photoHeights: [],
+        authors: "",
+        categories: ["Astronomer", "Teacher"],
+    },
+    {
+        organization: false,
+        lastName: "Gill",
+        firstName: "Mabel",
+        middleName: "Abbie",
+        familyName: "",
+        
+        title: `Astronomer<br>`,
+        birthDate: "09.29.1873",
+        birthLocation: "Cambridge, Massachusetts",
+        deathDate: "05.19.1961",
+        deathLocation: "Belmont, Massachusetts",
+        narrative: `
+           <i>Mabel Gill was born in Cambridge and worked with the Harvard College Observatory for 35 years.
+           </i>
+             <br><br>More information about Edith's life and work are outlined in the <b>Women Astronomical Computers at the Harvard College Observatory</b> project:
+            <center>
+             <h1>
+                <a href="https://platestacks.cfa.harvard.edu/women-at-hco/mabel-abbie-gill" target="_blank">Mabel Gill's story</a>
+             </h1>
+       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_blank"> <img src="images_bios/harvard-astronomers.png" width='350'></a>
+        
+        </center>
+        The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_blank">Women Astronomical Computers at the Harvard College Observatory</a> project is 
+        dedicated to highlighting the lives and work of women who spent time studying and caring 
+        for the observatory's glass plate photograph collection.
+`,
+        otherNotes: "",
+        references: ` 
+          
+        
+             `,
+        photos: [""],
+        photoTitles: [],
+        dateCreated: "Nov. 15, 2025",
+        dateUpdated: "",
+
+        photoHeights: [],
+        authors: "",
+        categories: ["Astronomer"],
+    },
 ];

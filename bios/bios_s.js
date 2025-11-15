@@ -459,4 +459,45 @@ s_bios = [
         authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Writer", "Architect"],
     },
+     {
+        organization: false,
+        lastName: "Stevens",
+        firstName: "Mabel",
+        middleName: "",
+        familyName: "Cushman",
+        
+        title: `Astronomer<br>`,
+        birthDate: "01.29.1867",
+        birthLocation: "Cambridge, Massachusetts",
+        deathDate: "01.25.1917",
+        deathLocation: "Chicago, Illinois",
+        narrative: `
+           <i>Mabel Stevens was born in Cambridge and worked with her sister Harriet Stevens at the Harvard College Observatory for almost 20 years.
+           </i>
+             <br><br>More information about Mabel's life and work are outlined in the <b>Women Astronomical Computers at the Harvard College Observatory</b> project:
+            <center>
+             <h1>
+                <a href="https://platestacks.cfa.harvard.edu/women-at-hco/mabel-cushman-stevens" target="_blank">Mabel Stevens' story</a>
+             </h1>
+       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_blank"> <img src="images_bios/harvard-astronomers.png" width='350'></a>
+        
+        </center>
+        The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_blank">Women Astronomical Computers at the Harvard College Observatory</a> project is 
+        dedicated to highlighting the lives and work of women who spent time studying and caring 
+        for the observatory's glass plate photograph collection.
+`,
+        otherNotes: "",
+        references: ` 
+          
+        
+             `,
+        photos: [""],
+        photoTitles: [],
+        dateCreated: "Nov. 15, 2025",
+        dateUpdated: "",
+
+        photoHeights: [],
+        authors: "",
+        categories: ["Astronomer"],
+    },
 ];

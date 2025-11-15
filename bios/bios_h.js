@@ -1030,23 +1030,23 @@ Born in Boston in 1886, Marjorie Hurd
         
         title: `Astronomer, teacher<br>`,
         birthDate: "09.08.1893",
-        birthLocation: "Cambridge Massachusetts",
+        birthLocation: "Cambridge, Massachusetts",
         deathDate: "12.11.1968",
         deathLocation: "Framingham, Massachusetts",
         narrative: `
            <i>Marian Henry was born in Cambridge and attended Cambridge Latin School. 
-             <br>She became an astonomer and worked at the Harvard Observatory for seven years.</i>
+             <br>She became an astronomer and worked at the Harvard Observatory for seven years.</i>
              <br><br>Marian's life and work are outlined in the <b>Women Astronomical Computers at the Harvard College Observatory</b> project:
             <center>
              <h1>
-                <a href="https://platestacks.cfa.harvard.edu/women-at-hco/marian-alberta-hawes" target="_blank">Alberta Hawes' story</a>
+                <a href="https://platestacks.cfa.harvard.edu/women-at-hco/marian-alberta-hawes" target="_blank">Marian Henry's story</a>
              </h1>
        <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_blank"> <img src="images_bios/harvard-astronomers.png" width='350'></a>
         
         </center>
-        The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_blank">Women at the Harvard College Observatory</a> project is 
-        dedicated to highlighting the lives and work of women who spent time  to studying and caring 
-        for the observatory's glass plate photograph collection, many of whom went on to work as astronomers.
+        The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_blank">Women Astronomical Computers at the Harvard College Observatory</a> project is 
+        dedicated to highlighting the lives and work of women who spent time studying and caring 
+        for the observatory's glass plate photograph collection.
 `,
         otherNotes: "",
         references: ` 
@@ -1060,6 +1060,6 @@ Born in Boston in 1886, Marjorie Hurd
 
         photoHeights: [],
         authors: "",
-        categories: ["Astronomer", "Teacher"],
+        categories: ["Astronomer"],
     },
 ];

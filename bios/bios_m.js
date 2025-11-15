@@ -1088,4 +1088,45 @@ m_bios = [
         authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Clerk", "Law Enforcement"],
     },
+      {
+        organization: false,
+        lastName: "McKay",
+        firstName: "Amy",
+        middleName: "",
+        familyName: "Jackson",
+        
+        title: `Astronomer<br>`,
+        birthDate: "1870",
+        birthLocation: "Cambridge, Massachusetts",
+        deathDate: "1907",
+        deathLocation: "Cambridge, Massachusetts",
+        narrative: `
+           <i>Amy McKay was born and attended school in Cambridge. 
+             <br>After training to be a teacher, Amy worked as a "Computer" and Assistant at the Harvard College Observatory from 1891-1906 .</i>
+             <br><br>Details on Amy's life are outlined in the <b>Women Astronomical Computers at the Harvard College Observatory</b> project:
+            <center>
+             <h1>
+                <a href="https://platestacks.cfa.harvard.edu/women-at-hco/amy-jackson-mckay" target="_blank">Amy McKay's story</a>
+             </h1>
+       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_blank"> <img src="images_bios/harvard-astronomers.png" width='350'></a>
+        
+        </center>
+        The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_blank">Women Astronomical Computers at the Harvard College Observatory</a> project is 
+        dedicated to highlighting the lives and work of women who spent time studying and caring 
+        for the observatory's glass plate photograph collection.
+`,
+        otherNotes: "",
+        references: ` 
+          
+        
+             `,
+        photos: [""],
+        photoTitles: [],
+        dateCreated: "Nov. 15, 2025",
+        dateUpdated: "",
+
+        photoHeights: [],
+        authors: "",
+        categories: ["Astronomer"],
+    },
 ];
