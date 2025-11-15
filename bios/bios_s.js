@@ -483,7 +483,8 @@ s_bios = [
         The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_blank">Women Astronomical Computers at the Harvard College Observatory</a> project is 
         dedicated to highlighting the lives and work of women who spent time studying and caring 
         for the observatory's glass plate photograph collection.<Br>
-        <center>       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_blank"> <img src="images_bios/harvard-astronomers.png" width='350'></a>
+        <center>       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_blank"> 
+        <img src="images_bios/harvard-astronomers.png" width='350'></a>
         
         </center>
 `,
