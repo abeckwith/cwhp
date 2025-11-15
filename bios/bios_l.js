@@ -676,8 +676,8 @@ l_bios = [
         deathDate: "12.12.1921",
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
-           <i>Henrietta Leavitt attended the Cambridge Public Schools and Radcliff College.<Br><br> She worked with the Harvard College Observatory for close to thirdty years, eventually becoming a leading expert 
-           on variable stars.<Br><Br>She was a descendant of Jordan Leavitt, who settled in Hingham, Massachusetts in 1640</i>
+           <i>Henrietta Leavitt attended the Cambridge Public Schools and Radcliff College.<Br><br> She worked with the Harvard College Observatory for close to thirty years, eventually becoming a leading expert 
+           on variable stars.<Br><Br>Leavitt was a descendant of Jordan Leavitt, who settled in Hingham, Massachusetts in 1640</i>
            
            
              <br><br>More information about Helen's life and work are outlined in the <b>Women Astronomical Computers at the Harvard College Observatory</b> project:
