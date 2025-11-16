@@ -2386,84 +2386,85 @@ b_bios = [
         authors: "",
         categories: ["Astronomer"],
     },
-    // {
-    //     organization: false,
-    //     lastName: "Butterfield",
-    //     firstName: "Elizabeth",
-    //     middleName: "\"Betty\"",
-    //     familyName: "Eaton",
-    //     
-    //     title: `Nonprofit Bookstore Co-Founder, Social Activist`,
-    //     birthDate: "1913",
-    //     birthLocation: "Cleveland, Ohio",
-    //     deathDate: "07.12.1978",
-    //     deathLocation: "Cambridge, MA",
-    //     narrative: `
+    {
+        organization: false,
+        lastName: "Butterfield",
+        firstName: "Elizabeth",
+        middleName: "\"Betty\"",
+        familyName: "Eaton",
+        
+        title: `Nonprofit Bookstore Co-Founder, Social Activist`,
+        birthDate: "1913",
+        birthLocation: "Cleveland, Ohio",
+        deathDate: "07.12.1978",
+        deathLocation: "Cambridge, MA",
+        narrative: `
 
-    //     Betty Butterfield launched a fundraiser in 1959 for her
-    //     alma mater, Bryn Mawr College, that became a nonprofit bookstore.<Br><Br>
-    //     The Bryn Mawr Book Store remains in its original location at 373
-    //     Huron Avenue in West Cambridge. All of the books are donated, the staff is all volunteer,
-    //     and profits fund scholarships at the college.<Br><Br>
-    //     Over the years the store has donated well over $2 million for scholarships.
-    //     In an obituary for Elizabeth Butterfield, <i>The New York Times</i> wrote, "To
-    //     raise money for scholarships for her alma mater, Mrs. Butterfield
-    //     established a book sale that proved to be so successful that instead of
-    //     having it once a year, it became a regular business, netting about $25,000
-    //     (equivalent to $115,000 today) annually for scholarships. The money was
-    //     raised by collecting books from attics and cellars, some of which sold for
-    //     nickels and dimes and others that proved to be first editions of considerable
-    //     value."<br><Br>
-    //     Her husband, Lyman H. Butterfield, a historian knowledgeable about rare
-    //     books, helped with the sorting and pricing of books in their basement.
-    //     The first annual used book sale in Cambridge raised $1,800,
-    //     equivalent to about $18,000 today. The sale became so popular that
-    //     dealers lined up before the doors opened.<Br><Br>
-    //     In 1971 Elizabeth Butterfield and other volunteers opened a bookstore. She
-    //     and another volunteer subsequently bought the building. The bookstore
-    //     bought it from them a few years later with the help of an interest-free loan.
-    //     Originally called the Bryn Mawr Book Sale, the shop was re-named the
-    //     Bryn Mawr Book Store in the 1980s. There once were nine Bryn Mawr
+        Betty Butterfield was a volunteer at the annual Bryn Mawr College used book sale in Princeton, New Jersey, 
+        in the 1950s. She moved to Cambridge in 1954 and four years later launched a small book sale as a fundraiser
+         for her alma mater. By 1971, that fundraiser had become a nonprofit seller of used and rare books, located 
+         at 373 Huron Avenue in West Cambridge. The store remains at that address more than 50 years later (Betty 
+         and another volunteer bought the building, which was then purchased in the 1980s by the bookstore with an 
+         interest-free loan).<br><Br>
+        Through Betty's leadership, all of the books for the Bryn Mawr Book Store are donated, the staff is volunteer, and
+        the profits fund scholarships at Bryn Mawr. Betty, who would volunteer at the store about 20 hours each week and 
+        loved books and book-selling, once remarked on "the pleased reactions of gluttonous customers." Her daughter, 
+        Hester Butterfield, remembers reading aloud at the dinner table excerpts from the day's best donations.
+        Betty's husband, Lyman H. Butterfield, a historian knowledgeable about rare books, helped with the sorting and 
+        pricing of books in the basement of their home in Cambridge.<br><Br>
+        Over the years the store has donated more than $2 million for scholarships. The scholarships had special meaning 
+        for Betty: her father lost everything in the Depression and Bryn Mawr allowed her to enroll even when she couldn't
+        afford tuition.<br><Br>
+        Betty worked full-time at Harvard University for 19 years, including as assistant to the dean of Radcliffe College, 
+        assistant registrar of the faculty, and secretary of the Social Studies Department. She was known for her efficiency 
+        and was well-liked, especially by undergraduates, for helping them navigate the bureaucracy. Unhappy with how much 
+        the department was spending on food for the senior-faculty dinner, she made all the food herself.<br><Br>
 
-    //     used bookstores across the Northeast but the Cambridge store and The
-    //     Lantern in Washington, D.C., are the only survivors.<Br><Br>
-    //     In addition to her volunteer achievements, she worked at Harvard
-    //     University for 19 years, including as assistant to the dean of Radcliffe and
-    //     assistant registrar of the faculty. At a 1970 rally against the Vietnam War,
-    //     she endorsed a university-wide strike to protest the invasion of Cambodia
-    //     and the killing of four students at Kent State University.
+        Betty was also involved in social activism. At a 1970 rally against the Vietnam War, her endorsement to the crowd 
+        of a university-wide strike at Harvard to protest the invasion of Cambodia and the killing of four students at 
+        Kent State University was met with "thunderous applause," according to <i>The Harvard Crimson</i>.<br><Br>
+
+        There were once nine Bryn Mawr bookstores across the Northeast, but the Cambridge store and The Lantern in 
+        Washington, D.C., are the only survivors. In 2024, the store received a Cambridge Business Award, recognizing
+        its longevity and rich contribution to Cambridge's retail environment. Upon her death, the family asked that 
+        contributions be made, in lieu of flowers, to help maintain the Bryn Mawr Book Store in its nonprofit status.
+
 
        
-    //         `,
-    //     otherNotes: "",
-    //     references: `
-    //         Elizabeth Eaton Butterfield, 65, Founder of Bryn Mawr Book Sale (July 14,
-    //         1978)
-    //         The New York Times
-    //         <a href="https://www.nytimes.com/1978/07/14/archives/elizabeth-eaton-butterfield-65-founder-of-bryn-mawr-book-sale.html" target="_blank">https://www.nytimes.com/1978/07/14/archives/elizabeth-eaton-butterfield-
-    //         65-founder-of-bryn-mawr-book-sale.html</a>
-    //         <br> <br>
-    //         “The First Fifty Years: A History of the Bryn Mawr Book Store in Cambridge
-    //         with a Nod to its Sister Stores” by Jan Gardner, 2023
-    //         <a href="https://brynmawrbookstore.com/bookstore-history-for-sale/" target="_blank">https://brynmawrbookstore.com/bookstore-history-for-sale/</a>
-    //         <br> <br>
-    //         Long-Time Administrator Elizabeth Butterfield Dies (July 18, 1978) Harvard
-    //         Crimson,
-    //         <a href="https://www.thecrimson.com/article/1978/7/18/long-time-administrator-elizabeth-butterfield-dies-pmrs/" target="_blank">https://www.thecrimson.com/article/1978/7/18/long-time-administrator-
-    //         elizabeth-butterfield-dies-pmrs/</a>
-    //         <br> <br>
-    //         Elizabeth Butterfield (1913 - 1978) by Dan Swanson (July 18, 1978)
-    //         Harvard Crimson
-    //         <a href="https://www.thecrimson.com/article/1978/7/18/elizabeth-butterfield-1913-1978-pbsbome/" target="_blank">https://www.thecrimson.com/article/1978/7/18/elizabeth-butterfield-1913-
-    //         1978-pbsbome/</a>
-    //     `,
-    //     photos: ["image_bios/brynmawr.JPG"],
-    //     photoTitles: ["Bryn Mawr Bookstore in Cambridge"],
-    //     dateCreated: "October 26, 2025 ",
-    //     dateUpdated: "",
+            `,
+        otherNotes: "",
+        references: `
+            "Elizabeth Eaton Butterfield, 65, Founder of Bryn Mawr Book Sale" (July 14,
+            1978)
+            <i>The New York Times</i>
+            <a href="https://www.nytimes.com/1978/07/14/archives/elizabeth-eaton-butterfield-65-founder-of-bryn-mawr-book-sale.html" target="_blank">https://www.nytimes.com/1978/07/14/archives/elizabeth-eaton-butterfield-
+            65-founder-of-bryn-mawr-book-sale.html</a>
+            <br> <br>
+            “The First Fifty Years: A History of the Bryn Mawr Book Store in Cambridge
+            with a Nod to its Sister Stores” by Jan Gardner, 2023
+            <a href="https://brynmawrbookstore.com/bookstore-history-for-sale/" target="_blank">https://brynmawrbookstore.com/bookstore-history-for-sale/</a>
+            <br> <br>
+            "Long-Time Administrator Elizabeth Butterfield Dies" (July 18, 1978) <i>Harvard
+            Crimson</i>,
+            <a href="https://www.thecrimson.com/article/1978/7/18/long-time-administrator-elizabeth-butterfield-dies-pmrs/" target="_blank">https://www.thecrimson.com/article/1978/7/18/long-time-administrator-
+            elizabeth-butterfield-dies-pmrs/</a>
+            <br> <br>
+            "Elizabeth Butterfield (1913 - 1978)" by Dan Swanson (July 18, 1978)
+            <i>Harvard Crimson</i>
+            <a href="https://www.thecrimson.com/article/1978/7/18/elizabeth-butterfield-1913-1978-pbsbome/" target="_blank">https://www.thecrimson.com/article/1978/7/18/elizabeth-butterfield-1913-
+            1978-pbsbome/</a>
+            <br><Br>
+            City of Cambridge announcement:  <a href="https://www.cambridgema.gov/CDD/News/2024/5/cambridgebusinesseshonoredat2024legacyluncheonawards"><br>
+           
+            https://www.cambridgema.gov/CDD/News/2024/5/cambridgebusinesseshonoredat2024legacyluncheonawards</a>
+        `,
+        photos: ["images_bios/brynmawr.JPG"],
+        photoTitles: ["Bryn Mawr Bookstore in Cambridge"],
+        dateCreated: "November 15, 2025 ",
+        dateUpdated: "",
 
-    //     photoHeights: [],
-    //     authors: "Jan Gardner (author)",
-    //     categories: [""],
-    // },
+        photoHeights: ["400"],
+        authors: "Jan Gardner (author), Barbara Beckwith (editor)",
+        categories: ["Activist", "Non-profit Owner"],
+    },
 ];
