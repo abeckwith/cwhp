@@ -1028,7 +1028,7 @@ Born in Boston in 1886, Marjorie Hurd
         middleName: "Alberta",
         familyName: "Hawes",
         
-        title: `Astronomer, teacher<br>`,
+        title: `Astronomer, teacher`,
         birthDate: "09.08.1893",
         birthLocation: "Cambridge, Massachusetts",
         deathDate: "12.11.1968",

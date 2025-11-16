@@ -120,6 +120,7 @@ function showRecents(num) {
 
                 monthsDifference =
                     (currYear - year) * 12 + currMonth - monthNum;
+                    console.log(thename.title)
                 //only add to list if within number of months selected:
                 if (monthsDifference < RECENT_MONTHS_LIMIT)
                     html +=

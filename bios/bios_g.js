@@ -706,7 +706,7 @@ g_bios = [
         middleName: "Frances",
         familyName: "",
         
-        title: `Astronomer<br>`,
+        title: `Astronomer`,
         birthDate: "08.20.1871",
         birthLocation: "Cambridge, Massachusetts",
         deathDate: "09.28.1928",
@@ -748,7 +748,7 @@ g_bios = [
         middleName: "Abbie",
         familyName: "",
         
-        title: `Astronomer<br>`,
+        title: `Astronomer`,
         birthDate: "09.29.1873",
         birthLocation: "Cambridge, Massachusetts",
         deathDate: "05.19.1961",

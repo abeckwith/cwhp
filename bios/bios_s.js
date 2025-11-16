@@ -466,7 +466,7 @@ s_bios = [
         middleName: "",
         familyName: "Cushman",
         
-        title: `Astronomer<br>`,
+        title: `Astronomer`,
         birthDate: "01.29.1867",
         birthLocation: "Cambridge, Massachusetts",
         deathDate: "01.25.1917",

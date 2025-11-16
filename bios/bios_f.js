@@ -309,7 +309,7 @@ In
         middleName: "",
         familyName: "Spence",
         
-        title: `Astronomer<br>`,
+        title: `Astronomer`,
         birthDate: "1911",
         birthLocation: "New York, New York",
         deathDate: "1983",

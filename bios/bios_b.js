@@ -2351,7 +2351,7 @@ b_bios = [
         middleName: "May",
         familyName: "Campbell",
         
-        title: `Astronomer<br>`,
+        title: `Astronomer`,
         birthDate: "01.10.1908",
         birthLocation: "Cambridge, Massachusetts",
         deathDate: "04.07.1997",
