@@ -907,4 +907,53 @@ as a writer were recognized only after her death. The founding members, who incl
         authors: "Cambridge Women's Heritage Project volunteers",
         categories: ["Volunteers"],
     },
+    {
+        organization: false,
+        lastName: "Armstrong",
+        firstName: "Barbara",
+        middleName: "",
+        familyName: "Ward",
+        
+        title: `Artitst, Fashion Designer, Choreographer`,
+        birthDate: "1940",
+        birthLocation: "Cambridge, Massachusetts",
+        deathDate: "09.08.2013",
+        deathLocation: "Boston, Massachusetts",
+        narrative: `
+        
+        <i>After attending Cambridge High & Latin School and then Emerson College in Boston, Barbara Ward Armstrong 
+        became an artist, teacher, singer, and choreographer.<br><Br> While in her 30s, some of her soft-fabric dolls were displayed at Boston's Museum of
+        Fine Arts. In speaking of her dolls, she related "I was focused on my dance and theater and never in my wiildest dreams did I
+        take what I was doing [with dolls] as an 'art form' and all of a sudden, the dolls that were sitting in my backyard were sitting
+        in the Museum of Fine Arts and they had a new term, 'soft sculpture'."
+
+        </i><Br><Br>More of her story is told through the <b>Cambridge Black History Project</b>:
+       <h2> <center><a href='https://cambridgeblackhistoryproject.org/project/barbara-ward-armstrong/' target="_blank">Barbara Ward Armstrong's story</a></h2><Br><Br>
+        </center>
+       The <a href='https://cambridgeblackhistoryproject.org/' target="_blank">Cambridge Black HIstory Project</a>
+        is an organization dedicated to preserving the lives and accomplishments
+       of Black Cantabridgians.  We encourage you to explore the powerful stories they share on their website:
+       <br>
+        <Br><center>
+        <a href='https://cambridgeblackhistoryproject.org/' target="_blank">
+
+        <img style='border-style: none;' src='images_util/CBHP.jpg' width='200'>
+        </a></center>
+        
+
+    
+        `,
+        otherNotes: "",
+        references: `
+        <i>Boston Globe</i>, obituary, September 8, 2013, page B9
+        `,
+        photos: ["images_bios/armstrong_barbara.png"],
+        photoTitles: [],
+        dateCreated: "Nov. 19, 2025",
+        dateUpdated: "",
+
+        photoHeights: [],
+        authors: "Anthony Beckwith",
+        categories: ["Dancer", "Choreographer", "Artitst", "Fashion Designer"],
+    },
 ];
