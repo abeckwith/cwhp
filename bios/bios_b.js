@@ -231,7 +231,7 @@ b_bios = [
         Cambridge Chronicle</em>, November 9, 1901
         `,
         photos: ["images_bios/BarlowNov91901.png"],
-        photoTitles: ["Cambridge Chronicle Nov. 9, 1901"],
+        photoTitles: ["Cambridge Chronicle November 9, 1901"],
         dateCreated: "prior to 2009",
         dateUpdated: "November 14, 2025",
 
@@ -2379,7 +2379,7 @@ b_bios = [
              `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "Nov. 15, 2025",
+        dateCreated: "November 15, 2025",
         dateUpdated: "",
 
         photoHeights: [],

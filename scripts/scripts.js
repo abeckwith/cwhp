@@ -80,6 +80,8 @@ function showRecents(num) {
         "<span class='nice-header'>RECENT ENTRIES (from the last " +
         RECENT_MONTHS_LIMIT +
         " months)</span><br>";
+
+    recentsObjects = [];
     //go through each A-Z bio list:
     all_bios.forEach((bioLetterList) => {
         //go through each name for this letter:
@@ -103,7 +105,7 @@ function showRecents(num) {
                 monthNameShort = thename.dateCreated
                     .split(delimiter)[0]
                     .substring(0, 3); //1st 3 chars: Jan
-                
+
                 year = thename.dateCreated.split(delimiter)[1];
 
                 //find month number
@@ -114,16 +116,18 @@ function showRecents(num) {
                         monthNum = index;
                     }
                 }
+
                 // if (year >= earliestYear && monthNum >= earliestMonth)
                 currYear = new Date().getUTCFullYear();
                 currMonth = new Date().getMonth();
 
                 monthsDifference =
                     (currYear - year) * 12 + currMonth - monthNum;
-                    console.log(thename.title)
+                console.log(thename.title);
                 //only add to list if within number of months selected:
-                if (monthsDifference < RECENT_MONTHS_LIMIT)
-                    html +=
+                if (monthsDifference < RECENT_MONTHS_LIMIT) {
+                    // html +=
+                    html_build =
                         "<br><a href='bios.html?lNm=" +
                         thename.lastName +
                         "&mNm=" +
@@ -139,9 +143,35 @@ function showRecents(num) {
                         "</i><br>&nbsp;&nbsp;&nbsp; added <b>" +
                         thename.dateCreated +
                         "</b><Br>";
+                    yr = parseInt(year)
+                    recentsObjects.push({ html_build, monthNum,yr});
+                }
             }
         });
     });
+    r = recentsObjects.sort((a, b) => {
+        // Primary sort: by age (ascending)
+        if (a.year > b.year) {
+            return -1;
+        }
+        if (a.year < b.year) {
+            return 1;
+        }
+
+        // If ages are equal, secondary sort: by score (descending)
+        if (a.monthNum < b.monthNum) {
+            return 1; // b comes before a for descending order
+        }
+        if (a.monthNum > b.monthNum) {
+            return -1; // a comes before b for descending order
+        }
+
+        return 0; // Ages and scores are equal, maintain original order
+    });
+    r.forEach(element => {
+        html += element.html_build;
+    });
+    console.log(recentsObjects)
     if (html != "") document.getElementById("recents").innerHTML = html;
     else
         document.getElementById("recents").innerHTML =
@@ -200,8 +230,7 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
     person = bios[ltrIndex][indexOfPerson];
     currentLetter = ltrIndex;
     currentPersonIndex = indexOfPerson;
-    let html =
-        "<div id='bio-container' style='line-height:1.7'>";
+    let html = "<div id='bio-container' style='line-height:1.7'>";
 
     //name:
     html += "<div class='name-heading'><strong>";
@@ -301,8 +330,11 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
     else dt += "</div>"; // "Last updated: 2006-2010";
 
     atr = "";
-    if (person.authors.trim() !== "") 
-        atr = "<div style='text-align:right'>Authors & Editors: " + person.authors  +"</div>";
+    if (person.authors.trim() !== "")
+        atr =
+            "<div style='text-align:right'>Authors & Editors: " +
+            person.authors +
+            "</div>";
 
     html += "<br>" + dt + atr + "<br><br><br><br><br><br><br><br><br>";
 

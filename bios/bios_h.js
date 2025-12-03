@@ -1056,7 +1056,7 @@ Born in Boston in 1886, Marjorie Hurd
              `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "Nov. 15, 2025",
+        dateCreated: "November 15, 2025",
         dateUpdated: "",
 
         photoHeights: [],

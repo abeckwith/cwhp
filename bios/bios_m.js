@@ -1123,7 +1123,7 @@ m_bios = [
              `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "Nov. 15, 2025",
+        dateCreated: "November 15, 2025",
         dateUpdated: "",
 
         photoHeights: [],

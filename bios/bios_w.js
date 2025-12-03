@@ -21,7 +21,7 @@ w_bios = [
             `,
         otherNotes: "",
         references: ` City Council resolution, April 2, 2001<Br>
-        Cambridge Chronicle Nov. 1 1924<Br>
+        Cambridge Chronicle November 1 1924<Br>
         Boston Globe May 30, 1946<Br>
 
         Image source: Regis College 1945 yearbook
@@ -424,7 +424,7 @@ w_bios = [
         photos: ["images_bios/Toni%20Williams%20small.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "Dec. 14, 2014",
+        dateUpdated: "December 14, 2014",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",

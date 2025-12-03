@@ -285,7 +285,7 @@ a_bios = [
             and lives in Cambridge.`,
         otherNotes: "",
         references: `wikipedia entry for Carol Bonomo Albright<Br>amazon.com biography for Carol Bonomo Albright<Br>
-        Cambridge Chronicle, Jan. 22, 2009<br>Image source: https://books.google.com/books?id=5R28DDgTAd4C&pg=PA38#v=onepage&q&f=false
+        Cambridge Chronicle, January 22, 2009<br>Image source: https://books.google.com/books?id=5R28DDgTAd4C&pg=PA38#v=onepage&q&f=false
         `,
         photos: ["images_bios/carol albright.jpeg"],
         photoTitles: [],
@@ -647,7 +647,7 @@ as a writer were recognized only after her death. The founding members, who incl
                 href="http://en.wikipedia.org/wiki/Constance_M._K._Applebee" target="_blank">http://en.wikipedia.org/wiki/Constance_M._K._Applebee</a>;<br>
             <em>Encyclopedia Britannica </em>(2006)<Br>
             <a href="https://www.britannica.com/biography/Constance-M-K-Applebee" target="_blank">https://www.britannica.com/biography/Constance-M-K-Applebee</a><br>
-            Jan. 5, 1959 Sports Illustrated<br>
+            January 5, 1959 Sports Illustrated<br>
             Photo source: wikipedia
         `,
         photos: ["images_bios/constance applebee.jpg"],
@@ -949,7 +949,7 @@ as a writer were recognized only after her death. The founding members, who incl
         `,
         photos: ["images_bios/armstrong_barbara.png"],
         photoTitles: [],
-        dateCreated: "Nov. 19, 2025",
+        dateCreated: "November 19, 2025",
         dateUpdated: "",
 
         photoHeights: [],

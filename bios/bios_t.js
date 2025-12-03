@@ -104,7 +104,7 @@ t_bios = [
             `,
         otherNotes: "",
         references: `
-            &#8220;Learning without drudgery&#8221; <em>Time</em> magazine Feb. 10, 1947.<br>
+            &#8220;Learning without drudgery&#8221; <em>Time</em> magazine February 10, 1947.<br>
             Edward Yeomans. <em>Shady Hill School: The First Fifty Years</em> Cambridge,
             Mass.: Windflower Press, 1979.<br>
             May Sarton,<em> Recovering: A Journal, 1978-1979</em>,. New York: W.W. Norton
