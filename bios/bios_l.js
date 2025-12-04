@@ -663,68 +663,68 @@ l_bios = [
             "Architect",
         ],
     },
-    //  {
-    //     organization: false,
-    //     lastName: "Leno",
-    //     firstName: "Mary",
-    //     middleName: "M.",
-    //     familyName: "",
+     {
+        organization: false,
+        lastName: "Leno",
+        firstName: "Mary",
+        middleName: "M.",
+        familyName: "",
         
-    //     title: `Feminist, Social activist, Photographer`,
-    //     birthDate: "11.11.1940",
-    //     birthLocation: "Ipswich, Massachusetts",
-    //     deathDate: "09.04.2025",
-    //     deathLocation: "Cambridge, Massachusetts",
-    //     narrative: `
-    //     Mary Leno lived and breathed social activism. She was a tireless advocate for LGBTQ+ rights and housing justice. Her 
-    //     Cambridge-based advocacy was channeled through personal action, committee membership, and creative initiatives and
-    //      through various media, including film and photography.
-    //      <br><Br>
+        title: `Feminist, Social activist, Photographer`,
+        birthDate: "11.11.1940",
+        birthLocation: "Ipswich, Massachusetts",
+        deathDate: "09.04.2025",
+        deathLocation: "Cambridge, Massachusetts",
+        narrative: `
+        Mary Leno lived and breathed social activism. She was a tireless advocate for LGBTQ+ rights and housing justice. Her 
+        Cambridge-based advocacy was channeled through personal action, committee membership, and creative initiatives and
+         through various media, including film and photography.
+         <br><Br>
 
-    //     Mary was born and grew up in Ipswich, Massachusetts, with her parents Vera Funchion and Harry Leno, moving to Cambridge 
-    //     after high school. By the 1980s, she had become the "cornerstone" of the Cambridge Women in Cable collective, which produced 
-    //     programs with a focus on women's experiences and perspectives. She was involved with Cambridge Community Television (CCTV) 
-    //     since its inception.
-    //      <br><Br>
+        Mary was born and grew up in Ipswich, Massachusetts, with her parents Vera Funchion and Harry Leno, moving to Cambridge 
+        after high school. By the 1980s, she had become the "cornerstone" of the Cambridge Women in Cable collective, which produced 
+        programs with a focus on women's experiences and perspectives. She was involved with Cambridge Community Television (CCTV) 
+        since its inception.
+         <br><Br>
 
-    //     Mary volunteered for the Cambridge Women's Center, the Women's School, Food for Free, the Cambridge Commission on the 
-    //     Status of Women, the Cambridge Women's Heritage Project (as one of the initial organizers of the program), and the 
-    //     Eviction Free Zone. 
-    //     In 1994, she graduated from the Gerontology Program at UMass/Boston in Dorchester and later created "S.L.U.T." (Senior 
-    //     Lesbian Urban Transport), a system where she would help out her elder friends and neighbors by driving them for important 
-    //     appointments and errands. 
-    //      <br><Br>
+        Mary volunteered for the Cambridge Women's Center, the Women's School, Food for Free, the Cambridge Commission on the 
+        Status of Women, the Cambridge Women's Heritage Project (as one of the initial organizers of the program), and the 
+        Eviction Free Zone. 
+        In 1994, she graduated from the Gerontology Program at UMass/Boston in Dorchester and later created "S.L.U.T." (Senior 
+        Lesbian Urban Transport), a system where she would help out her elder friends and neighbors by driving them for important 
+        appointments and errands. 
+         <br><Br>
 
-    //     In 2008, Mary received the Cambridge Peace and Justice Award for her efforts, which included advocating for housing for 
-    //     low income Cambridge residents.  In addition to her work in local cable TV, she was a photographer and "chronicler of 
-    //     social movements." 
-    //      <br><Br>
+        In 2008, Mary received the Cambridge Peace and Justice Award for her efforts, which included advocating for housing for 
+        low income Cambridge residents.  In addition to her work in local cable TV, she was a photographer and "chronicler of 
+        social movements." 
+         <br><Br>
 
-    //     Mary's activism was lifelong and she continued to be passionate about causes close to her heart well into her 80s. 
-    //     Just weeks before her death, she was in the CCTV studios for an interview for Cambridge Mosaic Project/Cambridge Museum
-    //     of History and Culture. After living with her diagnosis of Alzheimer's for many years, in 2025 Mary chose to die in 
-    //     Switzerland with the help of Dignitas. 
-    //     `,
-    //     otherNotes: "",
-    //     references: `
-    //     CCTV Instagram post, <a href="https://www.instagram.com/p/DOTEMspDly9/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">
-    //     Sept. 7, 2025</a><br><br>
-    //     Image from <a href="https://www.legacy.com/us/obituaries/legacyremembers/mary-leno-obituary?id=59453208">
-    //     https://www.legacy.com/us/obituaries/legacyremembers/mary-leno-obituary?id=59453208</a><br><br>
+        Mary's activism was lifelong and she continued to be passionate about causes close to her heart well into her 80s. 
+        Just weeks before her death, she was in the CCTV studios for an interview for Cambridge Mosaic Project/Cambridge Museum
+        of History and Culture. After living with her diagnosis of Alzheimer's for many years, in 2025 Mary chose to die in 
+        Switzerland with the help of Dignitas. 
+        `,
+        otherNotes: "",
+        references: `
+        CCTV Instagram post, <a href="https://www.instagram.com/p/DOTEMspDly9/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">
+        Sept. 7, 2025</a><br><br>
+        Image from <a href="https://www.legacy.com/us/obituaries/legacyremembers/mary-leno-obituary?id=59453208">
+        https://www.legacy.com/us/obituaries/legacyremembers/mary-leno-obituary?id=59453208</a><br><br>
 
-    //     <i>Boston Globe</i>, September 10, 2000, April 26, 2018, November 16, 2008
-    //     `,
-    //     photos: ["images_bios/leno_mary.jpeg"],
-    //     photoTitles: [],
-    //     dateCreated: "December 3, 2025",
-    //     dateUpdated: "",
+        <i>Boston Globe</i>, September 10, 2000, April 26, 2018, November 16, 2008
+        `,
+        photos: ["images_bios/leno_mary.jpeg"],
+        photoTitles: [],
+        dateCreated: "December 3, 2025",
+        dateUpdated: "",
 
-    //     photoHeights: [],
-    //     authors: "Anthony Beckwith",
-    //     categories: [
-    //         "Activist",
-    //         "Photographer",
-    //     ],
-    // },
+        photoHeights: [],
+        authors: "Anthony Beckwith",
+        categories: [
+            "Activist",
+            "Photographer",
+        ],
+    },
    
 ];
