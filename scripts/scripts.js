@@ -77,7 +77,7 @@ function showRecents(num) {
         "December",
     ];
     html =
-        "<span class='nice-header'>RECENT ENTRIES (last " +
+        "<span class='nice-header'>RECENTLY ADDED (last " +
         RECENT_MONTHS_LIMIT +
         " months)</span><br>";
 
@@ -862,7 +862,7 @@ function setMenu(whichOneGray) {
         '<a id="1" class="search-buttons" href="bios.html">Name Index</a>' +
         '<a id="2" class="search-buttons" href="topical.html">Subject Index</a>' +
         '<a id="3" class="top-links" href="search.html">Site Search &#x1F50E;</a>' +
-        '<a id="4" class="top-links" href="recents.html">Recent Entries</a>' +
+        '<a id="4" class="top-links" href="recents.html">Recently Added</a>' +
         '<a id="5" class="top-links" href="links.html">Links</a>' +
         '<a id="6" class="top-links" href="sources.html">Sources</a>' +
         '<a id="7" class="top-links" href="nominations.html">Nominations</a>' +
