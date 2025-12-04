@@ -77,7 +77,7 @@ function showRecents(num) {
         "December",
     ];
     html =
-        "<span class='nice-header'>RECENT ENTRIES (from the last " +
+        "<span class='nice-header'>RECENT ENTRIES (last " +
         RECENT_MONTHS_LIMIT +
         " months)</span><br>";
 
@@ -128,7 +128,9 @@ function showRecents(num) {
                 if (monthsDifference < RECENT_MONTHS_LIMIT) {
                     // html +=
                     html_build =
-                        "<br><a href='bios.html?lNm=" +
+                        "<br></i><br> <b>" +
+                        thename.dateCreated +
+                        ":</b>&nbsp;<a href='bios.html?lNm=" +
                         thename.lastName +
                         "&mNm=" +
                         thename.middleName +
@@ -140,9 +142,7 @@ function showRecents(num) {
                         thename.firstName +
                         "</a>:<i> " +
                         thename.title +
-                        "</i><br>&nbsp;&nbsp;&nbsp; added <b>" +
-                        thename.dateCreated +
-                        "</b><Br>";
+                      "<Br>";
                     yr = parseInt(year)
                     recentsObjects.push({ html_build, monthNum,yr});
                 }
