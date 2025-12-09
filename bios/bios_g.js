@@ -786,7 +786,7 @@ g_bios = [
      {
         organization: false,
         lastName: "Gittens",
-        firstName: "Yvette",
+        firstName: "Yvonne",
         middleName: "",
         familyName: "Harris",
         
@@ -855,11 +855,11 @@ g_bios = [
         MIT Black History article, <a href="https://www.blackhistory.mit.edu/archive/yvonne-harris-and-sherry-glanville-ca-1965">"Yvonne Harris and Sherr Glanville, ca. 1965"</a><br><br>
         Upworthy.com, <a href="https://www.upworthy.com/cambridge-community-center">"How this beloved, 90-year-old community center continues to be a haven for so many to this day"</a>, March 29, 2020<br><br>
 
-        CCC Facebook post, <a href="https://www.facebook.com/CambCommCenter/posts/meet-yvonne-gittens-recipient-of-the-2019-janet-ms-k-kendrick-sisters-of-the-cen/10162414874505357/">"Meet Yvette Gittens"</a>,  Oct. 7, 2019<br><br>
+        CCC Facebook post, <a href="https://www.facebook.com/CambCommCenter/posts/meet-yvonne-gittens-recipient-of-the-2019-janet-ms-k-kendrick-sisters-of-the-cen/10162414874505357/">"Meet Yvonne Gittens"</a>,  Oct. 7, 2019<br><br>
         <a href="https://www.bhacambridge.org/">Black History In Action website</a> <br><br>
         
              `,
-        photos: ["images_bios/gittens_yvette.jpg"],
+        photos: ["images_bios/gittens_Yvonne.jpg"],
         photoTitles: [],
         dateCreated: "December 9, 2025",
         dateUpdated: "",

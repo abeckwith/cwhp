@@ -140,7 +140,7 @@ function showRecents(num) {
                         thename.lastName +
                         ", " +
                         thename.firstName +
-                        "</a>:<i> " +
+                        "</a>,<i> " +
                         thename.title +
                       "<Br>";
                     yr = parseInt(year)
