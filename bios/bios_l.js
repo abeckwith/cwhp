@@ -700,7 +700,7 @@ l_bios = [
         social movements." 
          <br><Br>
 
-        Mary's activism was lifelong and she continued to be passionate about causes close to her heart well into her 80s. 
+        Mary's was a lifelong activist: she continued to be passionate about causes that were close to her heart well into her 80s. 
         Just weeks before her death, she was in the CCTV studios for an interview for Cambridge Mosaic Project/Cambridge Museum
         of History and Culture. After living with her diagnosis of Alzheimer's for many years, in 2025 Mary chose to die in 
         Switzerland with the help of Dignitas. 

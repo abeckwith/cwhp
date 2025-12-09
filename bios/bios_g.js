@@ -783,4 +783,89 @@ g_bios = [
         authors: "",
         categories: ["Astronomer"],
     },
+     {
+        organization: false,
+        lastName: "Gittens",
+        firstName: "Yvette",
+        middleName: "",
+        familyName: "Harris",
+        
+        title: `Financial Aid Director, Cambridge Community Center board member, Volunteer`,
+        birthDate: "00.00.1947",
+        birthLocation: "Cambridge, Massachusetts",
+        deathDate: "",
+        deathLocation: "",
+        narrative: `
+          Long-time Cambridge resident Yvonne Gittens has had an impactful life, maintaining strong ties to her 
+          community and making a difference through her work at both the Cambridge Community Center and the
+           Massachusetts Institute of Technology. While her family has been in Cambridge for more than 100 
+           years, she is proud of her family's roots in Barbados and her connection to the local Barbadian 
+           community. <br><Br>
+
+        Yvonne's grandparents grew up in Cambridge and Pennsylvania and her parents were both born in Cambridge 
+        in the 1920s. Yvonne attended the Cambridge public schools (Houghton Elementary on Putnam Avenue and 
+        then Cambridge High and Latin School) and she later earned her undergraduate degree from Lesley 
+        University and her Master's Degree from Harvard University's School of Education.<br><Br>
+
+        Yvonne's connections to the Cambridge Community Center (CCC) are deep. The CCC was founded in 
+        1929 by a group of Cambridge Black pastors, who established their programs in an old school 
+        building on Callendar Street. The organization was a reaction to the local YMCA's whites-only
+        policy at the time. The CCC was set up to provide a variety of youth programs and family 
+        support initiatives. Yvonne's parents attended programs at CCC when they were young and by 
+        the time Yvonne was in grade school, she had become a regular there, as would her own children, 
+        later in life (they would all be called "Center Kids").<br><Br>
+
+        Yvonne was on the Board of Directors of the Cambridge Community Center for over thirty years 
+        (she stepped down in 2019). Yvonne served as a teacher, the Board of Directors treasurer, secretary, 
+        and president, as well as an interim director of the entire program. Today, Yvonne continues
+        her work with CCC on a volunteer basis, meeting with and giving advice to high school seniors 
+        and their families, serving as a member of the Sister to Sister Community Conversations Committee, 
+        which provides "informational workshops on issues impacting women of color, their families and 
+        their lives" and science and cooking teacher. Her commitment to CCC and community involvement is
+        such that she recently quipped her daughters joke that "If she's not home, she's at the CCC. 
+        If she's not at the CCC, she's at church."<br><Br>
+
+        Yvonne's work life also followed a very interesting path. She spent her entire career at M.I.T., 
+        beginning in 1965. In the oral history book, <i>Technology and the Dream: Reflections on the Black 
+        Experience at M.I.T., 1941-1999</i>, by Clarence G. Williams, Yvonne stated: "All of my grandmother's 
+        children were born in Cambridge, literally within walking distance to M.I.T. My mother always 
+        worked in factories until she came to work at M.I.T." (her mother worked as a payroll accountant 
+        there). When Yvonne applied for a job at M.I.T. in 1965, she didn't know if a Cambridge African-American 
+        girl with a high school diploma would be considered. She got the job—as a clerk in the Personnel 
+        Department. Yvonne later used M.I.T.'s tuition assistance program to get her bachelor's degree and 
+        eventually pursued and achieved a master's degree in education—she was ready to start a new career 
+        as a teacher. But M.I.T. offered her a position as the Assistant Director of Financial Aid, which 
+        she accepted. By 1986, she was promoted to Associate Director of Financial Aid. She embraced her
+        role in helping needy students navigate the complex web of financial aid requirements and to help 
+        them achieve their dreams.<br><Br>
+
+        Yvonne served as a member of the first committee to work on Cambridge's African American Heritage 
+        Trail Project in the 1990s. Yvonne's work and dedication have been recognized by many organizations 
+        over the years, including M.I.T.'s Martin Luther King, Jr. Achievement Award in 1989 and their President's 
+        Award for Community Service in 1994, as well as the 2019 Janet "Ms. K" Kendrick Sisters of the Center
+        [CCC] Award. Yvonne was recently asked to join the board of Cambridge Black History In Action (CBHA); 
+        she now serves on the board as a representative of the Cambridge Community Center. CBHA has been 
+        working on converting St. Augustine's African Orthodox Church in Cambridge (established in the 1920s) 
+        into a community and arts center.<br><Br>
+
+`,
+        otherNotes: "",
+        references: ` 
+          Oral interview by Anthony Beckwith, December 8, 2025<br><br>
+        MIT Black History article, <a href="https://www.blackhistory.mit.edu/archive/yvonne-harris-and-sherry-glanville-ca-1965">"Yvonne Harris and Sherr Glanville, ca. 1965"</a><br><br>
+        Upworthy.com, <a href="https://www.upworthy.com/cambridge-community-center">"How this beloved, 90-year-old community center continues to be a haven for so many to this day"</a>, March 29, 2020<br><br>
+
+        CCC Facebook post, <a href="https://www.facebook.com/CambCommCenter/posts/meet-yvonne-gittens-recipient-of-the-2019-janet-ms-k-kendrick-sisters-of-the-cen/10162414874505357/">"Meet Yvette Gittens"</a>,  Oct. 7, 2019<br><br>
+        <a href="https://www.bhacambridge.org/">Black History In Action website</a> <br><br>
+        
+             `,
+        photos: ["images_bios/gittens_yvette.jpg"],
+        photoTitles: [],
+        dateCreated: "December 9, 2025",
+        dateUpdated: "",
+
+        photoHeights: [],
+        authors: "Anthony Beckwith",
+        categories: ["Teacher, Volunteer, Community Leader"],
+    },
 ];
