@@ -859,7 +859,7 @@ g_bios = [
         <a href="https://www.bhacambridge.org/">Black History In Action website</a> <br><br>
         
              `,
-        photos: ["images_bios/gittens_Yvonne.jpg"],
+        photos: ["images_bios/gittens_yvonne.jpg"],
         photoTitles: [],
         dateCreated: "December 9, 2025",
         dateUpdated: "",
