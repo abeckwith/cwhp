@@ -123,10 +123,27 @@ function showRecents(num) {
 
                 //only add to list if within number of months selected:
                 if (monthsDifference < RECENT_MONTHS_LIMIT) {
+                    dc = thename.dateCreated;
+                    //shorten month name:
+                    if(thename.dateCreated.indexOf("," != -1)){
+                        dateSplit = thename.dateCreated.split(" ");
+                        m = dateSplit[0]; //month
+
+                        //add space if 1 digit month:
+                        dateNum = dateSplit[1];
+                        dateNum = dateNum.substring(0, dateNum.length - 1); //get rid of comma
+                        if(dateNum.length == 1) spc = "&nbsp;&nbsp;";
+                        else spc = "";
+
+                        //find where momth ends and abbreviate:
+                        spc_loc = thename.dateCreated.indexOf(" ");
+                        dc = m.substring(0,3) + "." + spc + thename.dateCreated.substring(spc_loc)
+                    }
                     // html +=
                     html_build =
-                        "<br></i><br> <b>" +
-                        thename.dateCreated +
+                        "<br></i>" +
+                        dc +
+                        // thename.dateCreated +
                         ":</b>&nbsp;<a href='bios.html?lNm=" +
                         thename.lastName +
                         "&mNm=" +
@@ -165,7 +182,7 @@ function showRecents(num) {
     r.forEach((element) => {
         html += element.html_build;
     });
-    
+
     if (html != "") document.getElementById("recents").innerHTML = html;
     else
         document.getElementById("recents").innerHTML =

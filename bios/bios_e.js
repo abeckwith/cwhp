@@ -241,7 +241,7 @@ e_bios = [
         `,
         photos: ["images_bios/easterling.png", "images_bios/easterling2.png"],
         photoTitles: [],
-        dateCreated: "June 1, 2025 ",
+        dateCreated: "June 1, 2025",
         dateUpdated: "",
         photoPos: [],
         photoHeights: [],

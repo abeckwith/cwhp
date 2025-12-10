@@ -2232,7 +2232,7 @@ b_bios = [
         `,
         photos: ["images_bios/susan_butcher.jpg"],
         photoTitles: [],
-        dateCreated: "June 1, 2025 ",
+        dateCreated: "June 1, 2025",
         dateUpdated: "",
 
         photoHeights: [],
@@ -2337,7 +2337,7 @@ b_bios = [
         `,
         photos: ["images_bios/barbarabeckwith.jpg"],
         photoTitles: [],
-        dateCreated: "June 21, 2025 ",
+        dateCreated: "June 21, 2025",
         dateUpdated: "",
 
         photoHeights: [],
@@ -2462,7 +2462,7 @@ b_bios = [
         `,
         photos: ["images_bios/butterfield.png"],
         photoTitles: [""],
-        dateCreated: "November 15, 2025 ",
+        dateCreated: "November 15, 2025",
         dateUpdated: "",
 
         photoHeights: ["400"],
@@ -2520,7 +2520,7 @@ b_bios = [
         `,
         photos: ["images_bios/boudreau_alma2.png"],
         photoTitles: ["Ddication of the library in Alma's name, 1989 (Alma at center)"],
-        dateCreated: "December 10, 2025 ",
+        dateCreated: "December 10, 2025",
         dateUpdated: "",
 
         photoHeights: [""],
