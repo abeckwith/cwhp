@@ -142,7 +142,7 @@ function showRecents(num) {
                         thename.firstName +
                         "</a>,<i> " +
                         thename.title +
-                      "<Br>";
+                      "";
                     yr = parseInt(year)
                     recentsObjects.push({ html_build, monthNum,yr});
                 }
