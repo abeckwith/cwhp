@@ -86,19 +86,10 @@ function showRecents(num) {
     all_bios.forEach((bioLetterList) => {
         //go through each name for this letter:
         bioLetterList.forEach((thename) => {
-            // if (thename.deathDate == "" && thename.firstName !== "")
-            //     console.log(
-            //         thename.lastName +
-            //             ", " +
-            //             thename.firstName +
-            //             " (b. " +
-            //             thename.birthDate +
-            //             ")"
-            //     );
             if (thename.dateCreated != "prior to 2009") {
                 //if something like Mar 2024:
 
-                //covers"Jan 2025" and "January 2, 2025":
+                //covers"Jan 2025" and "January 2, 2025": UPDATE: all should now be Month d, yyyy
                 if (thename.dateCreated.indexOf(",") != -1) delimiter = ",";
                 else delimiter = " ";
 
@@ -106,9 +97,10 @@ function showRecents(num) {
                     .split(delimiter)[0]
                     .substring(0, 3); //1st 3 chars: Jan
 
+                //GET YEAR:
                 year = thename.dateCreated.split(delimiter)[1];
 
-                //find month number
+                //GET MONTH NUM:
                 monthNum = 0;
                 for (let index = 0; index < months.length; index++) {
                     const monthName = months[index];
@@ -116,14 +108,19 @@ function showRecents(num) {
                         monthNum = index;
                     }
                 }
+                //GET DAY, IF INCLUDED:
+                theDate = "none";
+                if (thename.dateCreated.indexOf(",") != -1) {
+                    theDate = thename.dateCreated.split(" ")[1];
+                    theDate = theDate.substring(0, theDate.length - 1);
+                }
 
-                // if (year >= earliestYear && monthNum >= earliestMonth)
                 currYear = new Date().getUTCFullYear();
                 currMonth = new Date().getMonth();
 
                 monthsDifference =
                     (currYear - year) * 12 + currMonth - monthNum;
-                console.log(thename.title);
+
                 //only add to list if within number of months selected:
                 if (monthsDifference < RECENT_MONTHS_LIMIT) {
                     // html +=
@@ -142,36 +139,33 @@ function showRecents(num) {
                         thename.firstName +
                         "</a>,<i> " +
                         thename.title +
-                      "";
-                    yr = parseInt(year)
-                    recentsObjects.push({ html_build, monthNum,yr});
+                        "";
+                    yr = parseInt(year);
+                    recentsObjects.push({ html_build, monthNum, yr, theDate });
                 }
             }
         });
     });
+    //SORT ALGORITHM: first by year, then month, then day:
     r = recentsObjects.sort((a, b) => {
         // Primary sort: by age (ascending)
-        if (a.year > b.year) {
-            return -1;
-        }
-        if (a.year < b.year) {
-            return 1;
-        }
-
-        // If ages are equal, secondary sort: by score (descending)
-        if (a.monthNum < b.monthNum) {
-            return 1; // b comes before a for descending order
-        }
-        if (a.monthNum > b.monthNum) {
-            return -1; // a comes before b for descending order
+        if (a.year > b.year) return -1;
+        if (a.year < b.year) return 1;
+        if (a.monthNum < b.monthNum) return 1;
+        if (a.monthNum > b.monthNum) return -1;
+        if (a.theDate != "none" && b.theDate != "none") {
+            if (parseInt(a.theDate) < parseInt(b.theDate)) return 1;
+            if (parseInt(a.theDate) > parseInt(b.theDate)) return -1;
         }
 
-        return 0; // Ages and scores are equal, maintain original order
+        return 0;
     });
-    r.forEach(element => {
+
+    //PUT TOGETHER DISPLAY:
+    r.forEach((element) => {
         html += element.html_build;
     });
-    console.log(recentsObjects)
+    
     if (html != "") document.getElementById("recents").innerHTML = html;
     else
         document.getElementById("recents").innerHTML =

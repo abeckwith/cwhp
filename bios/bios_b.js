@@ -2456,15 +2456,75 @@ b_bios = [
             <br><Br>
             City of Cambridge announcement:  <a href="https://www.cambridgema.gov/CDD/News/2024/5/cambridgebusinesseshonoredat2024legacyluncheonawards"><br>
            
-            https://www.cambridgema.gov/CDD/News/2024/5/cambridgebusinesseshonoredat2024legacyluncheonawards</a>
+            https://www.cambridgema.gov/CDD/News/2024/5/cambridgebusinesseshonoredat2024legacyluncheonawards</a><br><Br>
+            Image from findagrave.com: <a href="https://www.findagrave.com/memorial/214077114/elizabeth-anne-butterfield">
+            https://www.findagrave.com/memorial/214077114/elizabeth-anne-butterfield</a>
         `,
-        photos: ["images_bios/brynmawr.JPG"],
-        photoTitles: ["Bryn Mawr Bookstore in Cambridge"],
+        photos: ["images_bios/butterfield.png"],
+        photoTitles: [""],
         dateCreated: "November 15, 2025 ",
         dateUpdated: "",
 
         photoHeights: ["400"],
         authors: "Jan Gardner (author), Barbara Beckwith (editor)",
         categories: ["Activist", "Non-profit Owner"],
+    },
+     {
+        organization: false,
+        lastName: "Boudreau",
+        firstName: "Alma",
+        middleName: "Marie",
+        familyName: "",
+        
+        title: `Telephone company worker, Library trustee`,
+        birthDate: "07.27.1908",
+        birthLocation: "Cambridge, Massachusetts",
+        deathDate: "05.05.1995",
+        deathLocation: "Medford, Massachusetts",
+        narrative: `
+
+       Alma Boudreau was a book lover and dedicated parton of the Cambridge Public Library system, 
+       serving on the Board of Trustees for 57 years, from the 1930s into the 1980s. The Observatory 
+       Hill Branch of the CPL on Concord Avenue is named after her.<Br><Br>
+
+        Alma grew up in Cambridge, the youngest of seven children, with her mother Jane and her
+         father (a carpenter) John C. Boudreau. Both of her parents were originally from 
+         French-speaking Nova Scotia. The family initially lived on Walden Street and Alma 
+         later resided on Lakeview Avenue.<Br><Br>
+
+    Alma attended the Russell Elementary School, acted in Cambridge-based musical comedies 
+    in her teens, and attended Marycliffe Academy in Arlington, which was founded in the early
+     1900s by nuns from France, specifically to serve the children of French-speaking immigrants.<Br><Br>
+
+    Alma became a clerk for the New England Telephone Company in the late 1920s, working at the
+     Temple Street office in Cambridge. She remained with the company for 47 years. In addition 
+     to her work with the telephone company, Alma became a member of the Board of Trustees for 
+     the Cambridge Public Library in the 1930s and remained in that position for 57 years. Alma 
+     was for decades part of fundraisers for Cambridge's Holy Ghost Hospital Guild, which later
+      became Youville Hospital, where she served as a trustee for seven years. <Br><Br>
+
+    For most of her life, Alma was a close friend of Marion Hurley, the wife of the governer 
+    of Massachusetts. At a June 1979 celebration in honor of Alma's 41 years work for the 
+    Cambridge Public Library, a Cambridge Chronicle ran an article entitled “Alma Boudreau doesn't 
+    know what all the fuss is about." A retired New England Telephone Company manager and congressional aide
+     to House Speaker Tip O'Neill described Alma as a "perfectionist, who knew every fact of her job" 
+     and "has a lively sense of humor." The same article quoted Alma as saying “You might have thought 
+     I put every brick in every branch library building. Well, I didn't. Now let's go have some tea!”<Br><Br>
+
+       
+            `,
+        otherNotes: "",
+        references: `
+            <i>Cambridge Chronicle</i>:<br>30 July 1910<br>9 May 1925<br>24 September 1927<br>22 August 1930
+            <br>9 February 1950<br>24 May 1962<br>14 June 1979<br>5 October 1989
+        `,
+        photos: ["images_bios/boudreau_alma2.png"],
+        photoTitles: ["Ddication of the library in Alma's name, 1989 (Alma at center)"],
+        dateCreated: "December 10, 2025 ",
+        dateUpdated: "",
+
+        photoHeights: [""],
+        authors: "Anthony Beckwith",
+        categories: ["Telephone company worker", "Library Trustee"],
     },
 ];
