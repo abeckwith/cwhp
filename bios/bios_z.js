@@ -13,7 +13,7 @@ z_bios = [
         deathLocation: "",
         narrative: `
          Dolores Zappala was born and raised in Cambridge, the daugther of Anthony and Dolores (Totsi) Zappala. She was educated in 
-         Cambridge schools, graduating from Matignon High School in 1965. In the 60s she joined the Blessed
+         Cambridge schools, graduating from Matignon High School in 1965. In the 1960s she joined the Blessed
           Sacrament Color Guards (SAC) in Cambridge, and her sister Ann Marie soon followed her into the group.
            The young sisters' involvement persuaded their father (at their mother's urging) to become active in
             the organization with the result that he directed the SAC from the 1970s until his death in 1990.
@@ -43,8 +43,9 @@ References:
         Blessed Sacrament Color Guards: <a href="https://blessedsaccg.com/history/" target="_blank">https://blessedsaccg.com/history/</a> 
         (this includes a photograph of the Zappala family)
 World Guard International: <a href="https://www.wgi.org/about-wgi/what-is-wgi/hall-of-fame/" target="_blank">https://www.wgi.org/about-wgi/what-is-wgi/hall-of-fame/</a>
-    `,
-        photos: [""],
+<br><Br>Photo from <i>Cambridge Chronicle</i>, April 11, 1968  
+`,
+        photos: ["images_bios/zappala_dolores.png"],
         photoTitles: [],
         dateCreated: "prior to 2009",
         dateUpdated: "July 11, 2025",
