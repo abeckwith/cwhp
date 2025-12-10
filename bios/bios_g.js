@@ -802,8 +802,8 @@ g_bios = [
            years, she is proud of her family's roots in Barbados and her connection to the local Barbadian 
            community. <br><Br>
 
-        Yvonne's grandparents grew up in Cambridge and Pennsylvania and her parents were both born in Cambridge 
-        in the 1920s. Yvonne attended the Cambridge public schools (Houghton Elementary on Putnam Avenue and 
+        Yvonne's grandparents migrated to Cambridge and her parents were both born there in the 1920s. 
+        Yvonne attended the Cambridge public schools (Houghton Elementary on Putnam Avenue and 
         then Cambridge High and Latin School) and she later earned her undergraduate degree from Lesley 
         University and her Master's Degree from Harvard University's School of Education.<br><Br>
 
@@ -812,8 +812,8 @@ g_bios = [
         building on Callendar Street. The organization was a reaction to the local YMCA's whites-only
         policy at the time. The CCC was set up to provide a variety of youth programs and family 
         support initiatives. Yvonne's parents attended programs at CCC when they were young and by 
-        the time Yvonne was in grade school, she had become a regular there, as would her own children, 
-        later in life (they would all be called "Center Kids").<br><Br>
+        the time Yvonne was in grade school, she had become a regular there, as would her own children and grandchildren 
+        (they would all be called "Center Kids").<br><Br>
 
         Yvonne was on the Board of Directors of the Cambridge Community Center for over thirty years 
         (she stepped down in 2019). Yvonne served as a teacher, the Board of Directors treasurer, secretary, 
@@ -843,9 +843,8 @@ g_bios = [
         Trail Project in the 1990s. Yvonne's work and dedication have been recognized by many organizations 
         over the years, including M.I.T.'s Martin Luther King, Jr. Achievement Award in 1989 and their President's 
         Award for Community Service in 1994, as well as the 2019 Janet "Ms. K" Kendrick Sisters of the Center
-        [CCC] Award. Yvonne was recently asked to join the board of Cambridge Black History In Action (CBHA); 
-        she now serves on the board as a representative of the Cambridge Community Center. CBHA has been 
-        working on converting St. Augustine's African Orthodox Church in Cambridge (established in the 1920s) 
+        Award. Yvonne is currently (2025) serving on the board of <i>Black History In Action</i>, a Cambridge-based organization that has 
+        worked to convert St. Augustine's African Orthodox Church in Cambridge (established in the 1920s) 
         into a community and arts center.<br><Br>
 
 `,
