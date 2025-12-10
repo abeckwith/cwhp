@@ -2484,7 +2484,7 @@ b_bios = [
         narrative: `
 
        Alma Boudreau was a book lover and dedicated parton of the Cambridge Public Library system, 
-       serving on the Board of Trustees for 57 years, from the 1930s into the 1980s. The Observatory 
+       serving on its Board of Trustees for 57 years, from the 1930s into the 1980s. The Observatory 
        Hill Branch of the CPL on Concord Avenue is named after her.<Br><Br>
 
         Alma grew up in Cambridge, the youngest of seven children, with her mother Jane and her
@@ -2492,7 +2492,7 @@ b_bios = [
          French-speaking Nova Scotia. The family initially lived on Walden Street and Alma 
          later resided on Lakeview Avenue.<Br><Br>
 
-    Alma attended the Russell Elementary School, acted in Cambridge-based musical comedies 
+    Alma attended the Russell Elementary School on Larch Road, acted in Cambridge-based musical comedies 
     in her teens, and attended Marycliffe Academy in Arlington, which was founded in the early
      1900s by nuns from France, specifically to serve the children of French-speaking immigrants.<Br><Br>
 
@@ -2505,7 +2505,7 @@ b_bios = [
 
     For most of her life, Alma was a close friend of Marion Hurley, the wife of the governer 
     of Massachusetts. At a June 1979 celebration in honor of Alma's 41 years work for the 
-    Cambridge Public Library, a Cambridge Chronicle ran an article entitled “Alma Boudreau doesn't 
+    Cambridge Public Library, the Cambridge Chronicle ran an article entitled “Alma Boudreau doesn't 
     know what all the fuss is about." A retired New England Telephone Company manager and congressional aide
      to House Speaker Tip O'Neill described Alma as a "perfectionist, who knew every fact of her job" 
      and "has a lively sense of humor." The same article quoted Alma as saying “You might have thought 
