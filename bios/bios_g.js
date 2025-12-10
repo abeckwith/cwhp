@@ -865,6 +865,6 @@ g_bios = [
 
         photoHeights: [],
         authors: "Anthony Beckwith",
-        categories: ["Teacher, Volunteer, Community Leader"],
+        categories: ["Teacher", "Volunteer", "Community Leader"],
     },
 ];
