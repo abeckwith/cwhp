@@ -2483,7 +2483,7 @@ b_bios = [
         deathLocation: "Medford, Massachusetts",
         narrative: `
 
-       Alma Boudreau was a book lover and dedicated parton of the Cambridge Public Library system, 
+       Alma Boudreau was a book lover and dedicated patron of the Cambridge Public Library system, 
        serving on its Board of Trustees for 57 years, from the 1930s into the 1980s. The Observatory 
        Hill Branch of the CPL on Concord Avenue is named after her.<Br><Br>
 
