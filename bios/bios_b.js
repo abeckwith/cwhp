@@ -2483,8 +2483,10 @@ b_bios = [
         deathLocation: "Medford, Massachusetts",
         narrative: `
 
-       Alma Boudreau was a book lover and dedicated patron of the Cambridge Public Library system, 
-       serving on its Board of Trustees for 57 years, from the 1930s into the 1980s. <Br><Br>
+       Alma Boudreau was a book lover (in the 1970s, she stated
+       that every 2-3 weeks she would check out close to ten books from her local library) 
+       and a dedicated patron of the Cambridge Public Library system, 
+       serving on its Board of Trustees for 57 years, from the 1930s into the 1980s.<Br><Br>
 
         Alma grew up in Cambridge, the youngest of seven children, with her mother Jane and her
          father (a carpenter) John C. Boudreau. Both of her parents were originally from 
