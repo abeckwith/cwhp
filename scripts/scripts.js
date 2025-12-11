@@ -76,12 +76,9 @@ function showRecents(num) {
         "November",
         "December",
     ];
-    html =
-        "<span class='nice-header'>RECENTLY ADDED (last " +
-        RECENT_MONTHS_LIMIT +
-        " months)</span><br>";
 
     recentsObjects = [];
+    recentCount = 0;
     //go through each A-Z bio list:
     all_bios.forEach((bioLetterList) => {
         //go through each name for this letter:
@@ -123,21 +120,32 @@ function showRecents(num) {
 
                 //only add to list if within number of months selected:
                 if (monthsDifference < RECENT_MONTHS_LIMIT) {
+                    recentCount++;
                     dc = thename.dateCreated;
                     //shorten month name:
-                    if(thename.dateCreated.indexOf("," != -1)){
+                    if (thename.dateCreated.indexOf("," != -1)) {
                         dateSplit = thename.dateCreated.split(" ");
                         m = dateSplit[0]; //month
 
                         //add space if 1 digit month:
                         dateNum = dateSplit[1];
                         dateNum = dateNum.substring(0, dateNum.length - 1); //get rid of comma
-                        if(dateNum.length == 1) spc = "&nbsp;&nbsp;";
+                        if (dateNum.length == 1) spc = "&nbsp;&nbsp;";
                         else spc = "";
 
                         //find where momth ends and abbreviate:
                         spc_loc = thename.dateCreated.indexOf(" ");
-                        dc = m.substring(0,3) + "." + spc + thename.dateCreated.substring(spc_loc)
+                        if (m.substring(0, 3) != "May")
+                            dc =
+                                m.substring(0, 3) +
+                                "." +
+                                spc +
+                                thename.dateCreated.substring(spc_loc);
+                        else
+                            dc =
+                                m.substring(0, 3) +
+                                spc +
+                                thename.dateCreated.substring(spc_loc);
                     }
                     // html +=
                     html_build =
@@ -163,6 +171,10 @@ function showRecents(num) {
             }
         });
     });
+    html =
+        "<span class='nice-header2'>" + recentCount + " NEW BIOS ADDED IN LAST " +
+        RECENT_MONTHS_LIMIT +
+        " MONTHS</span><br>";
     //SORT ALGORITHM: first by year, then month, then day:
     r = recentsObjects.sort((a, b) => {
         // Primary sort: by age (ascending)
