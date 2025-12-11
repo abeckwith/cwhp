@@ -172,7 +172,7 @@ function showRecents(num) {
         });
     });
     html =
-        "<Center><span class='nice-header2'>" + recentCount + " NEW BIOS ADDED IN LAST " +
+        "<Center><span class='nice-header2'>" + recentCount + " NEW BIOS ADDED IN THE LAST " +
         RECENT_MONTHS_LIMIT +
         " MONTHS:</span><br></center>";
     //SORT ALGORITHM: first by year, then month, then day:

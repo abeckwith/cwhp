@@ -1038,56 +1038,56 @@ m_bios = [
         authors: "Anthony Beckwith",
         categories: ["Activist", "Poet", "Author"],
     },
-    {
-        organization: false,
-        lastName: "McCree",
-        firstName: "Robin",
-        middleName: "",
-        familyName: "",
+    // {
+    //     organization: false,
+    //     lastName: "McCree",
+    //     firstName: "Robin",
+    //     middleName: "",
+    //     familyName: "",
         
-        title: `Probation officer and clerk magistrate in Cambridge`,
-        birthDate: "",
-        birthLocation: "",
-        deathDate: "",
-        deathLocation: "",
-        narrative: `
+    //     title: `Probation officer and clerk magistrate in Cambridge`,
+    //     birthDate: "",
+    //     birthLocation: "",
+    //     deathDate: "",
+    //     deathLocation: "",
+    //     narrative: `
         
-        <i>Robin McCree was the first
-        Black female probation officer in the city of Cambridge and 
-        later became the first Black assistant clerk magistrate in the city of Cambridge.
-        Robin has a long history of supporting Cambridge in various volunteer efforts from running a 
-        Tobin School youth group to working for Cambridge's Election Commission and Women's Commission
-         to leading a women's
-         bible study group in her church</i>.<br><br>
-        Here, she shares her story with the <b>Cambridge Black History Project</b>:
-       <h2> <center><a href='https://vimeo.com/725359798' target="_blank">Robin McCree's story</a></h2><Br><Br>
-        </center>
-       The <a href='https://cambridgeblackhistoryproject.org/' target="_blank">Cambridge Black HIstory Project</a>
-        is an organization dedicated to preserving the lives and accomplishments
-       of Black Cantabridgians.  We encourage you to explore the powerful stories they share on their website:
-       <br>
-        <Br><center>
-        <a href='https://cambridgeblackhistoryproject.org/' target="_blank">
+    //     <i>Robin McCree was the first
+    //     Black female probation officer in the city of Cambridge and 
+    //     later became the first Black assistant clerk magistrate in the city of Cambridge.
+    //     Robin has a long history of supporting Cambridge in various volunteer efforts from running a 
+    //     Tobin School youth group to working for Cambridge's Election Commission and Women's Commission
+    //      to leading a women's
+    //      bible study group in her church</i>.<br><br>
+    //     Here, she shares her story with the <b>Cambridge Black History Project</b>:
+    //    <h2> <center><a href='https://vimeo.com/725359798' target="_blank">Robin McCree's story</a></h2><Br><Br>
+    //     </center>
+    //    The <a href='https://cambridgeblackhistoryproject.org/' target="_blank">Cambridge Black HIstory Project</a>
+    //     is an organization dedicated to preserving the lives and accomplishments
+    //    of Black Cantabridgians.  We encourage you to explore the powerful stories they share on their website:
+    //    <br>
+    //     <Br><center>
+    //     <a href='https://cambridgeblackhistoryproject.org/' target="_blank">
 
-        <img style='border-style: none;' src='images_util/CBHP.jpg' width='200'>
-        </a></center>
+    //     <img style='border-style: none;' src='images_util/CBHP.jpg' width='200'>
+    //     </a></center>
         
 
     
-        `,
-        otherNotes: "",
-        references: `
+    //     `,
+    //     otherNotes: "",
+    //     references: `
         
-        `,
-        photos: [""],
-        photoTitles: [],
-        dateCreated: "June 1, 2025",
-        dateUpdated: "",
+    //     `,
+    //     photos: [""],
+    //     photoTitles: [],
+    //     dateCreated: "June 1, 2025",
+    //     dateUpdated: "",
 
-        photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
-        categories: ["Clerk", "Law Enforcement"],
-    },
+    //     photoHeights: [],
+    //     authors: "Cambridge Women's Heritage Project volunteers",
+    //     categories: ["Clerk", "Law Enforcement"],
+    // },
       {
         organization: false,
         lastName: "McKay",
