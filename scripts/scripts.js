@@ -172,9 +172,9 @@ function showRecents(num) {
         });
     });
     html =
-        "<span class='nice-header2'>" + recentCount + " NEW BIOS ADDED IN LAST " +
+        "<Center><span class='nice-header2'>" + recentCount + " NEW BIOS ADDED IN LAST " +
         RECENT_MONTHS_LIMIT +
-        " MONTHS</span><br>";
+        " MONTHS:</span><br></center>";
     //SORT ALGORITHM: first by year, then month, then day:
     r = recentsObjects.sort((a, b) => {
         // Primary sort: by age (ascending)

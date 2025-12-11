@@ -2484,8 +2484,7 @@ b_bios = [
         narrative: `
 
        Alma Boudreau was a book lover and dedicated patron of the Cambridge Public Library system, 
-       serving on its Board of Trustees for 57 years, from the 1930s into the 1980s. The Observatory 
-       Hill Branch of the CPL on Concord Avenue is named after her.<Br><Br>
+       serving on its Board of Trustees for 57 years, from the 1930s into the 1980s. <Br><Br>
 
         Alma grew up in Cambridge, the youngest of seven children, with her mother Jane and her
          father (a carpenter) John C. Boudreau. Both of her parents were originally from 
@@ -2510,6 +2509,9 @@ b_bios = [
      to House Speaker Tip O'Neill described Alma as a "perfectionist, who knew every fact of her job" 
      and "has a lively sense of humor." The same article quoted Alma as saying “You might have thought 
      I put every brick in every branch library building. Well, I didn't. Now let's go have some tea!”<Br><Br>
+     In 1989, the Observatory 
+       Hill Branch of the Cambridge Public Library, located at 245 Concord Avenue, was named in Alma's honor, for her 
+       dedication and decades of service. 
 
        
             `,
@@ -2519,7 +2521,7 @@ b_bios = [
             <br>9 February 1950<br>24 May 1962<br>14 June 1979<br>5 October 1989
         `,
         photos: ["images_bios/boudreau_alma2.png"],
-        photoTitles: ["Ddication of the library in Alma's name, 1989 (Alma at center)"],
+        photoTitles: ["Dedication of the Boudreau library branch in Alma's name, 1989 (Alma at center)"],
         dateCreated: "December 10, 2025",
         dateUpdated: "",
 
