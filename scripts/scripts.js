@@ -1083,7 +1083,7 @@ function init(topical, search) {
     else html = "";
     html +=
         '<div style="margin-bottom:50px"></div>' +
-        '<hr><p style="text-align:right"id="footnote">Cambridge Women\'s Heritage Project<br>Last updated Decemeber 2025</p>';
+        '<hr><p style="text-align:right"id="footnote">Cambridge Women\'s Heritage Project<br>Last updated December 2025</p>';
 
     document.getElementById("end-HTML").innerHTML = html;
 }
