@@ -707,9 +707,9 @@ l_bios = [
         `,
         otherNotes: "",
         references: `
-        CCTV Instagram post, <a href="https://www.instagram.com/p/DOTEMspDly9/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">
+        CCTV Instagram post, <a href="https://www.instagram.com/p/DOTEMspDly9/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank">
         Sept. 7, 2025</a><br><br>
-        Image from <a href="https://www.legacy.com/us/obituaries/legacyremembers/mary-leno-obituary?id=59453208">
+        Image from <a href="https://www.legacy.com/us/obituaries/legacyremembers/mary-leno-obituary?id=59453208" target="_blank">
         https://www.legacy.com/us/obituaries/legacyremembers/mary-leno-obituary?id=59453208</a><br><br>
 
         <i>Boston Globe</i>, September 10, 2000, April 26, 2018, November 16, 2008
