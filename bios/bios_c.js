@@ -573,6 +573,7 @@ c_bios = [
             School of Three Gourmands) with two partners. In 1961, the three women published
             <em>Mastering the Art of French Cookery</em>, considered at the time to be the
             best book on the subject in English. <br><br>
+
             In 1961, Julia and her husband moved to Cambridge
             where she remained until a few years before her death. In 1963, she began a
             regular series of television programs, &#8220;The French Chef&#8221; on Boston's
@@ -582,26 +583,45 @@ c_bios = [
             including much of the content from her programs. In the 1970s and 1980s, she
             starred in further programs, &#8220;Julia and Company&#8221; and &#8220;Dinner
             at Julia's.&#8221; A series of cook books also came out of this and her
-            subsequent television series. <br><br>In the 1990s, she hosted four more series with
-            a various celebrity chefs. She founded the educational American Institute of
+            subsequent television series. <br><br>
+            
+            In the 1990s, she hosted four more series with
+            arious celebrity chefs. 
+            While her earliest programs were filmed on a television set, 
+             "Cooking with Master Chefs," "In Julia's Kitchen with Master Chefs," "Baking with Julia" and
+              "Julia and Jacques Cooking at Home" were all filmed in Julia's  
+              Cambridge kitchen at 103 Irving Street, just north of the Cambridge 
+              Rindge and Latin School. A replica of that Cambridge kitchen is now in Smithsonian's National Museum of American History.
+
+            Much of the interesting cookware she used in that kitchen 
+            was provided by Design Research, located in Harvard Square. She often shopped at 
+            Savenor's Market, just a few blocks from her home.<br><Br>
+            Julia Child founded the educational American Institute of
             Wine and Food in Napa, California in 1978. Among her many honors, she was awarded
             the Legion of Honor by the French government in 2001, the U.S. Presidential
             Medal of Freedom in 2003 and honorary degrees from Harvard and Smith. She moved
             to a Santa Barbara California retirement home in 2001, gifting her Cambridge
-            home to Smith College and her kitchen to the Smithsonian. <br><br>The papers of Julia
+            home to Smith College and her kitchen to the Smithsonian. <br><br>
+            
+            The papers of Julia
             Child (1920-1993) are in the Schlesinger Library at Radcliffe. `,
         otherNotes: "",
-        references: ` Schlesinger Library, Julia Child collection guide;
+        references: ` Schlesinger Library, Julia Child collection guide<br>
             <em>Treasury of Women's Quotations</em> by Carolyn Warner, Prentice Hall,
-            Englewood Cliffs, NJ, 1992.<Br>Image source: https://commons.wikimedia.org/wiki/File:Julia_Child_restore.jpg
+            Englewood Cliffs, NJ, 1992.<Br>
+            <a href="https://guides.library.harvard.edu/schlesinger_julia_child" target="_blank">Schlesinger Papers</a><br>
+            Image source: <a href="https://commons.wikimedia.org/wiki/File:Julia_Child_restore.jpg" target="_blank">
+            https://commons.wikimedia.org/wiki/File:Julia_Child_restore.jpg</a><Br>
+            History Cambridge <a href="https://historycambridge.org/articles/julia-childs-kitchen/" target="_blank">article</a>
         `,
         photos: ["images_bios/Julia_Child_restore.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2009",dateUpdated:
- "",
+        dateCreated: "prior to 2009",
+        dateUpdated:
+        "December 12, 2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        authors: "Cambridge Women's Heritage Project volunteers (author), Anthony Beckwith (editor)",
         categories: ["Chef"],
     },
     {
