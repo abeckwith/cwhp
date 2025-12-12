@@ -175,7 +175,7 @@ y_bios = [
         Autumn 2005, Vol. 10, No. 2: Pages 10-27<Br> Alexander Stille. <em>Benevolence
             and Betrayal: Five Italian Jewish Families under Fascism </em>(1991)<Br> Anna Yona
         Papers, Immigration History Research Center, College of Liberal Arts, University
-        of Minnesota <br> Obituary, Gloria Negri &#8220;Anna Yona at 98; hosted Italian-Hour&#8221;
+        of Minnesota <br> Obituary, Gloria Negri &#8220;Anna Yona at 98; hosted Italian-Hour
         radio show&#8221; <em>Boston Globe</em>, October 15, 2006
     `,
         photos: [""],
@@ -219,10 +219,7 @@ y_bios = [
         Christian Temperance Union from 1881 to 1925, is held at Schlesinger Library,
         as well as photographs, clippings, publications, and office files of the YWCA
         of Cambridge from 1891 to 1981.</p>
-    <p align="right"><br>
-        Cambridge YWCA Girls Basketball
-        Team, 1916. <br>
-        Photo courtesy of the Cambridge Historical Commission.</p>
+  
     `,
         otherNotes: "",
         references: `YWCA
@@ -230,7 +227,7 @@ y_bios = [
        
     `,
         photos: ["images_bios/YWCA%201916%20girls%20basketball%20team.jpeg"],
-        photoTitles: [],
+        photoTitles: ["Cambridge YWCA Girls Basketball Team, 1916. Photo courtesy of the Cambridge Historical Commission."],
         dateCreated: "prior to 2009",
         dateUpdated: "April 12, 2025",
         photoPos: [],

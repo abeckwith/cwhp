@@ -1764,7 +1764,7 @@ b_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2009",
+        dateCreated: "prior to 2019",
         dateUpdated: "",
 
         photoHeights: [],

@@ -293,7 +293,7 @@ r_bios = [
         otherNotes: "",
         references: ` &#8220;Ann Orlov Rubinow,&#8221; obituary news
             article by Bryan Marquard, <em>Boston Globe</em> January 25, 2007; Obituary, <em>Cambridge Chronicle</em>
-            (under Betty A. Rubinow) January 22, 20071-22-07
+            (under Betty A. Rubinow) January 22, 2007
             <br>Image source: <A href="https://www.vtcng.com/stowereporter/archives/betty-ann-orlov-rubinow/article_5b7f7b21-06cb-5708-ae30-d74b45d2059f.html" target="_blank">
             https://www.vtcng.com/stowereporter/archives/betty-ann-orlov-rubinow/article_5b7f7b21-06cb-5708-ae30-d74b45d2059f.html</a>
         `,

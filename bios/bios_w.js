@@ -486,7 +486,7 @@ w_bios = [
         otherNotes: "",
         references: ` Finding aid, The Window Shop Papers, Schlesinger
             Library, Radcliffe Institute<Br> Eleanor Roosevelt, &#8220;My Day&#8221;, May 30,
-            1950; Ellen Miller, Ilse Heyman, Dorothy DahlMBr<<em>The Window Shop: Safe Harbor
+            1950; Ellen Miller, Ilse Heyman, Dorothy Dahl<em>The Window Shop: Safe Harbor
                 for Refugees, 1939-1972</em>, Diesel books, 2007
            
         `,

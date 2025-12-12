@@ -289,7 +289,7 @@ a_bios = [
         `,
         photos: ["images_bios/carol albright.jpeg"],
         photoTitles: [],
-        dateCreated: "prior to 2009",
+        dateCreated: "prior to 2010",
         dateUpdated: "",
 
         photoHeights: [],
@@ -466,7 +466,7 @@ as a writer were recognized only after her death. The founding members, who incl
         `,
         photos: ["images_bios/corinne woodson alleyne.png"],
         photoTitles: [],
-        dateCreated: "prior to 2009",
+        dateCreated: "prior to 2010",
         dateUpdated: "",
 
         photoHeights: [],

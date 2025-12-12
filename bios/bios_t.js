@@ -230,7 +230,7 @@ t_bios = [
         `,
         photos: ["images_bios/Mary_Crutchfield_Thompson.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2009",
+        dateCreated: "prior to 2016",
         dateUpdated: "April 8, 2025",
 
         photoHeights: [],
