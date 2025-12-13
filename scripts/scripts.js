@@ -172,7 +172,9 @@ function showRecents(num) {
         });
     });
     html =
-        "<Center><span class='nice-header2'>THESE " + recentCount + " NEW BIOS HAVE BEEN ADDED IN THE LAST " +
+        "<Center><span class='nice-header2'>THESE " +
+        recentCount +
+        " NEW BIOS HAVE BEEN ADDED IN THE LAST " +
         RECENT_MONTHS_LIMIT +
         " MONTHS:</span><br></center>";
     //SORT ALGORITHM: first by year, then month, then day:
@@ -427,6 +429,7 @@ function makeSidebar(letterIndex, stepping, topical, search) {
     if (!topical && !search) {
         for (i = 0; i < namesLists[letterIndex].length; i++) {
             firstCommaLast = namesLists[letterIndex][i];
+           
             // if (search) add = "' target='_blank";
             // else add = "'";
             html +=
