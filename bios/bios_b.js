@@ -257,7 +257,7 @@ b_bios = [
             who attended Beaver Country Day School and graduated from St. Timothy's.<br><Br>
             Barnes was one of the first women to serve with the
             Women's Auxiliary Service PILOTS (WASP) during WWII. Woomen in this role served as United States federal civil 
-            service employees. Barnes was a trained pilots, like all WASP members. The WASP tested and ferried planes
+            service employees. Barnes was a trained pilot, like all WASP members. The WASP tested and ferried planes
              and trained 
             other pilots as a way to free up male pilots serving in combat postitions. 
             <br><Br>
@@ -282,7 +282,7 @@ b_bios = [
         dateUpdated: "July 29, 2025",
 
         photoHeights: [],
-        authors: "Anthony Beckwith (editor)",
+        authors: "Cambridge Women's Heritage Project volunteers (author)",
         categories: ["Community Leader", "Pilot"],
     },
     {

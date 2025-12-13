@@ -621,7 +621,7 @@ c_bios = [
         "December 12, 2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers (author), Anthony Beckwith (editor)",
+        authors: "Cambridge Women's Heritage Project volunteers (author), Anthony Beckwith (updates)",
         categories: ["Chef"],
     },
     {

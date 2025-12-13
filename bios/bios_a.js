@@ -676,7 +676,7 @@ as a writer were recognized only after her death. The founding members, who incl
             Linda
             Archer was a longtime resident of Cambridge with a home at 345 Broadway in the Mid Cambridge
             neighborhood. She was a devoted member of the Pentecostal Tabernacle in
-            Cambridge. On July 9, 1999, Linda Archer
+            Cambridge. <Br><Br>On July 9, 1999, Linda Archer
             was featured in a story carried on PBS and narrated
             by Bob Abernathy on the hospice approach for terminally ill patients adopted
             within Boston hospitals. In this, she showed a courageous and positive attitude
@@ -837,40 +837,62 @@ as a writer were recognized only after her death. The founding members, who incl
     {
         organization: false,
         lastName: "Avakian",
-        firstName: "Josie",
-        middleName: "",
-        familyName: "",
+        firstName: "Josephine",
+        middleName: "\"Josie\"",
+        familyName: "Santage",
         
-        title: `Social Activist`,
-        birthDate: "",
+        title: `Social Activist, Housing Advocate`,
+        birthDate: "00.00.1954",
         birthLocation: "",
         deathDate: "12.08.2004",
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
 
-            As a member of Jefferson Park Tenant Task Force,
-            Josie Avakian served as the tenant advocate for residents of Jefferson Park
-            and was a tireless spokesperson. She also served on the board of the North Cambridge
-            Health and Service Committee, working with the City Hall, hospital personnel
+            Josie Avakian grew up in Cambridge, being a resident of the Jefferson Park development as early as age 12. She 
+            became a strong advocate for housing rights and a 
+            supporter of working peopole in Cambridge. As a member of Jefferson Park Tenant Task Force,
+            Josie served as the tenant advocate for residents of Jefferson Park
+            and was a tireless spokesperson. <br><br>
+            Josie first became a member of the Jefferson Park Tenant's Council as a teenager in 1972.
+            By 1974 she had been elected Vice President of the North Cambridge Planning Team (NCPT), an elected body of
+            neighborhood residents who monitor real eastate developments, "...speak up for an equitable share of 
+            human and physical city services, and are generaally concerned with preserving and enhancing North Cambridge" life for families.
+            
+            By 1983, she had been elected president of the NCPT.<br><br>
+            Josie volunteered for a youth free lunch program, advocated for safety at Jefferson Park(especially at the nearby
+            railroad tracks), and helped organize free Thanksgiving meals in the neighborhood.
+            Josie worked worked with the Cambridge City Hall, hospital personnel,
             and residents of Jefferson Park to form the first Teen Family Planning Clinic.
-            In 1996, she worked as a member of the North Cambridge Crime Task Force. In
+            In 1996, she worked as a member of the North Cambridge Crime Task Force. <br><br>In
             October 2005, a site near Jackson Street was dedicated in her honor by the Cambridge
-            City Council.
+            City Council. The ceremony was conducted by Cambridge Mayor Walter Sullivan.
 
             `,
         otherNotes: "",
         references: ` Contact information online for task force; Information
             from Mary Russell; Information also from <a
-                href="http://www.rwinters.com/council/103105.htm">www.rwinters.com/council/103105.htm</a>
+                href="http://www.rwinters.com/council/103105.htm">www.rwinters.com/council/103105.htm</a><Br><Br>
+                <i>Cambridge Chronicle:</i><Br>
+
+                                2 Sep 1976<br>
+                1 Aug 1974<br>
+                20 Oct 1977<br>
+                7 Apr 1983<br>
+                10 May 1984<br> 
+                               7 Jun 1984<br>
+                5 May 1977<br>
+                28 Jun 2000<br>
+
+
         `,
         photos: [""],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "",
+        dateUpdated: "December 13, 2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
-        categories: ["Activist"],
+        authors: "Cambridge Women's Heritage Project volunteers (author), Anthony Beckwith (updates)",
+        categories: ["Activist","Housing Advocate"],
     },
     {
         organization: false,
