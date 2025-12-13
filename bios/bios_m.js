@@ -75,7 +75,7 @@ m_bios = [
         references: `
             Veterans Services Department, City of Cambridge.<br>
             January 4, 2011 Mass. Assoc. of Women Veterans Honors<br>
-            <a href="https://www.youtube.com/watch?v=MnTlRJ6UBpc" target="_blank">https://www.youtube.com/watch?v=MnTlRJ6UBpc</a> <br>
+            <a href="https://www.youtube.com/watch?v=MnTlRJ6UBpc" target="_self">https://www.youtube.com/watch?v=MnTlRJ6UBpc</a> <br>
             St. Ansel Alumni Awards description
             <br>
             www.ahernfoundation.org
@@ -507,9 +507,9 @@ m_bios = [
         otherNotes: "",
         references: `
             Interview with Gail Mazur March 30, 2025, by Anthony Beckwith<br>
-        <a href="https://en.wikipedia.org/wiki/Gail_Mazur" target="_blank">Wikipedia entry on Gail Mazur</a><br>
-        <a href="https://www.poetryfoundation.org/poets/gail-mazur" target="_blank">ThePoetryFoundation.org</a><br>
-        <a href="https://www.radcliffe.harvard.edu/people/gail-mazur" target="_blank">Radcliffe profile of Gail Mazur</a><br>
+        <a href="https://en.wikipedia.org/wiki/Gail_Mazur" target="_self">Wikipedia entry on Gail Mazur</a><br>
+        <a href="https://www.poetryfoundation.org/poets/gail-mazur" target="_self">ThePoetryFoundation.org</a><br>
+        <a href="https://www.radcliffe.harvard.edu/people/gail-mazur" target="_self">Radcliffe profile of Gail Mazur</a><br>
         <em>Boston Phoenix</em> article, July 1995<br>
         Photo by Elsa Dorfman, courtesy of Gail Mazur
 
@@ -579,7 +579,7 @@ m_bios = [
                 in America</em>, 1898.<br>
             <em>Blue Book of Cambridge</em>, Cambridge MA, 1904.<br>
             &#8221;Birth Insurance attacked&#8221;<em> New York Times</em>, May 11, 1906.
-            <Br>Photo source: <a href="https://en.wikipedia.org/wiki/Estelle_M._H._Merrill" target="_blank">https://en.wikipedia.org/wiki/Estelle_M._H._Merrill</a>
+            <Br>Photo source: <a href="https://en.wikipedia.org/wiki/Estelle_M._H._Merrill" target="_self">https://en.wikipedia.org/wiki/Estelle_M._H._Merrill</a>
         `,
         photos: ["images_bios/Estelle_Merrill.png"],
         photoTitles: [],
@@ -641,7 +641,7 @@ m_bios = [
                 Harvard Art Museum Archives<br>
                 <em>Harvard University Gazette</em>, September19,
                 1996.
-                <br>Photo source: <a href="https://en.wikipedia.org/wiki/Agnes_Mongan" target="_blank">https://en.wikipedia.org/wiki/Agnes_Mongan</a>
+                <br>Photo source: <a href="https://en.wikipedia.org/wiki/Agnes_Mongan" target="_self">https://en.wikipedia.org/wiki/Agnes_Mongan</a>
         `,
         photos: ["images_bios/AgnesMongan.png"],
         photoTitles: [],
@@ -768,7 +768,7 @@ m_bios = [
             Maud Morgan, <em>Maud's
                 Journey: A Life From Art</em>.( Berkeley, New Earth Publications) 1995. <br>
            
-        <Br>Image source: <a href="https://en.wikipedia.org/wiki/Maud_Morgan" target="_blank">https://en.wikipedia.org/wiki/Maud_Morgan</a>
+        <Br>Image source: <a href="https://en.wikipedia.org/wiki/Maud_Morgan" target="_self">https://en.wikipedia.org/wiki/Maud_Morgan</a>
                 `,
         photos: ["images_bios/MaudCabot.png"],
         photoTitles: [],
@@ -836,11 +836,11 @@ m_bios = [
             on
             May
             31, 2008
-            at <a href="http://www.kirjasto.sci.fi/rfrost.htm" target="_blank">http://www.kirjasto.sci.fi/rfrost.htm</a>.<br><br>
+            at <a href="http://www.kirjasto.sci.fi/rfrost.htm" target="_self">http://www.kirjasto.sci.fi/rfrost.htm</a>.<br><br>
             Faggen,
             R. (2001). <em>The Cambridge Companion to Robert Frost. </em>University Press,
             Cambridge, UK. Found on May 15, 2008 
-            <a href="http://books.google.com/books?id=ApVwkZqt6uwC&amp;printsec=copyright&amp;dq=faggen+the+cambridge+companion+to+robert+frost" target="_blank"
+            <a href="http://books.google.com/books?id=ApVwkZqt6uwC&amp;printsec=copyright&amp;dq=faggen+the+cambridge+companion+to+robert+frost" target="_self"
             >here</a>
             <br><br>
             Parini,
@@ -849,16 +849,16 @@ m_bios = [
             <em>New
                 York Times</em> Obituary, 11/29/1988. &#8220;Theodore Morrison, poet and professor,
             87&#8221;. Found on May 15, 2008 at 
-            <a href="http://query.nytimes.com/gst/fullpage.html?res=940DE0DA143FF93AA15752C1A96E948260" target="_blank">
+            <a href="http://query.nytimes.com/gst/fullpage.html?res=940DE0DA143FF93AA15752C1A96E948260" target="_self">
             http://query.nytimes.com/gst/fullpage.html?res=940DE0DA143FF93AA15752C1A96E948260</a><br><br>
             Seymour,
             M. (1996). &#8220;Stopping by woods for seduction&#8221;,
             <em>New York
                 Times</em> article published May 19, 1996, found on May 15, 2008
-            <a href="http://query.nytimes.com/gst/fullpage.html?res=9C07EFD91339F93AA25756C0A960958260" target="_blank">here</a><br><br>
+            <a href="http://query.nytimes.com/gst/fullpage.html?res=9C07EFD91339F93AA25756C0A960958260" target="_self">here</a><br><br>
             Tuten, Nancy Lewis and John Zubizarreta, editors.
             <em>Robert Frost Encyclopedia</em>. Westport,
-            Conn.: Greenwood Press, 2001. Found <a href="http://books.google.com/books?id=RjZuWeTJpAkC&amp;pg=PA466&amp;lpg=PA466&amp;dq=Robert+Frost+Encyclopedia+Tuten+Zubizarreta" target="_blank"
+            Conn.: Greenwood Press, 2001. Found <a href="http://books.google.com/books?id=RjZuWeTJpAkC&amp;pg=PA466&amp;lpg=PA466&amp;dq=Robert+Frost+Encyclopedia+Tuten+Zubizarreta" target="_self"
             >here</a><br><br>Image courtesty of Middlebury College Special Collections, Middlebury, Vermont
         `,
         photos: ["images_bios/kay_morrison.png"],
@@ -1017,10 +1017,10 @@ m_bios = [
         `,
         otherNotes: "",
         references: `
-          <a href="https://en.wikipedia.org/wiki/Rosario_Morales" target="_blank">https://en.wikipedia.org/wiki/Rosario_Morales</a><Br>
+          <a href="https://en.wikipedia.org/wiki/Rosario_Morales" target="_self">https://en.wikipedia.org/wiki/Rosario_Morales</a><Br>
         <em>Cambridge Chronicle</em> articles from 1982-1990<Br>
         <em>Boston Globe</em> March 4, 1982<Br>
-       Smith College interview at <a href="https://www.smith.edu/libraries/libs/ssc/vof/transcripts/Morales.pdf" target="_blank">https://www.smith.edu/libraries/libs/ssc/vof/transcripts/Morales.pdf</a><Br>
+       Smith College interview at <a href="https://www.smith.edu/libraries/libs/ssc/vof/transcripts/Morales.pdf" target="_self">https://www.smith.edu/libraries/libs/ssc/vof/transcripts/Morales.pdf</a><Br>
        Images source: Aurora Morales 
         `,
         photos: [
@@ -1060,14 +1060,14 @@ m_bios = [
     //      to leading a women's
     //      bible study group in her church</i>.<br><br>
     //     Here, she shares her story with the <b>Cambridge Black History Project</b>:
-    //    <h2> <center><a href='https://vimeo.com/725359798' target="_blank">Robin McCree's story</a></h2><Br><Br>
+    //    <h2> <center><a href='https://vimeo.com/725359798' target="_self">Robin McCree's story</a></h2><Br><Br>
     //     </center>
-    //    The <a href='https://cambridgeblackhistoryproject.org/' target="_blank">Cambridge Black HIstory Project</a>
+    //    The <a href='https://cambridgeblackhistoryproject.org/' target="_self">Cambridge Black HIstory Project</a>
     //     is an organization dedicated to preserving the lives and accomplishments
     //    of Black Cantabridgians.  We encourage you to explore the powerful stories they share on their website:
     //    <br>
     //     <Br><center>
-    //     <a href='https://cambridgeblackhistoryproject.org/' target="_blank">
+    //     <a href='https://cambridgeblackhistoryproject.org/' target="_self">
 
     //     <img style='border-style: none;' src='images_util/CBHP.jpg' width='200'>
     //     </a></center>
@@ -1106,13 +1106,13 @@ m_bios = [
              <br><br>Details on Amy's life are outlined in the <b>Women Astronomical Computers at the Harvard College Observatory</b> project:
             <center>
              <h1>
-                <a href="https://platestacks.cfa.harvard.edu/women-at-hco/amy-jackson-mckay" target="_blank">Amy McKay's story</a>
+                <a href="https://platestacks.cfa.harvard.edu/women-at-hco/amy-jackson-mckay" target="_self">Amy McKay's story</a>
              </h1>
       </center>
-        The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_blank">Women Astronomical Computers at the Harvard College Observatory</a> project is 
+        The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_self">Women Astronomical Computers at the Harvard College Observatory</a> project is 
         dedicated to highlighting the lives and work of women who spent time studying and caring 
         for the observatory's glass plate photograph collection.<Br>
-        <center>       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_blank"> <img src="images_bios/harvard-astronomers.png" width='350'></a>
+        <center>       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_self"> <img src="images_bios/harvard-astronomers.png" width='350'></a>
         
         </center>
 `,

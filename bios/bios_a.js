@@ -644,9 +644,9 @@ as a writer were recognized only after her death. The founding members, who incl
         references: ` Phyllis J. Read and Bernard L. Witlieb <em>The
                 Book of Women's Firsts</em>, 1992.<br>
             Wikipedia (online encyclopedia) <a
-                href="http://en.wikipedia.org/wiki/Constance_M._K._Applebee" target="_blank">http://en.wikipedia.org/wiki/Constance_M._K._Applebee</a>;<br>
+                href="http://en.wikipedia.org/wiki/Constance_M._K._Applebee" >http://en.wikipedia.org/wiki/Constance_M._K._Applebee</a>;<br>
             <em>Encyclopedia Britannica </em>(2006)<Br>
-            <a href="https://www.britannica.com/biography/Constance-M-K-Applebee" target="_blank">https://www.britannica.com/biography/Constance-M-K-Applebee</a><br>
+            <a href="https://www.britannica.com/biography/Constance-M-K-Applebee" target="_self">https://www.britannica.com/biography/Constance-M-K-Applebee</a><br>
             January 5, 1959 Sports Illustrated<br>
             Photo source: wikipedia
         `,
@@ -697,7 +697,7 @@ as a writer were recognized only after her death. The founding members, who incl
             Cambridge City Directories
             <br>
             City of Cambridge Street Listings<Br>
-            Image source: WNET <a href="http://www.pbs.org/wnet/religionandethics/week245/cover.html" target="_blank">http://www.pbs.org/wnet/religionandethics/week245/cover.html</a>
+            Image source: WNET <a href="http://www.pbs.org/wnet/religionandethics/week245/cover.html" target="_self">http://www.pbs.org/wnet/religionandethics/week245/cover.html</a>
         `,
         photos: ["images_bios/linda archer.png"],
         photoTitles: [],
@@ -821,7 +821,7 @@ as a writer were recognized only after her death. The founding members, who incl
             `,
         otherNotes: "",
         references: ` Based on personal interview by Sandra Pullman,
-            2003; The Adbar website is <a href="http://www.ethiopianwomen.org" target="_blank">http://www.ethiopianwomen.org</a>,
+            2003; The Adbar website is <a href="http://www.ethiopianwomen.org" target="_self">http://www.ethiopianwomen.org</a>,
             or they can be contacted at the organization at P.O. Box 382302, Cambridge,
             MA 02238-2302.
         `,
@@ -950,14 +950,14 @@ as a writer were recognized only after her death. The founding members, who incl
         in the Museum of Fine Arts and they had a new term, 'soft sculpture'."
 
         </i><Br><Br>More of her story is told through the <b>Cambridge Black History Project</b>:
-       <h2> <center><a href='https://cambridgeblackhistoryproject.org/project/barbara-ward-armstrong/' target="_blank">Barbara Ward Armstrong's story</a></h2><Br><Br>
+       <h2> <center><a href='https://cambridgeblackhistoryproject.org/project/barbara-ward-armstrong/' target="_self">Barbara Ward Armstrong's story</a></h2><Br><Br>
         </center>
-       The <a href='https://cambridgeblackhistoryproject.org/' target="_blank">Cambridge Black HIstory Project</a>
+       The <a href='https://cambridgeblackhistoryproject.org/' target="_self">Cambridge Black HIstory Project</a>
         is an organization dedicated to preserving the lives and accomplishments
        of Black Cantabridgians.  We encourage you to explore the powerful stories they share on their website:
        <br>
         <Br><center>
-        <a href='https://cambridgeblackhistoryproject.org/' target="_blank">
+        <a href='https://cambridgeblackhistoryproject.org/' target="_self">
 
         <img style='border-style: none;' src='images_util/CBHP.jpg' width='200'>
         </a></center>

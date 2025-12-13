@@ -427,8 +427,8 @@ function makeSidebar(letterIndex, stepping, topical, search) {
     if (!topical && !search) {
         for (i = 0; i < namesLists[letterIndex].length; i++) {
             firstCommaLast = namesLists[letterIndex][i];
-            if (search) add = "' target='_blank";
-            else add = "'";
+            // if (search) add = "' target='_blank";
+            // else add = "'";
             html +=
                 "<tr><td class='name-link' id='name-" +
                 letterIndex +
@@ -443,7 +443,7 @@ function makeSidebar(letterIndex, stepping, topical, search) {
                 strippedNamesList[letterIndex][i][1] +
                 "&fNm=" +
                 strippedNamesList[letterIndex][i][2] +
-                add +
+                // add +
                 "'>" +
                 firstCommaLast +
                 "</a></td></tr>";

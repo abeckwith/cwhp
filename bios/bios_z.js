@@ -40,9 +40,9 @@ References:
         `,
         otherNotes: "",
         references: `From a Sarah Boyer oral interview<Br>
-        Blessed Sacrament Color Guards: <a href="https://blessedsaccg.com/history/" target="_blank">https://blessedsaccg.com/history/</a> 
+        Blessed Sacrament Color Guards: <a href="https://blessedsaccg.com/history/" target="_self">https://blessedsaccg.com/history/</a> 
         (this includes a photograph of the Zappala family)
-World Guard International: <a href="https://www.wgi.org/about-wgi/what-is-wgi/hall-of-fame/" target="_blank">https://www.wgi.org/about-wgi/what-is-wgi/hall-of-fame/</a>
+World Guard International: <a href="https://www.wgi.org/about-wgi/what-is-wgi/hall-of-fame/" target="_self">https://www.wgi.org/about-wgi/what-is-wgi/hall-of-fame/</a>
 <br><Br>Photo from <i>Cambridge Chronicle</i>, April 11, 1968  
 `,
         photos: ["images_bios/zappala_dolores.png"],

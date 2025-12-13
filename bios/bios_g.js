@@ -224,20 +224,20 @@ g_bios = [
             <br>
             &quot;Louise Gluck&quot; The Academy of American Poets &#8211; Louise Gluck&quot;
             Date accessed: 12/7/2005 <a
-                href="http://www.poets.org/poet.php/prmPID/82" target="_blank">http://www.poets.org/poet.php/prmPID/82</a><br>
+                href="http://www.poets.org/poet.php/prmPID/82" target="_self">http://www.poets.org/poet.php/prmPID/82</a><br>
             &quot;Louise Gluck&quot; NNDB: Tracking the Entire World. Soylent Communications
             2005. Date accessed: 12/7/2005 <a
-                href="http://www.nndb.com/people/036/000068829" target="_blank">http://www.nndb.com/people/036/000068829</a><br>
+                href="http://www.nndb.com/people/036/000068829" target="_self">http://www.nndb.com/people/036/000068829</a><br>
             Atkins, Christine. &quot;Wishing for Another Poem: The Poetry and Essays of
             Louise Gluck&quot; The New York State Writer's Institute Writer's Online Vol.
             1 No. 4 (Summer 1997). Date accessed: 12/7/2005 <a
-                href="http://www.english.uiuc.edu/maps/poets/g_l/gluck/about.htm" target="_blank">
+                href="http://www.english.uiuc.edu/maps/poets/g_l/gluck/about.htm" target="_self">
                 http://www.english.uiuc.edu/maps/poets/g_l/gluck/about.htm</a><br>
             Hass, Robert &quot;About Louise Gluck&quot; Modern American Poetry
           
-            Brief Biography, <a href="http://www.helical-library.net/gluck/bio.asp" target="_blank">http://www.helical-library.net/gluck/bio.asp</a>. Date accessed:
+            Brief Biography, <a href="http://www.helical-library.net/gluck/bio.asp" target="_self">http://www.helical-library.net/gluck/bio.asp</a>. Date accessed:
             4/22/2013<Br>
-            Image source: <a href="https://en.wikipedia.org/wiki/Louise_Gl%C3%BCck" target="_blank">ttps://en.wikipedia.org/wiki/Louise_Gl%C3%BCck</a>
+            Image source: <a href="https://en.wikipedia.org/wiki/Louise_Gl%C3%BCck" target="_self">ttps://en.wikipedia.org/wiki/Louise_Gl%C3%BCck</a>
         `,
         photos: ["images_bios/louise_gluck.jpg"],
         photoTitles: [],
@@ -542,18 +542,18 @@ g_bios = [
         references: `
             <span >Graves, Helen. &ldquo;Second Time Around
                 is Sweet For Renae Gray,&rdquo; </span>Boston Herald, 3/1/2008, <a
-                href="https://www.bostonherald.com/2008/03/01/second-time-around-is-sweet-for-renae-gray/" target="_blank">
+                href="https://www.bostonherald.com/2008/03/01/second-time-around-is-sweet-for-renae-gray/" target="_self">
                 https://www.bostonherald.com/2008/03/01/second-time-around-is-sweet-for-renae-gray/</a><br>
             <span >My Keeper Obituary:</span><a
-                href="http://www.mykeeper.com/profile/HaymarketPeoplesFund/" target="_blank">
+                href="http://www.mykeeper.com/profile/HaymarketPeoplesFund/" target="_self">
                 http://www.mykeeper.com/profile/HaymarketPeoplesFund/</a><br>
             New England Blacks in Philanthropy website, blog post, 1/31/17,
             https://sel-law.squarespace.com/renae-gray-post<br>
             <span >Silva-Collins, Candelaria, blog,
-                7/1/2008</span>, <a href="http://candelariasilva.com/a-tribute-to-the-lovely-renae-gray/" target="_blank">http://candelariasilva.com/a-tribute-to-the-lovely-renae-gray/</a><br>
+                7/1/2008</span>, <a href="http://candelariasilva.com/a-tribute-to-the-lovely-renae-gray/" target="_self">http://candelariasilva.com/a-tribute-to-the-lovely-renae-gray/</a><br>
             <span >YWCA Cambridge Massachusetts Facebook
                 post, 4/21/2017,</span> <span>
-                <a href="https://www.facebook.com/pg/YWCACambMA/photos/?tab=album&amp;album_id=10155047494801125" target="_blank">https://www.facebook.com/pg/YWCACambMA/photos/?tab=album&amp;album_id=10155047494801125</a></span><br>
+                <a href="https://www.facebook.com/pg/YWCACambMA/photos/?tab=album&amp;album_id=10155047494801125" target="_self">https://www.facebook.com/pg/YWCACambMA/photos/?tab=album&amp;album_id=10155047494801125</a></span><br>
             <br>
           
 
@@ -717,13 +717,13 @@ g_bios = [
              <br><br>More information about Edith's life and work are outlined in the <b>Women Astronomical Computers at the Harvard College Observatory</b> project:
             <center>
              <h1>
-                <a href="https://platestacks.cfa.harvard.edu/women-at-hco/edith-frances-gill" target="_blank">Edith Gill's story</a>
+                <a href="https://platestacks.cfa.harvard.edu/women-at-hco/edith-frances-gill" target="_self">Edith Gill's story</a>
              </h1>
        </center>
-        The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_blank">Women Astronomical Computers at the Harvard College Observatory</a> project is 
+        The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_self">Women Astronomical Computers at the Harvard College Observatory</a> project is 
         dedicated to highlighting the lives and work of women who spent time studying and caring 
         for the observatory's glass plate photograph collection.<Br>
-        <center>       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_blank"> <img src="images_bios/harvard-astronomers.png" width='350'></a>
+        <center>       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_self"> <img src="images_bios/harvard-astronomers.png" width='350'></a>
         
         </center>
 `,
@@ -759,13 +759,13 @@ g_bios = [
              <br><br>More information about Edith's life and work are outlined in the <b>Women Astronomical Computers at the Harvard College Observatory</b> project:
             <center>
              <h1>
-                <a href="https://platestacks.cfa.harvard.edu/women-at-hco/mabel-abbie-gill" target="_blank">Mabel Gill's story</a>
+                <a href="https://platestacks.cfa.harvard.edu/women-at-hco/mabel-abbie-gill" target="_self">Mabel Gill's story</a>
              </h1>
       </center>
-        The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_blank">Women Astronomical Computers at the Harvard College Observatory</a> project is 
+        The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_self">Women Astronomical Computers at the Harvard College Observatory</a> project is 
         dedicated to highlighting the lives and work of women who spent time studying and caring 
         for the observatory's glass plate photograph collection.<Br>
-        <center>       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_blank"> <img src="images_bios/harvard-astronomers.png" width='350'></a>
+        <center>       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_self"> <img src="images_bios/harvard-astronomers.png" width='350'></a>
         
         </center>
 `,
@@ -851,11 +851,11 @@ g_bios = [
         otherNotes: "",
         references: ` 
           Oral interview by Anthony Beckwith, December 8, 2025<br><br>
-        MIT Black History article, <a href="https://www.blackhistory.mit.edu/archive/yvonne-harris-and-sherry-glanville-ca-1965" target="_blank">"Yvonne Harris and Sherr Glanville, ca. 1965"</a><br><br>
-        Upworthy.com, <a href="https://www.upworthy.com/cambridge-community-center" target="_blank">"How this beloved, 90-year-old community center continues to be a haven for so many to this day"</a>, March 29, 2020<br><br>
+        MIT Black History article, <a href="https://www.blackhistory.mit.edu/archive/yvonne-harris-and-sherry-glanville-ca-1965" target="_self">"Yvonne Harris and Sherr Glanville, ca. 1965"</a><br><br>
+        Upworthy.com, <a href="https://www.upworthy.com/cambridge-community-center" target="_self">"How this beloved, 90-year-old community center continues to be a haven for so many to this day"</a>, March 29, 2020<br><br>
 
-        CCC Facebook post, <a href="https://www.facebook.com/CambCommCenter/posts/meet-yvonne-gittens-recipient-of-the-2019-janet-ms-k-kendrick-sisters-of-the-cen/10162414874505357/" target="_blank">"Meet Yvonne Gittens"</a>,  Oct. 7, 2019<br><br>
-        <a href="https://www.bhacambridge.org/" target="_blank">Black History In Action website</a> <br><br>
+        CCC Facebook post, <a href="https://www.facebook.com/CambCommCenter/posts/meet-yvonne-gittens-recipient-of-the-2019-janet-ms-k-kendrick-sisters-of-the-cen/10162414874505357/" target="_self">"Meet Yvonne Gittens"</a>,  Oct. 7, 2019<br><br>
+        <a href="https://www.bhacambridge.org/" target="_self">Black History In Action website</a> <br><br>
         
              `,
         photos: ["images_bios/gittens_yvonne.jpg"],

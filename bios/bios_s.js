@@ -49,7 +49,7 @@ s_bios = [
             `,
         otherNotes: "",
         references: `Oral interview by Sarah Boyer<br>
-        Image source: <a href="https://ctacusa.com/about-us/staff/sylvia-saavedra-keber/" target="_blank">https://ctacusa.com/about-us/staff/sylvia-saavedra-keber/</a>
+        Image source: <a href="https://ctacusa.com/about-us/staff/sylvia-saavedra-keber/" target="_self">https://ctacusa.com/about-us/staff/sylvia-saavedra-keber/</a>
         `,
         photos: ["images_bios/Saavedra.jpg"],
         photoTitles: [],
@@ -141,7 +141,7 @@ s_bios = [
                 Dreaming Deep</em>; <br><br><em>A World of Light</em>. Constance Hunting <em>May Sarton:
                 Woman and Poet</em><Br><br>National Poetry Foundation, 1982; <em>Great Women Writers</em>.
             <Br><Br>Henry Holt, 1994; Cambridge Historical Commission files<Br><Br>
-            Image source: <a href="https://en.wikipedia.org/wiki/May_Sarton" target="_blank">https://en.wikipedia.org/wiki/May_Sarton</a>
+            Image source: <a href="https://en.wikipedia.org/wiki/May_Sarton" target="_self">https://en.wikipedia.org/wiki/May_Sarton</a>
         `,
         photos: ["images_bios/May_Sarton.jpg"],
         photoTitles: [],
@@ -182,7 +182,7 @@ s_bios = [
             (Little Brown, 1979)<br>
             Arthur Schlesinger, Jr. <em>A Life in the 20th Century: Innocent Beginnings,
                 1917-1950</em>. Houghton Mifflin, 2000<Br>
-                Image source: <a href="https://en.wikipedia.org/wiki/Marian_Cannon_Schlesinger" target="_blank">https://en.wikipedia.org/wiki/Marian_Cannon_Schlesinger</a>
+                Image source: <a href="https://en.wikipedia.org/wiki/Marian_Cannon_Schlesinger" target="_self">https://en.wikipedia.org/wiki/Marian_Cannon_Schlesinger</a>
         `,
         photos: ["images_bios/Marian_Schlesinger.jpg"],
        
@@ -392,7 +392,7 @@ s_bios = [
             Obituary, <em>Resonance</em> June 2006<br>
             Oral interview in Schlesinger Library<br>
             DMS<em>E News</em> (MIT). April 2001 <br>
-            <a href="http://oasis.lib.harvard.edu" target="_blank">http://oasis.lib.harvard.edu</a><br>
+            <a href="http://oasis.lib.harvard.edu" target="_self">http://oasis.lib.harvard.edu</a><br>
             Image from University of Chicago Photographic Archive, apf1-07690, Hanna Holborn Gray Special Collections Research Center, University of Chicago Library.
            `,
         photos: ["images_bios/Alice_Kimball_Smith.jpg"],
@@ -477,13 +477,13 @@ s_bios = [
              <br><br>More information about Mabel's life and work are outlined in the <b>Women Astronomical Computers at the Harvard College Observatory</b> project:
             <center>
              <h1>
-                <a href="https://platestacks.cfa.harvard.edu/women-at-hco/mabel-cushman-stevens" target="_blank">Mabel Stevens' story</a>
+                <a href="https://platestacks.cfa.harvard.edu/women-at-hco/mabel-cushman-stevens" target="_self">Mabel Stevens' story</a>
              </h1>
       </center>
-        The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_blank">Women Astronomical Computers at the Harvard College Observatory</a> project is 
+        The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_self">Women Astronomical Computers at the Harvard College Observatory</a> project is 
         dedicated to highlighting the lives and work of women who spent time studying and caring 
         for the observatory's glass plate photograph collection.<Br>
-        <center>       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_blank"> 
+        <center>       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_self"> 
         <img src="images_bios/harvard-astronomers.png" width='350'></a>
         
         </center>

@@ -42,7 +42,7 @@ f_bios = [
         references: ` Personal information; biographical information 
     in Susan Fleischmann, &#8220;TV Station: How To Create An Award-Winning Public 
     Access Station&#8221;. <em>Be the Media</em>, Online book, 
-    <a href="http://www.bethemedia.com/tableofcontents.htm" target="_blank">http://www.bethemedia.com/tableofcontents.htm</a>.<br>
+    <a href="http://www.bethemedia.com/tableofcontents.htm" target="_self">http://www.bethemedia.com/tableofcontents.htm</a>.<br>
     <br>
     <br>
     Photo by Sean Effel. <br>
@@ -100,7 +100,7 @@ f_bios = [
             and her colleagues at the Wellesley College Stone Center, are now integrated into mainstream psychology practice.<br>
   `,
         otherNotes: "",
-        references: `Written by Kimm Topping, printed in <em>Mapping Feminist Cambridge</em> guidebook, 2019: <a href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf" target="_blank">https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a><br>
+        references: `Written by Kimm Topping, printed in <em>Mapping Feminist Cambridge</em> guidebook, 2019: <a href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf" target="_self">https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a><br>
   `,
         photos: [""],
         photoTitles: [],
@@ -168,7 +168,7 @@ f_bios = [
       Science Studies Mary Wyer</em> (ed.) 312-331.(2001)<Br>
       Cynthia R Daniels. <em>Exposing 
       Men: The Science and Politics of Male Reproduction</em>. New York (2006).<Br>
-      <a href="https://woodsholemuseum.org/WHHWomen/GladysFriedler.html" target="_blank">https://woodsholemuseum.org/WHHWomen/GladysFriedler.html</a>`,
+      <a href="https://woodsholemuseum.org/WHHWomen/GladysFriedler.html" target="_self">https://woodsholemuseum.org/WHHWomen/GladysFriedler.html</a>`,
         photos: ["images_bios/Friedler_Gaby.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",dateUpdated:
@@ -286,9 +286,9 @@ In
         references: `<em>Notable American Women</em> (1607-1950) vol 
     I; Robert N Hudspeth, <em>The Letters of Margaret Fuller </em>Vol 1-V (1988); 
     Margaret Fuller Neighborhood House website, <a href="http://www.margaretfullerhouse.org/index.html" 
-    target="_blank">http://www.margaretfullerhouse.org/index.html</a>
+    target="_self">http://www.margaretfullerhouse.org/index.html</a>
     <br>
-     Image source: <a href="https://en.wikipedia.org/wiki/Margaret_Fuller" target="_blank">https://en.wikipedia.org/wiki/Margaret_Fuller</a>
+     Image source: <a href="https://en.wikipedia.org/wiki/Margaret_Fuller" target="_self">https://en.wikipedia.org/wiki/Margaret_Fuller</a>
   `,
         photos: ["images_bios/margaret_fuller.jpg"],
         photoTitles: [],
@@ -321,13 +321,13 @@ In
              <br><br>More information about Helen's life and work are outlined in the <b>Women Astronomical Computers at the Harvard College Observatory</b> project:
             <center>
              <h1>
-                <a href="https://platestacks.cfa.harvard.edu/women-at-hco/helen-spence-federer" target="_blank">Helen Federer's story</a>
+                <a href="https://platestacks.cfa.harvard.edu/women-at-hco/helen-spence-federer" target="_self">Helen Federer's story</a>
              </h1>
       </center>
-        The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_blank">Women Astronomical Computers at the Harvard College Observatory</a> project is 
+        The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_self">Women Astronomical Computers at the Harvard College Observatory</a> project is 
         dedicated to highlighting the lives and work of women who spent time studying and caring 
         for the observatory's glass plate photograph collection.<Br>
-        <center>       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_blank"> <img src="images_bios/harvard-astronomers.png" width='350'></a>
+        <center>       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_self"> <img src="images_bios/harvard-astronomers.png" width='350'></a>
         
         </center>
 `,

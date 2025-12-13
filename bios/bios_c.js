@@ -233,7 +233,7 @@ c_bios = [
             portrait, 1922. <br>
             New York World Telegram and the Sun Newspaper Photograph Collection, Library
             of Congress.<br>Public domain Image source: 
-            <a href="https://en.wikipedia.org/wiki/Annie_Jump_Cannon" target="_blank">https://en.wikipedia.org/wiki/Annie_Jump_Cannon</a>
+            <a href="https://en.wikipedia.org/wiki/Annie_Jump_Cannon" target="_self">https://en.wikipedia.org/wiki/Annie_Jump_Cannon</a>
         `,
         photos: ["images_bios/annie cannon.jpg"],
         photoTitles: [],
@@ -278,7 +278,7 @@ c_bios = [
             Little Brown (1997); <br>
             Cambridge Public Library &#8220;Penwomen of Cambridge Past: Biographies
             of Our Literary Foremothers&#8221;<Br>
-                Image source: <a href="https://en.wikipedia.org/wiki/Cornelia_James_Cannon" target="_blank">
+                Image source: <a href="https://en.wikipedia.org/wiki/Cornelia_James_Cannon" target="_self">
                 https://en.wikipedia.org/wiki/Cornelia_James_Cannon</a>
 
         `,
@@ -426,7 +426,7 @@ c_bios = [
         references: `Un Encuentro con Centro Presente (A discussion
             at Cambridge Community Television) <Br>
             Centro Presente's 25th Anniversary and Holiday Fiesta <Br>
-            Centro Presente's home page: <a href="http://www.cpresente.org" target="_blank">http://www.cpresente.org</a>
+            Centro Presente's home page: <a href="http://www.cpresente.org" target="_self">http://www.cpresente.org</a>
 
         `,
         photos: ["images_bios/centro presente.png"],
@@ -485,7 +485,7 @@ c_bios = [
         otherNotes: "",
         references: `<em>Cambridge Chronicle</em>, December 2, 1999<br>
             <a
-                href="http://education.stateuniversity.com/pages/1819/Chall-Jeanne-1921-1999.html" target="_blank">http://education.stateuniversity.com/pages/1819/Chall-Jeanne-1921-1999.html</a><br>
+                href="http://education.stateuniversity.com/pages/1819/Chall-Jeanne-1921-1999.html" target="_self">http://education.stateuniversity.com/pages/1819/Chall-Jeanne-1921-1999.html</a><br>
             <em>Harvard Gazette</em> obituary December 2 1999
         `,
         photos: ["images_bios/jeanne chall.jpeg"],
@@ -534,7 +534,7 @@ c_bios = [
             <br>
             Giving Gallery: about Joyce Chen
             
-        <Br>Image source: <a href="https://en.wikipedia.org/wiki/Joyce_Chen_(chef)" target="_blank">
+        <Br>Image source: <a href="https://en.wikipedia.org/wiki/Joyce_Chen_(chef)" target="_self">
         https://en.wikipedia.org/wiki/Joyce_Chen_(chef)</a>
         `,
         photos: ["images_bios/joycechen.jpg"],
@@ -609,10 +609,10 @@ c_bios = [
         references: ` Schlesinger Library, Julia Child collection guide<br>
             <em>Treasury of Women's Quotations</em> by Carolyn Warner, Prentice Hall,
             Englewood Cliffs, NJ, 1992.<Br>
-            <a href="https://guides.library.harvard.edu/schlesinger_julia_child" target="_blank">Schlesinger Papers</a><br>
-            Image source: <a href="https://commons.wikimedia.org/wiki/File:Julia_Child_restore.jpg" target="_blank">
+            <a href="https://guides.library.harvard.edu/schlesinger_julia_child" target="_self">Schlesinger Papers</a><br>
+            Image source: <a href="https://commons.wikimedia.org/wiki/File:Julia_Child_restore.jpg" target="_self">
             https://commons.wikimedia.org/wiki/File:Julia_Child_restore.jpg</a><Br>
-            History Cambridge <a href="https://historycambridge.org/articles/julia-childs-kitchen/" target="_blank">article</a>
+            History Cambridge <a href="https://historycambridge.org/articles/julia-childs-kitchen/" target="_self">article</a>
         `,
         photos: ["images_bios/Julia_Child_restore.jpg"],
         photoTitles: [],
@@ -661,7 +661,7 @@ c_bios = [
             `,
         otherNotes: "",
         references: `Written by Kimm Topping, printed in Mapping Feminist Cambridge guidebook, 2019:
-            <a href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf" target="_blank">
+            <a href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf" target="_self">
                 https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf
             </a><br>
             <strong>Photo: </strong>Cambridge Chronicle, 18 November 1971
@@ -890,7 +890,7 @@ c_bios = [
         otherNotes: "",
         references: `<em>Notable American Women, Modern Period</em>;
             Ada Louise Comstock papers, Smith College.<br>Public domain Image source: 
-            <a href="https://en.wikipedia.org/wiki/Ada_Comstock" target="_blank">https://en.wikipedia.org/wiki/Ada_Comstock</a>
+            <a href="https://en.wikipedia.org/wiki/Ada_Comstock" target="_self">https://en.wikipedia.org/wiki/Ada_Comstock</a>
         `,
         photos: ["images_bios/Ada-Comstock-1905.jpg"],
         photoTitles: [],
@@ -1073,7 +1073,7 @@ c_bios = [
         references: `
             <em>Cambridge Chronicle</em>. Sept 6, 2000<br>
             hollywood.com<Br>
-            <br>Image source: <a href="https://en.wikipedia.org/wiki/Jane_Curtin" target="_blank">https://en.wikipedia.org/wiki/Jane_Curtin</a>
+            <br>Image source: <a href="https://en.wikipedia.org/wiki/Jane_Curtin" target="_self">https://en.wikipedia.org/wiki/Jane_Curtin</a>
         `,
         photos: [
             "images_bios/Jane_Curtin_at_the_41st_Emmy_Awards_cropped_and_altered.jpg",
@@ -1128,7 +1128,7 @@ c_bios = [
         references: `<em> American Women: 1500 Hundred Biographies</em>,
             Frances E. Willard and Mary A. Livermore (eds.), Volume I, (1897)<Br><em>Notable
                 American Women</em> (1950)<Br><em>Encyclopedia Americana</em>, 1995<Br>
-Image source: <a href="https://en.wikipedia.org/wiki/Charlotte_Cushman" target="_blank">https://en.wikipedia.org/wiki/Charlotte_Cushman</a>
+Image source: <a href="https://en.wikipedia.org/wiki/Charlotte_Cushman" target="_self">https://en.wikipedia.org/wiki/Charlotte_Cushman</a>
         `,
         photos: ["images_bios/Charlotte_Cushman_(Sully,_1843).jpg"],
         photoTitles: [],

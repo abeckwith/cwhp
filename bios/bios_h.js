@@ -93,7 +93,7 @@ h_bios = [
             Sicherman. <em>Alice Hamilton M.D.: A life in Letters</em>. Harvard University
             Press, 1984; Ogilvie, Marilyn and Joy Harvey. <em>Biographical Dictionary of
                 Women Scientists</em> (2000).<Br>
-                Image source: <a href="https://en.wikipedia.org/wiki/Alice_Hamilton" target="_blank">https://en.wikipedia.org/wiki/Alice_Hamilton</a>
+                Image source: <a href="https://en.wikipedia.org/wiki/Alice_Hamilton" target="_self">https://en.wikipedia.org/wiki/Alice_Hamilton</a>
         `,
         photos: ["images_bios/Alice_Hamilton.jpg"],
         photoTitles: [],
@@ -134,8 +134,8 @@ h_bios = [
         otherNotes: "",
         references: ` Earlham College press release March 4, 2005; NASA
             Office of Logic Design &#8220;About Margaret Hamilton.&quot; <a
-                href="http://klabs.org/home_page/hamilton.htm" target="_blank">http://klabs.org/home_page/hamilton.htm</a><br>
-                Image source: <a href="https://en.wikipedia.org/wiki/Margaret_Hamilton_%28software_engineer%29" target="_blank">https://en.wikipedia.org/wiki/Margaret_Hamilton_%28software_engineer%29</a>
+                href="http://klabs.org/home_page/hamilton.htm" target="_self">http://klabs.org/home_page/hamilton.htm</a><br>
+                Image source: <a href="https://en.wikipedia.org/wiki/Margaret_Hamilton_%28software_engineer%29" target="_self">https://en.wikipedia.org/wiki/Margaret_Hamilton_%28software_engineer%29</a>
         `,
         photos: ["images_bios/Margaret_Hamilton_1995.jpg"],
         photoTitles: [],
@@ -228,7 +228,7 @@ h_bios = [
             Sarah Allaback, <em>The First American Women Architects</em>. University of
             Illinois Press, 2008 <br>
             <em>Encyclopedia Britannia</em><Br>
-            Image source: <a href="https://en.wikipedia.org/wiki/Sophia_Hayden" target="_blank">https://en.wikipedia.org/wiki/Sophia_Hayden</a>
+            Image source: <a href="https://en.wikipedia.org/wiki/Sophia_Hayden" target="_self">https://en.wikipedia.org/wiki/Sophia_Hayden</a>
         `,
         photos: ["images_bios/Sophia_Bennett.jpg"],
         photoTitles: [],
@@ -418,7 +418,7 @@ h_bios = [
         otherNotes: "",
         references: ` Finding aid and list of archives, William Ernest Hocking papers, Houghton
             Library Harvard University.<Br>
-            Image used wth permission from Shady Hill School (<a href="https://www.shs.org/" target="_blank">https://www.shs.org/</a>)
+            Image used wth permission from Shady Hill School (<a href="https://www.shs.org/" target="_self">https://www.shs.org/</a>)
         `,
         photos: ["images_bios/agnes_hocking.jpeg"],
         photoTitles: [],
@@ -518,7 +518,7 @@ h_bios = [
                 Hopkins</em>. Ed. John C. Gruesser. Urbana: U of Illinois P, 1996. Cambridge
             Public Library website &#8220;Penwomen of Cambridge Past: Biographies of
             Our Literary Foremothers&#8221;<br>
-                Image source: <a href="https://en.wikipedia.org/wiki/Pauline_Hopkins" target="_blank">https://en.wikipedia.org/wiki/Pauline_Hopkins</a>
+                Image source: <a href="https://en.wikipedia.org/wiki/Pauline_Hopkins" target="_self">https://en.wikipedia.org/wiki/Pauline_Hopkins</a>
         `,
         photos: ["images_bios/Pauline_Elizabeth_Hopkins.jpg"],
         photoTitles: [],
@@ -573,7 +573,7 @@ h_bios = [
         otherNotes: "",
         references: ` Horsford family papers, Rensselaer Polytechnic
             Institute Library; Cambridge Chronicle, July 2, 1998.<Br>
-            Image source: <a href="https://en.wikipedia.org/wiki/Cornelia_Horsford" target="_blank">https://en.wikipedia.org/wiki/Cornelia_Horsford</a>
+            Image source: <a href="https://en.wikipedia.org/wiki/Cornelia_Horsford" target="_self">https://en.wikipedia.org/wiki/Cornelia_Horsford</a>
         `,
         photos: ["images_bios/Cornelia_Horsford.jpg"],
         photoTitles: [],
@@ -857,7 +857,7 @@ h_bios = [
             &#8220;George Wald Memorial Talk&#8221;<em> </em>in <em>Rhodopsin and Photransduction</em>,
             pp. 5-20. Chichester: [Novartis Foundation Symposium 224]; Online conversation
             with Frank Aqueno in 1993 <br>
-                Image source: <a href="https://en.wikipedia.org/wiki/Ruth_Hubbard" target="_blank">https://en.wikipedia.org/wiki/Ruth_Hubbard</a>
+                Image source: <a href="https://en.wikipedia.org/wiki/Ruth_Hubbard" target="_self">https://en.wikipedia.org/wiki/Ruth_Hubbard</a>
         `,
         photos: ["images_bios/Ruth_Wald.jpg"],
         photoTitles: [],
@@ -908,7 +908,7 @@ h_bios = [
         otherNotes: "",
         references: `<em>Notable American Women, Modern Period</em>;
             <em>Encyclopedia Britannica</em>, <em>Wikipedia</em><Br>
-            Image source: <a href="https://en.wikipedia.org/wiki/Anna_Hyatt_Huntington" target="_blank">https://en.wikipedia.org/wiki/Anna_Hyatt_Huntington</a>
+            Image source: <a href="https://en.wikipedia.org/wiki/Anna_Hyatt_Huntington" target="_self">https://en.wikipedia.org/wiki/Anna_Hyatt_Huntington</a>
         `,
         photos: ["images_bios/Anna_Vaughn_Hyatt.jpg"],
         photoTitles: [],
@@ -1039,13 +1039,13 @@ Born in Boston in 1886, Marjorie Hurd
              <br><br>Marian's life and work are outlined in the <b>Women Astronomical Computers at the Harvard College Observatory</b> project:
             <center>
              <h1>
-                <a href="https://platestacks.cfa.harvard.edu/women-at-hco/marian-alberta-hawes" target="_blank">Marian Henry's story</a>
+                <a href="https://platestacks.cfa.harvard.edu/women-at-hco/marian-alberta-hawes" target="_self">Marian Henry's story</a>
              </h1>
      </center>
-        The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_blank">Women Astronomical Computers at the Harvard College Observatory</a> project is 
+        The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_self">Women Astronomical Computers at the Harvard College Observatory</a> project is 
         dedicated to highlighting the lives and work of women who spent time studying and caring 
         for the observatory's glass plate photograph collection.<Br>
-        <center>       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_blank"> <img src="images_bios/harvard-astronomers.png" width='350'></a>
+        <center>       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_self"> <img src="images_bios/harvard-astronomers.png" width='350'></a>
         
         </center>
 `,

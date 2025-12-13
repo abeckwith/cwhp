@@ -174,7 +174,7 @@ b_bios = [
             `,
         otherNotes: "",
         references: ` <em>Notable American Women</em> (1609-1950) Vol
-            I; Baldwin school: <a href="https://baldwin.cpsd.us/" target="_blank">https://baldwin.cpsd.us/</a>
+            I; Baldwin school: <a href="https://baldwin.cpsd.us/" target="_self">https://baldwin.cpsd.us/</a>
             <Br>Photo source: wikipedia
         `,
         photos: ["images_bios/mary louise baldwin.jpeg"],
@@ -951,7 +951,7 @@ b_bios = [
         otherNotes: "",
         references: ` &quot;Elizabeth Bishop&quot;. The Academy of American
             Poets &#8211; Elizabeth Bishop. Date accessed 30 November 2005; <a
-                href="http://www.poets.org/poet.php/prmPID/7" target="_blank">http://www.poets.org/poet.php/prmPID/7</a><br>
+                href="http://www.poets.org/poet.php/prmPID/7" target="_self">http://www.poets.org/poet.php/prmPID/7</a><br>
             Lensing, George S. and Colwell, Anne Agnes. &quot;About Elizabeth Bishop&quot;<Br>
             Robert Dale Parker, University of Illinois at Urbana-Champaign. Date accessed,
             30 November 2005<br>
@@ -1003,7 +1003,7 @@ b_bios = [
             `,
         otherNotes: "",
         references: `<a
-                href="https://www.radcliffe.harvard.edu/schlesinger-library/collections/black-women-oral-history-project" target="_blank">https://www.radcliffe.harvard.edu/schlesinger-library/collections/black-women-oral-history-project</a>
+                href="https://www.radcliffe.harvard.edu/schlesinger-library/collections/black-women-oral-history-project" target="_self">https://www.radcliffe.harvard.edu/schlesinger-library/collections/black-women-oral-history-project</a>
         `,
         photos: ["images_bios/black womens oral history.avif"],
         photoTitles: [],
@@ -1498,7 +1498,7 @@ b_bios = [
             Beazley, 2005.<br>
             Bill Brett, Kerry Brett, Carol Beggy. <em>Boston, Inspirational Women</em> Boston,
             MA: Three Bean Press, 2011. <br>
-            The Brass Sisters' s website: <a href="http://www.thebrasssisters.com" target="_blank">www.thebrasssisters.com</a>
+            The Brass Sisters' s website: <a href="http://www.thebrasssisters.com" target="_self">www.thebrasssisters.com</a>
 
 
         `,
@@ -1591,7 +1591,7 @@ b_bios = [
              What to Look for and What to Pay for Kitchenware for Over 2000 Items of Kitchenware</em>. London: Mitchell
               Beazley, 2005.<br>Bill Brett, Kerry Brett, Carol Beggy.&nbsp;<em>Boston, Inspirational Women&nbsp;
               </em>Boston, MA: Three Bean Press, 2011.<br>The Brass Sisters&apos; s website: 
-              <a href="http://www.thebrasssisters.com/" target="_blank">www.thebrasssisters.com</a><Br>
+              <a href="http://www.thebrasssisters.com/" target="_self">www.thebrasssisters.com</a><Br>
         The Boston Globe, Sept. 12, 2022</p>
      
 
@@ -1758,7 +1758,7 @@ b_bios = [
             `,
         otherNotes: "",
         references: ` Written by Kimm Topping, printed in Mapping Feminist Cambridge guidebook, 2019:
-            <a href="https://historycambridge.org/self-guided-tours/self-guided-tour-mapping-feminist-cambridge-inman-square-1970s-1990s/" target="_blank">
+            <a href="https://historycambridge.org/self-guided-tours/self-guided-tour-mapping-feminist-cambridge-inman-square-1970s-1990s/" target="_self">
             https://historycambridge.org/self-guided-tours/self-guided-tour-mapping-feminist-cambridge-inman-square-1970s-1990s/</a><br>
             Stories for Bread and Roses provided by Pat Hynes.
         `,
@@ -2156,7 +2156,7 @@ b_bios = [
         otherNotes: "",
         references: ` <em>Cambridge Chronicle</em> 09-16-99<Br>
         US Censuses: 1910, 1941<Br>
-        <a href="https://kinginstitute.stanford.edu/king-preaches-cambridges-union-baptist-church" target="_blank">
+        <a href="https://kinginstitute.stanford.edu/king-preaches-cambridges-union-baptist-church" target="_self">
         https://kinginstitute.stanford.edu/king-preaches-cambridges-union-baptist-church</a>
         `,
         photos: [""],
@@ -2216,17 +2216,17 @@ b_bios = [
         otherNotes: "",
         references: ` Bernstein, V. Susan Butcher, Pioneer in Sled Dog Racing. (August 17, 2006). New York
         Times. <Br>Retrieved 7/4/2020 from
-        <a href="https://www.nytimes.com/2006/08/07/sports/07butcher.html" target="_blank">
+        <a href="https://www.nytimes.com/2006/08/07/sports/07butcher.html" target="_self">
         https://www.nytimes.com/2006/08/07/sports/07butcher.html</a>.<Br><Br>
         Academy of Achievement (n.d). Interview with Susan Butcher, Champion Dog Sled Racer.
-        <Br>Retrieved 7/4/2020 from <a href="https://achievement.org/achiever/susan-butcher/#interview/" target="_blank">
+        <Br>Retrieved 7/4/2020 from <a href="https://achievement.org/achiever/susan-butcher/#interview/" target="_self">
         https://achievement.org/achiever/susan-butcher/#interview/</a><Br><Br>
 
         Alaska Sports Hall of Fame (n.d.). Susan Butcher: Hard-nosed Competitor. <Br>Retrieved 7/4/2020
-        from <a href=" http://alaskasports.wpengine.com/inductee/susan-butcher/" target="_blank"> http://alaskasports.wpengine.com/inductee/susan-butcher/</a>
-        <Br><br><a href="https://www.thecrimson.com/article/1974/5/24/the-warehouse-school-one-alternative-pthe/" target="_blank">
+        from <a href=" http://alaskasports.wpengine.com/inductee/susan-butcher/" target="_self"> http://alaskasports.wpengine.com/inductee/susan-butcher/</a>
+        <Br><br><a href="https://www.thecrimson.com/article/1974/5/24/the-warehouse-school-one-alternative-pthe/" target="_self">
         https://www.thecrimson.com/article/1974/5/24/the-warehouse-school-one-alternative-pthe/</a><Br><Br>
-        Photo source: <a href="https://commons.wikimedia.org/wiki/File:Fairbanks_-_Susan_Butcher_and_Dogs.jpg" target="_blank">
+        Photo source: <a href="https://commons.wikimedia.org/wiki/File:Fairbanks_-_Susan_Butcher_and_Dogs.jpg" target="_self">
         https://commons.wikimedia.org/wiki/File:Fairbanks_-_Susan_Butcher_and_Dogs.jpg</a>
 <br><Br><b>NOTE: bio written July 2020 - added to site in 2025</b>
         `,
@@ -2362,13 +2362,13 @@ b_bios = [
              <br><br>More information about Edith's life and work are outlined in the <b>Women Astronomical Computers at the Harvard College Observatory</b> project:
             <center>
              <h1>
-                <a href="https://platestacks.cfa.harvard.edu/women-at-hco/florence-c-bibber" target="_blank">Florence Bibber's story</a>
+                <a href="https://platestacks.cfa.harvard.edu/women-at-hco/florence-c-bibber" target="_self">Florence Bibber's story</a>
              </h1>
 </center>
-        The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_blank">Women Astronomical Computers at the Harvard College Observatory</a> project is 
+        The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_self">Women Astronomical Computers at the Harvard College Observatory</a> project is 
         dedicated to highlighting the lives and work of women who spent time studying and caring 
         for the observatory's glass plate photograph collection.<Br>
-        <center>       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_blank"> <img src="images_bios/harvard-astronomers.png" width='350'></a>
+        <center>       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_self"> <img src="images_bios/harvard-astronomers.png" width='350'></a>
         
         </center>
 `,
@@ -2437,21 +2437,21 @@ b_bios = [
             "Elizabeth Eaton Butterfield, 65, Founder of Bryn Mawr Book Sale" (July 14,
             1978)
             <i>The New York Times</i>
-            <a href="https://www.nytimes.com/1978/07/14/archives/elizabeth-eaton-butterfield-65-founder-of-bryn-mawr-book-sale.html" target="_blank">https://www.nytimes.com/1978/07/14/archives/elizabeth-eaton-butterfield-
+            <a href="https://www.nytimes.com/1978/07/14/archives/elizabeth-eaton-butterfield-65-founder-of-bryn-mawr-book-sale.html" target="_self">https://www.nytimes.com/1978/07/14/archives/elizabeth-eaton-butterfield-
             65-founder-of-bryn-mawr-book-sale.html</a>
             <br> <br>
             “The First Fifty Years: A History of the Bryn Mawr Book Store in Cambridge
             with a Nod to its Sister Stores” by Jan Gardner, 2023
-            <a href="https://brynmawrbookstore.com/bookstore-history-for-sale/" target="_blank">https://brynmawrbookstore.com/bookstore-history-for-sale/</a>
+            <a href="https://brynmawrbookstore.com/bookstore-history-for-sale/" target="_self">https://brynmawrbookstore.com/bookstore-history-for-sale/</a>
             <br> <br>
             "Long-Time Administrator Elizabeth Butterfield Dies" (July 18, 1978) <i>Harvard
             Crimson</i>,
-            <a href="https://www.thecrimson.com/article/1978/7/18/long-time-administrator-elizabeth-butterfield-dies-pmrs/" target="_blank">https://www.thecrimson.com/article/1978/7/18/long-time-administrator-
+            <a href="https://www.thecrimson.com/article/1978/7/18/long-time-administrator-elizabeth-butterfield-dies-pmrs/" target="_self">https://www.thecrimson.com/article/1978/7/18/long-time-administrator-
             elizabeth-butterfield-dies-pmrs/</a>
             <br> <br>
             "Elizabeth Butterfield (1913 - 1978)" by Dan Swanson (July 18, 1978)
             <i>Harvard Crimson</i>
-            <a href="https://www.thecrimson.com/article/1978/7/18/elizabeth-butterfield-1913-1978-pbsbome/" target="_blank">https://www.thecrimson.com/article/1978/7/18/elizabeth-butterfield-1913-
+            <a href="https://www.thecrimson.com/article/1978/7/18/elizabeth-butterfield-1913-1978-pbsbome/" target="_self">https://www.thecrimson.com/article/1978/7/18/elizabeth-butterfield-1913-
             1978-pbsbome/</a>
             <br><Br>
             City of Cambridge announcement:  <a href="https://www.cambridgema.gov/CDD/News/2024/5/cambridgebusinesseshonoredat2024legacyluncheonawards"><br>

@@ -267,7 +267,7 @@ d_bios = [
 
         <em>Cambridge Chronicle</em>, 30 March 1967. 3 May 1977, 18 October 1979<br>
         <em>Boston Globe</em>, July 17 1995 <Br>
-        <a href="https://www.cambridgema.gov/Departments/cambridgepolice/aboutthedepartment/departmenthistory" target="_blank">
+        <a href="https://www.cambridgema.gov/Departments/cambridgepolice/aboutthedepartment/departmenthistory" target="_self">
         https://www.cambridgema.gov/Departments/cambridgepolice/aboutthedepartment/departmenthistory</a><Br>
         1930 U.S. Census<Br>
         1954 <em>Cambridge City Directory</em><Br>
@@ -385,9 +385,9 @@ d_bios = [
         `,
         otherNotes: "",
         references: `
-            Henrietta Davis website bio, <a href="http://www.henriettadavis.org" target="_blank"
+            Henrietta Davis website bio, <a href="http://www.henriettadavis.org" target="_self"
                 >http://www.henriettadavis.org</a> <br>
-            Oral history interview with Henrietta Davis, <a href="https://infinitehistory.mit.edu/video/henrietta-davis" target="_blank"
+            Oral history interview with Henrietta Davis, <a href="https://infinitehistory.mit.edu/video/henrietta-davis" target="_self"
                 >https://infinitehistory.mit.edu/video/henrietta-davis</a> <br>
             Board Member Bio, ICLEI website
         `,
