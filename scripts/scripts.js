@@ -83,8 +83,6 @@ function showRecents(num) {
     all_bios.forEach((bioLetterList) => {
         //go through each name for this letter:
         bioLetterList.forEach((thename) => {
-            ///TEMPORARY, UNTIL FIXED ALL DATE FORMATTING
-            if (thename.dateUpdated != "") console.log(thename.dateUpdated);
             hasFullDate = thename.dateCreated.substring(0, 2) != "00";
             if (
                 thename.dateCreated != "prior to 2009" &&
@@ -105,12 +103,10 @@ function showRecents(num) {
                 //only add to list if within number of months selected:
                 if (monthsDifference < RECENT_MONTHS_LIMIT) {
                     recentCount++;
-                    
 
                     // html +=
                     html_build =
                         "<br></i>" +
-         
                         thename.dateCreated.replaceAll(".", "/") +
                         ":</b>&nbsp;<a href='bios.html?lNm=" +
                         thename.lastName +
@@ -197,6 +193,27 @@ function stripName(nm) {
     pName = nm.replaceAll("'", "");
     pName = pName.replaceAll(" ", "");
     return pName;
+}
+/**
+ * Changes dots to slashes in dates
+ * Also eliminates leading zeroes
+ * @param {*} dateWithDots
+ */
+function formatDateSlash(dateWithDots) {
+    if (dateWithDots.indexOf(".") != -1 && dateWithDots.substring(0, 2) != "00") {
+        sep = dateWithDots.split(".");
+        //day: eliminate leading zero:
+        if (sep[0].charAt(0) == "0") m = sep[0].charAt(1);
+        else m = sep[0];
+        //month:eliminate leading zero:
+        if (sep[1].charAt(0) == "0") d = sep[1].charAt(1);
+        else d = sep[1];
+        return m + "/" + d + "/" + sep[2];
+    }
+    //just 4-digit year:
+    if(dateWithDots.substring(0, 2) == "00") return dateWithDots.substring(6);
+    //all others (incl. "before 2009")
+    return dateWithDots;
 }
 /**
  * Puts together the bio of an individual from the JSON data
@@ -308,9 +325,9 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
             "<br><br><strong>References:</strong><Br>" + person.references + "";
     dt =
         "<hr><div style='text-align:right'>Entry created: " +
-        person.dateCreated;
+        formatDateSlash(person.dateCreated);
     if (person.dateUpdated !== "")
-        dt += "<Br>Last updated: " + person.dateUpdated + "</div>";
+        dt += "<Br>Last updated: " + formatDateSlash(person.dateUpdated) + "</div>";
     else dt += "</div>"; // "Last updated: 2006-2010";
 
     atr = "";
