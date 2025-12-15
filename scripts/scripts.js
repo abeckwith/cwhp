@@ -13,6 +13,7 @@ let currentLetter = 0;
 let currentPersonIndex = 0;
 
 let RECENT_MONTHS_LIMIT = 12; //for recent additions page
+let RECENT_MONTHS_LIMIT2 = 5; //for recent edits part of recents page
 
 /**
  * Makes sidebar and then loads bio
@@ -83,6 +84,7 @@ function showRecents(num) {
     all_bios.forEach((bioLetterList) => {
         //go through each name for this letter:
         bioLetterList.forEach((thename) => {
+
             hasFullDate = thename.dateCreated.substring(0, 2) != "00";
             if (
                 thename.dateCreated != "prior to 2009" &&
@@ -147,12 +149,89 @@ function showRecents(num) {
         return 0;
     });
 
+
+
+
+    recentUpdatesObjects = [];
+    recentUpdatesCount = 0;
+    //go through each A-Z bio list:
+    all_bios.forEach((bioLetterList) => {
+        //go through each name for this letter:
+        bioLetterList.forEach((thename) => {
+            
+            hasFullDate = thename.dateUpdated.substring(0, 2) != "00";
+            if (
+                thename.dateUpdated != "prior to 2009" &&
+                thename.dateUpdated != "" &&
+                hasFullDate
+            ) {
+                console.log(thename.dateUpdated)
+                //GET YEAR:
+                year = parseInt(thename.dateUpdated.substring(6));
+                dayNum = parseInt(thename.dateUpdated.substring(3, 5));
+                monthNum = parseInt(thename.dateUpdated.substring(0, 2));
+
+                currYear = new Date().getUTCFullYear();
+                currMonth = new Date().getMonth();
+
+                monthsDifference =
+                    (currYear - year) * 12 + currMonth - monthNum;
+
+                //only add to list if within number of months selected:
+                if (monthsDifference < RECENT_MONTHS_LIMIT2) {
+                    recentUpdatesCount++;
+
+                    // html +=
+                    html_build =
+                        "<br></i>" +
+                        thename.dateUpdated.replaceAll(".", "/") +
+                        ":</b>&nbsp;<a href='bios.html?lNm=" +
+                        thename.lastName +
+                        "&mNm=" +
+                        thename.middleName +
+                        "&fNm=" +
+                        thename.firstName +
+                        "'>" +
+                        thename.lastName +
+                        ", " +
+                        thename.firstName +
+                        "</a>,<i> " +
+                        thename.title +
+                        "";
+                    recentUpdatesObjects.push({ html_build, monthNum, year, dayNum });
+                }
+            }
+        });
+    });
+    html2 =
+        "<Br><Br><Center><span>These " +
+        recentUpdatesCount +
+        " bios have had edits or updates made to them in the last " +
+        RECENT_MONTHS_LIMIT2 +
+        " months:</span><br></center>";
+    //SORT ALGORITHM: first by year, then month, then day:
+    r2 = recentUpdatesObjects.sort((a, b) => {
+        // Primary sort: by age (ascending)
+        if (a.year > b.year) return -1;
+        if (a.year < b.year) return 1;
+        if (parseInt(a.monthNum) < parseInt(b.monthNum)) return 1;
+        if (parseInt(a.monthNum) > parseInt(b.monthNum)) return -1;
+        if (a.theDate != "none" && b.theDate != "none") {
+            if (parseInt(a.dayNum) < parseInt(b.dayNum)) return 1;
+            if (parseInt(a.dayNum) > parseInt(b.dayNum)) return -1;
+        }
+
+        return 0;
+    });
+
     //PUT TOGETHER DISPLAY:
     r.forEach((element) => {
         html += element.html_build;
     });
-
-    if (html != "") document.getElementById("recents").innerHTML = html;
+    r2.forEach((element) => {
+        html2 += element.html_build;
+    });
+    if (html + html2 != "") document.getElementById("recents").innerHTML = html + html2;
     else
         document.getElementById("recents").innerHTML =
             "No new entries in the last " + RECENT_MONTHS_LIMIT + " months";
