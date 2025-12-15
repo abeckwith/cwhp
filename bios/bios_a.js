@@ -976,6 +976,6 @@ as a writer were recognized only after her death. The founding members, who incl
 
         photoHeights: [],
         authors: "Anthony Beckwith",
-        categories: ["Dancer", "Choreographer", "Artitst", "Fashion Designer"],
+        categories: ["Dancer", "Choreographer", "Artist", "Fashion Designer"],
     },
 ];

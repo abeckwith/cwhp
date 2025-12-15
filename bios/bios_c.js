@@ -582,8 +582,8 @@ c_bios = [
             which continued for ten years In 1968, she published <em>The French Chef Cookbook</em>,
             including much of the content from her programs. In the 1970s and 1980s, she
             starred in further programs, &#8220;Julia and Company&#8221; and &#8220;Dinner
-            at Julia's.&#8221; A series of cook books also came out of this and her
-            subsequent television series. <br><br>
+            at Julia's.&#8221; A series of cookbooks also came out of this, along with her
+            popular public television series. <br><br>
             
             In the 1990s, she hosted four more series with
             arious celebrity chefs. 
@@ -595,7 +595,8 @@ c_bios = [
 
             Much of the interesting cookware she used in that kitchen 
             was provided by Design Research, located in Harvard Square. She often shopped at 
-            Savenor's Market, just a few blocks from her home.<br><Br>
+            Savenor's Market, just a few blocks from her home. In the 1990s, she recommended (in an interview)
+            Cambridge's Charles Hotel Restaurant, the Inn at Harvard, and Chez Henri.<br><Br>
             Julia Child founded the educational American Institute of
             Wine and Food in Napa, California in 1978. Among her many honors, she was awarded
             the Legion of Honor by the French government in 2001, the U.S. Presidential
@@ -612,13 +613,15 @@ c_bios = [
             <a href="https://guides.library.harvard.edu/schlesinger_julia_child" target="_self">Schlesinger Papers</a><br>
             Image source: <a href="https://commons.wikimedia.org/wiki/File:Julia_Child_restore.jpg" target="_self">
             https://commons.wikimedia.org/wiki/File:Julia_Child_restore.jpg</a><Br>
-            History Cambridge <a href="https://historycambridge.org/articles/julia-childs-kitchen/" target="_self">article</a>
+            History Cambridge <a href="https://historycambridge.org/articles/julia-childs-kitchen/" target="_self">article</a><br>
+            <i>America's Master Chef Looks at the Highlights, Culinary and Otherwise, of the City and its Neighbor, Cambridge</i> by Barbara
+            Beckwith, USAir Magazine, March, 1996
         `,
         photos: ["images_bios/Julia_Child_restore.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
         dateUpdated:
-        "December 12, 2025",
+        "December 14, 2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers (author), Anthony Beckwith (updates)",
