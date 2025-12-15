@@ -58,7 +58,7 @@ i_bios = [
         photos: [""],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "April 5, 2025",
+        dateUpdated: "04.05.2025",
         photoPos: [],
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",

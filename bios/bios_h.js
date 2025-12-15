@@ -140,7 +140,7 @@ h_bios = [
         photos: ["images_bios/Margaret_Hamilton_1995.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "April 5, 2025",
+        dateUpdated: "04.05.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -180,7 +180,7 @@ h_bios = [
         photos: [""],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "April 5, 2025",
+        dateUpdated: "04.05.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -311,8 +311,8 @@ h_bios = [
         `,
         photos: ["images_bios/JudyHerman.jpg"],
         photoTitles: [],
-        dateCreated: "2023",
-        dateUpdated: "April 7, 2025",
+        dateCreated: "00.00.2023",
+        dateUpdated: "04.07.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -368,7 +368,7 @@ h_bios = [
         photos: ["images_bios/suzanne_hiatt2.jpg", "images_bios/suzanne_hiatt.png"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "Aril 8, 2025",
+        dateUpdated: "04.08.2025",
 
         photoHeights: [200, 300],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -423,7 +423,7 @@ h_bios = [
         photos: ["images_bios/agnes_hocking.jpeg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "April 5, 2025",
+        dateUpdated: "04.05.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -803,8 +803,8 @@ h_bios = [
 
         photos: ["images_bios/audrey huang.jpeg"],
         photoTitles: [],
-        dateCreated: "April 4, 2025",
-        dateUpdated: "April 4, 2025",
+        dateCreated: "04.04.2025",
+        dateUpdated: "04.04.2025",
 
         photoHeights: [],
         authors: "Anthony Beckwith",
@@ -862,7 +862,7 @@ h_bios = [
         photos: ["images_bios/Ruth_Wald.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "April 5, 2025",
+        dateUpdated: "04.05.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -913,7 +913,7 @@ h_bios = [
         photos: ["images_bios/Anna_Vaughn_Hyatt.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "April 5, 2025",
+        dateUpdated: "04.05.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -1056,7 +1056,7 @@ Born in Boston in 1886, Marjorie Hurd
              `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "November 15, 2025",
+        dateCreated: "11.15.2025",
         dateUpdated: "",
 
         photoHeights: [],

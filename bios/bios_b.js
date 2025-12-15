@@ -233,7 +233,7 @@ b_bios = [
         photos: ["images_bios/BarlowNov91901.png"],
         photoTitles: ["Cambridge Chronicle November 9, 1901"],
         dateCreated: "prior to 2009",
-        dateUpdated: "November 14, 2025",
+        dateUpdated: "11.14.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -279,7 +279,7 @@ b_bios = [
         photos: [""],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "July 29, 2025",
+        dateUpdated: "07.29.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers (author)",
@@ -1504,8 +1504,8 @@ b_bios = [
         `,
         photos: ["images_bios/Brass sisters.jpg"],
         photoTitles: [],
-        dateCreated: "2016",
-        dateUpdated: "April 6, 2025",
+        dateCreated: "00.00.2016",
+        dateUpdated: "04.06.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -1598,8 +1598,8 @@ b_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "2016",
-        dateUpdated: "July 29, 2025",
+        dateCreated: "00.00.2016",
+        dateUpdated: "07.29.2025",
 
         photoHeights: [],
         authors: "Jan Gardner (editor)",
@@ -2162,7 +2162,7 @@ b_bios = [
         photos: [""],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "April 6, 2025",
+        dateUpdated: "04.06.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -2232,7 +2232,7 @@ b_bios = [
         `,
         photos: ["images_bios/susan_butcher.jpg"],
         photoTitles: [],
-        dateCreated: "June 1, 2025",
+        dateCreated: "06.01.2025",
         dateUpdated: "",
 
         photoHeights: [],
@@ -2337,7 +2337,7 @@ b_bios = [
         `,
         photos: ["images_bios/barbarabeckwith.jpg"],
         photoTitles: [],
-        dateCreated: "June 21, 2025",
+        dateCreated: "06.21.2025",
         dateUpdated: "",
 
         photoHeights: [],
@@ -2379,7 +2379,7 @@ b_bios = [
              `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "November 15, 2025",
+        dateCreated: "11.15.2025",
         dateUpdated: "",
 
         photoHeights: [],
@@ -2462,7 +2462,7 @@ b_bios = [
         `,
         photos: ["images_bios/butterfield.png"],
         photoTitles: [""],
-        dateCreated: "November 15, 2025",
+        dateCreated: "11.15.2025",
         dateUpdated: "",
 
         photoHeights: ["400"],
@@ -2524,7 +2524,7 @@ b_bios = [
         `,
         photos: ["images_bios/boudreau_alma2.png"],
         photoTitles: ["Dedication of the Boudreau library branch in Alma's name, 1989 (Alma at center)"],
-        dateCreated: "December 10, 2025",
+        dateCreated: "12.10.2025",
         dateUpdated: "",
 
         photoHeights: [""],

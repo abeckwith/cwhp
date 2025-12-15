@@ -82,8 +82,8 @@ m_bios = [
         `,
         photos: ["images_bios/MajorsMJ_small.jpg"],
         photoTitles: [],
-        dateCreated: "2014",
-        dateUpdated: "July 16, 2025",
+        dateCreated: "00.00.2014",
+        dateUpdated: "07.16.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -134,7 +134,7 @@ m_bios = [
         `,
         photos: ["images_bios/map_feminist.png"],
         photoTitles: [],
-        dateCreated: "2020",
+        dateCreated: "00.00.2020",
         dateUpdated: "",
 
         photoHeights: [],
@@ -188,7 +188,7 @@ m_bios = [
         photos: [""],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "April 12, 2025",
+        dateUpdated: "04.12.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -248,7 +248,7 @@ m_bios = [
         `,
         photos: ["images_bios/Markham_HWD.jpg"],
         photoTitles: [],
-        dateCreated: "2014",
+        dateCreated: "00.00.2014",
         dateUpdated: "",
 
         photoHeights: [],
@@ -304,7 +304,7 @@ m_bios = [
         photos: [""],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "April 5, 2025",
+        dateUpdated: "04.05.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -357,7 +357,7 @@ m_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "2014",
+        dateCreated: "00.00.2014",
         dateUpdated: "",
 
         photoHeights: [],
@@ -516,8 +516,8 @@ m_bios = [
         `,
         photos: ["images_bios/gail_mazur.jpg"],
         photoTitles: [],
-        dateCreated: "April 4, 2025",
-        dateUpdated: "April 4, 2025",
+        dateCreated: "04.04.2025",
+        dateUpdated: "04.04.2025",
 
         photoHeights: [],
         authors: "Anthony Beckwith",
@@ -646,7 +646,7 @@ m_bios = [
         photos: ["images_bios/AgnesMongan.png"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "April 5, 2025",
+        dateUpdated: "04.05.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -706,7 +706,7 @@ m_bios = [
         photos: [""],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "April 5, 2025",
+        dateUpdated: "04.05.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -773,7 +773,7 @@ m_bios = [
         photos: ["images_bios/MaudCabot.png"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "April 12, 2025",
+        dateUpdated: "04.12.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -864,7 +864,7 @@ m_bios = [
         photos: ["images_bios/kay_morrison.png"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "April 15, 2025",
+        dateUpdated: "04.15.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -1031,8 +1031,8 @@ m_bios = [
             "Rosario and her daughter Aurora",
             "Morales' unfinished self-portrait from the 1950s",
         ],
-        dateCreated: "April 17, 2025",
-        dateUpdated: "April 30, 2025",
+        dateCreated: "04.17.2025",
+        dateUpdated: "04.30.2025",
 
         photoHeights: [],
         authors: "Anthony Beckwith",
@@ -1081,7 +1081,7 @@ m_bios = [
     //     `,
     //     photos: [""],
     //     photoTitles: [],
-    //     dateCreated: "June 1, 2025",
+    //     dateCreated: "",
     //     dateUpdated: "",
 
     //     photoHeights: [],
@@ -1123,7 +1123,7 @@ m_bios = [
              `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "November 15, 2025",
+        dateCreated: "11.15.2025",
         dateUpdated: "",
 
         photoHeights: [],

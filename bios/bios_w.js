@@ -29,7 +29,7 @@ w_bios = [
         photos: ["images_bios/mary_wadden.png"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "April 6, 2025",
+        dateUpdated: "04.06.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -88,7 +88,7 @@ w_bios = [
         `,
         photos: ["images_bios/Juliaquilt_cropped_small.jpg"],
         photoTitles: [],
-        dateCreated: "2014",
+        dateCreated: "00.00.2014",
         dateUpdated: "",
 
         photoHeights: [],
@@ -237,8 +237,8 @@ w_bios = [
         `,
         photos: ["images_bios/bw-head-small.jpg"],
         photoTitles: [],
-        dateCreated: "2014",
-        dateUpdated: "April 12, 2025",
+        dateCreated: "00.00.2014",
+        dateUpdated: "04.12.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -307,7 +307,7 @@ w_bios = [
         photos: ["images_bios/whitman_florence.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "April 12, 2025",
+        dateUpdated: "04.12.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -376,7 +376,7 @@ w_bios = [
         photos: ["images_bios/Anne_Whitney.jpg", "images_bios/whitneySumnerStatue.jpeg"],
         photoTitles: ["", "Whitney's Charles Sumner statue"],
         dateCreated: "prior to 2009",
-        dateUpdated: "April 8, 2025",
+        dateUpdated: "04.08.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -424,7 +424,7 @@ w_bios = [
         photos: ["images_bios/Toni%20Williams%20small.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "December 14, 2014",
+        dateUpdated: "12.14.2014",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -595,7 +595,7 @@ w_bios = [
         photos: ["images_bios/HANNAH_Winthrop.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "April 8, 2025",
+        dateUpdated: "04.08.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -651,7 +651,7 @@ w_bios = [
         photos: ["images_bios/Ozeline__Wise.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "April 8, 2025",
+        dateUpdated: "04.08.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -755,8 +755,8 @@ w_bios = [
         `,
         photos: ["images_bios/Alice_Wolf.jpg"],
         photoTitles: [],
-        dateCreated: "2014",
-        dateUpdated: "April 6, 2025",
+        dateCreated: "00.00.2014",
+        dateUpdated: "04.06.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -863,7 +863,7 @@ w_bios = [
         photos: ["images_bios/womenscoffehouse.png"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "April 11, 2025",
+        dateUpdated: "04.11.2025",
 
         photoHeights: ["100"],
         authors: "Cambridge Women's Heritage Project volunteers",

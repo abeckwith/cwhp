@@ -540,7 +540,7 @@ c_bios = [
         photos: ["images_bios/joycechen.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",dateUpdated:
- "April 11, 2025",
+ "04.11.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -714,7 +714,7 @@ c_bios = [
             "images_bios/city-girl-cafe-1-square-0721ede4631d516b7a3d1cbcd61e5b6b-of0zjyvr75k2.jpg",
         ],
         photoTitles: [],
-        dateCreated: "2008",
+        dateCreated: "00.00.2008",
         dateUpdated:
           "",
 

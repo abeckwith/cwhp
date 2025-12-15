@@ -54,7 +54,7 @@ s_bios = [
         photos: ["images_bios/Saavedra.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "April 11, 2025",
+        dateUpdated: "04.11.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -146,7 +146,7 @@ s_bios = [
         photos: ["images_bios/May_Sarton.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "April 7, 2025",
+        dateUpdated: "04.07.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -188,7 +188,7 @@ s_bios = [
        
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "April 7, 2025",
+        dateUpdated: "04.07.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -240,7 +240,7 @@ s_bios = [
         photos: ["images_bios/MaryRoseShea.jpg"],
         photoTitles: ["Photo Courtesy of the Shea Family"],
         dateCreated: "prior to 2009",
-        dateUpdated: "April 7, 2025",
+        dateUpdated: "04.07.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -334,8 +334,8 @@ s_bios = [
         `,
         photos: ["images_bios/Simmons Blue Suit_small.jpg"],
         photoTitles: [],
-        dateCreated: "2018",
-        dateUpdated: "April 12, 2025",
+        dateCreated: "00.00.2018",
+        dateUpdated: "04.12.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -398,7 +398,7 @@ s_bios = [
         photos: ["images_bios/Alice_Kimball_Smith.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "April 11, 2025",
+        dateUpdated: "04.11.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -495,7 +495,7 @@ s_bios = [
              `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "November 15, 2025",
+        dateCreated: "11.15.2025",
         dateUpdated: "",
 
         photoHeights: [],

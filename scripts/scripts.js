@@ -83,34 +83,18 @@ function showRecents(num) {
     all_bios.forEach((bioLetterList) => {
         //go through each name for this letter:
         bioLetterList.forEach((thename) => {
-            if (thename.dateCreated != "prior to 2009") {
-                //if something like Mar 2024:
-
-                //covers"Jan 2025" and "January 2, 2025": UPDATE: all should now be Month d, yyyy
-                if (thename.dateCreated.indexOf(",") != -1) delimiter = ",";
-                else delimiter = " ";
-
-                monthNameShort = thename.dateCreated
-                    .split(delimiter)[0]
-                    .substring(0, 3); //1st 3 chars: Jan
-
+            ///TEMPORARY, UNTIL FIXED ALL DATE FORMATTING
+            if (thename.dateUpdated != "") console.log(thename.dateUpdated);
+            hasFullDate = thename.dateCreated.substring(0, 2) != "00";
+            if (
+                thename.dateCreated != "prior to 2009" &&
+                thename.dateCreated != "" &&
+                hasFullDate
+            ) {
                 //GET YEAR:
-                year = thename.dateCreated.split(delimiter)[1];
-
-                //GET MONTH NUM:
-                monthNum = 0;
-                for (let index = 0; index < months.length; index++) {
-                    const monthName = months[index];
-                    if (monthNameShort == monthName.substring(0, 3)) {
-                        monthNum = index;
-                    }
-                }
-                //GET DAY, IF INCLUDED:
-                theDate = "none";
-                if (thename.dateCreated.indexOf(",") != -1) {
-                    theDate = thename.dateCreated.split(" ")[1];
-                    theDate = theDate.substring(0, theDate.length - 1);
-                }
+                year = parseInt(thename.dateCreated.substring(6));
+                dayNum = parseInt(thename.dateCreated.substring(3, 5));
+                monthNum = parseInt(thename.dateCreated.substring(0, 2));
 
                 currYear = new Date().getUTCFullYear();
                 currMonth = new Date().getMonth();
@@ -121,37 +105,13 @@ function showRecents(num) {
                 //only add to list if within number of months selected:
                 if (monthsDifference < RECENT_MONTHS_LIMIT) {
                     recentCount++;
-                    dc = thename.dateCreated;
-                    //shorten month name:
-                    if (thename.dateCreated.indexOf("," != -1)) {
-                        dateSplit = thename.dateCreated.split(" ");
-                        m = dateSplit[0]; //month
+                    
 
-                        //add space if 1 digit month:
-                        dateNum = dateSplit[1];
-                        dateNum = dateNum.substring(0, dateNum.length - 1); //get rid of comma
-                        if (dateNum.length == 1) spc = "&nbsp;&nbsp;";
-                        else spc = "";
-
-                        //find where momth ends and abbreviate:
-                        spc_loc = thename.dateCreated.indexOf(" ");
-                        if (m.substring(0, 3) != "May")
-                            dc =
-                                m.substring(0, 3) +
-                                "." +
-                                spc +
-                                thename.dateCreated.substring(spc_loc);
-                        else
-                            dc =
-                                m.substring(0, 3) +
-                                spc +
-                                thename.dateCreated.substring(spc_loc);
-                    }
                     // html +=
                     html_build =
                         "<br></i>" +
-                        dc +
-                        // thename.dateCreated +
+         
+                        thename.dateCreated.replaceAll(".", "/") +
                         ":</b>&nbsp;<a href='bios.html?lNm=" +
                         thename.lastName +
                         "&mNm=" +
@@ -165,8 +125,7 @@ function showRecents(num) {
                         "</a>,<i> " +
                         thename.title +
                         "";
-                    yr = parseInt(year);
-                    recentsObjects.push({ html_build, monthNum, yr, theDate });
+                    recentsObjects.push({ html_build, monthNum, year, dayNum });
                 }
             }
         });
@@ -182,11 +141,11 @@ function showRecents(num) {
         // Primary sort: by age (ascending)
         if (a.year > b.year) return -1;
         if (a.year < b.year) return 1;
-        if (a.monthNum < b.monthNum) return 1;
-        if (a.monthNum > b.monthNum) return -1;
+        if (parseInt(a.monthNum) < parseInt(b.monthNum)) return 1;
+        if (parseInt(a.monthNum) > parseInt(b.monthNum)) return -1;
         if (a.theDate != "none" && b.theDate != "none") {
-            if (parseInt(a.theDate) < parseInt(b.theDate)) return 1;
-            if (parseInt(a.theDate) > parseInt(b.theDate)) return -1;
+            if (parseInt(a.dayNum) < parseInt(b.dayNum)) return 1;
+            if (parseInt(a.dayNum) > parseInt(b.dayNum)) return -1;
         }
 
         return 0;
@@ -429,7 +388,7 @@ function makeSidebar(letterIndex, stepping, topical, search) {
     if (!topical && !search) {
         for (i = 0; i < namesLists[letterIndex].length; i++) {
             firstCommaLast = namesLists[letterIndex][i];
-           
+
             // if (search) add = "' target='_blank";
             // else add = "'";
             html +=

@@ -72,7 +72,7 @@ r_bios = [
         photos: ["images_bios/reys.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",dateUpdated:
- "April 7, 2025",
+ "04.07.2025",
         
         photoHeights: [225],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -123,8 +123,9 @@ r_bios = [
         `,
         photos: ["images_bios/Ellen_Swallow_Richards.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2009",dateUpdated:
- "April 7, 2025",
+        dateCreated: "prior to 2009",
+        dateUpdated:
+ "04.07.2025",
         
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -173,7 +174,7 @@ r_bios = [
         photos: ["images_bios/anne_roe.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",dateUpdated:
- "April 7, 2025",
+ "04.07.2025",
         
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -299,8 +300,8 @@ r_bios = [
         `,
         photos: ["images_bios/rubinow.webp"],
         photoTitles: [],
-        dateCreated: "prior to 2009",dateUpdated:
- "April 7, 2025",
+        dateCreated: "prior to 2009",
+        dateUpdated:"04.07.2025",
 photoPos:[],
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",

@@ -56,7 +56,8 @@ o_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2009",dateUpdated:
+        dateCreated: "prior to 2009",
+        dateUpdated:
  "",
         
         photoHeights: [],
@@ -119,7 +120,7 @@ o_bios = [
         photos: ["images_bios/caroline_orne.png"],
         photoTitles: [],
         dateCreated: "prior to 2009",dateUpdated:
- "April 12, 2025",
+ "04.12.2025",
         
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",

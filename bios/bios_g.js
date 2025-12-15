@@ -242,7 +242,7 @@ g_bios = [
         photos: ["images_bios/louise_gluck.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "April 5, 2025",
+        dateUpdated: "04.05.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -318,7 +318,7 @@ g_bios = [
         `,
         photos: ["images_bios/MiriamGoodman1.jpg"],
         photoTitles: [],
-        dateCreated: "2014",
+        dateCreated: "00.00.2014",
         dateUpdated: "",
 
         photoHeights: [],
@@ -482,7 +482,7 @@ g_bios = [
         photos: ["images_bios/Saundra_Graham.png"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "April 5, 2025",
+        dateUpdated: "04.05.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -562,8 +562,8 @@ g_bios = [
         photoTitles: [
             "Michele Scott and Renae Gray <br>Photo Courtesy of Michele Scott",
         ],
-        dateCreated: "2020",
-        dateUpdated: "April 8, 2025",
+        dateCreated: "00.00.2020",
+        dateUpdated: "04.08.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -653,8 +653,8 @@ g_bios = [
         `,
         photos: ["images_bios/suzanne_greene.jpg"],
         photoTitles: [],
-        dateCreated: "2014",
-        dateUpdated: "April 8, 2025",
+        dateCreated: "00.00.2014",
+        dateUpdated: "04.08.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -734,7 +734,7 @@ g_bios = [
              `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "November 15, 2025",
+        dateCreated: "11.15.2025",
         dateUpdated: "",
 
         photoHeights: [],
@@ -776,7 +776,7 @@ g_bios = [
              `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "November 15, 2025",
+        dateCreated: "11.15.2025",
         dateUpdated: "",
 
         photoHeights: [],
@@ -860,7 +860,7 @@ g_bios = [
              `,
         photos: ["images_bios/gittens_yvonne.jpg"],
         photoTitles: [],
-        dateCreated: "December 9, 2025",
+        dateCreated: "12.09.2025",
         dateUpdated: "",
 
         photoHeights: [],

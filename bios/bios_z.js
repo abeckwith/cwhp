@@ -48,7 +48,7 @@ World Guard International: <a href="https://www.wgi.org/about-wgi/what-is-wgi/ha
         photos: ["images_bios/zappala_dolores.png"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "July 11, 2025",
+        dateUpdated: "07.11.2025",
         photoPos: [],
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",

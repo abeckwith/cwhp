@@ -35,7 +35,7 @@ d_bios = [
         photos: ["images_bios/elizabeth_dana.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "April 7, 2025",
+        dateUpdated: "04.07.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -277,8 +277,8 @@ d_bios = [
         `,
         photos: ["images_bios/louise_nelson.jpg"],
         photoTitles: [],
-        dateCreated: "April 6, 2025",
-        dateUpdated: "April 6, 2025",
+        dateCreated: "04.06.2025",
+        dateUpdated: "04.06.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -393,7 +393,7 @@ d_bios = [
         `,
         photos: ["images_bios/Henrietta Davis Bio Photo_small.jpg"],
         photoTitles: [],
-        dateCreated: "2016",
+        dateCreated: "00.00.2016",
         dateUpdated: "",
 
         photoHeights: [],
@@ -500,7 +500,7 @@ d_bios = [
             "Photo by Betsy Sowers",
             "Photo courtesy of Deborah Silverstein. Pictured: Marcia Diehl, at center, with bandmates of the New Harmony Sisterhood Band--Katie Tolles, Kendal Hale, Pat Oullette and Deborah Silverstein.",
         ],
-        dateCreated: "2014",
+        dateCreated: "00.00.2014",
         dateUpdated: "",
 
         photoHeights: [],
@@ -618,7 +618,7 @@ d_bios = [
         `,
         photos: ["images_bios/der_hovanessian.jpg"],
         photoTitles: [],
-        dateCreated: "2018",
+        dateCreated: "00.00.2018",
         dateUpdated: "",
 
         photoHeights: [],
@@ -797,7 +797,7 @@ d_bios = [
         `,
         photos: ["images_bios/driscoll_small.jpg"],
         photoTitles: [],
-        dateCreated: "2008",
+        dateCreated: "00.00.2018",
         dateUpdated: "",
 
         photoHeights: [],
@@ -910,7 +910,7 @@ d_bios = [
         `,
         photos: ["images_bios/Louise%20Dunlap.jpg"],
         photoTitles: [],
-        dateCreated: "2008",
+        dateCreated: "00.00.2018",
         dateUpdated: "",
 
         photoHeights: [],

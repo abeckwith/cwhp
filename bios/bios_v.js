@@ -36,8 +36,9 @@ v_bios = [
         `,
         photos: ["images_bios/JuliaV.jpg"],
         photoTitles: ["Photo Courtesy of Sylvia Saavedra-Keber"],
-        dateCreated: "prior to 2009",dateUpdated:
- "April 6, 2025",
+        dateCreated: "prior to 2009",
+        dateUpdated:
+ "04.06.2025",
         
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -93,7 +94,7 @@ v_bios = [
         photos: [""],
         photoTitles: [],
         dateCreated: "prior to 2009",dateUpdated:
- "April 12, 2025",
+ "04.12.2025",
         
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",

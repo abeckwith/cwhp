@@ -53,7 +53,7 @@ t_bios = [
         photos: ["images_bios/Helen_Taussig.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "April 7, 2025",
+        dateUpdated: "04.07.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -115,7 +115,7 @@ t_bios = [
         photos: ["images_bios/katharine_taylor.jpeg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "April 7, 2025",
+        dateUpdated: "04.07.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -231,7 +231,7 @@ t_bios = [
         photos: ["images_bios/Mary_Crutchfield_Thompson.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2016",
-        dateUpdated: "April 8, 2025",
+        dateUpdated: "04.08.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -286,7 +286,7 @@ t_bios = [
         photos: ["images_bios/Ruth_Turner.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "April 12, 2025",
+        dateUpdated: "04.12.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",

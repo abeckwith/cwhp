@@ -40,8 +40,8 @@ a_bios = [
         photoTitles: [""],
         photoHeights: [],
         
-        dateCreated: "2014",
-        dateUpdated: "July 15, 2025",
+        dateCreated: "00.00.2014",
+        dateUpdated: "07.15.2025",
 
         authors: "Joan Sindall (editor)",
         categories: ["Political Leader"],
@@ -81,7 +81,7 @@ a_bios = [
         photos: ["images_bios/Portrait_of_Eleanor_Hallowell_Abbott.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "July 9, 2025",
+        dateUpdated: "07.09.2025",
 
         photoHeights: [],
         authors: "Joan Sindall (editor)",
@@ -247,7 +247,7 @@ a_bios = [
         photos: ["images_bios/eliabeth cabot aggasiz.jpeg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "July 15, 2025",
+        dateUpdated: "07.15.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -593,7 +593,7 @@ as a writer were recognized only after her death. The founding members, who incl
         photos: ["images_bios/andrade.png"],
         photoTitles: ["1940 U.S. Census for Cambridge showing Dominga as Presser at 41 Market St."],
         dateCreated: "prior to 2009",
-        dateUpdated: "July 24, 2025",
+        dateUpdated: "07.24.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -653,7 +653,7 @@ as a writer were recognized only after her death. The founding members, who incl
         photos: ["images_bios/constance applebee.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "July 27, 2025",
+        dateUpdated: "07.24.2025",
 
         photoHeights: [],
         authors: "Joan Sindall (editor)",
@@ -778,8 +778,8 @@ as a writer were recognized only after her death. The founding members, who incl
         `,
         photos: ["images_bios/arditti.jpg"],
         photoTitles: [],
-        dateCreated: "2003",
-        dateUpdated: "April 6, 2025",
+        dateCreated: "00.00.2003",
+        dateUpdated: "04.06.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -888,7 +888,7 @@ as a writer were recognized only after her death. The founding members, who incl
         photos: [""],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "December 13, 2025",
+        dateUpdated: "12.13.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers (author), Anthony Beckwith (updates)",
@@ -971,7 +971,7 @@ as a writer were recognized only after her death. The founding members, who incl
         `,
         photos: ["images_bios/armstrong_barbara.png"],
         photoTitles: [],
-        dateCreated: "November 19, 2025",
+        dateCreated: "11.19.2025",
         dateUpdated: "",
 
         photoHeights: [],

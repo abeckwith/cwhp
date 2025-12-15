@@ -55,7 +55,7 @@ k_bios = [
         photos: ["images_bios/phebe_mitchell.png"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "April 6, 2025",
+        dateUpdated: "04.06.2025",
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
         categories: [
@@ -120,7 +120,7 @@ k_bios = [
         photos: ["images_bios/Vera_K.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "April 5, 2025",
+        dateUpdated: "04.05.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",

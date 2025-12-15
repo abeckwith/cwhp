@@ -42,8 +42,8 @@ p_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "2003",
-        dateUpdated: "April 12, 2025",
+        dateCreated: "00.00.2003",
+        dateUpdated: "04.12.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -97,7 +97,7 @@ p_bios = [
         photos: ["images_bios/emily_Parsons.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "April 12, 2025",
+        dateUpdated: "04.12.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -217,7 +217,7 @@ p_bios = [
         photos: ["images_bios/Cecilia_Gaposchkin.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "April 7, 2025",
+        dateUpdated: "04.07.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -282,7 +282,7 @@ p_bios = [
         photos: ["images_bios/peirce.png"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "April 7, 2025",
+        dateUpdated: "04.07.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -335,7 +335,7 @@ p_bios = [
         photos: [""],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "Apirl 12, 2025",
+        dateUpdated: "04.12.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",

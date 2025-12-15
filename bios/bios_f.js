@@ -49,7 +49,7 @@ f_bios = [
   Used with permission of Susan Fleischmann`,
         photos: ["images_bios/Fleischmann_small.jpg"],
         photoTitles: [],
-        dateCreated: "2008",
+        dateCreated: "00.00.2018",
         dateUpdated:
  "",
         photoPos: [],
@@ -338,7 +338,7 @@ In
              `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "November 15, 2025",
+        dateCreated: "11.15.2025",
         dateUpdated: "",
 
         photoHeights: [],

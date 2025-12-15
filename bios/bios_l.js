@@ -98,7 +98,7 @@ l_bios = [
         photos: ["images_bios/LindaLarson.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "April 12, 2025",
+        dateUpdated: "04.12.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -136,7 +136,7 @@ l_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "2003",
+        dateCreated: "00.00.2003",
         dateUpdated: "",
 
         photoHeights: [],
@@ -218,7 +218,7 @@ l_bios = [
         `,
         photos: ["images_bios/lesbian_avengers.png"],
         photoTitles: [],
-        dateCreated: "2018",
+        dateCreated: "00.00.2018",
         dateUpdated: "",
 
         photoHeights: [],
@@ -304,7 +304,7 @@ l_bios = [
         `,
         photos: ["images_bios/EdithLesley_small.jpeg"],
         photoTitles: [],
-        dateCreated: "2008",
+        dateCreated: "00.00.2018",
         dateUpdated: "",
 
         photoHeights: [],
@@ -438,7 +438,7 @@ l_bios = [
         photos: ["images_bios/Alice_Longfellow.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "April 5, 2025",
+        dateUpdated: "04.05.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -493,7 +493,7 @@ l_bios = [
         photos: ["images_bios/maria_lowell.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "April 5, 2025",
+        dateUpdated: "04.05.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -552,7 +552,7 @@ l_bios = [
         photos: ["images_bios/Lois_Lowry.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "April 5, 2025",
+        dateUpdated: "04.05.2025",
 
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -716,7 +716,7 @@ l_bios = [
         `,
         photos: ["images_bios/leno_mary.jpeg"],
         photoTitles: [],
-        dateCreated: "December 3, 2025",
+        dateCreated: "12.03.2025",
         dateUpdated: "",
 
         photoHeights: [],

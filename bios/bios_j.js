@@ -58,8 +58,9 @@ j_bios = [
         `,
         photos: ["images_bios/harriet_jacobs.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2009",dateUpdated:
- "April 5, 2025",
+        dateCreated: "prior to 2009",
+        dateUpdated:
+ "04.05.2025",
         
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
@@ -200,7 +201,7 @@ j_bios = [
         photos: ["images_bios/grace_johnson.png"],
         photoTitles: [],
         dateCreated: "prior to 2009",dateUpdated:
- "April 8, 2025",
+ "04.08.2025",
         
         photoHeights: [],
         authors: "Cambridge Women's Heritage Project volunteers",
