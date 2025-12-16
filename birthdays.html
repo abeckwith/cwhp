@@ -108,6 +108,9 @@
                             dayNum = parseInt(thename.birthDate.substring(3, 5));
                             monthNum = parseInt(thename.birthDate.substring(0, 2));
 
+                            currentDate = new Date();
+                            currentDate = currentDate.toLocaleDateString('en-US');
+                            yrs = parseInt(currentDate.substring(6, 10)) - year;
 
                             // html +=
                             html_build =
@@ -124,7 +127,7 @@
                                 ", " +
                                 thename.firstName +
                                 "</a>" +
-                                "";
+                                " (" + yrs + ")";
                             recentObjects.push({ html_build, monthNum, year, dayNum });
 
                         }

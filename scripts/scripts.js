@@ -160,7 +160,7 @@ function showRecents(num) {
                 thename.dateUpdated != "" &&
                 hasFullDate
             ) {
-                console.log(thename.dateUpdated);
+                // console.log(thename.dateUpdated);
                 //GET YEAR:
                 year = parseInt(thename.dateUpdated.substring(6));
                 dayNum = parseInt(thename.dateUpdated.substring(3, 5));
