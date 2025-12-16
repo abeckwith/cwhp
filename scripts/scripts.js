@@ -84,7 +84,6 @@ function showRecents(num) {
     all_bios.forEach((bioLetterList) => {
         //go through each name for this letter:
         bioLetterList.forEach((thename) => {
-
             hasFullDate = thename.dateCreated.substring(0, 2) != "00";
             if (
                 thename.dateCreated != "prior to 2009" &&
@@ -149,23 +148,19 @@ function showRecents(num) {
         return 0;
     });
 
-
-
-
     recentUpdatesObjects = [];
     recentUpdatesCount = 0;
     //go through each A-Z bio list:
     all_bios.forEach((bioLetterList) => {
         //go through each name for this letter:
         bioLetterList.forEach((thename) => {
-            
             hasFullDate = thename.dateUpdated.substring(0, 2) != "00";
             if (
                 thename.dateUpdated != "prior to 2009" &&
                 thename.dateUpdated != "" &&
                 hasFullDate
             ) {
-                console.log(thename.dateUpdated)
+                console.log(thename.dateUpdated);
                 //GET YEAR:
                 year = parseInt(thename.dateUpdated.substring(6));
                 dayNum = parseInt(thename.dateUpdated.substring(3, 5));
@@ -198,7 +193,12 @@ function showRecents(num) {
                         "</a>,<i> " +
                         thename.title +
                         "";
-                    recentUpdatesObjects.push({ html_build, monthNum, year, dayNum });
+                    recentUpdatesObjects.push({
+                        html_build,
+                        monthNum,
+                        year,
+                        dayNum,
+                    });
                 }
             }
         });
@@ -231,7 +231,8 @@ function showRecents(num) {
     r2.forEach((element) => {
         html2 += element.html_build;
     });
-    if (html + html2 != "") document.getElementById("recents").innerHTML = html + html2;
+    if (html + html2 != "")
+        document.getElementById("recents").innerHTML = html + html2;
     else
         document.getElementById("recents").innerHTML =
             "No new entries in the last " + RECENT_MONTHS_LIMIT + " months";
@@ -279,7 +280,10 @@ function stripName(nm) {
  * @param {*} dateWithDots
  */
 function formatDateSlash(dateWithDots) {
-    if (dateWithDots.indexOf(".") != -1 && dateWithDots.substring(0, 2) != "00") {
+    if (
+        dateWithDots.indexOf(".") != -1 &&
+        dateWithDots.substring(0, 2) != "00"
+    ) {
         sep = dateWithDots.split(".");
         //day: eliminate leading zero:
         if (sep[0].charAt(0) == "0") m = sep[0].charAt(1);
@@ -290,7 +294,7 @@ function formatDateSlash(dateWithDots) {
         return m + "/" + d + "/" + sep[2];
     }
     //just 4-digit year:
-    if(dateWithDots.substring(0, 2) == "00") return dateWithDots.substring(6);
+    if (dateWithDots.substring(0, 2) == "00") return dateWithDots.substring(6);
     //all others (incl. "before 2009")
     return dateWithDots;
 }
@@ -406,7 +410,10 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
         "<hr><div style='text-align:right'>Entry created: " +
         formatDateSlash(person.dateCreated);
     if (person.dateUpdated !== "")
-        dt += "<Br>Last updated: " + formatDateSlash(person.dateUpdated) + "</div>";
+        dt +=
+            "<Br>Last updated: " +
+            formatDateSlash(person.dateUpdated) +
+            "</div>";
     else dt += "</div>"; // "Last updated: 2006-2010";
 
     atr = "";
@@ -708,15 +715,28 @@ function search() {
             //go through all people with that last name starting letter:
             for (let index2 = 0; index2 < letterBios.length; index2++) {
                 const person = letterBios[index2];
-                //look for search term:
-                if (
-                    person.narrative
-                        .toLowerCase()
-                        .includes(keyword.toLowerCase()) &&
-                    total < 2000
-                ) {
+                //look for search term (last element will override previous ones in search)
+                toSearch = [
+                    person.birthLocation,
+                    person.deathLocation,
+                    person.authors,
+                    person.lastName,
+                    person.firstName,
+                    person.title,
+                    person.references,
+                    person.narrative,
+                ];
+                found = false;
+                //go through each keyword to find first that has search term
+                toSearch.forEach((element) => {
+                    if (element.toLowerCase().includes(keyword.toLowerCase())) {
+                        found = true;
+                        hasKeyword = element;
+                    }
+                });
+                if (found && total < 2000) {
                     //narrative without line breaks:
-                    text = person.narrative.replace(/\s+/g, " ");
+                    text = hasKeyword.replace(/\s+/g, " ");
 
                     text = text.replaceAll("<strong>", "");
                     text = text.replaceAll("<em>", "");
@@ -759,13 +779,11 @@ function search() {
                     ).length;
                     total += count;
                     loc = 0;
-
                     //text before and after keyword:
                     for (let index = 0; index < count; index++) {
                         loc = text
                             .toLowerCase()
                             .indexOf(keyword.toLowerCase(), loc);
-
                         result += "..." + text.substring(loc - 100, loc);
                         result +=
                             "<b>" +
