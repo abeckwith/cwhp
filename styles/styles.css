@@ -194,6 +194,19 @@ td > a {
     width: 100%;
     height: 100%;
 }
+#bdaydisplay{
+  /* border-style: solid;
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: gray; */
+    font-size: 1.5vw;
+    padding: 0.2vw 1vw;
+
+    margin-top:30px;
+    /* width: fit-content; */
+    /* display: block; */
+    align-content: center;
+}
 .left {
     /* width: 200vh; */
     flex-grow: 1;
@@ -399,6 +412,9 @@ a.search-buttons {
     p a,
     .panel-heading a,
     #end-html #opening-pictures {
+        font-size: 20px;
+    }
+     #bdaydisplay {
         font-size: 20px;
     }
     #size {

@@ -53,7 +53,7 @@ World Guard International: <a href="https://www.wgi.org/about-wgi/what-is-wgi/ha
         photoHeights: [],
         editors:"",
         authors: "CWHP volunteers",
-        categories: ["Community Director"],
+        categories: ["Community Leader"],
     },
 ]
 

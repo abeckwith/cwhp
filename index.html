@@ -88,16 +88,45 @@
                 z_bios,
             ];
             //go through each bio and check for match with today's date:
+            endings = {
+                "0": "th",
+                "1": "st",
+                "2": "nd",
+                "3": "rd",
+                "4": "th",
+                "5": "th",
+                "6": "th",
+                "7": "th",
+                "8": "th",
+                "9": "th"
+            }
             all_bios.forEach(bioLtr => {
                 bioLtr.forEach(bio => {
 
+                    //does bio birth match today's date?
                     if (bio.birthDate.substring(0, 2) == currentDate.substring(0, 2) &&
-                        bio.birthDate.substring(3, 5) == currentDate.substring(3, 5))
+                        bio.birthDate.substring(3, 5) == currentDate.substring(3, 5)) {
 
-                        alert(bio.firstName + " " + bio.lastName + "'s birthday is today! She would have been "+
-                            (parseInt(currentDate.substring(6,10)) - parseInt(bio.birthDate.substring(6,10)))  + " years old today."
-                        )
-
+                        //make link to bio:
+                        link = "<Center>&#x1F389; <a href='bios.html?lNm=" +
+                            bio.lastName +
+                            "&mNm=" +
+                            bio.middleName +
+                            "&fNm=" +
+                            bio.firstName +
+                            // add +
+                            "'>";
+                        //get how old the person is:
+                        yrs = parseInt(currentDate.substring(6, 10)) - parseInt(bio.birthDate.substring(6, 10));
+                        //determine "th", "st" "rd":
+                        suffix = "" + endings[yrs % 10];
+                        //things like 112 don't end in "nd":
+                        if(yrs % 100 < 14 && yrs % 100 > 10) suffix = "th"; 
+                        //display birthday announcement:
+                        document.getElementById("bdaydisplay").innerHTML = link + bio.firstName +
+                            " " + bio.lastName + "</a>'s <b>" + (yrs) +
+                            suffix + "</b> birthday is today! &#x1F381;";
+                    }
                 });
             });
             setMenu(0);
@@ -129,11 +158,12 @@
                     </div>
                 </div>
             </div>
+            <span id="bdaydisplay"></span>
+
             <br>
             <div class="fade-in" style="text-align:center;font-size:4vh;">
                 The Cambridge Women's Heritage Project
             </div>
-
 
             <div id="opening-pictures" style="margin: 0px auto;">
                 <a href="bios.html?lNm=Fuller&mNm=&fNm=Margaret" target="_self"><img class="opening-images"

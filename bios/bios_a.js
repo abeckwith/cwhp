@@ -7,7 +7,6 @@ a_bios = [
         familyName: "Hulley",
         
         title: `First woman mayor of Cambridge`,
-        // birthDate: "12.16.1925",
         birthDate: "03.01.1925",
         birthLocation: "Stockholm, Sweden",
         deathDate: "07.04.2020",
