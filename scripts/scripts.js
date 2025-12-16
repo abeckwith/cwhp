@@ -407,23 +407,26 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
         html +=
             "<br><br><strong>References:</strong><Br>" + person.references + "";
     dt =
-        "<hr><div style='text-align:right'>Entry created: " +
-        formatDateSlash(person.dateCreated);
+        "<hr><div style='text-align:right'>Entry created: <B>" +
+        formatDateSlash(person.dateCreated) + "</b>";
+    lu = "";
     if (person.dateUpdated !== "")
-        dt +=
-            "<Br>Last updated: " +
-            formatDateSlash(person.dateUpdated) +
-            "</div>";
-    else dt += "</div>"; // "Last updated: 2006-2010";
+        lu =
+            "Last updated: <B>" +
+            formatDateSlash(person.dateUpdated)+ "</b>";
 
     atr = "";
+    edtr = "";
     if (person.authors.trim() !== "")
         atr =
-            "<div style='text-align:right'>Authors & Editors: " +
+            "<div style='text-align:right'>Author(s):<B> " +
             person.authors +
-            "</div>";
-
-    html += "<br>" + dt + atr + "<br><br><br><br><br><br><br><br><br>";
+            "</b></div>";
+  if (person.editors.trim() !== "")
+        edtr =
+            "<div style='text-align:right'>Editor(s): <B>" +
+            person.editors + "</b>";
+    html += "</div><br>" + dt + "<Br>" + atr + "<Br>" + lu + "<Br>" + edtr + "<br><br><br><br><br><br><br><br><br>";
 
     document.getElementById("bio").innerHTML = html;
 

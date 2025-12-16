@@ -1101,7 +1101,7 @@ m_bios = [
 
     //     photoHeights: [],
     //     editors:"",
-        authors: "CWHP volunteers",
+       // authors: "CWHP volunteers",
     //     categories: ["Clerk", "Law Enforcement"],
     // },
       {
