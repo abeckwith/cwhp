@@ -354,9 +354,25 @@ a.letter-links:visited {
 .link-to-top a {
     text-decoration: none;
 }
+.bottom-line{
+       
+    border-width:7px 0px 0px 0px;
+    border-color: rgb(225, 193, 170);
+    border-style: solid;
+    width:50%;
+    text-align:right;
+    align-items: right;
+    margin-left:6vw;
+    padding-top:10px;
+}
 .name-heading {
     font-size: 3vw;
     margin-bottom: 10px;
+    border-width:0px;
+    border-top:7px;
+    border-color: rgb(226, 203, 186);
+    border-style: solid;
+    width:50%;
 }
 .selected-ltr {
     color: green;

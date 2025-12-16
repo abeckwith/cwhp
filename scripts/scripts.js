@@ -407,7 +407,7 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
         html +=
             "<br><br><strong>References:</strong><Br>" + person.references + "";
     dt =
-        "<hr><div style='text-align:right'>Entry created: <B>" +
+        "<div class='bottom-line'>Entry created: <B>" +
         formatDateSlash(person.dateCreated) + "</b>";
     lu = "";
     if (person.dateUpdated !== "")
@@ -1164,7 +1164,7 @@ function init(topical, search) {
     else html = "";
     html +=
         '<div style="margin-bottom:50px"></div>' +
-        '<hr><p style="text-align:right"id="footnote">Cambridge Women\'s Heritage Project<br>Last updated December 2025</p>';
+        '<p style="text-align:right"id="footnote">Cambridge Women\'s Heritage Project<br>Last updated December 2025</p>';
 
     document.getElementById("end-HTML").innerHTML = html;
 }

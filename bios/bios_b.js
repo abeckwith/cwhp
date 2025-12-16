@@ -2045,7 +2045,7 @@ b_bios = [
         organization: false,
         lastName: "Burrell",
         firstName: "Annie",
-        middleName: "Elizaveth",
+        middleName: "Elizabeth",
         familyName: "Thurston",
         
         title: `Community leader`,
