@@ -75,7 +75,8 @@ r_bios = [
  "04.07.2025",
         
         photoHeights: [225],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Author"],
     },
     {
@@ -128,7 +129,8 @@ r_bios = [
  "04.07.2025",
         
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Scientist"],
     },
     {
@@ -177,7 +179,8 @@ r_bios = [
  "04.07.2025",
         
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Psychologist"],
     },
     {
@@ -253,7 +256,8 @@ r_bios = [
  "",
         
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Activist", "Teacher/Educator", "Reformer"],
     },
     {
@@ -304,7 +308,8 @@ r_bios = [
         dateUpdated:"04.07.2025",
 photoPos:[],
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Activist", "Writer", "Editor"],
         
     },

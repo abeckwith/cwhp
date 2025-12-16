@@ -51,7 +51,8 @@ World Guard International: <a href="https://www.wgi.org/about-wgi/what-is-wgi/ha
         dateUpdated: "07.11.2025",
         photoPos: [],
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Community Director"],
     },
 ]

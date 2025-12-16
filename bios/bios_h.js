@@ -51,7 +51,8 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Activist", "Author"],
     },
     {
@@ -101,7 +102,8 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Doctor"],
     },
     {
@@ -143,7 +145,8 @@ h_bios = [
         dateUpdated: "04.05.2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Businesswoman"],
     },
     {
@@ -183,7 +186,8 @@ h_bios = [
         dateUpdated: "04.05.2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Community Leader", "Factory Worker"],
     },
     {
@@ -236,7 +240,8 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Architect"],
     },
     {
@@ -315,7 +320,8 @@ h_bios = [
         dateUpdated: "04.07.2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Psychiatrist"],
     },
     {
@@ -371,7 +377,8 @@ h_bios = [
         dateUpdated: "04.08.2025",
 
         photoHeights: [200, 300],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Clergy", "Teacher/Educator"],
     },
     {
@@ -426,7 +433,8 @@ h_bios = [
         dateUpdated: "04.05.2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Editor"],
     },
     {
@@ -478,7 +486,8 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Acquitted of Witchcraft"],
     },
     {
@@ -526,7 +535,8 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Writer"],
     },
     {
@@ -581,7 +591,8 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Author"],
     },
     {
@@ -723,7 +734,8 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Architect"],
     },
     {
@@ -807,6 +819,7 @@ h_bios = [
         dateUpdated: "04.04.2025",
 
         photoHeights: [],
+        editors:"",
         authors: "Anthony Beckwith",
         categories: ["Lawyer", "Teacher/Educator", "Businesswoman"],
     },
@@ -865,7 +878,8 @@ h_bios = [
         dateUpdated: "04.05.2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Activist", "Refugee", "Scientist"],
     },
     {
@@ -916,7 +930,8 @@ h_bios = [
         dateUpdated: "04.05.2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Artist"],
     },
     {
@@ -1018,7 +1033,8 @@ Born in Boston in 1886, Marjorie Hurd
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Sportswoman", "Volunteers"],
     },
        {
@@ -1060,6 +1076,7 @@ Born in Boston in 1886, Marjorie Hurd
         dateUpdated: "",
 
         photoHeights: [],
+        editors:"",
         authors: "",
         categories: ["Astronomer"],
     },

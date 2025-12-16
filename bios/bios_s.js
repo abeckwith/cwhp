@@ -57,7 +57,8 @@ s_bios = [
         dateUpdated: "04.11.2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Community Leader", "Teacher/Educator"],
     },
     {
@@ -149,7 +150,8 @@ s_bios = [
         dateUpdated: "04.07.2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Refugee", "Poet", "Author"],
     },
     {
@@ -191,7 +193,8 @@ s_bios = [
         dateUpdated: "04.07.2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Artist", "Author"],
     },
     {
@@ -243,7 +246,8 @@ s_bios = [
         dateUpdated: "04.07.2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: [""],
     },
     {
@@ -338,7 +342,8 @@ s_bios = [
         dateUpdated: "04.12.2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: [
             "Community Leader",
             "Historian/History Project",
@@ -401,7 +406,8 @@ s_bios = [
         dateUpdated: "04.11.2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Author"],
     },
     {
@@ -456,7 +462,8 @@ s_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Writer", "Architect"],
     },
      {
@@ -499,6 +506,7 @@ s_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        editors:"",
         authors: "",
         categories: ["Astronomer"],
     },

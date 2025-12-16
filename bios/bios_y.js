@@ -134,7 +134,8 @@ y_bios = [
         dateUpdated: "",
         photoPos: [],
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Activist", "Writer"],
     },
     {
@@ -184,7 +185,8 @@ y_bios = [
         dateUpdated: "",
         photoPos: [],
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Radio Host", "Refugee"],
     },
     {
@@ -232,7 +234,8 @@ y_bios = [
         dateUpdated: "04.12.2025",
         photoPos: [],
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Social/Philanthropic Organization"],
     },
 ];

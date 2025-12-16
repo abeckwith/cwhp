@@ -38,7 +38,8 @@ d_bios = [
         dateUpdated: "04.07.2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Historian/History Project"],
     },
     {
@@ -80,7 +81,8 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Educational Institution/School"],
     },
     {
@@ -137,7 +139,8 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Musician"],
     },
     {
@@ -181,7 +184,8 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Dancer"],
     },
     {
@@ -218,7 +222,8 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Businesswoman", "Community Leader"],
     },
     {
@@ -281,7 +286,8 @@ d_bios = [
         dateUpdated: "04.06.2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Law Enforcement", "Military"],
     },
     {
@@ -326,7 +332,8 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Feminist Organization"],
     },
     {
@@ -397,7 +404,8 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: [
             "Environmentalist",
             "Political Leader",
@@ -504,7 +512,8 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: [
             "Activist",
             "Musician",
@@ -563,7 +572,8 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: [""],
     },
     {
@@ -622,7 +632,8 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Poet"],
     },
     {
@@ -682,7 +693,8 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Psychiatrist", "Refugee"],
     },
     {
@@ -751,7 +763,8 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Reformer"],
     },
     {
@@ -801,7 +814,8 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: [""],
     },
     {
@@ -845,7 +859,8 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Scientist"],
     },
     {
@@ -914,7 +929,8 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: [
             "Activist",
             "Teacher/Educator",
@@ -977,7 +993,8 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Businesswoman"],
     },
 ];

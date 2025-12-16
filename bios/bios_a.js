@@ -43,7 +43,8 @@ a_bios = [
         dateCreated: "00.00.2014",
         dateUpdated: "07.15.2025",
 
-        authors: "Joan Sindall (editor)",
+        editors:"Joan Sindall",
+        authors: "CWHP volunteers",
         categories: ["Political Leader"],
     },
     {
@@ -84,7 +85,8 @@ a_bios = [
         dateUpdated: "07.09.2025",
 
         photoHeights: [],
-        authors: "Joan Sindall (editor)",
+        editors:"Joan Sindall",
+        authors: "CWHP Volunteers",
         categories: ["Author"],
     },
 
@@ -143,7 +145,8 @@ a_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Author"],
     },
     {
@@ -187,7 +190,8 @@ a_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Author"],
     },
     {
@@ -250,7 +254,8 @@ a_bios = [
         dateUpdated: "07.15.2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Teacher/Educator"],
     },
     {
@@ -293,7 +298,8 @@ a_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: [
             "Historian/History Project",
             "Writer", "Editor"
@@ -337,7 +343,8 @@ a_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Community Leader"],
     },
     {
@@ -376,7 +383,8 @@ a_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Author"],
     },
     {
@@ -430,7 +438,8 @@ as a writer were recognized only after her death. The founding members, who incl
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: [""],
     },
 
@@ -470,7 +479,8 @@ as a writer were recognized only after her death. The founding members, who incl
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Nurse"],
     },
     {
@@ -509,7 +519,8 @@ as a writer were recognized only after her death. The founding members, who incl
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Activist"],
     },
     {
@@ -554,7 +565,8 @@ as a writer were recognized only after her death. The founding members, who incl
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Activist"],
     },
     {
@@ -596,7 +608,8 @@ as a writer were recognized only after her death. The founding members, who incl
         dateUpdated: "07.24.2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Factory Worker"],
     },
     {
@@ -656,7 +669,8 @@ as a writer were recognized only after her death. The founding members, who incl
         dateUpdated: "07.24.2025",
 
         photoHeights: [],
-        authors: "Joan Sindall (editor)",
+        editors:"Joan Sindall",
+        authors: "CWHP Volunteers",
         categories: ["Sportswoman", "Teacher/Educator"],
     },
     {
@@ -705,7 +719,8 @@ as a writer were recognized only after her death. The founding members, who incl
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: [""],
     },
     {
@@ -782,7 +797,8 @@ as a writer were recognized only after her death. The founding members, who incl
         dateUpdated: "04.06.2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Community Leader", "Scientist"],
     },
     {
@@ -831,7 +847,8 @@ as a writer were recognized only after her death. The founding members, who incl
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Community Leader"],
     },
     {
@@ -891,7 +908,8 @@ as a writer were recognized only after her death. The founding members, who incl
         dateUpdated: "12.13.2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers (author), Anthony Beckwith (updates)",
+        editors:"Anthony Beckwith",
+        authors: "CWHP volunteers",
         categories: ["Activist","Housing Advocate"],
     },
     {
@@ -926,7 +944,8 @@ as a writer were recognized only after her death. The founding members, who incl
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Volunteers"],
     },
     {
@@ -975,6 +994,7 @@ as a writer were recognized only after her death. The founding members, who incl
         dateUpdated: "",
 
         photoHeights: [],
+        editors:"",
         authors: "Anthony Beckwith",
         categories: ["Dancer", "Choreographer", "Artist", "Fashion Designer"],
     },

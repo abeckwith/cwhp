@@ -61,7 +61,8 @@ e_bios = [
         dateUpdated: "",
         photoPos: [],
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Doctor"],
     },
     {
@@ -107,7 +108,8 @@ e_bios = [
         dateUpdated: "04.05.2025",
         photoPos: [],
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Activist", "Volunteers"],
     },
     {
@@ -173,7 +175,8 @@ e_bios = [
         dateUpdated: "04.05.2025",
         photoPos: [],
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Activist", "Teacher/Educator"],
     },
      {
@@ -245,7 +248,8 @@ e_bios = [
         dateUpdated: "",
         photoPos: [],
         photoHeights: [],
-        authors: "Joanna Shea O'Brien (author)",
+        editors:"",
+        authors: "Joanna Shea O'Brien",
         categories: ["Doctor"],
     },
 

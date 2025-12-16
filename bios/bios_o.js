@@ -61,7 +61,8 @@ o_bios = [
  "",
         
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Historian/History Project"],
     },
 
@@ -123,7 +124,8 @@ o_bios = [
  "04.12.2025",
         
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Librarian", "Poet", "Author"],
     },
 ];

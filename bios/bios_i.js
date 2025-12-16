@@ -61,7 +61,8 @@ i_bios = [
         dateUpdated: "04.05.2025",
         photoPos: [],
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Teacher/Educator"],
     },
 ];

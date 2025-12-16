@@ -32,7 +32,8 @@ w_bios = [
         dateUpdated: "04.06.2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Teacher/Educator"],
     },
     {
@@ -92,7 +93,8 @@ w_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Activist", "Teacher/Educator", "Volunteers"],
     },
     {
@@ -241,7 +243,8 @@ w_bios = [
         dateUpdated: "04.12.2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Activist", "Writer", "Editor"],
     },
     {
@@ -310,7 +313,8 @@ w_bios = [
         dateUpdated: "04.12.2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Political Leader"],
     },
     {
@@ -379,7 +383,8 @@ w_bios = [
         dateUpdated: "04.08.2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Artist", "Poet"],
     },
     {
@@ -427,7 +432,8 @@ w_bios = [
         dateUpdated: "12.14.2014",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Factory Worker", "Volunteers"],
     },
     {
@@ -496,7 +502,8 @@ w_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Refugee", "Social/Philanthropic Organization"],
     },
     {
@@ -529,7 +536,8 @@ w_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Teacher/Educator"],
     },
     {
@@ -598,7 +606,8 @@ w_bios = [
         dateUpdated: "04.08.2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: [
             "Community Leader",
             "Writer",
@@ -654,7 +663,8 @@ w_bios = [
         dateUpdated: "04.08.2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Volunteers"],
     },
     {
@@ -707,7 +717,8 @@ w_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Community Leader", "Political Leader"],
     },
     {
@@ -759,7 +770,8 @@ w_bios = [
         dateUpdated: "04.06.2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Political Leader", "Refugee"],
     },
     {
@@ -809,7 +821,8 @@ w_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: [
             "Educational Institution/School",
             "Feminist Organization",
@@ -866,7 +879,8 @@ w_bios = [
         dateUpdated: "04.11.2025",
 
         photoHeights: ["100"],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Feminist Organization"],
     },
     {
@@ -928,7 +942,8 @@ w_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: [
             "Business or Service Provider (Women-Owned, Feminist)",
         ],
@@ -983,7 +998,8 @@ w_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: [
             "Business or Service Provider (Women-Owned, Feminist)",
         ],
@@ -1027,7 +1043,8 @@ w_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: [
             "Educational Institution/School",
             "Feminist Organization",

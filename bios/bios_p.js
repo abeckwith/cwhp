@@ -46,7 +46,8 @@ p_bios = [
         dateUpdated: "04.12.2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Community Leader"],
     },
     {
@@ -100,7 +101,8 @@ p_bios = [
         dateUpdated: "04.12.2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Community Leader", "Nurse"],
     },
     {
@@ -161,7 +163,8 @@ p_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Activist"],
     },
     {
@@ -220,7 +223,8 @@ p_bios = [
         dateUpdated: "04.07.2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Scientist"],
     },
     {
@@ -285,7 +289,8 @@ p_bios = [
         dateUpdated: "04.07.2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Reformer", "Author"],
     },
     {
@@ -338,7 +343,8 @@ p_bios = [
         dateUpdated: "04.12.2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Physical Therapist ", "Volunteers"],
     },
 ];

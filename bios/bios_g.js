@@ -36,7 +36,8 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Musician"],
     },
     {
@@ -96,7 +97,8 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: [""],
     },
     {
@@ -168,7 +170,8 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Educational Institution/School", "School/Institution"],
     },
     {
@@ -245,7 +248,8 @@ g_bios = [
         dateUpdated: "04.05.2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Poet", "Author"],
     },
     {
@@ -322,7 +326,8 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: [
             "Photographer",
             "Poet",
@@ -396,7 +401,8 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: [
             "Teacher/Educator",
             "Historian/History Project",
@@ -485,7 +491,8 @@ g_bios = [
         dateUpdated: "04.05.2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Activist", "Political Leader"],
     },
     {
@@ -566,7 +573,8 @@ g_bios = [
         dateUpdated: "04.08.2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Activist", "Teacher/Educator"],
     },
     {
@@ -657,7 +665,8 @@ g_bios = [
         dateUpdated: "04.08.2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Historian/History Project"],
     },
     {
@@ -694,7 +703,8 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: [
             "Business or Service Provider (Women-Owned, Feminist)",
         ],
@@ -738,6 +748,7 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        editors:"",
         authors: "",
         categories: ["Astronomer", "Teacher"],
     },
@@ -780,6 +791,7 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        editors:"",
         authors: "",
         categories: ["Astronomer"],
     },
@@ -864,6 +876,7 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        editors:"",
         authors: "Anthony Beckwith",
         categories: ["Teacher", "Volunteer", "Community Leader"],
     },

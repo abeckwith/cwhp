@@ -56,7 +56,8 @@ t_bios = [
         dateUpdated: "04.07.2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Doctor", "Author"],
     },
     {
@@ -118,7 +119,8 @@ t_bios = [
         dateUpdated: "04.07.2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Teacher/Educator"],
     },
     {
@@ -178,7 +180,8 @@ t_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: [
             "Historian/History Project",
             "Scientist", "Editor",
@@ -234,7 +237,8 @@ t_bios = [
         dateUpdated: "04.08.2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Dentist"],
     },
     {
@@ -289,7 +293,8 @@ t_bios = [
         dateUpdated: "04.12.2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Scientist"],
     },
    

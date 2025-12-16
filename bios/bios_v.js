@@ -41,7 +41,8 @@ v_bios = [
  "04.06.2025",
         
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Activist"],
     },
     {
@@ -97,7 +98,8 @@ v_bios = [
  "04.12.2025",
         
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Actress", "Teacher/Educator", "Musician"],
     },
 ];

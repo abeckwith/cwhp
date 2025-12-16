@@ -66,7 +66,8 @@ c_bios = [
  "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Social/Philanthropic Organization"],
     },
     {
@@ -110,7 +111,8 @@ c_bios = [
  "",
 
         photoHeights: [215],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Suffragists/Suffrage Group"],
     },
     {
@@ -174,7 +176,8 @@ c_bios = [
  "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Educational Institution/School", "School/Institution"],
     },
     {
@@ -241,7 +244,8 @@ c_bios = [
  "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Scientist", "Suffragists/Suffrage Group", "Astronomer"],
     },
     {
@@ -288,7 +292,8 @@ c_bios = [
  "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: [""],
     },
     {
@@ -342,7 +347,8 @@ c_bios = [
  "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Social/Philanthropic Organization", "Women's Club"],
     },
     {
@@ -389,7 +395,8 @@ c_bios = [
  "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Feminist Organization"],
     },
     {
@@ -435,7 +442,8 @@ c_bios = [
  "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Social/Philanthropic Organization"],
     },
     {
@@ -494,7 +502,8 @@ c_bios = [
  "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Psychologist"],
     },
     {
@@ -543,7 +552,8 @@ c_bios = [
  "04.11.2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Businesswoman", "Chef"],
     },
     {
@@ -624,7 +634,8 @@ c_bios = [
         "December 14, 2025",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers (author), Anthony Beckwith (updates)",
+        editors:"Anthony Beckwith (updates)",
+        authors: "CWHP volunteers",
         categories: ["Chef"],
     },
     {
@@ -676,7 +687,8 @@ c_bios = [
  "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: [
             "Childcare Provider",
             "Business or Service Provider (Women-Owned, Feminist)",
@@ -719,7 +731,8 @@ c_bios = [
           "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: [
             "Business or Service Provider (Women-Owned, Feminist)",
         ],
@@ -767,7 +780,8 @@ c_bios = [
  "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: [
             "Business or Service Provider (Women-Owned, Feminist)",
         ],
@@ -833,7 +847,8 @@ c_bios = [
  "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Businesswoman"],
     },
     {
@@ -901,7 +916,8 @@ c_bios = [
  "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Teacher/Educator"],
     },
     {
@@ -963,7 +979,8 @@ c_bios = [
  "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Clairvoyant"],
     },
     {
@@ -1016,7 +1033,8 @@ c_bios = [
  "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: [""],
     },
     {
@@ -1086,7 +1104,8 @@ c_bios = [
  "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Actress"],
     },
     {
@@ -1139,7 +1158,8 @@ Image source: <a href="https://en.wikipedia.org/wiki/Charlotte_Cushman" target="
  "",
 
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Actress"],
     },
 ];

@@ -63,7 +63,8 @@ j_bios = [
  "04.05.2025",
         
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: [
             "Reformer",
             "Suffragists/Suffrage Group",
@@ -141,7 +142,8 @@ j_bios = [
  "",
         
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: [
             "Teacher/Educator",
             "Political Leader",
@@ -204,7 +206,8 @@ j_bios = [
  "04.08.2025",
         
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: [
             "Activist",
             "Political Leader",
@@ -265,7 +268,8 @@ j_bios = [
  "",
         
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Businesswoman"],
     },
 ];

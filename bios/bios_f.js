@@ -54,7 +54,8 @@ f_bios = [
  "",
         photoPos: [],
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Activist", "Teacher/Educator"],
     },
     {
@@ -108,7 +109,8 @@ f_bios = [
  "",
         photoPos: [],
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: [
             "Business or Service Provider (Women-Owned, Feminist)",
         ],
@@ -175,7 +177,8 @@ f_bios = [
  "April 11, 205",
         photoPos: [],
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Scientist"],
     },
     {
@@ -223,7 +226,8 @@ f_bios = [
  "",
         photoPos: [],
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: ["Artist"],
     },
     {
@@ -296,7 +300,8 @@ In
  "",
         photoPos: [],
         photoHeights: [],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: [
             "Social/Philanthropic Organization",
             "Author",
@@ -342,6 +347,7 @@ In
         dateUpdated: "",
 
         photoHeights: [],
+        editors:"",
         authors: "",
         categories: ["Astronomer"],
     },

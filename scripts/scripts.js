@@ -717,6 +717,7 @@ function search() {
                 const person = letterBios[index2];
                 //look for search term (last element will override previous ones in search)
                 toSearch = [
+                    person.birthDate,
                     person.birthLocation,
                     person.deathLocation,
                     person.authors,

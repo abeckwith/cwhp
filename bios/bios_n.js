@@ -51,7 +51,8 @@ n_bios = [
  "04.12.2025",
 photoPos:[],
         photoHeights: ["150"],
-        authors: "Cambridge Women's Heritage Project volunteers",
+        editors:"",
+        authors: "CWHP volunteers",
         categories: [
             "Business or Service Provider (Women-Owned, Feminist)",
         ],
