@@ -2,12 +2,13 @@
 
 <head>
     <meta name="designer" content="Anthony Beckwith">
-    <meta name="keywords" content="historical, commission, designated, landmarks, easements, conservation, neighborhood, preservation">
+    <meta name="keywords"
+        content="historical, commission, designated, landmarks, easements, conservation, neighborhood, preservation">
     <link rel="apple-touch-icon" sizes="180x180" href="images_util/favicon_io/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="images_util/favicon_io/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="images_util/favicon_io/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
-    
+
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
@@ -53,10 +54,59 @@
     <script src="bios/bios_x.js"></script>
     <script src="bios/bios_y.js"></script>
     <script src="bios/bios_z.js"></script>
+    <script>
+        function bday() {
+            currentDate = new Date();
+            // Short format (e.g., "12/16/2025")
+            currentDate = currentDate.toLocaleDateString('en-US');
+            all_bios = [
+                a_bios,
+                b_bios,
+                c_bios,
+                d_bios,
+                e_bios,
+                f_bios,
+                g_bios,
+                h_bios,
+                i_bios,
+                j_bios,
+                k_bios,
+                l_bios,
+                m_bios,
+                n_bios,
+                o_bios,
+                p_bios,
+                q_bios,
+                r_bios,
+                s_bios,
+                t_bios,
+                u_bios,
+                v_bios,
+                w_bios,
+                x_bios,
+                y_bios,
+                z_bios,
+            ];
+            //go through each bio and check for match with today's date:
+            all_bios.forEach(bioLtr => {
+                bioLtr.forEach(bio => {
 
+                    if (bio.birthDate.substring(0, 2) == currentDate.substring(0, 2) &&
+                        bio.birthDate.substring(3, 5) == currentDate.substring(3, 5))
+
+                        alert(bio.firstName + " " + bio.lastName + "'s birthday is today! She would have been "+
+                            (parseInt(currentDate.substring(6,10)) - parseInt(bio.birthDate.substring(6,10)))  + " years old today."
+                        )
+
+                });
+            });
+            setMenu(0);
+        }
+    </script>
 </head>
 
-<body onload="setMenu(0)">
+<body onload="bday()">
+
     <div style="align-content: center">
         <!-- <img src="images_bios/header.png" style="width:100%;margin-left:0px"> -->
 
@@ -67,7 +117,7 @@
         <div class="logo">
             <img src="images_util/logo_xsm.jpg">
         </div>
-        
+
 
         <!-- Intro and clickable images -->
         <div>
@@ -112,10 +162,11 @@
                     honor their lives and recognize their many accomplishments </li>
                 <li class='style-box'>We celebrate
                     the contributions of women from the early days of Cambridge to the present</li>
-                <li class='style-box'>We currently have over 900 women and women's organizations that have been nominated for
+                <li class='style-box'>We currently have over 900 women and women's organizations that have been
+                    nominated for
                     a place
                     in the database</li>
-               
+
 
 
                 <li style="font-size:2.5vh">
