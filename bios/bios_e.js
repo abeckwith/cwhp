@@ -110,7 +110,7 @@ e_bios = [
         photoHeights: [],
         editors:"",
         authors: "CWHP volunteers",
-        categories: ["Activist", "Volunteers"],
+        categories: ["Activist", "Volunteer"],
     },
     {
         organization: false,

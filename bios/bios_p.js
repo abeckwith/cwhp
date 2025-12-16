@@ -345,6 +345,6 @@ p_bios = [
         photoHeights: [],
         editors:"",
         authors: "CWHP volunteers",
-        categories: ["Physical Therapist ", "Volunteers"],
+        categories: ["Physical Therapist ", "Volunteer"],
     },
 ];

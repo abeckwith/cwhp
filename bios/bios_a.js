@@ -947,7 +947,7 @@ as a writer were recognized only after her death. The founding members, who incl
         photoHeights: [],
         editors:"",
         authors: "CWHP volunteers",
-        categories: ["Volunteers"],
+        categories: ["Volunteer"],
     },
     {
         organization: false,

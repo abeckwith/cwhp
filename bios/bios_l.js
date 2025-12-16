@@ -393,7 +393,7 @@ l_bios = [
         photoHeights: [],
         editors:"",
         authors: "CWHP volunteers",
-        categories: ["Nurse", "Volunteers", "Community Leader"],
+        categories: ["Nurse", "Volunteer", "Community Leader"],
     },
     {
         organization: false,

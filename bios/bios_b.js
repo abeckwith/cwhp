@@ -399,7 +399,7 @@ b_bios = [
         photoHeights: [],
         editors:"",
         authors: "CWHP volunteers",
-        categories: ["Businesswoman", "Volunteers"],
+        categories: ["Businesswoman", "Volunteer"],
     },
     {
         organization: false,
@@ -678,7 +678,7 @@ b_bios = [
         photoHeights: [],
         editors:"",
         authors: "CWHP volunteers",
-        categories: ["Community Leader", "Volunteers"],
+        categories: ["Community Leader", "Volunteer"],
     },
     {
         organization: false,
@@ -1200,7 +1200,7 @@ b_bios = [
         photoHeights: [],
         editors:"",
         authors: "CWHP volunteers",
-        categories: ["Activist", "Volunteers"],
+        categories: ["Activist", "Volunteer"],
     },
 
     {
@@ -1886,7 +1886,7 @@ b_bios = [
         photoHeights: [],
         editors:"",
         authors: "CWHP volunteers",
-        categories: ["Teacher/Educator", "Volunteers"],
+        categories: ["Teacher/Educator", "Volunteer"],
     },
     {
         organization: false,

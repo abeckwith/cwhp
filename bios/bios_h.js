@@ -1035,7 +1035,7 @@ Born in Boston in 1886, Marjorie Hurd
         photoHeights: [],
         editors:"",
         authors: "CWHP volunteers",
-        categories: ["Sportswoman", "Volunteers"],
+        categories: ["Sportswoman", "Volunteer"],
     },
        {
         organization: false,

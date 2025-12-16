@@ -95,7 +95,7 @@ w_bios = [
         photoHeights: [],
         editors:"",
         authors: "CWHP volunteers",
-        categories: ["Activist", "Teacher/Educator", "Volunteers"],
+        categories: ["Activist", "Teacher/Educator", "Volunteer"],
     },
     {
         organization: false,
@@ -434,7 +434,7 @@ w_bios = [
         photoHeights: [],
         editors:"",
         authors: "CWHP volunteers",
-        categories: ["Factory Worker", "Volunteers"],
+        categories: ["Factory Worker", "Volunteer"],
     },
     {
         organization: true,
@@ -665,7 +665,7 @@ w_bios = [
         photoHeights: [],
         editors:"",
         authors: "CWHP volunteers",
-        categories: ["Volunteers"],
+        categories: ["Volunteer"],
     },
     {
         organization: false,
