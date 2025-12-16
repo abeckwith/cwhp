@@ -531,7 +531,7 @@ as a writer were recognized only after her death. The founding members, who incl
         familyName: "",
         
         title: `Activist, social worker, Cambridge project coordinator`,
-        birthDate: "1943",
+        birthDate: "00.00.1943",
         birthLocation: "Boston, Massachusetts",
         deathDate: "",
         deathLocation: "",
@@ -956,7 +956,7 @@ as a writer were recognized only after her death. The founding members, who incl
         familyName: "Ward",
         
         title: `Artitst, Fashion Designer, Choreographer`,
-        birthDate: "1940",
+        birthDate: "00.00.1940",
         birthLocation: "Cambridge, Massachusetts",
         deathDate: "09.08.2013",
         deathLocation: "Boston, Massachusetts",

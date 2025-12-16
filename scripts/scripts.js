@@ -971,6 +971,7 @@ function setMenu(whichOneGray) {
         '<a id="7" class="top-links" href="nominations.html">Nominations</a>' +
         '<a id="8" class="top-links" href="internship.html">Get Involved</a>' +
         '<a id="9" class="top-links" href="about.html">About</a>' +
+        '<a id="9" class="top-links" href="birthdays.html">•</a>' +
         '<a href="javascript:void(0);" class="icon" onclick="resizeMenu()">' +
         '<i class="fa fa-bars"> <span id="menu-text">MENU</span></i>' +
         "</a>";

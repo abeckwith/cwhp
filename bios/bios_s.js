@@ -205,7 +205,7 @@ s_bios = [
         familyName: "Merlesena",
         
         title: `Activist; Childcare provider`,
-        birthDate: "c.1925",
+        birthDate: "ca.1925",
         birthLocation: "",
         deathDate: "01.08.2005",
         deathLocation: "Cambridge, Massachusetts",

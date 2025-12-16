@@ -1062,10 +1062,10 @@ m_bios = [
         familyName: "Jackson",
         
         title: `Astronomer`,
-        birthDate: "1870",
+        birthDate: "00.00.1870",
 
         birthLocation: "Cambridge, Massachusetts",
-        deathDate: "1907",
+        deathDate: "00.00.1907",
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
            <i>Amy McKay was born and attended school in Cambridge. 

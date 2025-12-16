@@ -251,7 +251,7 @@ b_bios = [
         familyName: "",
         
         title: `Pilot, community leader`,
-        birthDate: "1920",
+        birthDate: "00.00.1920",
         birthLocation: "Newton, Massachusetts",
         deathDate: "06.09.1999",
         deathLocation: "Concord, Massachusetts",
@@ -2287,7 +2287,7 @@ b_bios = [
         familyName: "Shutt",
         
         title: `Activist, Teacher, Writer`,
-        birthDate: "1937",
+        birthDate: "00.00.1937",
         birthLocation: "Brooklyn, New York",
         deathDate: "",
         deathLocation: "",
@@ -2436,7 +2436,7 @@ b_bios = [
         familyName: "Eaton",
         
         title: `Nonprofit Bookstore Co-Founder, Social Activist`,
-        birthDate: "1913",
+        birthDate: "00.00.1913",
         birthLocation: "Cleveland, Ohio",
         deathDate: "07.12.1978",
         deathLocation: "Cambridge, MA",
