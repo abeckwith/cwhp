@@ -54,38 +54,57 @@ a_bios = [
         middleName: "Hallowell",
         familyName: "",
         
-        title: `Writer`,
-        birthDate: "00.00.1872",
-        birthLocation: "Cambridge",
-        deathDate: "00.00.1958",
+        title: `Author`,
+        birthDate: "09.22.1872",
+        birthLocation: "Cambridge, Massachusetts",
+        deathDate: "06.04.1958",
         deathLocation: "Portsmouth, New Hampshire",
         narrative: ` 
-            Eleanor Hallowell Abbott was raised in a literary and religious family in Cambridge. She
-    attended private schools and Radcliffe College, then worked as a secretary and teacher
-    at the Lowell State Normal School, a teacher's college. She began her writing career
-    when two of her poems were accepted by <i>Harper's Magazine</i> in 1909.<br><Br>
+            Eleanor Hallowell Abbott was raised in a literary and religious family on Dana Street in Cambridge. She
+    attended Cambridge private schools and Radcliffe College, then worked as a secretary at the Lowell State Normal School,
+     a teacher's college. 
+    <br><br>In her early 20s, Eleanor wrote travel accounts for the <i>Boston Journal</i>, including descriptions of trips to California.  Eleanor 
+    eventually became a teacher
+    at the State Normal School in Lowell and at that point began to write poems and short stories. In 1892, her short story
+    "Medium's Merry Christmas" won the <i>Cambridge Tribune</i> Prize (a local newspaper at the time). In 1905, she won the <i>
+    Collier's Weekly</i> first prize in "Latest Fiction contest."
+    Her writing career began in earnest
+    when two of her poems were accepted by <i>Harper's Magazine</i> in 1909.
+    <br><Br>
     Her writing brought her a measure of popularity in the 1910s and 1920s when she
     produced seventy-five short stories and fourteen "unblushingly romantic" novels about
-    young women. In 1936, she wrote an autobiography about her childhood in Cambridge,
-    entitled <i>Being Little in Cambridge When Everyone Else Was Big</i>.<Br><br>
+    young women, from <i>Molly Make-Believe</i> in 1910 to <i>But Once A Year: Christmas Stories</i> in 1928.
+     In 1936, she wrote an autobiography about her childhood in Cambridge,
+    entitled "Being Little in Cambridge When Everyone Else Was Big", which was reviewed by <i>Time Magazine</i> and <i>The New York Times</i>.
+    <Br><br>
     In 1908, upon her marriage to Dr. Fordyce Coburn, she moved to Wilton, N.H. Some of
-    her typescripts and correspondence are held at the University of New Hampshire.<br><Br>
+    her typescripts and correspondence are held at the University of New Hampshire
+    .<br><Br>
     Hallowell Abbot's father was a clergyman, Edward Abbott. He was rector at St. James
     Episcopal Church and edited a journal <i>Literary World</i>. Her grandfather, Jacob Abbott,
     was a friend of Longfellow and a writer of children's stories.  
         `,
         otherNotes: "",
         references: ` University of New Hampshire special collections
-            biographical note<br>Review of her autobiography in <em>Time</em> magazine, Oct
-            05, 1936.<Br>Photo source: wikipedia
-        `,
-        photos: ["images_bios/Portrait_of_Eleanor_Hallowell_Abbott.jpg"],
-        photoTitles: [],
-        dateCreated: "prior to 2009",
-        dateUpdated: "07.09.2025",
+            biographical note<br>
+            Review of Abbott's autobiography in <em>Time Magazine</em>, Oct
+            05, 1936.<Br>Photo source: <a href="https://en.wikipedia.org/wiki/Eleanor_Hallowell_Abbott#/media/File:Portrait_of_Eleanor_Hallowell_Abbott.jpg">
+            https://en.wikipedia.org/wiki/Eleanor_Hallowell_Abbott#/media/File:Portrait_of_Eleanor_Hallowell_Abbott.jpg</a><br>
+            <i>Cambridge Tribune</i>, March 11, 1893<Br>
+            <i>Cambridge Tribune</i>, December 25, 1892<br>
+            <i>Cambridge Tribune</i>, October 21, 1905<br>
+            <i>The New York Times</i>, January 3, 1937<br>
 
-        photoHeights: [],
-        editors:"Joan Sindall",
+            Book cover photo from Abe Books: <a href="https://www.abebooks.com/first-edition/Being-Little-Cambridge-When-Big-Eleanor/31885289056/bd#&gid=1&pid=1">
+            https://www.abebooks.com/first-edition/Being-Little-Cambridge-When-Big-Eleanor/31885289056/bd#&gid=1&pid=1</a>
+        `,
+        photos: ["images_bios/Portrait_of_Eleanor_Hallowell_Abbott.jpg", "images_bios/abbott_cover.png"],
+        photoTitles: ["", "Abbott's memoir <i>Being Little in Cambridge</i>"],
+        dateCreated: "prior to 2009",
+        dateUpdated: "12.17.2025",
+
+        photoHeights: ["400", "500"],
+        editors:"Joan Sindall & Anthony Beckwith",
         authors: "CWHP Volunteers",
         categories: ["Author"],
     },

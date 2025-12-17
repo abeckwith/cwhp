@@ -365,7 +365,7 @@ a.letter-links:visited {
     display:inline-block;
     margin-left:16vw;
     padding-top:10px;
-    /* font-family:'Calibri'; */
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
 }
 .name-heading {
