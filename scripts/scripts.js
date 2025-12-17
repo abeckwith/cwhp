@@ -423,7 +423,7 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
             "</b></div>";
     if (person.editors.trim() !== "")
         edtr =
-            "<div style='text-align:right'>Editor(s): <B>" +
+            "<div>Editor(s): <B>" +
             person.editors +
             "</b>";
     html +=
@@ -435,7 +435,7 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
         lu +
         "<Br>" +
         edtr +
-        "<br><br><br><br><br><br><br><br><br>";
+        "<br><img src='images_util/logo_xsm.jpg' style='width:10vw'><br><br><br><br><br><br><br><br>";
 
     document.getElementById("bio").innerHTML = html;
 
