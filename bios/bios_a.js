@@ -104,7 +104,8 @@ a_bios = [
             <i>Cambridge Tribune</i>, October 21, 1905<br>
             <i>The New York Times</i>, January 3, 1937<br>
             "Being Little in Cambridge When Everyone Else Was Big", by Eleanor Hallowell Abbott, 
-New York ; D. Appleton-Century company, inc., 1936.<br>
+New York ; D. Appleton-Century company, inc., 1936 (the text of the book can be found <a href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015059385941&seq=1">
+here</a>)<br>
             Book cover photo from Abe Books: <a href="https://www.abebooks.com/first-edition/Being-Little-Cambridge-When-Big-Eleanor/31885289056/bd#&gid=1&pid=1">
             https://www.abebooks.com/first-edition/Being-Little-Cambridge-When-Big-Eleanor/31885289056/bd#&gid=1&pid=1</a>
         `,
