@@ -644,7 +644,7 @@ b_bios = [
             Episcopal
             Church
             in Cambridge.<br><br>
-            Satyra was born in 1892 in Rock Hill, Jamaica, and OPB in Worcester,
+            Satyra was born in 1892 in Rock Hill, Jamaica, and arrived in Worcester,
             Massachusetts, in 1903. After the family moved to Cambridge, she graduated from
             Cambridge Latin
             School, and in 1913 from Wilberforce University in Ohio. Satyra then taught at
@@ -848,10 +848,13 @@ b_bios = [
             `,
         otherNotes: "",
         references: ` David Walton, &#8220;Gotham when they were Young&#8221;
-            <em>New York Times</em> June 9, 2002: Christopher Lehmann-Haupt. &#8220;Whats
-            in a Name: Ima Hogg Knew&#8221;<em> NY Times</em>, January 1997; Anne Bernays
+
+            <em>New York Times</em> June 9, 2002<Br>Christopher Lehmann-Haupt. &#8220;Whats
+            in a Name: Ima Hogg Knew&#8221;
+            <em> NY Times</em>, January 1997<Br>
+            Anne Bernays
             &#8220;Remembering Mrs McIntosh &#8220; <em>Chronicle of Higher Education</em>,
-            Feb 9, 2002:&#8220;Meet the Writers: Anne Bernays&#8221; (includes interview)
+            Feb 9, 2002<Br>&#8220;Meet the Writers: Anne Bernays&#8221; (includes interview)
             Barnes and Noble website
         `,
         photos: ["images_bios/ann bernays.webp"],
@@ -1024,7 +1027,7 @@ b_bios = [
                 href="https://www.radcliffe.harvard.edu/schlesinger-library/collections/black-women-oral-history-project" target="_self">https://www.radcliffe.harvard.edu/schlesinger-library/collections/black-women-oral-history-project</a>
         `,
         photos: ["images_bios/black womens oral history.avif"],
-        photoTitles: [],
+        photoTitles: ["BWOHP board members, c.1980"],
         dateCreated: "prior to 2009",
         dateUpdated: "",
 
@@ -1839,9 +1842,10 @@ b_bios = [
             `,
         otherNotes: "",
         references: ` <em>Notable American Women, Modern Period</em> (Belnap
-            Press: 1980)
+            Press: 1980)<Br>Photo from <a href="https://en.wikipedia.org/wiki/Charlotte_Hawkins_Brown#/media/File:Charlotte_Eugenia_Hawkins_Brown.jpg">
+            https://en.wikipedia.org/wiki/Charlotte_Hawkins_Brown#/media/File:Charlotte_Eugenia_Hawkins_Brown.jpg</a>
         `,
-        photos: [""],
+        photos: ["images_bios/brown_charlotte.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
         dateUpdated: "",
@@ -1953,7 +1957,7 @@ b_bios = [
         middleName: "",
         familyName: "Ingraham",
         
-        title: `Educator, Microbiologist ,University administrator`,
+        title: `Educator, Microbiologist, University Administrator`,
         birthDate: "07.10.1910",
         birthLocation: "Brooklyn, New York",
         deathDate: "01.21.1998",
@@ -2087,9 +2091,9 @@ b_bios = [
         familyName: "",
         
         title: `Community Activist`,
-        birthDate: "ca1930",
+        birthDate: "09.24.1929",
         birthLocation: "",
-        deathDate: "07.00.1999",
+        deathDate: "07.14.1999",
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Jeanne V. Burton was a member of the board of
@@ -2107,15 +2111,15 @@ b_bios = [
 
             `,
         otherNotes: "",
-        references: `<em>Cambridge Chronicle</em> 7-22-99, 4-3-2002
+        references: `<em>Cambridge Chronicle</em> 7-22-1999, 4-3-2002
         `,
         photos: [""],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "",
+        dateUpdated: "12.17.2025",
 
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist"],
     },
@@ -2129,7 +2133,7 @@ b_bios = [
         title: `Teacher`,
         birthDate: "00.00.1897",
         birthLocation: "Cambridge, Massachusetts",
-        deathDate: "01.00.2000",
+        deathDate: "01.28.2000",
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
 
@@ -2139,7 +2143,7 @@ b_bios = [
             Normal School. <br><br>She taught at the Thorndike School while continuing her education
             at the evening school of Boston College. She was a 4th grade teacher at the
             Thorndike School in East Cambridge for 50 years. She was feted at her 100th
-            birthday by the Cambridge City Council and a presentation by the-mayor of Cambridge,
+            birthday by the Cambridge City Council and a presentation by the mayor of Cambridge,
             Sheila Russell. A few years earlier she was honored as one of the 14 women who
             initially and continually voted in Cambridge following women's suffrage.
             She continued to vote right up to the last election in November before she died.
@@ -2147,7 +2151,7 @@ b_bios = [
 
             `,
         otherNotes: "",
-        references: `<em>Cambridge Chronicle</em> 02-02-00
+        references: `<em>Cambridge Chronicle</em> 2/02/2000
         `,
         photos: [""],
         photoTitles: [],

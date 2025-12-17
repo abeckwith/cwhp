@@ -46,7 +46,7 @@ e_bios = [
             Association established an annual award in her name to recognize her achievements
             in maternal and child health. In 1972, she was awarded the prestigious Howland
             prize by that organization, the first woman to receive it. <br><Br>
-            Tess retired 
+           
             `,
         otherNotes: "",
         references: ` Phyllis J. Read and Bernard L. Witlieb, <em>The

@@ -731,7 +731,7 @@ m_bios = [
         familyName: "Cabot",
         
         title: `Artist, art teacher`,
-        birthDate: "00.00.1903",
+        birthDate: "03.01.1903",
         birthLocation: "New York, New York",
         deathDate: "03.14.1999",
         deathLocation: "Cambridge, Massachusetts",

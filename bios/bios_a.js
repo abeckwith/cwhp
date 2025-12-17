@@ -403,9 +403,9 @@ here</a>)<br>
 
             `,
         otherNotes: "",
-        references: ` <em>Cambridge Chronicle</em> 2-18-00; Paid death
-            notice of Judge Bailey Aldrich September 29, 2002.; <em>NY Times</em>, news
-            obit of Bailey Aldrich, September 30, 2002
+        references: ` <em>Cambridge Chronicle</em> 2-18-00<Br>Paid death
+            notice of Judge Bailey Aldrich September 29, 2002.<Br><em>NY Times</em>
+            Obituary of Bailey Aldrich, September 30, 2002
         `,
         photos: [""],
         photoTitles: [],
@@ -432,17 +432,19 @@ here</a>)<br>
         narrative: `
 This poetry press was founded by a cooperative group of poets, including five women and 
 two men. It was named for Alice James, the sister of William and Henry James, whose gifts 
-as a writer were recognized only after her death. The founding members, who included Patricia
+as a writer were recognized only after her death. <Br><Br>The founding members, who included Patricia
  Cumming, Marjorie Fletcher, Jean Pedrick, Lee Rudolph, Ron Schreiber, Betsy Sholl, and 
  Cornelia Veenendaal, had as a primary purpose the encouragement of women poets. Patricia
  Cumming, who was then the head of the Writing Program at MIT, was able to obtain the use 
  of MIT Press for typesetting and printing the poetry publications.<br><Br>
+
      The cooperative press was situated at 135 Mount Auburn Street in Cambridge and required
       the poets whose works were accepted for publication to spend some time working at the 
       press. By the 1980s, the group had expanded to include eleven women and two men and 
       included the widely recognized poets Ruth Whitman and Jane Kenyon. In 1987, the Women's 
       National Book Association recognized Marjorie Fletcher, then president of the press, 
       as one of the "70 women who have made a difference."<Br><Br>
+
      The press was featured in major publications including <i>Ms</i>, <i>Poets & Writers</i>, <i>Slate</i> and 
      <i>Poetry Daily</i>. Many authors that the press published went on to receive major poetry 
      awards and their books were reviewed in important literary journals. Recently, the 
@@ -459,7 +461,7 @@ as a writer were recognized only after her death. The founding members, who incl
         Book Association <br>
         Ali Kazam , &#8220;<i>Beacon Voices: Jo Pitkin</i>&#8221; Beacon Dispatch, Issue 28,
         December 2006, January 2007<br>
-        www.alicejamesbooks.org<br>
+        <a href="www.alicejamesbooks.org">www.alicejamesbooks.org</a><br>
         Image courtesy of Alice James Books
     `,
         photos: ["images_bios/alice james books.jpg"],
@@ -490,10 +492,11 @@ as a writer were recognized only after her death. The founding members, who incl
             Born in Cambridge, Corinne Woodson Alleyne was
             educated in Boston and Philadelphia. She was licensed as a nurse in 1930, but
             was denied work for 12 years because she was an African American. She was finally
-            hired during WWII, when there was a shortage of nurses. She worked for several
+            hired during WWII, when there was a shortage of nurses. 
+            <Br><Br>Corinne worked for several
             Boston hospitals and then as a private nurse, later becoming a Boston public
             health nursing supervisor. She lived during her retirement years in Roxbury,
-            where she recorded many oral histories of senior citizens. She was featured
+            where she recorded many oral histories of senior citizens and did videography. She was featured
             on a PBS program produced by the Smithsonian for her achievements as a senior
             citizen/parent and was honored by Mayor Menino in 1998. She was 93 when she
             died.
@@ -866,10 +869,8 @@ as a writer were recognized only after her death. The founding members, who incl
 
             `,
         otherNotes: "",
-        references: ` Based on personal interview by Sandra Pullman,
-            2003; The Adbar website is <a href="http://www.ethiopianwomen.org" target="_self">http://www.ethiopianwomen.org</a>,
-            or they can be contacted at the organization at P.O. Box 382302, Cambridge,
-            MA 02238-2302.
+        references: `Summary based on personal interview by Sandra Pullman,
+            2003<Br>
         `,
         photos: [""],
         photoTitles: [],
@@ -962,7 +963,7 @@ as a writer were recognized only after her death. The founding members, who incl
 
             Life-long resident of North Cambridge, Louise
             Azevedo was a Portuguese family and attended catholic schools in Cambridge, including the Notre Dame school. She graduated from Bunker Hill Community College and the University of Massachusetts
-            at Boston, where she received a bachelor's degree in science. She worked
+            at Boston, where she received a bachelor's degree in science. <br><Br>She worked
             as a volunteer as a nurse at Cambridge nursing homes, including Youville Hospital, Vernon
             Hall Nursing Home and Neville Manor Nursing Home. She was also an active volunteer
             in North Cambridge Little League baseball. 
@@ -976,10 +977,10 @@ as a writer were recognized only after her death. The founding members, who incl
         photos: [""],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "",
+        dateUpdated: "12.15.2025",
 
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Volunteer"],
     },

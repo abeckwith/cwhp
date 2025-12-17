@@ -173,8 +173,8 @@ f_bios = [
       <a href="https://woodsholemuseum.org/WHHWomen/GladysFriedler.html" target="_self">https://woodsholemuseum.org/WHHWomen/GladysFriedler.html</a>`,
         photos: ["images_bios/Friedler_Gaby.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2009",dateUpdated:
- "April 11, 205",
+        dateCreated: "prior to 2009",
+        dateUpdated:"04.11.2025",
         photoPos: [],
         photoHeights: [],
         editors:"",
@@ -219,14 +219,16 @@ f_bios = [
   `,
         otherNotes: "",
         references: ` 
-    Nomination by Robin Hein. Cambridge newspapers.`,
-        photos: [""],
-        photoTitles: [],
-        dateCreated: "prior to 2009",dateUpdated:
- "",
+    Nomination by Robin Hein<Br>Source: Cambridge newspapers.<Br>
+    Image source: <a href="https://itoldya420.getarchive.net/amp/media/illustration-from-the-adventures-of-nils-by-mary-hamilton-frye-page-154-42ec0d">
+    https://itoldya420.getarchive.net/amp/media/illustration-from-the-adventures-of-nils-by-mary-hamilton-frye-page-154-42ec0d</a>`,
+        photos: ["images_bios/frye.jpg"],
+        photoTitles: ["Illustration from The Adventures of Nils by Mary Hamilton Frye, page 154"],
+        dateCreated: "prior to 2009",
+        dateUpdated:"12.17.2025",
         photoPos: [],
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Artist"],
     },

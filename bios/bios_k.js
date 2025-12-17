@@ -72,9 +72,9 @@ k_bios = [
         familyName: "",
         
         title: `Physicist`,
-        birthDate: "00.00.1928",
+        birthDate: "09.09.1928",
         birthLocation: "Princeton, New Jersey",
-        deathDate: "12.11.2011",
+        deathDate: "12.11.2021",
         deathLocation: "Providence, Rhode Island",
         narrative: `
             The daughter of the renowned physicist George

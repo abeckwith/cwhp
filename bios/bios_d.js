@@ -70,7 +70,7 @@ d_bios = [
             own experiences and literature.&#8221; She also felt that this would provide
             children with some ability to handle the influence of television when they
             entered elementary school. <br>
-            <strong>Reference:<em> </em></strong>`,
+            `,
         otherNotes: "",
         references: `<em>Teaching Tolerance</em> magazine Number
             24, Fall 2003.
@@ -386,9 +386,8 @@ d_bios = [
             Paris Climate Talks in 2015. <br><br>Davis divides her time between sustainability and artistic ventures, including
             drawing, watercolor painting and printmaking.
         </p>
-        <p><br>
-            Photo credit: Richard Bock
-        </p>
+       
+        
         `,
         otherNotes: "",
         references: `
@@ -396,7 +395,9 @@ d_bios = [
                 >http://www.henriettadavis.org</a> <br>
             Oral history interview with Henrietta Davis, <a href="https://infinitehistory.mit.edu/video/henrietta-davis" target="_self"
                 >https://infinitehistory.mit.edu/video/henrietta-davis</a> <br>
-            Board Member Bio, ICLEI website
+            Board Member Bio, ICLEI website<Br>
+                        Photo credit: Richard Bock
+
         `,
         photos: ["images_bios/Henrietta Davis Bio Photo_small.jpg"],
         photoTitles: [],
@@ -474,28 +475,28 @@ d_bios = [
                 `,
         otherNotes: "",
         references: `
-                Deihl, Marcia. &ldquo;Marcia Deihl Home.&rdquo; Marcia-Mellow-D Blogspot. 2013. &lt;<a
-                    href="http://marcia-mellow-d.blogspot.com" target="new">http://marcia-mellow-d.blogspot.com</a>&gt;.
+                Deihl, Marcia. &ldquo;Marcia Deihl Home.&rdquo; Marcia-Mellow-D Blogspot. 2013. <a
+                    href="http://marcia-mellow-d.blogspot.com" target="new">http://marcia-mellow-d.blogspot.com</a>.
                 <br>
                 Deihl, Marcia. Papers of Marcia Deihl, 1965-2011 (inclusive). Schlesinger Library on the History of
                 Women in America, Radcliffe Institute for Advanced Study, 2009-M153, 2016-M80. Web. 31 March 2019.
-                &lt;<a href="http://id.lib.harvard.edu/alma/990120776210203941/catalog"
-                    target="new">http://id.lib.harvard.edu/alma/990120776210203941/catalog</a>&gt;. <br>
+               <a href="http://id.lib.harvard.edu/alma/990120776210203941/catalog"
+                    target="new">http://id.lib.harvard.edu/alma/990120776210203941/catalog</a>. <br>
                 Ely, Elissa. &ldquo;Marcia Deihl.&rdquo; The Remembrance Project. WBUR. Boston, Massachusetts. July 7,
-                2015. Radio. &lt;<a
+                2015. Radio. <a
                     href="https://www.wbur.org/remembrance-project/2015/07/07/the-remembrance-project-marcia-deihl"
-                    target="new">https://www.wbur.org/remembrance-project/2015/07/07/the-remembrance-project-marcia-deihl</a>&gt;.
+                    target="new">https://www.wbur.org/remembrance-project/2015/07/07/the-remembrance-project-marcia-deihl</a>.
                 <br>
                 Hale, Kendall. <em>Radical Passions</em>. Bloomington: iUniverse, 2008. E-book. <br>
                 New Harmony Sisterhood Band. &hellip;And Ain&rsquo;t I a Woman, Paredon Records, 1977. Smithsonian
-                Center for Folklife and Cultural Heritage. Web. 31 March. 2019. &lt;<a
+                Center for Folklife and Cultural Heritage. Web. 31 March. 2019. <a
                     href="https://folkways.si.edu/new-harmony-sisterhood-band/and-aint-i-a-woman/african-american-music-folk-struggle-protest/album/smithsonian"
-                    target="new">https://folkways.si.edu/new-harmony-sisterhood-band/and-aint-i-a-woman/african-american-music-folk-struggle-protest/album/smithsonian</a>&gt;.
-                &lt;<a href="https://sirismm.si.edu/EADpdfs/CFCH.PARE.pdf"
-                    target="new">https://sirismm.si.edu/EADpdfs/CFCH.PARE.pdf</a>&gt;. <br>
+                    target="new">https://folkways.si.edu/new-harmony-sisterhood-band/and-aint-i-a-woman/african-american-music-folk-struggle-protest/album/smithsonian</a>.
+                <a href="https://sirismm.si.edu/EADpdfs/CFCH.PARE.pdf"
+                    target="new">https://sirismm.si.edu/EADpdfs/CFCH.PARE.pdf</a>. <br>
                 Seligson, Susan. &ldquo;The Good Life of Marcia Deihl.&rdquo; <em>Bostonia</em>. Winter Spring, 2016.
-                &lt;<a href="http://www.bu.edu/bostonia/winter-spring16/marcia-deihl-cambridge/"
-                    target="new">http://www.bu.edu/bostonia/winter-spring16/marcia-deihl-cambridge/</a>&gt;.</span><br>
+                <a href="http://www.bu.edu/bostonia/winter-spring16/marcia-deihl-cambridge/"
+                    target="new">http://www.bu.edu/bostonia/winter-spring16/marcia-deihl-cambridge/</a>.</span><br>
                  Photo
                 by Betsy Sowers<br>
                  Photo courtesy of Deborah Silverstein. 
@@ -806,7 +807,7 @@ d_bios = [
             Charles Hagen, &#8220;Review/Art<br>
             When the Outside World Is Danger <em>New York Times</em> December 27, 1991<br>
             Cambridge Arts Council website<br>
-            <a href="http://www.ellendriscoll.net">http://www.ellendriscoll.net<
+            <a href="http://www.ellendriscoll.net">http://www.ellendriscoll.net
         `,
         photos: ["images_bios/driscoll_small.jpg"],
         photoTitles: [],

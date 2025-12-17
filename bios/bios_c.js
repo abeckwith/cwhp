@@ -548,8 +548,8 @@ c_bios = [
         `,
         photos: ["images_bios/joycechen.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2009",dateUpdated:
- "04.11.2025",
+        dateCreated: "prior to 2009",
+        dateUpdated:"04.11.2025",
 
         photoHeights: [],
         editors:"",
@@ -630,8 +630,7 @@ c_bios = [
         photos: ["images_bios/Julia_Child_restore.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated:
-        "December 14, 2025",
+        dateUpdated:"12.14.2025",
 
         photoHeights: [],
         editors:"Anthony Beckwith (updates)",
@@ -996,7 +995,7 @@ c_bios = [
         deathDate: "",
         deathLocation: "",
         narrative: `
-            Originally from Louisville, Kentucky, Sister Rose Marie Cummings
+            <br>Originally from Louisville, Kentucky, Sister Rose Marie Cummings
             joined the Dominican order soon after graduation. Sister Rose visited Puerto
             Rico from 1966 to 1971 and fell in love with the island. <br><br>She worked in Massachusetts
             from 1972 to 1999. In the mid 1970s, she worked in Framingham, Massachusetts as a bilingual
@@ -1009,7 +1008,15 @@ c_bios = [
             moved back to her home state of Kentucky where she is the director of the Dominican
             Earth Center in Springfield (founded in 1997), a ministry of the Dominicans
             of St. Catharine, Kentucky that encourages a philosophy and lifestyle of sustainable
-            living that benefits our environment and those who inhabit it. <br><br>She was presented
+            living that benefits our environment and those who inhabit it. 
+            <br><Br>
+            Sister Rose commented on the origins of the name Centro Present in 2006: <blockquote>
+            "I had heard the story about when people were gathered together for prayer, 
+            and they would say the name of a person who had been very instrumental and showing 
+            a lot of courage and leading people forward, and when they said the person's name 
+            then everybody would answer 'Presente' which meant that the spirit of that person was
+             there, present, with them and giving them courage to keep on and so it felt like a very apt name."</blockquote>
+            She was presented
             an Earth Day award in 2006 by the Environmental Quality Commissioner of Kentucky
             and was celebrated in Cambridge at the twenty-fifth anniversary of Centro Presente
             in December 2006.
@@ -1025,15 +1032,17 @@ c_bios = [
             Centro Presente's 25th Anniversary and Holiday Fiesta <a
                 href="http://www.massjwj.net/node/653">http://www.massjwj.net/node/653</a>.
             <br>
-            See entry for Centro Presente.
+            See entry for <a href="https://cwhp.cambridgema.gov/bios.html?ln=CentroPresente&mN=&fN=">Centro Presente</a>.
+            <br>
+            <i>Cambridge Chronicle</i> December 21, 2006
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2009",dateUpdated:
- "",
+        dateCreated: "prior to 2009",
+        dateUpdated:"12.17.2025",
 
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: [""],
     },

@@ -115,12 +115,12 @@ h_bios = [
         
         title: `Software engineer, NASA software designer, founder of software company`,
         birthDate: "00.00.1936",
-        birthLocation: "",
+        birthLocation: "Paoli, Indiana",
         deathDate: "",
         deathLocation: "",
         narrative: `
-            Born ca. 1938, Margaret Hamilton graduated from
-            Hancock High School in 1954 and then attended Earlham College in Richmond Indiana
+            Margaret Hamilton graduated from
+            Hancock High School in 1954 and then attended Earlham College in Richmond, Indiana,
             graduating in 1958 as a major in mathematics. <br><br>She moved to Massachusetts with
             the intention of doing graduate study at Brandeis but instead took a position
             at MIT where she learned to write software for computers. She postponed her
@@ -335,7 +335,7 @@ h_bios = [
         birthDate: "09.21.1936",
         birthLocation: "Hartford, Connecticut",
         deathDate: "05.30.2002",
-        deathLocation: "",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Born in Hartford, the Rev. Dr. Suzanne Hiatt was
             the oldest child of Alfred and Frances Hiatt. Brought up in Minnesota, she attended
@@ -831,7 +831,7 @@ h_bios = [
         familyName: "",
         
         title: `Biologist; biochemist; social activist`,
-        birthDate: "00.00.1925",
+        birthDate: "03.03.1924",
         birthLocation: "Vienna, Austria",
         deathDate: "09.01.2016",
         deathLocation: "Cambridge, Massachusetts",

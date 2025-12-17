@@ -13,30 +13,33 @@ g_bios = [
         deathLocation: "",
         narrative: `
             Dorothy A. (Wood) Gatherwright was born in Cambridge
-            in 1903. Her family lived on Worcester Street. Dorothy learned to play the piano
+            in 1903 and lived her entire life in Cambridge. Her family lived on Worcester Street. Dorothy learned to play the piano
             and became the accompanist to well-known contralto singer, Dorothy Richardson.
             Dorothy said, &#8220;We went to the different colored colleges. We went from
             Maine on down south. I guess I must have met Dorothy [Richardson] at church.
             I was a born member of the church. I was taking piano lessons from William Lawrence;
             he was the accompanist of Roland Hayes.&#8221; (Roland Hayes was a famous African
-            American singer.) <Br><Br>Dorothy played what she called &#8220;regular music&#8221;
+            American singer.) <Br><Br>
+            
+            Dorothy played what she called &#8220;regular music&#8221;
             -- Negro spirituals and songs by black composers. According to her niece, Leora
             Littleton, Dorothy taught piano to half the children in Cambridge. She took
             organ lessons and became the organist for the Massachusetts Avenue Baptist Church's
-            Sunday school and director of the choir. In 1993, Mrs. Gatherwright celebrated
+            Sunday school and director of the choir. She was also a member of the Salvation Army Silver Threads. In 1993, Mrs. Gatherwright celebrated
             her 90th birthday at the church where she was the oldest member. At her death,
             the City of Cambridge memorialized her passing.`,
         otherNotes: "",
-        references: ` Oral interview by Sarah Boyer.; City of Cambridge
-            vital statistics, Cambridge City Clerk's office.
+        references: ` Oral interview by Sarah Boyer.<Br>City of Cambridge
+            vital statistics, Cambridge City Clerk's office.<br>
+            <i>Cambridge Chronicle</a>, February 6, 2002
         `,
         photos: [""],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "",
+        dateUpdated: "12.17.2025",
 
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Musician"],
     },

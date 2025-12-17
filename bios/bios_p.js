@@ -235,9 +235,9 @@ p_bios = [
         familyName: "Fay",
         
         title: `Social scientist, writer, feminist`,
-        birthDate: "00.00.1836",
+        birthDate: "02.24.1836",
         birthLocation: "Burlington, Vermont",
-        deathDate: "00.00.1923",
+        deathDate: "04.28.1923",
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Born Harriet Melusina Fay, and called Zina, she

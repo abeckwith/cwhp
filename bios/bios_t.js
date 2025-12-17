@@ -249,8 +249,8 @@ t_bios = [
         familyName: "",
         
         title: `Biologist, malacologist`,
-        birthDate: "00.00.1914",
-        birthLocation: "",
+        birthDate: "12.07.1914",
+        birthLocation: "Melrose, Massachusetts",
         deathDate: "04.30.2001",
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
