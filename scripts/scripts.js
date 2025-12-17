@@ -404,29 +404,38 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
 
     //references & date updated:
     if (person.references.trim() !== "")
-        html +=
-            "<br><br><strong>References:</strong><Br>" + person.references + "";
+        html += "<br><br><strong>References:</strong><Br>" + person.references;
+
     dt =
         "<div class='bottom-line'>Entry created: <B>" +
-        formatDateSlash(person.dateCreated) + "</b>";
+        formatDateSlash(person.dateCreated) +
+        "</b>";
     lu = "";
     if (person.dateUpdated !== "")
-        lu =
-            "Last updated: <B>" +
-            formatDateSlash(person.dateUpdated)+ "</b>";
+        lu = "Last updated: <B>" + formatDateSlash(person.dateUpdated) + "</b>";
 
     atr = "";
     edtr = "";
     if (person.authors.trim() !== "")
         atr =
-            "<div style='text-align:right'>Author(s):<B> " +
+            "<div>Author(s):<B> " +
             person.authors +
             "</b></div>";
-  if (person.editors.trim() !== "")
+    if (person.editors.trim() !== "")
         edtr =
             "<div style='text-align:right'>Editor(s): <B>" +
-            person.editors + "</b>";
-    html += "</div><br>" + dt + "<Br>" + atr + "<Br>" + lu + "<Br>" + edtr + "<br><br><br><br><br><br><br><br><br>";
+            person.editors +
+            "</b>";
+    html +=
+        "</div><br>" +
+        dt +
+        "<Br>" +
+        atr +
+        "<Br>" +
+        lu +
+        "<Br>" +
+        edtr +
+        "<br><br><br><br><br><br><br><br><br>";
 
     document.getElementById("bio").innerHTML = html;
 

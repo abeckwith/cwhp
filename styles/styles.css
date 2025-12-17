@@ -359,10 +359,11 @@ a.letter-links:visited {
     border-width:7px 0px 0px 0px;
     border-color: rgb(225, 193, 170);
     border-style: solid;
-    width:50%;
-    text-align:right;
-    align-items: right;
-    margin-left:6vw;
+    width:40%;
+    text-align:left;
+    align-items: left;
+    display:inline-block;
+    margin-left:16vw;
     padding-top:10px;
 }
 .name-heading {
@@ -372,7 +373,7 @@ a.letter-links:visited {
     border-top:7px;
     border-color: rgb(226, 203, 186);
     border-style: solid;
-    width:50%;
+    /* width:50%; */
 }
 .selected-ltr {
     color: green;
@@ -464,6 +465,7 @@ a.search-buttons {
         color: red;
         margin: 2vw 4vw;
     }
+  
     .name-heading{
         font-size:4%;
     }
@@ -691,7 +693,66 @@ a.search-buttons {
 .index-page-text-in-boxes li + li {
     margin-top: 1rem;
 }
+/* .index-page-text-in-boxes li:hover {
+    background-color: black;
+        color: rgb(243, 219, 200);
 
+} */
+.holographic-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* height: 100vh; */
+  background: #000;
+}
+
+.holographic-card {
+  /* width: 300px;
+  height: 200px; */
+  background: #111;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+  border-radius: 15px;
+  transition: all 0.5s ease;
+}
+
+.holographic-card h2 {
+  color: #0ff;
+  font-size: 2rem;
+  position: relative;
+  z-index: 2;
+}
+
+.holographic-card::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: linear-gradient(
+    0deg, 
+    transparent, 
+    transparent 30%, 
+    rgba(0,255,255,0.3)
+  );
+  transform: rotate(-45deg);
+  transition: all 0.5s ease;
+  opacity: 0;
+}
+
+.holographic-card:hover {
+  transform: scale(1.18);
+  box-shadow: 0 0 20px rgba(0,255,255,0.5);
+}
+
+.holographic-card:hover::before {
+  opacity: 1;
+  transform: rotate(-45deg) translateY(100%);
+}
 .index-page-text-in-boxes li {
     display: flex;
     align-items: center;
@@ -725,6 +786,9 @@ a.search-buttons {
     margin-right: -7vw;
     margin-left: 5vw;
     color: white;
+}
+.opening-images:hover{
+    border: 2px solid blue;
 }
 img:not(.opening-images) {
     border: solid 1px black;
