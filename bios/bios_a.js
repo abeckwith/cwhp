@@ -60,7 +60,7 @@ a_bios = [
         deathDate: "06.04.1958",
         deathLocation: "Portsmouth, New Hampshire",
         narrative: ` 
-            Eleanor Hallowell Abbott was raised in a literary and religious family, first on Chandler Stree and later on Dana Street in Cambridge. She
+            Eleanor Hallowell Abbott was raised in a literary and religious family, first on Channing Street and later on Dana Street in Cambridge. She
             attended Cambridge private schools and Radcliffe College, then worked as a secretary at the Lowell State Normal School,
             a teacher's college. 
             <br><br>
@@ -78,7 +78,7 @@ a_bios = [
             young women, from <i>Molly Make-Believe</i> in 1910 to <i>But Once A Year: Christmas Stories</i> in 1928.
             In 1936, she wrote an autobiography about her childhood in Cambridge,
             entitled "Being Little in Cambridge When Everyone Else Was Big", which was reviewed by <i>Time Magazine</i> and <i>The New York Times</i>.
-          <br><Br> In her memoir, she wrote of her childhood home on Chandler Street. The street was...
+          <br><Br> In her memoir, she wrote of her childhood home on Channing Street. The street was...
           <blockquote>"Straight as a good child running an errand,
            it ran direct from one of the main thoroughfares of the city to another, but beyond the fact of stopping at our house, to deliver
            mail or milk, a newspaper or a caller, it served no special purpose apparently except insomuch as it helped to connect the brains
@@ -142,7 +142,7 @@ here</a>)<br>
             on several projects with the playwright Samuel Beckett, who had been her childhood
             friend. In 1935, she emigrated to Boston and married Mark De Wolfe Howe, a lawyer
             who became a professor at Harvard Law School. Her three daughters were raised
-            in Cambridge. While in Cambridge, Mary Manning Howe wrote the novel, <em>Mount
+            in Cambridge. <Br><br>While in Cambridge, Mary Manning Howe wrote the novel, <em>Mount
                 Venus</em> (1938), and was the drama director at Radcliffe College during World
             War II. She helped found the Poet's Theater in Cambridge, which produced
             some of Yeats' early plays and produced work by new playwrights in the
@@ -165,8 +165,8 @@ here</a>)<br>
 
             `,
         otherNotes: "",
-        references: ` <em>Boston Globe</em> 6-27-99; <em>New York Times
-            </em>6-27-1999; Samuel Beckett Collection, University of Texas, Austin; Susan
+        references: ` <em>Boston Globe</em> 6-27-99<br><em>New York Times
+            </em>6-27-1999<br>Samuel Beckett Collection, University of Texas, Austin<Br>Susan
             Howe collection, Geisel Library, University of California, San Diego.<Br>Photo source: wikipedia
         `,
         photos: ["images_bios/Mary_Manning_(writer).jpg"],
@@ -520,7 +520,7 @@ as a writer were recognized only after her death. The founding members, who incl
         middleName: "M.",
         familyName: "",
         
-        title: `Activist`,
+        title: `Activist, Teacher`,
         birthDate: "",
         birthLocation: "",
         deathDate: "07.14.2002",
@@ -533,7 +533,7 @@ as a writer were recognized only after her death. The founding members, who incl
             living in Kuwait with her first husband, she returned to Boston and Cambridge
             to raise her daughter. <Br><Br>
             
-            For many years she operated Kirkland Family Day Care,
+            After working as a teacher, for many years she operated the Kirkland Family Day Care,
             and at the same time was active in community and school affairs. Among her civic
             activities, she was a founding member of Cambridge Tenants Union, a board member
             of the 
@@ -551,7 +551,7 @@ as a writer were recognized only after her death. The founding members, who incl
         photoHeights: [],
         editors:"",
         authors: "CWHP volunteers",
-        categories: ["Activist"],
+        categories: ["Activist", "Teacher"],
     },
     {
         organization: false,
