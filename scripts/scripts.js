@@ -307,10 +307,19 @@ function openWin() {
         popup.focus();
     } else {
         var divText = document.getElementById("bio-container").outerHTML; //get the div
-
+        //lop off extra line breaks from web version:
+        divText = divText.substring(0, divText.length - 40);
+        divText = divText.replaceAll("Printable Version", "");
+        divText = divText.replaceAll("🖨 ", "");
+        
+        
+        //<Br><a onclick='openWin()'><u><b>Printable Version</b></u>
+        divText =
+            "Cambridge Women's Heritage Project (https://cwhp.cambridgema.gov/)<Br><Br>" +
+            divText;
         popup = window.open("", "", "width=800,height=700");
         var doc = popup.document;
-        
+
         doc.open();
         doc.write(divText);
         doc.close();
@@ -433,7 +442,7 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
         html += "<br><br><strong>References:</strong><Br>" + person.references;
 
     //link to open printable version:
-    html += "<br><Br><a onclick='openWin()'><u><b>Printable Version</b></u></a";
+    html += "<br><Br><a onclick='openWin()'><u><b>&#x1F5A8; Printable Version</b></u></a";
 
     //date created, last updated, author, editor:
     dt =
@@ -460,8 +469,8 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
         lu +
         "<Br>" +
         edtr +
-        "<br><img src='images_util/logo_xsm.jpg' style='width:10vw'><br>"+
-        "Cambridge Women's Heritage Project<br><br><br><br><br><br><br>";
+        "<br><img src='images_util/logo_xsm.jpg' style='width:10vw'><br>" +
+        "<br><br><br><br><br><br><br>";
 
     document.getElementById("bio").innerHTML = html;
 
