@@ -619,7 +619,9 @@ l_bios = [
             of Colored People, for the Civil Liberties Union of Massachusetts, and the American
             League for Peace and Democracy, among other organizations. By the late &#8216;40s,
             she set up a co-operative household in Cambridge that offered like-minded women,
-            including Radcliffe graduate students, a nurturing environment. <br><br>She continued
+            including Radcliffe graduate students, a nurturing environment. <br><br>
+            
+            She continued
             this style of cooperative living with a new groups of young people into her
             nineties when illness compelled her to give up independent living. In the late
             1930s, she bought land in Tamworth, New Hampshire, where she designed and built a rustic
@@ -627,7 +629,7 @@ l_bios = [
             working in a carefully designed garden and climbing in the White Mountains.<br>
             Luscomb ran for public office at least four times,
             first for Boston City Council in 1922, losing by less than one percent of the
-            vote.. She was a candidate for the US House of Representatives on the People's
+            vote. She was a candidate for the US House of Representatives on the People's
             Labor Party. Most notably, when the Massachusetts state chair of the Progressive
             Party, she ran for governor in 1952. <br><br>At the age of 71, she turned out for a
             &#8220;March for Peace&#8221; in 1958 to the United Nations, walking from New

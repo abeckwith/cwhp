@@ -195,7 +195,7 @@ g_bios = [
             in Cambridge part of each year.<br><Br>
             In 1986, her first book of poetry <em>Firstborn</em>
             was published and received the Academy of American Poet's Prize. This collection
-            was known for its variety of first-person personae, all disaffected or angry..
+            was known for its variety of first-person personae, all disaffected or angry.
             Her next book <em>The House on the Marshland</em>, 1975, included historical
             and fairytale characters such as Joan of Arc and Gretel (of Hansel and Gretel).
             In 1980, she published <em>Descending Figure </em>with various imaginative personae.

@@ -14,20 +14,20 @@ a_bios = [
         narrative: `
         In 1973, Barbara Ackermann became the first woman to serve as mayor of Cambridge.
         Born in Stockholm on March 1, 1925, she grew up in France and graduated from Smith
-        College. According to her daughter, Joan Ackermann, she was “a savvy politician who
-        could compromise but knew what she was aiming for and held to the path.”
+        College. According to her daughter, Joan Ackermann, she was "a savvy politician who
+        could compromise but knew what she was aiming for and held to the path."
         Ackermann was a lifelong fighter for equality for all. Known for never backing down in
-        her efforts to advocate for the disenfranchised, she embodied the term “social justice
-        warrior.”
+        her efforts to advocate for the disenfranchised, she embodied the term "social justice
+        warrior."<Br><br>
         She was a member of the Cambridge School Committee from 1962 to 1968, when she
         was elected to the City Council. After her term as mayor, she returned to her seat on the
-        City Council and remained a member until 1977.
+        City Council and remained a member until 1977.<Br><br>
         In 1972, Ackermann was a delegate to the Democratic National Convention from
         Massachusetts. In 1989, she wrote an account of her experiences as a Cambridge
-        politician in a book entitled, <em>"You the Mayor?”: The Education of a City Politician</em>, which
+        politician in a book entitled, <em>"You the Mayor?": The Education of a City Politician</em>, which
         offers insights into political life and the functioning of a city. In addtion, she was active
         as chair of the Massachusetts non-profit organization Universal Health Care Education
-        Fund (UHCEF), part of MASS-CARE.
+        Fund (UHCEF), part of MASS-CARE.<br><br>
         Barbara Ackermann was the daughter of Benjamin Hulley, of the United States Foreign
         Service, and Joan Carrington. In 1946, she married Paul Ackermann, a Boston
         University professor of German, who died in 2011.
@@ -192,7 +192,7 @@ a_bios = [
             works, <em>A Summary History of New-England </em>(1799), and <em>A History of
                 the Jews</em> (1812).<br><br> She began to attract friends among literary and religious
             men in Boston who provided an annuity for her. She produced a final study, <em>Letters
-                on the Gospels</em> in 1826.. Although eccentric in her old age, she had a decided
+                on the Gospels</em> in 1826. Although eccentric in her old age, she had a decided
             influence on her contemporaries and was among the first persons to be buried
             at Mount Auburn Cemetery. An autobiographical memoir of her life appeared the
             year after her death, written partly to provide financial support for her younger
@@ -601,12 +601,12 @@ as a writer were recognized only after her death. The founding members, who incl
         deathDate: "11.05.1999",
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
-        Dominga “Minnie” Andrade was a longtime resident of Cambridge, where she worked as a stitcher for a
+        Dominga "Minnie" Andrade was a longtime resident of Cambridge, where she worked as a stitcher for a
     clothing manufacturer.<br><br>
 
     Dominga's parents emigrated from the African island Cape Verde (a Portuguese colony at the time). Her
-    mother, Marianna “Mary” Fortes Gomes, arrived in 1898 and her father, Caesar Julio Lopes, in 1901. At
-    the age of 15, Dominga started working in New Bedford as a cotton mill “doffer,” replacing bobbins or
+    mother, Marianna "Mary" Fortes Gomes, arrived in 1898 and her father, Caesar Julio Lopes, in 1901. At
+    the age of 15, Dominga started working in New Bedford as a cotton mill "doffer," replacing bobbins or
     spindles from a spinning frame as they ran out.<br><Br>
     At age 16, Dominga (who went by Minie or Minnie) married Ruffino Rosa Andrade, who was also from
     Cape Verde. They moved to Cambridge in the 1930s, where Dominga was employed as a cotton worker
@@ -884,7 +884,8 @@ as a writer were recognized only after her death. The founding members, who incl
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
 
-            Josie Avakian grew up in Cambridge, being a resident of the Jefferson Park development as early as age 12. She 
+            Josie Avakian grew up in Cambridge, being a resident of the Jefferson Park development as early as age 12. Her father
+            was a farmworker and her mother a dishwasher. She 
             became a strong advocate for housing rights and a 
             supporter of working peopole in Cambridge. As a member of Jefferson Park Tenant Task Force,
             Josie served as the tenant advocate for residents of Jefferson Park
@@ -905,9 +906,11 @@ as a writer were recognized only after her death. The founding members, who incl
 
             `,
         otherNotes: "",
-        references: ` Contact information online for task force; Information
-            from Mary Russell; Information also from <a
-                href="http://www.rwinters.com/council/103105.htm">www.rwinters.com/council/103105.htm</a><Br><Br>
+        references: `Jefferson Park Tenant Task Force/Information
+            from Mary Russell<Br>
+            <a
+                href="http://www.rwinters.com/council/103105.htm">Cambridge City Council meeting notes</a><Br>
+                1950 <i>U.S. Census</i> data<Br>
                 <i>Cambridge Chronicle:</i><Br>
 
                                 2 Sep 1976<br>
