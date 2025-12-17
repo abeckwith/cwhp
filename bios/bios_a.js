@@ -60,29 +60,38 @@ a_bios = [
         deathDate: "06.04.1958",
         deathLocation: "Portsmouth, New Hampshire",
         narrative: ` 
-            Eleanor Hallowell Abbott was raised in a literary and religious family on Dana Street in Cambridge. She
-    attended Cambridge private schools and Radcliffe College, then worked as a secretary at the Lowell State Normal School,
-     a teacher's college. 
-    <br><br>In her early 20s, Eleanor wrote travel accounts for the <i>Boston Journal</i>, including descriptions of trips to California.  Eleanor 
-    eventually became a teacher
-    at the State Normal School in Lowell and at that point began to write poems and short stories. In 1892, her short story
-    "Medium's Merry Christmas" won the <i>Cambridge Tribune</i> Prize (a local newspaper at the time). In 1905, she won the <i>
-    Collier's Weekly</i> first prize in "Latest Fiction contest."
-    Her writing career began in earnest
-    when two of her poems were accepted by <i>Harper's Magazine</i> in 1909.
-    <br><Br>
-    Her writing brought her a measure of popularity in the 1910s and 1920s when she
-    produced seventy-five short stories and fourteen "unblushingly romantic" novels about
-    young women, from <i>Molly Make-Believe</i> in 1910 to <i>But Once A Year: Christmas Stories</i> in 1928.
-     In 1936, she wrote an autobiography about her childhood in Cambridge,
-    entitled "Being Little in Cambridge When Everyone Else Was Big", which was reviewed by <i>Time Magazine</i> and <i>The New York Times</i>.
-    <Br><br>
-    In 1908, upon her marriage to Dr. Fordyce Coburn, she moved to Wilton, N.H. Some of
-    her typescripts and correspondence are held at the University of New Hampshire
-    .<br><Br>
-    Hallowell Abbot's father was a clergyman, Edward Abbott. He was rector at St. James
-    Episcopal Church and edited a journal <i>Literary World</i>. Her grandfather, Jacob Abbott,
-    was a friend of Longfellow and a writer of children's stories.  
+            Eleanor Hallowell Abbott was raised in a literary and religious family, first on Chandler Stree and later on Dana Street in Cambridge. She
+            attended Cambridge private schools and Radcliffe College, then worked as a secretary at the Lowell State Normal School,
+            a teacher's college. 
+            <br><br>
+            In her early 20s, Eleanor wrote travel accounts for the <i>Boston Journal</i>, including descriptions of trips to California.  Eleanor 
+            eventually became a teacher
+            at the State Normal School in Lowell and at that point began to write poems and short stories. In 1892, her short story
+            "Medium's Merry Christmas" won the <i>Cambridge Tribune</i> Prize (a local newspaper at the time). In 1905, she won the <i>
+            Collier's Weekly</i> first prize in "Latest Fiction contest."
+            Her writing career began in earnest
+            when two of her poems were accepted by <i>Harper's Magazine</i> in 1909.
+
+            <br><Br>
+            Her writing brought her a measure of popularity in the 1910s and 1920s when she
+            produced seventy-five short stories and fourteen "unblushingly romantic" novels about
+            young women, from <i>Molly Make-Believe</i> in 1910 to <i>But Once A Year: Christmas Stories</i> in 1928.
+            In 1936, she wrote an autobiography about her childhood in Cambridge,
+            entitled "Being Little in Cambridge When Everyone Else Was Big", which was reviewed by <i>Time Magazine</i> and <i>The New York Times</i>.
+          <br><Br> In her memoir, she wrote of her childhood home on Chandler Street. The street was...
+          <blockquote>"Straight as a good child running an errand,
+           it ran direct from one of the main thoroughfares of the city to another, but beyond the fact of stopping at our house, to deliver
+           mail or milk, a newspaper or a caller, it served no special purpose apparently except insomuch as it helped to connect the brains
+           of Brattle Street with the brawn of Mt. Auburn Street, and deliver in turn the brawn of Mt. Auburn Street to the brains of Brattle 
+           Street again."</blockquote>
+            <Br><br>
+            In 1908, upon her marriage to Dr. Fordyce Coburn, she moved to Wilton, N.H. Some of
+            her typescripts and correspondence are held at the University of New Hampshire.
+            <br><Br>
+           
+            Hallowell Abbot's father was a clergyman, Edward Abbott. He was rector at St. James
+            Episcopal Church and edited a journal <i>Literary World</i>. Her grandfather, Jacob Abbott,
+            was a friend of Longfellow and a writer of children's stories.  
         `,
         otherNotes: "",
         references: ` University of New Hampshire special collections
@@ -94,7 +103,8 @@ a_bios = [
             <i>Cambridge Tribune</i>, December 25, 1892<br>
             <i>Cambridge Tribune</i>, October 21, 1905<br>
             <i>The New York Times</i>, January 3, 1937<br>
-
+            "Being Little in Cambridge When Everyone Else Was Big", by Eleanor Hallowell Abbott, 
+New York ; D. Appleton-Century company, inc., 1936.<br>
             Book cover photo from Abe Books: <a href="https://www.abebooks.com/first-edition/Being-Little-Cambridge-When-Big-Eleanor/31885289056/bd#&gid=1&pid=1">
             https://www.abebooks.com/first-edition/Being-Little-Cambridge-When-Big-Eleanor/31885289056/bd#&gid=1&pid=1</a>
         `,
@@ -950,15 +960,17 @@ as a writer were recognized only after her death. The founding members, who incl
 
 
             Life-long resident of North Cambridge, Louise
-            Azevedo graduated from Bunker Hill Community College and the University of Massachusetts
+            Azevedo was a Portuguese family and attended catholic schools in Cambridge, including the Notre Dame school. She graduated from Bunker Hill Community College and the University of Massachusetts
             at Boston, where she received a bachelor's degree in science. She worked
-            as a volunteer at Cambridge nursing homes, including Youville Hospital, Vernon
+            as a volunteer as a nurse at Cambridge nursing homes, including Youville Hospital, Vernon
             Hall Nursing Home and Neville Manor Nursing Home. She was also an active volunteer
             in North Cambridge Little League baseball. 
+            <Br>
+            Louise's father George Azevedo was a Korean War veteran and house painter
 
             `,
         otherNotes: "",
-        references: `<em>Cambridge Chronicle</em>, 10-2-00
+        references: `<em>Cambridge Chronicle</em>, June 7, 1973 & October 2, 2000 & May 4, 2006
         `,
         photos: [""],
         photoTitles: [],

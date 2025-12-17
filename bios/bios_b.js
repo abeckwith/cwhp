@@ -35,7 +35,7 @@ b_bios = [
             home director, welder, library worker, MIT laboratory assistant, and psychiatrist.
             The oldest member of the company , World War II welder, Evelyn Tyner, eighty-two
 
-            years old at the time, was one of the narrators . Though the company had built
+            years old at the time, was one of the narrators. <br><br>Though the company had built
             a solid reputation and performed throughout New England, it dissolved in
             2001,
             owing to changes in the lives of the directors. One of the directors, Joan
@@ -44,17 +44,16 @@ b_bios = [
             Dance Company, while the other director, Vicki Solomon, completed a Masters
             Degree in Library Science and began working full time in the Children's
             Room
-            of the main branch of the Cambridge Public Library.<br>
-            Pictured in photo (from left): Geni Guinier, Marcie
-            Osinsky, Eleanor Duckworth, Mariah Pisha, Vicki Solomon and Jen Schoonover.
+            of the main branch of the Cambridge Public Library.
+            
             `,
         otherNotes: "",
-        references: ` <em>MIT Tech Talk</em>, May 17 2000. ;Iris Fanger,
-            &#8220;Women's Work Informs Back Porch Project&#8221; <em>Dance Magazine</em>.
+        references: ` <em>MIT Tech Talk</em>, May 17 2000. <Br>Iris Fanger,
+            &#8220;Women's Work Informs Back Porch Project&#8221<Br> <em>Dance Magazine</em>,
             May 2000
         `,
         photos: ["images_bios/BPD_small.jpeg"],
-        photoTitles: [],
+        photoTitles: ["L to R: Geni Guinier, Marcie Osinsky, Eleanor Duckworth, Mariah Pisha, Vicki Solomon and Jen Schoonover"],
         dateCreated: "prior to 2009",
         dateUpdated: "",
 
@@ -121,11 +120,13 @@ b_bios = [
         otherNotes: "",
         references: ` 
             <em>Notable American Women: The Modern Period</em> (1980)<br>
-            Nobel prize information online: http://nobelprize.org/nobel_prizes/peace/laureates/1946/balch-bio.html
+            Nobel prize information online: <a href="http://nobelprize.org/nobel_prizes/peace/laureates/1946/balch-bio.html">
+            http://nobelprize.org/nobel_prizes/peace/laureates/1946/balch-bio.html</a>
             <br>
             Mercedes M. Randall, <em>Improper Bostonian: Emily Greene Balch, Nobel Peace
                 Laureate</em>, 1946, (Twayne Publishers, 1964).<br>
-                Image source: https://en.wikipedia.org/wiki/Emily_Greene_Balch
+                Image source: <A href="https://en.wikipedia.org/wiki/Emily_Greene_Balch">
+                https://en.wikipedia.org/wiki/Emily_Greene_Balch</a>
 
         `,
         photos: ["images_bios/EmilyGreeneBalch.jpg"],
@@ -176,7 +177,7 @@ b_bios = [
             `,
         otherNotes: "",
         references: ` <em>Notable American Women</em> (1609-1950) Vol
-            I; Baldwin school: <a href="https://baldwin.cpsd.us/" target="_self">https://baldwin.cpsd.us/</a>
+            I<br> Baldwin school: <a href="https://baldwin.cpsd.us/" target="_self">https://baldwin.cpsd.us/</a>
             <Br>Photo source: wikipedia
         `,
         photos: ["images_bios/mary louise baldwin.jpeg"],
@@ -251,7 +252,7 @@ b_bios = [
         familyName: "",
         
         title: `Pilot, community leader`,
-        birthDate: "00.00.1920",
+        birthDate: "08.16.1920",
         birthLocation: "Newton, Massachusetts",
         deathDate: "06.09.1999",
         deathLocation: "Concord, Massachusetts",
