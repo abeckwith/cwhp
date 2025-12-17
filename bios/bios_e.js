@@ -188,7 +188,7 @@ e_bios = [
         
         title: `Pathologist, First African American Woman Admitted to Tufts Medical School`,
         birthDate: "02.17.1898",
-        birthLocation: "Georgetown Country, South Carolina",
+        birthLocation: "Georgetown County, South Carolina",
         deathDate: "06.16.1943",
         deathLocation: "Cambridge, Massachusetts",
         narrative: `

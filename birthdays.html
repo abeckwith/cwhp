@@ -63,10 +63,32 @@
                 scroll-margin-top: 95px;
 
             }
+
+            table,
+            th,
+            td {
+                border: 1px solid black;
+                /* Sets a 1px solid black border on all table elements */
+            }
+
+            table {
+                border-collapse: collapse;
+                /* Merges adjacent cell borders into a single line */
+            }
+
+            tr:nth-child(even) {
+                background-color: #e2e2e2;
+                /* A light gray background for even rows */
+            }
+
+            tr:nth-child(odd) {
+                background-color: #ffffff;
+                /* A white background for odd rows (optional, good practice) */
+            }
         </style>
         <Script>
             function showBirthdays() {
-                   setMenu(10);
+                setMenu(10);
                 all_bios = [
                     a_bios,
                     b_bios,
@@ -96,6 +118,10 @@
                     z_bios,
                 ];
                 recentObjects = [];
+                bio_count = 0;
+                currentDate = new Date();
+                currentDate = currentDate.toLocaleDateString('en-US');
+
                 all_bios.forEach((bioLetterList) => {
                     //go through each name for this letter:
                     bioLetterList.forEach((thename) => {
@@ -108,16 +134,14 @@
                             year = parseInt(thename.birthDate.substring(6));
                             dayNum = parseInt(thename.birthDate.substring(3, 5));
                             monthNum = parseInt(thename.birthDate.substring(0, 2));
-
-                            currentDate = new Date();
-                            currentDate = currentDate.toLocaleDateString('en-US');
                             yrs = parseInt(currentDate.substring(6, 10)) - year;
 
-                            // html +=
+
+                            //build table entry:
                             html_build =
-                                "</i>" +
+                                "<tr><td>" +
                                 thename.birthDate.replaceAll(".", "/") +
-                                ":</b>&nbsp;<a href='bios.html?lNm=" +
+                                "</b></td><td style='padding-left:10px;'><a href='bios.html?lNm=" +
                                 thename.lastName +
                                 "&mNm=" +
                                 thename.middleName +
@@ -127,8 +151,12 @@
                                 thename.lastName +
                                 ", " +
                                 thename.firstName +
-                                "</a>" +
-                                " (" + yrs + ")";
+                                "</a></td><td style='text-align:right'>" +
+                                yrs + "</td><td style='text-align:right'>" +
+                                // if (thename.birthLocation != "")
+                                thename.birthLocation + "</td>";
+                            html_build += "</tr>";
+
                             recentObjects.push({ html_build, monthNum, year, dayNum });
 
                         }
@@ -148,17 +176,31 @@
 
                     return 0;
                 });
-                bDisplay = "<b>Known Birthdays:</b>";
-                // html = "";
-                // r.forEach((element) => {
-                //     html += element.html_build;
-                // });
-                r.forEach(bio => {
+                bDisplay = "=== KNOWN BIRTHDAYS ===<table><tr><th>Birthdate:</th><th>Name:</th><th>Age:</th><th>Born in:</th></tr>";
 
-                    bDisplay += "<br>" + bio.html_build;
+                previous_month = "00";
+                const months = [
+                    "January",
+                    "February",
+                    "March",
+                    "April",
+                    "May",
+                    "June",
+                    "July",
+                    "August",
+                    "September",
+                    "October",
+                    "November",
+                    "December",
+                ];
+                r.forEach(bio => {
+                    if (bio.monthNum > previous_month)
+                        bDisplay += "<tr><td><b>" + months[bio.monthNum - 1] + "</b></td></tr>";
+                    bDisplay += bio.html_build;
+                    previous_month = bio.monthNum;
 
                 });
-                document.getElementById("birthday-display").innerHTML = bDisplay;
+                document.getElementById("birthday-display").innerHTML = bDisplay + "</table>";
 
             }
         </Script>

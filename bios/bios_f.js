@@ -241,7 +241,7 @@ f_bios = [
         
         title: `aka Sarah Margaret Fuller, Marchesa Margaret F. Ossoli<br>Author, Editor, Feminist, Transcendentalist`,
         birthDate: "05.23.1810",
-        birthLocation: "Cambridgeport, Cambridge, Massachusetts",
+        birthLocation: "Cambridge, Massachusetts",
         deathDate: "07.19.1850",
         deathLocation: "Fire Island, New York",
         narrative: `
