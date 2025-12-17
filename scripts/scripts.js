@@ -298,6 +298,25 @@ function formatDateSlash(dateWithDots) {
     //all others (incl. "before 2009")
     return dateWithDots;
 }
+var popup;
+/**
+ * generates printable version of bio
+ */
+function openWin() {
+    if (popup && !popup.closed) {
+        popup.focus();
+    } else {
+        var divText = document.getElementById("bio-container").outerHTML; //get the div
+
+        popup = window.open("", "", "width=800,height=700");
+        var doc = popup.document;
+        
+        doc.open();
+        doc.write(divText);
+        doc.close();
+    }
+}
+
 /**
  * Puts together the bio of an individual from the JSON data
  * and places the bio in the bio box to the right of the list of women
@@ -315,6 +334,14 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
     currentLetter = ltrIndex;
     currentPersonIndex = indexOfPerson;
     let html = "<div id='bio-container' style='line-height:1.7'>";
+
+    link =
+        "bios.html?lNm=" +
+        person.lastName +
+        "&mNm=" +
+        person.middleName +
+        "&fNm=" +
+        person.firstName;
 
     //name:
     html += "<div class='name-heading'><strong>";
@@ -375,7 +402,6 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
     html += "<br>" + narr;
 
     //possible second image:
-
     if (person.photos.length == 2) {
         if (person.photoHeights.length == 2 && person.photoHeights[1] != "")
             height = person.photoHeights[0];
@@ -406,6 +432,10 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
     if (person.references.trim() !== "")
         html += "<br><br><strong>References:</strong><Br>" + person.references;
 
+    //link to open printable version:
+    html += "<br><Br><a onclick='openWin()'><u><b>Printable Version</b></u></a";
+
+    //date created, last updated, author, editor:
     dt =
         "<div class='bottom-line'>Entry created: <B>" +
         formatDateSlash(person.dateCreated) +
@@ -413,19 +443,14 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
     lu = "";
     if (person.dateUpdated !== "")
         lu = "Last updated: <B>" + formatDateSlash(person.dateUpdated) + "</b>";
-
     atr = "";
     edtr = "";
     if (person.authors.trim() !== "")
-        atr =
-            "<div>Author(s):<B> " +
-            person.authors +
-            "</b></div>";
+        atr = "<div>Author(s):<B> " + person.authors + "</b></div>";
     if (person.editors.trim() !== "")
-        edtr =
-            "<div>Editor(s): <B>" +
-            person.editors +
-            "</b>";
+        edtr = "<div>Editor(s): <B>" + person.editors + "</b>";
+
+    //put it all together:
     html +=
         "</div><br>" +
         dt +
@@ -435,7 +460,8 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
         lu +
         "<Br>" +
         edtr +
-        "<br><img src='images_util/logo_xsm.jpg' style='width:10vw'><br><br><br><br><br><br><br><br>";
+        "<br><img src='images_util/logo_xsm.jpg' style='width:10vw'><br>"+
+        "Cambridge Women's Heritage Project<br><br><br><br><br><br><br>";
 
     document.getElementById("bio").innerHTML = html;
 

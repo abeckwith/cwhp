@@ -6,7 +6,7 @@ a_bios = [
         middleName: "",
         familyName: "Hulley",
         
-        title: `First woman mayor of Cambridge`,
+        title: `First female mayor of Cambridge`,
         birthDate: "03.01.1925",
         birthLocation: "Stockholm, Sweden",
         deathDate: "07.04.2020",
@@ -16,34 +16,44 @@ a_bios = [
         Born in Stockholm on March 1, 1925, she grew up in France and graduated from Smith
         College. According to her daughter, Joan Ackermann, she was "a savvy politician who
         could compromise but knew what she was aiming for and held to the path."
-        Ackermann was a lifelong fighter for equality for all. Known for never backing down in
+        Known for never backing down in
         her efforts to advocate for the disenfranchised, she embodied the term "social justice
         warrior."<Br><br>
+
         She was a member of the Cambridge School Committee from 1962 to 1968, when she
         was elected to the City Council. After her term as mayor, she returned to her seat on the
         City Council and remained a member until 1977.<Br><br>
-        In 1972, Ackermann was a delegate to the Democratic National Convention from
+
+        As a newly elected councillor, she joined the opposition to the state's Inner Belt highway 
+        plan that would raze Brookline and Elm streets, along with 1,300 working class residents' homes.
+        Asked to help publicize the opposition, she donned a Paul Revere style tricorner hat and 
+        rode a horse through Cambridgeport to City Hall, to the calls of "Citizens of Cambridge! 
+        Save Our City! The highway is coming!" The residents prevailed; the project was canceled in 1972.<Br><Br>
+
+        In 1972, Ackermann wasalso  a delegate to the Democratic National Convention from
         Massachusetts. In 1989, she wrote an account of her experiences as a Cambridge
         politician in a book entitled, <em>"You the Mayor?": The Education of a City Politician</em>, which
         offers insights into political life and the functioning of a city. In addtion, she was active
         as chair of the Massachusetts non-profit organization Universal Health Care Education
         Fund (UHCEF), part of MASS-CARE.<br><br>
+
         Barbara Ackermann was the daughter of Benjamin Hulley, of the United States Foreign
         Service, and Joan Carrington. In 1946, she married Paul Ackermann, a Boston
         University professor of German, who died in 2011.
             `,
         otherNotes: "",
-        references: ` The Political Graveyard: Index to Politicians (online
-            site) politicalgraveyard.com/bio/achard-adamowski.html
+        references: `The Political Graveyard: Index to Politicians <a href="https://politicalgraveyard.com/bio/acampora-adamowski.html#ACKERMANN">
+        https://politicalgraveyard.com/bio/acampora-adamowski.html#ACKERMANN</a><Br>
+            "You the Mayor?": The Education of a City Politician, by Barbara Ackerman, Praeger Press, 1989
         `,
         photos: ["images_bios/Barbara%20Ackermann%20small.jpeg"],
         photoTitles: [""],
         photoHeights: [],
         
         dateCreated: "00.00.2014",
-        dateUpdated: "07.15.2025",
+        dateUpdated: "12.17.2025",
 
-        editors:"Joan Sindall",
+        editors:"Joan Sindall, Barbara Beckwith",
         authors: "CWHP volunteers",
         categories: ["Political Leader"],
     },
