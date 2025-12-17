@@ -524,7 +524,7 @@ m_bios = [
         photos: ["images_bios/gail_mazur.jpg"],
         photoTitles: [],
         dateCreated: "04.04.2025",
-        dateUpdated: "04.04.2025",
+        dateUpdated: "",
 
         photoHeights: [],
         editors:"",
