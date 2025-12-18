@@ -311,8 +311,7 @@ function openWin() {
         divText = divText.substring(0, divText.length - 40);
         divText = divText.replaceAll("Printable Version", "");
         divText = divText.replaceAll("🖨 ", "");
-        
-        
+
         //<Br><a onclick='openWin()'><u><b>Printable Version</b></u>
         divText =
             "Cambridge Women's Heritage Project (https://cwhp.cambridgema.gov/)<Br><Br>" +
@@ -442,7 +441,8 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
         html += "<br><br><strong>References:</strong><Br>" + person.references;
 
     //link to open printable version:
-    html += "<br><Br><a onclick='openWin()'><u><b>&#x1F5A8; Printable Version</b></u></a";
+    html +=
+        "<br><Br><a onclick='openWin()'><u><b>&#x1F5A8; Printable Version</b></u></a";
 
     //date created, last updated, author, editor:
     dt =
@@ -1068,21 +1068,33 @@ function setTotals(about) {
  */
 function ranPerson() {
     setTotals(false);
-    //choose random letter, but avoid letters with no entries yet:
-    num = 0;
-    let letter = 0;
-    while (num == 0) {
-        letter = Math.floor(Math.random() * 26);
-        num = personCounts[letter];
-    }
+ 
+    all_people = [];
+    ltrCount = 0;
 
-    //choose random person within that letter:
-    let person = Math.floor(Math.random() * personCounts[letter]);
+    //count how many total people to choose from:
+    all_bios.forEach((bioLetterList) => {
+        let personCount = 0;
+        
+        //go through each name for this letter:
+        bioLetterList.forEach((thename) => {
+            all_people.push([ltrCount, personCount]);
+            personCount++;
+        });
+        ltrCount++;
+    });
+
+    //pick one:
+    let person = Math.floor(Math.random() * all_people.length);
+
+    //get letter and person number to show bio:
+    l = all_people[person][0];
+    prs = all_people[person][1];
 
     //display:
-    makeSidebar(letter, false, false, false);
-    currentLetter = letter;
-    currentPersonIndex = person;
+    makeSidebar(l, false, false, false);
+    currentLetter = l;
+    currentPersonIndex = prs;
 
     site =
         "bios.html?lNm=" +
@@ -1091,9 +1103,11 @@ function ranPerson() {
         strippedNamesList[currentLetter][currentPersonIndex][1] +
         "&fNm=" +
         strippedNamesList[currentLetter][currentPersonIndex][2];
+
+    //ensures sidebar and URL match person selected:
     window.open(site, "_self");
 
-    makeBio(letter, person, false, false, false);
+    // makeBio(letter, person, false, false, false);
 }
 
 /**
