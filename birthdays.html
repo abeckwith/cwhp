@@ -141,7 +141,8 @@
                 all_bios.forEach((bioLetterList) => {
                     //go through each name for this letter:
                     bioLetterList.forEach((thename) => {
-                        nameBuild = thename.lastName + ", " + thename.firstName + " " + thename.middleName;
+                        bio_count++;
+                        nameBuild = bio_count + ". " + thename.lastName + ", " + thename.firstName + " " + thename.middleName;
                         if (thename.familyName != "") nameBuild += " (" + thename.familyName + ")";
                         nameBuild += "<br>";
                         allNames += nameBuild;
