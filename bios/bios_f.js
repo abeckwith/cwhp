@@ -123,7 +123,7 @@ f_bios = [
         familyName: "",
         
         title: `Developmental pharmacologist`,
-        birthDate: "00.00.1926",
+        birthDate: "09.07.1926",
         birthLocation: "Lewiston, Maine",
         deathDate: "",
         deathLocation: "",
