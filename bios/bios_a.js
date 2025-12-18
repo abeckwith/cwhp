@@ -8,6 +8,7 @@ a_bios = [
         
         title: `First female mayor of Cambridge`,
         birthDate: "03.01.1925",
+        
         birthLocation: "Stockholm, Sweden",
         deathDate: "07.04.2020",
         deathLocation: "Lenox, Massachusetts",

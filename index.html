@@ -54,6 +54,7 @@
     <script src="bios/bios_x.js"></script>
     <script src="bios/bios_y.js"></script>
     <script src="bios/bios_z.js"></script>
+
     <script>
         function bday() {
             currentDate = new Date();
@@ -108,7 +109,7 @@
                         bio.birthDate.substring(3, 5) == currentDate.substring(3, 5)) {
 
                         //make link to bio:
-                        link = "<Center>&#x1F389; <a href='bios.html?lNm=" +
+                        link = "<a href='bios.html?lNm=" +
                             bio.lastName +
                             "&mNm=" +
                             bio.middleName +
@@ -121,11 +122,11 @@
                         //determine "th", "st" "rd":
                         suffix = "" + endings[yrs % 10];
                         //things like 112 don't end in "nd":
-                        if(yrs % 100 < 14 && yrs % 100 > 10) suffix = "th"; 
+                        if (yrs % 100 < 14 && yrs % 100 > 10) suffix = "th";
                         //display birthday announcement:
-                        document.getElementById("bdaydisplay").innerHTML = link + bio.firstName +
+                        document.getElementById("bdaydisplay").innerHTML = "<Center>&#x1F389; Today would be "+ link + bio.firstName +
                             " " + bio.lastName + "</a>'s <b>" + (yrs) +
-                            suffix + "</b> birthday is today! &#x1F381;";
+                            suffix + "</b> birthday! &#x1F381;";
                     }
                 });
             });
@@ -189,9 +190,11 @@
         <div class="index-page-text-in-boxes">
             <ol role="list">
                 <li class='style-box holographic-card'>CWHP's goal is to WRITE WOMEN INTO THE HISTORY OF CAMBRIDGE,
-                    honoring their lives, revealing their untold stories, and highlighting their many accomplishments </li>
+                    honoring their lives, revealing their untold stories, and highlighting their many accomplishments
+                </li>
                 <li class='style-box holographic-card'>CWHP celebrates
-                    the contributions of women from the early days of Cambridge to the present - and from every walk of life</li>
+                    the contributions of women from the early days of Cambridge to the present - and from every walk of
+                    life</li>
                 <!-- <li class='style-box holographic-card'>We currently have over 900 women and women's organizations that have been
                     nominated for
                     a place
