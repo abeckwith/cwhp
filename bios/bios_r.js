@@ -278,7 +278,7 @@ r_bios = [
             then came to Cambridge in the 1950s to do graduate work in history at Harvard
             University. During this period, she became active in civil rights in Cambridge
             and was a founder of the Boston chapter of the Episcopal Society for Cultural
-            and Racial Unity. She went to Selma, AL, to march with Martin Luther King, Jr.
+            and Racial Unity. She went to Selma, Alabama, to march with Martin Luther King, Jr.
             <br><Br>Her home in Cambridge became a center for educational and welfare reform. From
             1968 to 1975, she left graduate work to become an editor for behavioral studies
             at the Harvard University Press. In 1974 she and Stephan Thernstrom developed
@@ -293,7 +293,7 @@ r_bios = [
             and completed at the Jesuit Faculty of Theology at Regis College in Toronto;
             she received her M. Div. there in 1996. In 2002, she reconnected with an old
             boyfriend from her adolescence, Dr. Merrill Rubinow; they married soon after.
-            The couple moved to Tucson, AZ. <Br><Br>Dr. Rubinow died there four years later, seven
+            The couple moved to Tucson, Arizona. <Br><Br>Dr. Rubinow died there four years later, seven
             months before Orlov's own death. `,
         otherNotes: "",
         references: ` &#8220;Ann Orlov Rubinow,&#8221; obituary news
