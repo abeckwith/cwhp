@@ -59,6 +59,21 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
         <style>
+            details {
+                border: 2px solid rgb(234, 212, 112);
+                padding: 10px;
+            }
+
+            details[open] {
+                /* Styles when the section is open */
+                background-color: #f9f9f9;
+            }
+
+            details[open] summary {
+                /* Styles for the summary when the section is open */
+                border-bottom: 1px solid #ccc;
+            }
+
             a {
                 scroll-margin-top: 95px;
             }
@@ -118,7 +133,7 @@
                 ];
                 recentObjects = [];
                 aliveObjects = [];
-                allNames= "";
+                allNames = "";
                 bio_count = 0;
                 currentDate = new Date();
                 currentDate = currentDate.toLocaleDateString('en-US');
@@ -127,7 +142,7 @@
                     //go through each name for this letter:
                     bioLetterList.forEach((thename) => {
                         nameBuild = thename.lastName + ", " + thename.firstName + " " + thename.middleName;
-                        if(thename.familyName != "") nameBuild += " (" + thename.familyName + ")";
+                        if (thename.familyName != "") nameBuild += " (" + thename.familyName + ")";
                         nameBuild += "<br>";
                         allNames += nameBuild;
 
@@ -194,8 +209,7 @@
                     if (a.lastName < b.lastName) return -1;
                     return 0;
                 });
-                console.log(aliveList)
-                bDisplay = "Known Birthdays:<table><tr><th>Birthdate:</th><th>Name:</th><th>Age:</th><th>Born in:</th></tr>";
+                bDisplay = "<table><tr><th>Birthdate:</th><th>Name:</th><th>Age:</th><th>Born in:</th></tr>";
 
                 previous_month = "00";
                 const months = [
@@ -219,8 +233,11 @@
                     previous_month = bio.monthNum;
 
                 });
-                aliveDisplay = "Less than 100 years old and no death date given:<br><table><Tr><th>Name</th><th>BrthYr</th><th>Age</th></tr>";
-                currentYear = new Date().getFullYear()
+
+                bDisplay += "</table>";
+                aliveDisplay = "<table><Tr><th>Name</th><th>BrthYr</th><th>Age</th></tr>";
+                
+                    currentYear = new Date().getFullYear()
 
                 aliveList.forEach(bio => {
                     aliveDisplay += "<tr><td><a href='bios.html?lNm=" +
@@ -236,12 +253,14 @@
                         "</a></td><td>&nbsp;&nbsp;" + bio.birthDate.slice(-4) + "</td><td style='text-align:right'>" + (currentYear - bio.birthDate.slice(-4)) + "&nbsp;&nbsp;</td></tr>";
                 });
                 aliveDisplay += "</table>"
-                 
-            
-                document.getElementById("birthday-display").innerHTML = bDisplay + "</table><Br>" + aliveDisplay + "<Br>"
-                + "<br><b>All Names:</b><Br>" + allNames;
+
+
+                document.getElementById("birthday-display").innerHTML =  bDisplay + "<br>";
+                document.getElementById("alive-display").innerHTML = aliveDisplay + "<Br>";
+                document.getElementById("all-display").innerHTML = allNames;
+                // + "<br><span id='allnames'><Br><Br><Br><Br></span><b>All Names:</b><Br>" + allNames;
                 //SORT ALGORITHM: first name:
-            
+
             }
         </Script>
     </head>
@@ -254,8 +273,31 @@
         <div id="opening-pictures" style="margin-top:50px;margin: 0px auto;margin-top:20px">Cambridge Women's Heritage
             Project</div>
         <div id="end-HTML"></div>
-        <Br>
-        <span id='birthday-display'></span>
+        <Br>ADDITIONAL DATA: <BR>
+        <details>
+            <summary>Known Birthdays</summary>
+            <div>
+                <!-- collapsible content  here -->
+                <span id='birthday-display'></span>
+
+            </div>
+        </details>
+        <details>
+            <summary>Likely Living (under 100 years old & no death date given)</summary>
+            <div>
+                <!-- collapsible content  here -->
+                <span id='alive-display'></span>
+
+            </div>
+        </details>
+        <details>
+            <summary>List of all names</summary>
+            <div>
+                <!-- collapsible content  here -->
+                <span id='all-display'></span>
+
+            </div>
+        </details>
     </div>
     <br><br>
 </body>
