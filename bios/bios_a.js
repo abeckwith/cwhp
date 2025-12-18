@@ -659,7 +659,7 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
         organization: false,
         lastName: "Applebee",
         firstName: "Constance",
-        middleName: "M. K.",
+        middleName: "M.K.",
         familyName: "",
         
         title: `Physical education teacher, introduced Women's Field Hockey to US`,
