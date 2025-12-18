@@ -118,6 +118,7 @@
                 ];
                 recentObjects = [];
                 aliveObjects = [];
+                allNames= "";
                 bio_count = 0;
                 currentDate = new Date();
                 currentDate = currentDate.toLocaleDateString('en-US');
@@ -125,6 +126,10 @@
                 all_bios.forEach((bioLetterList) => {
                     //go through each name for this letter:
                     bioLetterList.forEach((thename) => {
+                        nameBuild = thename.lastName + ", " + thename.firstName + " " + thename.middleName;
+                        if(thename.familyName != "") nameBuild += " (" + thename.familyName + ")";
+                        nameBuild += "<br>";
+                        allNames += nameBuild;
 
                         hasFullDate = thename.birthDate.substring(0, 2) != "00" && thename.birthDate.indexOf("ca") == -1;
                         if (
@@ -190,7 +195,7 @@
                     return 0;
                 });
                 console.log(aliveList)
-                bDisplay = "=== KNOWN BIRTHDAYS ===<table><tr><th>Birthdate:</th><th>Name:</th><th>Age:</th><th>Born in:</th></tr>";
+                bDisplay = "Known Birthdays:<table><tr><th>Birthdate:</th><th>Name:</th><th>Age:</th><th>Born in:</th></tr>";
 
                 previous_month = "00";
                 const months = [
@@ -228,11 +233,15 @@
                         bio.lastName +
                         ", " +
                         bio.firstName +
-                        "</a></td><td>&nbsp;&nbsp;" + bio.birthDate.slice(-4) + "</td><td style='text-align:right'>" + (currentYear - bio.birthDate.slice(-4)) +"&nbsp;&nbsp;</td></tr>";
+                        "</a></td><td>&nbsp;&nbsp;" + bio.birthDate.slice(-4) + "</td><td style='text-align:right'>" + (currentYear - bio.birthDate.slice(-4)) + "&nbsp;&nbsp;</td></tr>";
                 });
                 aliveDisplay += "</table>"
-                document.getElementById("birthday-display").innerHTML = bDisplay + "</table><Br>" + aliveDisplay;
-
+                 
+            
+                document.getElementById("birthday-display").innerHTML = bDisplay + "</table><Br>" + aliveDisplay + "<Br>"
+                + "<br><b>All Names:</b><Br>" + allNames;
+                //SORT ALGORITHM: first name:
+            
             }
         </Script>
     </head>
