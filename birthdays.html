@@ -61,7 +61,6 @@
         <style>
             a {
                 scroll-margin-top: 95px;
-
             }
 
             table,
@@ -118,6 +117,7 @@
                     z_bios,
                 ];
                 recentObjects = [];
+                aliveObjects = [];
                 bio_count = 0;
                 currentDate = new Date();
                 currentDate = currentDate.toLocaleDateString('en-US');
@@ -125,6 +125,7 @@
                 all_bios.forEach((bioLetterList) => {
                     //go through each name for this letter:
                     bioLetterList.forEach((thename) => {
+
                         hasFullDate = thename.birthDate.substring(0, 2) != "00" && thename.birthDate.indexOf("ca") == -1;
                         if (
                             thename.birthDate != "" &&
@@ -160,12 +161,18 @@
                             recentObjects.push({ html_build, monthNum, year, dayNum });
 
                         }
+                        //look for women that my still be alive:
+                        yr = parseInt(thename.birthDate.slice(-4));
+                        currentYear = new Date().getFullYear()
+                        if (currentYear - yr < 100 && thename.deathDate == "") {
+                            aliveObjects.push(thename)
+                        }
+
                     });
                 });
 
                 //SORT ALGORITHM: first by year, then month, then day:
-                r = recentObjects.sort((a, b) => {
-                    // Primary sort: by age (ascending)
+                recentsSorted = recentObjects.sort((a, b) => {
                     if (parseInt(a.monthNum) > parseInt(b.monthNum)) return 1;
                     if (parseInt(a.monthNum) < parseInt(b.monthNum)) return -1;
 
@@ -176,6 +183,13 @@
 
                     return 0;
                 });
+                //SORT ALGORITHM: first name:
+                aliveList = aliveObjects.sort((a, b) => {
+                    if (a.lastName > b.lastName) return 1;
+                    if (a.lastName < b.lastName) return -1;
+                    return 0;
+                });
+                console.log(aliveList)
                 bDisplay = "=== KNOWN BIRTHDAYS ===<table><tr><th>Birthdate:</th><th>Name:</th><th>Age:</th><th>Born in:</th></tr>";
 
                 previous_month = "00";
@@ -193,14 +207,31 @@
                     "November",
                     "December",
                 ];
-                r.forEach(bio => {
+                recentsSorted.forEach(bio => {
                     if (bio.monthNum > previous_month)
                         bDisplay += "<tr><td><b>" + months[bio.monthNum - 1] + "</b></td></tr>";
                     bDisplay += bio.html_build;
                     previous_month = bio.monthNum;
 
                 });
-                document.getElementById("birthday-display").innerHTML = bDisplay + "</table>";
+                aliveDisplay = "<table><Tr><th> Possibly Still Alive:</th><th>BrthYr</th><th>Age</th></tr>";
+                currentYear = new Date().getFullYear()
+
+                aliveList.forEach(bio => {
+                    aliveDisplay += "<tr><td><a href='bios.html?lNm=" +
+                        bio.lastName +
+                        "&mNm=" +
+                        bio.middleName +
+                        "&fNm=" +
+                        bio.firstName +
+                        "'>" +
+                        bio.lastName +
+                        ", " +
+                        bio.firstName +
+                        "</a></td><td>&nbsp;&nbsp;" + bio.birthDate.slice(-4) + "</td><td style='text-align:right'>" + (currentYear - bio.birthDate.slice(-4)) +"&nbsp;&nbsp;</td></tr>";
+                });
+                aliveDisplay += "</table>"
+                document.getElementById("birthday-display").innerHTML = bDisplay + "</table><Br>" + aliveDisplay;
 
             }
         </Script>

@@ -1170,7 +1170,7 @@ b_bios = [
         familyName: "Keefe",
         
         title: `Activist, School Volunteer`,
-        birthDate: "12.3.1939",
+        birthDate: "12.03.1939",
         birthLocation: "Boston, Massachusetts",
         deathDate: "05.23.2001",
         deathLocation: "",
