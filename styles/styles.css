@@ -357,7 +357,7 @@ a.letter-links:visited {
 .bottom-line{
        
     border-width:7px 0px 0px 0px;
-    border-color: rgb(225, 193, 170);
+    border-color: rgb(234, 212, 112);
     border-style: solid;
     width:40%;
     text-align:left;
@@ -373,7 +373,7 @@ a.letter-links:visited {
     margin-bottom: 10px;
     border-width:0px;
     border-top:7px;
-    border-color: rgb(226, 203, 186);
+    border-color: rgb(234, 212, 112);
     /* transition: border-width 1.6s linear; */
     border-style: solid;
     /* width:50%; */
@@ -749,7 +749,7 @@ a.search-buttons {
 
 .holographic-card:hover {
   transform: scale(1.18);
-  box-shadow: 0 0 20px rgba(0,255,255,0.5);
+  box-shadow: 0 0 20px rgba(255, 217, 0, 0.9);
 }
 
 .holographic-card:hover::before {
@@ -760,7 +760,7 @@ a.search-buttons {
     display: flex;
     align-items: center;
     gap: 1rem;
-    background: rgb(243, 219, 200);
+    background: rgb(234, 212, 112);
     padding: 1.5rem;
     border-radius: 1rem;
     width: calc(100% - 2rem);
