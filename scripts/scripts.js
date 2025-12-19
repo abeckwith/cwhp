@@ -442,7 +442,7 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
 
     //link to open printable version:
     html +=
-        "<br><Br><a onclick='openWin()'><u><b>&#x1F5A8; Printable Version</b></u></a";
+        "<br><Br><span id='printy'><a onclick='openWin()'><u><b>&#x1F5A8; Printable Version</b></u></a></span>";
 
     //date created, last updated, author, editor:
     dt =
@@ -1085,10 +1085,9 @@ function generateAndShuffleRange(start, end) {
 var firstTime = true; //shuffle numbers first time shuffle is clicked
 var numInRandomList = 0;
 /**
- * chooses a random person 
+ * chooses a random person
  */
 function ranPerson() {
-    
     setTotals(false);
 
     all_people = [];

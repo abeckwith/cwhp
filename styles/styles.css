@@ -12,30 +12,29 @@ body {
     font-size: 2.2vh;
     /* overflow:hidden; */
 }
-.abouts{
-    margin-left:10vw;
-    margin-right:10vw;
+.abouts {
+    margin-left: 10vw;
+    margin-right: 10vw;
 }
 #recents {
     margin-bottom: 25px;
     font-size: 1.5vw;
-    
 }
-.nice-header{
+.nice-header {
     border: 2px solid black;
-    border-radius:5px;
-    color:white;
+    border-radius: 5px;
+    color: white;
     background-color: black;
     padding: 10px;
-    margin-top:90px;
+    margin-top: 90px;
 }
-.nice-header2{
+.nice-header2 {
     border: 2px solid black;
-    border-radius:5px;
-    color:black;
+    border-radius: 5px;
+    color: black;
     background-color: rgb(234, 212, 112);
     padding: 10px;
-    margin-top:90px;
+    margin-top: 90px;
 }
 /* begin scrolling styles */
 .main {
@@ -68,12 +67,14 @@ body {
 .letter-link:hover {
     border: 1px solid black;
     border-radius: 5px;
+        background-color: rgb(254, 230, 123);
+
 }
 .collapsible {
     background-color: #555; /* Opaque header */
     color: white;
     cursor: pointer;
-    margin:1vw 5vw;
+    margin: 1vw 5vw;
     padding: 15px;
     width: 70%;
     border: none;
@@ -96,8 +97,8 @@ body {
     margin: 10px 5vw;
     border-radius: 8px;
     overflow: hidden;
-    font-size:90%;
-    width:70%;
+    font-size: 90%;
+    width: 70%;
     transition: max-height 1.2s ease-out;
 }
 
@@ -194,15 +195,15 @@ td > a {
     width: 100%;
     height: 100%;
 }
-#bdaydisplay{
-  /* border-style: solid;
+#bdaydisplay {
+    /* border-style: solid;
     border-radius: 10px;
     border-width: 5px;
     border-color: gray; */
     font-size: 1.5vw;
     padding: 0.2vw 1vw;
 
-    margin-top:30px;
+    margin-top: 30px;
     /* width: fit-content; */
     /* display: block; */
     align-content: center;
@@ -354,25 +355,23 @@ a.letter-links:visited {
 .link-to-top a {
     text-decoration: none;
 }
-.bottom-line{
-       
-    border-width:7px 0px 0px 0px;
+.bottom-line {
+    border-width: 7px 0px 0px 0px;
     border-color: rgb(234, 212, 112);
     border-style: solid;
-    width:40%;
-    text-align:left;
+    width: 40%;
+    text-align: left;
     align-items: left;
-    display:inline-block;
-    margin-left:16vw;
-    padding-top:10px;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    
+    display: inline-block;
+    margin-left: 16vw;
+    padding-top: 10px;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 .name-heading {
     font-size: 3vw;
     margin-bottom: 10px;
-    border-width:0px;
-    border-top:7px;
+    border-width: 0px;
+    border-top: 7px;
     border-color: rgb(234, 212, 112);
     /* transition: border-width 1.6s linear; */
     border-style: solid;
@@ -420,9 +419,13 @@ a.search-buttons {
 .topnav .icon {
     display: none;
 }
-#bio-container{
-            margin: 2vw 13vw 2vw 6vw; 
+#bio-container {
+    margin: 2vw 13vw 2vw 6vw;
+}
 
+.headings {
+    color: #ead470;
+    background-color: black;
 }
 
 @media screen and (max-width: 700px) {
@@ -434,7 +437,7 @@ a.search-buttons {
     #end-html #opening-pictures {
         font-size: 20px;
     }
-     #bdaydisplay {
+    #bdaydisplay {
         font-size: 20px;
     }
     #size {
@@ -453,6 +456,7 @@ a.search-buttons {
     .email {
         font-size: 13px;
     }
+
     #myInput,
     #results a,
     .name-link,
@@ -468,14 +472,14 @@ a.search-buttons {
         color: red;
         margin: 2vw 4vw;
     }
-  
-    .name-heading{
-        font-size:4%;
+
+    .name-heading {
+        font-size: 4%;
     }
     #bio-container {
         width: 54vw;
         font-size: 12px;
-        margin:5px;
+        margin: 5px;
     }
     a {
         font-size: 10px;
@@ -483,11 +487,10 @@ a.search-buttons {
 
     img {
         width: 105px;
-  
     }
-    #bio{
-        margin:0px;
-        padding:0px;
+    #bio {
+        margin: 0px;
+        padding: 0px;
     }
     .topnav a {
         display: none;
@@ -497,7 +500,7 @@ a.search-buttons {
     } */
     body {
         font-size: 18px;
-        margin-left:2px;
+        margin-left: 2px;
     }
     .topnav a.icon {
         float: left;
@@ -512,7 +515,7 @@ a.search-buttons {
     .topnav.responsive {
         position: relative;
     }
-    .right{
+    .right {
         padding-right: 5px;
     }
     .topnav.responsive .icon {
@@ -618,17 +621,26 @@ a.search-buttons {
     display: block;
     align-content: center;
 }
+#printy:hover{
+    border: 1px solid black;
+    border-radius:5px;
+    padding:5px;
+    background-color: rgb(254, 230, 123);
+}
 #opening-pictures {
     border-style: solid;
     border-radius: 10px;
     border-width: 5px;
-    border-color: gray;
-    font-size: 2vw;
-    padding: 0.2vw 1vw;
+    /* border-color: #ead470; */
+    font-size: 1.8vw;
+    padding: 0.4vw 1vw;
+    text-align: center;
+    border-color: black;
     /* margin-top:10px; */
     width: fit-content;
     display: block;
     align-content: center;
+    background-color: #EAD470;
 }
 
 #menu-bar a {
@@ -702,59 +714,59 @@ a.search-buttons {
 
 } */
 .holographic-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  /* height: 100vh; */
-  background: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100vh; */
+    background: #000;
 }
 
 .holographic-card {
-  /* width: 300px;
+    /* width: 300px;
   height: 200px; */
-  background: #111;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  position: relative;
-  overflow: hidden;
-  border-radius: 15px;
-  transition: all 0.5s ease;
+    background: #111;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+    border-radius: 15px;
+    transition: all 0.5s ease;
 }
 
 .holographic-card h2 {
-  color: #0ff;
-  font-size: 2rem;
-  position: relative;
-  z-index: 2;
+    color: #0ff;
+    font-size: 2rem;
+    position: relative;
+    z-index: 2;
 }
 
 .holographic-card::before {
-  content: '';
-  position: absolute;
-  top: -50%;
-  left: -50%;
-  width: 200%;
-  height: 200%;
-  background: linear-gradient(
-    0deg, 
-    transparent, 
-    transparent 30%, 
-    rgba(0,255,255,0.3)
-  );
-  transform: rotate(-45deg);
-  transition: all 0.5s ease;
-  opacity: 0;
+    content: "";
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: linear-gradient(
+        0deg,
+        transparent,
+        transparent 30%,
+        rgba(0, 255, 255, 0.3)
+    );
+    transform: rotate(-45deg);
+    transition: all 0.5s ease;
+    opacity: 0;
 }
 
 .holographic-card:hover {
-  transform: scale(1.18);
-  box-shadow: 0 0 20px rgba(255, 217, 0, 0.9);
+    transform: scale(1.18);
+    box-shadow: 0 0 20px rgba(255, 217, 0, 0.9);
 }
 
 .holographic-card:hover::before {
-  opacity: 1;
-  transform: rotate(-45deg) translateY(100%);
+    opacity: 1;
+    transform: rotate(-45deg) translateY(100%);
 }
 .index-page-text-in-boxes li {
     display: flex;
@@ -790,7 +802,7 @@ a.search-buttons {
     margin-left: 5vw;
     color: white;
 }
-.opening-images:hover{
+.opening-images:hover {
     border: 2px solid blue;
 }
 img:not(.opening-images) {
@@ -833,11 +845,20 @@ img:not(.opening-images) {
 }
 input[type="text"] {
     width: 50%;
+    border-style: solid;
+
     padding: 12px 20px;
-    margin: 8px 0;
+    margin: 8px;
+    border-width: 2px;
     box-sizing: border-box;
     border-radius: 5px;
     font-size: 3vh;
+    border-color: #ead470; /* Change border color on focus */
+}
+input[type="text"]:focus {
+    border-color: #ecc61d; /* Change border color on focus */
+    box-shadow: 0 0 2px #ecc61d; /* Add a glow effect */
+    outline: #ecc61d;
 }
 .flicker {
     font-size: 3vw;

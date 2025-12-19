@@ -62,7 +62,7 @@
             details {
                 border: 3px solid rgb(234, 212, 112);
                 padding: 10px;
-                margin:3px;
+                margin: 3px;
             }
 
             details[open] {
@@ -70,7 +70,7 @@
                 background-color: #f9f9f9;
             }
 
-    
+
 
             a {
                 scroll-margin-top: 95px;
@@ -235,8 +235,8 @@
 
                 bDisplay += "</table>";
                 aliveDisplay = "<table><Tr><th>Name</th><th>BrthYr</th><th>Age</th></tr>";
-                
-                    currentYear = new Date().getFullYear()
+
+                currentYear = new Date().getFullYear()
 
                 aliveList.forEach(bio => {
                     aliveDisplay += "<tr><td><a href='bios.html?lNm=" +
@@ -254,7 +254,7 @@
                 aliveDisplay += "</table>"
 
 
-                document.getElementById("birthday-display").innerHTML =  bDisplay + "<br>";
+                document.getElementById("birthday-display").innerHTML = bDisplay + "<br>";
                 document.getElementById("alive-display").innerHTML = aliveDisplay + "<Br>";
                 document.getElementById("all-display").innerHTML = allNames;
                 // + "<br><span id='allnames'><Br><Br><Br><Br></span><b>All Names:</b><Br>" + allNames;
