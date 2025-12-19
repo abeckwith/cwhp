@@ -862,7 +862,9 @@ function search() {
             " " +
             word +
             "...<Br><Br>(NOTE: links will open a new tab)<Br><br>" +
-            "<span style='color:red'><B>" + msg + "</b></span>" +
+            "<span style='color:red'><B>" +
+            msg +
+            "</b></span>" +
             result;
 
         if (total == 0) result = "No results found for <B>" + keyword + "</b>";
@@ -1084,51 +1086,55 @@ function generateAndShuffleRange(start, end) {
 }
 var firstTime = true; //shuffle numbers first time shuffle is clicked
 var numInRandomList = 0;
+var all_people = [];
+
 /**
  * chooses a random person
  */
 function ranPerson() {
     setTotals(false);
 
-    all_people = [];
     ltrCount = 0;
+    if (firstTime) {
+        console.log("shuffling")
+        //count how many total people to choose from:
+        all_bios.forEach((bioLetterList) => {
+            let personCount = 0;
 
-    //count how many total people to choose from:
-    all_bios.forEach((bioLetterList) => {
-        let personCount = 0;
-
-        //go through each name for this letter:
-        bioLetterList.forEach((thename) => {
-            all_people.push([ltrCount, personCount]);
-            personCount++;
+            //go through each name for this letter:
+            bioLetterList.forEach((thename) => {
+                all_people.push([ltrCount, personCount]);
+                personCount++;
+            });
+            ltrCount++;
         });
-        ltrCount++;
-    });
-    // shuffle numbers 1 through total number of people:
-    if (firstTime)
-        shuffledNumbers = generateAndShuffleRange(1, all_people.length);
+        // shuffle numbers 1 through total number of people:
 
+        shuffledNumbers = generateAndShuffleRange(1, all_people.length);
+    }
     //get the current number from the list of random numbers:
     chosen = shuffledNumbers[numInRandomList] - 1;
-
+    console.log(numInRandomList + ", " + chosen);
+    // console.log(all_people)
     //get letter and person within letter:
-    currentLetter = all_people[chosen][0];
+    currentLetter2 = all_people[chosen][0];
     currentPersonIndex2 = all_people[chosen][1];
+    console.log(currentLetter2 + ", " + currentPersonIndex2)
 
     //step to next for next random and wrap around if reached end:
     numInRandomList++;
     numInRandomList %= all_people.length;
 
     //display:
-    makeSidebar(currentLetter, false, false, false);
-
+    makeSidebar(currentLetter2, false, false, false);
+    console.log(strippedNamesList[currentLetter2][currentPersonIndex2][0])
     site =
         "bios.html?lNm=" +
-        strippedNamesList[currentLetter][currentPersonIndex2][0] +
+        strippedNamesList[currentLetter2][currentPersonIndex2][0] +
         "&mNm=" +
-        strippedNamesList[currentLetter][currentPersonIndex2][1] +
+        strippedNamesList[currentLetter2][currentPersonIndex2][1] +
         "&fNm=" +
-        strippedNamesList[currentLetter][currentPersonIndex2][2];
+        strippedNamesList[currentLetter2][currentPersonIndex2][2];
 
     //ensures sidebar and URL match person selected:
     window.open(site, "_self");
