@@ -1046,9 +1046,9 @@ function setTotals(about) {
 
     // document.getElementById("total-women3").innerHTML = totalEntries;
 
-    for (let i = 0; i < personCounts.length; i++) {
-        console.log(alph.charAt(i) + ": " + personCounts[i]);
-    }
+    // for (let i = 0; i < personCounts.length; i++) {
+    //     console.log(alph.charAt(i) + ": " + personCounts[i]);
+    // }
     // Collapsible function for main headers
     var collapsibles = document.getElementsByClassName("collapsible");
     for (var i = 0; i < collapsibles.length; i++) {
@@ -1063,19 +1063,41 @@ function setTotals(about) {
         });
     }
 }
+function generateAndShuffleRange(start, end) {
+    console.log("shuffling");
+    // 1. Create the initial ordered array (e.g., [1, 2, ..., 10])
+    const range = Array.from({ length: end - start + 1 }, (_, i) => start + i);
+
+    // 2. Apply the Fisher-Yates Shuffle algorithm
+    let m = range.length,
+        t,
+        i;
+    while (m) {
+        // Pick a remaining element
+        i = Math.floor(Math.random() * m--);
+        // And swap it with the current element
+        t = range[m];
+        range[m] = range[i];
+        range[i] = t;
+    }
+    return range;
+}
+var firstTime = true; //shuffle numbers first time shuffle is clicked
+var numInRandomList = 0;
 /**
- * chooses a random person from a random letter
+ * chooses a random person 
  */
 function ranPerson() {
+    
     setTotals(false);
- 
+
     all_people = [];
     ltrCount = 0;
 
     //count how many total people to choose from:
     all_bios.forEach((bioLetterList) => {
         let personCount = 0;
-        
+
         //go through each name for this letter:
         bioLetterList.forEach((thename) => {
             all_people.push([ltrCount, personCount]);
@@ -1083,30 +1105,35 @@ function ranPerson() {
         });
         ltrCount++;
     });
+    // shuffle numbers 1 through total number of people:
+    if (firstTime)
+        shuffledNumbers = generateAndShuffleRange(1, all_people.length);
 
-    //pick one:
-    let person = Math.floor(Math.random() * all_people.length);
+    //get the current number from the list of random numbers:
+    chosen = shuffledNumbers[numInRandomList] - 1;
 
-    //get letter and person number to show bio:
-    l = all_people[person][0];
-    prs = all_people[person][1];
+    //get letter and person within letter:
+    currentLetter = all_people[chosen][0];
+    currentPersonIndex2 = all_people[chosen][1];
+
+    //step to next for next random and wrap around if reached end:
+    numInRandomList++;
+    numInRandomList %= all_people.length;
 
     //display:
-    makeSidebar(l, false, false, false);
-    currentLetter = l;
-    currentPersonIndex = prs;
+    makeSidebar(currentLetter, false, false, false);
 
     site =
         "bios.html?lNm=" +
-        strippedNamesList[currentLetter][currentPersonIndex][0] +
+        strippedNamesList[currentLetter][currentPersonIndex2][0] +
         "&mNm=" +
-        strippedNamesList[currentLetter][currentPersonIndex][1] +
+        strippedNamesList[currentLetter][currentPersonIndex2][1] +
         "&fNm=" +
-        strippedNamesList[currentLetter][currentPersonIndex][2];
+        strippedNamesList[currentLetter][currentPersonIndex2][2];
 
     //ensures sidebar and URL match person selected:
     window.open(site, "_self");
-
+    firstTime = false;
     // makeBio(letter, person, false, false, false);
 }
 
