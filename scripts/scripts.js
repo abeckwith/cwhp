@@ -850,7 +850,7 @@ function search() {
         }
         if (total >= 2000)
             msg =
-                "==> SEARCH TERMINATED - TOO MANY RESULTS - REFINE YOUR SEARCH <==<Br><BR>";
+                "==> SEARCH RESULTS TRUNCATED: TOO MANY RESULTS. PLEASE REFINE YOUR SEARCH <==<Br><BR>";
         else msg = "";
 
         if (totalPeople > 1) word = "results";
@@ -862,7 +862,7 @@ function search() {
             " " +
             word +
             "...<Br><Br>(NOTE: links will open a new tab)<Br><br>" +
-            msg +
+            "<span style='color:red'><B>" + msg + "</b></span>" +
             result;
 
         if (total == 0) result = "No results found for <B>" + keyword + "</b>";
