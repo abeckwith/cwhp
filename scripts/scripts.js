@@ -109,7 +109,7 @@ function showRecents(num) {
                     html_build =
                         "<br></i>" +
                         thename.dateCreated.replaceAll(".", "/") +
-                        ":</b>&nbsp;&nbsp;<a href='bios.html?lNm=" +
+                        ":</b>&nbsp;&nbsp;<span class='recents-name'><a href='bios.html?lNm=" +
                         thename.lastName +
                         "&mNm=" +
                         thename.middleName +
@@ -119,7 +119,7 @@ function showRecents(num) {
                         thename.lastName +
                         ", " +
                         thename.firstName +
-                        "</a>,&nbsp;<i> " +
+                        "</a></span>,&nbsp;<i> " +
                         thename.title +
                         "";
                     recentsObjects.push({ html_build, monthNum, year, dayNum });
@@ -180,7 +180,7 @@ function showRecents(num) {
                     html_build =
                         "<br></i>" +
                         thename.dateUpdated.replaceAll(".", "/") +
-                        ":</b>&nbsp;&nbsp;<a href='bios.html?lNm=" +
+                        ":</b>&nbsp;&nbsp;<span class='recents-name'><a href='bios.html?lNm=" +
                         thename.lastName +
                         "&mNm=" +
                         thename.middleName +
@@ -190,7 +190,7 @@ function showRecents(num) {
                         thename.lastName +
                         ", " +
                         thename.firstName +
-                        "</a>,<i> &nbsp;" +
+                        "</a></span>,<i> &nbsp;" +
                         thename.title +
                         "";
                     recentUpdatesObjects.push({
@@ -808,7 +808,7 @@ function search() {
                     result +=
                         "" +
                         totalPeople +
-                        ". <a href='bios.html?ln=" +
+                        ". <span class='recents-name'><a href='bios.html?ln=" +
                         lName +
                         "&mN=" +
                         mName +
@@ -818,7 +818,7 @@ function search() {
                         person.firstName +
                         " " +
                         person.lastName +
-                        "</a><Br>";
+                        "</a></span><Br>";
                     //number of times keywords occurs in this narrative:
                     count = (
                         text

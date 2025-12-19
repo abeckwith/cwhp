@@ -64,10 +64,11 @@ body {
     padding-bottom: 4%;
 }
 .name-link:hover,
-.letter-link:hover {
+.letter-link:hover,
+.recents-name:hover {
     border: 1px solid black;
     border-radius: 5px;
-        background-color: rgb(254, 230, 123);
+     background-color: rgb(254, 230, 123);
 
 }
 .collapsible {
