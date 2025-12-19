@@ -306,9 +306,10 @@ function openWin() {
     if (popup && !popup.closed) {
         popup.focus();
     } else {
-        var divText = document.getElementById("bio-container").outerHTML; //get the div
+        var divText = document.getElementById("bio").outerHTML; //get the div
+        console.log(divText)
         //lop off extra line breaks from web version:
-        divText = divText.substring(0, divText.length - 40);
+        // divText = divText.substring(0, divText.length - 40);
         divText = divText.replaceAll("Printable Version", "");
         divText = divText.replaceAll("🖨 ", "");
 
