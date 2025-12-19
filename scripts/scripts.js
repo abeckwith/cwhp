@@ -1084,7 +1084,6 @@ function generateAndShuffleRange(start, end) {
     }
     return range;
 }
-var firstTime = true; //shuffle numbers first time shuffle is clicked
 var numInRandomList = 0;
 var all_people = [];
 
@@ -1093,41 +1092,29 @@ var all_people = [];
  */
 function ranPerson() {
     setTotals(false);
-
     ltrCount = 0;
-    if (firstTime) {
-        console.log("shuffling")
-        //count how many total people to choose from:
-        all_bios.forEach((bioLetterList) => {
-            let personCount = 0;
+    //count how many total people to choose from:
+    all_bios.forEach((bioLetterList) => {
+        let personCount = 0;
 
-            //go through each name for this letter:
-            bioLetterList.forEach((thename) => {
-                all_people.push([ltrCount, personCount]);
-                personCount++;
-            });
-            ltrCount++;
+        //go through each name for this letter:
+        bioLetterList.forEach((thename) => {
+            all_people.push([ltrCount, personCount]);
+            personCount++;
         });
-        // shuffle numbers 1 through total number of people:
+        ltrCount++;
+    });
 
-        shuffledNumbers = generateAndShuffleRange(1, all_people.length);
-    }
-    //get the current number from the list of random numbers:
-    chosen = shuffledNumbers[numInRandomList] - 1;
-    console.log(numInRandomList + ", " + chosen);
-    // console.log(all_people)
+    chosen = Math.floor(Math.random()*all_people.length);
+
     //get letter and person within letter:
     currentLetter2 = all_people[chosen][0];
     currentPersonIndex2 = all_people[chosen][1];
-    console.log(currentLetter2 + ", " + currentPersonIndex2)
-
-    //step to next for next random and wrap around if reached end:
-    numInRandomList++;
-    numInRandomList %= all_people.length;
 
     //display:
     makeSidebar(currentLetter2, false, false, false);
-    console.log(strippedNamesList[currentLetter2][currentPersonIndex2][0])
+
+    console.log(strippedNamesList[currentLetter2][currentPersonIndex2][0]);
     site =
         "bios.html?lNm=" +
         strippedNamesList[currentLetter2][currentPersonIndex2][0] +
@@ -1138,8 +1125,7 @@ function ranPerson() {
 
     //ensures sidebar and URL match person selected:
     window.open(site, "_self");
-    firstTime = false;
-    // makeBio(letter, person, false, false, false);
+    makeBio(letter, person, false, false, false);
 }
 
 /**
