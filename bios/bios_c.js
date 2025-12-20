@@ -40,7 +40,7 @@ c_bios = [
             the
             Neighborhood
             Women's
-            Club. <br>
+            Club. <br><Br>
             The Cambridge Neighborhood House began to involve
             a
             broader
@@ -706,15 +706,16 @@ c_bios = [
         deathLocation: "",
         narrative: `
 
-            City Girl Cafe was a favorite gathering place for local feminists and activist. Located at 204 Hampshire Street in Inman Square, the
-            restaurant in 1997, offered Italian lunch, dinner, and catering. Merry Moscato
-            and Cheryl Schwartz started it as a catering service, <I>City Girl Gourmet Cafe</i> in 1993. Moscato had been 
+            City Girl Cafe was a favorite gathering place for local feminists and gay ribghts activists. 
+            Located at 204 Hampshire Street in Inman Square in 1997, the
+            restaurant offered lunch, dinner, and catering. Merry Moscato
+            and Cheryl Schwartz started it as a catering service in 1993. Moscato had been 
             nicknamed &ldquo;city girl&rdquo; by her brothers and was a graduate of the Cambridge School of Culinary
             Arts in North Cambridge.
             <br><br>The social and activist 
             nature of the cafe was inspired by The Saints Collective, which Moscato and Schwartz had previously been members of.
             The Saints Collective was a group started in 1972 and assocated with The Saints Bar in Boston,
-            where women would gather to socialize and to organize demonstrations. The also helped educate the local LGBTQ community about
+            where women would gather to socialize and to organize demonstrations. They also helped educate the local LGBTQ community about
             their legal rights after government attempts to infiltrate lesbian organizations and 
            the FBI's arrest of Brandeis student and lesbian activit Susan Saxe.
             

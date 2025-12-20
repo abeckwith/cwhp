@@ -31,7 +31,7 @@ a_bios = [
         rode a horse through Cambridgeport to City Hall, to the calls of "Citizens of Cambridge! 
         Save Our City! The highway is coming!" The residents prevailed; the project was canceled in 1972.<Br><Br>
 
-        In 1972, Ackermann wasalso  a delegate to the Democratic National Convention from
+        In 1972, Ackermann was also  a delegate to the Democratic National Convention from
         Massachusetts. In 1989, she wrote an account of her experiences as a Cambridge
         politician in a book entitled, <em>"You the Mayor?": The Education of a City Politician</em>, which
         offers insights into political life and the functioning of a city. In addtion, she was active
@@ -978,7 +978,7 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
             as a volunteer as a nurse at Cambridge nursing homes, including Youville Hospital, Vernon
             Hall Nursing Home and Neville Manor Nursing Home. She was also an active volunteer
             in North Cambridge Little League baseball. 
-            <Br>
+         
             Louise's father George Azevedo was a Korean War veteran and house painter
 
             `,

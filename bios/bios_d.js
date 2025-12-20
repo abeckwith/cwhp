@@ -297,16 +297,17 @@ d_bios = [
         middleName: "",
         familyName: "",
         
-        title: `Feminist and lesbian rights organization`,
+        title: `Feminist and lesbian rights organization<Br>Formed in the late 1950s`,
         birthDate: "",
         birthLocation: "",
         deathDate: "",
         deathLocation: "",
         narrative: `
-            The Cambridge Chapter of the Daughters of Bilities (DOB) is one of the
-            surviving chapters of one of the first lesbian rights organizations formed in
-            San Francisco by Del Martin, <br><br>Phyllis
-            Lyon, and six other women. It was created initially to provide an alternative
+            The Cambridge Chapter of the Daughters of Bilities (DOB) was a
+            chapter of one of the first lesbian rights organizations formed in
+            San Francisco by Del Martin, Phyllis
+            Lyon, and six other women. <br><br>
+            It was created initially to provide an alternative
             to the gay bar scene. Bilitis was the fictional lesbian lover of Sappho as described
             in the poetry of Pierre Lou&yuml;s in <em>Songs of Bilitis</em> (1894). The &#8220;Daughters
             of Bilitis&#8221; name was intended as a sly reference to conservative organizations
@@ -315,7 +316,20 @@ d_bios = [
             in the 1970s about whether it should support gay rights or feminism. During its
             heyday, it had chapters throughout the US and Australia. Between 1959 and 1972,
             the DOB
-            published a national newsletter, <em>The Ladder</em>. <br><br>Among the notable women
+            published a national newsletter, <em>The Ladder</em>. The Cambridge chapter, held meetings at
+            the Old Cambridge Baptist Church at 1151 Mass. Ave. well in to the 1990s.
+            <Br><blockquote>
+            <i>The heart of the organization was supporting lesbians in a safe place, 
+            and ultimately they saw that lesbians from different groups needed 
+            different kinds of support, so they started these discussion groups - lesbians over 35, 
+            lesbians under 35, lesbians with children, single lesbians, they even had a trans group 
+            at one point. These were led by people who had had training in leading discussions and 
+            knowing what to do if there were any problems within the groups, and these went on for
+             as long as the Daughters of Bilitis Boston-Cambridge chapter existed, which was about
+              30 years.</i> <br><br>
+              - Sarah Boyer, author of “Coming Out, Becoming Ourselves: Lesbian Stories from the Boston Daughters of Bilitis, 1969-1999.”
+              </blockquote>
+              <br>Among the notable women
             who joined the organization were the playwright, Lorraine Hansberry, and the
             activist,
             Barbara
@@ -324,15 +338,18 @@ d_bios = [
         otherNotes: "",
         references: `Gallo, Marcia M. <em>Different Daughters: A history
                 of the Daughters of
-                Bilitis and the Birth of the Lesbian Rights Movement</em>, Carroll &amp; Graf, 2006.
+                Bilitis and the Birth of the Lesbian Rights Movement</em>, Carroll &amp; Graf, 2006.<br>
+                <i>Cambridge Day</i>, October 31, 2024 <a href="https://www.cambridgeday.com/2024/03/31/sarah-boyers-coming-out-becoming-ourselves-takes-daughters-from-secret-society-to-acceptance/">
+                Interview with Sarah Boyer</a><br>
+                <i>Cambridge Chronicle</i>, October 30, 1981
         `,
         photos: [""],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "",
+        dateUpdated: "12.20.2025",
 
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Feminist Organization"],
     },
@@ -535,7 +552,7 @@ d_bios = [
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Mary Andrews was daughter of Thomas Jefferson
-            Andrews and his wife Juliette Robbins She was educated in the Boston public
+            Andrews and his wife Juliette Robbins. She was educated in the Boston public
             schools and in 1846, married a Baptist Minister Rev. Charles Wheeler Denison,
             editor of the <em>Emancipator</em>, the first antislavery journal in New York.
             When her husband became an assistant editor to the <em>Boston Olive Branch</em>,
@@ -591,7 +608,7 @@ d_bios = [
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Of
-            Armenian heritage, Diana Der-Hovanessian she was born and lived until age five
+            Armenian heritage, Diana Der-Hovanessian was born and lived until age five
             in Worcester, Massachusetts where her grandparents also lived. She was early
             influenced by the Armenian martyr poets Siamanto and Daniel Varoujan, whose
             work her father recited to her in Armenian. As a full fledged poet, she later
@@ -599,10 +616,13 @@ d_bios = [
             her father. She often writes original poetry that reflects the history of her
             Armenian ancestors. As a young child, her mother also recited American and English
             poems that also served as inspirations. <br><br>
+
             Der-Hovanessian attended Boston University where
             she obtained an A.B. and later did graduate work at Harvard where she studied
             with Robert Lowell. She first worked as a journalist on the <em>Medford Mercury</em>
-            and then in New York City. She married James Dalley, with whom she had two daughters.
+            and then in New York City. She married James Dalley, with whom she had two daughters. By 1988, she was living in Cambridge.
+
+            <br><Br>
             Diana Der-Hovanessian is the author of twenty-three books of poetry and translations
             and has received numerous awards from the National Endowment for the Arts, the
             Poetry Society of America, the National Writers Union, and PEN-Columbia Translation
@@ -611,29 +631,35 @@ d_bios = [
             <em>New York Times</em>, <em>Poetry</em>, and <em>AGNI Magazine</em>. Recently,
             Garrison Keillor has read poems from her books on the radio on his 'Writer's
             Almanac' on National Public Radio. <br><Br>
+
             She taught workshops in translation, poetry of
             human rights, at various universities and at the Boston Globe Book Festival.
             She was Fulbright professor of American poetry at Yerevan State University in
             the Republic of Armenia in 1994, and 1999. She was President of New England
             Poetry Club (founded by Amy Lowell in Cambridge) for twenty years. She also
             started the summer poetry reading festivals at the Longfellow house on Brattle
-            Street. <br><br>She died in Cambridge, Mass. in 2018.`,
+            Street. She received awards from the PEN International and Writers Union of America,
+            NEA, National Writers Union, Paterson Poetry Center, Prairie Schooner, American Scholar,
+            the Armenian Scholar, and the Armenian Ministry of Culture.<br><br>She died in Cambridge, Mass. in 2018.`,
         otherNotes: "",
         references: `
             Sally Cragin, &#8220;Worcester-born poet Diana Der-Hovanessian visits the old
-            neighborhood,&#8221; <em>The Worcester Phoenix</em>, November 12 - 19, 1999<br>
+            neighborhood,&#8221<Br>
+            <em>The Worcester Phoenix</em>, November 12 - 19, 1999<br>
             McIntire, D. <em>International Who's Who in Poetry and Poets' Encyclopedia</em>,
             Routledge, 2001, p. 139-40.<br>
             <a href="http://www.cervenabarvapress.com/der-hovanessianinterview.htm">
-            http://www.cervenabarvapress.com/der-hovanessianinterview.htm</a>
+            http://www.cervenabarvapress.com/der-hovanessianinterview.htm</a><br>
+            <i>The Cambridge Chronicle</i>, 9 June 1988<br>
+            <i>Boston Globe</i> obit, March 4, 2018
         `,
         photos: ["images_bios/der_hovanessian.jpg"],
         photoTitles: [],
         dateCreated: "00.00.2018",
-        dateUpdated: "",
+        dateUpdated: "12.20.2025",
 
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Poet"],
     },
@@ -671,7 +697,8 @@ d_bios = [
             study of women by a woman. <br><br>With the rise of Hitler in 1934 and the take-over
             of Austria the following year, Helene Deutsch, with her son, fled Austria for
             the United States. When her husband joined her the next year, they settled in
-            Cambridge, Massachusetts where she lived for the rest of her life. She became
+            Cambridge, Massachusetts where she lived for the rest of her life (in 1963, she was living at 44 Larchwood 
+            Drive across from FreshPond). She became
             an Associate Psychiatrist at the Massachusetts General Hospital and an active
             member of the Boston Psychoanalytic Society, publishing a two volume book on
             women's psychology, <em>The Psychology of Women</em> (1944-45). <br><br>In 1964, Deutsch's
@@ -686,7 +713,8 @@ d_bios = [
             Roazen, Paul. <em>Helene Deutsch, A Psychoanalyst's Life</em>,
             (Garden City, N.Y, 1985)<br>
             Finding aid, Helene (Rosenbach) Deutsch papers, Schlesinger
-            Library.
+            Library.<br>
+            Cambridge City Directory, 1963.
         `,
         photos: ["images_bios/Helene-Deutsch.jpg"],
         photoTitles: [],
@@ -715,13 +743,17 @@ d_bios = [
             Dix was the daughter of Joseph and Mary (Bigelow) Dix. She opened her own school
             for young children in Worchester. Her talent as a teacher was so great that
             in 1819, she opened a school for girls in Boston but was forced to close it
-            because of illness. <br><br>Dorothea wrote several books for young readers, including
+            because of illness. <br><br>
+            
+            Dorothea wrote several books for young readers, including
             an elementary science textbook, <em>Conversations on Common Things </em>(1824),<em>
                 Hymns for Children</em> (1825), and <em>American Moral Tales for Young Persons</em>
             (1832). In 1831, Dix opened a new school in Boston, where she taught until 1836,
             until she collapsed from phsycial and nervous exhaustion. While recuperating
             in Liverpool, England, she met several leading British reformers who shared
-            with her their new ideas about the treatment of the mentally ill. In 1838, Dix
+            with her their new ideas about the treatment of the mentally ill. 
+            
+            <br><br>In 1838, Dix
             returned to America to live quietly on the income left to her upon the death
             of her grandmother. Three years later, when a Harvard Divinity student asked
             her to teach Sunday school classes for women at the East Cambridge House of
@@ -733,7 +765,9 @@ d_bios = [
             Samuel Gridley Howe, and Horace Mann, Dix spent the next eighteen months surveying
             jails, almshouses, and hospitals across the state. She then presented the Massachusetts
             Legislature with her findings, resulting in the immediate enlargement of the
-            Worcester Asylum. <br><br>
+            Worcester Asylum. 
+            
+            <br><br>
             Despite her recurring health problems, Dix expanded
             her investigations of conditions for the insane and mentally retarded throughout
             New England, New York, and eventually throughout most of the country. She pushed
@@ -745,7 +779,7 @@ d_bios = [
             superintendent of army nurses and caused controversy when she excluded those
             attached to religious orders or anyone under thirty. After the war, she continued
             to visit hospitals, expanding her surveys to the South. <br><br>She died in New Jersey,
-            worn out at the age of eighty-five and was buried in Mount Auburn Cemetery,
+            at the age of eighty-five and was buried in Mount Auburn Cemetery,
             Cambridge.`,
         otherNotes: "",
         references: `Ogilvie, Marilyn and Joy Harvey. <em>Biographical
@@ -753,13 +787,13 @@ d_bios = [
             <em>Notable American
                 Women</em> (1950) Vol I.<Br>
     
-            Photo of Dorothea Lynde Dix, undated.
-            Library of Congress Prints and Photographs Division.
+            Photo of Dorothea Lynde Dix from https://en.wikipedia.org/wiki/Dorothea_Dix#/media/File:Dorothea_Dix_1802%E2%80%931887.jpg
+        
 
       
         `,
-        photos: ["images_bios/Dorothea%20Dix%20LOC.gif"],
-        photoTitles: [],
+        photos: ["images_bios/Dorothea_Dix.jpg"],
+        photoTitles: ["Half-plate daguerreotype of Dorothea Dix, c. 1849"],
         dateCreated: "prior to 2009",
         dateUpdated: "",
 
@@ -838,12 +872,15 @@ d_bios = [
             and began to work with Henry A. Murray and Abram Kardiner. She then taught at
             Hunter College and began ethnographic field work in Alor, Indonesia During World
             War II, she worked with the Office of Strategic Services as research chief
-            of the Indonesia Section.and then with the State Department (1943-1949). <br><br>In
+            of the Indonesia Section.and then with the State Department (1943-1949). 
+            
+            <br><br>In
             
 
             1954, she was offered the Radcliffe College Zemurray Professorship and taught
             in the Department of Anthropology and the Department of Social Relations at
-            Harvard until 1970, becoming the second woman to be tenured at Harvard. Her
+            Harvard until 1970, becoming the second woman to be tenured at Harvard. She lived at 20 Coolidge Hill Road,
+            across from the Mt. Auburn Cemetery. Her
             field work continued in both Indonesia and India, where she studied sociocultural
             change at an Indian temple city and supervised a number of Harvard doctoral
             theses. In 1970, she retired from Harvard and went to Cornell where she remained
@@ -852,7 +889,8 @@ d_bios = [
         otherNotes: "",
         references: `
             Ogilvie, Marilyn and Joy Harvey. Biographical Dictionary
-            of Women Scientists. Routledge Press, 2000
+            of Women Scientists. Routledge Press, 2000<Br>
+            Cambridge City Directory, 1968
         `,
         photos: ["images_bios/Cora_Du_Bois_(cropped).jpg"],
         photoTitles: [],
@@ -899,8 +937,8 @@ d_bios = [
             Committee's <em>PeaceWork</em> and the Buddhist Peace Fellowship's, <em>Turning
                 Wheel</em>. Her book on writing for social change: <em>Undoing the Silence:
                 Six Tools for Social Change Writing</em> was published in November 2007 by New
-            Village Press. (http://www.undoingsilence.org)<br>
-            Louise Dunlap. Photo by Skip Schiel
+            Village Press. <br>
+            
 
         </p>
         <p> Since
@@ -922,10 +960,11 @@ d_bios = [
             &#8220;Hiroshima Flame at New York's Ground Zero&#8221; <em>PeaceWork</em>,
             September 2002<br>
             Vanessa E. Jones &quot;The way of oneness&quot;<br>
-            <em>Boston Globe</em> April 19, 2006
+            <em>Boston Globe</em> April 19, 2006<Br>
+            <a href="http://www.undoingsilence.org">http://www.undoingsilence.org</a>
         `,
         photos: ["images_bios/Louise%20Dunlap.jpg"],
-        photoTitles: [],
+        photoTitles: ["Louise Dunlap. Photo by Skip Schiel"],
         dateCreated: "00.00.2018",
         dateUpdated: "",
 
@@ -945,7 +984,7 @@ d_bios = [
         middleName: "Glover",
         familyName: "Harris",
         
-        title: `First Proprietor of a Printing Press in America -1638`,
+        title: `First Proprietor of a Printing Press in America`,
         birthDate: "ca.1600",
         birthLocation: "England",
         deathDate: "08.00.1643",
@@ -970,8 +1009,8 @@ d_bios = [
             the printing press (later to become the Cambridge Press), that printed the first
             books in the colonies, <em>The Whole Book of Psalmes</em>, <em>The Liberties
                 of the Massachusetts
-                Colonie in New England</em> (now in the Boston Athenaeum), and the <em>Almanack</em> for the
-            Years of <em>1639</em>, <em>40</em>, and <em>41</em>. <br>
+                Colonies in New England</em> (now in the Boston Athenaeum), and the <em>Almanack</em> for the
+            Years of <em>1639</em>, <em>1640</em>, and <em>4161</em>. <br><Br>
             In 1641, Elizabeth Glover married Henry Dunster, president of Harvard from
             1640-1654,
             who took over the supervision of the printing business upon her death in 1643.

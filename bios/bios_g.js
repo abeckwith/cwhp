@@ -119,19 +119,21 @@ g_bios = [
         narrative: `
             Goddard-Cambridge, an extension of the parent program of Goddard College in
             Vermont, had several locations throughout Cambridge and eventually found its home at 186 Hampshire Street.
-            Throughout Goddard-Cambridge&rsquo;s history, programs offered included: Feminist Studies, Imperial U.S. at
-            home and abroad, Third World Studies, and U.S. Social &amp; Cultural Studies. <Br><Br>Students participated in both
+            Throughout Goddard-Cambridge&rsquo;s history, programs offered included: <i>Feminist Studies, Imperial U.S. at
+            Home and Abroad, Third World Studies</i>, and <I>U.S. Social &amp; Cultural Studies</i>. 
+            
+            <Br><Br>Students participated in both
             faculty led and student-developed research and earned a Masters in Arts within one year for between $1500 -
             $2500. The &ldquo;People&rsquo;s Council&ldquo; made up of faculty and students, governed the school and
-            decided on internal policy issues. Goddard&rsquo;s Mission states: &ldquo;It will provide the training and
+            decided on internal policy issues. Goddard&rsquo;s Mission stated: <blockquote>&ldquo;It will provide the training and
             certification for those interested in combining the theory and practice of social change; for those whose
             educational goals cannot be pursued in the established universities and conventional graduate programs; and
-            for those presently engaged in social action who desire to deepen their intellectual resources.&rdquo;
-            Student projects included titles such as: &quot;Black Women &amp; American Society, Corporate Power &amp;
+            for those presently engaged in social action who desire to deepen their intellectual resources.&rdquo;</blockquote>
+            Student projects included titles such as: Black Women &amp; American Society, Corporate Power &amp;
             The Issues of Women, Design for a Community Mental Health Course, Feminist Writing Workshop, Lesbian
             Culture, Media: The Information Industry, Pawnee Women: Speaking for Ourselves, Prostitution As A Form of
             Female Labor, Study of Menopause, Theory and Practice of Feminist Journalism, Towards a Feminist Theory of
-            Sexuality, Women &amp; Therapy, and Women &amp; Traditional Music.&quot;<br><Br>
+            Sexuality, Women &amp; Therapy, and Women &amp; Traditional Music.<br><Br>
             In 1970 the school hosted its first women&rsquo;s history ovular (Goddard's feminist word
             for seminar), taught by Linda Gordon, who became a nationally recognized historian. The group met twice a
             week for 3-5 hours and held the motto &ldquo;make the invisible visible.&rdquo; The program officially
@@ -194,8 +196,9 @@ g_bios = [
             and attended Hewlett High School in Hewlett, New York, graduating in 1961. She
             attended both Sarah Lawrence College in Bronxville, New York, and Columbia University
             in New York City, but dropped out of both schools before obtaining her degree.
-            She has married twice and is divorced. She has one son. She lives and works
+             She has one son and lived  and worked
             in Cambridge part of each year.<br><Br>
+
             In 1986, her first book of poetry <em>Firstborn</em>
             was published and received the Academy of American Poet's Prize. This collection
             was known for its variety of first-person personae, all disaffected or angry.
@@ -206,7 +209,9 @@ g_bios = [
             won the National Book Critics Circle Award, The <em>Boston Globe</em> Literary
             Press Award, and the Poetry Society of the America's Melville Kane Award. In
             1990, her fifth book was published entitled <em>Ararat</em>, which won the Rebekah
-            Johnson Bobbitt National Prize for Poetry. <Br><Br>She began to write long poems with
+            Johnson Bobbitt National Prize for Poetry. 
+            
+            <Br><Br>She began to write long poems with
             sequences connecting to tell a single story. <em>Ararat</em> deals with a family
             of three women in the aftermath of the death of a husband and a father. Her
             next book written as a series of poems, <em>Wild Iris</em>, was published in
@@ -215,7 +220,9 @@ g_bios = [
             poetry, <em>Meadowlands</em>, written in 1996, <em>Vita Nova</em> in 1999, and
             The Seven Ages in 2001. She also wrote a book of essays on poetry entitled <em>Proofs
                 and Theories: Essays on Poetry</em> in 1994, that won the PEN/Martha Albrand
-            Award for Nonfiction.<br><Br>
+            Award for Nonfiction.
+            
+            <br><Br>
             In addition to her other awards, Louise received
             the Bollingen Prize for Poetry in 2001, a Lannan Literary Award for Poetry,
             Boston Book Review's Bingham Poetry Prize, a Rockefeller Fellowship, a Guggenheim
@@ -273,7 +280,7 @@ g_bios = [
             New York to Samuel and Rebecca (Perkis) Schaeffer. She attended high school
             in Queens and then married her high school sweetheart, Robert Goodman at the
             age of eighteen with whom she had two daughters, Sarah Anna and Julia Helen.
-            The couple moved to the Cambridge area, and Miriam studied English at Brandeis
+            The couple moved to the Cambridge area (11 Donnell Street), and Miriam studied English at Brandeis
             University. <Br><Br>After a decade, the couple divorced. Miriam pursued her love of
             poetry by joining poetry workshops and working with the Cambridge poetry collective,
             Alice James Books, from the early 1970s to
@@ -311,7 +318,7 @@ g_bios = [
             Miriam Goodman died at Chilton House, Cambridge at the age of 69. A memorial
             exhibition &#8220;After a Certain Age&#8221; featuring her photographs and her
             commentary was mounted at the Griffin Museum of Photography on May 12, 2009.
-            Debi Milligan `,
+            `,
         otherNotes: "",
         references: `
             Obituary, <em>The Boston Globe</em> , May 14, 2008 <br>
@@ -321,7 +328,8 @@ g_bios = [
             Leslie Lawrence &#8220;Miriam Goodman, Poet, 1938-2008&#8221; We Remember, Jewish
             Women's Archive website<br>
             Miriam Goodman online web site<Br>
-            Press release, Griffin Museum of Photography, April 2, 2009
+            Press release, Griffin Museum of Photography, April 2, 2009<Br>
+            <i>The Cambridge Chronicle</i>, Volume 135, Number 15, 9 April 1981
         `,
         photos: ["images_bios/MiriamGoodman1.jpg"],
         photoTitles: [],
@@ -429,7 +437,7 @@ g_bios = [
             children of Charles B. Postell and Roberta (Betts) Postell. She attended public
             schools in Cambridge, the University of Massachusetts and Harvard University
             Extension. She married at a young age, but by the late 1960s, Saundra was divorced
-            and continued to raise her five children as a single parent. <br><Br>
+            and continued to raise her five children as a single parent. She lived at 5 Putnam Gardens, near Western Avenue.<br><Br>
             In 1968, Saundra became a member of the Board
             of Directors of the Cambridge Community Center. In 1970, she served as president
             of the Riverside Planning Team and in 1971, as one of the founders and the president
@@ -487,6 +495,7 @@ g_bios = [
         references: `
             Graham and Parks Alternative School web site<br>
             <em>Metropolis Magazine</em>, Harvard inc., 2001<br>
+            Cambridge City Directory, 1972
         `,
         photos: ["images_bios/Saundra_Graham.png"],
         photoTitles: [],
@@ -594,8 +603,8 @@ g_bios = [
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Suzanne Revaleon Green, born in 1912 to
-            James Albert Revaleon and Ruby Higginbotham, was a lifelong resident of Cambridge
-            She lived at 9 Worcester Street, the house in which she grew up. A former teacher,
+            James Albert Revaleon and Ruby Higginbotham, was a lifelong resident of Cambridge.
+            She lived at 9 Worcester Street at a home in The Port neighborhood. A former teacher,
             she was known for her keen love for and knowledge of history. The Revaleon family
             has an interesting history and is highlighted in <em>Twenty Families of Color
                 in Massachusetts, 1742&#8211;1998</em> by Frank Dorman.<br><Br>

@@ -38,10 +38,11 @@ e_bios = [
             Public Health Association's Sedgewick Memorial Medal, in 1958. Soon after the
             war, Eliot was a member of the group that founded the World Health Organization,
             the only woman to sign its founding document. She left the Children's
-            Bureau to serve as assistant director general of W.H.O. in Geneva from1949 to1951.
+            Bureau to serve as assistant director general of W.H.O. in Geneva from 1949 to 1951.
             On her return, she was appointed chief of the Children's Bureau. When
             she left the Bureau in 1956, she became chair of the School of Public Health
-            at Harvard Medical School until her retirement in 1960. She introduced the use
+            at Harvard Medical School until her retirement in 1960, when she was living at 21 Francis Avenue
+            in Cambrige, near the Harvard Divinity School. She introduced the use
             of social workers into public health programs. <br><br>In 1964 the American Public Health
             Association established an annual award in her name to recognize her achievements
             in maternal and child health. In 1972, she was awarded the prestigious Howland
@@ -54,7 +55,8 @@ e_bios = [
             National Library of Medicine web site. <a
                 href="http://www.nlm.nih.gov/changingthefaceofmedicine/physicians/biography_99.html" target="_self">http://www.nlm.nih.gov/changingthefaceofmedicine/physicians/biography_99.html</a>
             <Br>Image source: <a href="https://en.wikipedia.org/wiki/Martha_May_Eliot">https://en.wikipedia.org/wiki/Martha_May_Eliot</a>
-                `,
+             <br>
+             <i>The Cambridge Chronicle</i>, 8 October 1959   `,
         photos: ["images_bios/martha_may_eliot.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
@@ -83,24 +85,30 @@ e_bios = [
             (Bourne) Bradshaw. She married Frank Louis Evelyn and had one son, Robert Evelyn.
             She worked for the City of Cambridge for forty years, including four years as
             secretarial assistant to Ken Reeves during his first two terms as mayor (1992-1996)
-            and as a secretary in the auditor's office for 15 years. <br><br>Evelyn has served
+            and as a secretary in the auditor's office for 15 years. 
+            
+            <br><br>Evelyn has served
             on the boards of the YWCA, the Margaret Fuller House, CASPAR, and Family and
             Children Services. She has been an influential member of St. Paul AME Church
             for more than 50 years, and has served as a trustee on the Board of Trustees
             for 38 years. As church historian for 40 years, she researched and wrote two
             books marking St. Paul's 105th and 110th anniversaries. Evelyn is one
-            of the founders of the Black Heritage Trail in Cambridge. <br><br>Zelma Evelyn has been
+            of the founders of the Black Heritage Trail in Cambridge. 
+            
+            <br><br>Zelma Evelyn has been
             recognized with numerous awards for her community and church involvemen, including
             a &#8220;Friend of the Library&#8221; award, the Sojourner Truth Award, the
             Pillar of Strength award, Tribute to Exceptional Women Award, and the Cambridge
             NAACP &#8220;Drum Major for Justice&#8221; Award, when she was praised as &#8220;our
             Rosa Parks&#8221; and &#8220;the jewel of the city.&#8221; Evelyn Square, at
             the corner of Walden and Garden streets, was dedicated to Zelma Olivia Evelyn
-            and her late husband, Frank Louis Evelyn, on June 13, 2009.`,
+            and her late husband, Frank Louis Evelyn, on June 13, 2009. They had lived at 300 Walden Street
+            for many years.`,
         otherNotes: "",
         references: ` <em>Cambridge Chronicle, </em>January 20, 2005;
             Cambridge Public Library <em>Annual Report</em> FY99
-            <br>Image source: <em>Boston Globe</em>, Aug. 17, 2011
+            <br>Image source: <em>Boston Globe</em>, Aug. 17, 2011<br>
+            Cambridge City Directory, 1972
         `,
         photos: ["images_bios/ZelmaEvelyn.png"],
         photoTitles: [],

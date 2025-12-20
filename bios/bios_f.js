@@ -87,18 +87,13 @@ f_bios = [
                 speaker series, &ldquo;Families in Focus,&rdquo; that touched on topics of feminist thinking and relational 
                 perspectives. CEU&rsquo;s were offered to practitioners.<br><br>
             As members joined and left the practice, a core group emerged who offered general psychotherapy and support on 
-            issues that were often marginalized or stigmatized, such as infertility and adoption, <br><br>
+            issues that were often marginalized or stigmatized, such as infertility and adoption, 
             lesbian and gay support, grief and bereavement after suicide, sexual addiction, and early childhood emotional 
-            development. In the 1990s, Focus moved away from an economic collective to a group practice model but stayed 
+            development. In the 1990s, focus moved away from an economic collective to a group practice model but stayed 
             in community with one another through supervision meetings, shared office space, business meetings, and a 
             shared commitment to provide quality psychotherapy services within a feminist perspective.<br><br>
-            <strong>Shifts in Theory &amp; Practice</strong> - Throughout history, women have been pathologized and sent 
-            to psychiatric hospitals at significantly higher rates than men. Women&rsquo;s emotions were often seen as deficits
-            rather than strengths; a pathology rather than a reaction to oppression. During the 1970s, new theories and 
-            perspectives emerged, which worked to validate women&rsquo;s psychology and brought about a shift in therapeutic 
-            practices, particularly for women. Feminist Theory was being integrated into psychotherapy practices. These once 
-            radical theories conceptually termed, &ldquo;Relational or Self-in-Relation Theory&rdquo; by Jean Baker Miller 
-            and her colleagues at the Wellesley College Stone Center, are now integrated into mainstream psychology practice.<br>
+            
+          
   `,
         otherNotes: "",
         references: `Written by Kimm Topping, printed in <em>Mapping Feminist Cambridge</em> guidebook, 2019: <a href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf" target="_self">https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a><br>
@@ -264,7 +259,7 @@ f_bios = [
     York Tribune</em>. During this period, she published her most influential book, 
     <em>Woman in the Nineteenth Century</em> (1845). Two years later, she was given 
     the opportunity to travel to Europe as the <em>Tribune</em>'s foreign 
-    correspondent. </p><br><br>
+    correspondent. <br><br>
 In 
     England, she met many famous literary men and women and the Italian exile and 
     republican revolutionary, Giuseppi Mazzini. She traveled on to France and then 

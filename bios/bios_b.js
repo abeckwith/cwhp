@@ -425,7 +425,7 @@ b_bios = [
             
 
             <em>Poems of Places</em> in a series of small volumes between 1875 and 1878,
-            making ten translations for the work. She also edited the <em>Longfellow Birthday-Book</em>
+            making ten translations for the work. She also edited the <em>Longfellow Birthday-Book</em>.
             She is best known for <em>The Seven Voices of Sympathy</em> (1881) a compilation
             of Longfellow's prose and poetry. She issued a selection of poems from English
             and American authors in the <em>Cambridge Book of Poetry and Song</em> (1882).
