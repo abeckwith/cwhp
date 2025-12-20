@@ -75,12 +75,12 @@ d_bios = [
         references: `<em>Teaching Tolerance</em> magazine Number
             24, Fall 2003.
         `,
-        photos: [""],
-        photoTitles: [],
+        photos: ["images_bios/dandelion.png"],
+        photoTitles: ["November 28, 1985 Cambridge Chronicle ad"],
         dateCreated: "prior to 2009",
         dateUpdated: "",
 
-        photoHeights: [],
+        photoHeights: ["200"],
         editors:"",
         authors: "CWHP volunteers",
         categories: ["Educational Institution/School"],
@@ -202,8 +202,8 @@ d_bios = [
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
             In 1992, Sybill d'Arbeloff was the first
-            women to be elected chairman of the board of a Harvard Teaching Hospital. Served
-            as the director of development of Mt. Auburn Hospital. A trustee of the hospital
+            women to be elected chairman of the board of a Harvard Teaching Hospital and served
+            as the director of development of Mount Auburn Hospital. A trustee of the hospital
             since 1986, she continually demonstrated her commitment to the hospital and
             community service. <br><br>In addition to her contributions to Wheaton College and Mt
             Auburn Hospital, she served as a member of Cambridge Community Foundation. She

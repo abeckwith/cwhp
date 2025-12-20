@@ -271,7 +271,7 @@ c_bios = [
             daughters and one son. In spite of her family responsibilities, running an academic
             household and raising five children, she became an important writer, contributing
             articles on social and economic subjects to Harper's, Atlantic Monthly, and
-            North American Review. In 1928 she published a novel, Red Rust, that became
+            North American Review. In 1928 she published a novel, <i>Red Rust</i>, that became
             a best-seller. In this, she described the Swedish immigrant farmers of rural
             Minnesota from the area in which she had been raised.  <br> <br>In order to have privacy
             for her writing, she had the habit of hiding in the bathroom or in her car,
@@ -279,7 +279,7 @@ c_bios = [
             in a memoir, <em>Snatched from Oblivion</em>. `,
         otherNotes: "",
         references: `Marion Cannon Schlesinger, <em>Snatched from Oblivion</em>,
-            Little Brown (1997); <br>
+            Little Brown (1997)<br>
             Cambridge Public Library &#8220;Penwomen of Cambridge Past: Biographies
             of Our Literary Foremothers&#8221;<Br>
                 Image source: <a href="https://en.wikipedia.org/wiki/Cornelia_James_Cannon" target="_self">
@@ -375,7 +375,7 @@ c_bios = [
             informally for a year.  <br> <br>In May 1969, the group took the name &#8216;Cell 16&#8221;
             to emphasize that they were only one cell of an organic movement and in reference
 
-            its original meeting address, 16 Lexington /Ave. The group began to publish
+            its original meeting address, 16 Lexington Avenue. The group began to publish
             a magazine, <em>No More Fun and Games; A Journal of Female Liberation</em>.
             The Female Liberation group grew out of Cell 16. Its most important contribution
             was its publication of the magazine <em>The Second Wave Magazine: A Magazine
@@ -424,11 +424,9 @@ c_bios = [
             founded by Sister Rose Marie Cummins (then attached to Saint
             Mary's Catholic
             Church), members of the Salvadoran immigrant community, and members of the legal
-            community in Cambridge. The current address is 54 Essex St., 2nd Floor in Cambridge
-            but the youth program is based in East Somerville. <br><br>The organization recently
-            honored its founder and the past directors, Frank Sharry and Oscar Chacon at
-            the twenty-fifth anniversary party. 
-           <br> `,
+            community in Cambridge. The current address is 54 Essex Street in Central Square in Cambridge
+            but the youth program is based in East Somerville. 
+           `,
         otherNotes: "",
         references: `Un Encuentro con Centro Presente (A discussion
             at Cambridge Community Television) <Br>
@@ -668,25 +666,26 @@ c_bios = [
                 contacts. It was a leader in advocating for more public and private resources for child care, including
                 state funded vouchers for low income families and employer-sponsored child care and services for
                 employees. Its Multicultural Project promoted non-discriminatory practices in early childhood settings
-                and became independent with a Rockefeller Foundation grant.<br>Cambridge Chronicle, 18 November 1971
-            The Child Care Resource Center archive is housed at Schlesinger
-            Library, Radcliffe Institute.
+                and became independent with a Rockefeller Foundation grant.<br>
             `,
         otherNotes: "",
-        references: `Written by Kimm Topping, printed in Mapping Feminist Cambridge guidebook, 2019:
+        references: `Written by Kimm Topping, printed in Mapping Feminist Cambridge guidebook, 2019<br>
             <a href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf" target="_self">
                 https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf
             </a><br>
-            <strong>Photo: </strong>Cambridge Chronicle, 18 November 1971
+            <strong>Photo: </strong>Cambridge Chronicle, 18 November 1971<br>
+            Cambridge Chronicle, 18 November 1971<Br>
+            The Child Care Resource Center archive is housed at Schlesinger
+            Library, Radcliffe Institute.
 
         `,
         photos: ["images_bios/ccrc.png"],
         photoTitles: [],
-        dateCreated: "prior to 2019",dateUpdated:
- "",
+        dateCreated: "prior to 2019",
+        dateUpdated:"12.20.2025",
 
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: [
             "Childcare Provider",
@@ -700,25 +699,39 @@ c_bios = [
         middleName: "",
         familyName: "",
         
-        title: `Women-owned Restaurant and Feminist Gathering Place, 204 Hampshire Street<br>Founded 1997`,
+        title: `Women-owned Restaurant and Feminist Gathering Place<br>Founded 1997`,
         birthDate: "",
         birthLocation: "",
         deathDate: "",
         deathLocation: "",
         narrative: `
 
-            City Girl Cafe was a favorite gathering place for local feminists. The
-            restaurant, which opened in Inman Square in 1997, offered Italian lunch, dinner, and catering. Merry Moscato
-            and Cheryl Schwartz started it as a catering service, &lsquo;City Girl Gourmet Cafe,&rsquo; in 1993. <br><br>Merry
-            Moscato (nicknamed &ldquo;city girl&rdquo; by her brothers) graduated from the Cambridge School of Culinary
-            Arts and partnered with Schwartz. In 2008, the cafe was purchased by Khavala Macken-Fraizer (also the head
+            City Girl Cafe was a favorite gathering place for local feminists and activist. Located at 204 Hampshire Street in Inman Square, the
+            restaurant in 1997, offered Italian lunch, dinner, and catering. Merry Moscato
+            and Cheryl Schwartz started it as a catering service, <I>City Girl Gourmet Cafe</i> in 1993. Moscato had been 
+            nicknamed &ldquo;city girl&rdquo; by her brothers and was a graduate of the Cambridge School of Culinary
+            Arts in North Cambridge.
+            <br><br>The social and activist 
+            nature of the cafe was inspired by The Saints Collective, which Moscato and Schwartz had previously been members of.
+            The Saints Collective was a group started in 1972 and assocated with The Saints Bar in Boston,
+            where women would gather to socialize and to organize demonstrations. The also helped educate the local LGBTQ community about
+            their legal rights after government attempts to infiltrate lesbian organizations and 
+           the FBI's arrest of Brandeis student and lesbian activit Susan Saxe.
+            
+            <br><br>Merry
+             In 2008, the cafe was purchased by Khavala Macken-Fraizer (also the head
             chef) with her friend, Lauren Anderson. Khavala and Lauren maintained the restaurant&rsquo;s original name
             and much of the menu.
             `,
         otherNotes: "",
         references: `Written by Kimm Topping, printed in <em>Mapping Feminist Cambridge</em>
             guidebook, 2019: <a
-                href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a>
+                href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">
+                https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a><Br>
+                <a href="https://historycambridge.org/articles/businesses-well-lived-city-girl-cafe/">
+                History Cambridge article on City Girl Cafe</a><Br>
+                THE HISTORY PROJECT: Documenting Documenting LGBTQ Boston <a href="https://www.facebook.com/watch/?v=10154900501831931">
+                Facebook post</a>
 
         `,
         photos: [
@@ -726,11 +739,10 @@ c_bios = [
         ],
         photoTitles: [],
         dateCreated: "00.00.2008",
-        dateUpdated:
-          "",
+        dateUpdated:"12.20.2025",
 
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: [
             "Business or Service Provider (Women-Owned, Feminist)",
@@ -743,7 +755,7 @@ c_bios = [
         middleName: "",
         familyName: "",
         
-        title: `Women Owned Pottery Business and Collective`,
+        title: `Women Owned Pottery Business and Collective, founded in 1976`,
         birthDate: "",
         birthLocation: "",
         deathDate: "",
@@ -751,11 +763,12 @@ c_bios = [
         narrative: `
 
             Clayground was co-owned and created by Annie Hoffman and Carole Ann Fer as a
-            &ldquo;socialistic&rdquo; pottery business. The collective offered pottery at lower prices, had flexible
+            &ldquo;socialistic&rdquo; pottery business on Hampshire Street. <Br><Br>The collective offered pottery at lower prices, had flexible
             hours, and connected with other women&rsquo;s organizations in the neighborhood by creating commemorative
             platters and pottery, like anniversary pottery for New Words Bookstore. It also offered workshops and
             apprenticeships to women and became involved in the wider Cambridge community by creating banners for the
             AIDS quilt and Mel King, a well known Boston politician and community organizer. <br><br>
+
             Annie and Carole met at Mudflat (a woman-owned pottery studio now located in
             Somerville) in 1970 and began selling pottery on the streets until they had the idea to open a storefront.
             In 1976, they rented 97 Hampshire Street until they purchased their permanent home at 91 Hampshire Street in
@@ -763,6 +776,7 @@ c_bios = [
             Hoffman, reflects on the experience as deeply formative. &ldquo;We were making vessels. The body is a
             vessel, and a house is an outer vessel, so learning how to renovate a space was essential and empowering for
             us as women.&rdquo;<br><br>
+
             The space is still owned by Annie Hoffman and is now a yoga and expressive
             arts studio named Art &amp; Soul.<br>
           
@@ -996,7 +1010,7 @@ c_bios = [
         deathLocation: "",
         narrative: `
             <br>Originally from Louisville, Kentucky, Sister Rose Marie Cummings
-            joined the Dominican order soon after graduation. Sister Rose visited Puerto
+            joined the Dominican Order soon after graduation. Sister Rose visited Puerto
             Rico from 1966 to 1971 and fell in love with the island. <br><br>She worked in Massachusetts
             from 1972 to 1999. In the mid 1970s, she worked in Framingham, Massachusetts as a bilingual
             counselor in the public school system. She was very active in the Sanctuary
@@ -1004,8 +1018,8 @@ c_bios = [
                 Presente in 1981 during the period that she was attached to Saint Mary's
             Catholic Church in Cambridge. She worked for six years as co-director of Centro
             Presente and for three years at Saint Francis House doing immigration work with
-            homeless and low-income people from around the world. Recently, Sister Rose
-            moved back to her home state of Kentucky where she is the director of the Dominican
+            homeless and low-income people from around the world. Sister Rose eventually
+            moved back to her home state of Kentucky where she became the director of the Dominican
             Earth Center in Springfield (founded in 1997), a ministry of the Dominicans
             of St. Catharine, Kentucky that encourages a philosophy and lifestyle of sustainable
             living that benefits our environment and those who inhabit it. 

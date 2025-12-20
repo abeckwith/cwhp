@@ -472,7 +472,7 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
         Book Association <br>
         Ali Kazam , &#8220;<i>Beacon Voices: Jo Pitkin</i>&#8221; Beacon Dispatch, Issue 28,
         December 2006, January 2007<br>
-        <a href="www.alicejamesbooks.org">www.alicejamesbooks.org</a><br>
+        <a href="http://www.alicejamesbooks.org">www.alicejamesbooks.org</a><br>
         Image courtesy of Alice James Books
     `,
         photos: ["images_bios/alice james books.jpg"],
@@ -490,8 +490,8 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
         organization: false,
         lastName: "Alleyne",
         firstName: "Corinne",
-        middleName: "Woodson",
-        familyName: "",
+        middleName: "Helen",
+        familyName: "Woodson",
         
         title: `Registered Nurse and Oral Historian`,
         birthDate: "00.00.1907",

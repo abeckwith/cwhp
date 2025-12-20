@@ -248,8 +248,8 @@ b_bios = [
         organization: false,
         lastName: "Barnes",
         firstName: "Mary",
-        middleName: "West",
-        familyName: "",
+        middleName: "",
+        familyName: "West",
         
         title: `Pilot, community leader`,
         birthDate: "08.16.1920",
@@ -932,7 +932,7 @@ b_bios = [
             by maternal grandparents in Great Village, Nova Scotia. As a child she suffered
             from various physical and nervous ailments that made it difficult for her to
             walk and limited her early schooling. She went to boarding schools in Swampscott,
-            and Natick where she contributed to the school newspapers. She attended Vassar
+            and Natick where she contributed to the school newspapers. <br><Br>She attended Vassar
             College where, in addition to working for<em> The Vassar Miscellany</em>, the
             school newspaper, she was one of the founders of the Vassar literary magazine
             <em>Con Spirito</em> which endorsed socially conscious and avant-garde writing.
@@ -1224,14 +1224,16 @@ b_bios = [
 
             Alice Boring was born to Elizabeth and Edwin Boring
             and educated at Bryn Mawr where she obtained both undergraduate (B. A. 1904)
-            and graduate degrees (M.A. 1905, Ph.D. 1910). <br><br>She studied genetics with Thomas
+            and graduate degrees (M.A. 1905, Ph.D. 1910). <br><br>
+            
+            She studied genetics with Thomas
             Hunt Morgan and Nettie Stevens and in the summers, regularly worked at the Oceanographic
             Institute at Woods Hole in Massachusetts. She taught at the University of Pennsylvania
             while working on her PhD and then, briefly at Vassar. After obtaining her degree
             she went to the University of Maine where she rose from instructor to associate
             professor by 1913 where she remained until 1918, teaching and publishing on
             genetics. In that year, she went as a visiting professor to the Peking Union
-            Medical College in China. This was to change her life. She briefly returned
+            Medical College in China. This was to have a major impact on her life. <Br><Br>She briefly returned
             to the United States where she taught biology for three years at Wellesley College,
             but chose to return to China in 1923. She remained there for the rest of her
             professional life as professor of biology at Yenching University, educating
@@ -1665,7 +1667,7 @@ b_bios = [
             laboratories at Massachusetts General Hospital investigating peripheral nerve
             damage and muscular function using the electroenecephalograph as a diagnostic
             tool. After the war, she moved to Massachusetts Institute of Technology where
-            she worked with Norbert Wiener and others until1960, using computers to analyze
+            she worked with Norbert Wiener and others until 1960, using computers to analyze
             her EEG data. She then moved to the University of California Brain Research
             Institute soon after it was created and was named Professor of Anatomy. Besides
             numerous scientific articles in her field, she published a number of books on
@@ -1970,10 +1972,10 @@ b_bios = [
             with a degree in physics and obtaining her Ph.D. from University of Wisconsin
             in 1934. <br><br>Her early papers on color variations in the bacterium <em>Serratia
                 marcescens</em> were significant studies in microbial genetics. In 1937 she
-            married Henry Bunting .She taught biology at a number of colleges, including
+            married Henry Bunting. She taught biology at a number of colleges, including
             Bennington, Gaucher, Yale, and Wellesley. After the death of her husband in
             1954, she took an administrative position at Douglass College for Women, Rutgers
-            University in 1955. She was named president of Radcliffe College in 1960 and
+            University in 1955. She was named president of Radcliffe College in Cambridge in 1960 and
             held that position until 1973. As president, she made a number of significant
             changes at Radcliffe. During her tenure, Radcliffe students first received Harvard
             degrees, women were admitted to the graduate and business schools, and the Radcliffe
