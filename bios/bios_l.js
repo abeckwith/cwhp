@@ -16,7 +16,7 @@ l_bios = [
             Ladd grew up in Washington, D.C. Her father was clerk of the local board of
             education. She became interested in psychology as a teenager, when she typed
             papers for her mother, who was preparing herself to be a teacher in special
-            education. Florence attended Howard University, graduating in 1953 with a major
+            education. <Br><Br>Florence attended Howard University, graduating in 1953 with a major
             in psychology. She spent a semester in France and Switzerland studying psychological
             testing procedures. She went on to do graduate work in social psychology at
             the University of Rochester, receiving a Ph.D. in 1958. <br><br>
@@ -346,7 +346,9 @@ l_bios = [
             Aides. She completed the class work and upon entering the next phase of the
             course, she was assigned to cleaning the supply closets. She, supported by the
             members of her class, objected and she was subsequently assigned to the patient
-            care work for which she had been trained. Emily took every opportunity for training
+            care work for which she had been trained. <br><Br>
+            
+            Emily took every opportunity for training
             and to increase her knowledge and eventually joined the staff of the Allerton
             Hospital in Brookline in the OBS delivery room. Her care and concern for her
             patients led to such esteem for her that several patients named their daughters
@@ -471,7 +473,7 @@ l_bios = [
             burned down. Five years later, Maria joined a group of &#8220;well-educated
             and thinking women,&#8221; whom Margaret Fuller
             guided in her &#8220;Conversations.&#8221; The goal of these women was stated
-            to be: &#8220;What were we born to do and how shall we do it&#8221;? Maria was
+            to be: &#8220;What were we born to do and how shall we do it?&#8221; Maria was
             also a member of the &#8220;Band,&#8221; a club for Harvard students and their
             sisters. An ardent abolitionist, she worked to raise money for that cause and
             contributed poems to the abolitionist periodical, the Liberty Bell. <br><br>

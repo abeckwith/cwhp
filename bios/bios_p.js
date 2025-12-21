@@ -183,7 +183,7 @@ p_bios = [
             Cecelia Helena Payne was born in England at the
             turn of the century to Elena (Pertz) and Edward John Payne. She attended St.
             Paul's Girls School and then studied for her undergraduate degree at Newnham
-            College, University of Cambridge, England. In 1923, the year she finished, she
+            College, University of Cambridge, England. <Br><Br>In 1923, the year she finished, she
             joined the Harvard College Observatory. In 1925 she earned a Ph.D. in astronomy
             at Radcliffe College, the first person to obtain a Ph.D. in this subject from
             either Harvard or Radcliffe; she became part of the permanent staff of the observatory
@@ -326,7 +326,7 @@ p_bios = [
             Jewish War Veterans Ladies Auxiliary. <br><Br>
             Throughout her professional career, Sylvia Piltch pursued an extensive, pioneering
             career in physical therapy, founding the physical therapy department at Cambridge
-            Hospital. She continues to be involved in many community activities, leading
+            Hospital. She continued to be involved in many community activities, leading
             exercise classes for seniors at the Citywide Senior Center, the North Cambridge
             Senior Center, and the Cambridge Public Library. <Br><Br>In 1999, she was recognized
             by the Senior Volunteer Clearinghouse with an award in recognition of her volunteer

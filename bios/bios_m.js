@@ -18,10 +18,13 @@ m_bios = [
             death of her father, a World War II veteran, she decided to join the Navy Nurse
             Corps in 1967. With a Navy Nurse Corps officer candidate scholarship, she was
             able to study for her BS degree in Nursing at St. Anselm's College in
-            Manchester, New Hampshire. After graduation in 1969, she was assigned to the
+            Manchester, New Hampshire. 
+            
+            <Br><Br>After graduation in 1969, she was assigned to the
             naval hospital in Memphis Tennessee where she cared for injured servicemen returning
             from Vietnam. From there, she was assigned to a hospital in Naples, Italy until
             her release from active service in 1973. <br><br>
+
             As a reserve officer, then Lieutenant Majors,
             continued her education and obtained the degree Master of Science in Nursing
             as a Clinical Specialist in Medical Surgical Nursing at Boston University in
@@ -29,7 +32,9 @@ m_bios = [
             Nursing Services and Director of Training for a Naval Reserve Fleet Hospital
             in Florida, and held assignments in the offices of the Director of the Navy
             Nurse Corps, the Director of the Naval Reserve, and at the Bureau of Medicine
-            and Surgery and the Bureau of Naval Personnel. During the Gulf War (Operation
+            and Surgery and the Bureau of Naval Personnel. 
+            
+            <br><br>During the Gulf War (Operation
             Desert Shield and Storm), she served on special active duty as the first Reserve
             Special Assistant to the Chief Nurse at the National Naval Medical Center in
             Bethesda, Maryland where she assisted with the deployment of active duty staff
@@ -39,7 +44,7 @@ m_bios = [
             dental benefits for military service reservists and retirees. <br><br>
             Captain Majors retired from the Navy in March
             2011 and now serves as a volunteer as the Command Ombudsman for the Naval Operations
-            Support Center in Quincy, MA. She has served as a mentor to countless young
+            Support Center in Quincy, MA. She served as a mentor to countless young
             women and men at various stages in their military careers. She volunteers as
             the Navy Nurse Corps Advisor to the Navy Nurse Corps Option Midshipmen in the
             Boston Naval Reserve Officers Training Corps Consortium; as an interviewer for
@@ -51,10 +56,10 @@ m_bios = [
             Commendation Medal, the Navy and Marine Corps Commendation Medal, the Joint
             Service Achievement Medal, Meritorious Unit Commendation, National Defense Service
             Medal, Global War on Terrorism Medal, and the Armed Forces Service Medal.<br><br>
-            She has continued an active civilian life working
+            She continued an active civilian life working
             at the South Cove Community Health Center in Boston, an organization that serves
             over 25,000 primarily Asian patients with limited income and resources. Here
-            she has taken on the task of Director of Clinical Operations/Director of Nursing/Emergency
+            she took on the task of Director of Clinical Operations/Director of Nursing/Emergency
             Preparedness Coordinator, Quality Assurance and Quality Improvement Coordinator,
             and is the Coordinator of the bone density program.<br><br>
             Captain Mary Jo Majors was honored in November
@@ -275,7 +280,7 @@ m_bios = [
             Lorna Marshall wrote important studies on the
             !Kung tribe of Africa. She graduated with an English degree from the University
             of California, Berkeley, then taught English at Mount Holyoke College. In the
-            1920s, she married Lawrence Marshall, a co-founder of Raytheon Corporation,
+            1920s, she married Laurence Marshall, a co-founder of Raytheon Corporation,
             and settled in Cambridge, where they lived for many years. While her husband
             worked on magneton tubes used in radar for US and Allied ships during World
             War II, she helped integrate the Raytheon production lines. <br><br>In 1949, near the
@@ -304,9 +309,11 @@ m_bios = [
             notebooks 1943-1996, Peabody Museum, Harvard University<br>
             Elizabeth Marshall
             Thomas, <em>The Old Way, a Story of the First People</em> (2006)<br>
+            Book cover from <a href="https://peacefulsocieties.uncg.edu/societies/juhoansi/">
+            https://peacefulsocieties.uncg.edu/societies/juhoansi/</a>
         `,
-        photos: [""],
-        photoTitles: [],
+        photos: ["images_bios/marshall_lorna.jpg"],
+        photoTitles: ["Lorna Marshall's book about the !Kung people"],
         dateCreated: "prior to 2009",
         dateUpdated: "04.05.2025",
 

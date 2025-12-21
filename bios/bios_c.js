@@ -32,22 +32,11 @@ c_bios = [
             the
             neighborhood house expanded to offer industrial training and economics classes.
             As a result of lectures on hygiene and health, the Mothers' Club was organized
-            in
-            1896. The club was renamed
-            in
-            1902
-            as
-            the
+            in 1896. The club was renamed in 1902 as the
             Neighborhood
-            Women's
-            Club. <br><Br>
-            The Cambridge Neighborhood House began to involve
-            a
-            broader
-            group of women,
-            catering
-            to
-            working
+            Women's Club. <br><Br>
+            The Cambridge Neighborhood House began to involve a
+            broader group of women,  catering to   working
             class women of any ethnic background or religion. It served as an educational,
             social, and recreational center for nearly a hundred years. The house, which
             had been listed on the National Register of Historic Places to commemorate

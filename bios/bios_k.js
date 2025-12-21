@@ -12,11 +12,12 @@ k_bios = [
         birthLocation: "Nantucket, Massachusetts",
         deathDate: "06.04.1907",
         deathLocation: "Belmont, Massachusetts",
-        narrative: `Pheb Mitchell was born in Massachusetts
-            in about 1828. She and her sister Maria were largely educated by their father,
+        narrative: `Pheb Mitchell and her sister Maria were largely educated by their father,
             William Mitchell, a teacher, banker, and amateur astronomer. Phebe married Joshua
             Kendall, a private boys' school teacher, and moved to to Bristol, RI by 1860.
-            They later settled in Cambridge. By 1873, Joshua Kendall had opened his
+            They later settled in Cambridge.
+            
+            <Br><br>By 1873, Joshua Kendall had opened his
             own private school for boys at 13 Appian Way in Cambridge. The family lived
             at 123 Inman Street, a modest two-story wood frame house. Mr. Kendall operated
             Kendall's Day and Family School from 1873 until 1906. From 1898 to 1906, the
@@ -78,7 +79,7 @@ k_bios = [
         deathLocation: "Providence, Rhode Island",
         narrative: `
             The daughter of the renowned physicist George
-            B Kistiakowsky and his Swedish wife Hildegard Moebius, Vera was interested in
+            B. Kistiakowsky and his Swedish wife Hildegard Moebius, Vera was interested in
             science from childhood. She attended school in Massachusetts and Pittsburgh
             and then went to Mount Holyoke College as an undergraduate where she majored
             in chemistry and took pre-med courses. <br><br>Instead of going into medicine, she went

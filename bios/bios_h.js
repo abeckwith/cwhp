@@ -12,7 +12,7 @@ h_bios = [
         deathDate: "12.13.2006",
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
-            Photo by Nancy Scanlan. <br>
+           
             Isabella Halsted was the daughter of Charles Hopkinson,
             a Cambridge born portrait artist who painted over thirty members of the Harvard
             faculty, and Elinor (Curtis) Hopkinson, who was related to the Longfellow family.
@@ -46,7 +46,7 @@ h_bios = [
             corrections and additions by her children<br>
         `,
         photos: ["images_bios/Isabella%20Halsted%20small.jpeg"],
-        photoTitles: [],
+        photoTitles: ["Photo of Isabella Halsted by Nancy Scanlan"],
         dateCreated: "prior to 2009",
         dateUpdated: "",
 
@@ -68,7 +68,7 @@ h_bios = [
         deathDate: "09.22.1970",
         deathLocation: "Hadlyme, Connecticut",
         narrative: `
-            Born in Fort Wayne, Indiana to Gertrude (Pond)
+            Born in Fort Wayne, Indiana, to Gertrude (Pond)
             and Montgomery Hamilton, Alice was educated first at Miss Porter's School
             in Connecticut and then attended the University of Michigan Medical School,
             graduating in 1893 and interned at the Hospital for Women and Children in Minneapolis
@@ -554,12 +554,12 @@ h_bios = [
         narrative: `
             Cornelia Horsford was born in Cambridge, the daughter
             of Eben Norton Horsford, a professor of chemistry at the Lawrence Scientific
-            School, Harvard University and his second wife Phoebe (Gardiner). She attended
+            School, Harvard University, and his second wife Phoebe (Gardiner). She attended
             private schools in Cambridge and Boston. Her father, after making a fortune
             from the manufacture of baking powder, became an enthusiastic amateur archaeologist,
             convinced that Leif Erikson had landed in North America and resided along the
             Charles River. He purchased land and erected a tower and monument to this theory
-            in Weston Massachusetts at the junction of the Charles and Stony Brook Rivers. Just before
+            in Weston, Massachusetts, at the junction of the Charles and Stony Brook Rivers. Just before
             his death in 1893, he asked his daughter to carry on his work. <br><br>
             In subsequent years, Cornelia Horsford published his unfinished writings along
             with her own studies. In her essay &#8220;Graves of the Northmen,&#8221; published
@@ -947,7 +947,7 @@ h_bios = [
         deathDate: "04.01.1977",
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
-Born in Boston in 1886, Marjorie Hurd
+        Born in Boston in 1886, Marjorie Hurd
             was the daughter of Alfred Dennis Hurd and Louisa Maria (Coolidge) Hurd. Her
             father worked in publishing and insurance; her mother was an incorporator of
             the Salem Woman's Club when the family moved to Salem, Massachusetts in
@@ -956,9 +956,10 @@ Born in Boston in 1886, Marjorie Hurd
             today's Houghton Mifflin Company; her maternal grandfather, Horace Hopkins
             Coolidge, a leading Boston attorney and president of the Massachusetts Senate;
             and her uncle William Williamson Coolidge, an attorney and mountain climber.
-            As a girl, Marjorie attended the school kept by Bertha Hazard and Elizabeth
+           <br><Br> As a girl, Marjorie attended the school kept by Bertha Hazard and Elizabeth
             J. Woodward in Boston's Back Bay, &#8220;Miss B. M. Howe's&#8221;
             Hamilton Hall School on Salem's Chestnut Street, and Salem High School.
+
             <br><br>She entered Radcliffe College in Cambridge as a member of the Class of 1908
             to study history and economics. Her yearbook motto was: &#8220;I am not daunted,
             no; I will engage.&#8221;

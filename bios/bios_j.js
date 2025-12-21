@@ -18,13 +18,16 @@ j_bios = [
             of the Norcom family. In order to avoid the sexual attentions of her new owner &#8220;Dr
             Flint&#8221;, she formed a liason with a white man and bore him two children
             but became fearful of their future when her lover &#8220;Mr Sands&#8221; (a
-            future congressman) failed to free her children. She escaped from her lover's
+            future congressman) failed to free her children.<Br><br>
+            
+            She escaped from her lover's
             house in 1835 and spent the next seven years hiding in an attic above the storeroom
             in the house of her grandmother (a freed slave) and coming out only to see
             her children who lived in the house. During this period of hiding, she read,
             wrote and sewed. In 1842, Jacobs seized the opportunity to flee to New York
             City, where she worked as a nursemaid and saved money to arrange for her children's
             freedom. <br><br>
+
             Harriet, having bought her children's freedom,
             moved to Boston with them in 1845. In 1849, she moved to Rochester, and then
             to New York City to which
@@ -89,13 +92,17 @@ j_bios = [
             Born in Cranston, Rhode Island, Sarah Sprague
             Jacobs was the eldest child of the Reverend Bela Jacobs and Sarah (&#8220;Sally&#8221;)
             Sprague Jacobs. Rev. Jacobs was the first pastor of the First Baptist Church
-            at 5 Magazine Street; he occupied the pulpit there from 1818 to 1833. In 1835,
+            at 5 Magazine Street; he occupied the pulpit there from 1818 to 1833. <br><Br>
+            
+            In 1835,
             he became pastor of the new Second Baptist Church, but died tragically in May
             1836, aged 51, when he was thrown from a carriage. In 1837, Sarah Jacobs published
             a memoir of her father. She also wrote many poems published in various sources,
             as well as a number of books for young people, including Nonantum and Natick
             (Boston 1853), a history of the Indian tribes of New England and the missionary
-            work of John Eliot among the Indians. <br><br>
+            work of John Eliot among the Indians. 
+            
+            <br><br>
             From 1818 to 1909, the Jacobs family resided at
             19 Pleasant Street, a sizable wood-frame house built for the Rev. Jacobs. After
             he died, his widow and children continued to live there; later, nieces and nephews
@@ -164,7 +171,7 @@ j_bios = [
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Grace Allen Fitch was born in Indiana to Elizabeth
-            Harriet (Bennett) and Appleton Howe Fitch who were from New England Grace Fitch's
+            Harriet (Bennett) and Appleton Howe Fitch who were from New England. Grace Fitch's
             family soon returned to Hopkinton, Massachusetts. She went to public school and then attended
             Pratt Institute Library School in Brooklyn, where she worked as assistant reference
             librarian for a year after her graduation in 1891. She met her future husband,
@@ -246,7 +253,7 @@ j_bios = [
             of New York as a trainee in 1933, where she remained until 1974, rising to the
             position of senior vice president. She was also a director of the Dreyfus Third
             Century Fund, an investment fund. Before her retirement, she oversaw the move
-            of the Fiduciary Trust to the World Trade Center. <br>
+            of the Fiduciary Trust to the World Trade Center. <br><Br>
             Palache married Russell Kennedy Jones, an advertising
             executive and co-author of <em>The Cruising Cookbook</em>, on December 21, 1954.
             <br><br>She and her husband lived in the town of North Salem, New York, where she served

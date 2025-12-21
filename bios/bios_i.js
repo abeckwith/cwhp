@@ -18,7 +18,9 @@ i_bios = [
             first state funded teacher training school in the nation, the Normal School
             of Lexington, as a member of its first class of 1839, graduating with twenty-five
             other young women in 1840. Their principal and teacher was a Unitarian minister,
-            Rev. Cyrus Peirce who was supported by his wife, Harriet Peirce. A model school
+            Rev. Cyrus Peirce who was supported by his wife, Harriet Peirce.
+            
+            <br><Br>A model school
             for children was set up in Lexington and the young teachers took turns teaching
             in the school. They were examined at the end of their training by Horace Mann
             (then actively working for the initiation of teacher training schools and public
@@ -26,14 +28,18 @@ i_bios = [
             their graduation ceremony. (Another member of this class was Hannah Damon of
             West Cambridge (now Arlington) the daughter of a Unitarian minister. She served
             as class secretary, often wrote poetry and lyrics for the alumnae celebrations.
-            She taught for a while in Worcester and Boston and died in 1901).<br><br>
+            She taught for a while in Worcester and Boston and died in 1901).
+            
+            <br><br>
             In the published records of the First Class of
             the Normal School of Lexington (1839) to which Adeline Ireson belonged, she
             is remembered from her school days as &#8220;Addie Ireson always at hand to
             do one a kindness&#8221;. She began to teach in Cambridge in 1842. For the Seventh
             meeting of the class in 1856, Ireson addressed the class arguing that unmarried
             women could accomplish as much and keep their hearts as fresh and loving as
-            their married friends.<br><br>
+            their married friends.
+            
+            <br><br>
             Adeline Ireson was considered by her classmates to be their most distinguished
             member, certainly the most dedicated teacher. She was honored for her fifty
             years of teaching in the Washington Grammar School in Cambridge at a large meeting
