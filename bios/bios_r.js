@@ -43,7 +43,7 @@ r_bios = [
             after, Margret was approached by Alan Shallek who persuaded her to collaborate
             on a series of short films for television that began to appear on the Disney
             Channel in 1980. Margret contined to write and teach. In 1979, she was appointed
-            at Brandeis University as a professor of Creative Writing. In 1989, she established
+            at Brandeis University as a professor of Creative Writing.<Br><Br> In 1989, she established
             the Curious George Foundation to benefit children's creativity and animal and
             environmental welfare. Rey was also a long-time supporter of Longy School of
             Music and founded a center of alternative medicine at Beth Israel Hospital.
@@ -70,9 +70,9 @@ r_bios = [
                 Image source: <a href="https://en.wikipedia.org/wiki/Margret_Rey" target="_self">https://en.wikipedia.org/wiki/Margret_Rey</a>
         `,
         photos: ["images_bios/reys.jpg"],
-        photoTitles: [],
-        dateCreated: "prior to 2009",dateUpdated:
- "04.07.2025",
+        photoTitles: ["Margaret and Hans Rey"],
+        dateCreated: "prior to 2009",
+        dateUpdated: "04.07.2025",
         
         photoHeights: [225],
         editors:"",
@@ -149,10 +149,10 @@ r_bios = [
             Anne Roe, was a psychologist and second wife of
             the evolutionary biologist George Gaylord Simpson, whom she married in 1938.
             She was educated at the University of Denver and obtained her doctorate in psychology
-            from Columbia University in 1933. Although working as a clinical psychologist.
+            from Columbia University in 1933. Although working as a clinical psychologist,
             Roe accompanied her husband on some of his field expeditions to Venezuela, helping
-            to collect mammals for the American Museum of Natural History. When he moved
-            to Cambridge to take up a position at Harvard's Museum of Comparative
+            to collect mammals for the American Museum of Natural History. When they moved
+            to Cambridge and her husband took up a position at Harvard's Museum of Comparative
             Zoology in 1959, she was appointed research director and lecturer at the Harvard
             University Graduate School of Education, and was named professor in 1963. <Br><Br>She
             founded a Center for Research on Careers at Harvard and served as its director
@@ -297,7 +297,8 @@ r_bios = [
             months before Orlov's own death. `,
         otherNotes: "",
         references: ` &#8220;Ann Orlov Rubinow,&#8221; obituary news
-            article by Bryan Marquard, <em>Boston Globe</em> January 25, 2007; Obituary, <em>Cambridge Chronicle</em>
+            article by Bryan Marquard, <em>Boston Globe</em> January 25, 2007<br>
+            Obituary, <em>Cambridge Chronicle</em>
             (under Betty A. Rubinow) January 22, 2007
             <br>Image source: <A href="https://www.vtcng.com/stowereporter/archives/betty-ann-orlov-rubinow/article_5b7f7b21-06cb-5708-ae30-d74b45d2059f.html" target="_self">
             https://www.vtcng.com/stowereporter/archives/betty-ann-orlov-rubinow/article_5b7f7b21-06cb-5708-ae30-d74b45d2059f.html</a>

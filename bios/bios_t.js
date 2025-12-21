@@ -77,7 +77,7 @@ t_bios = [
             Katharine was the daughter of Graham Taylor and Leah (Demarest) Taylor. She
             attended local Hartford elementary schools and then the Francis W. Parker School
             in Chicago, while her father was involved with the establishment of the settlement
-            house, Chicago Commons. She went to Vassar College, graduating with an A.B in
+            house, Chicago Commons. <Br><Br>She went to Vassar College, graduating with an A.B in
             1910. She received her Masters degree from the University of Michigan in 1911.
             After traveling to Europe on an academic scholarship, she returned to her Vassar
             College as instructor in English from 1913-1916 and then joined the faculty

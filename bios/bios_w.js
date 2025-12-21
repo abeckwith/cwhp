@@ -3,20 +3,20 @@ w_bios = [
         organization: false,
         lastName: "Wadden",
         firstName: "Mary",
-        middleName: "F.",
+        middleName: "Frances",
         familyName: "",
         
         title: `Teacher`,
         birthDate: "10.24.1924",
-        birthLocation: "",
+        birthLocation: "Cambridge, Massachusetts",
         deathDate: "03.25.2001",
-        deathLocation: "",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Mary Wadden was the daughter of Dr. Joseph M. Wadden and Mary F. (McBride)
-            Wadden.  Her mother died before she Mary reached her first birthday.<br>
-            Wadden got her B.A. from Regis College in Weston in 1946 and was a lifelong resident of 
+            Wadden.  Her mother died before she Mary reached her first birthday.
+            <Br><Br>Wadden got her B.A. from Regis College in Weston in 1946 and was a lifelong resident of 
             Cambridge, living on Concord Ave. She taught in the Cambridge Public
-            schools for thirty-eight years. The Cambridge City Council passed a resolution
+            schools for thirty-eight years, including at the Harrington School. The Cambridge City Council passed a resolution
             in recognition of her life and achievements on April 2, 2001.<br>
             `,
         otherNotes: "",
@@ -110,8 +110,7 @@ w_bios = [
         deathDate: "",
         deathLocation: "",
         narrative: `
-            Nominated by Chris Womendez
-        </p>
+    
         <p>Betsy
             Warrior was a radical activist and organizer of women's liberation and
             the battered women's movements in Cambridge, Boston and the nation. In
@@ -173,7 +172,8 @@ w_bios = [
             published. The first edition was 33 pages and the last, in 1989, was 300. The
             Schlesinger Library for Women at Harvard houses her &quot;collection&quot; which
             contains some of her correspondence with people setting up shelters and services
-            in the early years. http://oasis.lib.harvard.edu/oasis/deliver/~sch00439</p>
+            in the early years (<a href="http://oasis.lib.harvard.edu/oasis/deliver/~sch00439">
+            http://oasis.lib.harvard.edu/oasis/deliver/~sch00439</a>)</p>
         <p>Warrior was born in Boston's
             South End in 1940, the child of Canadian immigrants. Married at 17, she endured
             years of abuse (as is the case for millions of women even today) by her husband
@@ -214,7 +214,7 @@ w_bios = [
             Many of Betsy's books and articles are now out of print. In the future,
             she is hoping to post them on the web for ready access by feminists and others
             working to end male violence against women.</p>
-        <p>&#8220;Betsy Warrior was
+        <p><blockquote>&#8220;Betsy Warrior was
             more than an inspiration to the early battered women's movement. She provided
             critical analysis of &#8220;male-pattern violence,&#8221; offered support to
             struggling feminists establishing women's centers and shelters, and established
@@ -222,8 +222,10 @@ w_bios = [
             men's violence toward women. To say we are profoundly indebted to her
             vision, passion and dedication is an understatement. Her contributions are beyond
             comprehension and certainly far exceed this modest herstory of Betsy Warrior.&#8221;
-            Barbara J. Hart, J.D. - Director of Strategic Justice Initiatives,Muskie School
-            of Public Service, Portland, Maine, August 2013.</p>
+            - Barbara J. Hart, J.D. - Director of Strategic Justice Initiatives,Muskie School
+            of Public Service, Portland, Maine, August 2013.</blockquote></p>
+                    Nominated by Chris Womendez
+        </p>
         `,
         otherNotes: "",
         references: `
@@ -675,7 +677,7 @@ w_bios = [
         familyName: "Katz",
         
         title: `Cambridge community leader; politician`,
-        birthDate: "ca.1901",
+        birthDate: "09.15.1901",
         birthLocation: "",
         deathDate: "08.08.1999",
         deathLocation: "Cambridge, Massachusetts",
@@ -708,8 +710,10 @@ w_bios = [
             retirement from the City Council, she worked at the Cambridge Housing Authority
             for many years. Her papers are held at Schlesinger Library, Radcliffe Institute.`,
         otherNotes: "",
-        references: ` <em>Cambridge Chronicle</em>, August 12,1999; Schlesinger
-            Library biography and guide to Pearl Katz Wise papers.
+        references: ` <em>Cambridge Chronicle</em>, August 12,1999<br>Schlesinger
+            Library biography and guide to Pearl Katz Wise papers.<Br>
+            <a href="https://www.ancestry.com/search/collections/60525/records/146988896?tid=&pid=&queryId=408823c2-fecb-4a9d-af1a-db3e98971fa5&_phsrc=prV2532&_phstart=successSource">
+            Find-A-Grave</a> for birthdate
         `,
         photos: ["images_bios/wise.jpg"],
         photoTitles: [],

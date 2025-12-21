@@ -17,6 +17,7 @@ s_bios = [
             with the poor and disenfranchised. When Salvadore Allende's socialist
             government was overthrown, Sylvia's parents were concerned for her safety,
             and she emigrated from Chile to the United States in 1970. <br><Br>
+
             After arriving in Watertown, Massachusetts, she worked at
             factory jobs: first, she spent a year at Fenton Shoe in Cambridgeport, gluing
             shoe soles with a hot glue that aggravated her asthma; then she worked at Fanny
@@ -25,6 +26,7 @@ s_bios = [
             Comprehensive Employment and Training Act (CETA) programs. After CETA, she taught
             at Bunker Hill Community College and was later the head of affirmative action
             for the Massachusetts Department of Employment and Training. <br><Br>
+
             In the late 1970s, Sylvia began her career in
             Cambridge as a bilingual youth employment counselor at the city's Economic
             Opportunity Commission. She became a board member of Concilio Hispano in Cambridge
@@ -35,17 +37,20 @@ s_bios = [
             director. Sylvia also helped create the Commission of Latino Affairs for the
             City of Cambridge. In September 2000, she received the Beryl H. Bunker Award.
             <br><Br>
-            Sylvia Saavedra-Keber describes the purpose of Concilio: &#8220;As Latinos at
+
+            Sylvia Saavedra-Keber describes the purpose of Concilio:<blockquote> &#8220;As Latinos at
             Concilio, we are trying to build human beings [who are] independent from the
             system, from welfare, from anyone, because we might not be here tomorrow. We
-            have to create independence rather than dependency around our service.&#8221;<br><Br>
+            have to create independence rather than dependency around our service.&#8221;</blockquote>
+            
+            <br>
             Sylvia has spoken about her feelings about being
-            an immigrant: &#8220;The pain that you always carry as an immigrant about not
+            an immigrant: <blockquote>&#8220;The pain that you always carry as an immigrant about not
             being born here, you will always carry it...You will always miss that comfort
             that you have about being born in your own country. You are never going to feel
             one hundred percent part of it...I think at some point you have to let go. That
             is the point which is so important for you as an immigrant, to really continue
-            to contribute to your society here.&#8221;<br>
+            to contribute to your society here.&#8221;</blockquote>
             `,
         otherNotes: "",
         references: `Oral interview by Sarah Boyer<br>
@@ -77,7 +82,9 @@ s_bios = [
             May Sarton was born Eleanore Marie Sarton, the
             daughter of George Sarton, a historian of science, and his Welsh wife, Eleanor
             Mabel Elwes. In 1915, at the beginning of the World War I, the Sarton family
-            fled from Belgium to England. After a few peripatetic years in the States, George
+            fled from Belgium to England. <Br><Br>
+            
+            After a few peripatetic years in the States, George
             Sarton accepted an appointment at Harvard University, which led the family to
             settle in Cambridge, in 1918. May attended Shady Hill School, where she began
             writing poetry. When her family moved back to Belgium for a few years, May attended
@@ -204,7 +211,7 @@ s_bios = [
         middleName: "Rose",
         familyName: "Merlesena",
         
-        title: `Activist; Childcare provider`,
+        title: `Activist, Childcare provider`,
         birthDate: "ca.1925",
         birthLocation: "",
         deathDate: "01.08.2005",
@@ -367,7 +374,7 @@ s_bios = [
             Mount Holyoke College, graduating in 1928. She continued her education, studying
             English social history at Yale, where she met and married the physicist and
             metallurgist Cyril Stanley Smith in 1931. Marriage did not prevent her from
-            completing her PhD in 1936. She and the couples' two children then accompanied
+            completing her PhD in 1936. <Br><Br> The couples' two children then accompanied
             Cyril to Los Alamos, New Mexico in the early forties where he worked on the
             creation of the first atomic bomb as part of the famous &#8220;Manhattan Project,&#8221;
             under the direction of J. Robert Oppenheimer. While in New Mexico, Alice Smith
