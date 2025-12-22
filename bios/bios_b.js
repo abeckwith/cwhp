@@ -2115,7 +2115,8 @@ the holidays by dancing the mazurka:<blockquote>
             Jeanne V. Burton was a member of the board of
             directors of the Cambridge Council on Aging. She was elected vice president
             in 1996 and president in 1997. She also served as vice president of the American
-            Association of Retired Persons (AARP). <br><br>
+            Association of Retired Persons (AARP) and in the 1970s was a "Mother's March Captain,"
+            helping to raise money for causes like the March of Dimes. <br><br>
             She served on the city's advisory
             group during the development of the accessible taxi services, and also has served
             on the board of the Alzheimer's Association, the YWCA, CEOC, the Vision
@@ -2123,11 +2124,13 @@ the holidays by dancing the mazurka:<blockquote>
             school's panel to interview school principals. She offered consultation
             to CASCAP on the development of affordable assisted living units at Harvard
             Place in Cambridge. <br><br>She was 69 when she died.<br><Br>
-            By 2002, Cambridge had created a Jeanne V. Burton Community Service Award, to be awarded annually
+            By 2002, Cambridge had created a Jeanne V. Burton Community Service Award, to be awarded annually.
 
             `,
         otherNotes: "",
-        references: `<em>Cambridge Chronicle</em> 7-22-1999, 4-3-2002
+        references: `<em>Cambridge Chronicle</em> 7-22-1999, 4-3-2002<Br>
+        <i>The Cambridge Chronicle</i>, 8 January 1970
+
         `,
         photos: [""],
         photoTitles: [],

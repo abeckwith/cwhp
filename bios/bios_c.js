@@ -356,7 +356,7 @@ c_bios = [
  
 
             The founding group of the Female Liberation group
-            was called &quot;Cell 16&quot;, located at 552 Mass Avenue Historically, it began
+            was called &quot;Cell 16&quot;, located at 552 Mass Avenue. Historically, it began
             with a group of women gathering at Emmanuel College for a women's conference
             
 

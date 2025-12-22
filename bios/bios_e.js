@@ -20,7 +20,7 @@ e_bios = [
             After a residency in pediatrics at Peter Bent Brigham Hospital in Boston, May
             was appointed as a resident at Yale University and rose through the ranks to
             a position on the faculty. <br><br>
-            With Dr Edwards Park she developed a treatment
+            With .wards Park she developed a treatment
             for rickets using cod-liver oil, vitamin D and exposure to sun. In 1924, she
             was named director of the Division of Child and Maternal Health at the U.S.
             Children's Bureau on a part-time basis while she continued to teach and

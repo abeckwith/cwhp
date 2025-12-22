@@ -331,7 +331,9 @@ here</a>)<br>
             and lives in Cambridge.`,
         otherNotes: "",
         references: `wikipedia entry for Carol Bonomo Albright<Br>amazon.com biography for Carol Bonomo Albright<Br>
-        Cambridge Chronicle, January 22, 2009<br>Image source: https://books.google.com/books?id=5R28DDgTAd4C&pg=PA38#v=onepage&q&f=false
+        Cambridge Chronicle, January 22, 2009<br>
+        Image source: <a href="https://books.google.com/books?id=5R28DDgTAd4C&pg=PA38#v=onepage&q&f=false">
+        https://books.google.com/books?id=5R28DDgTAd4C&pg=PA38#v=onepage&q&f=false</a>
         `,
         photos: ["images_bios/carol albright.jpeg"],
         photoTitles: [],

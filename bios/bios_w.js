@@ -287,7 +287,7 @@ w_bios = [
             public speaker at the Cantabrigia Club, League of Women Voters, and area churches.
             She would speak on topics such as woman suffrage, Americanization, and temperance.
             She began her political life as a member of the Cambridge School Committee.
-            First elected in 19xx, she served on that board for 8 years. After the passage
+            First elected in 1923, she served on that board for 8 years. After the passage
             of the Nineteenth Amendment in 1920, she attended the first conference for politics
             and government sponsored by Smith College and the Massachusetts League of Women
             Voters in the spring of 1923. That fall she ran for and was elected to a two-year
@@ -307,7 +307,9 @@ w_bios = [
             Burks, Sarah L. Cambridge Historical Commission memo re: 23 Everett Street,
             23 June 2005.<br>
             &quot;League of Women Voters Meet In Third Conference,&quot; Cambridge <em>Tribune</em>,
-            March 31, 1923.
+            March 31, 1923.<br>
+            <i>The Cambridge Tribune</i>, Volume XLVI, Number 37, 10 November 1923
+
         `,
         photos: ["images_bios/whitman_florence.jpg"],
         photoTitles: [],
