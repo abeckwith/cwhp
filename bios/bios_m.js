@@ -14,7 +14,7 @@ m_bios = [
         narrative: `
             Daughter
             of Mary Josephine (Barron) and Thomas Christopher O'Dwyer, Sr., Mary Jo
-            grew up in North Cambridge and attended local schools. Following the sudden
+            grew up in North Cambridge at 30 Dudley Street and attended local schools. Following the sudden
             death of her father, a World War II veteran, she decided to join the Navy Nurse
             Corps in 1967. With a Navy Nurse Corps officer candidate scholarship, she was
             able to study for her BS degree in Nursing at St. Anselm's College in
@@ -83,7 +83,8 @@ m_bios = [
             <a href="https://www.youtube.com/watch?v=MnTlRJ6UBpc" target="_self">https://www.youtube.com/watch?v=MnTlRJ6UBpc</a> <br>
             St. Ansel Alumni Awards description
             <br>
-            www.ahernfoundation.org
+            <a href="www.ahernfoundation.org">www.ahernfoundation.org</a><Br>
+            Cambridge City Directory, 1961
         `,
         photos: ["images_bios/MajorsMJ_small.jpg"],
         photoTitles: [],
@@ -226,6 +227,7 @@ m_bios = [
             first female professor in the department. She did notable tissue research while
             in the department, collaborating with Roy O. Greep, who became dean of Harvard's
             Dental School. <br><br>
+
             She married George Markham in 1947. The couple was
             involved in various humanitarian endeavors. While an assistant professor at
             Harvard, her husband was the Progressive Party candidate for state representative.
@@ -236,7 +238,7 @@ m_bios = [
             to Harvard later to work with Professor Alexander Forbes on visual mechanismas
             at the Biological Laboratories. <br><br>
             In 1957, Dr. Markham went to the Albert Einstein School
-            of Medicine, where she rose to the rank of full professor. She became recognized
+            of Medicine, where she rose to the rank of full professor (she lived at 387 Harvard Street at the time). She became recognized
             as a distinguished histochemist, doing significant work on the adrenal glands
             and ovaries, and publishing 147 journal articles. (Histochemistry is a biological
             science that uses various methods to identify certain cell or tissue structures
@@ -252,7 +254,8 @@ m_bios = [
             881-3, 1967.<br>
             Family records of James G. Deane.<br>
             Markham, Helen Deane.<em> Papers</em>,<em> 1941-1968</em>. Schlesinger Library,
-            Hollis Library Catalog summary of archival collection.
+            Hollis Library Catalog summary of archival collection.<br>
+            Cambridge City Directory, 1954
         `,
         photos: ["images_bios/Markham_HWD.jpg"],
         photoTitles: [],
@@ -283,10 +286,10 @@ m_bios = [
             1920s, she married Laurence Marshall, a co-founder of Raytheon Corporation,
             and settled in Cambridge, where they lived for many years. While her husband
             worked on magneton tubes used in radar for US and Allied ships during World
-            War II, she helped integrate the Raytheon production lines. <br><br>In 1949, near the
+            War II, she helped integrate the Raytheon production lines. <br><br>In 1949, nearing the
             retirement of her husband from the company, the couple with their two children
             went to study the !Kung, a hunter-gatherer tribe in the Kalahari desert in southern
-            Africa, the trip being sponsored by Harvard's Peabody Museum. Lorna began
+            Africa, the trip being sponsored by Harvard's Peabody Museum (they were living at 4 Bryant Street in Cambridge at the time). Lorna began
             to seriously study anthropology and produce scholarly papers. Lorna's
             teenage son, John, began to film her interviews and eventually became an acclaimed
             anthropological documentary filmmaker. Over a period of two decades, Lorna Marshall
@@ -294,6 +297,7 @@ m_bios = [
             close personal ties to the !Kung. She published two well-received monographs,
             <em>!Kung of Nyae Nyae</em> (1975) and, when she was in her late nineties, <em>Nyae
                 Nyae !Kung Belief and Rites </em>(1999). <br><br>
+
             Lorna Marshall spent the last years of her life
             near her daughter in Peterborough, New Hampshire. Schlesinger holds a diary
             of Lorna Marshall that includes planning for dinners, including a manuscript
@@ -310,7 +314,8 @@ m_bios = [
             Elizabeth Marshall
             Thomas, <em>The Old Way, a Story of the First People</em> (2006)<br>
             Book cover from <a href="https://peacefulsocieties.uncg.edu/societies/juhoansi/">
-            https://peacefulsocieties.uncg.edu/societies/juhoansi/</a>
+            https://peacefulsocieties.uncg.edu/societies/juhoansi/</a><Br>
+            Cambridge City Directory, 1941
         `,
         photos: ["images_bios/marshall_lorna.jpg"],
         photoTitles: ["Lorna Marshall's book about the !Kung people"],
@@ -569,7 +574,7 @@ m_bios = [
             to write newspaper articles for both the <em>Transcript</em> and the Boston<em>
                 Globe</em> which soon accepted her as a regular journalist. <br><br>
             In October 1887, she married Samuel Merrill, an
-            editor at the <em>Globe</em>, and the couple moved to Cambridge where she continued
+            editor at the <em>Globe</em>, and the couple moved to Cambridge (45 Bellevue Avenue) where she continued
             to write for the paper and to participate in community affairs. She was a founding
             member and president of the Cantabrigia Club, and lectured on current events
             before the organization. She also served as an officer of the Associated Charities
@@ -596,7 +601,8 @@ m_bios = [
             <em>Blue Book of Cambridge</em>, Cambridge MA, 1904.<br>
             &#8221;Birth Insurance attacked&#8221;<em> New York Times</em>, May 11, 1906.
             <Br>Photo source: <a href="https://en.wikipedia.org/wiki/Estelle_M._H._Merrill" target="_self">https://en.wikipedia.org/wiki/Estelle_M._H._Merrill</a>
-        `,
+        <br>Cambridge City Directory, 1890
+            `,
         photos: ["images_bios/Estelle_Merrill.png"],
         photoTitles: [],
         dateCreated: "prior to 2009",
@@ -636,7 +642,8 @@ m_bios = [
                 an important part of the museum and from 1937 to 1947 her title was Keeper of
                 Drawings. By 1947 she was named Curator of Drawings, the first woman to be named
                 curator at the Fogg, retaining this title until her retirement in 1975. She
-                was also an important administrator of the museum. Between 1951 and 1968, she
+                was also an important administrator of the museum. Between 1951 and 1968 (when she was living at
+                1558 Mass. Ave.), she
                 rose from Assistant Director of the Fogg, to Associate Director, then Acting
                 Director. From 1969 to 1971 she served as Director of the Fogg Museum, retiring
                 in 1971, but retaining her position as Curator of Drawings for a further four
@@ -659,7 +666,8 @@ m_bios = [
                 <em>Harvard University Gazette</em>, September19,
                 1996.
                 <br>Photo source: <a href="https://en.wikipedia.org/wiki/Agnes_Mongan" target="_self">https://en.wikipedia.org/wiki/Agnes_Mongan</a>
-        `,
+        <br><i>The Cambridge Chronicle</i>, 7 April 1960
+                `,
         photos: ["images_bios/AgnesMongan.png"],
         photoTitles: [],
         dateCreated: "prior to 2009",
@@ -752,11 +760,12 @@ m_bios = [
             She then studied with Hans Hofmann and began to exhibit at galleries in New
             York. In 1938 she had a successful show at the Julian Levy Gallery, during which
             some of her paintings sold to the Whitney Museum, the Metropolitan Museum of
-            Art, and the Museum of Modern Art. <br><br>In 1940 she and her husband moved to Andover,
+            Art, and the Museum of Modern Art. 
+            <br><br>In 1940 she and her husband moved to Andover,
             Massachusetts, where he taught art at Phillips Academy, and she began to teach at the nearby
             girls' boarding school, Abbot Academy. The couple had two children. In
             1957 she separated from her husband and moved to Boston, then, a few years later,
-            to Cambridge, where she lived and painted for the rest of her life. She continued
+            to Cambridge, where she lived at 3 Howland Street and painted for the rest of her life. She continued
             to exhibit in New York, primarily at the Betty Parsons Gallery, where she was
             included in joint exhibitions with Jackson Pollock, Mark Rothko, Robert Motherwell,
             and other notable contemporary artists. Morgan had two retrospective exhibitions,
@@ -780,7 +789,7 @@ m_bios = [
             Cambridge. `,
         otherNotes: "",
         references: `
-            Cambridge Chronicle, May 27, 1999<br>
+            Cambridge Chronicle, 14 May 1964 & 27 May, 1999<br>
             Oral Interview
             with Maud Morgan, Archives of American Art, Smithsonian Institution; (Microfilm
             of her scrapbooks are also held at the Smithsonian)<br>
@@ -838,7 +847,7 @@ m_bios = [
             College from 1932 &#8211; 1955. In the summer of 1939, Frost purchased the
             Homer Nobel Farm in Ripton, Vermont close to the College. During the summers,
             Robert Frost would reside in the cabin on the farm and the Morrison's
-            would stay in the farm's main house.<br><br>
+            would stay in the farm's main house (Morrison lived at 103 Walker Street in Cambridge at the time).<br><br>
             Robert
             Frost held Kay in special regard. &#8220;The Silken Tent&#8221; is
             believed by many to have been written for her. It has been documented that &#8220;Never
@@ -878,8 +887,10 @@ m_bios = [
             <a href="http://query.nytimes.com/gst/fullpage.html?res=9C07EFD91339F93AA25756C0A960958260" target="_self">here</a><br><br>
             Tuten, Nancy Lewis and John Zubizarreta, editors.
             <em>Robert Frost Encyclopedia</em>. Westport,
-            Conn.: Greenwood Press, 2001. Found <a href="http://books.google.com/books?id=RjZuWeTJpAkC&amp;pg=PA466&amp;lpg=PA466&amp;dq=Robert+Frost+Encyclopedia+Tuten+Zubizarreta" target="_self"
-            >here</a><br><br>Image courtesty of Middlebury College Special Collections, Middlebury, Vermont
+            Conn.: Greenwood Press, 2001. Found 
+            <a href="http://books.google.com/books?id=RjZuWeTJpAkC&amp;pg=PA466&amp;lpg=PA466&amp;dq=Robert+Frost+Encyclopedia+Tuten+Zubizarreta" target="_self">
+            here</a><br><br>Image courtesty of Middlebury College Special Collections, Middlebury, Vermont<Br>
+            Cambridge City Directory, 1941
         `,
         photos: ["images_bios/kay_morrison.png"],
         photoTitles: [],

@@ -14,7 +14,7 @@ i_bios = [
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Adeline M. Ireson was the daughter of Mary and
-            Samuel Ireson. At the age of sixteen, she passed an examination to attend the
+            Samuel Ireson. The family lived on Ash. Street in Cambridge. At the age of sixteen, she passed an examination to attend the
             first state funded teacher training school in the nation, the Normal School
             of Lexington, as a member of its first class of 1839, graduating with twenty-five
             other young women in 1840. Their principal and teacher was a Unitarian minister,
@@ -48,7 +48,7 @@ i_bios = [
             as was his son, and another letter was sent from Alice Freeman Palmer. Ireson
             was also awarded a yearly sum of $129, subscribed to by one hundred of her neighbors
             and former pupils including the mayor of the city and the Harvard University
-            president. She was still alive (although ill and bedridden) in 1902. An appendix
+            president. She was still alive (although ill and bedridden) in 1902 (she lived at 29 Everett Street at the time). An appendix
             to a history of the first class of the Lexington Normal School recounts the
             ceremony on her retirement. In celebration of its 150th anniversary, The Framingham
             State College, an outgrowth of Lexington Normal, posted a reproduction of a
@@ -59,7 +59,8 @@ i_bios = [
         references: ` &#8221;Miss Ireson's Fifty Years of Service&#8221;.
             Records of the First Class of the First State Normal School of Lexington Boston,
             1903 pp; 204-208; Files of the Historical Commission, Cambridge MA<Br>150th commemoration
-            of Framingham State College website
+            of Framingham State College website<Br>
+            Cambridge City Directories 1848, 1904
         `,
         photos: [""],
         photoTitles: [],

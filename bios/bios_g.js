@@ -218,7 +218,7 @@ g_bios = [
             1992 and won the Pulitzer Prize for poetry in 1993 and the Poetry Society of
             the America's William Carlos William Award. She published three more books of
             poetry, <em>Meadowlands</em>, written in 1996, <em>Vita Nova</em> in 1999, and
-            The Seven Ages in 2001. She also wrote a book of essays on poetry entitled <em>Proofs
+            The Seven Ages in 2001 (she was living on Ellsworth Park in Cambridge at the time). She also wrote a book of essays on poetry entitled <em>Proofs
                 and Theories: Essays on Poetry</em> in 1994, that won the PEN/Martha Albrand
             Award for Nonfiction.
             
@@ -250,6 +250,8 @@ g_bios = [
           
             Brief Biography, <a href="http://www.helical-library.net/gluck/bio.asp" target="_self">http://www.helical-library.net/gluck/bio.asp</a>. Date accessed:
             4/22/2013<Br>
+            <i>The Cambridge Chronicle</i>, 3 September 2003
+            <br>
             Image source: <a href="https://en.wikipedia.org/wiki/Louise_Gl%C3%BCck" target="_self">ttps://en.wikipedia.org/wiki/Louise_Gl%C3%BCck</a>
         `,
         photos: ["images_bios/louise_gluck.jpg"],
@@ -526,12 +528,12 @@ g_bios = [
                 School in Portsmouth, Virginia and moved to Florida where she met and married Edward Scott. In 1973,
                 Gray moved to Cambridge, Massachusetts, eventually settling in the &ldquo;Port&rdquo; neighborhood, also
                 known as Area IV, with her daughter Michele N. Scott.<br><Br>
-            <span >Early in
+            Early in
                 her career, Gray worked at a shelter for battered women, and she remained committed to ending violence
                 against women and girls throughout her life. She also worked at the Haymarket Peoples Fund, a social
                 justice, grant-making nonprofit, and served on the boards of the Margaret Fuller Neighborhood House
                 (MFNH), the Women&rsquo;s Theological Center and the Cambridge Algebra Project</span>. <br><Br>
-            <span >In the early
+           In the early
                 1980s, a large group of women met to address the declining support of women-led organizations and the
                 closing of two feminist newspapers. In a 2008 </span>Boston Herald interview, Gray reflected on those
             early meetings: &ldquo;Out of that came the question: How do we sustain women&rsquo;s organizations? How do
@@ -543,7 +545,8 @@ g_bios = [
             pursuing her belief that a small monthly pledge was as significant as a large donation. Gray said in that
             same interview, &ldquo;I hope that the mark that the fund leaves is that it holds and honors both of those
             donors.&rdquo; <br><Br>
-            <span >Gray also helped
+
+           Gray also helped
                 found the Funding Exchange, a national grant making foundation, and she served as a board member or was
                 part of many organizations, including the Cambridge Health Alliance, New England Blacks in Philanthropy
                 (NEBiP), the Cambridge African American Heritage Committee, the Area IV for Peace Committee, the Union
@@ -552,11 +555,11 @@ g_bios = [
                 MFNH and the Cambridge Public Health Department. Throughout her career, she consulted on diversity
                 training and advocacy, and traveled extensively for her work, including serving as an international
                 monitor for the first presidential election after apartheid ended in South Africa.</span><br><Br>
-            <span>Gray was also the
+            Gray was also the
                 Chair of the Board of Trustees of the YWCA Cambridge, and in 2010, she received the Lieutenant Kenney
                 Award for her commitment to safety and prosperity for the Area IV Cambridge community. Gray dedicated
                 her entire career and life to helping others, especially women, African Americans and fellow
-                Cantabrigians.</span>`,
+                Cantabrigians (she was living at 84 Columbia Street at the time).</span>`,
         otherNotes: "",
         references: `
             <span >Graves, Helen. &ldquo;Second Time Around
@@ -574,7 +577,7 @@ g_bios = [
                 post, 4/21/2017,</span> <span>
                 <a href="https://www.facebook.com/pg/YWCACambMA/photos/?tab=album&amp;album_id=10155047494801125" target="_self">https://www.facebook.com/pg/YWCACambMA/photos/?tab=album&amp;album_id=10155047494801125</a></span><br>
             <br>
-          
+          <i>The Cambridge Chronicle</i>, Volume 157, Number 36, 25 June 2003
 
         `,
         photos: ["images_bios/MicheleScottRenaeGray.jpg"],

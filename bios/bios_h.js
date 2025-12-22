@@ -25,7 +25,7 @@ h_bios = [
             and decided to learn typing and stenography. Isabella worked as secretary to
             the dean of residents at Radcliffe College, as membership secretary at the Boston
             Museum of Fine Arts, and as director of the newly formed Boston Center for International
-            Visitors, from 1961-1967. There she hosted foreign guests of the State Department,
+            Visitors, from 1961-1967 (she was living at 988 Memorial Drive in Cambridge at the time). There she hosted foreign guests of the State Department,
             welcoming them into her home in Cambridge and learning about their cultures.
             <br><br>
             Isabella Halsted also initiated and led a campaign
@@ -44,6 +44,7 @@ h_bios = [
             Papers, 1797-1991 of the Curtis family, Schlesinger Library<em><br>
                 Cambridge Chronicle</em> October 21, 1993.<br>
             corrections and additions by her children<br>
+            Cambridge City Directory, 1961
         `,
         photos: ["images_bios/Isabella%20Halsted%20small.jpeg"],
         photoTitles: ["Photo of Isabella Halsted by Nancy Scanlan"],
@@ -520,7 +521,8 @@ h_bios = [
             at Massachusetts Institute of Technology. Her final literary work was a series
             of articles entitled, &quot;Dark Races of the Twentieth Century,&quot; published
             during 1904-1905 in The Voice of the Negro. Mainly interested in the problems
-            of the black middle class, she was one of the first black women writers in America.
+            of the black middle class, she was one of the first black women writers in America. 
+            <br><Br>She was living at 19 Jay Street in Cambridge at the time of her death.
             `,
         otherNotes: "",
         references: `<em>The Unruly Voice: Rediscovering Pauline Elizabeth
@@ -528,7 +530,8 @@ h_bios = [
             Public Library website &#8220;Penwomen of Cambridge Past: Biographies of
             Our Literary Foremothers&#8221;<br>
                 Image source: <a href="https://en.wikipedia.org/wiki/Pauline_Hopkins" target="_self">https://en.wikipedia.org/wiki/Pauline_Hopkins</a>
-        `,
+       <br>Cambridge City Directory, 1928
+                `,
         photos: ["images_bios/Pauline_Elizabeth_Hopkins.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
@@ -554,7 +557,7 @@ h_bios = [
         narrative: `
             Cornelia Horsford was born in Cambridge, the daughter
             of Eben Norton Horsford, a professor of chemistry at the Lawrence Scientific
-            School, Harvard University, and his second wife Phoebe (Gardiner). She attended
+            School, Harvard University, and his second wife Phoebe (Gardiner). She lived on Kirkland Street and attended
             private schools in Cambridge and Boston. Her father, after making a fortune
             from the manufacture of baking powder, became an enthusiastic amateur archaeologist,
             convinced that Leif Erikson had landed in North America and resided along the
@@ -584,7 +587,8 @@ h_bios = [
         references: ` Horsford family papers, Rensselaer Polytechnic
             Institute Library; Cambridge Chronicle, July 2, 1998.<Br>
             Image source: <a href="https://en.wikipedia.org/wiki/Cornelia_Horsford" target="_self">https://en.wikipedia.org/wiki/Cornelia_Horsford</a>
-        `,
+       <Br>Cambridge City Directory, 1861
+            `,
         photos: ["images_bios/Cornelia_Horsford.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
@@ -848,10 +852,11 @@ h_bios = [
             working out the enzymatic interconversion of retinal and retinol for her PhD
             in 1950. <br><br>After receiving fellowships that took her to London and Copenhagen,
             she returned to Harvard. She married Wald in 1958 with whom she had a daughter
-            and a son. The couple was awarded the Paul Karrer Medal from the University
+            and a son (they lived at 21 Lake View Avenue). The couple was awarded the Paul Karrer Medal from the University
             of Zurich for studies of biochemistry of vertebrates and invertebrates in 1967.
             After George Wald was awarded the Nobel prize in 1967, he became deeply concerned
             with issues of peace, in which Ruth joined him.<br><br>
+
             She was tenured as professor of biology at Harvard
             in 1974, the first woman tenured in the department. In the late seventies and
             early eighties, she created innovative courses on biology and politics from
@@ -875,7 +880,7 @@ h_bios = [
             pp. 5-20. Chichester: [Novartis Foundation Symposium 224]; Online conversation
             with Frank Aqueno in 1993 <br>
                 Image source: <a href="https://en.wikipedia.org/wiki/Ruth_Hubbard" target="_self">https://en.wikipedia.org/wiki/Ruth_Hubbard</a>
-        `,
+        <Br>Cambridge City Directory, 1963`,
         photos: ["images_bios/Ruth_Wald.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
@@ -900,7 +905,7 @@ h_bios = [
         deathLocation: "Connecticut",
         narrative: `
             Anna Vaughn Hyatt was born in Cambridge, Massachusetts,
-            daughter of Audella (Beebe) and Alpheus Hyatt. Her father was a curator of fossil
+            daughter of Audella (Beebe) and Alpheus Hyatt. They lived at 7 Avon Street. Her father was a curator of fossil
             invertebrates at Museum of Comparative Zoology, Harvard, professor of paleontology
             and zoology at MIT and a founder of Woods Hole Marine Biological Laboratories.
             Through her father, she developed an interest in animals and animal anatomy.
@@ -927,7 +932,8 @@ h_bios = [
         references: `<em>Notable American Women, Modern Period</em>;
             <em>Encyclopedia Britannica</em>, <em>Wikipedia</em><Br>
             Image source: <a href="https://en.wikipedia.org/wiki/Anna_Hyatt_Huntington" target="_self">https://en.wikipedia.org/wiki/Anna_Hyatt_Huntington</a>
-        `,
+        <Br>Cambridge City Directory, 1876
+            `,
         photos: ["images_bios/Anna_Vaughn_Hyatt.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
@@ -1055,15 +1061,17 @@ h_bios = [
         deathDate: "12.11.1968",
         deathLocation: "Framingham, Massachusetts",
         narrative: `
-           <i>Marian Henry was born in Cambridge and attended Cambridge Latin School. 
+           <i>Marian Henry was born in Cambridge, lived on Broadway, and attended Cambridge Latin School. 
              <br>She became an astronomer and worked at the Harvard Observatory for seven years.</i>
-             <br><br>Marian's life and work are outlined in the <b>Women Astronomical Computers at the Harvard College Observatory</b> project:
+             <br><br>Marian's life and work are outlined in the <b>Women Astronomical Computers at the
+              Harvard College Observatory</b> project:
             <center>
              <h1>
                 <a href="https://platestacks.cfa.harvard.edu/women-at-hco/marian-alberta-hawes" target="_self">Marian Henry's story</a>
              </h1>
      </center>
-        The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_self">Women Astronomical Computers at the Harvard College Observatory</a> project is 
+        The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_self">Women Astronomical 
+        Computers at the Harvard College Observatory</a> project is 
         dedicated to highlighting the lives and work of women who spent time studying and caring 
         for the observatory's glass plate photograph collection.<Br>
         <center>       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_self"> <img src="images_bios/harvard-astronomers.png" width='350'></a>
@@ -1072,7 +1080,7 @@ h_bios = [
 `,
         otherNotes: "",
         references: ` 
-          
+          Cambridge City Directory, 1894
         
              `,
         photos: [""],

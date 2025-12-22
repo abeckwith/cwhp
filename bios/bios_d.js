@@ -56,7 +56,7 @@ d_bios = [
         deathLocation: "",
         narrative: `
             This school for young children was opened and co-founded by Kathy Roberts and
-            Beth Rumnorzy in 1971 in Cambridge. It is a childcare center influenced by the
+            Beth Rumnorzy in 1971 at 319 Huron Avenue in Cambridge. It is a childcare center influenced by the
             Freedom Schools of the 1960s, with a peace and justice philosophy. Freedom Schools
             were temporary, alternative free schools for African Americans. They were originally
             part of a nationwide effort during the Civil Rights Movement to organize African
@@ -74,6 +74,7 @@ d_bios = [
         otherNotes: "",
         references: `<em>Teaching Tolerance</em> magazine Number
             24, Fall 2003.
+            <Br><i>Cambridge Chronicle</i>30 Nov 72
         `,
         photos: ["images_bios/dandelion.png"],
         photoTitles: ["November 28, 1985 Cambridge Chronicle ad"],
@@ -123,7 +124,7 @@ d_bios = [
             Orchestra, and in programs of significant American music in Carnegie Hall, and
             for NBC radio. She made important gifts to women's colleges to support
             young women musicians and served as an alumnae trustee of Radcliffe College
-            from 1940-1951. <br><br>Her papers are held at Schlesinger Library, Radcliffe Institute.`,
+            from 1940-1951. She was living at 29 Garden Street a few years before her death in 1971.<br><br>Her papers are held at Schlesinger Library, Radcliffe Institute.`,
         otherNotes: "",
         references: ` <em>
                 Notable American Women, Modern Period</em>
@@ -131,7 +132,8 @@ d_bios = [
             Madeline Goss, <em>Modern Music-Makers: Contemporary American Composers</em>
             New York, (1952)<br>
             Biography, Finding Aid Mabel Wheeler Daniels Papers, Schlesinger
-            Library, Radcliffe Institute.
+            Library, Radcliffe Institute.<Br>
+            Cambridge City Directory, 1968
         `,
         photos: ["images_bios/mabel daniels.jpg"],
         photoTitles: [],
@@ -205,7 +207,8 @@ d_bios = [
             women to be elected chairman of the board of a Harvard Teaching Hospital and served
             as the director of development of Mount Auburn Hospital. A trustee of the hospital
             since 1986, she continually demonstrated her commitment to the hospital and
-            community service. <br><br>In addition to her contributions to Wheaton College and Mt
+            community service. She lived at 46 Foster Street in Cambridge in 1961.
+            <br><br>In addition to her contributions to Wheaton College and Mt
             Auburn Hospital, she served as a member of Cambridge Community Foundation. She
             was a member of the Board of Overseers at the Museum of Science and WGBH, and
             was an associate of the Museum of Fine Arts. She was recognized by many organizations
@@ -214,7 +217,8 @@ d_bios = [
             Tribute to Women Award in 1993. <br><br>She was 69 when she died. <br>
             `,
         otherNotes: "",
-        references: ` <em>Cambridge Chronicle</em> 1-17-01<Br>Image source: <em>Boston Globe</em>Sept. 13, 1993
+        references: ` <em>Cambridge Chronicle</em>May 4, 1961, Jan 17, 2001<Br>Image source: <em>Boston Globe</em>Sept. 13, 1993
+        
         `,
         photos: ["images_bios/darbeloff.png"],
         photoTitles: [],
@@ -253,7 +257,8 @@ d_bios = [
         Cambridge Police Department as the second female officer ever hired for such a
         position at the CPD.  As part of her work, she specialized in the difficult job 
         of rape cases and served on the vice squad.  In the 1960s, she was one of three 
-        officers that made the original arrest of the Boston Strangler, Albert DeSalvo.<Br><br>
+        officers that made the original arrest of the Boston Strangler, Albert DeSalvo. She was living at 
+        78 Dana Street in Cambridge at the time.<Br><br>
 
         In a 1967 letter to the editor, State Representative Thomas Doherty commended the 
         work of six CPD detectives and officers and Darling was one of them.  In 1977, 
@@ -278,7 +283,8 @@ d_bios = [
         1954 <em>Cambridge City Directory</em><Br>
         U.S. Dept. of Veteran Affairs <em>BIRLS Death File</em><Br>
         <Br>
-        Image source: Cambridge Police Department Facbeook page post: Mar. 7, 2019 
+        Image source: Cambridge Police Department Facbeook page post: Mar. 7, 2019 <br>
+        Cambridge City Directory, 1961
         `,
         photos: ["images_bios/louise_nelson.jpg"],
         photoTitles: [],
@@ -481,7 +487,7 @@ d_bios = [
                 bands, including the Bunker Mountain Fiddlers, Otis Grove, Cowfolks&rsquo; Dream, the Oxymorons and the
                 Raisinettes. Deihl also taught music in history workshops, such as &ldquo;Songs of Social Justice&rdquo;
                 and &ldquo;Women&rsquo;s History Through Song,&rdquo; and was known locally for hosting &ldquo;Bizarre
-                Song Parties&rdquo; at her home. <br><br>
+                Song Parties&rdquo; at her home. She lived on Jefferson Street in Cambridge.<br><br>
                  Deihl was a longtime member and supporter of many social justice and
                 community organizations, including the Harvard Union of Clerical and Technical Workers, the Old
                 Cambridge Baptist Church&rsquo;s racial justice committee, the Cambridge Peace Commission, the Bisexual
@@ -516,7 +522,8 @@ d_bios = [
                     target="new">http://www.bu.edu/bostonia/winter-spring16/marcia-deihl-cambridge/</a>.</span><br>
                  Photo
                 by Betsy Sowers<br>
-                 Photo courtesy of Deborah Silverstein. 
+                 Photo courtesy of Deborah Silverstein. <Br>
+                 <i>Cambridge Chronicle</i>, Volume 149, Number 44, 2 November 1995
         `,
         photos: [
             "images_bios/Marcia Deihl photo by Betsy Sowers_small.jpg",

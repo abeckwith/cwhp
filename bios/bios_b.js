@@ -26,7 +26,7 @@ b_bios = [
             Evelyn Tyner, Rhea Dunn, Sara Reese, Aislinn Macmaster, Dorothy Elizabeth Tucker,
             Euridece Spinola, Carol Ryser, Amy Gerson Stephanie Hope, Jen Schoonover,
             Sally
-            DeAngelis, and Mariah Pisha. <br><br>
+            DeAngelis, and Mariah Pisha. They had a space at 41 Second Street in Cambridge.<br><br>
              In May 2000, the company performed a piece of
             narrated dance theater at Kresge Auditorium, MIT, &#8220;Celebrating Cambridge
             Women and Work&#8221; honoring the diverse lives of eight working Cambridge
@@ -48,9 +48,11 @@ b_bios = [
             
             `,
         otherNotes: "",
-        references: ` <em>MIT Tech Talk</em>, May 17 2000. <Br>Iris Fanger,
+        references: ` <em>MIT Tech Talk</em>, May 17 2000. <Br>
+        Iris Fanger,
             &#8220;Women's Work Informs Back Porch Project&#8221<Br> <em>Dance Magazine</em>,
-            May 2000
+            May 2000<Br>
+            <i>Cambridge Chornicle</i>4/17/1997
         `,
         photos: ["images_bios/BPD_small.jpeg"],
         photoTitles: ["L to R: Geni Guinier, Marcie Osinsky, Eleanor Duckworth, Mariah Pisha, Vicki Solomon and Jen Schoonover"],
@@ -164,8 +166,9 @@ b_bios = [
 
             of Baldwin as a primary school teacher at Agassiz Grammar School at 28 Sacramento
             Street. Seven years later, she was appointed principal of that school, the first
-            black woman to be appointed as a principal in Massachusetts. Later, in 1916,
-            when a new, larger building was built, she was appointed master of the school.
+            black woman to be appointed as a principal in Massachusetts. In 1899, she was living at 
+            196 Prospect Street. In 1916,
+            when a new, larger school building was built, she was appointed master of the school.
             <br><br>Always interested in new learning, she took many courses at Harvard and other
             schools throughout her life. She corresponded and worked with many men and women
             of distinction in the area. She also taught during the summer at Hampton Institute
@@ -178,7 +181,8 @@ b_bios = [
         otherNotes: "",
         references: ` <em>Notable American Women</em> (1609-1950) Vol
             I<br> Baldwin school: <a href="https://baldwin.cpsd.us/" target="_self">https://baldwin.cpsd.us/</a>
-            <Br>Photo source: wikipedia
+            <Br>Photo source: wikipedia<Br>
+            Cambridge City Directory, 1899
         `,
         photos: ["images_bios/mary louise baldwin.jpeg"],
         photoTitles: [],
@@ -258,7 +262,7 @@ b_bios = [
         deathLocation: "Concord, Massachusetts",
         narrative: `
 
-            Mary Barnes was a 35-year resident of Cambridge,
+            Mary Barnes was a 35-year resident of Cambridge (121 Brattle St)
             who attended Beaver Country Day School and graduated from St. Timothy's.<br><Br>
             Barnes was one of the first women to serve with the
             Women's Auxiliary Service PILOTS (WASP) during WWII. Woomen in this role served as United States federal civil 
@@ -280,6 +284,7 @@ b_bios = [
             `,
         otherNotes: "",
         references: ` <em>Boston Globe</em> 6-25-99<br><em>The Cambridge Chronicle</em>, Volume 153, Number 24, 17 June 1999
+        <br>Cambridge City Directory, 1965
         `,
         photos: [""],
         photoTitles: [],
@@ -309,7 +314,7 @@ b_bios = [
             for the Office of Strategic Services, was born in Cambridge, Massachusetts, in 1903
             to Mary Agnes (Cogan) and Hugh Bancroft, later publisher of <em>The Wall Street
                 Journal</em>. Her mother, who studied at Radcliffe College, died soon after
-            Mary was born. As a child, Bancroft graduated from the Winsor School, in Boston
+            Mary was born. As a child, Bancroft lived at 12 Ware Street and went to the Winsor School, in Boston
             in 1921. She entered Smith College in 1922, but left college after three months,
             and soon after married Sherwin Badger, figure skating champion, who had graduated
             from Harvard College and then took a position with the United Fruit Company.
@@ -341,7 +346,8 @@ b_bios = [
             `,
         otherNotes: "",
         references: ` Biographical article, Mary Bancroft papers, Schlesinger
-            Library, Radcliffe Institute.
+            Library, Radcliffe Institute.<Br>
+            Cambridge City Directory, 1905
         `,
         photos: ["images_bios/mary bancroft.jpeg"],
         photoTitles: [],
@@ -653,7 +659,7 @@ b_bios = [
             Bennett.
             Their son, George Barrett Bennett, was born a year later. She returned to Massachusetts
             and for more than thirty years worked as a linotype operator for a number of
-            newspapers in the Boston area.<br><br>
+            newspapers in the Boston area, living at 26 Mead Street in Cambridge.<br><br>
             A member of St. Paul AME Church for over seventy
             years, Satyra served as treasurer, trustee, superintendent of the Sunday School,
             and member of the Board of Christian
@@ -669,7 +675,8 @@ b_bios = [
         references: ` Ozeline (Pearson) Wise papers and biographical information,
             Schlesinger Library. An oral biography is included in the <em>Black Women Oral
                 History
-                Project</em>of Schlesinger Library.
+                Project</em>of Schlesinger Library.<Br>
+                <i>The Cambridge Chronicle</i>, 23 July 1921
         `,
         photos: ["images_bios/bennett.png"],
         photoTitles: ["The Cambridge Chronicle, 23 July 1921"],
@@ -708,7 +715,7 @@ b_bios = [
             race-walking.<br><br>
             By
             1964, under Larry's coaching, she had become a serious athlete in both running
-            and cross country skiing. (In 1968-69, she was named to the first U.S. Women's
+            and cross country skiing and was living at 23 Fayette Street in Cambridge. (In 1968-69, she was named to the first U.S. Women's
             National Nordic Team.) To build up her long distance, she ran, often unofficially,
             in men's road races. (The male runners welcomed her.) She and Larry decided
             to prepare her for running the Boston Marathon, although entry was still unofficial
@@ -751,8 +758,9 @@ b_bios = [
             wins.&#8221; <em>Boston Globe</em>, April 16, 2006<br>
             Hal Higdon, <em>Boston: A Century of Running</em> (1995)<br>
             Sara Mae Berman, personal communication.<br>
-            Photograph by Jaye R. Phillips.  From the personal collection of Sara Mae Berman.
-        </p>
+            Photograph by Jaye R. Phillips.  From the personal collection of Sara Mae Berman.<Br>
+
+        Cambridge City Directory, 1965
         `,
         photos: ["images_bios/Sara Mae Berman.jpeg"],
         photoTitles: [],
@@ -892,13 +900,14 @@ b_bios = [
             where she worked with the British Psycho-analytic Clinic and then moved to the
             United States. From the start of World War II, she lived in Cambridge in the
             Avon Hill area with her husband and children. She was a member of the Harvard
-            Medical School faculty from 1946-1977, and a member of the Boston Psychoanalytic
+            Medical School faculty from 1946-1977, livinat at 47 Garden Street, and a member of the Boston Psychoanalytic
             Society from 1941-1971.
 
             `,
         otherNotes: "",
         references: ` Ogilvie, Marilyn and Joy Harvey. <em>Biographical
                 Dictionary of Women Scientists</em>. Routledge Press, 2000.
+                <br>Cambridge City Directory, 1972
         `,
         photos: ["images_bios/grete bibring.jpg"],
         photoTitles: [],
@@ -1072,8 +1081,8 @@ b_bios = [
             was active in the protests surrounding the case of Sacco and Vanzetti in the
             1920s. In 1930, she published a biography of her mother entitled: <em>Lucy Stone,
                 Pioneer in Women's Rights. </em><br><br>Although she spent much of her life in
-            Dorchester, she moved to Cambridge in 
-            1936 where she lived until her death fourteen years later.
+            Dorchester, she moved to 1010 Massachusetts Avenue in Cambridge in 
+            1936, where she lived until her death fourteen years later.
 
             `,
         otherNotes: "",
@@ -1085,6 +1094,7 @@ b_bios = [
             
             of Woman's Journal, of which she was editor, between 1905 and 1917. <br>
             George Grantham Bain Collection, Library of Congress.
+            <Br>Cambridge City Directory, 1944
 
         `,
         photos: ["images_bios/Alice Stone Blackwell LOC small.jpeg"],
@@ -1182,7 +1192,7 @@ b_bios = [
             Matignon High School. She married Frank Bolger ca. 1960. <br><br>She worked as parent
             
 
-            liaison at the Graham and Parks Alternative Public School for 27 years. The
+            liaison at the Graham and Parks Alternative Public School for 27 years (she lived at 10 Saint Paul Street, near City Hall). The
             Parent Liason positions, now a universal feature of Cambridge schools, are based
             on the job she created. Her work is nationally recognized as a model for family
             involvement in schools. She developed a system for forming well-balanced classrooms,
@@ -1198,7 +1208,8 @@ b_bios = [
             `,
         otherNotes: "",
         references: ` <em>Cambridge Chronicle</em> 6-13-01<br>
-        The Cambridge Chronicle, Volume 137, Number 22, 2 June 1983
+        The Cambridge Chronicle, Volume 137, Number 22, 2 June 1983<br>
+        Cambridge City Directory, 1968
 
         `,
         photos: [""],
@@ -1293,7 +1304,7 @@ b_bios = [
             several premiers of his works in this country and Europe. <br><br>
             When the Second World War broke out in 1938, Boulanger joined
             Cambridge's
-            Longy School of Music where she remained until 1945. In Cambridge and Boston
+            Longy School of Music where she remained until 1945 (she was living at Gerry's Landing Road). In Cambridge and Boston
             she lectured on Beethoven string quartets and Bach cantatas. While teaching or
             conducting in Massachusetts, she resided at 30 Gerry's Landing on Coolidge
             Hill as the guest of J. Malcolm Forbes. In addition she stayed with her friend,
@@ -1319,7 +1330,7 @@ b_bios = [
             Monsaingeon, Bruno <em>Mademoiselle</em> Manchester
             UK: Carcanet, 1985.<br>
             Rosenstiel, Leonie <em>A Life in Music NY</em>: WW Norton
-            1982.
+            1982.<Br>Cambridge City Directory, 1941
 
         `,
         photos: [""],
@@ -1415,7 +1426,7 @@ b_bios = [
             a reference librarian, where she worked full time for seven years (1967-1974),
             and then served as a part time librarian from 1974 to 1988. Her husband died
             in
-            1971.
+            1971. She lived at 335 Harvard Street at the time.
             Even
             after her retirement, she was active in the community, especially as a tutor
             to
@@ -1427,6 +1438,7 @@ b_bios = [
             `,
         otherNotes: "",
         references: `<em>Boston Globe </em>July 17, 2005
+        <br>Cambridge City Directory, 1971
         `,
         photos: [""],
         photoTitles: [],
@@ -1886,12 +1898,14 @@ b_bios = [
             Industrial School for Crippled Children for 45 years. She was a member of the
             Harvard Epworth Church where she was a committed member of the United Methodist
             Women's Society. Throughout her life, she devoted her time volunteering
-            at Morgan Memorial, knitting hundreds of mittens and hats.<br><br> She was 100 when
+            at Morgan Memorial, knitting hundreds of mittens and hats. <br><br>In 1954, she was living at 26 Concord Avenue.
+            <br><br> She was 100 when
             she died.
 
             `,
         otherNotes: "",
         references: ` <em>Cambridge Chronicle</em> 10-20-99
+        <br>Cambridge City Directory, 1954
         `,
         photos: ["images_bios/brunt ruth 1917 chls.png"],
         photoTitles: [],
@@ -1984,7 +1998,7 @@ b_bios = [
             Bennington, Gaucher, Yale, and Wellesley. After the death of her husband in
             1954, she took an administrative position at Douglass College for Women, Rutgers
             University in 1955. She was named president of Radcliffe College in Cambridge in 1960 and
-            held that position until 1973. As president, she made a number of significant
+            held that position until 1973 (in 1963, she was living at 6 Brattle Street). As president, she made a number of significant
             changes at Radcliffe. During her tenure, Radcliffe students first received Harvard
             degrees, women were admitted to the graduate and business schools, and the Radcliffe
             Graduate School merged with Harvard's Graduate School of Arts and Sciences.
@@ -2003,6 +2017,7 @@ b_bios = [
         references: ` Ogilvie, Marilyn and Joy Harvey. <em>Biographical
                 Dictionary of Women Scientists.</em> Routledge Press, 2000. Obituary in <em>Harvard
                 Gazette</em>, 1998.
+                <br>Cambridge City Directory, 1963
         `,
         photos: [""],
         photoTitles: [],
@@ -2034,7 +2049,7 @@ b_bios = [
             a teaching aide and eventually got her bachelor's degree in special education
             to work with children with severe learning disabilities. She also worked in
             the Cambridge Public School system, and taught at the Boston University Mini
-            School. Burke occupied the position of Director of Public Relation and Recruitment
+            School (at the time, she lived at 46 Walden Street). Burke occupied the position of Director of Public Relation and Recruitment
             for the Cambridge School Volunteers. She received the Tuskegee Airmen's
             Distinguished Lifetime Achievement Award in recognition for her dedication to
             encouraging others on to high levels of personal achievement and the successful
@@ -2049,8 +2064,7 @@ the holidays by dancing the mazurka:<blockquote>
 
             `,
         otherNotes: "",
-        references: `<em>Cambridge Chronicle</em> 09-30-99<br>            Cambridge Chronicle, 29 January 1991
-
+        references: `<em>Cambridge Chronicle</em> May 7, 1959, January 29, 1991, September 30, 1999
         `,
         photos: [""],
         photoTitles: [],
@@ -2161,7 +2175,7 @@ the holidays by dancing the mazurka:<blockquote>
             Cambridge. She attended St. Mary's High School and the University of Lowell
             Normal School. <br><br>She taught at the Thorndike School while continuing her education
             at the evening school of Boston College. She was a 4th grade teacher at the
-            Thorndike School in East Cambridge for 50 years. She was feted at her 100th
+            Thorndike School in East Cambridge for 50 years. In 1972, she was living at 12 Fresh Pond Lane. She was feted at her 100th
             birthday by the Cambridge City Council and a presentation by the mayor of Cambridge,
             Sheila Russell. A few years earlier she was honored as one of the 14 women who
             initially and continually voted in Cambridge following women's suffrage.
@@ -2171,6 +2185,7 @@ the holidays by dancing the mazurka:<blockquote>
             `,
         otherNotes: "",
         references: `<em>Cambridge Chronicle</em> 2/02/2000
+        <br>Cambridge City Directory, 1972
         `,
         photos: [""],
         photoTitles: [],
@@ -2488,7 +2503,8 @@ the holidays by dancing the mazurka:<blockquote>
 
         Betty was also involved in social activism. At a 1970 rally against the Vietnam War, her endorsement to the crowd 
         of a university-wide strike at Harvard to protest the invasion of Cambodia and the killing of four students at 
-        Kent State University was met with "thunderous applause," according to <i>The Harvard Crimson</i>.<br><Br>
+        Kent State University was met with "thunderous applause," according to <i>The Harvard Crimson</i> (in 1972, she was living
+        at 5 Berkeley Place in Cambridge).<br><Br>
 
         There were once nine Bryn Mawr bookstores across the Northeast, but the Cambridge store and The Lantern in 
         Washington, D.C., are the only survivors. In 2024, the store received a Cambridge Business Award, recognizing
@@ -2524,7 +2540,8 @@ the holidays by dancing the mazurka:<blockquote>
            
             https://www.cambridgema.gov/CDD/News/2024/5/cambridgebusinesseshonoredat2024legacyluncheonawards</a><br><Br>
             Image from findagrave.com: <a href="https://www.findagrave.com/memorial/214077114/elizabeth-anne-butterfield">
-            https://www.findagrave.com/memorial/214077114/elizabeth-anne-butterfield</a>
+            https://www.findagrave.com/memorial/214077114/elizabeth-anne-butterfield</a><Br>
+            Cambridge City Directory, 1972
         `,
         photos: ["images_bios/butterfield.png"],
         photoTitles: [""],
@@ -2569,7 +2586,8 @@ the holidays by dancing the mazurka:<blockquote>
      to her work with the telephone company, Alma became a member of the Board of Trustees for 
      the Cambridge Public Library in the 1930s and remained in that position for 57 years. Alma 
      was for decades part of fundraisers for Cambridge's Holy Ghost Hospital Guild, which later
-      became Youville Hospital, where she served as a trustee for seven years. <Br><Br>
+      became Youville Hospital, where she served as a trustee for seven years. By the 1950, 
+      Alma was living at 20 Langdon Street in Cambridge<Br><Br>
 
     For most of her life, Alma was a close friend of Marion Hurley, the wife of the governer 
     of Massachusetts. At a June 1979 celebration in honor of Alma's 41 years work for the 
@@ -2587,7 +2605,8 @@ the holidays by dancing the mazurka:<blockquote>
         otherNotes: "",
         references: `
             <i>Cambridge Chronicle</i>:<br>30 July 1910<br>9 May 1925<br>24 September 1927<br>22 August 1930
-            <br>9 February 1950<br>24 May 1962<br>14 June 1979<br>5 October 1989
+            <br>9 February 1950<br>24 May 1962<br>14 June 1979<br>5 October 1989<Br>
+            Cambridge City Directory 1954, 1961
         `,
         photos: ["images_bios/boudreau_alma2.png"],
         photoTitles: ["Dedication of the Boudreau library branch in Alma's name, 1989 (Alma at center)"],

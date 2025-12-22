@@ -20,6 +20,7 @@ e_bios = [
             After a residency in pediatrics at Peter Bent Brigham Hospital in Boston, May
             was appointed as a resident at Yale University and rose through the ranks to
             a position on the faculty. <br><br>
+
             With .wards Park she developed a treatment
             for rickets using cod-liver oil, vitamin D and exposure to sun. In 1924, she
             was named director of the Division of Child and Maternal Health at the U.S.
@@ -33,6 +34,7 @@ e_bios = [
             of armed forces personnel for which she was awarded the Lasker prize in 1948.
             She was the first woman to be elected president of the American Public Health
             Association in 1947. <br><br>
+
             In 1948, she was elected president of the National
             Conference on Social Welfare. She was the first woman ever awarded the American
             Public Health Association's Sedgewick Memorial Medal, in 1958. Soon after the
@@ -46,7 +48,8 @@ e_bios = [
             of social workers into public health programs. <br><br>In 1964 the American Public Health
             Association established an annual award in her name to recognize her achievements
             in maternal and child health. In 1972, she was awarded the prestigious Howland
-            prize by that organization, the first woman to receive it. <br><Br>
+            prize by that organization, the first woman to receive it (at the time, she was living
+            at 21 Francis Avenue in Cambridge). <br><Br>
            
             `,
         otherNotes: "",
@@ -56,7 +59,8 @@ e_bios = [
                 href="http://www.nlm.nih.gov/changingthefaceofmedicine/physicians/biography_99.html" target="_self">http://www.nlm.nih.gov/changingthefaceofmedicine/physicians/biography_99.html</a>
             <Br>Image source: <a href="https://en.wikipedia.org/wiki/Martha_May_Eliot">https://en.wikipedia.org/wiki/Martha_May_Eliot</a>
              <br>
-             <i>The Cambridge Chronicle</i>, 8 October 1959   `,
+             <i>The Cambridge Chronicle</i>, 8 October 1959 <Br>
+             Cambridge City Directory, 1972  `,
         photos: ["images_bios/martha_may_eliot.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",

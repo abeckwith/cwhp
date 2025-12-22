@@ -40,7 +40,7 @@ j_bios = [
             writer who had strong abolitionist beliefs. Jacobs traveled to London to try
             to sell
             her manuscript, and it was finally published in 1861. After the civil war, she
-            lived in Cambridge for five years, renting a house on Trowbridge street that
+            lived in Cambridge for five years, renting a house at 10 Trowbridge street that
             she ran as a boarding house for two years for Harvard students from 1870 to 1872.
             <br><br>She then spent three additional years in a house on the corner of Story and Mount
             Auburn streets before moving to Washington D.C., where she spent the rest of
@@ -58,7 +58,8 @@ j_bios = [
             View a <a href="https://youtu.be/wnyYNMZpmoU" target="_self">video history of Harriet Jacobs' life</a> produced by Mount
             Auburn Cemetery.<br>
             Image source: <a href="https://en.wikipedia.org/wiki/Harriet_Jacobs" target="_self">https://en.wikipedia.org/wiki/Harriet_Jacobs</a>
-        `,
+        <br>Cambridge City Directory, 1872
+            `,
         photos: ["images_bios/harriet_jacobs.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
@@ -176,7 +177,7 @@ j_bios = [
             Pratt Institute Library School in Brooklyn, where she worked as assistant reference
             librarian for a year after her graduation in 1891. She met her future husband,
             Lewis Jerome Johnson, a Harvard graduate, while studying botany at Harvard Summer
-            School, marrying him in 1893. <br><br>In 1894, the couple moved to Cambridge where
+            School, marrying him in 1893. <br><br>In 1894, the couple moved to Cambridge (100 Avon Hill Road) where
             her husband joined the Harvard Engineering Department. She had two sons. She
             became interested in woman suffrage and served as president of the Cambridge
                 Political Equality Association. In 1912, she was one of three Massachusetts
@@ -205,7 +206,9 @@ j_bios = [
         otherNotes: "",
         references: ` Grace A Johnson papers, Schlesinger Library, Radcliffe
             Institute. <a href="http://oasis.lib.harvard.edu/oasis/deliver/~sch01027" target="_self">http://oasis.lib.harvard.edu/oasis/deliver/~sch01027</a><Br>
-            Image credit: History Cambridge
+        
+            Cambridge City Directory, 1896
+            <Br>Image credit: History Cambridge
         `,
         photos: ["images_bios/grace_johnson.png"],
         photoTitles: [],
@@ -255,7 +258,7 @@ j_bios = [
             Century Fund, an investment fund. Before her retirement, she oversaw the move
             of the Fiduciary Trust to the World Trade Center. <br><Br>
             Palache married Russell Kennedy Jones, an advertising
-            executive and co-author of <em>The Cruising Cookbook</em>, on December 21, 1954.
+            executive and co-author of <em>The Cruising Cookbook</em>, on December 21, 1954 (she was living at 100 Appleton Street at the time).
             <br><br>She and her husband lived in the town of North Salem, New York, where she served
             as a trustee of the North Salem Free Library and as a member and the chair of
             the North Salem Planning Board. She also served on the Bryn Mawr College board
@@ -268,7 +271,8 @@ j_bios = [
             P hotograph of Alice Palache and Katharine Hepburn at Bryn Mawr in the 1920s,
             Schlesinger Library collections
             <br>Image source: <a href="https://en.wikipedia.org/wiki/Alice_Palache_Jones" target="_self">https://en.wikipedia.org/wiki/Alice_Palache_Jones</a>
-        `,
+        <br>Cambridge City Directory, 1950
+            `,
         photos: ["images_bios/AlicePalache.png"],
         photoTitles: [],
         dateCreated: "prior to 2009",dateUpdated:

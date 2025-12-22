@@ -38,7 +38,7 @@ c_bios = [
             The Cambridge Neighborhood House began to involve a
             broader group of women,  catering to   working
             class women of any ethnic background or religion. It served as an educational,
-            social, and recreational center for nearly a hundred years. The house, which
+            social, and recreational center for nearly a hundred years. The house at 79 Moore Street, which
             had been listed on the National Register of Historic Places to commemorate
             Shaw's work, burned in 1973 and had to be torn down. <br><br>The activities of
             the organization were
@@ -47,7 +47,8 @@ c_bios = [
         otherNotes: "",
         references: ` George Wright Collection at the Cambridge Historical
             Society. 37th
-            Annual Report of Cambridge Social Union.<Br><em>4word</em>, October 2001
+            Annual Report of Cambridge Social Union.<Br><em>4word</em>, October 2001<Br>
+            <i>Cambridge Chronicle</i>, 28 January 1971
         `,
         photos: ["images_bios/neighborhood house on moore.jpg"],
         photoTitles: [],
@@ -256,7 +257,8 @@ c_bios = [
             to a position at Harvard. Adventurous, although not accomplished mountaineers,
             the couple climbed to the summit of a peak at the head of Lake McDonald on their
             honeymoon in what is now Glacier National Park (this was later named Mount 
-            Cannon). <br> <br> With her husband, Cornelia settled in Cambridge where she raised four
+            Cannon). 
+            <br> <br> With her husband, Cornelia settled in Cambridge where she raised four
             daughters and one son. In spite of her family responsibilities, running an academic
             household and raising five children, she became an important writer, contributing
             articles on social and economic subjects to Harper's, Atlantic Monthly, and
@@ -265,7 +267,8 @@ c_bios = [
             Minnesota from the area in which she had been raised.  <br> <br>In order to have privacy
             for her writing, she had the habit of hiding in the bathroom or in her car,
             as vividly described by her daughter Marion Cannon Schlesinger.
-            in a memoir, <em>Snatched from Oblivion</em>. `,
+            in a memoir, <em>Snatched from Oblivion</em>. <Br><Br>Just before her death, she was living at 
+            23 Willard Street in Cambridge.`,
         otherNotes: "",
         references: `Marion Cannon Schlesinger, <em>Snatched from Oblivion</em>,
             Little Brown (1997)<br>
@@ -273,6 +276,7 @@ c_bios = [
             of Our Literary Foremothers&#8221;<Br>
                 Image source: <a href="https://en.wikipedia.org/wiki/Cornelia_James_Cannon" target="_self">
                 https://en.wikipedia.org/wiki/Cornelia_James_Cannon</a>
+                <br>Cambridge City Directory, 1968
 
         `,
         photos: ["images_bios/Cornelia_Cannon_in_~April_1948.jpg"],
@@ -897,7 +901,7 @@ c_bios = [
             and its establishment as an independent women's college, since Radcliffe had
             no faculty of its own. Under her guidance, the college opened a nationwide admission
             program, built new student housing and classroom buildings and expanded its
-            graduate program. <br><br>
+            graduate program. She lived at 76 Brattle Street at the time.<br><br>
             In 1943, Comstock retired from her position at
             the age of sixty-seven, and shortly after, she married Wallace Notestein, a
             retired professor of history at Yale University whom she had known as a young
@@ -912,6 +916,7 @@ c_bios = [
         references: `<em>Notable American Women, Modern Period</em>;
             Ada Louise Comstock papers, Smith College.<br>Public domain Image source: 
             <a href="https://en.wikipedia.org/wiki/Ada_Comstock" target="_self">https://en.wikipedia.org/wiki/Ada_Comstock</a>
+            <Br>Cambridge City Directory, 1928
         `,
         photos: ["images_bios/Ada-Comstock-1905.jpg"],
         photoTitles: [],
@@ -963,7 +968,8 @@ c_bios = [
             made the practice of a woman healer less remarkable, and less profitable. The
             couple, through mismanagement by Raddin or lack of clients, fell into debt while
             Lucy became estranged from her only daughter. In the late 1880s and reputedly
-            abused by her husband, Lucy moved to North Cambridge. <br><br>She became seriously ill
+            abused by her husband, Lucy moved to North Cambridge, living at 9 Forrest Street, where
+            she continued to practice her healing. <br><br>She became seriously ill
             and eventually died of what appears to have been colon cancer in 1895. An oil
             painting of Lucy Ainsworth as a young married woman is in the collections of
             the Vermont Historical Society.<br>
@@ -975,6 +981,7 @@ c_bios = [
             Newkirk, McDonald, &quot;Sleeping Lucy.&quot; Published by the Author, 30 W.
             Chicago Avenue, Chicago, Illinois, 1973.<Br>
             Image source: Vermont Historical Society
+            <br><i>Cambridge Chronicle</i>24 May 1973
         `,
         photos: ["images_bios/lucy cooke.webp"],
         photoTitles: [],
@@ -1006,7 +1013,7 @@ c_bios = [
             counselor in the public school system. She was very active in the Sanctuary
             movement in the 1980s and was one of the co-founders of Centro
                 Presente in 1981 during the period that she was attached to Saint Mary's
-            Catholic Church in Cambridge. She worked for six years as co-director of Centro
+            Catholic Church at 134 Norfolk Street in Cambridge. She worked for six years as co-director of Centro
             Presente and for three years at Saint Francis House doing immigration work with
             homeless and low-income people from around the world. Sister Rose eventually
             moved back to her home state of Kentucky where she became the director of the Dominican

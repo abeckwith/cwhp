@@ -38,14 +38,15 @@ a_bios = [
         as chair of the Massachusetts non-profit organization Universal Health Care Education
         Fund (UHCEF), part of MASS-CARE.<br><br>
 
-        Barbara Ackermann was the daughter of Benjamin Hulley, of the United States Foreign
+        Barbara Ackermann lived at 41 Gibston Street and was the daughter of Benjamin Hulley, of the United States Foreign
         Service, and Joan Carrington. In 1946, she married Paul Ackermann, a Boston
         University professor of German, who died in 2011.
             `,
         otherNotes: "",
         references: `The Political Graveyard: Index to Politicians <a href="https://politicalgraveyard.com/bio/acampora-adamowski.html#ACKERMANN">
         https://politicalgraveyard.com/bio/acampora-adamowski.html#ACKERMANN</a><Br>
-            "You the Mayor?": The Education of a City Politician, by Barbara Ackerman, Praeger Press, 1989
+            "You the Mayor?": The Education of a City Politician, by Barbara Ackerman, Praeger Press, 1989<br>
+            <i>Cambridge Chronicle</a> 11.3.77
         `,
         photos: ["images_bios/Barbara%20Ackermann%20small.jpeg"],
         photoTitles: [""],
@@ -153,14 +154,15 @@ here</a>)<br>
             on several projects with the playwright Samuel Beckett, who had been her childhood
             friend. In 1935, she emigrated to Boston and married Mark De Wolfe Howe, a lawyer
             who became a professor at Harvard Law School. Her three daughters were raised
-            in Cambridge. <Br><br>While in Cambridge, Mary Manning Howe wrote the novel, <em>Mount
+            in Cambridge. <Br><br>While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote the novel, <em>Mount
                 Venus</em> (1938), and was the drama director at Radcliffe College during World
             War II. She helped found the Poet's Theater in Cambridge, which produced
             some of Yeats' early plays and produced work by new playwrights in the
             1950s. After the death of her husband in 1967, she returned to Dublin as theater
             critic for <em>The Irish Times</em>. In 1980, she returned to Cambridge and
             married her lawyer, Faneuil Adams.<br>
-            <br>Her writings include the novel <em>The Last Chronicles
+            <br>
+            Her writings include the novel <em>The Last Chronicles
                 of Ballyfungus</em> (1978), a humorous view of the Anglo-Irish gentry, and the
             play <em>Go Lovely Rose</em>, based on the life of Rose Kennedy, produced as
             a one woman show at the Fourth International Women Playwright's Conference
@@ -555,9 +557,10 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
             of the 
             <a href="bios.html?lNm=MassachusettsFeministFederalCreditUnion&mNm=&fNm=">
             Massachusetts Feminist Credit Union</a>, and active in the organization <em>Save Central
-            Square</em>.`,
+            Square</em>. Ellen lived On Kirkland Street.`,
         otherNotes: "",
         references: `
+        
         `,
         photos: [""],
         photoTitles: [],
@@ -635,9 +638,10 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
     mother, Marianna "Mary" Fortes Gomes, arrived in 1898 and her father, Caesar Julio Lopes, in 1901. At
     the age of 15, Dominga started working in New Bedford as a cotton mill "doffer," replacing bobbins or
     spindles from a spinning frame as they ran out.<br><Br>
+
     At age 16, Dominga (who went by Minie or Minnie) married Ruffino Rosa Andrade, who was also from
     Cape Verde. They moved to Cambridge in the 1930s, where Dominga was employed as a cotton worker
-    for many years. She was a longtime member of the International Ladies' Garment Workers' Union,
+    for many years and they lived at 41 Market Street. She was a longtime member of the International Ladies' Garment Workers' Union,
     an important labor union and one of the earliest to focus on women workers' rights. Dominga raised
     seven children in Cambridge and she and her husband lived at 41 Market Street for close to 60 years.<br><Br>
     Dominga died at home in Cambridge after a brief illness at the age of 95.
@@ -646,7 +650,7 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
         references: ` <em>Cambridge Chronicle</em>, 11-17-99<br>
     Ancestry.com Naturalization recrords<br>
     U.S. Census records<Br>
-    1941 & 1944 Cambridge City Directories
+    1941, 1944 ,1972 Cambridge City Directories
         `,
         photos: ["images_bios/andrade.png"],
         photoTitles: ["1940 U.S. Census for Cambridge showing Dominga as Presser at 41 Market St."],
@@ -790,7 +794,7 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
             attended Barnard College in New York City for one year. After that she went
             to the University of Rome, Italy, where she earned a Doctorate in Biology. She
             came to the United States in 1965 to Brandeis University with a postdoctoral
-            fellowship to the Biochemistry Department and in 1966 moved to Cambridge. She
+            fellowship to the Biochemistry Department and in 1966 moved to Cambridge and lived at 11 Donnell Street. She
             then started a position as a Research Associate in the Department of Bacteriology
             and Immunology at Harvard Medical School. In the late sixties and early seventies
             she became involved with other socially active scientists in the group, &quot;Science
@@ -835,7 +839,8 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
         otherNotes: "",
         references: ` Based on a personal interview by Sandra Pullman,
             2003.; Further information from Jewish Women's Archive &#8220;Women who
-            Dared&#8221; exhibit online.
+            Dared&#8221; exhibit online.<Br>
+            Cambridge City Directory, 1968
         `,
         photos: ["images_bios/arditti.jpg"],
         photoTitles: [],
@@ -974,8 +979,9 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
         narrative: `
 
 
-            Life-long resident of North Cambridge, Louise
-            Azevedo was a Portuguese family and attended catholic schools in Cambridge, including the Notre Dame school. She graduated from Bunker Hill Community College and the University of Massachusetts
+            Life-long resident of North Cambridge (she lived at 1 Rice Circle), Louise
+            Azevedo was a Portuguese family and attended catholic schools in Cambridge,
+             including the Notre Dame school. She graduated from Bunker Hill Community College and the University of Massachusetts
             at Boston, where she received a bachelor's degree in science. <br><Br>She worked
             as a volunteer as a nurse at Cambridge nursing homes, including Youville Hospital, Vernon
             Hall Nursing Home and Neville Manor Nursing Home. She was also an active volunteer
@@ -985,7 +991,8 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
 
             `,
         otherNotes: "",
-        references: `<em>Cambridge Chronicle</em>, June 7, 1973 & October 2, 2000 & May 4, 2006
+        references: `<em>Cambridge Chronicle</em>, June 7, 1973 & October 2, 2000 & May 4, 2006<Br>
+        Cambridge City Directory, 1972
         `,
         photos: [""],
         photoTitles: [],

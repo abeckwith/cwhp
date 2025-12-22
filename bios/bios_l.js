@@ -331,7 +331,8 @@ l_bios = [
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Emily Lewis was born Emily Barron on February
-            22, 1908 in Adams Run, South Carolina. Shortly there after, she moved to Cambridge, where she was raised by the family of Leila and Henry Springer. She attended
+            22, 1908 in Adams Run, South Carolina. Shortly there after, she moved to Cambridge, 
+            where she was raised by the family of Leila and Henry Springer (they lived at 15 Jay Street). She attended
             Webster Grammar School (on Upton Street) and continued her education at Cambridge
             High &amp; Latin School. Emily's husband, Arthur Lewis, died in 1973 and Emily
             died on May 20, 1997 at the age of 89. She is survived by her daughter, Florence,
@@ -358,6 +359,7 @@ l_bios = [
             examination, became a Licensed Practical Nurse, and joined the staff of the
             Brookline Hospital's new Intensive Care Unit. After some forty years of
             service there, she retired.<br><br>
+
             Her
             community contributions include membership on the fund raising committee for
             the building of the current Cambridge Community Center facility. She served
@@ -373,6 +375,7 @@ l_bios = [
             a reliable source of charity, Emily spearheaded a committee and the community
             responded by presenting United Fund (now the United Way) with an eye-opening
             donation.<br><br>
+
             Emily
             was an active member of St. Paul AME Church serving on the stewardess Board,
             the Missionary society and as a Sunday School Teacher. She was also an active
@@ -385,7 +388,8 @@ l_bios = [
          
             Nomination received from Mayor Kenneth Reeves' office<br>
             Cambridge Vital Records<br>
-            Information also provided by Florence Lewis, daughter of Emily Lewis.
+            Information also provided by Florence Lewis, daughter of Emily Lewis.<br>
+            Cambridge City Directory, 1920
         `,
         photos: [""],
         photoTitles: [],
@@ -593,6 +597,7 @@ l_bios = [
             of politics. Her mother was active in the early women's suffrage movement,
             and Florence recalled being taken by her mother to hear Susan B. Anthony when
             Florence was five. <br><br>
+
             She attended Chauncy Hall, a private secondary
             school, and then went on to MIT, graduating in 1909 with a B.S. in Architecture,
             among the first women to receive this degree at MIT. Her interest was primarily
@@ -600,6 +605,7 @@ l_bios = [
             After graduation she practiced architecture with Ida A. Ryan, a fellow graduate,
             in Watertown until the First World War, when a building slump ended the demand
             for new residential housing. <br><br>
+
             In 1918, Luscomb left architecture to become executive
             secretary for the Boston Equal Suffrage Association, and began to sell copies
             of the <em>Woman's Journal</em> on Boston Common, and to give speeches
@@ -619,7 +625,7 @@ l_bios = [
             up paid employment and devote herself to social reform and political activism.
             She worked for the Boston wing of the National Association for the Advancement
             of Colored People, for the Civil Liberties Union of Massachusetts, and the American
-            League for Peace and Democracy, among other organizations. By the late &#8216;40s,
+            League for Peace and Democracy, among other organizations. By the late &#8216;40s (when she was living at 29 Bowdoin Street),
             she set up a co-operative household in Cambridge that offered like-minded women,
             including Radcliffe graduate students, a nurturing environment. <br><br>
             
@@ -662,7 +668,8 @@ l_bios = [
             Schlesinger Library. <em>Papers in the Woman's Rights Collection, 1904-1959:
                 A Finding Aid</em>. Cambridge, Massachusetts, 2005.<br>
             Schlesginer Library.<em> Florence Luscomb Papers, 1856-1987: A Finding Aid</em>.
-            Cambridge, Massachusetts, 1989.
+            Cambridge, Massachusetts, 1989.<Br>
+            Cambridge City Directory, 1946
         `,
         photos: ["images_bios/Florence%20Luscombe%201977%20small.jpeg"],
         photoTitles: [],
