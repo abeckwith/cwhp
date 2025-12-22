@@ -1011,11 +1011,16 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
         deathLocation: "Boston, Massachusetts",
         narrative: `
         
-        <i>After attending Cambridge High & Latin School and then Emerson College in Boston, Barbara Ward Armstrong 
+        After attending Cambridge High & Latin School and then Emerson College in Boston, Barbara Ward Armstrong 
         became an artist, teacher, singer, and choreographer.<br><Br> While in her 30s, some of her soft-fabric dolls were displayed at Boston's Museum of
-        Fine Arts. In speaking of her dolls, she related "I was focused on my dance and theater and never in my wiildest dreams did I
+        Fine Arts. In speaking of her dolls, she related 
+        
+        <blockquote>"I was focused on my dance and theater and never in my wiildest dreams did I
         take what I was doing [with dolls] as an 'art form' and all of a sudden, the dolls that were sitting in my backyard were sitting
-        in the Museum of Fine Arts and they had a new term, 'soft sculpture'."
+        in the Museum of Fine Arts and they had a new term, 'soft sculpture'."</blockquote>
+
+        As a child, living at 112 Pearl Street in Cambridge, she <blockquote> "...used to sit on the front porch of her parents' house and sell her poems, 
+        stories and handmade fabric dolls to passersby. I was out there. I was a Cambridge hippie at [age] seven."</blockquote>
 
         </i><Br><Br>More of her story is told through the <b>Cambridge Black History Project</b>:
        <h2> <center><a href='https://cambridgeblackhistoryproject.org/project/barbara-ward-armstrong/' target="_self">Barbara Ward Armstrong's story</a></h2><Br><Br>
@@ -1023,7 +1028,7 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
        The <a href='https://cambridgeblackhistoryproject.org/' target="_self">Cambridge Black HIstory Project</a>
         is an organization dedicated to preserving the lives and accomplishments
        of Black Cantabridgians.  We encourage you to explore the powerful stories they share on their website:
-       <br>
+     
         <Br><center>
         <a href='https://cambridgeblackhistoryproject.org/' target="_self">
 
@@ -1035,7 +1040,8 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
         `,
         otherNotes: "",
         references: `
-        <i>Boston Globe</i>, obituary, September 8, 2013, page B9
+        <i>Boston Globe</i>, obituary, September 8, 2013, page B9<br>
+        <i>The Cambridge Chronicle</i>, Volume 156, Number 35, 26 June 2002
         `,
         photos: ["images_bios/armstrong_barbara.png"],
         photoTitles: [],
