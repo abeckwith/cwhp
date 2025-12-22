@@ -185,7 +185,8 @@ s_bios = [
             <em>Snatched From Oblivion</em>, that described growing up in an academic household
             in Cambridge dominated by strong-minded women, including her novelist mother.
             In this book she also depicted an assortment of Cambridge characters of the
-            1920s and 1930s, the politics of the time, and town-gown confrontations.`,
+            1920s and 1930s, the politics of the time, and town-gown confrontations.<br><Br>
+            When she died in 2017, Marian Schlesinger was 104 years old.`,
         otherNotes: "",
         references: `Marian Cannon Schlesinger, <em>Snatched from Oblivion</em>,
             (Little Brown, 1979)<br>
