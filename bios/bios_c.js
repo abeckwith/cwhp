@@ -356,7 +356,7 @@ c_bios = [
  
 
             The founding group of the Female Liberation group
-            was called &quot;Cell 16&quot;, located at 552 Mass Ave. Historically, it began
+            was called &quot;Cell 16&quot;, located at 552 Mass Avenue Historically, it began
             with a group of women gathering at Emmanuel College for a women's conference
             
 
@@ -973,7 +973,7 @@ c_bios = [
             Vermont Women's History Project, Vermont Historical Society<br> The painted portrait is listed as &#8220;Lucy
             Ainsworth Cooke.&#8221;<br>
             Newkirk, McDonald, &quot;Sleeping Lucy.&quot; Published by the Author, 30 W.
-            Chicago Ave., Chicago, Illinois, 1973.<Br>
+            Chicago Avenue, Chicago, Illinois, 1973.<Br>
             Image source: Vermont Historical Society
         `,
         photos: ["images_bios/lucy cooke.webp"],

@@ -79,7 +79,7 @@ m_bios = [
         otherNotes: "",
         references: `
             Veterans Services Department, City of Cambridge.<br>
-            January 4, 2011 Mass. Assoc. of Women Veterans Honors<br>
+            January 4, 2011 Massachusetts Assoc. of Women Veterans Honors<br>
             <a href="https://www.youtube.com/watch?v=MnTlRJ6UBpc" target="_self">https://www.youtube.com/watch?v=MnTlRJ6UBpc</a> <br>
             St. Ansel Alumni Awards description
             <br>

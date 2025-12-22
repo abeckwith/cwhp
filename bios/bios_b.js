@@ -306,7 +306,7 @@ b_bios = [
         narrative: `
 
             Mary Bancroft, author and intelligence officer
-            for the Office of Strategic Services, was born in Cambridge, Mass., in 1903
+            for the Office of Strategic Services, was born in Cambridge, Massachusetts, in 1903
             to Mary Agnes (Cogan) and Hugh Bancroft, later publisher of <em>The Wall Street
                 Journal</em>. Her mother, who studied at Radcliffe College, died soon after
             Mary was born. As a child, Bancroft graduated from the Winsor School, in Boston
@@ -360,11 +360,11 @@ b_bios = [
         organization: false,
         lastName: "Barron",
         firstName: "Ruth",
-        middleName: "L.",
-        familyName: "",
+        middleName: "Lillian",
+        familyName: "Tarutz",
         
         title: `Businesswoman, community volunteer`,
-        birthDate: "ca.1916",
+        birthDate: "01.31.1916",
         birthLocation: "",
         deathDate: "04.21.2001",
         deathLocation: "Boston, Massachusetts",
@@ -463,7 +463,7 @@ b_bios = [
         familyName: "",
         
         title: `Dancer, storyteller, teacher of dance`,
-        birthDate: "",
+        birthDate: "00.00.1938",
         birthLocation: "Cambridge, Massachusetts",
         deathDate: "",
         deathLocation: "",
@@ -574,7 +574,7 @@ b_bios = [
             establish a city water works in Cambridge, was a founder of the Cambridge Gas
             Co., and later organized a Cambridge to Boston trolley system. <br><br>Between ages
             four and five, Mabel became deaf as a result of scarlet fever. Her father founded
-            the first American school for the deaf at Chelmsford, Mass. and served as trustee
+            the first American school for the deaf at Chelmsford, Massachusetts and served as trustee
             
             of the Clarke School for the deaf, which Mabel attended. <br><br>
             After Mabel went to Germany in her teens to study
@@ -671,12 +671,12 @@ b_bios = [
                 History
                 Project</em>of Schlesinger Library.
         `,
-        photos: [""],
-        photoTitles: [],
+        photos: ["images_bios/bennett.png"],
+        photoTitles: ["The Cambridge Chronicle, 23 July 1921"],
         dateCreated: "prior to 2009",
         dateUpdated: "",
 
-        photoHeights: [],
+        photoHeights: ["150"],
         editors:"",
         authors: "CWHP volunteers",
         categories: ["Community Leader", "Volunteer"],
@@ -1190,19 +1190,24 @@ b_bios = [
             gender, and income. She served 21 years on the board of Cambridge School Volunteers.
             For 5 years she was a member of the School Health Task Force, successfully lobbying
             for additional school nurses and for a comprehensive health policy for the schools.
-            
+<br><Br>
+            In an 1983 article about the Central Square area, Ann was quoted as saying <blockquote>
+            "All of us in the bordering neighborhoods should think about including Central Square as part of our communities."
+            </blockquote>
 
             `,
         otherNotes: "",
-        references: ` <em>Cambridge Chronicle</em> 6-13-01
+        references: ` <em>Cambridge Chronicle</em> 6-13-01<br>
+        The Cambridge Chronicle, Volume 137, Number 22, 2 June 1983
+
         `,
-        photos: ["images_bios/ann bolger.jpeg"],
+        photos: [""],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "",
+        dateUpdated: "12.21.2025",
 
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist", "Volunteer"],
     },
@@ -1825,9 +1830,11 @@ b_bios = [
 
 
             Charlotte Hawkins Brown was born in North Carolina
-            to Caroline Hawkins and Edmund H Hight. Her extended family moved to Cambridge
-            in 1890 when she was seven. She graduated from Cambridge English High School
-            and attended Massachusetts State Normal School. <br><br>In 1902, after a year in North
+            to Caroline Hawkins and Edmund H. Hight. Her extended family moved to Cambridge
+            in 1890 when she was seven, where she was raised and educated.
+
+            Charlotte attended public schools in Cambridge, including the Cambridge English High School. 
+            She then attended Massachusetts State Normal School. <br><br>In 1902, after a year in North
             Carolina, she founded the Palmer Memorial Institute there. This began as a rural
             county school but gradually developed into a private preparatory school for
             middle-class African American children, named after the Wellesley College president
@@ -1845,15 +1852,16 @@ b_bios = [
         otherNotes: "",
         references: ` <em>Notable American Women, Modern Period</em> (Belnap
             Press: 1980)<Br>Photo from <a href="https://en.wikipedia.org/wiki/Charlotte_Hawkins_Brown#/media/File:Charlotte_Eugenia_Hawkins_Brown.jpg">
-            https://en.wikipedia.org/wiki/Charlotte_Hawkins_Brown#/media/File:Charlotte_Eugenia_Hawkins_Brown.jpg</a>
+            https://en.wikipedia.org/wiki/Charlotte_Hawkins_Brown#/media/File:Charlotte_Eugenia_Hawkins_Brown.jpg</a><Br>
+            <a href="https://en.wikipedia.org/wiki/Charlotte_Hawkins_Brown">https://en.wikipedia.org/wiki/Charlotte_Hawkins_Brown</a>
         `,
         photos: ["images_bios/brown_charlotte.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "",
+        dateUpdated: "12.21.2025",
 
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator"],
     },
@@ -1903,10 +1911,10 @@ b_bios = [
         familyName: "Thorp",
         
         title: `Writer and Artistic leader`,
-        birthDate: "00.00.1850",
-        birthLocation: "",
+        birthDate: "03.24.1850",
+        birthLocation: "Oxford, New York",
         deathDate: "01.00.1911",
-        deathLocation: "",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
 
 
@@ -2016,7 +2024,7 @@ b_bios = [
         title: `Educator`,
         birthDate: "00.00.1927",
         birthLocation: "Boston, Massachusetts",
-        deathDate: "09.00.1999",
+        deathDate: "09.25.1999",
         deathLocation: "",
         narrative: `
 
@@ -2032,19 +2040,25 @@ b_bios = [
             encouraging others on to high levels of personal achievement and the successful
             pursuit of individual goals. <br><br>She was also involved with the Cambridge Peace
             Commission and the First Parish Unitarian Universalist Church. She participated
-            as a member of the <a href="bios.html?lNm=BackPorchDanceCompany&mNm=&fNm=">Back Porch Dance Company</a>. 
+            as a member of the <a href="bios.html?lNm=BackPorchDanceCompany&mNm=&fNm=">Back Porch Dance Company</a>. <b>
+Burke was quoted in 1991 as describing her very musical Cape Verdean family and that they would celebrate 
+the holidays by dancing the mazurka:<blockquote>
+"The men would take their instruments and go from house to
+ house and the grown-ups would end up at my mother's house. 
+ I would sit on the edge of the bed and listen to them play."</blockquote>
 
             `,
         otherNotes: "",
-        references: `<em>Cambridge Chronicle</em> 09-30-99
+        references: `<em>Cambridge Chronicle</em> 09-30-99<br>            Cambridge Chronicle, 29 January 1991
+
         `,
         photos: [""],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "",
+        dateUpdated: "12.21.2025",
 
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator"],
     },
@@ -2190,7 +2204,7 @@ b_bios = [
         Trade School in the early 1920s, where she excelled in sewing (the school in the North End still exists today). <Br><Br>
 
         In 1926, she married Frank R. Butler, who worked as a porter, and by 1941 they had
-        moved into a house on Hubbard Ave. in North Cambridge. Gladys was a dedicated mother 
+        moved into a house on Hubbard Avenue in North Cambridge. Gladys was a dedicated mother 
         to her two sons Paul and James and a devoted member of the Union Baptist Church (UBC) in Central
         Square for over 50 years, where she served on many committees.  
         UBC was founded in 1877 by African-Americans in Cambridge and Gladys was a 

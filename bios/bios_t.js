@@ -107,7 +107,7 @@ t_bios = [
         references: `
             &#8220;Learning without drudgery&#8221; <em>Time</em> magazine February 10, 1947.<br>
             Edward Yeomans. <em>Shady Hill School: The First Fifty Years</em> Cambridge,
-            Mass.: Windflower Press, 1979.<br>
+            Massachusetts: Windflower Press, 1979.<br>
             May Sarton,<em> Recovering: A Journal, 1978-1979</em>,. New York: W.W. Norton
             pp 242-244.
             <br>Image used wth permission from Shady Hill School (<a href="https://www.shs.org/" target="_self">https://www.shs.org/</a>)
@@ -203,7 +203,7 @@ t_bios = [
             One of the first African American women to graduate
             from Tufts Dental School, Mary Crutchfield was the first black woman to practice
             dentistry in the Boston area. The only child of William and Lydia Hatch Crutchfield,
-            Mary was born in North Carolina and raised in Cambridge, Mass. After graduation
+            Mary was born in North Carolina and raised in Cambridge, Massachusetts After graduation
             from Tufts College Dental School in 1930, she worked at the Boston Dispensary,
             and founded the Children's Dental Clinic in her Cambridge home on Windsor
             Street. She was awarded a certificate in recognition of her contribution to
@@ -214,7 +214,7 @@ t_bios = [
             a project initiated by this sorority founded by college trained African American
             women. She later served as the AKA chapter president. <br><br>
              She married Oscar Thompson in 1948. The couple,
-            who later moved to Natick, Mass., believed in bringing races together and founded
+            who later moved to Natick, Massachusetts, believed in bringing races together and founded
             one of the first Fair Housing committees in America. The NAACP presented her
             with an outstanding achievement award for humanitarian services in 1973. In
             1976 Alpha Kappa Alpha honored her by establishing in her name a scholarship

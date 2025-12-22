@@ -190,7 +190,7 @@ f_bios = [
         deathLocation: "Brookline, Massachusetts",
         narrative: `
  Mary 
-    Hamilton Frye was born in Salem, Mass. on April 18, 1890 to Nathan Frye and 
+    Hamilton Frye was born in Salem, Massachusetts on April 18, 1890 to Nathan Frye and 
     Alice H. Chase Frye. She had three brothers Charles, Francis, and John. The 
     family moved from Salem to Cambridge around 1896. They lived for many years 
     at 10 Acacia Street in Cambridge.<br><br>
@@ -207,7 +207,7 @@ f_bios = [
     stained glass windows for churches in Yarmouth, Nova Scotia and Mechanicsville, 
     New York. Locally, she designed windows at Bertram and Eliot halls in the Radcliffe 
     Quadrangle. <br><br>
-     Frye moved from Cambridge to Concord, Mass. in 1949 
+     Frye moved from Cambridge to Concord, Massachusetts in 1949 
     and worked at the Boston Museum of Science as an artist. She died of breast 
     cancer at the age of 61 on May 18, 1951 and is buried in Sleepy Hollow Cemetery 
     in Concord.

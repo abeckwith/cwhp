@@ -21,7 +21,7 @@ l_bios = [
             testing procedures. She went on to do graduate work in social psychology at
             the University of Rochester, receiving a Ph.D. in 1958. <br><br>
             Ladd taught psychology at Simmons College, and
-            did research at a hospital for the elderly in Framingham, Mass. When her husband
+            did research at a hospital for the elderly in Framingham, Massachusetts When her husband
             received a Fulbright Scholarship, Ladd went with him to Turkey. She taught at
             Robert College and the American College for Girls in Istanbul, an experience
             that spurred her to combine social psychology with environmental studies. She
@@ -263,7 +263,7 @@ l_bios = [
             1909, Edith Lesley founded The Lesley School, known also as the Lesley Normal
             School in its early years. The primary purpose of the school was to train young
             women in kindergarten education. She initially rented rooms at the Cambridge
-            School for Girls at 36 Concord Ave. for classes before moving them to her family's
+            School for Girls at 36 Concord Avenue for classes before moving them to her family's
             home at 29 Everett Street. She and her sister ran the school part-time for three
             years while continuing to teach at the Houghton School. In 1912, after she married
             engineer and inventor Merl R. Wolfard, Edith Lesley resigned from her teaching
@@ -657,12 +657,12 @@ l_bios = [
             Sharon Hartman Strom. <em>Political Woman: Florence Luscomb and the Legacy of
                 Radical Reform</em>. Philadelphia, 2001.<br>
             Rollins, Ann. <em>Women's History Tour of Cambridge</em>. Ribe: Cambridge,
-            Mass., 1987.<br>
+            Massachusetts, 1987.<br>
             MIT Museum. Biographical file.<br>
             Schlesinger Library. <em>Papers in the Woman's Rights Collection, 1904-1959:
-                A Finding Aid</em>. Cambridge, Mass., 2005.<br>
+                A Finding Aid</em>. Cambridge, Massachusetts, 2005.<br>
             Schlesginer Library.<em> Florence Luscomb Papers, 1856-1987: A Finding Aid</em>.
-            Cambridge, Mass., 1989.
+            Cambridge, Massachusetts, 1989.
         `,
         photos: ["images_bios/Florence%20Luscombe%201977%20small.jpeg"],
         photoTitles: [],

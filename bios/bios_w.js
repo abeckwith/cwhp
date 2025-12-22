@@ -15,7 +15,7 @@ w_bios = [
             Mary Wadden was the daughter of Dr. Joseph M. Wadden and Mary F. (McBride)
             Wadden.  Her mother died before she Mary reached her first birthday.
             <Br><Br>Wadden got her B.A. from Regis College in Weston in 1946 and was a lifelong resident of 
-            Cambridge, living on Concord Ave. She taught in the Cambridge Public
+            Cambridge, living on Concord Avenue She taught in the Cambridge Public
             schools for thirty-eight years, including at the Harrington School. The Cambridge City Council passed a resolution
             in recognition of her life and achievements on April 2, 2001.<br>
             `,
@@ -641,7 +641,7 @@ w_bios = [
             II, and after the war, she was the first black woman employed by the banking
             department of the Commonwealth of Massachusetts, where she worked for nearly
             twenty years.<br><br>
-            During the 1950s, the Wises lived in Billerica, Mass., in a house which they
+            During the 1950s, the Wises lived in Billerica, Massachusetts, in a house which they
             ran as an inn that they named Galehurst. Some time after her husband's
             death in 1963, she returned to Cambridge to live with her sister, Satya Barrett.
             She spent much of her energy at St. Paul AME Church, serving as a Sunday School

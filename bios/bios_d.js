@@ -317,7 +317,7 @@ d_bios = [
             heyday, it had chapters throughout the US and Australia. Between 1959 and 1972,
             the DOB
             published a national newsletter, <em>The Ladder</em>. The Cambridge chapter, held meetings at
-            the Old Cambridge Baptist Church at 1151 Mass. Ave. well in to the 1990s.
+            the Old Cambridge Baptist Church at 1151 Massachusetts Avenue well in to the 1990s.
             <Br><blockquote>
             <i>The heart of the organization was supporting lesbians in a safe place, 
             and ultimately they saw that lesbians from different groups needed 
@@ -640,7 +640,7 @@ d_bios = [
             started the summer poetry reading festivals at the Longfellow house on Brattle
             Street. She received awards from the PEN International and Writers Union of America,
             NEA, National Writers Union, Paterson Poetry Center, Prairie Schooner, American Scholar,
-            the Armenian Scholar, and the Armenian Ministry of Culture.<br><br>She died in Cambridge, Mass. in 2018.`,
+            the Armenian Scholar, and the Armenian Ministry of Culture.<br><br>She died in Cambridge, Massachusetts in 2018.`,
         otherNotes: "",
         references: `
             Sally Cragin, &#8220;Worcester-born poet Diana Der-Hovanessian visits the old
@@ -698,7 +698,7 @@ d_bios = [
             of Austria the following year, Helene Deutsch, with her son, fled Austria for
             the United States. When her husband joined her the next year, they settled in
             Cambridge, Massachusetts where she lived for the rest of her life (in 1963, she was living at 44 Larchwood 
-            Drive across from FreshPond). She became
+            Drive across from Fresh Pond). She became
             an Associate Psychiatrist at the Massachusetts General Hospital and an active
             member of the Boston Psychoanalytic Society, publishing a two volume book on
             women's psychology, <em>The Psychology of Women</em> (1944-45). <br><br>In 1964, Deutsch's

@@ -419,7 +419,7 @@ h_bios = [
             be found in the William Ernest
             Hocking papers in Houghton Library Harvard University and additional letters
             (about Shady Hill) in the Katherine Taylor Papers in Schlesinger Library. There
-            is also a folder in the WEH papers from Cambridge Historical Society (Mass.), &#8220; Correspondence
+            is also a folder in the WEH papers from Cambridge Historical Society (Massachusetts), &#8220; Correspondence
             with WEH, 1950&#8221; with a letter from Agnes Hocking concerning the history
             of the Shady Hill School. <br>`,
         otherNotes: "",
@@ -574,7 +574,7 @@ h_bios = [
             work was devoted mainly to the discovery of other similar ruins and her attempts
             to show that similar North American ruins were identical with those to be found
             in Iceland and Greenland. <br><br>
-            Horsford was also a member of the Mass. Horticultural
+            Horsford was also a member of the Massachusetts Horticultural
             Society; Colonial Dames of Massachusetts; and the Icelandic Antiquarian Society.
             She lived in her family home at 27 Craigie Street, Cambridge and summered on
             Shelter Island, Long Island. Her family letters are in Rensselaer Polytechnic
@@ -700,7 +700,7 @@ h_bios = [
             MIT Museum. <br>
             
             Abeel, Daphne. <em>Cambridge in the Twentieth Century</em>, Cambridge Historical
-            Society: Cambridge, Mass., 2007. <br>
+            Society: Cambridge, Massachusetts, 2007. <br>
             Allaback, Sarah. <em>The First American Women Architects</em>. Urbana and Chicago:
             University of Illinois Press, 2007<br>
             American Institute of Architects. <em>The A.I.A. Historical Directory of American
@@ -714,7 +714,7 @@ h_bios = [
             Ben-Joseph, Eran, Holly D. Ben-Joseph and Anne C. Dodge.<em> Against all Odds:
                 MIT's Pioneering Women of Landscape Architecture</em>. Massachusetts Institute
             of Technology, School of Architecture and Planning, City Design and Development
-            Group: Cambridge, Mass., November 2006. <br>
+            Group: Cambridge, Massachusetts, November 2006. <br>
             Cambridge Historical Society. <em>Cambridge Historical Society Proceedings</em>.<br>
             Cole, Doris and Taylor, Karen Cord, The Lady Architects, Mid March Arts Press:
             New York, 1990<br>

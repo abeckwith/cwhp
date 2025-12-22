@@ -435,7 +435,7 @@ here</a>)<br>
         middleName: "",
         familyName: "",
         
-        title: `Non-profit cooperative poetry press<br>(founded 1973 in Cambridge, Mass. affiliated with the University of Farmington 1996-2021)`,
+        title: `Non-profit cooperative poetry press<br>(founded 1973 in Cambridge, Massachusetts affiliated with the University of Farmington 1996-2021)`,
         birthDate: "",
         birthLocation: "",
         deathDate: "",
@@ -553,7 +553,7 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
             of the 
             <a href="bios.html?lNm=MassachusettsFeministFederalCreditUnion&mNm=&fNm=">
             Massachusetts Feminist Credit Union</a>, and active in the organization <em>Save Central
-            Square</em>`,
+            Square</em>.`,
         otherNotes: "",
         references: `
         `,
@@ -637,7 +637,7 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
     Cape Verde. They moved to Cambridge in the 1930s, where Dominga was employed as a cotton worker
     for many years. She was a longtime member of the International Ladies' Garment Workers' Union,
     an important labor union and one of the earliest to focus on women workers' rights. Dominga raised
-    seven children in Cambridge and she and her husband lived on Market Street for close to 60 years.<br><Br>
+    seven children in Cambridge and she and her husband lived at 41 Market Street for close to 60 years.<br><Br>
     Dominga died at home in Cambridge after a brief illness at the age of 95.
             `,
         otherNotes: "",
@@ -919,7 +919,7 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
             human and physical city services, and are generaally concerned with preserving and enhancing North Cambridge" life for families.
             
             By 1983, she had been elected president of the NCPT.<br><br>
-            Josie volunteered for a youth free lunch program, advocated for safety at Jefferson Park(especially at the nearby
+            Josie volunteered for a youth free lunch program, advocated for safety at Jefferson Park (especially at the nearby
             railroad tracks), and helped organize free Thanksgiving meals in the neighborhood.
             Josie worked worked with the Cambridge City Hall, hospital personnel,
             and residents of Jefferson Park to form the first Teen Family Planning Clinic.
