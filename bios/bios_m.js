@@ -139,11 +139,11 @@ m_bios = [
 
         `,
         photos: ["images_bios/map_feminist.png"],
-        photoTitles: [],
+        photoTitles: [""],
         dateCreated: "00.00.2020",
         dateUpdated: "",
 
-        photoHeights: [],
+        photoHeights: ["150"],
         editors:"",
         authors: "CWHP volunteers",
         categories: ["Historian/History Project"],
@@ -220,7 +220,7 @@ m_bios = [
             Helen Deane Markham was brought up in Springfield,
             Massachusetts, where she attended the public schools. She graduated from Wellesley College,
             then attended Brown University to pursue a graduate degree in biology, and took
-            her Ph.D. in 1943. She spent the following year as a lecturer at McGill University
+            her Ph.D. in 1943. <Br><Br>She spent the following year as a lecturer at McGill University
             and came to live in Cambridge in 1944 and work in the Department of Anatomy
             at Harvard Medical School. Helen was the first female instructor and later the
             first female professor in the department. She did notable tissue research while
@@ -364,7 +364,8 @@ m_bios = [
         otherNotes: "",
         references: `
             Written by Kimm Topping, printed in <em>Mapping Feminist Cambridge</em> guidebook, 2019: <a
-                href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a>
+                href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">
+                https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a>
 
         `,
         photos: [""],
@@ -372,7 +373,7 @@ m_bios = [
         dateCreated: "00.00.2014",
         dateUpdated: "",
 
-        photoHeights: [],
+        photoHeights: [""],
         editors:"",
         authors: "CWHP volunteers",
         categories: [

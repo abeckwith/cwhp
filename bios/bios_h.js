@@ -618,14 +618,18 @@ h_bios = [
             an interest in architecture. The workers building the Sanders Theatre at Harvard
             College in 1876 dubbed her &#8220;the little superintendent&#8221; for her constant
             comments on their project. <br><br>
+
             From 1882 &#8211; 1886 Howe was a student at The
             School of the Museum of Fine Arts, Boston. Her focus at the Museum School was
             in design. Her later architectural work reflected this artistic training, and
             she maintained contacts with artists throughout her life. She became a member
-            of the Copley Society of Boston, an association of artists, in 1883. <br><br>She joined
+            of the Copley Society of Boston, an association of artists, in 1883. <br><br>
+            
+            She joined
             the Council of the School of the Museum of Fine Arts in 1897; later the Museum
             School named her an annual &quot;Visitor to the School.&quot; She also served
-            as director of the Boston Society of Arts and Crafts from 1916 to 1919.<br>
+            as director of the Boston Society of Arts and Crafts from 1916 to 1919.<br><Br>
+
             Howe's father passed away in 1887. Shortly after
             his death, the family sold the house on Oxford Street and moved to 2 Appleton
             Street. As a result of Howe's alteration of a stairway of the Oxford street

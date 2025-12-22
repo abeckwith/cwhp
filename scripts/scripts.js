@@ -362,7 +362,7 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
     html += "</strong></div>";
 
     //title and birth info:
-    html += "<strong>" + person.title + "</strong>";
+    html += "<strong><span class='person-title'>" + person.title + "</span></strong>";
 
     //birth/death info:
     if (person.birthDate != "" || person.birthLocation != "")

@@ -173,7 +173,7 @@ r_bios = [
                 Development</em> 63: 267-75, Jan 1985.<Br>
                 Image source: <a href="https://en.wikipedia.org/wiki/Anne_Roe" target="_self">https://en.wikipedia.org/wiki/Anne_Roe</a>
         `,
-        photos: ["images_bios/anne_roe.jpg"],
+        photos: ["images_bios/Anne_Roe.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",dateUpdated:
  "04.07.2025",
