@@ -298,7 +298,7 @@ m_bios = [
             near her daughter in Peterborough, New Hampshire. Schlesinger holds a diary
             of Lorna Marshall that includes planning for dinners, including a manuscript
             cookbook. Her expedition diaries are held at Peabody Museum, Harvard University.<br>
-            Her daughter, Elizabeth Marshall Thomas
+            <br>izabeth Marshall Thomas
             also became a serious student of anthropology. Only nineteen when she first
             went with her mother to Africa, Thomas continued her mother's work. As
             early as 1959, in her late twenties, Thomas published a study of the group,
