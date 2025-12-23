@@ -23,7 +23,9 @@ a_bios = [
 
         She was a member of the Cambridge School Committee from 1962 to 1968, when she
         was elected to the City Council. After her term as mayor, she returned to her seat on the
-        City Council and remained a member until 1977.<Br><br>
+        City Council and remained a member until 1977. In her memoir, she said of Cambridge...<blockquote>
+        "What is most special about Cambridge is its wild diversity. Even our streets won't settle down to a tidy pattern." </blockquote>
+        
 
         As a newly elected councillor, she joined the opposition to the state's Inner Belt highway 
         plan that would raze Brookline and Elm streets, along with 1,300 working class residents' homes.
@@ -34,7 +36,10 @@ a_bios = [
         In 1972, Ackermann was also  a delegate to the Democratic National Convention from
         Massachusetts. In 1989, she wrote an account of her experiences as a Cambridge
         politician in a book entitled, <em>"You the Mayor?": The Education of a City Politician</em>, which
-        offers insights into political life and the functioning of a city. In addtion, she was active
+        offers insights into political life and the functioning of a city. In her memoir, she explained:<blockquote>
+        "Like most of my colleagues, I wanted to be a link between citizens and city government and
+         to help the bureaucracy see their responsibilities in human terms. Among my special goals
+          were better schools, better police work, better public housing."</blockquote> She was also active
         as chair of the Massachusetts non-profit organization Universal Health Care Education
         Fund (UHCEF), part of MASS-CARE.<br><br>
 
@@ -53,7 +58,7 @@ a_bios = [
         photoHeights: [],
         
         dateCreated: "00.00.2014",
-        dateUpdated: "12.17.2025",
+        dateUpdated: "12.23.2025",
 
         editors:"Joan Sindall, Barbara Beckwith",
         authors: "CWHP volunteers",
