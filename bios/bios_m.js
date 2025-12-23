@@ -816,9 +816,9 @@ m_bios = [
         familyName: "Johnston",
         
         title: `Secretary and business manager to Robert Frost`,
-        birthDate: "00.00.1898",
+        birthDate: "11.18.1898",
         birthLocation: "Nova Scotia, Canada",
-        deathDate: "00.00.1989",
+        deathDate: "06.21.1989",
         deathLocation: "",
         narrative: `
             Kathleen "Kay" Morrison was born in
@@ -838,7 +838,7 @@ m_bios = [
             their friendship throughout their lifetime. It is said they &#8220;made up
             a family of sorts.&#8221; (Parini, 315).<br><br>
             In
-            1938, Robert Frost engaged Kay as his secretary, business manager and typist.
+            1938, Robert Frost engaged Kay as his secretary, business manager and typist (Morrison lived at 9 Avon Street in Cambridge at the time).
             Kay found working for Frost to be a full-time job and she quit her part-time
             job as a reader at the Atlantic Monthly Press. Frost comments that Kay was
             one of four essential connections in his life. (Parini, p. 353.)<br><br>
@@ -847,7 +847,7 @@ m_bios = [
             College from 1932 &#8211; 1955. In the summer of 1939, Frost purchased the
             Homer Nobel Farm in Ripton, Vermont close to the College. During the summers,
             Robert Frost would reside in the cabin on the farm and the Morrison's
-            would stay in the farm's main house (Morrison lived at 103 Walker Street in Cambridge at the time).<br><br>
+            would stay in the farm's main house.<br><br>
             Robert
             Frost held Kay in special regard. &#8220;The Silken Tent&#8221; is
             believed by many to have been written for her. It has been documented that &#8220;Never
@@ -889,18 +889,21 @@ m_bios = [
             <em>Robert Frost Encyclopedia</em>. Westport,
             Conn.: Greenwood Press, 2001. Found 
             <a href="http://books.google.com/books?id=RjZuWeTJpAkC&amp;pg=PA466&amp;lpg=PA466&amp;dq=Robert+Frost+Encyclopedia+Tuten+Zubizarreta" target="_self">
-            here</a><br><br>Image courtesty of Middlebury College Special Collections, Middlebury, Vermont<Br>
-            Cambridge City Directory, 1941
+            here</a><br><br>Image courtesty of Middlebury College Special Collections, Middlebury, Vermont<Br><br>
+            Cambridge City Directory, 1939<br>
+            Birth and death dates from <a href="https://www.findagrave.com/memorial/36546026/kathleen-morrison">
+            https://www.findagrave.com/memorial/36546026/kathleen-morrison</a><Br>
+
         `,
         photos: ["images_bios/kay_morrison.png"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "04.15.2025",
+        dateUpdated: "12.23.2025",
 
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
-        categories: ["Businesswoman"],
+        categories: ["Business Manager"],
     },
     {
         organization: false,
@@ -920,7 +923,8 @@ m_bios = [
             an artist and weaver, she began to teach others, becoming convinced that art
             and science were the same. In 1960, she published a book on crystals with Alan
             Holden for the Science Study series. In 1965 she met the distinguished physicist
-            and peace activist Philip Morrison at an education program connected with MIT.
+            and peace activist Philip Morrison at an education program connected with MIT (she was living at 10 Bowdoin Street in 
+            Cambridge at the time).
             The two married and became an inseparable couple. <br><br>When he began to serve <em>Scientific
                 American</em> as book editor, Phylis joined him in reviewing children's
             science books for thirty-five years. She also worked with him on the NOVA series
@@ -936,6 +940,7 @@ m_bios = [
             of First Atom Bomb, Dies&#8221; NY Times, April 26, 2005 <br>
             <a
                 href="http://www.memoriesofmorrison.org/Aboutthissite.htm">www.memoriesofmorrison.org/Aboutthissite.htm</a>
+                <Br>Cambridge City Directory, 1968
         `,
         photos: [""],
         photoTitles: [],

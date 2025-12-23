@@ -137,7 +137,7 @@ p_bios = [
             to teach and lecture. <br><Br>
             After her husband's death in 1964, Yvonne
             threw herself into working for social justice. During the late 1960s and early
-            1970s, she ran the Massachusetts Friends of the Southern Conference Education
+            1970s, when she was living at 7 Linnean Street in Cambridge, she ran the Massachusetts Friends of the Southern Conference Education
             Fund and served as a member of the human rights coordinating committee at the
             American Friends Service Committee. For many years, she worked with Community
             Change, a Boston organization founded to fight racism, and in 1992 was awarded
@@ -155,7 +155,8 @@ p_bios = [
             She died in Cambridge at the age of ninety-five.`,
         otherNotes: "",
         references: `Avi Steinberg in <em>Boston Globe</em> 7-19-05;
-            <em>Monthly Review</em>, December 1995.
+            <em>Monthly Review</em>, December 1995.<Br>
+            Cambridge City Directory, 1968
         `,
         photos: [""],
         photoTitles: [],
@@ -309,7 +310,7 @@ p_bios = [
  
             Sylvia Piltch was born in Cambridge March 8, 1925,
             the youngest of six children. Her father, Hyman, came from Poland, her mother,
-            Rebecca (Andelman) from Romania. As a youngster, she took on unusual jobs for
+            Rebecca (Andelman) from Romania. The family lived at 167 Willow Streetin Cambridge. As a youngster, she took on unusual jobs for
             a girl of her day, shining shoes and delivering newspapers, a mind set to which
             she attributes her later successes. <Br><Br>As soon as the Second World War was declared,
             Sylvia responded by becoming an air raid warden. During the war, she attended
@@ -335,7 +336,8 @@ p_bios = [
         references: ` Oral interview by Sarah Boyer.<br>
             &quot;A Century of Shalom &#8211; History: A History of the Organized Jewish
             Community in ambridge,&quot;<br>
-            Image source: <em>Boston Globe</em>, Aug. 17, 2011
+            Image source: <em>Boston Globe</em>, Aug. 17, 2011<br>
+            Cambridge City Directory, 1931
         `,
         photos: [""],
         photoTitles: [],

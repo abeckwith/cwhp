@@ -39,7 +39,7 @@ r_bios = [
             stories including <em>Pretzel</em> in 1944, which was the first book to list
             Margret as author.<br><Br>
             In 1963, Margret Rey and her husband moved to
-            Cambridge and settled in a home near Harvard Square. Hans died in in 1977. Soon
+            Cambridge and settled in a home near Harvard Square at 14 Hilliard Street. Hans died in in 1977. Soon
             after, Margret was approached by Alan Shallek who persuaded her to collaborate
             on a series of short films for television that began to appear on the Disney
             Channel in 1980. Margret contined to write and teach. In 1979, she was appointed
@@ -67,8 +67,10 @@ r_bios = [
             <br>
             Amy Miller, &quot;Curious George moves into Harvard Square,&quot; <em>Cambridge
                 Chronicle</em>, July 25, 1996.<Br>
+                        <Br>Cambridge City Directory, 1965
+
                 Image source: <a href="https://en.wikipedia.org/wiki/Margret_Rey" target="_self">https://en.wikipedia.org/wiki/Margret_Rey</a>
-        `,
+                `,
         photos: ["images_bios/reys.jpg"],
         photoTitles: ["Margaret and Hans Rey"],
         dateCreated: "prior to 2009",
@@ -141,7 +143,7 @@ r_bios = [
         familyName: "",
         
         title: `Clinical psychologist, educator`,
-        birthDate: "00.00.1904",
+        birthDate: "08.20.1904",
         birthLocation: "Denver, Colorado",
         deathDate: "06.00.1991",
         deathLocation: "Tucson, Arizona",
@@ -157,7 +159,7 @@ r_bios = [
             University Graduate School of Education, and was named professor in 1963. <Br><Br>She
             founded a Center for Research on Careers at Harvard and served as its director
             from 1963 to 1966, retiring as <em>emerita</em> professor in 1966. During this
-            period, she spent her winters in her home in Cambridge and her summers in New
+            period, she spent her winters in her home in Cambridge at 86 Buckingham Street and her summers in New
             Mexico After both husband and wife experienced heart attacks for which they
             were hospitalized, they retired to Tucson in 1967 where she was named adjunct
             professor of psychology at the University of Arizona. During her lifetime, she
@@ -171,6 +173,9 @@ r_bios = [
             Vol. 20, No. 4, 734-736 (1992)<br>
             Wrenn, Robert L., &quot;The Evolution of Anne Roe,&quot; <em>J Counseling &amp;
                 Development</em> 63: 267-75, Jan 1985.<Br>
+                Cambridge City Directory, 1965<br>
+                Birth date from <a href="https://www.ancestry.com/family-tree/person/tree/71942149/person/292480937875/facts?_phsrc=prV2552&_phstart=successSource">
+                https://www.ancestry.com/family-tree/person/tree/71942149/person/292480937875/facts?_phsrc=prV2552&_phstart=successSource</a>
                 Image source: <a href="https://en.wikipedia.org/wiki/Anne_Roe" target="_self">https://en.wikipedia.org/wiki/Anne_Roe</a>
         `,
         photos: ["images_bios/Anne_Roe.jpg"],
@@ -212,7 +217,7 @@ r_bios = [
             in Washington, D.C. Following the war, he was offered a position as the first
             Professor of Trade at the Harvard Business School, continuing also to consult
             for the government on Reciprocal Trade Agreements. In 1919, the family moved
-            to Cambridge, Massachusetts where another son and daughter were born. George
+            to 16 Kirkland Street in Cambridge, where another son and daughter were born. George
             Roorbach died suddenly from a heart attack on May 23, 1934, while in Washington,
             D.C.<br><Br>
              While
@@ -249,6 +254,7 @@ r_bios = [
             Obituary, <em>Boston Traveler</em>, March 2, 1964.<br>
             Roorbach, Anne. &#8220;Harvard's Glass Flowers.&#8221; <em>American German
                 Review</em>, June 1937, 14-17.
+                <br>Cambridge City Directory, 1921
         `,
         photos: ["images_bios/Anne%20Roorbach%20small.jpeg"],
         photoTitles: [],
@@ -279,7 +285,7 @@ r_bios = [
             University. During this period, she became active in civil rights in Cambridge
             and was a founder of the Boston chapter of the Episcopal Society for Cultural
             and Racial Unity. She went to Selma, Alabama, to march with Martin Luther King, Jr.
-            <br><Br>Her home in Cambridge became a center for educational and welfare reform. From
+            <br><Br>Her home in Cambridge at 1 Potter Park became a center for educational and welfare reform. From
             1968 to 1975, she left graduate work to become an editor for behavioral studies
             at the Harvard University Press. In 1974 she and Stephan Thernstrom developed
             the idea of creating the<em> Harvard Encyclopedia of American Ethnic Groups </em>(1980), of which she became
@@ -299,7 +305,8 @@ r_bios = [
         references: ` &#8220;Ann Orlov Rubinow,&#8221; obituary news
             article by Bryan Marquard, <em>Boston Globe</em> January 25, 2007<br>
             Obituary, <em>Cambridge Chronicle</em>
-            (under Betty A. Rubinow) January 22, 2007
+            (under Betty A. Rubinow) January 22, 2007<Br>
+            Cambridge City Directory, 1961
             <br>Image source: <A href="https://www.vtcng.com/stowereporter/archives/betty-ann-orlov-rubinow/article_5b7f7b21-06cb-5708-ae30-d74b45d2059f.html" target="_self">
             https://www.vtcng.com/stowereporter/archives/betty-ann-orlov-rubinow/article_5b7f7b21-06cb-5708-ae30-d74b45d2059f.html</a>
         `,

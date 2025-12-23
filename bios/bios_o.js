@@ -15,8 +15,8 @@ o_bios = [
             The Oral History Center emerged in 1980, envisioned by oral historian Cindy Cohen, as a
             collaboration between the Cambridge Arts Council and the Cambridge Social History Resource Center. The goal
             was to build stronger communities not only by documenting oral histories but by bringing people together, in
-            one-on-one interviews, to overcome stereotypes and prejudices, believing that &ldquo;...the lives of regular
-            people are important and deserve to be documented.&rdquo; <br><Br>
+            one-on-one interviews, to overcome stereotypes and prejudices, believing that <blockquote>&ldquo;...the lives of regular
+            people are important and deserve to be documented.&rdquo;</blockquote> The center was housed at 186 hampshire Street.<Br>
             Examples of interview pairs from Cambridge, Roxbury, Lawrence, and Central
             America included: High school girls and older women; Spanish-speaking and English-speaking youth; Jewish and
             Palestinian women; Public and parochial students; and Mayan, Creole, and Garifuna women. <br><Br>
@@ -53,7 +53,8 @@ o_bios = [
             <br>
             The Oral History Center archive is housed at Northeastern University. <a
                 href="https://repository.library.northeastern.edu/collections/neu:cj82kw07t" target="_self">https://repository.library.northeastern.edu/collections/neu:cj82kw07t</a>
-        `,
+        <br><i>The Cambridge Chronicle</i>, Volume 143, Number 16, 20 April 1989
+                `,
         photos: [""],
         photoTitles: [],
         dateCreated: "prior to 2009",

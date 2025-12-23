@@ -13,7 +13,7 @@ t_bios = [
         deathLocation: "Kennet Square, Pennsylvania",
         narrative: `
             Born in Cambridge to Edith (Guild) and Frank W.
-            Taussig, a professor of economics at Harvard University, Helen Taussig graduated
+            Taussig (of 2 Scott Street), a professor of economics at Harvard University, Helen Taussig graduated
             from the Cambridge School for Girls in 1917 and went on to study at Radcliffe
             College for two years. She graduated from the University of California, Berkeley,
             and then returned to her family home in Cambridge to study at Harvard Medical
@@ -49,6 +49,7 @@ t_bios = [
                 Dictionary of Women Scientists</em>. Routledge, 2000; Phyllis J. Read and Bernard
             L. Witlieb,<em> The Book of Women's Firsts</em>, New York: Random House,
             1992<br>
+            Cambridge City Directory, 1900
        <Br> Image source: <a href="https://en.wikipedia.org/wiki/Helen_B._Taussig" target="_self">https://en.wikipedia.org/wiki/Helen_B._Taussig </a>       `,
         photos: ["images_bios/Helen_Taussig.jpg"],
         photoTitles: [],
@@ -77,13 +78,15 @@ t_bios = [
             Katharine was the daughter of Graham Taylor and Leah (Demarest) Taylor. She
             attended local Hartford elementary schools and then the Francis W. Parker School
             in Chicago, while her father was involved with the establishment of the settlement
-            house, Chicago Commons. <Br><Br>She went to Vassar College, graduating with an A.B in
+            house, Chicago Commons. <Br><Br>
+            She went to Vassar College, graduating with an A.B in
             1910. She received her Masters degree from the University of Michigan in 1911.
             After traveling to Europe on an academic scholarship, she returned to her Vassar
             College as instructor in English from 1913-1916 and then joined the faculty
             of her former secondary school, the Parker School in Chicago, where she worked
             from 1916-1921. Unlike her older sister, Lea Demarest Taylor, who followed her
             father into settlement work, Katharine was dedicated to the field of education.<br><br>
+
             In 1921 when the philosopher, William Ernest Hocking
             and a group of other Harvard professors were looking for someone to direct a
             new coeducational and progressive school in Cambridge for their children, she
@@ -95,7 +98,7 @@ t_bios = [
             Hinton, to found Putney School in Vermont in 1934. <br><br>
             Retiring from Shady Hill in 1949, Taylor was made chair of the Education and
             Child Care Project in Germany under the auspices of the Unitarian Service Committee,
-            a position she held until 1953. She went on to serve as consultant to the New
+            a position she held until 1953 (she was living at 41 Hawthorne Street in Cambridge at the time). She went on to serve as consultant to the New
             World Foundation from 1955 to 1976 and as consultant to the International Schools
             Foundation from 1959 to-1960. Taylor sat on the board of Vassar College, Francis
             W. Parker School, Children to Palestine, and the New World Foundation.<br><br>
@@ -109,7 +112,8 @@ t_bios = [
             Edward Yeomans. <em>Shady Hill School: The First Fifty Years</em> Cambridge,
             Massachusetts: Windflower Press, 1979.<br>
             May Sarton,<em> Recovering: A Journal, 1978-1979</em>,. New York: W.W. Norton
-            pp 242-244.
+            pp 242-244.<br>
+            Cambridge City Directory, 1946
             <br>Image used wth permission from Shady Hill School (<a href="https://www.shs.org/" target="_self">https://www.shs.org/</a>)
             
         `,
@@ -260,7 +264,9 @@ t_bios = [
             in ornithology at Cornell University. She studied under William Clench, then
             curator of mollusks at the Museum of Comparative Zoology at Harvard, who continued
             to support her work. She obtained her Ph.D. degree in 1954 from the Harvard
-            biology department (then granted to women only through Radcliffe College). <br><br>She
+            biology department (then granted to women only through Radcliffe College). 
+            
+            <br><br>She
             co-edited with Clench the journal Johnsonia, dedicated to western Atlantic mollusks.
             After Clench retired, Turner took over his position at the Harvard museum. She
             became the world's expert on teredos, wood-boring bivalve mollusks, popularly
@@ -271,9 +277,10 @@ t_bios = [
             collaboration with Dr. Robert Ballad of Woods Hole Oceanographic Institution,
             she used her knowledge of teredos to explain why wood remained in the wreckage
             of the doomed ocean liner the &#8220;Titanic&#8221;. <br><br>
+
             Turner was the first female scientist in the world
             to utilize the deep submergence research vehicle known as ALVIN for oceanographic
-            research. An avid scuba diver well in to her 70's, she was one of the
+            research. She lived at 1 Frost Street in Cambridge in 1965 and was an avid scuba diver well in to her 70's. She was one of the
             first female members of the prestigious Boston Sea Rovers and was honored with
             their Diver of the Year Award in 1972. She mentored hundreds of young biologists
             and readily provided free room and board at her Cambridge home to needy graduate
@@ -285,6 +292,7 @@ t_bios = [
         references: ` <em>
                 Harvard Gazette</em>, May 2001<br>
             Obituary on sciencenetwork.com<br>
+            Cambridge City Directory, 1965<br>
                 Image source: <a href="https://en.wikipedia.org/wiki/Ruth_Turner" target="_self">https://en.wikipedia.org/wiki/Ruth_Turner</a>
         `,
         photos: ["images_bios/Ruth_Turner.jpg"],

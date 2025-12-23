@@ -16,14 +16,14 @@ w_bios = [
             Wadden.  Her mother died before she Mary reached her first birthday.
             <Br><Br>Wadden got her B.A. from Regis College in Weston in 1946 and was a lifelong resident of 
             Cambridge, living on Concord Avenue She taught in the Cambridge Public
-            schools for thirty-eight years, including at the Harrington School. The Cambridge City Council passed a resolution
+            schools for thirty-eight years, including at the Harrington School She lived at 159 Concord Avenue in Cambridge. The Cambridge City Council passed a resolution
             in recognition of her life and achievements on April 2, 2001.<br>
             `,
         otherNotes: "",
         references: ` City Council resolution, April 2, 2001<Br>
         Cambridge Chronicle November 1 1924<Br>
         Boston Globe May 30, 1946<Br>
-
+        Cambridge City Directory, 1965<Br>
         Image source: Regis College 1945 yearbook
         `,
         photos: ["images_bios/mary_wadden.png"],
@@ -57,7 +57,7 @@ w_bios = [
             children. She accompanied Jim to Cornell University, then to Los Angeles, where
             she worked as a youth advisor at a local church. The family then moved to Buffalo,
             New York, where Julia received a Masters degree in education. After they moved
-            to Cambridge, she obtained a second Masters as a reading specialist and then
+            to Cambridge (59 Sacaramento Street), she obtained a second Masters as a reading specialist and then
             taught remedial reading for many years in the Cambridge public schools. <br><br>
             Both Julia and Jim were active in the Old Cambridge
             Baptist Church, In the early 1970s, they became founding members of the cooperative,
@@ -86,6 +86,7 @@ w_bios = [
         references: `
             Obituary <em>Boston Globe</em>, January 5, 2010.<br>
             Family information.<br>
+            Cambridge City Directory, 1972
         `,
         photos: ["images_bios/Juliaquilt_cropped_small.jpg"],
         photoTitles: [],
@@ -406,7 +407,7 @@ w_bios = [
         narrative: `
             Born
             in Cambridge on Howard Street, Antoinette (Toni) Rinaldi's family moved
-            to Western Avenue in 1927. She attended Houghton Grammar School until 1935 and
+            to 197 Western Avenue in 1926. She attended Houghton Grammar School until 1935 and
             then Cambridge High and Latin School from 1935-1939. Toni was a USO hostess
             at the Cambridge Neighborhood House, then at 79 Moore Street, from May 1942
             to July 1945. She met her husband, Irvin Williams, at the first dance, and they
@@ -429,6 +430,7 @@ w_bios = [
         references: `Photo courtesy of Toni Williams.<Br>
        
 <Br>Oral interview by Sarah Boyer.
+Cambridge City Directory, 1926
         `,
         photos: ["images_bios/Toni%20Williams%20small.jpg"],
         photoTitles: [],
@@ -645,7 +647,7 @@ w_bios = [
             twenty years.<br><br>
             During the 1950s, the Wises lived in Billerica, Massachusetts, in a house which they
             ran as an inn that they named Galehurst. Some time after her husband's
-            death in 1963, she returned to Cambridge to live with her sister, Satya Barrett.
+            death in 1963, she returned to Cambridge to live with her sister, Satya Barrett, at 26 Mead Street.
             She spent much of her energy at St. Paul AME Church, serving as a Sunday School
             teacher, trustee, and chair of the building fund. She worked with her older sister
             Satya in many of the same community organizations, and was a charter member of
@@ -659,6 +661,7 @@ w_bios = [
         references: ` Ozeline (Pearson) Wise papers and biographical information, Schlesinger
             Library. Ozeline (Pearson) Wise interview, <em>Black Women Oral History Project</em> of
             Schlesinger Library.<br>
+            Cambridge City Directory, 1965<br>
             Image source: <a href="https://en.wikipedia.org/wiki/Ozeline_Wise" target="_self">https://en.wikipedia.org/wiki/Ozeline_Wise</a>
         `,
         photos: ["images_bios/Ozeline__Wise.jpg"],
@@ -689,10 +692,11 @@ w_bios = [
             She emigrated with her mother and two older siblings to Connecticut in 1905,
             where her father later joined them. Although she went only through high school,
             she was self-educated to a remarkable degree. In 1921, the family moved to Cambridge,
-            and in 1927 she married a young lawyer, Henry Wise. They had three children
+            and in 1927 she married a young lawyer, Henry Wise and they lived at 84 Irving Street. They had three children
             (two daughters and a son) who attended Cambridge schools. Beginning in 1942,
             Wise became involved in public affairs. She served first as president of the
-            League of Women Voters of Cambridge (1942-1945).<br><br> In 1945, she organized the
+            League of Women Voters of Cambridge (1942-1945).<br><br>
+             In 1945, she organized the
             Parent-Teachers Association at Cambridge High and Latin School and was its first
             president in 1947, working successfully to obtain federally funded hot lunches
             in the schools. In 1948, she organized and led the statewide legislative campaign
@@ -700,20 +704,23 @@ w_bios = [
             on juries in the Massachusetts courts. In 1945, she was elected to the Cambridge
             School Committee, on which she served for three terms from 1949 to 1955. For
             one of the three terms, she was the vice chair. <br><br>
+
             Pearl Wise was responsible for the establishment
             of a library in each Cambridge public school. This action was memorialized by
             the naming of the Cambridge Rindge and Latin School's library in her honor in
             1983. In 1955, she became the first woman, since the Plan E form of city government
-            was adopted, to be elected to the Cambridge City Council; she served until 1963.
+            was adopted, to be elected to the Cambridge City Council; she served until 1963 (she was then living at 2 Riedesel Avenue in Cambridge).
             During this period she cast the deciding vote to reject the proposed urban renewal
             project in East Cambridge, which would have razed about 150 homes. Her husband,
             Henry Wise, had a long career in labor law and was a major proponent of public
-            housing and legislation to restrict urban renewal in Massachusetts. <br><br>After Wise's
+            housing and legislation to restrict urban renewal in Massachusetts. 
+            <br><br>After Wise's
             retirement from the City Council, she worked at the Cambridge Housing Authority
             for many years. Her papers are held at Schlesinger Library, Radcliffe Institute.`,
         otherNotes: "",
         references: ` <em>Cambridge Chronicle</em>, August 12,1999<br>Schlesinger
             Library biography and guide to Pearl Katz Wise papers.<Br>
+            Cambridge City Directory, 1930 & 1965<Br>
             <a href="https://www.ancestry.com/search/collections/60525/records/146988896?tid=&pid=&queryId=408823c2-fecb-4a9d-af1a-db3e98971fa5&_phsrc=prV2532&_phstart=successSource">
             Find-A-Grave</a> for birthdate
         `,
@@ -764,7 +771,7 @@ w_bios = [
             Refugee Advocacy Center), Legislator of the Year Award from the JCRC (Jewish
             Community Relations Council), the 1996 Progressive Leadership Award from the
             Commonwealth Coalition, and the 1993 Woman of Courage Award from the Massachusetts
-            chapter of the National Organization of Women. `,
+            chapter of the National Organization of Women.<br><Br>Alice Wolf lived at 48 Huron Avenue for more than 40 years. `,
         otherNotes: "",
         references: ` Harvard Gazette 6-2-2005<Br>
                 <a href="https://en.wikipedia.org/wiki/Ozeline_Wise" target="_self">https://en.wikipedia.org/wiki/Ozeline_Wise</a><Br><Br>
@@ -836,7 +843,7 @@ w_bios = [
     },
     {
         organization: true,
-        lastName: "Women's Coffeehouse",
+        lastName: "Women's Coffeehouse, 46 Pleasant Street",
         firstName: "",
         middleName: "",
         familyName: "",
@@ -1012,7 +1019,7 @@ w_bios = [
     },
     {
         organization: true,
-        lastName: "Women's School of Cambridge",
+        lastName: "Women's School of Cambridge, 595 Massachusetts Avenue",
         firstName: "",
         middleName: "",
         familyName: "",
@@ -1041,7 +1048,8 @@ w_bios = [
         otherNotes: "",
         references: `Special Collections, Northeastern University, Boston.
             Online guide; <br>
-            The Women's History Tour of Cambridge
+            The Women's History Tour of Cambridge<Br>
+            <i>The Cambridge Chronicle</i>, Volume 140, Number 22, 29 May 1986
         `,
         photos: [""],
         photoTitles: [],

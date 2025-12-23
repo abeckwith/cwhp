@@ -181,7 +181,7 @@ s_bios = [
             home, she wrote and illustrated <em>San Bao and His Adventures in Peking</em>,
             a classic children's book of the 1930s. <Br><Br>In 1940 she married the historian Arthur
             Schlesinger, Jr., whom she had met during his junior year at Harvard; they had
-            four children. The couple divorced in 1970. In 1979, she published an autobiography,
+            four children. The couple divorced in 1970. In 1979, while living at 109 Irving Street in Cambridge, she published an autobiography,
             <em>Snatched From Oblivion</em>, that described growing up in an academic household
             in Cambridge dominated by strong-minded women, including her novelist mother.
             In this book she also depicted an assortment of Cambridge characters of the
@@ -192,6 +192,7 @@ s_bios = [
             (Little Brown, 1979)<br>
             Arthur Schlesinger, Jr. <em>A Life in the 20th Century: Innocent Beginnings,
                 1917-1950</em>. Houghton Mifflin, 2000<Br>
+                Cambridge City Directory, 1972<br>
                 Image source: <a href="https://en.wikipedia.org/wiki/Marian_Cannon_Schlesinger" target="_self">https://en.wikipedia.org/wiki/Marian_Cannon_Schlesinger</a>
         `,
         photos: ["images_bios/Marian_Schlesinger.jpg"],
@@ -220,19 +221,23 @@ s_bios = [
         narrative: `
             Mary Shea was a wife, mother, and grandmother,
             as well as a childcare teacher and tireless activist for affordable housing
-            and tenants' rights. <br>
+            and tenants' rights. <br><Br>
             When Mary Shea joined the Simplex Steering Committee,
             which pressured MIT to include affordable housing and parks in the development
             of the former Simplex site, she had a personal stake in the fight. Her father
             had worked at the Simplex Wire &amp; Cable Company for twenty years and contracted
-            silicosis (chalk on the lungs) on the job. <Br><Br>In 1946 Mary had married, and she
+            silicosis (chalk on the lungs) on the job. 
+            
+            <Br><Br>In 1946 Mary had married, and she
             and her husband moved to her father's house, where Mary cared for him.
-            She said, &#8220;That's when I decided if there was anything I had to
+            She said, <blockquote>&#8220;That's when I decided if there was anything I had to
             do in my life, it was going to be helping people have a better life, rather
-            than seeing someone come out of a garage all full of chalk and ready to die.&#8221;
+            than seeing someone come out of a garage all full of chalk and ready to die.&#8221;</blockquote>
+            In 1954, she was living at 27 Acorn Street in Cambridge.<Br><Br>
             After her father passed away and her children grew up, Mary organized with people
             in her community and joined the Cambridgeport Homeowner and Tenant Association,
             which helped people who had fallen on hard times.<br><Br>
+
             Mary explained that everyone in the Cambridgeport
             neighborhood was affiliated with the fight against the conflicting plans developed
             by MIT, the owner of the Simplex property. Mary, her daughter Nancy, and Nancy's
@@ -246,7 +251,7 @@ s_bios = [
         references: `Oral interview by Sarah Boyer. For information
             on the Simplex Steering Committee, see <em>The Tech</em>, 1990; Christopher
             Montgomery, &#8220;Boston project creates new niche,&#8221; <em>Cleveland Plain
-                Dealer</em>, November 28, 2005.
+                Dealer</em>, November 28, 2005.<br>Cambridge City Directory, 1954
         `,
         photos: ["images_bios/MaryRoseShea.jpg"],
         photoTitles: ["Photo Courtesy of the Shea Family"],
@@ -390,7 +395,7 @@ s_bios = [
             he taught the history of his subject. <br><br>
             Alice Kimball Smith became one of the first Radcliffe
             Institute (Bunting) Fellows in 1963 and later became director of the Institute
-            from 1971 to 1973. She also served as director of the Radcliffe Seminars from
+            from 1971 to 1973 (at the time, she was living at 31 Madison Avenue in Cambridge). She also served as director of the Radcliffe Seminars from
             1963-1971. She wrote two books that reflected her experiences at Los Alamos
             as well as her knowledge of the science and the scientists and their varied
             reactions to the creation of the atomic bomb, A Peril and a Hope: the Scientists'
@@ -406,6 +411,7 @@ s_bios = [
             Oral interview in Schlesinger Library<br>
             DMS<em>E News</em> (MIT). April 2001 <br>
             <a href="http://oasis.lib.harvard.edu" target="_self">http://oasis.lib.harvard.edu</a><br>
+            Cambridge City Directory, 1972<br>
             Image from University of Chicago Photographic Archive, apf1-07690, Hanna Holborn Gray Special Collections Research Center, University of Chicago Library.
            `,
         photos: ["images_bios/Alice_Kimball_Smith.jpg"],
@@ -439,17 +445,19 @@ s_bios = [
             Inc., and Benjamin Thompson &amp; Associates, Inc. In 1957, she married Chester
             Sprague, a professor of architecture at MIT, with whom she shared an interest
             in exploring the architecture of Native American pueblos. <br><br>
+
             In Cambridge she co-founded a non-hierarchical
             practice for women architects, Open Design Office. With a group of feminist
             architects (Katrin Adam, Noel Phyllis Birkby, Ellen Perry Berkeley, Bobbie Sue
             Hood, Marie I. Kennedy, and Leslie Kanes Weisman), she organized the Women's
             School of Planning and Architecture (WSAP), which offered summer sessions around
-            the country between 1974 and 1981. She was a successful feminist architect and
+            the country between 1974 and 1981 (at the time she was living at 10 Kirkland Avenue in Cambridge). She was a successful feminist architect and
             planner, who focused on developing low-income housing for women and children.
             She was involved in the Women's Design Center and Women's Development
             Corporation in Rhode Island, and Women's Housing for Housing and Economic
             Development in Boston. She also worked as a consultant for the Better Homes
             Foundation, Save the Children, and the Women's Housing Coalition in Albuquerque.<br><br>
+
             Sprague wrote two manuals,<em> A Development Primer:
                 Starting Housing or Business Ventures by and/or for Women</em> (1984), and <em>A
                 Manual on Transitional Housing</em> (1986). She also wrote two major books,
@@ -462,7 +470,8 @@ s_bios = [
             are held at Schlesinger Library, Radcliffe Institute.`,
         otherNotes: "",
         references: ` Finding aid, Joan Forrester Sprague papers, Schlesinger
-            Library, Radcliffe Institute.
+            Library, Radcliffe Institute.<Br>
+            Cambridge City Directory, 1972
         `,
         photos: [""],
         photoTitles: [],
@@ -487,15 +496,19 @@ s_bios = [
         deathDate: "01.25.1917",
         deathLocation: "Chicago, Illinois",
         narrative: `
-           <i>Mabel Stevens was born in Cambridge and worked with her sister Harriet Stevens at the Harvard College Observatory for almost 20 years.
+           <i>Mabel Stevens was born in Cambridge and worked with her sister Harriet Stevens 
+           at the Harvard College Observatory for almost 20 years. She lived at 3 Walker Place in Cambridge.
            </i>
-             <br><br>More information about Mabel's life and work are outlined in the <b>Women Astronomical Computers at the Harvard College Observatory</b> project:
+             <br><br>More information about Mabel's life and work are outlined in the <b>Women
+              Astronomical Computers at the Harvard College Observatory</b> project:
             <center>
              <h1>
-                <a href="https://platestacks.cfa.harvard.edu/women-at-hco/mabel-cushman-stevens" target="_self">Mabel Stevens' story</a>
+                <a href="https://platestacks.cfa.harvard.edu/women-at-hco/mabel-cushman-stevens" 
+                target="_self">Mabel Stevens' story</a>
              </h1>
       </center>
-        The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_self">Women Astronomical Computers at the Harvard College Observatory</a> project is 
+        The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_self">Women Astronomical
+         Computers at the Harvard College Observatory</a> project is 
         dedicated to highlighting the lives and work of women who spent time studying and caring 
         for the observatory's glass plate photograph collection.<Br>
         <center>       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_self"> 
@@ -505,7 +518,7 @@ s_bios = [
 `,
         otherNotes: "",
         references: ` 
-          
+          Cambridge City Directory, 1903
         
              `,
         photos: [""],

@@ -206,7 +206,7 @@ function showRecents(num) {
     html2 =
         "<Br><Br><Center><span>These " +
         recentUpdatesCount +
-        " bios have had edits or updates made to them in the last " +
+        " bios have had <b>edits or updates</b> made to them in the last " +
         RECENT_MONTHS_LIMIT2 +
         " months:</span><br></center>";
     //SORT ALGORITHM: first by year, then month, then day:

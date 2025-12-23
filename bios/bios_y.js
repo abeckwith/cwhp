@@ -18,8 +18,10 @@ y_bios = [
             California. She graduated from Galileo High School and attended the University of California Santa Cruz,
             graduating with a B.A. in Psychology in 1970. Yanow moved to the East Coast to attend Boston College&rsquo;s
             School of Social Work, graduating with an M.S.W. in 1975. <br><Br>
+
              Her 25-year career as a clinical social worker focused on working in inpatient,
             outpatient and private practice with survivors of violence and sexual abuse. <br><Br>
+
              Yanow was active with the Boston chapter of the Reproductive Rights National
             Network (R2N2), which was founded in 1978 amidst a national debate about abortion that had intensified since
             the passage of Roe v. Wade in 1973. Locally, R2N2 partnered with a number of other reproductive rights
@@ -33,6 +35,7 @@ y_bios = [
             2000, Yanow became the full time Executive Director of AAP, which had projects in 17 states to expand
             abortion access. In 2006 Yanow left AAP, which in 2012 changed its name to Provide and shifted its focus to
             improving referrals and changing social service attitudes in the Southeast. <br><Br>
+
              Since 2006, Yanow has consulted for a number of U.S. organizations that work to
             expand access to abortion, including the Byllye Avery Institute, Sister Song, the Reproductive Health Access
             Project (RHAP), and Planned Parenthood New York City. She also worked with the International Consortium on
@@ -157,12 +160,13 @@ y_bios = [
         York City; a few years later the couple moved to Cambridge with their young
         daughters. Anna began to teach Italian and during the Second World War hosted
         the &#8220;Italian Hour&#8221; radio show that included information on relatives
-        in Italy. She also served as a translator. <br><br>For many years, Anna Yona also taught
+        in Italy. She also served as a translator. 
+        <br><br>For many years, Anna Yona also taught
         Italian at the New England Conservatory of Music. After the war, her cousin,
         Primo Levi, sent her a manuscript; she translated a chapter of what would later
         be published as <em>Survival in Auschwitz</em>. (She submitted the manuscript
         to Little, Brown, which chose not to publish the book; forty years later, the
-        book would make Levi famous in America.)<br><br>
+        book would make Levi famous in America.) In 1972, Yona was living at 159 Upload Road in Cambridge.<br><br>
         In her old age, she provided information and material
         about the Foa family for a book on the experiences of five Italian Jewish families
         under Mussolini, which was published in 1991. Her papers and those of her husband,
@@ -178,6 +182,7 @@ y_bios = [
         Papers, Immigration History Research Center, College of Liberal Arts, University
         of Minnesota <br> Obituary, Gloria Negri &#8220;Anna Yona at 98; hosted Italian-Hour
         radio show&#8221; <em>Boston Globe</em>, October 15, 2006
+        <Br>Cambridge City Directory, 1972
     `,
         photos: [""],
         photoTitles: [],
@@ -191,7 +196,7 @@ y_bios = [
     },
     {
         organization: true,
-        lastName: "YWCA of Cambridge",
+        lastName: "YWCA of Cambridge 7 Temple Street",
         firstName: "",
         middleName: "",
         familyName: "",
