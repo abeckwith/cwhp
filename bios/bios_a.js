@@ -246,20 +246,31 @@ here</a>)<br>
             influence on her contemporaries and was among the first persons to be buried
             at Mount Auburn Cemetery. An autobiographical memoir of her life appeared the
             year after her death, written partly to provide financial support for her younger
-            sister.
+            sister.<Br><Br>
+            In her 1799 work "A Summary History of New-England: from the first settlement at Plymouth, to the acceptance of the federal Constitution",
+            Adams wrote about the "Rise of the controversy between Great Britain and New England":
+            <blockquote>
+            "In the forgoeing history, we have seen the designs of Dudley, Randolph, Andros, 
+            and others, to establish an arbitrary government in New England. Ever jealous of 
+            encroachments upon their privileges, the American settlers baffled all their schemes.
+             Their insidious designs were buried with them for a long period..."
+            </blockquote>
 
             `,
         otherNotes: "",
         references: `<em>Notable American Women</em>; <em>Cambridge
                 Chronicle</em> 12-13-00<Br>Photo source: wikipedia
+                <br>"A summary history of New-England: from the first settlement at Plymouth, to the acceptance of the federal Constitution", Hannah Adams, 1799. Access 
+                this book online here: <a href="https://archive.org/details/summaryhistoryof00adamrich/mode/2up">
+                https://archive.org/details/summaryhistoryof00adamrich/mode/2up</a>
         `,
         photos: ["images_bios/Hannah_Adams_portrait.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "",
+        dateUpdated: "12.23.2025",
 
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Author"],
     },
@@ -363,26 +374,38 @@ https://archive.org/details/journeyinbrazil00agasiala/page/n11/mode/2up</a>)
                 in the Selected Literary Works of Italian-American Joseph Rocchietti, 1835-1845</em>
             (Edwin Mellen Press, 2004), wrote a memoir in 2009, and co-edited 2011's <em>American Woman, Italian Style:
             Italian Americana's Best Writings on Women </em>
-            <Br><Br>She also served two terms as vice president of the American Italian Historical Association.
-            <Br><Br>Albright taught Italian-American studies courses
+            <Br><Br>She also served two terms as vice president of the American Italian Historical Association.<Br><Br>
+            In 2022, Albright published "Hold Up the Head of Holofernes," a novel which weaves the stories of three different
+            women from three different time periods and places:
+        <blockquote>
+        "It says a lot about Carol Bonomo Albright's skill that in this novel about three women in three
+        very different historical epochs, ward politics in 1970s Rhode Island becomes as compelling as 
+        Resistance activity in WWII Italy and sexual politics in 17th-century Rome. An impressive fictional 
+        debut from one of the great champions of contemporary Italian American writing."<Br>
+        — Anthony Giardina (author of White Guys and Norumbega Park)
+        </blockquote>
+
+
+            Albright taught Italian-American studies courses
             at Harvard University Extension School for several years. She is married to attorney Birge Albright
             and lives in Cambridge.`,
         otherNotes: "",
         references: `wikipedia entry for Carol Bonomo Albright<Br>amazon.com biography for Carol Bonomo Albright<Br>
         Cambridge Chronicle, January 22, 2009<br>
+        <a href="https://www.toughpoets.com/albright_holofernes.htm">https://www.toughpoets.com/albright_holofernes.htm</a><br>
         Image source: <a href="https://books.google.com/books?id=5R28DDgTAd4C&pg=PA38#v=onepage&q&f=false">
         https://books.google.com/books?id=5R28DDgTAd4C&pg=PA38#v=onepage&q&f=false</a>
         `,
         photos: ["images_bios/carol albright.jpeg"],
         photoTitles: [],
         dateCreated: "prior to 2010",
-        dateUpdated: "",
+        dateUpdated: "12.23.25",
 
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: [
-            "Historian/History Project",
+            "Historian",
             "Writer", "Editor"
         ],
     },
@@ -394,7 +417,7 @@ https://archive.org/details/journeyinbrazil00agasiala/page/n11/mode/2up</a>)
         familyName: "",
         
         title: `Community leader`,
-        birthDate: "00.00.1920",
+        birthDate: "10.31.1919",
         birthLocation: "",
         deathDate: "03.05.2001",
         deathLocation: "Cambridge, Massachusetts",
@@ -404,8 +427,9 @@ https://archive.org/details/journeyinbrazil00agasiala/page/n11/mode/2up</a>)
             degree in history from Radcliffe College in 1941. While in college, she served
             as a reporter for the <em>New York Times</em> and the <em>Boston Herald</em>.
             <Br><Br>She married Charles Duane Aldrich, later general counsel of the New England
-            Telephone Company with whom she had nine children. They lived in Wellesley, Massachusetts,
-            for many years. She was director of finance and of state government for the
+            Telephone Company with whom she had nine children and at first they lived at 28 Andover Court in Cambridge. 
+            They later moved to Wellesley, Massachusetts and stayed there
+            for several years. She was director of finance and of state government for the
             League of Women Voters of Massachusetts, Junior Service President; board member
             of the Friendly Aid Society, Cambridge Homes, and a member of the Governor's
             Commission on the Status of Women in the 1980s. <Br><Br>Following the death of her husband
@@ -416,7 +440,8 @@ https://archive.org/details/journeyinbrazil00agasiala/page/n11/mode/2up</a>)
             `,
         otherNotes: "",
         references: ` <em>Boston Globe</em> 03-11-01, <em>NY Times</em>,
-            (paid notice) 03-07-01
+            (paid notice) 03-07-01<Br>U.S. Social Security Index<Br>
+            Cambridge City Directory, 1948
         `,
         photos: [""],
         photoTitles: [],
@@ -447,7 +472,8 @@ https://archive.org/details/journeyinbrazil00agasiala/page/n11/mode/2up</a>)
             1935 Pulitzer Prize-winning biography,<em> The Thought and Character of William
                 James</em>, later becoming sole editor of the briefer version of that work.
             In 1942, she produced a volume of James' selected writings: <em>As William
-                James Said.</em> She volunteered for CARE and for Shady Hill School in Cambridge,
+                James Said.</em> 
+                <br><Br>She volunteered for CARE and for Shady Hill School in Cambridge,
             for which she was an overseer and an initiator and head of the Parents Work
             Plan. She was 93 when she died.  She was married to federal judge Bailey Aldrich
             of Cambridge.
