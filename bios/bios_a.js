@@ -171,7 +171,24 @@ here</a>)<br>
                 of Ballyfungus</em> (1978), a humorous view of the Anglo-Irish gentry, and the
             play <em>Go Lovely Rose</em>, based on the life of Rose Kennedy, produced as
             a one woman show at the Fourth International Women Playwright's Conference
-            held in Galway shortly before her death at the age of 93. One daughter, Susan
+            held in Galway shortly before her death at the age of 93.<br><br>
+             Her former employer, the Irish Times,
+            had this to say about her upon her death (they referred to her as "Molly" in Ireland):<blockquote>
+            "A part of Dublin remained with her all her always even as she became a doyenne of Cambridge cultural 
+            and academic life. But she was essentially the creation of her own imagination, and stories of her 
+            life were often suited to that imagination. The parties in her apartment overlooking the Charles River
+             in Cambridge were the settings for some of her finest hours on stage.<Br><br>
+            Molly had an acerbic wit and a quick silver mind, and no one was safe from her darts and arrows. She delighted 
+            in the company of her large family and her many friends here in the Boston area, and just two weeks before her 
+            death she hosted one of her famous Sunday night soirees in the reception room of her retirement home. There was 
+            music and laughter, talk and gaiety, good food and good wine, and in the midst of it all was Molly, holding forth.
+            It will be good to remember her this way, but I shall miss my phone ringing in the mornings and Molly's voice, 
+            still with faint traces of her Irish accent, saying: 'Hello, darling. How's your love life?'"
+                        
+            </blockquote>
+            
+            
+            One daughter, Susan
             Howe (born in 1937), went on to become a well-known poet and professor at State
             University of New York, Buffalo.  Her daughter Fanny Howe became a novelist
             and poet, teaching creative writing at MIT and Tufts and at University of California,
@@ -185,15 +202,19 @@ here</a>)<br>
         otherNotes: "",
         references: ` <em>Boston Globe</em> 6-27-99<br><em>New York Times
             </em>6-27-1999<br>Samuel Beckett Collection, University of Texas, Austin<Br>Susan
-            Howe collection, Geisel Library, University of California, San Diego.<Br>Photo source: wikipedia
+            Howe collection, Geisel Library, University of California, San Diego.
+            <br><i>Irish Times</i> July 8, 1999  <A href="https://www.irishtimes.com/opinion/mary-manning-howe-adams-1.204225">
+            https://www.irishtimes.com/opinion/mary-manning-howe-adams-1.204225</a>
+            
+            <Br>Photo source: wikipedia
         `,
         photos: ["images_bios/Mary_Manning_(writer).jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "",
+        dateUpdated: "12.23.25",
 
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Author"],
     },
@@ -272,7 +293,13 @@ here</a>)<br>
             Agassiz. <br><Br>
             
             In 1865, she co-authored a record of her
-            husband's expedition to Brazil, <EM>A Journey in Brazil</EM>.
+            husband's expedition to Brazil, <EM>A Journey in Brazil</EM>. She wrote the introduction, which began this way:
+            <blockquote>
+            In the winter of 1865 it became necessary for me, on account of some disturbance of my health, to seek 
+            a change of scene and climate, with rest from work. Europe was proposed; but though there is much 
+            enjoyment for a naturalist in contact with the active scientific life of the Old World, there is 
+            little intellectual rest. Toward Brazil I was drawn by a lifelong desire.
+            </blockquote>
             Later, she served as scribe for the Hassler
             Expedition (1872), providing the only account of
             her husband's last theories on glaciation. After
@@ -294,7 +321,11 @@ here</a>)<br>
             `,
         otherNotes: "",
         references: ` <em>Notable American Women</em> (1609-1950) Vol
-            I; <em>Dictionary of American Biography</em>, (1928).<Br>Photo source: wikipedia
+            I <Br><em>Dictionary of American Biography</em>, (1928).<Br>Photo source: wikipedia<Br>
+            
+
+"A Journey In Brazil", 1868, Boston : Tucknor and Fields (see <a href="https://archive.org/details/journeyinbrazil00agasiala/page/n11/mode/2up">
+https://archive.org/details/journeyinbrazil00agasiala/page/n11/mode/2up</a>)
         `,
         photos: ["images_bios/eliabeth cabot aggasiz.jpeg"],
         photoTitles: [],
@@ -465,6 +496,15 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
       National Book Association recognized Marjorie Fletcher, then president of the press, 
       as one of the "70 women who have made a difference."<Br><Br>
 
+      In 2006, Betsy Sholl, one of the founders of Alice James Books, said: <blockquote>
+
+      "The experience of starting the press from the ground up
+      was a heady one, not least because the organization put a special 
+      emphasis on publishing poetry written by women. There really were 
+      attitudes that made it hard for women to publish. 
+      There weren't a lot of women being published, and male editors
+       tended to be pretty disdainful."</blockquote>
+
      The press was featured in major publications including <i>Ms</i>, <i>Poets & Writers</i>, <i>Slate</i> and 
      <i>Poetry Daily</i>. Many authors that the press published went on to receive major poetry 
      awards and their books were reviewed in important literary journals. Recently, the 
@@ -482,15 +522,19 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
         Ali Kazam , &#8220;<i>Beacon Voices: Jo Pitkin</i>&#8221; Beacon Dispatch, Issue 28,
         December 2006, January 2007<br>
         <a href="http://www.alicejamesbooks.org">www.alicejamesbooks.org</a><br>
+        <i>Down East: The Magazine of Maine</i>, June, 2006. "The People's Poet: Maine's New Poet Laureate, 
+        Betsy Sholl, finds poetry in the most unlikely places" by Michaela Cavallaro, can be found at:
+        <a href=<"https://web.archive.org/web/20110707230938/http://www.betsysholl.com/news_file_bv.asp?key=34">
+        https://web.archive.org/web/20110707230938/http://www.betsysholl.com/news_file_bv.asp?key=34</a><br>
         Image courtesy of Alice James Books
     `,
         photos: ["images_bios/alice james books.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "",
+        dateUpdated: "12.23.25",
 
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: [""],
     },
@@ -541,7 +585,7 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
         lastName: "Al-Weqayan",
         firstName: "Ellen",
         middleName: "M.",
-        familyName: "",
+        familyName: "Maguire",
         
         title: `Activist, Teacher`,
         birthDate: "",
@@ -562,18 +606,33 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
             of the 
             <a href="bios.html?lNm=MassachusettsFeministFederalCreditUnion&mNm=&fNm=">
             Massachusetts Feminist Credit Union</a>, and active in the organization <em>Save Central
-            Square</em>. Ellen lived On Kirkland Street.`,
+            Square</em>. Ellen lived on Kirkland Street in Cambridge.<Br><Br>
+            Ellen was a strong advocate for affordable housing and rent control.
+             While her no-holds-barred activism won both friends and detractors, 
+             in 1993 Ellen wrote an opinion piece in the Chronicle calling for members
+              of the Cambridge Tenants Union and the Small Property Owners Association 
+              to meet to resolve their grievances. In it, she said<blockquote> "Many tenants in Cambridge 
+              are concerned for small, economically pressed landlords, whose property is in
+               need of repair, and who not coincidentally have some of the city's poorest 
+               tenants...It isn't impossible for tenants, landlords and concerned citizens to 
+               act together in the interest of the community and city."</blockquote>
+
+
+            Her second husband was Bill Cunningham, who was also (and continues to be) a fierce housing advocate
+            and the two of them worked together on housing issues in Cambridge. 
+`,
         otherNotes: "",
         references: `
-        
+            <i>Cambridge Chronicle</i> April 15, 1993,  Sept 10, 1998
+
         `,
         photos: [""],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "",
+        dateUpdated: "12.23.25",
 
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist", "Teacher"],
     },
