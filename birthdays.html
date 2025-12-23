@@ -139,6 +139,7 @@
                 all_bios.forEach((bioLetterList) => {
                     //go through each name for this letter:
                     bioLetterList.forEach((thename) => {
+                        if(thename.birthDate == "") console.log(thename.lastName + ", " + firstName)
                         bio_count++;
                         nameBuild = bio_count + ". " + thename.lastName + ", " + thename.firstName + " " + thename.middleName;
                         if (thename.familyName != "") nameBuild += " (" + thename.familyName + ")";

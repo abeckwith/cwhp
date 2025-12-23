@@ -1019,7 +1019,7 @@ function setMenu(whichOneGray) {
         '<a id="8" class="top-links" href="internship.html">Get Involved</a>' +
         '<a id="9" class="top-links" href="about.html">About</a>' +
         '<a id="10" class="top-links" href="map.html">MAP &#x1F4CD;</a>' +
-        '<a id="10" class="top-links" href="birthdays.html">&#x2022;</a>' +
+        '<a id="11" class="top-links" href="birthdays.html">&#x2022;</a>' +
         '<a href="javascript:void(0);" class="icon" onclick="resizeMenu()">' +
         '<i class="fa fa-bars"> <span id="menu-text">MENU</span></i>' +
         "</a>";
