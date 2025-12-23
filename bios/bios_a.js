@@ -687,15 +687,23 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
             for which she was Associate Director. <br><br>She was one of the founding members and
             the Sustainable Cambridge Coalition, a grassroots organizations that encourages
             innovative methods to link community issues such as environment, economic development,
-            and transportation. She currently holds a position in the Environment &amp;
+            and transportation. She held a position in the Environment &amp;
             Transportation Program, part of the Department of Community Development of the
             City of Cambridge, improving pedestrian safety and access and developing local
             actions that can be implemented to control global climate change.
+            <br><br>In a 1993 article, she was quoted as saying the following, when describing the work of the Sustainable
+            Cambridge Coalition:
+            <blockquote> “Real change will happen neighborhood by neighborhood...
+            The goals of growth must shift. Instead of defining economic prosperity in terms of the
+             GNP, which makes every bit of economic spending a plus, we have to look at different 
+             kinds of measurement...the Valdez Exxon spill was good for the GNP. We need a new 
+             measurement that talks about preservation and replenishment of the environment as an indicator."</blockquote>
 
             `,
         otherNotes: "",
         references: ` Short biography online at Cambridge Energy Alliance
             <br>
+            <i>The Cambridge Chronicle</i>, Volume 147, Number 16, 22 April 1993<Br>
                 Photo courtesy of Rosalie Anders
         `,
         photos: ["images_bios/rosalie anders.jpg"],
@@ -827,6 +835,15 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
         deathLocation: "Boston, Massachusetts",
         narrative: `
 
+        <blockquote>
+        "Linda Archer is one of those people who could 
+        lift you out of a dark day into the sunshine, especially when 
+        she smiles. And she smiles a lot, despite the fact that she is 
+        in pain and suffering from inoperable lung cancer. She is 47 years old."<Br><Br>
+        - Lucky Severson, "Palliative Care", PBS,
+July 9, 1999
+
+        </blockquote>
             Linda
             Archer was a longtime resident of Cambridge with a home at 345 Broadway in the Mid Cambridge
             neighborhood. She was a devoted member of the Pentecostal Tabernacle in
@@ -856,10 +873,10 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
         photos: ["images_bios/linda archer.png"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "",
+        dateUpdated: "12.23.2025",
 
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: [""],
     },
