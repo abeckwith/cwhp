@@ -101,7 +101,7 @@ a_bios = [
            mail or milk, a newspaper or a caller, it served no special purpose apparently except insomuch as it helped to connect the brains
            of Brattle Street with the brawn of Mt. Auburn Street, and deliver in turn the brawn of Mt. Auburn Street to the brains of Brattle 
            Street again."</blockquote>
-            <Br><br>
+            <Br>
             In 1908, upon her marriage to Dr. Fordyce Coburn, she moved to Wilton, N.H. Some of
             her typescripts and correspondence are held at the University of New Hampshire.
             <br><Br>
