@@ -140,7 +140,7 @@ t_bios = [
         deathDate: "08.06.1997",
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
-            Helen Meriwether Lewis began her early education
+            Helen Meriwether Lewis lived in Cambridge from 1937 until her death in 1997. She began her early education
             in New York City, where her mother was a public school teacher, continuing her
             high school years at St. Catherine's School in Richmond, Virginia. She earned
             her <em>A.B.</em> from Radcliffe College in 1928 in government, but her interest
@@ -163,7 +163,7 @@ t_bios = [
             Radiation Laboratory, where she worked with the historian of science, Henry
             Guerlac, preparing a history of the laboratory. In 1947 she was named a senior
             engineer at Raytheon Manufacturing Company, where she remained until 1954, working
-            on guidance systems. She returned to MIT as an editor and head of publications
+            on guidance systems. In 1963, she was living at 55 Langdon Street in Cambridge. She returned to MIT as an editor and head of publications
             at the MIT Research Laboratory of Electronics until her retirement in 1971.
            <br><br>In 1986, she was awarded a $50,000 prize by TWA for accurately predicting, thirty
             years before, the range, cruising speed, passenger capacity, and use of jet
@@ -176,7 +176,10 @@ t_bios = [
             21 1905-August 6 1997.&#8221; <em>Journal of the Association of Variable Star
                 Observers ( JAAVSO)</em> 28: 40-46, 2000; <br>
             Hoffleit, Dorritt &#8220;Eloge: Helen Meriwether Lewis Thomas, 21 August 1905-6
-            August 1997 [Obituary]&#8221; <em>Isis</em> 89: 316, 1998.
+            August 1997 [Obituary]&#8221; <em>Isis</em> 89: 316, 1998.<Br>
+            <i>The Cambridge Chronicle</i>, Volume 147, Number 23, 10 June 1993
+            <Br>Cambridge City Directory, 1963
+
         `,
         photos: [""],
         photoTitles: [],

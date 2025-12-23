@@ -699,7 +699,7 @@ g_bios = [
         narrative: `
 
             Gypsy Wagon, a craft collective that operated on consignment, was led by Diane
-            Walbridge, Diane Bellamy, and Karen Copeland. <br><br>Aside from selling crafts, Gypsy Wagon offered classes
+            Walbridge, Diane Bellamy, and Karen Copeland. They periodically held craft sales at the Joy of Movement Center, at 536 Mass. Ave.<br><br>Aside from selling crafts, Gypsy Wagon offered classes
             including macram&eacute;, knitting, crochet, loom weaving, basket weaving, lampshade workshops, as well as
             voice and music lessons. As in other collectives, the people involved were volunteers. The shop employed one
             paid staff person. Sadly, the collective&rsquo;s inventory was robbed within its first year of operation. In
@@ -712,8 +712,8 @@ g_bios = [
             guidebook, 2019: <a
                 href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a>
         `,
-        photos: [""],
-        photoTitles: [],
+        photos: ["images_bios/gypsy.png"],
+        photoTitles: ["The Gypsy Wagon Collective"],
         dateCreated: "prior to 2009",
         dateUpdated: "",
 

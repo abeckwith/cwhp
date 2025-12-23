@@ -1745,7 +1745,7 @@ b_bios = [
                 href="http://www.massmoments.org/moment.cfm?mid=16">http://www.massmoments.org/moment.cfm?mid=16</a>
 
         `,
-        photos: ["images_bios/Bread_and_Roses_Menu.png"],
+        photos: ["images_bios/Bread_and_Roses_Menu.png", "images_bios/breadandroses.png"],
         photoTitles: [],
         dateCreated: "prior to 2009",
         dateUpdated: "",
@@ -2092,16 +2092,17 @@ the holidays by dancing the mazurka:<blockquote>
 
 
             Annie E. Burrell attended the Houghton Elementary
-            School and Cambridge Rindge and Latin School. She was a homemaker and also worked
+            School and Cambridge High and Latin School. She was a homemaker and also worked
             for many years at the <a href="bios.html?lNm=WindowShop&mNm=&fNm=">Window Shop</a> in Harvard Square and at the Cambridge Election
             Commission. <br><br>She was an active member on the board of directors at the Cambridge
             Community Center from 1985 to 1993. In 1993 she was named honorary member and
             continued her service to the center and community by supporting their activities
-            and events. <br><br>She was 84 when she died. 
+            and events. Her family lived for many years at 220 Western Avenue.<br><br>She was 84 when she died. 
 
             `,
         otherNotes: "",
-        references: ` <em>Cambridge Chronicle</em> 8-12-99
+        references: ` <em>Cambridge Chronicle</em>  16 April 1953, 12 August 1999
+
         `,
         photos: [""],
         photoTitles: [],
@@ -2437,7 +2438,7 @@ the holidays by dancing the mazurka:<blockquote>
         deathDate: "04.07.1997",
         deathLocation: "Plymouth, Massachusetts",
         narrative: `
-           <i>Florence Bibber was born in Cambridge and worked with the Harvard College Observatory from 1889 until 1927.
+           <i>Florence Bibber was born in Cambridge, lived at 2 Traymore Street as a child, and worked with the Harvard College Observatory from 1889 until 1927.
            </i>
              <br><br>More information about Edith's life and work are outlined in the <b>Women Astronomical Computers at the Harvard College Observatory</b> project:
             <center>
@@ -2454,7 +2455,7 @@ the holidays by dancing the mazurka:<blockquote>
 `,
         otherNotes: "",
         references: ` 
-          
+          Cambridge City Directory, 1908
         
              `,
         photos: [""],
