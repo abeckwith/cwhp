@@ -101,7 +101,7 @@ a_bios = [
            mail or milk, a newspaper or a caller, it served no special purpose apparently except insomuch as it helped to connect the brains
            of Brattle Street with the brawn of Mt. Auburn Street, and deliver in turn the brawn of Mt. Auburn Street to the brains of Brattle 
            Street again."</blockquote>
-            <Br>
+            
             In 1908, upon her marriage to Dr. Fordyce Coburn, she moved to Wilton, N.H. Some of
             her typescripts and correspondence are held at the University of New Hampshire.
             <br><Br>
@@ -938,11 +938,11 @@ July 9, 1999</i>
                 of Argentina</em>, published by The University of California Press in 1999.
                 A reviewer wrote of her research and resulting book:
                 <blockquote>
-                An acute and impassioned observer, Rita Arditti describes Argentina's 'dirty war'
+                "An acute and impassioned observer, Rita Arditti describes Argentina's 'dirty war'
                  years and the heroic struggle of a group of Argentine grandmothers who set out,
                   against all odds, to trace the whereabouts of their disappeared children and 
                   grandchildren. Admirably comprehensive, Searching for Life reminds us how 
-                  ordinary citizens can stand up to tyranny and prevail. <Br>
+                  ordinary citizens can stand up to tyranny and prevail." <Br>
                   —<i>Eric Stover, Director, Human Rights Center, University of California, Berkeley</i>
                   </blockquote>
             
@@ -1049,7 +1049,32 @@ July 9, 1999</i>
             Josie volunteered for a youth free lunch program, advocated for safety at Jefferson Park (especially at the nearby
             railroad tracks), and helped organize free Thanksgiving meals in the neighborhood.
             Josie worked worked with the Cambridge City Hall, hospital personnel,
-            and residents of Jefferson Park to form the first Teen Family Planning Clinic.
+            and residents of Jefferson Park to form the first Teen Family Planning Clinic.<br><Br>
+            Avakian was interviewed for a May 1984 article about safety in her neighborhood:
+            <blockquote>
+            "Josie Avakian, a resident since 1965 of the Jefferson Park housing development next to 
+            Rindge Towers, has been trying to do something about the railroad crossing for over ten
+             years.  In 1973 after a sixth grade boy who lived in Jefferson Park was killed at 
+             the nearby Sherman Street railroad crossing, Avakian said she and 25 other neighborhood
+              residents went to the city council to ask that something be done to protect the safety
+               of the area s residents, many of whom like those in Rindge Towers are poor and not 
+               especially politically influential. <br><br>
+               "She said the council looked Into the matter and 
+               helped secure a promise from the Army Corps of Engineers to build a footbridge out of 
+               surplus Army materials. Nothing was ever done, she said, because of squabbling over who 
+               owned the land the bridge would be built on. She and several others tried again in 1977 
+               following [another] death That time she said the city manager, several other city officials,
+                and a group of tenants met with MBTA officials who said they would build a "grade crossing" 
+                with railroad gates warning lights and a walkway that would enable people to walk easily over
+                 the six-inch rails. <Br><Br>
+                 "Six months later, she said, some rail construction work was done which 
+                 did little but make the middle tracks higher and somewhat more difficult to cross. No grade 
+                 crossings were ever installed. Four people have been killed and four people maimed she said 
+                 and nothing has ever been done. Avakian noted, however, that a foot bridge is expected to be
+                  constructed behind Jefferson Park as part of largescale renovations going on at the housing
+                   development."
+
+            </blockquote>
             In 1996, she worked as a member of the North Cambridge Crime Task Force. <br><br>In
             October 2005, a site near Jackson Street was dedicated in her honor by the Cambridge
             City Council. The ceremony was conducted by Cambridge Mayor Walter Sullivan.
@@ -1149,7 +1174,7 @@ July 9, 1999</i>
         As a child, living at 112 Pearl Street in Cambridge, she <blockquote> "...used to sit on the front porch of her parents' house and sell her poems, 
         stories and handmade fabric dolls to passersby. I was out there. I was a Cambridge hippie at [age] seven."</blockquote>
 
-        </i><Br><Br>More of her story is told through the <b>Cambridge Black History Project</b>:
+        </i><Br>More of her story is told through the <b>Cambridge Black History Project</b>:
        <h2> <center><a href='https://cambridgeblackhistoryproject.org/project/barbara-ward-armstrong/' target="_self">Barbara Ward Armstrong's story</a></h2><Br><Br>
         </center>
        The <a href='https://cambridgeblackhistoryproject.org/' target="_self">Cambridge Black HIstory Project</a>
