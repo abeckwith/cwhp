@@ -382,7 +382,7 @@ https://archive.org/details/journeyinbrazil00agasiala/page/n11/mode/2up</a>)
         very different historical epochs, ward politics in 1970s Rhode Island becomes as compelling as 
         Resistance activity in WWII Italy and sexual politics in 17th-century Rome. An impressive fictional 
         debut from one of the great champions of contemporary Italian American writing."<Br>
-        — Anthony Giardina (author of White Guys and Norumbega Park)
+        — <i>Anthony Giardina (author of White Guys and Norumbega Park</i>
         </blockquote>
 
 
@@ -840,8 +840,8 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
         lift you out of a dark day into the sunshine, especially when 
         she smiles. And she smiles a lot, despite the fact that she is 
         in pain and suffering from inoperable lung cancer. She is 47 years old."<Br><Br>
-        - Lucky Severson, "Palliative Care", PBS,
-July 9, 1999
+        - <i>Lucky Severson, "Palliative Care", PBS,
+July 9, 1999</i>
 
         </blockquote>
             Linda
@@ -899,7 +899,8 @@ July 9, 1999
             Peron's government, the national university was closed much of the time, making
             it hard for students to pursue their studies. In 1952 she came to the US and
             attended Barnard College in New York City for one year. After that she went
-            to the University of Rome, Italy, where she earned a Doctorate in Biology. She
+            to the University of Rome, Italy, where she earned a Doctorate in Biology. 
+            <Br><Br>She
             came to the United States in 1965 to Brandeis University with a postdoctoral
             fellowship to the Biochemistry Department and in 1966 moved to Cambridge and lived at 11 Donnell Street. She
             then started a position as a Research Associate in the Department of Bacteriology
@@ -935,7 +936,16 @@ July 9, 1999
             with the Grandmother's group resulted in the publication of her book, <em>Searching
                 for Life: The Grandmothers of the Plaza de Mayo and the Disappeared Children
                 of Argentina</em>, published by The University of California Press in 1999.
-            <br><br>
+                A reviewer wrote of her research and resulting book:
+                <blockquote>
+                An acute and impassioned observer, Rita Arditti describes Argentina's 'dirty war'
+                 years and the heroic struggle of a group of Argentine grandmothers who set out,
+                  against all odds, to trace the whereabouts of their disappeared children and 
+                  grandchildren. Admirably comprehensive, Searching for Life reminds us how 
+                  ordinary citizens can stand up to tyranny and prevail. <Br>
+                  —<i>Eric Stover, Director, Human Rights Center, University of California, Berkeley</i>
+                  </blockquote>
+            
             In 1994, she was the recipient of a Jessie Bernard
             Wise Women Award from the Center for Women Policy Studies in Washington, DC,
             and in 1999 she received the Peace and Justice Award from the City of Cambridge. In 2005, she was chosen to be one of the &quot;Women Who Dared&quot; from
@@ -947,15 +957,18 @@ July 9, 1999
         references: ` Based on a personal interview by Sandra Pullman,
             2003.; Further information from Jewish Women's Archive &#8220;Women who
             Dared&#8221; exhibit online.<Br>
+            Review: 
+            <a href="https://www.ucpress.edu/books/searching-for-life/paper">https://www.ucpress.edu/books/searching-for-life/paper</a>
+            <Br>
             Cambridge City Directory, 1968
         `,
         photos: ["images_bios/arditti.jpg"],
         photoTitles: [],
         dateCreated: "00.00.2003",
-        dateUpdated: "04.06.2025",
+        dateUpdated: "12.23.2025",
 
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Community Leader", "Scientist"],
     },
