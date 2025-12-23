@@ -333,11 +333,13 @@ c_bios = [
             Christian Association, 1896)<br>
             Jennie Cunningham Croly, &#8220;The Cantabrigia Club&#8221; in <em>The History
                 of the Woman's Club Movement in America</em>, New York, 1898
+                <br>Photo from <i>The Cambridge Tribune</i>, Volume XV, Number 34, 29 October 1892
+
         `,
-        photos: [""],
+        photos: ["images_bios/cantabrigia.png"],
         photoTitles: [],
-        dateCreated: "prior to 2009",dateUpdated:
- "",
+        dateCreated: "prior to 2009",
+        dateUpdated:"October 1892 Cambridge Tribune",
 
         photoHeights: [],
         editors:"",

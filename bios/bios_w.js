@@ -499,15 +499,16 @@ Cambridge City Directory, 1926
         references: ` Finding aid, The Window Shop Papers, Schlesinger
             Library, Radcliffe Institute<Br> Eleanor Roosevelt, &#8220;My Day&#8221;, May 30,
             1950; Ellen Miller, Ilse Heyman, Dorothy Dahl<em>The Window Shop: Safe Harbor
-                for Refugees, 1939-1972</em>, Diesel books, 2007
+                for Refugees, 1939-1972</em>, Diesel books, 2007<br>
+                Photo: The Cambridge Book, 1966
            
         `,
-        photos: [""],
+        photos: ["images_bios/windowshop.JPG"],
         photoTitles: [],
         dateCreated: "prior to 2009",
         dateUpdated: "",
 
-        photoHeights: [],
+        photoHeights: ["300"],
         editors:"",
         authors: "CWHP volunteers",
         categories: ["Refugee", "Social/Philanthropic Organization"],

@@ -317,23 +317,23 @@ d_bios = [
             to the gay bar scene. Bilitis was the fictional lesbian lover of Sappho as described
             in the poetry of Pierre Lou&yuml;s in <em>Songs of Bilitis</em> (1894). The &#8220;Daughters
             of Bilitis&#8221; name was intended as a sly reference to conservative organizations
-            like the Daughters of the American Revolution and other similar groups. The DOB
+            like the Daughters of the American Revolution and other similar groups. <Br><Br>The DOB
             achieved national prominence during the 1950s and 1960s, but split over disagreements
             in the 1970s about whether it should support gay rights or feminism. During its
             heyday, it had chapters throughout the US and Australia. Between 1959 and 1972,
             the DOB
-            published a national newsletter, <em>The Ladder</em>. The Cambridge chapter, held meetings at
+            published a national newsletter, <em>The Ladder</em>. The Cambridge chapter of DOB held meetings at
             the Old Cambridge Baptist Church at 1151 Massachusetts Avenue well in to the 1990s.
             <Br><blockquote>
-            <i>The heart of the organization was supporting lesbians in a safe place, 
+            "The heart of the organization was supporting lesbians in a safe place, 
             and ultimately they saw that lesbians from different groups needed 
             different kinds of support, so they started these discussion groups - lesbians over 35, 
             lesbians under 35, lesbians with children, single lesbians, they even had a trans group 
             at one point. These were led by people who had had training in leading discussions and 
             knowing what to do if there were any problems within the groups, and these went on for
              as long as the Daughters of Bilitis Boston-Cambridge chapter existed, which was about
-              30 years.</i> <br><br>
-              - Sarah Boyer, author of “Coming Out, Becoming Ourselves: Lesbian Stories from the Boston Daughters of Bilitis, 1969-1999.”
+              30 years."<br><br>
+              <i>- Sarah Boyer, author of “Coming Out, Becoming Ourselves: Lesbian Stories from the Boston Daughters of Bilitis, 1969-1999.”</i>
               </blockquote>
               <br>Among the notable women
             who joined the organization were the playwright, Lorraine Hansberry, and the
@@ -347,14 +347,16 @@ d_bios = [
                 Bilitis and the Birth of the Lesbian Rights Movement</em>, Carroll &amp; Graf, 2006.<br>
                 <i>Cambridge Day</i>, October 31, 2024 <a href="https://www.cambridgeday.com/2024/03/31/sarah-boyers-coming-out-becoming-ourselves-takes-daughters-from-secret-society-to-acceptance/">
                 Interview with Sarah Boyer</a><br>
-                <i>Cambridge Chronicle</i>, October 30, 1981
-        `,
-        photos: [""],
-        photoTitles: [],
-        dateCreated: "prior to 2009",
-        dateUpdated: "12.20.2025",
+                <i>Cambridge Chronicle</i> October 30, 1981, 5 April 1984, 11 November 1993
 
-        photoHeights: [],
+
+        `,
+        photos: ["images_bios/bilitis1.png","images_bios/bilitis2.png"],
+        photoTitles: ["1984 Cambridge Chronicle", "1993 Cambridge Chronicle"],
+        dateCreated: "prior to 2009",
+        dateUpdated: "12.23.2025",
+
+        photoHeights: ["150"],
         editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Feminist Organization"],

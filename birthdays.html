@@ -135,11 +135,13 @@
                 bio_count = 0;
                 currentDate = new Date();
                 currentDate = currentDate.toLocaleDateString('en-US');
-
+                nophotocount = 0;
                 all_bios.forEach((bioLetterList) => {
                     //go through each name for this letter:
                     bioLetterList.forEach((thename) => {
-                        if(thename.birthDate == "") console.log(thename.lastName + ", " + firstName)
+                        if (thename.photos[0] == "") { 
+                            nophotocount++; console.log(nophotocount + ". " + thename.lastName + ", " + thename.firstName) 
+                        }
                         bio_count++;
                         nameBuild = bio_count + ". " + thename.lastName + ", " + thename.firstName + " " + thename.middleName;
                         if (thename.familyName != "") nameBuild += " (" + thename.familyName + ")";

@@ -1330,11 +1330,13 @@ b_bios = [
             Monsaingeon, Bruno <em>Mademoiselle</em> Manchester
             UK: Carcanet, 1985.<br>
             Rosenstiel, Leonie <em>A Life in Music NY</em>: WW Norton
-            1982.<Br>Cambridge City Directory, 1941
+            1982.<Br>Cambridge City Directory, 1941<br>
+            Photo from <a href="https://en.wikipedia.org/wiki/Nadia_Boulanger#/media/File:Nadia_Boulanger_1925.jpg">
+            https://en.wikipedia.org/wiki/Nadia_Boulanger#/media/File:Nadia_Boulanger_1925.jpg</a>
 
         `,
-        photos: [""],
-        photoTitles: [],
+        photos: ["images_bios/Nadia_Boulanger_1925.jpg"],
+        photoTitles: ["1925"],
         dateCreated: "prior to 2009",
         dateUpdated: "",
 
@@ -1387,9 +1389,11 @@ b_bios = [
         otherNotes: "",
         references: `Hannah Winthrop, <em>Historic Guide to Cambridge</em>,
             1907<br><em>The Oxford Companion to Women's Writing in the United States</em>
-            (1995)<br><em> Notable American Women</em> (1607-1950) Vol I
+            (1995)<br><em> Notable American Women</em> (1607-1950) Vol I<Br>
+            Photo from <a href="https://en.wikipedia.org/wiki/Anne_Bradstreet#/media/File:Frontispiece_for_An_Account_of_Anne_Bradstreet_The_Puritan_Poetess,_and_Kindred_Topics,_edited_by_Colonel_Luther_Caldwell_(Boston,_1898)_(cropped).jpg">
+            https://en.wikipedia.org/wiki/Anne_Bradstreet#/media/File:Frontispiece_for_An_Account_of_Anne_Bradstreet_The_Puritan_Poetess,_and_Kindred_Topics,_edited_by_Colonel_Luther_Caldwell_(Boston,_1898)_(cropped).jpg</a>
         `,
-        photos: [""],
+        photos: ["images_bios/bradstreet.JPG"],
         photoTitles: [],
         dateCreated: "prior to 2009",
         dateUpdated: "",
@@ -1403,7 +1407,7 @@ b_bios = [
         organization: false,
         lastName: "Brand",
         firstName: "Hermine",
-        middleName: "",
+        middleName: "\"Mina\"",
         familyName: "Brokczyna",
         
         title: `Librarian, book seller`,
@@ -1438,7 +1442,9 @@ b_bios = [
             `,
         otherNotes: "",
         references: `<em>Boston Globe </em>July 17, 2005
-        <br>Cambridge City Directory, 1971
+        <br>Cambridge City Directory, 1971<Br>
+        <a href="https://www.legacy.com/us/obituaries/bostonglobe/name/hermine-brand-obituary?id=26471657">
+        https://www.legacy.com/us/obituaries/bostonglobe/name/hermine-brand-obituary?id=26471657</a>
         `,
         photos: [""],
         photoTitles: [],
@@ -1645,7 +1651,7 @@ b_bios = [
      
 
         `,
-        photos: [""],
+        photos: ["images_bios/Brass sisters.jpg"],
         photoTitles: [],
         dateCreated: "00.00.2016",
         dateUpdated: "07.29.2025",
@@ -1727,12 +1733,27 @@ b_bios = [
 
             building for ten days, offering free classes and childcare before they were
             forced out. Sympathetic individuals donated $5,000, and Bread and Roses bought
-            a house at 46 Pleasant Street in Cambridge. <br><br>They opened the Women's
-                Center in 1972, the longest running women's center in the US. Annie
-            Popkin who wrote her doctoral dissertation on this group has deposited her reference
+            a house at 46 Pleasant Street in Cambridge. 
+            <Br><Br>
+            In an interview, Tess Ewing explained:
+
+            <blockquote>
+       " We defined Bread and Roses as a 'Revolutionary Autonomous Women's Liberation
+        Organization.<Br>
+        1. Revolutionary meant that we supported liberation struggles around the
+        world and at home. We saw the Panthers and the black liberation
+        movement as part of the 3d world liberation struggle. So we were antiImperialist and anti-racist.
+        <Br>2. It also meant we were anti-reformist: we didn't want equal rights; we
+        wanted liberation [...]
+        <Br>3. Autonomous meant that we worked on our own, but were always part of
+        the larger left."
+            </blockquote>
+            
+            Bread and Roses opened the Women's
+                Center in 1972, which ended up being the longest running women's center in the US. Annie
+            Popkin, who wrote her doctoral dissertation on this group, has deposited her reference
             materials at Schlesinger library.
-            See also <a href="bios.html?ln=WomensCenter&mN=&fN=">Women's Educational Center</a><br>
-            <br>
+            See also <a href="bios.html?ln=WomensCenter&mN=&fN=">Women's Educational Center</a>
             `,
         otherNotes: "",
         references: `Annie Popkin (doctoral dissertation on Bread and
@@ -1742,16 +1763,18 @@ b_bios = [
             Annie Popkin Papers, Schlesinger Library, Radcliffe Institute. Includes materials
             from the affiliated organization, Cell 16.<br>
             See also, Mass Moments posting at <a
-                href="http://www.massmoments.org/moment.cfm?mid=16">http://www.massmoments.org/moment.cfm?mid=16</a>
+                href="http://www.massmoments.org/moment.cfm?mid=16">http://www.massmoments.org/moment.cfm?mid=16</a><Br>
+                Tess Ewing interview from <a href="https://www.bu.edu/wgs/files/2013/10/Ewing-Bread-and-Roses.pdf">
+                https://www.bu.edu/wgs/files/2013/10/Ewing-Bread-and-Roses.pdf</a>
 
         `,
-        photos: ["images_bios/Bread_and_Roses_Menu.png", "images_bios/breadandroses.png"],
+        photos: [""],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "",
+        dateUpdated: "12.23.2025",
 
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Feminist Organization"],
     },
@@ -1763,7 +1786,7 @@ b_bios = [
         familyName: "",
         
         title: `Gourmet Vegetarian Restaurant and Center for Feminist<br>1974 - 1978
-                Culture`,
+               `,
         birthDate: "",
         birthLocation: "",
         deathDate: "",
@@ -1814,7 +1837,7 @@ b_bios = [
             https://historycambridge.org/self-guided-tours/self-guided-tour-mapping-feminist-cambridge-inman-square-1970s-1990s/</a><br>
             Stories for Bread and Roses provided by Pat Hynes.
         `,
-        photos: [""],
+        photos: ["images_bios/Bread_and_Roses_Menu.png", "images_bios/breadandroses.png"],
         photoTitles: [],
         dateCreated: "prior to 2019",
         dateUpdated: "",
@@ -2017,9 +2040,11 @@ b_bios = [
         references: ` Ogilvie, Marilyn and Joy Harvey. <em>Biographical
                 Dictionary of Women Scientists.</em> Routledge Press, 2000. Obituary in <em>Harvard
                 Gazette</em>, 1998.
-                <br>Cambridge City Directory, 1963
+                <br>Cambridge City Directory, 1963<Br>
+                Photo from <a href="https://en.wikipedia.org/wiki/Mary_Bunting#/media/File:Mary_Bunting.jpg">
+                https://en.wikipedia.org/wiki/Mary_Bunting#/media/File:Mary_Bunting.jpg</a>
         `,
-        photos: [""],
+        photos: ["images_bios/Mary_Bunting.JPG"],
         photoTitles: [],
         dateCreated: "prior to 2009",
         dateUpdated: "",
