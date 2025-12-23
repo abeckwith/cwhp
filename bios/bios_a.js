@@ -23,7 +23,7 @@ a_bios = [
 
         She was a member of the Cambridge School Committee from 1962 to 1968, when she
         was elected to the City Council. After her term as mayor, she returned to her seat on the
-        City Council and remained a member until 1977. In her memoir, she said of Cambridge...<blockquote>
+        City Council and remained a member until 1977. In her memoir, she said of Cambridge:<blockquote>
         "What is most special about Cambridge is its wild diversity. Even our streets won't settle down to a tidy pattern." </blockquote>
         
 
