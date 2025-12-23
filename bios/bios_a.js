@@ -1025,7 +1025,7 @@ July 9, 1999</i>
         lastName: "Avakian",
         firstName: "Josephine",
         middleName: "\"Josie\"",
-        familyName: "Santage",
+        familyName: "Santagate",
         
         title: `Social Activist, Housing Advocate`,
         birthDate: "00.00.1954",
