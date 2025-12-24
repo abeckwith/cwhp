@@ -191,10 +191,12 @@ m_bios = [
             New York (1832); Lucius R. Paige. <em>History of Cambridge 1630-1877</em>, Boston
             1877<Br>Menotomy Journal timeline
             <Br> Frederick J Lund (compiler), &#8220;Brief
-            History of Somerville,&#8221; Somerville Planning Board, 1996.
+            History of Somerville,&#8221; Somerville Planning Board, 1996.<Br>
+            <a href="https://en.wikipedia.org/wiki/Saunkskwa_of_Missitekw#/media/File:Squaw_Sachem_-_Robbins_Memorial_Flagstaff_-_Arlington,_MA_-_DSC02798.jpg">
+            <https://en.wikipedia.org/wiki/Saunkskwa_of_Missitekw#/media/File:Squaw_Sachem_-_Robbins_Memorial_Flagstaff_-_Arlington,_MA_-_DSC02798.jpg</a>
         `,
-        photos: [""],
-        photoTitles: [],
+        photos: ["images_bios/misticke.jpg"],
+        photoTitles: ["Statue of Squaw Sachem Misticke, grounds of Robbins Library, Arlington, Massachusetts"],
         dateCreated: "prior to 2009",
         dateUpdated: "04.12.2025",
 
@@ -370,11 +372,13 @@ m_bios = [
         references: `
             Written by Kimm Topping, printed in <em>Mapping Feminist Cambridge</em> guidebook, 2019: <a
                 href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">
-                https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a>
+                https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a><br>
+                <i>The Cambridge Chronicle</i>, 29 May 1975
+
 
         `,
-        photos: [""],
-        photoTitles: [],
+        photos: ["images_bios/mffcu.png"],
+        photoTitles: ["1975 <i>Cambridge Chronicle</i>"],
         dateCreated: "00.00.2014",
         dateUpdated: "",
 

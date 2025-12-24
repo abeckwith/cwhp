@@ -1014,7 +1014,7 @@ d_bios = [
             Elizabeth.Glover, with the approval of local magistrates and elders, set up
             the
             printing press in Cambridge and settled in a house in close proximity to Harvard
-            College and bought another house in which the Daye family lived and operated
+            College (Crooked Street, now Holyoke Street) and bought another house in which the Daye family lived and operated
             the printing press (later to become the Cambridge Press), that printed the first
             books in the colonies, <em>The Whole Book of Psalmes</em>, <em>The Liberties
                 of the Massachusetts
@@ -1036,12 +1036,12 @@ d_bios = [
                 of Printing
                 in America</em> (1878).
         `,
-        photos: [""],
-        photoTitles: [],
+        photos: ["images_bios/dunster.jpeg"],
+        photoTitles: ["Image depicting early American women printers"],
         dateCreated: "prior to 2009",
         dateUpdated: "",
 
-        photoHeights: [],
+        photoHeights: ["200"],
         editors:"",
         authors: "CWHP volunteers",
         categories: ["Businesswoman"],

@@ -379,7 +379,7 @@ l_bios = [
             Emily
             was an active member of St. Paul AME Church serving on the stewardess Board,
             the Missionary society and as a Sunday School Teacher. She was also an active
-            member of the Order of the Eastern Star and the Daughters of Isis. Upon her
+            member of the Order of the Eastern Star and the Daughters of Isis, a prominent African American women's charitable organization. Upon her
             retirement, she worked as a warden for the Election Commission, as a member
             of the Cambridge-Somerville Council of Elders and a member of the Cambridge
             City Republican Party Committee.`,

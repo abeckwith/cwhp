@@ -255,7 +255,6 @@ here</a>)<br>
             encroachments upon their privileges, the American settlers baffled all their schemes.
              Their insidious designs were buried with them for a long period..."
             </blockquote>
-
             `,
         otherNotes: "",
         references: `<em>Notable American Women</em>; <em>Cambridge

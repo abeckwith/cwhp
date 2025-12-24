@@ -60,14 +60,16 @@ i_bios = [
             Records of the First Class of the First State Normal School of Lexington Boston,
             1903 pp; 204-208; Files of the Historical Commission, Cambridge MA<Br>150th commemoration
             of Framingham State College website<Br>
-            Cambridge City Directories 1848, 1904
+            Cambridge City Directories 1848, 1904<br>
+            <i>Boston Evening Transcript</i>
+                Wed, Jun 15, 1892, Page 1
         `,
-        photos: [""],
-        photoTitles: [],
+        photos: ["images_bios/ireson.png"],
+        photoTitles: ["1892 Boston Evening Transcript"],
         dateCreated: "prior to 2009",
         dateUpdated: "04.05.2025",
         photoPos: [],
-        photoHeights: [],
+        photoHeights: ["200"],
         editors:"",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator"],

@@ -1035,7 +1035,7 @@ h_bios = [
        <br>Marjorie Hurd Papers, Schlesinger Library, Radcliffe
             Institute for Advanced Study, Harvard University; Radcliffe College alumni files;
             Social Law Library files, Supreme Judicial Court; New England School of Law
-            files; Hurd family files. Photograph courtesy of the Hurd family.<br>
+            files; Hurd family files.<br>
           
         `,
         photos: ["images_bios/Hurd.jpg"],

@@ -83,7 +83,7 @@ j_bios = [
         middleName: "Sprague",
         familyName: "",
         
-        title: `Politician (one of first two women elected to Cambridge School Committee),
+        title: `Politician,
                 Teacher, Author, Poet, Copy Editor`,
         birthDate: "03.17.1813",
         birthLocation: "Cranston, Rhode Island",
@@ -125,7 +125,7 @@ j_bios = [
             a law allowing women to vote in school committee elections. That same year,
             Sarah Sprague Jacobs (at about age 66) and Phebe
                 Mitchell Kendall became the first two women elected to the Cambridge School
-            Committee. Miss Jacobs served until 1885, when she resigned. <br>
+            Committee. Miss Jacobs served until 1885, when she resigned. <br><br>
             Jacobs transcribed Cambridge's earliest public
             records and prepared the copy manuscripts for publication in two volumes. The
             first was <em>The Register Book of the Lands and Houses in the &quot;New Towne&quot;

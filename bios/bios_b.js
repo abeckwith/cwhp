@@ -52,10 +52,13 @@ b_bios = [
         Iris Fanger,
             &#8220;Women's Work Informs Back Porch Project&#8221<Br> <em>Dance Magazine</em>,
             May 2000<Br>
-            <i>Cambridge Chornicle</i>4/17/1997
+            <i>Cambridge Chornicle</i> 29 January 1991, 17 April 1997
+
         `,
-        photos: ["images_bios/BPD_small.jpeg"],
-        photoTitles: ["L to R: Geni Guinier, Marcie Osinsky, Eleanor Duckworth, Mariah Pisha, Vicki Solomon and Jen Schoonover"],
+        photos: ["images_bios/BPD_small.jpeg", "images_bios/burke.png"],
+        photoTitles: ["L to R: Geni Guinier, Marcie Osinsky, Eleanor Duckworth, Mariah Pisha, Vicki Solomon and Jen Schoonover",
+            "Lucy Wilson, Susan Periale, Crystyl Mo, Neesy Callender, Latoiya Foster, Vernell Foster, Caitlin Roberts, Lucy Hammerman, Lise Brdy, Carol Strickland and Ann Brown Allen"
+        ],
         dateCreated: "prior to 2009",
         dateUpdated: "",
 
@@ -1146,7 +1149,7 @@ b_bios = [
             in the country to work with incarcerated women with AIDS at the Massachusetts
             State Prison for Women at Framingham and then helped to found a home for formerly
             homeless women with HIV/AIDS in 1990 at Rush House. For more than five years,
-            she was a social worker in the AIDS Clinic at Cambridge Hospital.<br>
+            she was a social worker in the AIDS Clinic at Cambridge Hospital.
             To understand the world wide impact of the disease, she traveled to AIDS clinics
             in Nepal and India and then to South Africa.<br><br>
             Her travels began to include nature treks as well,
@@ -1159,15 +1162,17 @@ b_bios = [
 
             `,
         otherNotes: "",
-        references: ` <em>Boston Globe </em>September 3, 2007, obituary;
-            Cambridge Chronicle obituary, August 23, 2007.
+        references: ` <em>Boston Globe </em>September 3, 2007, obituary<br>
+            Cambridge Chronicle obituary, August 23, 2007<Br>
+            The Cambridge Chronicle, Volume 149, Number 16, 20 April 1995
+
         `,
-        photos: [""],
-        photoTitles: [],
+        photos: ["images_bios/bodecker.png"],
+        photoTitles: ["April 1995 Photo of Bodecker, bottom left, in <i>the Cambridge Chronicle</i>"],
         dateCreated: "prior to 2009",
         dateUpdated: "",
 
-        photoHeights: [],
+        photoHeights: ["250"],
         editors:"",
         authors: "CWHP volunteers",
         categories: ["Activist"],
@@ -2074,18 +2079,22 @@ b_bios = [
             a teaching aide and eventually got her bachelor's degree in special education
             to work with children with severe learning disabilities. She also worked in
             the Cambridge Public School system, and taught at the Boston University Mini
-            School (at the time, she lived at 46 Walden Street). Burke occupied the position of Director of Public Relation and Recruitment
+            School (at the time, she lived at 46 Walden Street). Burke occupied the position of Director 
+            of Public Relation and Recruitment
             for the Cambridge School Volunteers. She received the Tuskegee Airmen's
             Distinguished Lifetime Achievement Award in recognition for her dedication to
             encouraging others on to high levels of personal achievement and the successful
             pursuit of individual goals. <br><br>She was also involved with the Cambridge Peace
             Commission and the First Parish Unitarian Universalist Church. She participated
-            as a member of the <a href="bios.html?lNm=BackPorchDanceCompany&mNm=&fNm=">Back Porch Dance Company</a>. <b>
-Burke was quoted in 1991 as describing her very musical Cape Verdean family and that they would celebrate 
-the holidays by dancing the mazurka:<blockquote>
-"The men would take their instruments and go from house to
- house and the grown-ups would end up at my mother's house. 
- I would sit on the edge of the bed and listen to them play."</blockquote>
+            as a member of the <a href="bios.html?lNm=BackPorchDanceCompany&mNm=&fNm=">Back Porch Dance Company</a>.
+            Burke was quoted in a January 1991 <i>Cambridge Chronicle</i> article describing her very 
+            musical Cape Verdean family and that they would celebrate 
+            the holidays by dancing the mazurka:<blockquote>
+            "The men would take their instruments and go from house to
+            house and the grown-ups would end up at my mother's house. 
+            I would sit on the edge of the bed and listen to them play."
+            </blockquote>
+            
 
             `,
         otherNotes: "",
@@ -2198,10 +2207,11 @@ the holidays by dancing the mazurka:<blockquote>
 
 
             Caroline B. Butler was a life-long resident of
-            Cambridge. She attended St. Mary's High School and the University of Lowell
+            Cambridge, growing up at 275 Prospect Street with her parents Matthew (a baker at a factory) and Elizabeth Butler,
+            both of whose parents were Irish immigrants. <Br><Br>She attended St. Mary's High School and the University of Lowell
             Normal School. <br><br>She taught at the Thorndike School while continuing her education
             at the evening school of Boston College. She was a 4th grade teacher at the
-            Thorndike School in East Cambridge for 50 years. In 1972, she was living at 12 Fresh Pond Lane. She was feted at her 100th
+            Thorndike School in East Cambridge for 50 years. She was feted at her 100th
             birthday by the Cambridge City Council and a presentation by the mayor of Cambridge,
             Sheila Russell. A few years earlier she was honored as one of the 14 women who
             initially and continually voted in Cambridge following women's suffrage.
@@ -2210,16 +2220,19 @@ the holidays by dancing the mazurka:<blockquote>
 
             `,
         otherNotes: "",
-        references: `<em>Cambridge Chronicle</em> 2/02/2000
-        <br>Cambridge City Directory, 1972
-        `,
-        photos: [""],
-        photoTitles: [],
-        dateCreated: "prior to 2009",
-        dateUpdated: "",
+        references: `<em>Cambridge Chronicle</em> 2 February, 2000
+        <br>Cambridge City Directory, 1972<br>
+        <i>The Cambridge Tribune</i>, Volume XLI, Number 39, 23 November 1918<br>
+        U.S. Census 1910, 1920, 1930
 
-        photoHeights: [],
-        editors:"",
+        `,
+        photos: ["images_bios/butler.png"],
+        photoTitles: ["1918 School Committee list of new teachers.<br> Caroline Butler was 21 at the time"],
+        dateCreated: "prior to 2009",
+        dateUpdated: "12.24.2025",
+
+        photoHeights: ["100"],
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator"],
     },
