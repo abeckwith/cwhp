@@ -144,6 +144,8 @@
                         }
                         bio_count++;
                         nameBuild = bio_count + ". " + thename.lastName + ", " + thename.firstName + " " + thename.middleName;
+                        if(nameBuild.slice(-3) === ",  ") 
+                        nameBuild = nameBuild.substring(0, nameBuild.length - 3);
                         if (thename.familyName != "") nameBuild += " (" + thename.familyName + ")";
                         nameBuild += "<br>";
                         allNames += nameBuild;
