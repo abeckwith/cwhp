@@ -732,13 +732,17 @@ m_bios = [
             Obituary (as Dorothea Moore Burkhard) <em>AAP</em> (American Academy of Pediatrics) <em>News</em> Vol.
             12 No.
             2 February 1996, p. 25.
+            <Br><i>The Cambridge Tribune</i>, Volume XXXVIII, Number 35, 30 October 1915
+            <br>Photo from <a href="https://www.findagrave.com/memorial/148150327/dorothea_may_burkhard#view-photo=289204850">
+            https://www.findagrave.com/memorial/148150327/dorothea_may_burkhard#view-photo=289204850</a>
+
         `,
-        photos: [""],
-        photoTitles: [],
+        photos: ["images_bios/moore.png"],
+        photoTitles: ["Dorothea Moore is buried in Mount Auburn Cemetery"],
         dateCreated: "prior to 2009",
         dateUpdated: "04.05.2025",
 
-        photoHeights: [],
+        photoHeights: ["200"],
         editors:"",
         authors: "CWHP volunteers",
         categories: ["Doctor"],

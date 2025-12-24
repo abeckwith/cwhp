@@ -154,7 +154,7 @@ h_bios = [
         organization: false,
         lastName: "Harvey",
         firstName: "Beatrice",
-        middleName: "",
+        middleName: "\"Bea\"",
         familyName: "Perry",
         
         title: `World War II welder, community leader`,
@@ -181,13 +181,13 @@ h_bios = [
         otherNotes: "",
         references: ` Oral interview by Sarah Boyer
         `,
-        photos: [""],
-        photoTitles: [],
+        photos: ["images_bios/harvey.png"],
+        photoTitles: ["Bea was interviewed for the Central Square History Project in 1999"],
         dateCreated: "prior to 2009",
-        dateUpdated: "04.05.2025",
+        dateUpdated: "12.24.2025",
 
-        photoHeights: [],
-        editors:"",
+        photoHeights: ["200"],
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Community Leader", "Factory Worker"],
     },
@@ -457,7 +457,9 @@ h_bios = [
             married daughter, Rebecca Stearns. Over some time previously, Rebecca began
             to experience unexplained fits in which she barked like a dog and screamed that
             Mrs. Holman and her daughter were witches. Her parents became alarmed and sought
-            an explanation. In an indictment they prepared, the Gibsons claimed that Winifred
+            an explanation. 
+            
+            <br><Br>In an indictment they prepared, the Gibsons claimed that Winifred
             Holman had offered herbs to their daughter during a previous fit and noticed
             that the daughter, Rebecca, seemed worse whenever she saw the Holmans. They
             also cited some assistance by the Holmans to their daughter's child after
@@ -479,10 +481,12 @@ h_bios = [
             `,
         otherNotes: "",
         references: `Lucius R.Paige. <em>A History of Cambridge 1630
-                -1877 with a Genealogical Register</em> Boston, Cambridge 1877, 856-863.
+                -1877 with a Genealogical Register</em> Boston, Cambridge 1877, 856-863.<br>
+                <i>The Cambridge Chronicle</i>, 7 October 1937
+
         `,
-        photos: [""],
-        photoTitles: [],
+        photos: ["images_bios/holman.png"],
+        photoTitles: ["1937 article: \"Old Burying Ground in Harvard Square Shows Historic Associations\""],
         dateCreated: "prior to 2009",
         dateUpdated: "",
 
