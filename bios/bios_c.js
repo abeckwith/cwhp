@@ -811,7 +811,7 @@ c_bios = [
             Bertha Cohen was a Polish immigrant who came to
             Boston at the age of twenty-two. She worked as a milliner in the old Chandler
             department store in Boston, living so frugally that she would eventually be
-            able to purchase an apartment building, now 999 Memorial Drive in Cambridge,
+            able to purchase an apartment building, 992 Memorial Drive in Cambridge,
             where she also resided. <br><br>The income from this property enabled her to continue
             to invest in real estate, wisely choosing to purchase commercial properties
             in Harvard Square. She still maintained her frugal life-style, appearing throughout
@@ -848,14 +848,15 @@ c_bios = [
             Power in Cambridge.&quot; February 07, 1975 <br>
             A list of her Real Estate holdings is held in the Harvard University Corporation
             archives (B.U.D. 81, Real Estate, March 6, 1967 &#8220;List of Properties in
-            Bertha Cohen's Estate&#8221;), Harvard University archives.
+            Bertha Cohen's Estate&#8221;), Harvard University archives.<Br>
+            Image from GoogleMaps
         `,
-        photos: [""],
-        photoTitles: [],
+        photos: ["images_bios/cohen.png"],
+        photoTitles: ["992 Memorial Drive"],
         dateCreated: "prior to 2009",dateUpdated:
  "",
 
-        photoHeights: [],
+        photoHeights: ["200"],
         editors:"",
         authors: "CWHP volunteers",
         categories: ["Businesswoman"],

@@ -178,11 +178,13 @@ t_bios = [
             Hoffleit, Dorritt &#8220;Eloge: Helen Meriwether Lewis Thomas, 21 August 1905-6
             August 1997 [Obituary]&#8221; <em>Isis</em> 89: 316, 1998.<Br>
             <i>The Cambridge Chronicle</i>, Volume 147, Number 23, 10 June 1993
-            <Br>Cambridge City Directory, 1963
+            <Br>Cambridge City Directory, 1963<br>
+            Photo source: <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/384004?journalCode=isis">
+            https://www.journals.uchicago.edu/doi/abs/10.1086/384004?journalCode=isis</a>
 
         `,
-        photos: [""],
-        photoTitles: [],
+        photos: ["images_bios/thomas.png"],
+        photoTitles: [""],
         dateCreated: "prior to 2009",
         dateUpdated: "",
 

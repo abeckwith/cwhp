@@ -156,10 +156,12 @@ p_bios = [
         otherNotes: "",
         references: `Avi Steinberg in <em>Boston Globe</em> 7-19-05;
             <em>Monthly Review</em>, December 1995.<Br>
-            Cambridge City Directory, 1968
+            Cambridge City Directory, 1968<Br>
+            Photo credit: <a href="https://ahecinfo.org/survivors/pappenheim-fritz/>
+            https://ahecinfo.org/survivors/pappenheim-fritz/</a>
         `,
-        photos: [""],
-        photoTitles: [],
+        photos: ["images_bios/Pappenheim.jpg"],
+        photoTitles: ["Yvonne and Fritz Pappenheim"],
         dateCreated: "prior to 2009",
         dateUpdated: "",
 
@@ -298,7 +300,7 @@ p_bios = [
         organization: false,
         lastName: "Piltch",
         firstName: "Sylvia",
-        middleName: "",
+        middleName: "Rosslyn",
         familyName: "",
         
         title: `Physical therapist. Community advocate and volunteer`,
@@ -312,7 +314,8 @@ p_bios = [
             the youngest of six children. Her father, Hyman, came from Poland, her mother,
             Rebecca (Andelman) from Romania. The family lived at 167 Willow Streetin Cambridge. As a youngster, she took on unusual jobs for
             a girl of her day, shining shoes and delivering newspapers, a mind set to which
-            she attributes her later successes. <Br><Br>As soon as the Second World War was declared,
+            she attributes her later successes. 
+            <Br><Br>As soon as the Second World War was declared,
             Sylvia responded by becoming an air raid warden. During the war, she attended
             Boston University's Sargent College for Physical Therapy. While in college,
             she joined the USO, entertaining the troops stationed at Camp Devens. Sylvia
@@ -336,15 +339,16 @@ p_bios = [
         references: ` Oral interview by Sarah Boyer.<br>
             &quot;A Century of Shalom &#8211; History: A History of the Organized Jewish
             Community in ambridge,&quot;<br>
-            Image source: <em>Boston Globe</em>, Aug. 17, 2011<br>
+            Image source: <a href="https://www.legacy.com/us/obituaries/bostonglobe/name/sylvia-piltch-obituary?id=17084405">
+            https://www.legacy.com/us/obituaries/bostonglobe/name/sylvia-piltch-obituary?id=17084405</a><Br>
             Cambridge City Directory, 1931
         `,
-        photos: [""],
-        photoTitles: [],
+        photos: ["images_bios/piltch.jpeg"],
+        photoTitles: [""],
         dateCreated: "prior to 2009",
         dateUpdated: "04.12.2025",
 
-        photoHeights: [],
+        photoHeights: ["200"],
         editors:"",
         authors: "CWHP volunteers",
         categories: ["Physical Therapist ", "Volunteer"],

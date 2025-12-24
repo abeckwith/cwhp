@@ -432,7 +432,7 @@ s_bios = [
         familyName: "Forrester",
         
         title: `Feminist, Architect`,
-        birthDate: "00.00.1935",
+        birthDate: "02.09.1932",
         birthLocation: "",
         deathDate: "04.06.1998",
         deathLocation: "Cambridge, Massachusetts",
@@ -451,7 +451,7 @@ s_bios = [
             architects (Katrin Adam, Noel Phyllis Birkby, Ellen Perry Berkeley, Bobbie Sue
             Hood, Marie I. Kennedy, and Leslie Kanes Weisman), she organized the Women's
             School of Planning and Architecture (WSAP), which offered summer sessions around
-            the country between 1974 and 1981 (at the time she was living at 10 Kirkland Avenue in Cambridge). She was a successful feminist architect and
+            the country between 1974 and 1981 (at the time she was living at 10 Kirkland Road in Cambridge). She was a successful feminist architect and
             planner, who focused on developing low-income housing for women and children.
             She was involved in the Women's Design Center and Women's Development
             Corporation in Rhode Island, and Women's Housing for Housing and Economic
@@ -471,15 +471,18 @@ s_bios = [
         otherNotes: "",
         references: ` Finding aid, Joan Forrester Sprague papers, Schlesinger
             Library, Radcliffe Institute.<Br>
-            Cambridge City Directory, 1972
+            Cambridge City Directory, 1972<Br>
+            Birthdate from U.S., Social Security Death Index, 1935-2014<Br>
+            Book cover from <a href="https://www.commoncrowbooks.com/pages/books/B59091/joan-forrester-sprague/more-than-housing-lifeboats-for-women-and-children-inscribed-by-sprague">
+            https://www.commoncrowbooks.com/pages/books/B59091/joan-forrester-sprague/more-than-housing-lifeboats-for-women-and-children-inscribed-by-sprague</a>
         `,
-        photos: [""],
+        photos: ["images_bios/sprague.png"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "",
+        dateUpdated: "12.24.2025",
 
-        photoHeights: [],
-        editors:"",
+        photoHeights: ["400"],
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Writer", "Architect"],
     },
@@ -518,15 +521,17 @@ s_bios = [
 `,
         otherNotes: "",
         references: ` 
-          Cambridge City Directory, 1903
+          Cambridge City Directory, 1903<Br>
+          Photo source: <a href="https://platestacks.cfa.harvard.edu/women-at-hco/mabel-cushman-stevens">
+          https://platestacks.cfa.harvard.edu/women-at-hco/mabel-cushman-stevens</a>
         
              `,
-        photos: [""],
-        photoTitles: [],
+        photos: ["images_bios/stevens.jpg"],
+        photoTitles: [""],
         dateCreated: "11.15.2025",
         dateUpdated: "",
 
-        photoHeights: [],
+        photoHeights: ["200"],
         editors:"",
         authors: "",
         categories: ["Astronomer"],

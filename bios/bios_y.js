@@ -182,10 +182,12 @@ y_bios = [
         Papers, Immigration History Research Center, College of Liberal Arts, University
         of Minnesota <br> Obituary, Gloria Negri &#8220;Anna Yona at 98; hosted Italian-Hour
         radio show&#8221; <em>Boston Globe</em>, October 15, 2006
-        <Br>Cambridge City Directory, 1972
+        <Br>Cambridge City Directory, 1972<Br>
+        Image from <a href="https://primolevicenter.org/printed-matter/our-life-was-divided/">
+        https://primolevicenter.org/printed-matter/our-life-was-divided/</a>
     `,
-        photos: [""],
-        photoTitles: [],
+        photos: ["images_bios/yona.jpg"],
+        photoTitles: ["Anna, left, with her family, c.1921"],
         dateCreated: "prior to 2009",
         dateUpdated: "",
         photoPos: [],

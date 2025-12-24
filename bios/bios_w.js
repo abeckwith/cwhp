@@ -516,7 +516,7 @@ Cambridge City Directory, 1926
     {
         organization: false,
         lastName: "Winship",
-        firstName: "Joanne",
+        firstName: "Joanna",
         middleName: "",
         familyName: "",
         
@@ -529,15 +529,22 @@ Cambridge City Directory, 1926
             Joanna Winship was the fourth daughter of Edward Winship, lieutenant of the
             Cambridge militia and his first wife, Jane (Wilkinson) Winship. Her father
             had arrived in the Massachusetts Bay Colony with John Winthrop. <br><br>She was the
-            first schoolmistress in Cambridge. The epitaph on her tombstone in the Old
-            Burying Ground in Cambridge reads, &#8220;This good school dame / No longer
-            school must keep / Which gives us cause. / For children's sake to weep.&#8221;<br>
+            first schoolmistress in Cambridge. <Br><Br>The epitaph on her tombstone in the Old
+            Burying Ground in Cambridge reads:<blockquote>
+            "Here lies ye body of Mrs. Joanna Winship. Aged 62 years who
+             departed this life November ye 19th 1707. This good School Dame 
+             No longer School must keep Which gives us cause For Children's sake to weep."
+            </blockquote>
+     
+         
             `,
         otherNotes: "",
         references: ` <em>An Historic Guide to Cambridge</em>, Appendix &#8220;Edward
             Winship&#8221;
+               Photo from <a href="https://www.findagrave.com/memorial/20848657/joanna-winship#view-photo=7093541">
+            https://www.findagrave.com/memorial/20848657/joanna-winship#view-photo=7093541</a>
         `,
-        photos: [""],
+        photos: ["images_bios/winship.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
         dateUpdated: "",
@@ -1004,14 +1011,16 @@ Cambridge City Directory, 1926
             Cambridge guidebook, 2019:
             <a href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf" target="_self">
             https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a><br>
-            <a href="www.nlgmass.org/nlg-mass-history" target="_self">www.nlgmass.org/nlg-mass-history</a>
+            <a href="www.nlgmass.org/nlg-mass-history" target="_self">www.nlgmass.org/nlg-mass-history</a><Br>
+            <i>The Cambridge Chronicle</i>, 21 February 1974
+
         `,
-        photos: [""],
-        photoTitles: [],
+        photos: ["images_bios/womenslaw.png"],
+        photoTitles: ["Listing from 1974 Cambridge Chronicle"],
         dateCreated: "prior to 2009",
         dateUpdated: "",
 
-        photoHeights: [],
+        photoHeights: ["200"],
         editors:"",
         authors: "CWHP volunteers",
         categories: [
@@ -1051,9 +1060,11 @@ Cambridge City Directory, 1926
             Online guide; <br>
             The Women's History Tour of Cambridge<Br>
             <i>The Cambridge Chronicle</i>, Volume 140, Number 22, 29 May 1986
+            <Br><i>The Cambridge Chronicle</i>, Volume 133, Number 8, 22 February 1979
+
         `,
-        photos: [""],
-        photoTitles: [],
+        photos: ["images_bios/womenschool.png"],
+        photoTitles: ["1979 listing in the Cambridge Chronicle"],
         dateCreated: "prior to 2009",
         dateUpdated: "",
 

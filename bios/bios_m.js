@@ -1117,17 +1117,17 @@ m_bios = [
 `,
         otherNotes: "",
         references: ` 
-          
+          Image from GoogleMaps
         
              `,
-        photos: [""],
-        photoTitles: [],
+        photos: ["images_bios/mckay.png"],
+        photoTitles: ["The house McKay grew up in, at 7 Shepard Street"],
         dateCreated: "11.15.2025",
         dateUpdated: "",
 
-        photoHeights: [],
+        photoHeights: ["230"],
         editors:"",
-        authors: "",
+        authors: "Anthony Beckwith",
         categories: ["Astronomer"],
     },
 ];
