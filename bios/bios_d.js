@@ -5,7 +5,7 @@ d_bios = [
         firstName: "Elizabeth",
         middleName: "Ellery",
         familyName: "",
-        
+
         title: `Family and city historian`,
         birthDate: "00.00.1846",
         birthLocation: "Cambridge, Massachusetts",
@@ -38,7 +38,7 @@ d_bios = [
         dateUpdated: "04.07.2025",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Historian/History Project"],
     },
@@ -48,7 +48,7 @@ d_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        
+
         title: `Pre-school<br>founded 1971 in Cambridge`,
         birthDate: "",
         birthLocation: "",
@@ -82,7 +82,7 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: ["200"],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Educational Institution/School"],
     },
@@ -92,7 +92,7 @@ d_bios = [
         firstName: "Mabel",
         middleName: "Wheeler",
         familyName: "",
-        
+
         title: `Composer`,
         birthDate: "11.27.1876",
         birthLocation: "Swampscott, Massachusetts",
@@ -141,7 +141,7 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Musician"],
     },
@@ -151,7 +151,7 @@ d_bios = [
         firstName: "Eleanor",
         middleName: "",
         familyName: "",
-        
+
         title: `Dancer`,
         birthDate: "00.00.1939",
         birthLocation: "Cambridge, Massachusetts",
@@ -186,7 +186,7 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Dancer"],
     },
@@ -196,7 +196,7 @@ d_bios = [
         firstName: "Sybil",
         middleName: "C.",
         familyName: "",
-        
+
         title: `Hospital administrator`,
         birthDate: "00.00.1931",
         birthLocation: "",
@@ -226,7 +226,7 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Businesswoman", "Community Leader"],
     },
@@ -236,7 +236,7 @@ d_bios = [
         firstName: "Louise",
         middleName: "Agnes",
         familyName: "Nelson",
-        
+
         title: `Second ever female Cambridge Police officer, military veteran`,
         birthDate: "11.27.1919",
         birthLocation: "Cambridge, Massachusetts",
@@ -292,7 +292,7 @@ d_bios = [
         dateUpdated: "04.06.2025",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Law Enforcement", "Military"],
     },
@@ -302,7 +302,7 @@ d_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        
+
         title: `Feminist and lesbian rights organization<Br>Formed in the late 1950s`,
         birthDate: "",
         birthLocation: "",
@@ -351,13 +351,14 @@ d_bios = [
 
 
         `,
-        photos: ["images_bios/bilitis1.png","images_bios/bilitis2.png"],
+        photos: ["images_bios/bilitis1.png", "images_bios/bilitis2.png"],
         photoTitles: ["1984 Cambridge Chronicle", "1993 Cambridge Chronicle"],
         dateCreated: "prior to 2009",
         dateUpdated: "12.23.2025",
+        photoPos: ["2"],
 
         photoHeights: ["150"],
-        editors:"Anthony Beckwith",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Feminist Organization"],
     },
@@ -367,7 +368,7 @@ d_bios = [
         firstName: "Henrietta",
         middleName: "",
         familyName: "",
-        
+
         title: `Former Mayor, City Councilor, and School Committee Member, City of Cambridge`,
         birthDate: "00.00.1945",
         birthLocation: "Newton, Massachusetts",
@@ -430,13 +431,9 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
-        categories: [
-            "Environmentalist",
-            "Political Leader",
-            "Journalist",
-        ],
+        categories: ["Environmentalist", "Political Leader", "Journalist"],
     },
     {
         organization: false,
@@ -444,7 +441,7 @@ d_bios = [
         firstName: "Marcia",
         middleName: "",
         familyName: "",
-        
+
         title: `Singer, Songwriter, Writer, Diarist and Political Activist`,
         birthDate: "07.20.1949",
         birthLocation: "Asheville, North Carolina",
@@ -539,13 +536,9 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
-        categories: [
-            "Activist",
-            "Musician",
-            "Author",
-        ],
+        categories: ["Activist", "Musician", "Author"],
     },
     {
         organization: false,
@@ -553,7 +546,7 @@ d_bios = [
         firstName: "Mary",
         middleName: "",
         familyName: "Andrews",
-        
+
         title: `Popular novelist`,
         birthDate: "05.26.1826",
         birthLocation: "Cambridge, Massachusetts",
@@ -599,7 +592,7 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: [""],
     },
@@ -609,7 +602,7 @@ d_bios = [
         firstName: "Diana",
         middleName: "",
         familyName: "",
-        
+
         title: `Poet, translator`,
         birthDate: "05.21.1934",
         birthLocation: "Worcester, Massachusetts",
@@ -668,7 +661,7 @@ d_bios = [
         dateUpdated: "12.20.2025",
 
         photoHeights: [],
-        editors:"Anthony Beckwith",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Poet"],
     },
@@ -678,7 +671,7 @@ d_bios = [
         firstName: "Helene",
         middleName: "",
         familyName: "Rosenbach",
-        
+
         title: `Psychoanalyst`,
         birthDate: "10.09.1884",
         birthLocation: "Przemysl, Poland",
@@ -731,7 +724,7 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Psychiatrist", "Refugee"],
     },
@@ -741,7 +734,7 @@ d_bios = [
         firstName: "Dorothea",
         middleName: "Lynde",
         familyName: "",
-        
+
         title: `Educator, Reformer`,
         birthDate: "04.04.1802",
         birthLocation: "Hampden, Maine",
@@ -807,7 +800,7 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Reformer"],
     },
@@ -817,7 +810,7 @@ d_bios = [
         firstName: "Ellen",
         middleName: "",
         familyName: "",
-        
+
         title: `Sculptor, Public Artist`,
         birthDate: "00.00.1954",
         birthLocation: "",
@@ -858,7 +851,7 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: [""],
     },
@@ -868,7 +861,7 @@ d_bios = [
         firstName: "Cora",
         middleName: "",
         familyName: "",
-        
+
         title: `Anthropologist`,
         birthDate: "00.00.1903",
         birthLocation: "Brooklyn, New York",
@@ -907,7 +900,7 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Scientist"],
     },
@@ -917,7 +910,7 @@ d_bios = [
         firstName: "Louise",
         middleName: "",
         familyName: "",
-        
+
         title: `Writer, teacher, social activist`,
         birthDate: "00.00.1938",
         birthLocation: "Berkeley, California",
@@ -978,13 +971,9 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
-        categories: [
-            "Activist",
-            "Teacher/Educator",
-            "Writer",
-        ],
+        categories: ["Activist", "Teacher/Educator", "Writer"],
     },
     {
         organization: false,
@@ -992,7 +981,7 @@ d_bios = [
         firstName: "Elizbeth",
         middleName: "Glover",
         familyName: "Harris",
-        
+
         title: `First Proprietor of a Printing Press in America`,
         birthDate: "ca.1600",
         birthLocation: "England",
@@ -1042,7 +1031,7 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: ["200"],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Businesswoman"],
     },

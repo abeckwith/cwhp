@@ -5,7 +5,7 @@ i_bios = [
         firstName: "Adeline",
         middleName: "M.",
         familyName: "",
-        
+
         title: `Cambridge schoolteacher; Member of first class of first teacher-training
                 school`,
         birthDate: "06.07.1823",
@@ -69,8 +69,10 @@ i_bios = [
         dateCreated: "prior to 2009",
         dateUpdated: "04.05.2025",
         photoPos: [],
+        photoPos: ["2"],
+
         photoHeights: ["200"],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator"],
     },

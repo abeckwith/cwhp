@@ -5,7 +5,7 @@ g_bios = [
         firstName: "Dorothy",
         middleName: "A.",
         familyName: "",
-        
+
         title: `Pianist, organist`,
         birthDate: "11.13.1903",
         birthLocation: "",
@@ -39,7 +39,7 @@ g_bios = [
         dateUpdated: "12.17.2025",
 
         photoHeights: [],
-        editors:"Anthony Beckwith",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Musician"],
     },
@@ -49,7 +49,7 @@ g_bios = [
         firstName: "Caroline",
         middleName: "",
         familyName: "Howard",
-        
+
         title: `Poet, novelist`,
         birthDate: "10.08.1794",
         birthLocation: "Boston, Massachusetts",
@@ -100,7 +100,7 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: [""],
     },
@@ -110,7 +110,7 @@ g_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        
+
         title: `1970 - 1979`,
         birthDate: "",
         birthLocation: "",
@@ -175,7 +175,7 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Educational Institution/School", "School/Institution"],
     },
@@ -185,7 +185,7 @@ g_bios = [
         firstName: "Louise",
         middleName: "",
         familyName: "",
-        
+
         title: `Poet, Author, Teacher`,
         birthDate: "04.22.1943",
         birthLocation: "New York, New York",
@@ -260,7 +260,7 @@ g_bios = [
         dateUpdated: "04.05.2025",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Poet", "Author"],
     },
@@ -270,7 +270,7 @@ g_bios = [
         firstName: "Miriam",
         middleName: "Anne",
         familyName: "Schaeffer",
-        
+
         title: `Poet, photographer, technical writer`,
         birthDate: "09.14.1938",
         birthLocation: "Queens, New York",
@@ -339,12 +339,9 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
-        categories: [
-            "Photographer",
-            "Poet",
-        ],
+        categories: ["Photographer", "Poet"],
     },
     {
         organization: false,
@@ -352,7 +349,7 @@ g_bios = [
         firstName: "Alice",
         middleName: "Bache",
         familyName: "",
-        
+
         title: `Mathematician, Historical researcher, Educator`,
         birthDate: "01.05.1868",
         birthLocation: "Cambridge, Massachusetts",
@@ -414,7 +411,7 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: [
             "Teacher/Educator",
@@ -428,7 +425,7 @@ g_bios = [
         firstName: "Saundra",
         middleName: "Mae",
         familyName: "Postell",
-        
+
         title: `Community activist, politician`,
         birthDate: "09.05.1941",
         birthLocation: "Cambridge, Massachusetts",
@@ -505,7 +502,7 @@ g_bios = [
         dateUpdated: "04.05.2025",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Activist", "Political Leader"],
     },
@@ -515,7 +512,7 @@ g_bios = [
         firstName: "Renae",
         middleName: "",
         familyName: "",
-        
+
         title: `Educator, Community activist, Nonprofit Consultant`,
         birthDate: "04.19.1951",
         birthLocation: "Portsmouth, VA",
@@ -588,7 +585,7 @@ g_bios = [
         dateUpdated: "04.08.2025",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Activist", "Teacher/Educator"],
     },
@@ -598,7 +595,7 @@ g_bios = [
         firstName: "Suzanne",
         middleName: "",
         familyName: "Revaleon",
-        
+
         title: `Teacher and local historian`,
         birthDate: "09.13.1912",
         birthLocation: "Cambridge, Massachusetts",
@@ -680,7 +677,7 @@ g_bios = [
         dateUpdated: "04.08.2025",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Historian/History Project"],
     },
@@ -690,7 +687,7 @@ g_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        
+
         title: `Craft Collective, 204 Hampshire Street<br>1974-1979`,
         birthDate: "",
         birthLocation: "",
@@ -716,13 +713,12 @@ g_bios = [
         photoTitles: ["The Gypsy Wagon Collective"],
         dateCreated: "prior to 2009",
         dateUpdated: "",
+        photoPos: ["2"],
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
-        categories: [
-            "Business or Service Provider (Women-Owned, Feminist)",
-        ],
+        categories: ["Business or Service Provider (Women-Owned, Feminist)"],
     },
     {
         organization: false,
@@ -730,7 +726,7 @@ g_bios = [
         firstName: "Edith",
         middleName: "Frances",
         familyName: "",
-        
+
         title: `Astronomer`,
         birthDate: "08.20.1871",
         birthLocation: "Cambridge, Massachusetts",
@@ -763,7 +759,7 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "",
         categories: ["Astronomer", "Teacher"],
     },
@@ -773,7 +769,7 @@ g_bios = [
         firstName: "Mabel",
         middleName: "Abbie",
         familyName: "",
-        
+
         title: `Astronomer`,
         birthDate: "09.29.1873",
         birthLocation: "Cambridge, Massachusetts",
@@ -806,17 +802,17 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "",
         categories: ["Astronomer"],
     },
-     {
+    {
         organization: false,
         lastName: "Gittens",
         firstName: "Yvonne",
         middleName: "",
         familyName: "Harris",
-        
+
         title: `Financial Aid Director, Cambridge Community Center board member, Volunteer`,
         birthDate: "00.00.1947",
         birthLocation: "Cambridge, Massachusetts",
@@ -891,7 +887,7 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "Anthony Beckwith",
         categories: ["Teacher", "Volunteer", "Community Leader"],
     },

@@ -5,7 +5,7 @@ m_bios = [
         firstName: "Mary",
         middleName: "Josephine",
         familyName: "O'Dwyer",
-        
+
         title: `Navy Nurse (Retired)`,
         birthDate: "03.19.1948",
         birthLocation: "Arlington, Massachusetts",
@@ -92,7 +92,7 @@ m_bios = [
         dateUpdated: "07.16.2025",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Nurse", "Military"],
     },
@@ -102,7 +102,7 @@ m_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        
+
         title: `History Project and Walking Tour of Feminist Landmarks in Inman Square and on Hampshire Street,
                 <Br>1970s -1990s`,
         birthDate: "",
@@ -143,9 +143,10 @@ m_bios = [
         photoTitles: [""],
         dateCreated: "00.00.2020",
         dateUpdated: "",
+        photoPos: ["2"],
 
         photoHeights: ["150"],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Historian/History Project"],
     },
@@ -155,7 +156,7 @@ m_bios = [
         firstName: "Squaw",
         middleName: "Sachem",
         familyName: "",
-        
+
         title: `Native American chief (of Massachuset tribes)`,
         birthDate: "ca.1585",
         birthLocation: "Massachusetts",
@@ -196,12 +197,14 @@ m_bios = [
             <https://en.wikipedia.org/wiki/Saunkskwa_of_Missitekw#/media/File:Squaw_Sachem_-_Robbins_Memorial_Flagstaff_-_Arlington,_MA_-_DSC02798.jpg</a>
         `,
         photos: ["images_bios/misticke.jpg"],
-        photoTitles: ["Statue of Squaw Sachem Misticke, grounds of Robbins Library, Arlington, Massachusetts"],
+        photoTitles: [
+            "Statue of Squaw Sachem Misticke, grounds of Robbins Library, Arlington, Massachusetts",
+        ],
         dateCreated: "prior to 2009",
         dateUpdated: "04.12.2025",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Community Leader", "Political Leader"],
     },
@@ -211,7 +214,7 @@ m_bios = [
         firstName: "Helen",
         middleName: "Wendler",
         familyName: "Deane",
-        
+
         title: `Biologist, histochemist, humanitarian`,
         birthDate: "00.00.1917",
         birthLocation: "North Carolina",
@@ -265,7 +268,7 @@ m_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Activist", "Scientist"],
     },
@@ -275,7 +278,7 @@ m_bios = [
         firstName: "Lorna",
         middleName: "",
         familyName: "",
-        
+
         title: `Anthropologist`,
         birthDate: "00.00.1898",
         birthLocation: "Arizona",
@@ -325,7 +328,7 @@ m_bios = [
         dateUpdated: "04.05.2025",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Scientist", "Writer"],
     },
@@ -335,7 +338,7 @@ m_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        
+
         title: `One of Seventeen National Feminist Credit Unions<Br>1975`,
         birthDate: "",
         birthLocation: "",
@@ -381,13 +384,12 @@ m_bios = [
         photoTitles: ["1975 <i>Cambridge Chronicle</i>"],
         dateCreated: "00.00.2014",
         dateUpdated: "",
+        photoPos: ["2"],
 
         photoHeights: [""],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
-        categories: [
-            "Business or Service Provider (Women-Owned, Feminist)",
-        ],
+        categories: ["Business or Service Provider (Women-Owned, Feminist)"],
     },
     {
         organization: false,
@@ -395,7 +397,7 @@ m_bios = [
         firstName: "Genevieve",
         middleName: "McGlinchey",
         familyName: "",
-        
+
         title: `Engineer, Physicist, Educator, Community Activist`,
         birthDate: "02.10.1911",
         birthLocation: "Boston, Massachusetts",
@@ -467,7 +469,7 @@ m_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Activist", "Teacher/Educator", "Scientist"],
     },
@@ -477,7 +479,7 @@ m_bios = [
         firstName: "Gail",
         middleName: "Lewis",
         familyName: "Beckwith",
-        
+
         title: `Poet, Teacher, Activist`,
         birthDate: "00.00.1937",
         birthLocation: "Cambridge, Massachusetts",
@@ -544,12 +546,9 @@ m_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "Anthony Beckwith",
-        categories: [
-            "Teacher/Educator",
-            "Poet",
-        ],
+        categories: ["Teacher/Educator", "Poet"],
     },
     {
         organization: false,
@@ -557,7 +556,7 @@ m_bios = [
         firstName: "Estelle",
         middleName: "M.",
         familyName: "Hatch",
-        
+
         title: `Newspaper woman, educator, club president`,
         birthDate: "09.30.1858",
         birthLocation: "Jefferson, Maine",
@@ -613,13 +612,9 @@ m_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
-        categories: [
-            "Community Leader",
-            "Teacher/Educator",
-            "Writer",
-        ],
+        categories: ["Community Leader", "Teacher/Educator", "Writer"],
     },
     {
         organization: false,
@@ -627,7 +622,7 @@ m_bios = [
         firstName: "Agnes",
         middleName: "",
         familyName: "",
-        
+
         title: `Art historian, art curator`,
         birthDate: "01.21.1905",
         birthLocation: "Somerville, Massachusetts",
@@ -678,7 +673,7 @@ m_bios = [
         dateUpdated: "04.05.2025",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Historian/History Project"],
     },
@@ -688,7 +683,7 @@ m_bios = [
         firstName: "Dorothea",
         middleName: "May",
         familyName: "",
-        
+
         title: `Cambridge Pediatrician`,
         birthDate: "05.13.1894",
         birthLocation: "Providence, Rhode Island",
@@ -743,7 +738,7 @@ m_bios = [
         dateUpdated: "04.05.2025",
 
         photoHeights: ["200"],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Doctor"],
     },
@@ -753,7 +748,7 @@ m_bios = [
         firstName: "Maud",
         middleName: "",
         familyName: "Cabot",
-        
+
         title: `Artist, art teacher`,
         birthDate: "03.01.1903",
         birthLocation: "New York, New York",
@@ -812,7 +807,7 @@ m_bios = [
         dateUpdated: "04.12.2025",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Artist", "Teacher/Educator"],
     },
@@ -822,7 +817,7 @@ m_bios = [
         firstName: "Kathleen",
         middleName: "",
         familyName: "Johnston",
-        
+
         title: `Secretary and business manager to Robert Frost`,
         birthDate: "11.18.1898",
         birthLocation: "Nova Scotia, Canada",
@@ -909,7 +904,7 @@ m_bios = [
         dateUpdated: "12.23.2025",
 
         photoHeights: [],
-        editors:"Anthony Beckwith",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Business Manager"],
     },
@@ -919,7 +914,7 @@ m_bios = [
         firstName: "Phylis",
         middleName: "",
         familyName: "Hagen",
-        
+
         title: `Artist, teacher, science writer`,
         birthDate: "05.06.1927",
         birthLocation: "East Orange, New Jersey",
@@ -956,14 +951,9 @@ m_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
-        categories: [
-            "Artist",
-            "Teacher/Educator",
-            "Scientist",
-            "Writer",
-        ],
+        categories: ["Artist", "Teacher/Educator", "Scientist", "Writer"],
     },
     {
         organization: false,
@@ -971,7 +961,7 @@ m_bios = [
         firstName: "Rosario",
         middleName: "",
         familyName: "",
-        
+
         title: `Feminist poet, activist, author`,
         birthDate: "08.23.1930",
         birthLocation: "NY, New York",
@@ -1078,21 +1068,23 @@ m_bios = [
             "Morales' unfinished self-portrait from the 1950s",
         ],
         dateCreated: "04.17.2025",
+        photoPos: ["2"],
+
         dateUpdated: "04.30.2025",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "Anthony Beckwith",
         categories: ["Activist", "Poet", "Author"],
     },
 
-      {
+    {
         organization: false,
         lastName: "McKay",
         firstName: "Amy",
         middleName: "",
         familyName: "Jackson",
-        
+
         title: `Astronomer`,
         birthDate: "00.00.1870",
 
@@ -1126,7 +1118,7 @@ m_bios = [
         dateUpdated: "",
 
         photoHeights: ["230"],
-        editors:"",
+        editors: "",
         authors: "Anthony Beckwith",
         categories: ["Astronomer"],
     },

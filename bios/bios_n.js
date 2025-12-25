@@ -5,7 +5,7 @@ n_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        
+
         title: `Feminist center; bookstore<br>
     Founded 2002.  Formerly the New Words Bookstore (1974-2002)`,
         birthDate: "",
@@ -51,15 +51,12 @@ n_bios = [
         `,
         photos: ["images_bios/new_words.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2009",dateUpdated:
- "04.12.2025",
-photoPos:[],
+        dateCreated: "prior to 2009",
+        dateUpdated: "04.12.2025",
+        photoPos: ["2"],
         photoHeights: ["150"],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
-        categories: [
-            "Business or Service Provider (Women-Owned, Feminist)",
-        ],
-        
+        categories: ["Business or Service Provider (Women-Owned, Feminist)"],
     },
 ];

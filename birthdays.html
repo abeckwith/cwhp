@@ -139,13 +139,13 @@
                 all_bios.forEach((bioLetterList) => {
                     //go through each name for this letter:
                     bioLetterList.forEach((thename) => {
-                        if (thename.photos[0] == "") { 
-                            nophotocount++; console.log(nophotocount + ". " + thename.lastName + ", " + thename.firstName) 
+                        if (thename.photos[0] == "") {
+                            nophotocount++; console.log(nophotocount + ". " + thename.lastName + ", " + thename.firstName)
                         }
                         bio_count++;
                         nameBuild = bio_count + ". " + thename.lastName + ", " + thename.firstName + " " + thename.middleName;
-                        if(nameBuild.slice(-3) === ",  ") 
-                        nameBuild = nameBuild.substring(0, nameBuild.length - 3);
+                        if (nameBuild.slice(-3) === ",  ")
+                            nameBuild = nameBuild.substring(0, nameBuild.length - 3);
                         if (thename.familyName != "") nameBuild += " (" + thename.familyName + ")";
                         nameBuild += "<br>";
                         allNames += nameBuild;

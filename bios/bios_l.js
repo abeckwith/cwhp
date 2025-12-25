@@ -5,7 +5,7 @@ l_bios = [
         firstName: "Florence",
         middleName: "",
         familyName: "Cawthorne",
-        
+
         title: `Psychologist, teacher, administrator`,
         birthDate: "00.00.1932",
         birthLocation: "Washington, D.C.",
@@ -59,7 +59,7 @@ l_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Psychologist", "Teacher/Educator"],
     },
@@ -69,7 +69,7 @@ l_bios = [
         firstName: "Linda",
         middleName: "",
         familyName: "",
-        
+
         title: `Editor, writer`,
         birthDate: "00.00.1947",
         birthLocation: "",
@@ -102,7 +102,7 @@ l_bios = [
         dateUpdated: "04.12.2025",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Writer", "Editor"],
     },
@@ -111,10 +111,10 @@ l_bios = [
         lastName: "Layne",
         firstName: "Christol",
         middleName: "Louise",
-        familyName: "",
-        
+        familyName: "King",
+
         title: `Church member, Childcare provider`,
-        birthDate: "",
+        birthDate: "11.11.1898",
         birthLocation: "",
         deathDate: "06.27.1983",
         deathLocation: "Cambridge, Massachusetts",
@@ -126,7 +126,7 @@ l_bios = [
             Richard Allen Drive in Central Square, Cambridge. Husband and wife were active
             in the church, teaching in the Sunday school and serving on various church boards.
             <br><br>
-            One of her daughters, Audrey (Layne) Ince has continued as a trustee and clerk
+            One of her daughters, Audrey (Layne) Ince continued as a trustee and clerk
             of that church. The family was honored as the Family of the Year by St. Paul
             AME Church in 1973, with a special honor designating Christol Layne as &#8220;Mother&#8221;
             of the church. For many years she provided an inexpensive childcare service
@@ -142,7 +142,7 @@ l_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Childcare Provider"],
     },
@@ -152,7 +152,7 @@ l_bios = [
         firstName: "Henrietta",
         middleName: "Swan",
         familyName: "",
-        
+
         title: `Astronomer`,
         birthDate: "07.04.1868",
         birthLocation: "Lancaster, Massachusetts",
@@ -186,7 +186,7 @@ l_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Scientist", "Astronomer"],
     },
@@ -196,7 +196,7 @@ l_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        
+
         title: `1384 Cambridge Street, Intersection of Hampshire and Cambridge Streets`,
         birthDate: "",
         birthLocation: "",
@@ -224,9 +224,10 @@ l_bios = [
         photoTitles: [],
         dateCreated: "00.00.2018",
         dateUpdated: "",
+        photoPos: ["3"],
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Feminist Organization"],
     },
@@ -236,7 +237,7 @@ l_bios = [
         firstName: "Edith",
         middleName: "",
         familyName: "",
-        
+
         title: `Founder of The Lesley School (now Lesley University); teacher`,
         birthDate: "01.27.1872",
         birthLocation: "New Granada (now Panama)",
@@ -313,7 +314,7 @@ l_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator"],
     },
@@ -323,7 +324,7 @@ l_bios = [
         firstName: "Emily",
         middleName: "",
         familyName: "Barron",
-        
+
         title: `Nurse, Community Leader, Volunteer`,
         birthDate: "02.22.1908",
         birthLocation: "Adams Run, South Carolina",
@@ -397,7 +398,7 @@ l_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Nurse", "Volunteer", "Community Leader"],
     },
@@ -407,7 +408,7 @@ l_bios = [
         firstName: "Alice",
         middleName: "Mary",
         familyName: "",
-        
+
         title: `Philanthropist, preservationist`,
         birthDate: "09.22.1850",
         birthLocation: "Cambridge, Massachusetts",
@@ -454,7 +455,7 @@ l_bios = [
         dateUpdated: "04.05.2025",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Philanthropist", "Preservationist"],
     },
@@ -464,7 +465,7 @@ l_bios = [
         firstName: "Maria",
         middleName: "",
         familyName: "White",
-        
+
         title: `Poet, abolitionist`,
         birthDate: "07.08.1821",
         birthLocation: "Watertown, Massachusetts",
@@ -510,12 +511,9 @@ l_bios = [
         dateUpdated: "04.05.2025",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
-        categories: [
-            "Abolitionist",
-            "Poet",
-        ],
+        categories: ["Abolitionist", "Poet"],
     },
     {
         organization: false,
@@ -523,7 +521,7 @@ l_bios = [
         firstName: "Lois",
         middleName: "",
         familyName: "Hammersberg",
-        
+
         title: `Author of young people and children's literature`,
         birthDate: "00.00.1937",
         birthLocation: "Hawaii",
@@ -570,7 +568,7 @@ l_bios = [
         dateUpdated: "04.05.2025",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Author"],
     },
@@ -580,7 +578,7 @@ l_bios = [
         firstName: "Florence",
         middleName: "Hope",
         familyName: "",
-        
+
         title: `Suffragist, social activist, peace activist, architect`,
         birthDate: "02.06.1887",
         birthLocation: "Lowell, Massachusetts",
@@ -677,21 +675,17 @@ l_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
-        categories: [
-            "Activist",
-            "Suffragists/Suffrage Group",
-            "Architect",
-        ],
+        categories: ["Activist", "Suffragists/Suffrage Group", "Architect"],
     },
-     {
+    {
         organization: false,
         lastName: "Leno",
         firstName: "Mary",
         middleName: "M.",
         familyName: "",
-        
+
         title: `Feminist, Social activist, Photographer`,
         birthDate: "11.11.1940",
         birthLocation: "Ipswich, Massachusetts",
@@ -742,12 +736,8 @@ l_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "Anthony Beckwith",
-        categories: [
-            "Activist",
-            "Photographer",
-        ],
+        categories: ["Activist", "Photographer"],
     },
-   
 ];

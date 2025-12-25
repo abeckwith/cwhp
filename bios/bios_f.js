@@ -5,7 +5,7 @@ f_bios = [
         firstName: "Susan",
         middleName: "",
         familyName: "",
-        
+
         title: `Executive Director of Cambridge Community Television (CCTV); photographer`,
         birthDate: "00.00.1955",
         birthLocation: "",
@@ -50,11 +50,10 @@ f_bios = [
         photos: ["images_bios/Fleischmann_small.jpg"],
         photoTitles: [],
         dateCreated: "00.00.2018",
-        dateUpdated:
- "",
+        dateUpdated: "",
         photoPos: [],
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Activist", "Teacher/Educator"],
     },
@@ -64,15 +63,15 @@ f_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        
-        title: `Feminist Therapy Collective at 186 and 186 1/2 Hampshire Street<br>1973-2013`,
+
+        title: `Feminist Therapy Collective<br>1973-2013`,
         birthDate: "",
         birthLocation: "",
         deathDate: "",
         deathLocation: "",
         narrative: `
             Focus Counseling for Women and Their Friends, founded by Bonnie Engelhardt, Sarah Greenberg, Beverly Sclar, and 
-            Libby Zimmerman, started with a mission to offer a feminist approach for clients seeking counseling, and provide 
+            Libby Zimmerman at 186 and 186 1/2 Hampshire Street, started with a mission to offer a feminist approach for clients seeking counseling, and provide 
             a feminist community for the staff. Focus welcomed clients of all sexual orientations and gender identities. It 
             wasn&rsquo;t until 1973, the year Focus was established, that homosexuality was removed from the Diagnostic &amp; 
             Statistical Manual (DSM) as a pathological diagnosis.<br><br>
@@ -91,24 +90,27 @@ f_bios = [
             lesbian and gay support, grief and bereavement after suicide, sexual addiction, and early childhood emotional 
             development. In the 1990s, focus moved away from an economic collective to a group practice model but stayed 
             in community with one another through supervision meetings, shared office space, business meetings, and a 
-            shared commitment to provide quality psychotherapy services within a feminist perspective.<br><br>
+            shared commitment to provide quality psychotherapy services within a feminist perspective.
             
           
   `,
         otherNotes: "",
         references: `Written by Kimm Topping, printed in <em>Mapping Feminist Cambridge</em> guidebook, 2019: <a href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf" target="_self">https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a><br>
-  `,
-        photos: [""],
-        photoTitles: [],
-        dateCreated: "prior to 2009",dateUpdated:
- "",
-        photoPos: [],
-        photoHeights: [],
-        editors:"",
-        authors: "CWHP volunteers",
-        categories: [
-            "Business or Service Provider (Women-Owned, Feminist)",
+        <br>Ad listing:<i>The Cambridge Chronicle</i>, 21 March 1974<Br>
+        Photo of building: Cambridge Historical Commission
+`,
+        photos: ["images_bios/focus1.png", "images_bios/focus.png"],
+        photoTitles: [
+            "186 Hampshire Street in the late 1970s",
+            "Listing in 1974 Cambridge Chronicle",
         ],
+        dateCreated: "prior to 2009",
+        dateUpdated: "",
+        photoPos: ["4"],
+        photoHeights: ["250", "550"],
+        editors: "",
+        authors: "CWHP volunteers",
+        categories: ["Business or Service Provider (Women-Owned, Feminist)"],
     },
     {
         organization: false,
@@ -116,7 +118,7 @@ f_bios = [
         firstName: "Gladys",
         middleName: "",
         familyName: "",
-        
+
         title: `Developmental pharmacologist`,
         birthDate: "09.07.1926",
         birthLocation: "Lewiston, Maine",
@@ -169,10 +171,10 @@ f_bios = [
         photos: ["images_bios/Friedler_Gaby.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated:"04.11.2025",
+        dateUpdated: "04.11.2025",
         photoPos: [],
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Scientist"],
     },
@@ -182,7 +184,7 @@ f_bios = [
         firstName: "Mary",
         middleName: "Hamilton",
         familyName: "",
-        
+
         title: `Artist`,
         birthDate: "04.18.1890",
         birthLocation: "Salem, Massachusetts",
@@ -218,12 +220,14 @@ f_bios = [
     Image source: <a href="https://itoldya420.getarchive.net/amp/media/illustration-from-the-adventures-of-nils-by-mary-hamilton-frye-page-154-42ec0d">
     https://itoldya420.getarchive.net/amp/media/illustration-from-the-adventures-of-nils-by-mary-hamilton-frye-page-154-42ec0d</a>`,
         photos: ["images_bios/frye.jpg"],
-        photoTitles: ["Illustration from The Adventures of Nils by Mary Hamilton Frye, page 154"],
+        photoTitles: [
+            "Illustration from The Adventures of Nils by Mary Hamilton Frye, page 154",
+        ],
         dateCreated: "prior to 2009",
-        dateUpdated:"12.17.2025",
+        dateUpdated: "12.17.2025",
         photoPos: [],
         photoHeights: [],
-        editors:"Anthony Beckwith",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Artist"],
     },
@@ -233,7 +237,7 @@ f_bios = [
         firstName: "Margaret",
         middleName: "",
         familyName: "",
-        
+
         title: `aka Sarah Margaret Fuller, Marchesa Margaret F. Ossoli<br>Author, Editor, Feminist, Transcendentalist`,
         birthDate: "05.23.1810",
         birthLocation: "Cambridge, Massachusetts",
@@ -293,24 +297,21 @@ In
   `,
         photos: ["images_bios/margaret_fuller.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2009",dateUpdated:
- "",
+        dateCreated: "prior to 2009",
+        dateUpdated: "",
         photoPos: [],
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
-        categories: [
-            "Social/Philanthropic Organization",
-            "Author",
-        ],
+        categories: ["Social/Philanthropic Organization", "Author"],
     },
-     {
+    {
         organization: false,
         lastName: "Federer",
         firstName: "Helen",
         middleName: "",
         familyName: "Spence",
-        
+
         title: `Astronomer`,
         birthDate: "00.00.1911",
         birthLocation: "New York, New York",
@@ -344,7 +345,7 @@ In
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "",
         categories: ["Astronomer"],
     },

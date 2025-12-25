@@ -5,7 +5,7 @@ b_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        
+
         title: `Women's Intergenerational Dance/Theater Company<br>1985-2001`,
         birthDate: "",
         birthLocation: "",
@@ -56,14 +56,16 @@ b_bios = [
 
         `,
         photos: ["images_bios/BPD_small.jpeg", "images_bios/burke.png"],
-        photoTitles: ["L to R: Geni Guinier, Marcie Osinsky, Eleanor Duckworth, Mariah Pisha, Vicki Solomon and Jen Schoonover",
-            "Lucy Wilson, Susan Periale, Crystyl Mo, Neesy Callender, Latoiya Foster, Vernell Foster, Caitlin Roberts, Lucy Hammerman, Lise Brdy, Carol Strickland and Ann Brown Allen"
+        photoTitles: [
+            "L to R: Geni Guinier, Marcie Osinsky, Eleanor Duckworth, Mariah Pisha, Vicki Solomon and Jen Schoonover",
+            "Lucy Wilson, Susan Periale, Crystyl Mo, Neesy Callender, Latoiya Foster, Vernell Foster, Caitlin Roberts, Lucy Hammerman, Lise Brdy, Carol Strickland and Ann Brown Allen",
         ],
         dateCreated: "prior to 2009",
         dateUpdated: "",
+        photoPos: ["4"],
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Dancer"],
     },
@@ -73,7 +75,7 @@ b_bios = [
         firstName: "Emily",
         middleName: "Greene",
         familyName: "",
-        
+
         title: `Economist, peace activist, Nobel peace laureate`,
         birthDate: "01.08.1867",
         birthLocation: "Boston, Massachusetts",
@@ -140,7 +142,7 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Activist", "Economist", "Editor"],
     },
@@ -150,7 +152,7 @@ b_bios = [
         firstName: "Maria",
         middleName: "Louisa",
         familyName: "",
-        
+
         title: `Educator, civic leader`,
         birthDate: "09.13.1856",
         birthLocation: "Cambridge, Massachusetts",
@@ -193,7 +195,7 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: [
             "Community Leader",
@@ -207,7 +209,7 @@ b_bios = [
         firstName: "Louisa",
         middleName: "Frances",
         familyName: "Jones",
-        
+
         title: `Abolitionist, escaped slave`,
         birthDate: "ca.1833",
         birthLocation: "Hampton, Virginia",
@@ -247,7 +249,7 @@ b_bios = [
         dateUpdated: "11.14.2025",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Abolitionist", "Refugee"],
     },
@@ -257,7 +259,7 @@ b_bios = [
         firstName: "Mary",
         middleName: "",
         familyName: "West",
-        
+
         title: `Pilot, community leader`,
         birthDate: "08.16.1920",
         birthLocation: "Newton, Massachusetts",
@@ -295,7 +297,7 @@ b_bios = [
         dateUpdated: "07.29.2025",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Community Leader", "Pilot"],
     },
@@ -305,7 +307,7 @@ b_bios = [
         firstName: "Mary",
         middleName: "",
         familyName: "",
-        
+
         title: `Writer, lecturer, intelligence officer`,
         birthDate: "00.00.1903",
         birthLocation: "Cambridge, Massachusetts",
@@ -358,12 +360,9 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
-        categories: [
-            "Intelligence Officer",
-            "Author",
-        ],
+        categories: ["Intelligence Officer", "Author"],
     },
     {
         organization: false,
@@ -371,7 +370,7 @@ b_bios = [
         firstName: "Ruth",
         middleName: "Lillian",
         familyName: "Tarutz",
-        
+
         title: `Businesswoman, community volunteer`,
         birthDate: "01.31.1916",
         birthLocation: "",
@@ -407,7 +406,7 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Businesswoman", "Volunteer"],
     },
@@ -417,7 +416,7 @@ b_bios = [
         firstName: "Charlotte",
         middleName: "Fiske",
         familyName: "",
-        
+
         title: `Author, Poet, Translator, Teacher`,
         birthDate: "11.30.1838",
         birthLocation: "New York, New York",
@@ -460,7 +459,7 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator"],
     },
@@ -470,7 +469,7 @@ b_bios = [
         firstName: "De Ama",
         middleName: "",
         familyName: "",
-        
+
         title: `Dancer, storyteller, teacher of dance`,
         birthDate: "00.00.1938",
         birthLocation: "Cambridge, Massachusetts",
@@ -518,9 +517,10 @@ b_bios = [
         photoTitles: [],
         dateCreated: "prior to 2009",
         dateUpdated: "",
+        photoPos: ["2"],
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Dancer"],
     },
@@ -530,7 +530,7 @@ b_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        
+
         title: `Social and philanthropic organization<br>Founded in 1861`,
         birthDate: "",
         birthLocation: "",
@@ -561,7 +561,7 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Social/Philanthropic Organization"],
     },
@@ -571,7 +571,7 @@ b_bios = [
         firstName: "Mabel",
         middleName: "Gardiner",
         familyName: "Hubbard",
-        
+
         title: `Founder of education association, suffragist`,
         birthDate: "11.15.1857",
         birthLocation: "Cambridge, Massachusetts",
@@ -627,7 +627,7 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Suffragists/Suffrage Group"],
     },
@@ -637,7 +637,7 @@ b_bios = [
         firstName: "Satyra",
         middleName: "",
         familyName: "Pearson",
-        
+
         title: `Community leader, Volunteer, Linotype operator`,
         birthDate: "00.00.1892",
         birthLocation: "Rock Hill, Jamaica",
@@ -687,7 +687,7 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: ["150"],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Community Leader", "Volunteer"],
     },
@@ -697,7 +697,7 @@ b_bios = [
         firstName: "Sara",
         middleName: "Mae",
         familyName: "Sidore",
-        
+
         title: `Athlete, politician, magazine editor, businesswoman, foundation president`,
         birthDate: "00.00.1936",
         birthLocation: "Bronx, New York",
@@ -771,14 +771,15 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: [
             "Businesswoman",
             "Philanthropist",
             "Political Leader",
             "Sportswoman",
-            "Writer", "Editor",
+            "Writer",
+            "Editor",
         ],
     },
     {
@@ -787,7 +788,7 @@ b_bios = [
         firstName: "Stephanie",
         middleName: "",
         familyName: "",
-        
+
         title: `Psychologist, educator`,
         birthDate: "",
         birthLocation: "",
@@ -816,7 +817,7 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Psychologist"],
     },
@@ -826,7 +827,7 @@ b_bios = [
         firstName: "Anne",
         middleName: "",
         familyName: "",
-        
+
         title: `Novelist`,
         birthDate: "00.00.1938",
         birthLocation: "New York, New York",
@@ -874,7 +875,7 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Author"],
     },
@@ -884,7 +885,7 @@ b_bios = [
         firstName: "Grete",
         middleName: "",
         familyName: "Lehner",
-        
+
         title: `Psychoanalyst`,
         birthDate: "01.11.1899",
         birthLocation: "Vienna, Austria",
@@ -918,7 +919,7 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Psychiatrist", "Refugee"],
     },
@@ -928,7 +929,7 @@ b_bios = [
         firstName: "Elizabeth",
         middleName: "",
         familyName: "",
-        
+
         title: `Poet`,
         birthDate: "02.08.1911",
         birthLocation: "Worcester, Massachusetts",
@@ -995,7 +996,7 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Poet"],
     },
@@ -1005,7 +1006,7 @@ b_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        
+
         title: `Five year project supported by Schlesinger Library to document the lives of Black Women<br>1976 - 1981`,
         birthDate: "",
         birthLocation: "",
@@ -1044,7 +1045,7 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Historian/History Project"],
     },
@@ -1054,7 +1055,7 @@ b_bios = [
         firstName: "Alice",
         middleName: "Stone",
         familyName: "",
-        
+
         title: `Writer, editor, translator, suffragist, social activist`,
         birthDate: "09.14.1857",
         birthLocation: "Orange, New Jersey",
@@ -1106,12 +1107,13 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: [
             "Activist",
             "Author",
-            "Suffragists/Suffrage Group", "Editor",
+            "Suffragists/Suffrage Group",
+            "Editor",
         ],
     },
     {
@@ -1120,7 +1122,7 @@ b_bios = [
         firstName: "Mary",
         middleName: "Anne",
         familyName: "",
-        
+
         title: `Aids activist, wilderness adventurer`,
         birthDate: "08.06.1929",
         birthLocation: "Saranac Lake, New York",
@@ -1168,12 +1170,15 @@ b_bios = [
 
         `,
         photos: ["images_bios/bodecker.png"],
-        photoTitles: ["April 1995 Photo of Bodecker, bottom left, in <i>the Cambridge Chronicle</i>"],
+        photoTitles: [
+            "April 1995 Photo of Bodecker, bottom left, in <i>the Cambridge Chronicle</i>",
+        ],
         dateCreated: "prior to 2009",
         dateUpdated: "",
+        photoPos: ["2"],
 
         photoHeights: ["250"],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Activist"],
     },
@@ -1183,7 +1188,7 @@ b_bios = [
         firstName: "Ann",
         middleName: "",
         familyName: "Keefe",
-        
+
         title: `Activist, School Volunteer`,
         birthDate: "12.03.1939",
         birthLocation: "Boston, Massachusetts",
@@ -1223,7 +1228,7 @@ b_bios = [
         dateUpdated: "12.21.2025",
 
         photoHeights: [],
-        editors:"Anthony Beckwith",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist", "Volunteer"],
     },
@@ -1234,7 +1239,7 @@ b_bios = [
         firstName: "Alice",
         middleName: "Middleton",
         familyName: "",
-        
+
         title: `Biologist, Educator`,
         birthDate: "02.22.1883",
         birthLocation: "Philadelphia, Pennsylvania",
@@ -1275,7 +1280,7 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Scientist"],
     },
@@ -1285,7 +1290,7 @@ b_bios = [
         firstName: "Nadia",
         middleName: "",
         familyName: "",
-        
+
         title: `Teacher of music theory and composition, conductor`,
         birthDate: "09.16.1887",
         birthLocation: "Paris, France",
@@ -1346,7 +1351,7 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Musician"],
     },
@@ -1356,7 +1361,7 @@ b_bios = [
         firstName: "Anne",
         middleName: "",
         familyName: "Dudley",
-        
+
         title: `America's first published poet`,
         birthDate: "03.00.1612",
         birthLocation: "Northampton, England",
@@ -1404,7 +1409,7 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Poet"],
     },
@@ -1412,9 +1417,9 @@ b_bios = [
         organization: false,
         lastName: "Brand",
         firstName: "Hermine",
-        middleName: "\"Mina\"",
+        middleName: '"Mina"',
         familyName: "Brokczyna",
-        
+
         title: `Librarian, book seller`,
         birthDate: "00.00.1908",
         birthLocation: "Vienna, Austria",
@@ -1457,7 +1462,7 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Librarian", "Businesswoman"],
     },
@@ -1467,7 +1472,7 @@ b_bios = [
         firstName: "Marilynn",
         middleName: "Pearl",
         familyName: "",
-        
+
         title: `Culinary Historian, Cookbook Author, Antique Dealer, Television Producer`,
         birthDate: "00.00.1941",
         birthLocation: "Winthrop, Massachusetts",
@@ -1566,8 +1571,8 @@ b_bios = [
         dateCreated: "00.00.2016",
         dateUpdated: "04.06.2025",
 
-        photoHeights: [],
-        editors:"",
+        photoHeights: ["200"],
+        editors: "",
         authors: "CWHP volunteers",
         categories: [
             "Historian/History Project",
@@ -1581,7 +1586,7 @@ b_bios = [
         firstName: "Sheila",
         middleName: "Janet",
         familyName: "",
-        
+
         title: `Culinary Historian, Cookbook Author, Fashion Designer, Antique Dealer,
                 Television Producer`,
         birthDate: "00.00.1937",
@@ -1661,8 +1666,8 @@ b_bios = [
         dateCreated: "00.00.2016",
         dateUpdated: "07.29.2025",
 
-        photoHeights: [],
-        editors:"Jan Gardner",
+        photoHeights: ["200"],
+        editors: "Jan Gardner",
         authors: "CWHP Volunteers",
         categories: [
             "Fashion Designer",
@@ -1677,7 +1682,7 @@ b_bios = [
         firstName: "Mary",
         middleName: "Agnes",
         familyName: "Burniston",
-        
+
         title: `Neurophysiologist and historian of science`,
         birthDate: "00.00.1904",
         birthLocation: "Western-Super-Mare, England",
@@ -1713,7 +1718,7 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Historian/History Project", "Scientist"],
     },
@@ -1723,7 +1728,7 @@ b_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        
+
         title: `Women's liberation group`,
         birthDate: "",
         birthLocation: "",
@@ -1779,7 +1784,7 @@ b_bios = [
         dateUpdated: "12.23.2025",
 
         photoHeights: [],
-        editors:"Anthony Beckwith",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Feminist Organization"],
     },
@@ -1789,7 +1794,7 @@ b_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        
+
         title: `Gourmet Vegetarian Restaurant and Center for Feminist<br>1974 - 1978
                `,
         birthDate: "",
@@ -1842,17 +1847,18 @@ b_bios = [
             https://historycambridge.org/self-guided-tours/self-guided-tour-mapping-feminist-cambridge-inman-square-1970s-1990s/</a><br>
             Stories for Bread and Roses provided by Pat Hynes.
         `,
-        photos: ["images_bios/Bread_and_Roses_Menu.png", "images_bios/breadandroses.png"],
+        photos: [
+            "images_bios/Bread_and_Roses_Menu.png",
+            "images_bios/breadandroses.png",
+        ],
         photoTitles: [],
         dateCreated: "prior to 2019",
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
-        categories: [
-            "Business or Service Provider (Women-Owned, Feminist)",
-        ],
+        categories: ["Business or Service Provider (Women-Owned, Feminist)"],
     },
     {
         organization: false,
@@ -1860,7 +1866,7 @@ b_bios = [
         firstName: "Charlotte",
         middleName: "Eugenia",
         familyName: "Hawkins",
-        
+
         title: `Educator, School Founder, Lecturer`,
         birthDate: "06.11.1883",
         birthLocation: "Henderson, North Carolina",
@@ -1901,7 +1907,7 @@ b_bios = [
         dateUpdated: "12.21.2025",
 
         photoHeights: [],
-        editors:"Anthony Beckwith",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator"],
     },
@@ -1911,7 +1917,7 @@ b_bios = [
         firstName: "Ruth",
         middleName: "G.",
         familyName: "",
-        
+
         title: `Educator and volunteer`,
         birthDate: "ca.1899",
         birthLocation: "",
@@ -1941,7 +1947,7 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Volunteer"],
     },
@@ -1951,7 +1957,7 @@ b_bios = [
         firstName: "Sara",
         middleName: "",
         familyName: "Thorp",
-        
+
         title: `Writer and Artistic leader`,
         birthDate: "03.24.1850",
         birthLocation: "Oxford, New York",
@@ -1995,12 +2001,9 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
-        categories: [
-            "Community Leader",
-            "Author",
-        ],
+        categories: ["Community Leader", "Author"],
     },
     {
         organization: false,
@@ -2008,7 +2011,7 @@ b_bios = [
         firstName: "Mary",
         middleName: "",
         familyName: "Ingraham",
-        
+
         title: `Educator, Microbiologist, University Administrator`,
         birthDate: "07.10.1910",
         birthLocation: "Brooklyn, New York",
@@ -2055,7 +2058,7 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Scientist"],
     },
@@ -2065,7 +2068,7 @@ b_bios = [
         firstName: "Antonia",
         middleName: "Neves",
         familyName: "",
-        
+
         title: `Educator`,
         birthDate: "00.00.1927",
         birthLocation: "Boston, Massachusetts",
@@ -2106,7 +2109,7 @@ b_bios = [
         dateUpdated: "12.21.2025",
 
         photoHeights: [],
-        editors:"Anthony Beckwith",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator"],
     },
@@ -2116,7 +2119,7 @@ b_bios = [
         firstName: "Annie",
         middleName: "Elizabeth",
         familyName: "Thurston",
-        
+
         title: `Community leader`,
         birthDate: "00.00.1915",
         birthLocation: "Cambridge, Massachusetts",
@@ -2144,7 +2147,7 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Community Leader"],
     },
@@ -2154,7 +2157,7 @@ b_bios = [
         firstName: "Jeanne",
         middleName: "V.",
         familyName: "",
-        
+
         title: `Community Activist`,
         birthDate: "09.24.1929",
         birthLocation: "",
@@ -2187,7 +2190,7 @@ b_bios = [
         dateUpdated: "12.17.2025",
 
         photoHeights: [],
-        editors:"Anthony Beckwith",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist"],
     },
@@ -2197,7 +2200,7 @@ b_bios = [
         firstName: "Caroline",
         middleName: "B.",
         familyName: "",
-        
+
         title: `Teacher`,
         birthDate: "00.00.1897",
         birthLocation: "Cambridge, Massachusetts",
@@ -2227,12 +2230,15 @@ b_bios = [
 
         `,
         photos: ["images_bios/butler.png"],
-        photoTitles: ["1918 School Committee list of new teachers.<br> Caroline Butler was 21 at the time"],
+        photoTitles: [
+            "1918 School Committee list of new teachers.<br> Caroline Butler was 21 at the time",
+        ],
         dateCreated: "prior to 2009",
         dateUpdated: "12.24.2025",
+        photoPos: ["2"],
 
         photoHeights: ["100"],
-        editors:"Anthony Beckwith",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator"],
     },
@@ -2242,7 +2248,7 @@ b_bios = [
         firstName: "Gladys",
         middleName: "Marion",
         familyName: "Canada",
-        
+
         title: `Resident`,
         birthDate: "11.27.1907",
         birthLocation: "",
@@ -2281,7 +2287,7 @@ b_bios = [
         dateUpdated: "04.06.2025",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: [""],
     },
@@ -2291,7 +2297,7 @@ b_bios = [
         firstName: "Susan",
         middleName: "",
         familyName: "",
-        
+
         title: `Champion Dog Sled Racer`,
         birthDate: "12.26.1954",
         birthLocation: "Cambridge, Massachusetts",
@@ -2353,17 +2359,17 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "Siobhan Bredin",
         categories: ["Athlete"],
     },
-     {
+    {
         organization: false,
         lastName: "Beckwith",
         firstName: "Barbara",
         middleName: "",
         familyName: "Shutt",
-        
+
         title: `Activist, Teacher, Writer`,
         birthDate: "00.00.1937",
         birthLocation: "Brooklyn, New York",
@@ -2459,17 +2465,17 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "Anthony Beckwith",
         categories: ["Activist", "Writer", "Teacher/Educator", "Journalist"],
     },
-     {
+    {
         organization: false,
         lastName: "Bibber",
         firstName: "Florence",
         middleName: "May",
         familyName: "Campbell",
-        
+
         title: `Astronomer`,
         birthDate: "01.10.1908",
         birthLocation: "Cambridge, Massachusetts",
@@ -2502,7 +2508,7 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP Volunteers",
         categories: ["Astronomer"],
     },
@@ -2510,9 +2516,9 @@ b_bios = [
         organization: false,
         lastName: "Butterfield",
         firstName: "Elizabeth",
-        middleName: "\"Betty\"",
+        middleName: '"Betty"',
         familyName: "Eaton",
-        
+
         title: `Nonprofit Bookstore Co-Founder, Social Activist`,
         birthDate: "00.00.1913",
         birthLocation: "Cleveland, Ohio",
@@ -2588,17 +2594,17 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: ["400"],
-        editors:"Barbara Beckwith",
+        editors: "Barbara Beckwith",
         authors: "Jan Gardner",
         categories: ["Activist", "Non-profit Owner"],
     },
-     {
+    {
         organization: false,
         lastName: "Boudreau",
         firstName: "Alma",
         middleName: "Marie",
         familyName: "",
-        
+
         title: `Telephone company worker, Library trustee`,
         birthDate: "07.27.1908",
         birthLocation: "Cambridge, Massachusetts",
@@ -2648,12 +2654,14 @@ b_bios = [
             Cambridge City Directory 1954, 1961
         `,
         photos: ["images_bios/boudreau_alma2.png"],
-        photoTitles: ["Dedication of the Boudreau library branch in Alma's name, 1989 (Alma at center)"],
+        photoTitles: [
+            "Dedication of the Boudreau library branch in Alma's name, 1989 (Alma at center)",
+        ],
         dateCreated: "12.10.2025",
         dateUpdated: "",
 
         photoHeights: [""],
-        editors:"",
+        editors: "",
         authors: "Anthony Beckwith",
         categories: ["Telephone company worker", "Library Trustee"],
     },

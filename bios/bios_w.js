@@ -5,7 +5,7 @@ w_bios = [
         firstName: "Mary",
         middleName: "Frances",
         familyName: "",
-        
+
         title: `Teacher`,
         birthDate: "10.24.1924",
         birthLocation: "Cambridge, Massachusetts",
@@ -32,7 +32,7 @@ w_bios = [
         dateUpdated: "04.06.2025",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator"],
     },
@@ -42,7 +42,7 @@ w_bios = [
         firstName: "Julia",
         middleName: "Abernethy",
         familyName: "",
-        
+
         title: `Teacher, Human Rights Activist, Volunteer`,
         birthDate: "05.16.1936",
         birthLocation: "Shelby, North Carolina",
@@ -89,12 +89,14 @@ w_bios = [
             Cambridge City Directory, 1972
         `,
         photos: ["images_bios/Juliaquilt_cropped_small.jpg"],
-        photoTitles: [],
+        photoTitles: [
+            "Quilt created by Adbar Ethiopian Women's Alliance in honor of Wallace",
+        ],
         dateCreated: "00.00.2014",
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Activist", "Teacher/Educator", "Volunteer"],
     },
@@ -104,7 +106,7 @@ w_bios = [
         firstName: "Betsy",
         middleName: "",
         familyName: "",
-        
+
         title: `Feminist, Human Rights Activist, Tenant's and Welfare Rights Organizer`,
         birthDate: "00.00.1940",
         birthLocation: "Boston, Massachusetts",
@@ -244,9 +246,10 @@ w_bios = [
         photoTitles: [],
         dateCreated: "00.00.2014",
         dateUpdated: "04.12.2025",
+        photoPos: ["2"],
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Activist", "Writer", "Editor"],
     },
@@ -256,7 +259,7 @@ w_bios = [
         firstName: "Florence",
         middleName: "",
         familyName: "Lee",
-        
+
         title: `Politician (First woman elected to Cambridge City Council)`,
         birthDate: "09.04.1862",
         birthLocation: "Canton, New York",
@@ -318,7 +321,7 @@ w_bios = [
         dateUpdated: "04.12.2025",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Political Leader"],
     },
@@ -328,7 +331,7 @@ w_bios = [
         firstName: "Anne",
         middleName: "",
         familyName: "",
-        
+
         title: `Sculptor, poet`,
         birthDate: "09.02.1821",
         birthLocation: "Watertown, Massachusetts",
@@ -382,13 +385,16 @@ w_bios = [
              and statue <a href="https://commons.wikimedia.org/wiki/File:Charles_Sumner_statue_%28Cambridge,_MA%29_-_Anne_Whitney_sculptor.JPG" target="_self">
         image</a> from wikimedia commons 
         `,
-        photos: ["images_bios/Anne_Whitney.jpg", "images_bios/whitneySumnerStatue.jpeg"],
+        photos: [
+            "images_bios/Anne_Whitney.jpg",
+            "images_bios/whitneySumnerStatue.jpeg",
+        ],
         photoTitles: ["", "Whitney's Charles Sumner statue"],
         dateCreated: "prior to 2009",
         dateUpdated: "04.08.2025",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Artist", "Poet"],
     },
@@ -398,7 +404,7 @@ w_bios = [
         firstName: "Antoinette",
         middleName: "",
         familyName: "Rinaldi",
-        
+
         title: `Factory worker, PTA president, Volunteer`,
         birthDate: "08.24.1921",
         birthLocation: "",
@@ -438,7 +444,7 @@ Cambridge City Directory, 1926
         dateUpdated: "12.14.2014",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Factory Worker", "Volunteer"],
     },
@@ -448,7 +454,7 @@ Cambridge City Directory, 1926
         firstName: "",
         middleName: "",
         familyName: "",
-        
+
         title: `1939-1971`,
         birthDate: "",
         birthLocation: "",
@@ -509,7 +515,7 @@ Cambridge City Directory, 1926
         dateUpdated: "",
 
         photoHeights: ["300"],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Refugee", "Social/Philanthropic Organization"],
     },
@@ -519,7 +525,7 @@ Cambridge City Directory, 1926
         firstName: "Joanna",
         middleName: "",
         familyName: "",
-        
+
         title: `First Cambridge schoolmistress`,
         birthDate: "00.00.1645",
         birthLocation: "Cambridge, Massachusetts",
@@ -548,9 +554,10 @@ Cambridge City Directory, 1926
         photoTitles: [],
         dateCreated: "prior to 2009",
         dateUpdated: "",
+        photoPos: ["2"],
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator"],
     },
@@ -560,7 +567,7 @@ Cambridge City Directory, 1926
         firstName: "Hannah",
         middleName: "",
         familyName: "Fayerweather",
-        
+
         title: `Eighteenth century woman of letters`,
         birthDate: "02.00.1727",
         birthLocation: "Boston, Massachusetts",
@@ -620,12 +627,9 @@ Cambridge City Directory, 1926
         dateUpdated: "04.08.2025",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
-        categories: [
-            "Community Leader",
-            "Writer",
-        ],
+        categories: ["Community Leader", "Writer"],
     },
     {
         organization: false,
@@ -633,7 +637,7 @@ Cambridge City Directory, 1926
         firstName: "Ozeline",
         middleName: "Barrett",
         familyName: "Pearson",
-        
+
         title: `State employee, volunteer`,
         birthDate: "00.00.1903",
         birthLocation: "Worcester, Massachusetts",
@@ -678,7 +682,7 @@ Cambridge City Directory, 1926
         dateUpdated: "04.08.2025",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Volunteer"],
     },
@@ -688,7 +692,7 @@ Cambridge City Directory, 1926
         firstName: "Pearl",
         middleName: "",
         familyName: "Katz",
-        
+
         title: `Cambridge community leader; politician`,
         birthDate: "09.15.1901",
         birthLocation: "",
@@ -738,7 +742,7 @@ Cambridge City Directory, 1926
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Community Leader", "Political Leader"],
     },
@@ -748,7 +752,7 @@ Cambridge City Directory, 1926
         firstName: "Alice",
         middleName: "Koerner",
         familyName: "",
-        
+
         title: `State representative, former Mayor of Cambridge`,
         birthDate: "12.24.1933",
         birthLocation: "Vienna, Austria",
@@ -791,7 +795,7 @@ Cambridge City Directory, 1926
         dateUpdated: "04.06.2025",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Political Leader", "Refugee"],
     },
@@ -801,7 +805,7 @@ Cambridge City Directory, 1926
         firstName: "",
         middleName: "",
         familyName: "",
-        
+
         title: `Community organization, 46 Pleasant Street, Cambridge`,
         birthDate: "",
         birthLocation: "",
@@ -835,19 +839,18 @@ Cambridge City Directory, 1926
         otherNotes: "",
         references: `Finding
             Aid, Northeastern University Library Archives; Annie Popkin Papers, Schlesinger
-            Library; Central Square Women's Walking Tour.`,
-        photos: ["images_bios/888MemDr.jpg"],
-        photoTitles: [],
+            Library; Central Square Women's Walking Tour.
+            <br>Logo image from <a href="https://www.facebook.com/cambridgewomenscenter/">https://www.facebook.com/cambridgewomenscenter/</a>`,
+        photos: ["images_bios/womensctr.png", "images_bios/888MemDr.jpg"],
+        photoTitles: ["Women's Center Logo", "Plaque ready to be placed on Memorial Drive"],
         dateCreated: "prior to 2009",
         dateUpdated: "",
+        photoPos: ["3"],
 
-        photoHeights: [],
-        editors:"",
+        photoHeights: ["", "250"],
+        editors: "",
         authors: "CWHP volunteers",
-        categories: [
-            "Educational Institution/School",
-            "Feminist Organization",
-        ],
+        categories: ["Educational Institution/School", "Feminist Organization"],
     },
     {
         organization: true,
@@ -855,7 +858,7 @@ Cambridge City Directory, 1926
         firstName: "",
         middleName: "",
         familyName: "",
-        
+
         title: `Feminist community coffeehouse<br>Flourished 1979-ca. 1989`,
         birthDate: "",
         birthLocation: "",
@@ -898,9 +901,9 @@ Cambridge City Directory, 1926
         photoTitles: [],
         dateCreated: "prior to 2009",
         dateUpdated: "04.11.2025",
-
+        photoPos: ["3"],
         photoHeights: ["100"],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Feminist Organization"],
     },
@@ -910,7 +913,7 @@ Cambridge City Directory, 1926
         firstName: "",
         middleName: "",
         familyName: "",
-        
+
         title: `Woman-owned health and education center<br>1974 - 1981`,
         birthDate: "",
         birthLocation: "",
@@ -963,11 +966,9 @@ Cambridge City Directory, 1926
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
-        categories: [
-            "Business or Service Provider (Women-Owned, Feminist)",
-        ],
+        categories: ["Business or Service Provider (Women-Owned, Feminist)"],
     },
     {
         organization: true,
@@ -975,7 +976,7 @@ Cambridge City Directory, 1926
         firstName: "",
         middleName: "",
         familyName: "",
-        
+
         title: `Woman-led law collective<br>1970s`,
         birthDate: "",
         birthLocation: "",
@@ -1019,13 +1020,11 @@ Cambridge City Directory, 1926
         photoTitles: ["Listing from 1974 Cambridge Chronicle"],
         dateCreated: "prior to 2009",
         dateUpdated: "",
-
+        photoPos: ["3"],
         photoHeights: ["200"],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
-        categories: [
-            "Business or Service Provider (Women-Owned, Feminist)",
-        ],
+        categories: ["Business or Service Provider (Women-Owned, Feminist)"],
     },
     {
         organization: true,
@@ -1033,7 +1032,7 @@ Cambridge City Directory, 1926
         firstName: "",
         middleName: "",
         familyName: "",
-        
+
         title: `1971-1992`,
         birthDate: "",
         birthLocation: "",
@@ -1067,13 +1066,10 @@ Cambridge City Directory, 1926
         photoTitles: ["1979 listing in the Cambridge Chronicle"],
         dateCreated: "prior to 2009",
         dateUpdated: "",
-
+        photoPos:["3"],
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
-        categories: [
-            "Educational Institution/School",
-            "Feminist Organization",
-        ],
+        categories: ["Educational Institution/School", "Feminist Organization"],
     },
 ];

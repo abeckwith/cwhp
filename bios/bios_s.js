@@ -156,7 +156,9 @@ s_bios = [
         dateCreated: "prior to 2009",
         dateUpdated: "04.07.2025",
 
-        photoHeights: [],
+        photoHeights: ["250"],
+                photoPos: ["2"],
+
         editors:"",
         authors: "CWHP volunteers",
         categories: ["Refugee", "Poet", "Author"],
@@ -270,18 +272,15 @@ s_bios = [
         middleName: "Denise",
         familyName: "",
         
-        title: `Business Owner<br>
-                City Councilor, Former Mayor and School Committee Member, City of Cambridge <br>
-                First African American Woman Mayor in Massachusetts`,
+        title: `Business Owner,
+                City Councilor, Former Mayor and School Committee Member, City of Cambridge `,
         birthDate: "00.00.1951",
         birthLocation: "Cambridge, Massachusetts",
         deathDate: "",
         deathLocation: "",
         narrative: `
             <strong>First African American Openly Lesbian Mayor in the Nation</strong>
-        </p>
-        <p><br>
-            Photo Credit: Stephen Maclone</p>
+        
         <p> E. Denise Simmons is a lifelong resident of Cambridge. Simmons was one of only
             two African American students during her nine years at St. Mary&rsquo;s, a parochial school in Cambridge,
             before entering the public school system, which was much more diverse. She graduated from Cambridge High and
@@ -348,11 +347,14 @@ s_bios = [
                 href="https://www.huffingtonpost.com/irene-monroe/black-episcopal-congregat_b_281261.html"
                 target="new">https://www.huffingtonpost.com/irene-monroe/black-episcopal-congregat_b_281261.html</a>
             <br>
+   
+            Photo Credit: Stephen Maclone
         `,
         photos: ["images_bios/Simmons Blue Suit_small.jpg"],
         photoTitles: [],
         dateCreated: "00.00.2018",
         dateUpdated: "04.12.2025",
+        photoPos: ["6"],
 
         photoHeights: [],
         editors:"",
@@ -403,7 +405,7 @@ s_bios = [
             and (with Charles Weiner), J. Robert Oppenheimer: Letters and Recollections.
             (Harvard University Press, 1980). <br><br>For the last six years of her life, she moved
             to the state of Washington to be near her daughter.
-        </p>
+        
         `,
         otherNotes: "",
         references: `
@@ -415,7 +417,7 @@ s_bios = [
             Image from University of Chicago Photographic Archive, apf1-07690, Hanna Holborn Gray Special Collections Research Center, University of Chicago Library.
            `,
         photos: ["images_bios/Alice_Kimball_Smith.jpg"],
-        photoTitles: [],
+        photoTitles: [""],
         dateCreated: "prior to 2009",
         dateUpdated: "04.11.2025",
 

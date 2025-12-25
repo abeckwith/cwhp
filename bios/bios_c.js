@@ -5,7 +5,7 @@ c_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        
+
         title: `Neighborhood house, community organization<br>1878-1973`,
         birthDate: "",
         birthLocation: "",
@@ -52,11 +52,11 @@ c_bios = [
         `,
         photos: ["images_bios/neighborhood house on moore.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2009",dateUpdated:
- "",
+        dateCreated: "prior to 2009",
+        dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Social/Philanthropic Organization"],
     },
@@ -66,7 +66,7 @@ c_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        
+
         title: `Political education and suffrage organization<br>Founded in 1896, flourished until ca.1920`,
         birthDate: "",
         birthLocation: "",
@@ -97,11 +97,11 @@ c_bios = [
         `,
         photos: ["images_bios/cpea.png"],
         photoTitles: [],
-        dateCreated: "prior to 2009",dateUpdated:
- "",
+        dateCreated: "prior to 2009",
+        dateUpdated: "",
 
         photoHeights: [215],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Suffragists/Suffrage Group"],
     },
@@ -111,7 +111,7 @@ c_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        
+
         title: `Women's Educational Instituion`,
         birthDate: "",
         birthLocation: "",
@@ -162,11 +162,11 @@ c_bios = [
         `,
         photos: ["images_bios/CSALA_195x250.jpeg"],
         photoTitles: [],
-        dateCreated: "prior to 2009",dateUpdated:
- "",
+        dateCreated: "prior to 2009",
+        dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Educational Institution/School", "School/Institution"],
     },
@@ -176,7 +176,7 @@ c_bios = [
         firstName: "Annie",
         middleName: "Jump",
         familyName: "",
-        
+
         title: `Astronomer`,
         birthDate: "12.11.1863",
         birthLocation: "Dover, Delaware",
@@ -230,11 +230,11 @@ c_bios = [
         `,
         photos: ["images_bios/annie cannon.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2009",dateUpdated:
- "",
+        dateCreated: "prior to 2009",
+        dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Scientist", "Suffragists/Suffrage Group", "Astronomer"],
     },
@@ -244,7 +244,7 @@ c_bios = [
         firstName: "Cornelia",
         middleName: "",
         familyName: "James",
-        
+
         title: `Writer`,
         birthDate: "11.17.1876",
         birthLocation: "Saint Paul, Minnesota",
@@ -281,11 +281,11 @@ c_bios = [
         `,
         photos: ["images_bios/Cornelia_Cannon_in_~April_1948.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2009",dateUpdated:
- "",
+        dateCreated: "prior to 2009",
+        dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: [""],
     },
@@ -295,7 +295,7 @@ c_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        
+
         title: `Educational and philanthropic woman's club<br>Founded 1892`,
         birthDate: "",
         birthLocation: "",
@@ -339,10 +339,10 @@ c_bios = [
         photos: ["images_bios/cantabrigia.png"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated:"October 1892 Cambridge Tribune",
+        dateUpdated: "October 1892 Cambridge Tribune",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Social/Philanthropic Organization", "Women's Club"],
     },
@@ -352,7 +352,7 @@ c_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        
+
         title: `Feminist organization`,
         birthDate: "",
         birthLocation: "",
@@ -386,11 +386,11 @@ c_bios = [
         `,
         photos: ["images_bios/The_Second_Wave_First_Issue_Cover.png"],
         photoTitles: [],
-        dateCreated: "prior to 2009",dateUpdated:
- "",
+        dateCreated: "prior to 2009",
+        dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Feminist Organization"],
     },
@@ -400,7 +400,7 @@ c_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        
+
         title: `Community organization<br>Est. 1981`,
         birthDate: "",
         birthLocation: "",
@@ -431,11 +431,11 @@ c_bios = [
         `,
         photos: ["images_bios/centro presente.png"],
         photoTitles: [],
-        dateCreated: "prior to 2009",dateUpdated:
- "",
+        dateCreated: "prior to 2009",
+        dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Social/Philanthropic Organization"],
     },
@@ -445,7 +445,7 @@ c_bios = [
         firstName: "Jeanne",
         middleName: "Sternlicht",
         familyName: "",
-        
+
         title: `Reading expert, psychologist,
                 educator`,
         birthDate: "01.01.1921",
@@ -491,11 +491,11 @@ c_bios = [
         `,
         photos: ["images_bios/jeanne chall.jpeg"],
         photoTitles: [],
-        dateCreated: "prior to 2009",dateUpdated:
- "",
+        dateCreated: "prior to 2009",
+        dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Psychologist"],
     },
@@ -505,7 +505,7 @@ c_bios = [
         firstName: "Joyce",
         middleName: "",
         familyName: "",
-        
+
         title: `Celebrity chef and entrepreneur`,
         birthDate: "09.14.1917",
         birthLocation: "Beijing, China",
@@ -542,10 +542,10 @@ c_bios = [
         photos: ["images_bios/joycechen.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated:"04.11.2025",
+        dateUpdated: "04.11.2025",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Businesswoman", "Chef"],
     },
@@ -555,7 +555,7 @@ c_bios = [
         firstName: "Julia",
         middleName: "Carolyn",
         familyName: "McWilliams",
-        
+
         title: `Celebrity chef, author, television personality`,
         birthDate: "08.15.1912",
         birthLocation: "Pasadena, California",
@@ -623,10 +623,10 @@ c_bios = [
         photos: ["images_bios/Julia_Child_restore.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated:"12.14.2025",
+        dateUpdated: "12.14.2025",
 
         photoHeights: [],
-        editors:"Anthony Beckwith (updates)",
+        editors: "Anthony Beckwith (updates)",
         authors: "CWHP volunteers",
         categories: ["Chef"],
     },
@@ -636,7 +636,7 @@ c_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        
+
         title: `Resource and Referral Organization for Affordable Childcare, 187 Hampshire Street`,
         birthDate: "",
         birthLocation: "",
@@ -677,10 +677,11 @@ c_bios = [
         photos: ["images_bios/ccrc.png"],
         photoTitles: [],
         dateCreated: "prior to 2019",
-        dateUpdated:"12.20.2025",
+        dateUpdated: "12.20.2025",
+        photoPos: ["2"],
 
         photoHeights: [],
-        editors:"Anthony Beckwith",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: [
             "Childcare Provider",
@@ -693,7 +694,7 @@ c_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        
+
         title: `Women-owned Restaurant and Feminist Gathering Place<br>Founded 1997`,
         birthDate: "",
         birthLocation: "",
@@ -735,14 +736,12 @@ c_bios = [
         ],
         photoTitles: [],
         dateCreated: "00.00.2008",
-        dateUpdated:"12.20.2025",
+        dateUpdated: "12.20.2025",
 
         photoHeights: [],
-        editors:"Anthony Beckwith",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
-        categories: [
-            "Business or Service Provider (Women-Owned, Feminist)",
-        ],
+        categories: ["Business or Service Provider (Women-Owned, Feminist)"],
     },
     {
         organization: true,
@@ -750,7 +749,7 @@ c_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        
+
         title: `Women Owned Pottery Business and Collective, founded in 1976`,
         birthDate: "",
         birthLocation: "",
@@ -785,15 +784,13 @@ c_bios = [
         `,
         photos: ["images_bios/clayground.png"],
         photoTitles: [],
-        dateCreated: "prior to 2009",dateUpdated:
- "",
+        dateCreated: "prior to 2009",
+        dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
-        categories: [
-            "Business or Service Provider (Women-Owned, Feminist)",
-        ],
+        categories: ["Business or Service Provider (Women-Owned, Feminist)"],
     },
     {
         organization: false,
@@ -801,7 +798,7 @@ c_bios = [
         firstName: "Bertha",
         middleName: "E.",
         familyName: "",
-        
+
         title: `Resident and Property Owner/Developer`,
         birthDate: "00.00.1898",
         birthLocation: "Poland",
@@ -853,11 +850,11 @@ c_bios = [
         `,
         photos: ["images_bios/cohen.png"],
         photoTitles: ["992 Memorial Drive"],
-        dateCreated: "prior to 2009",dateUpdated:
- "",
+        dateCreated: "prior to 2009",
+        dateUpdated: "",
 
         photoHeights: ["200"],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Businesswoman"],
     },
@@ -867,7 +864,7 @@ c_bios = [
         firstName: "Ada",
         middleName: "Louise",
         familyName: "",
-        
+
         title: `Educator, college dean, college president`,
         birthDate: "12.11.1876",
         birthLocation: "Moorhead, Minnesota",
@@ -923,11 +920,11 @@ c_bios = [
         `,
         photos: ["images_bios/Ada-Comstock-1905.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2009",dateUpdated:
- "",
+        dateCreated: "prior to 2009",
+        dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator"],
     },
@@ -937,7 +934,7 @@ c_bios = [
         firstName: "Lucy",
         middleName: "",
         familyName: "Ainsworth",
-        
+
         title: `Healer, Clairvoyant`,
         birthDate: "05.04.1819",
         birthLocation: "Calais, Vermont",
@@ -988,11 +985,11 @@ c_bios = [
         `,
         photos: ["images_bios/lucy cooke.webp"],
         photoTitles: [],
-        dateCreated: "prior to 2009",dateUpdated:
- "",
+        dateCreated: "prior to 2009",
+        dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Clairvoyant"],
     },
@@ -1002,7 +999,7 @@ c_bios = [
         firstName: "Rose",
         middleName: "Marie",
         familyName: "",
-        
+
         title: `Founder of Centro Presente`,
         birthDate: "",
         birthLocation: "",
@@ -1053,10 +1050,10 @@ c_bios = [
         photos: [""],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated:"12.17.2025",
+        dateUpdated: "12.17.2025",
 
         photoHeights: [],
-        editors:"Anthony Beckwith",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: [""],
     },
@@ -1066,7 +1063,7 @@ c_bios = [
         firstName: "Jane",
         middleName: "",
         familyName: "",
-        
+
         title: `Comedian and actress`,
         birthDate: "09.06.1947",
         birthLocation: "Cambridge, Massachusetts",
@@ -1123,11 +1120,11 @@ c_bios = [
             "images_bios/Jane_Curtin_at_the_41st_Emmy_Awards_cropped_and_altered.jpg",
         ],
         photoTitles: [],
-        dateCreated: "prior to 2009",dateUpdated:
- "",
+        dateCreated: "prior to 2009",
+        dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Actress"],
     },
@@ -1137,7 +1134,7 @@ c_bios = [
         firstName: "Charlotte",
         middleName: "Saunders",
         familyName: "",
-        
+
         title: `Actress`,
         birthDate: "07.23.1816",
         birthLocation: "Boston, Massachusetts",
@@ -1177,11 +1174,11 @@ Image source: <a href="https://en.wikipedia.org/wiki/Charlotte_Cushman" target="
         `,
         photos: ["images_bios/Charlotte_Cushman_(Sully,_1843).jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2009",dateUpdated:
- "",
+        dateCreated: "prior to 2009",
+        dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Actress"],
     },

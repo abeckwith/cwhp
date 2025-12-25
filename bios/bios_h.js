@@ -5,7 +5,7 @@ h_bios = [
         firstName: "Isabella",
         middleName: "",
         familyName: "Hopkinson",
-        
+
         title: `Author and Activist`,
         birthDate: "05.08.1907",
         birthLocation: "Manchester, Massachusetts",
@@ -52,7 +52,7 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Activist", "Author"],
     },
@@ -62,7 +62,7 @@ h_bios = [
         firstName: "Alice",
         middleName: "",
         familyName: "",
-        
+
         title: `Toxicologist, physician`,
         birthDate: "02.27.1869",
         birthLocation: "Fort Wayne, Indiana",
@@ -103,7 +103,7 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Doctor"],
     },
@@ -113,7 +113,7 @@ h_bios = [
         firstName: "Margaret",
         middleName: "",
         familyName: "",
-        
+
         title: `Software engineer, NASA software designer, founder of software company`,
         birthDate: "00.00.1936",
         birthLocation: "Paoli, Indiana",
@@ -146,7 +146,7 @@ h_bios = [
         dateUpdated: "04.05.2025",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Businesswoman"],
     },
@@ -154,9 +154,9 @@ h_bios = [
         organization: false,
         lastName: "Harvey",
         firstName: "Beatrice",
-        middleName: "\"Bea\"",
+        middleName: '"Bea"',
         familyName: "Perry",
-        
+
         title: `World War II welder, community leader`,
         birthDate: "09.27.1923",
         birthLocation: "Cambridge, Massachusetts",
@@ -172,22 +172,25 @@ h_bios = [
             a welder at the Quincy shipyard. Later on, she worked at Necco and Fanny Farmer
             where she rolled candy and at Fenton Shoe where she put the &#8220;faces&#8221;
             on children's slippers. After her husband died in 1996, Bea became tenant
-            president of Manning Apartments, where she has been a strong advocate for tenants'
+            president of Manning Apartments, where she had been a strong advocate for tenants'
             rights, as well as a member of the crime watch group. <br><br>
             She worked part time as
             a school lunch cashier in the city's schools. Bea had six children, three
             of whom died tragically; 10 grandchildren, and 2 great-grandchildren.<br>
             `,
         otherNotes: "",
-        references: ` Oral interview by Sarah Boyer
+        references: ` Oral interview by Sarah Boyer<Br><i>The Cambridge Chronicle</i>, Volume 153, Number 1, 7 January 1999
+
         `,
         photos: ["images_bios/harvey.png"],
-        photoTitles: ["Bea was interviewed for the Central Square History Project in 1999"],
+        photoTitles: [
+            "Bea was interviewed for the Central Square History Project in 1999",
+        ],
         dateCreated: "prior to 2009",
         dateUpdated: "12.24.2025",
 
         photoHeights: ["200"],
-        editors:"Anthony Beckwith",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Community Leader", "Factory Worker"],
     },
@@ -197,7 +200,7 @@ h_bios = [
         firstName: "Sophia",
         middleName: "",
         familyName: "",
-        
+
         title: `Architect`,
         birthDate: "00.00.1868",
         birthLocation: "Santiago, Chile",
@@ -241,7 +244,7 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Architect"],
     },
@@ -251,7 +254,7 @@ h_bios = [
         firstName: "Judith",
         middleName: "",
         familyName: "Lewis",
-        
+
         title: `Psychiatrist, professor of psychiatry`,
         birthDate: "00.00.1942",
         birthLocation: "",
@@ -321,7 +324,7 @@ h_bios = [
         dateUpdated: "04.07.2025",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Psychiatrist"],
     },
@@ -331,7 +334,7 @@ h_bios = [
         firstName: "Suzanne",
         middleName: "Radley",
         familyName: "",
-        
+
         title: `Episcopal priest , feminist theologian, educator`,
         birthDate: "09.21.1936",
         birthLocation: "Hartford, Connecticut",
@@ -372,13 +375,16 @@ h_bios = [
        <br>Image sources: Collection info, The Burke Library at Union Theological Seminary, Columbia University in the City of New York
        
                 `,
-        photos: ["images_bios/suzanne_hiatt2.jpg", "images_bios/suzanne_hiatt.png"],
+        photos: [
+            "images_bios/suzanne_hiatt2.jpg",
+            "images_bios/suzanne_hiatt.png",
+        ],
         photoTitles: [],
         dateCreated: "prior to 2009",
         dateUpdated: "04.08.2025",
 
         photoHeights: [200, 300],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Clergy", "Teacher/Educator"],
     },
@@ -388,7 +394,7 @@ h_bios = [
         firstName: "Agnes",
         middleName: "Boyle",
         familyName: "O'Reilly",
-        
+
         title: `Co-founder of Shady Hill School`,
         birthDate: "05.19.1877",
         birthLocation: "Boston, Massachusetts",
@@ -434,7 +440,7 @@ h_bios = [
         dateUpdated: "04.05.2025",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Editor"],
     },
@@ -444,7 +450,7 @@ h_bios = [
         firstName: "Winifred",
         middleName: "",
         familyName: "",
-        
+
         title: `Accused and acquitted of witchcraft`,
         birthDate: "ca.1659",
         birthLocation: "",
@@ -486,12 +492,15 @@ h_bios = [
 
         `,
         photos: ["images_bios/holman.png"],
-        photoTitles: ["1937 article: \"Old Burying Ground in Harvard Square Shows Historic Associations\""],
+        photoTitles: [
+            '1937 article: "Old Burying Ground in Harvard Square Shows Historic Associations"',
+        ],
         dateCreated: "prior to 2009",
         dateUpdated: "",
+        photoPos: ["2"],
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Acquitted of Witchcraft"],
     },
@@ -501,7 +510,7 @@ h_bios = [
         firstName: "Pauline",
         middleName: "Elizabeth",
         familyName: "",
-        
+
         title: `African American writer`,
         birthDate: "00.00.1859",
         birthLocation: "Portland, Maine",
@@ -542,7 +551,7 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Writer"],
     },
@@ -552,7 +561,7 @@ h_bios = [
         firstName: "Cornelia",
         middleName: "",
         familyName: "",
-        
+
         title: `Amateur archaeologist, Author`,
         birthDate: "09.25.1861",
         birthLocation: "Cambridge, Massachusetts",
@@ -599,7 +608,7 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Author"],
     },
@@ -609,7 +618,7 @@ h_bios = [
         firstName: "Lois",
         middleName: "Lilley",
         familyName: "",
-        
+
         title: `Architect; fellow, American Institute of Architects`,
         birthDate: "09.25.1864",
         birthLocation: "Cambridge, Massachusetts",
@@ -746,7 +755,7 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Architect"],
     },
@@ -756,7 +765,7 @@ h_bios = [
         firstName: "Audrey",
         middleName: "I-Wei",
         familyName: "",
-        
+
         title: `Bookseller, teacher, lawyer`,
         birthDate: "00.00.1967",
         birthLocation: "New York",
@@ -831,7 +840,7 @@ h_bios = [
         dateUpdated: "04.04.2025",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "Anthony Beckwith",
         categories: ["Lawyer", "Teacher/Educator", "Businesswoman"],
     },
@@ -841,7 +850,7 @@ h_bios = [
         firstName: "Ruth",
         middleName: "",
         familyName: "",
-        
+
         title: `Biologist; biochemist; social activist`,
         birthDate: "03.03.1924",
         birthLocation: "Vienna, Austria",
@@ -891,7 +900,7 @@ h_bios = [
         dateUpdated: "04.05.2025",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Activist", "Refugee", "Scientist"],
     },
@@ -901,7 +910,7 @@ h_bios = [
         firstName: "Anna",
         middleName: "Vaughn",
         familyName: "Hyatt",
-        
+
         title: `Sculptor, philanthropist, founder of wildlife preserves`,
         birthDate: "03.10.1876",
         birthLocation: "Cambridge, Massachusetts",
@@ -944,7 +953,7 @@ h_bios = [
         dateUpdated: "04.05.2025",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Artist"],
     },
@@ -954,7 +963,7 @@ h_bios = [
         firstName: "Marjorie",
         middleName: "",
         familyName: "",
-        
+
         title: `Lawyer, Volunteer, Sportswoman<br>`,
         birthDate: "06.24.1886",
         birthLocation: "Boston, Massachusetts",
@@ -1048,17 +1057,17 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Sportswoman", "Volunteer"],
     },
-       {
+    {
         organization: false,
         lastName: "Henry",
         firstName: "Marian",
         middleName: "Alberta",
         familyName: "Hawes",
-        
+
         title: `Astronomer, teacher`,
         birthDate: "09.08.1893",
         birthLocation: "Cambridge, Massachusetts",
@@ -1093,7 +1102,7 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "",
         categories: ["Astronomer"],
     },

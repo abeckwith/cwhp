@@ -5,7 +5,7 @@ o_bios = [
         firstName: "",
         middleName: "",
         familyName: "",
-        
+
         title: `Collaborative Center Using Oral History To Build Community<Br>1980 - 1992`,
         birthDate: "",
         birthLocation: "",
@@ -38,10 +38,10 @@ o_bios = [
             and educational events which grew beyond Cambridge into Boston and around the world. Several projects arose
             out of the Center, such as &ldquo;A Passion for Life: Stories and Folk Arts of Palestinian and Jewish
             Women,&rdquo; and The &ldquo;Griots of Roxbury,&rdquo; a publication that explored violence in the lives of
-            five generations of Roxbury residents.<br><Br>
+            five generations of Roxbury residents.<blockquote>
              &ldquo;Differences are used to create separations and fear because it is
-            differences which are used to legitimize the unequal distribution of resources.&rdquo; (Oral History Center,
-            1990). Beginning in the 1970s in Cambridge, oral histories became a community organizing tool. The Oral
+            differences which are used to legitimize the unequal distribution of resources.&rdquo;<Br> (Oral History Center,
+            1990)</blockquote>Beginning in the 1970s in Cambridge, oral histories became a community organizing tool. The Oral
             History Center and the Black Women&rsquo;s Oral History Project highlighted the importance of communicating
             across identities and documenting everyday people. The Black Women&rsquo;s Oral History Project included
             interviews with 72 African-American women from
@@ -53,16 +53,18 @@ o_bios = [
             <br>
             The Oral History Center archive is housed at Northeastern University. <a
                 href="https://repository.library.northeastern.edu/collections/neu:cj82kw07t" target="_self">https://repository.library.northeastern.edu/collections/neu:cj82kw07t</a>
-        <br><i>The Cambridge Chronicle</i>, Volume 143, Number 16, 20 April 1989
+        <br><i>The Cambridge Chronicle</i>, Volume 143, Number 16, 20 April 1989<br>
+        Photo from: <a href="https://repository.library.northeastern.edu/files/neu:m0427d80x">
+        https://repository.library.northeastern.edu/files/neu:m0427d80x</a>
                 `,
-        photos: [""],
-        photoTitles: [],
+        photos: ["images_bios/oralhistory.jpg"],
+        photoTitles: ["OHC Logo <Br>(Northeatern Univ. Archives)"],
         dateCreated: "prior to 2009",
-        dateUpdated:
- "",
-        
-        photoHeights: [],
-        editors:"",
+        dateUpdated: "",
+        photoPos: ["2"],
+
+        photoHeights: ["250"],
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Historian/History Project"],
     },
@@ -73,7 +75,7 @@ o_bios = [
         firstName: "Caroline",
         middleName: "Frances",
         familyName: "",
-        
+
         title: `Poet, author, first Cambridge librarian`,
         birthDate: "09.05.1818",
         birthLocation: "Cambridge, Massachusetts",
@@ -121,11 +123,11 @@ o_bios = [
         `,
         photos: ["images_bios/caroline_orne.png"],
         photoTitles: [],
-        dateCreated: "prior to 2009",dateUpdated:
- "04.12.2025",
-        
+        dateCreated: "prior to 2009",
+        dateUpdated: "04.12.2025",
+
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Librarian", "Poet", "Author"],
     },

@@ -307,7 +307,7 @@ function openWin() {
         popup.focus();
     } else {
         var divText = document.getElementById("bio").outerHTML; //get the div
-        console.log(divText)
+        console.log(divText);
         //lop off extra line breaks from web version:
         // divText = divText.substring(0, divText.length - 40);
         divText = divText.replaceAll("Printable Version", "");
@@ -362,7 +362,10 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
     html += "</strong></div>";
 
     //title and birth info:
-    html += "<strong><span class='person-title'>" + person.title + "</span></strong>";
+    html +=
+        "<strong><span class='person-title'>" +
+        person.title +
+        "</span></strong>";
 
     //birth/death info:
     if (person.birthDate != "" || person.birthLocation != "")
@@ -378,9 +381,8 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
         html += "<div>" + dth + formatLocation(person.deathLocation) + "</div>";
     }
 
-    //image:
+    //has first image
     if (person.photos[0] != "") {
-        //has first image
         if (person.photoHeights.length != 0 && person.photoHeights[0] != "")
             height = person.photoHeights[0];
         else height = 300;
@@ -394,14 +396,23 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
                 person.photoTitles[0] +
                 "</i></td></tr>";
         else title = "";
+        pushPhoto = "";
+        if (person.photoPos != undefined && person.photoPos.length != 0)
+            if (person.photoPos[0] != "") {
+                pushPhoto = "";
+                for (i = 0; i < parseInt(person.photoPos[0]); i++)
+                    pushPhoto += "<br>";
+            }
+
         html +=
             tbl +
+            pushPhoto +
             '<img src="' +
             person.photos[0] +
             '" alt="" style="text-align:right"height="' +
             height +
             'vh"' +
-            ' border="1" style="margin:20px"></td></tr>' +
+            ' border="1" style="margin:20px;"></td></tr>' +
             title +
             "</table>";
     }
@@ -413,7 +424,7 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
     //possible second image:
     if (person.photos.length == 2) {
         if (person.photoHeights.length == 2 && person.photoHeights[1] != "")
-            height = person.photoHeights[0];
+            height = person.photoHeights[1];
         else height = 300;
 
         tbl = "<table width='2vh'><tr><td>";
@@ -1107,7 +1118,7 @@ function ranPerson() {
         ltrCount++;
     });
 
-    chosen = Math.floor(Math.random()*all_people.length);
+    chosen = Math.floor(Math.random() * all_people.length);
 
     //get letter and person within letter:
     currentLetter2 = all_people[chosen][0];

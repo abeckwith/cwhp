@@ -190,7 +190,7 @@ y_bios = [
         photoTitles: ["Anna, left, with her family, c.1921"],
         dateCreated: "prior to 2009",
         dateUpdated: "",
-        photoPos: [],
+        photoPos: ["3"],
         photoHeights: [],
         editors:"",
         authors: "CWHP volunteers",
@@ -233,13 +233,12 @@ y_bios = [
         otherNotes: "",
         references: `YWCA
         papers, Schlesinger Library, Radcliffe Institute<Br>YWCA of Cambridge website
-       
-    `,
+        `,
         photos: ["images_bios/YWCA%201916%20girls%20basketball%20team.jpeg"],
         photoTitles: ["Cambridge YWCA Girls Basketball Team, 1916. Photo courtesy of the Cambridge Historical Commission."],
         dateCreated: "prior to 2009",
         dateUpdated: "04.12.2025",
-        photoPos: [],
+        photoPos: ["3"],
         photoHeights: [],
         editors:"",
         authors: "CWHP volunteers",
