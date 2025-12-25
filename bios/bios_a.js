@@ -1096,10 +1096,10 @@ July 9, 1999</i>
                                7 Jun 1984<br>
                 5 May 1977<br>
                 28 Jun 2000<br>
-
+            Image courtesy of Josie's granddaughter Tania Zayas
 
         `,
-        photos: [""],
+        photos: ["images_bios/avakian.jpeg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
         dateUpdated: "12.13.2025",
