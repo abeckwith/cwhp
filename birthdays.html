@@ -131,6 +131,7 @@
                 ];
                 recentObjects = [];
                 aliveObjects = [];
+                birthSort = [];
                 allNames = "";
                 bio_count = 0;
                 currentDate = new Date();
@@ -139,15 +140,39 @@
                 all_bios.forEach((bioLetterList) => {
                     //go through each name for this letter:
                     bioLetterList.forEach((thename) => {
-                        if (thename.photos[0] == "") {
-                            nophotocount++; console.log(nophotocount + ". " + thename.lastName + ", " + thename.firstName)
-                        }
+                        // if (thename.photos[0] == "") {
+                        //     nophotocount++; console.log(nophotocount + ". " + thename.lastName + ", " + thename.firstName)
+                        // }
+
+                        //for sorting by birthyear:
+                        nameForSort = thename.firstName + " " + thename.lastName;
+                        dateForSort = thename.birthDate.slice(-4);
+                        tableLink = "<a href='bios.html?lNm=" +
+                            thename.lastName +
+                            "&mNm=" +
+                            thename.middleName +
+                            "&fNm=" +
+                            thename.firstName +
+                            "'>" +
+                            thename.firstName +
+                            " " +
+                            thename.lastName +
+                            "</a>";
+                        if (dateForSort.length == 4) birthSort.push({ tableLink, dateForSort});
+
                         bio_count++;
                         nameBuild = bio_count + ". " + thename.lastName + ", " + thename.firstName + " " + thename.middleName;
-                        if (nameBuild.slice(-3) === ",  ")
-                            nameBuild = nameBuild.substring(0, nameBuild.length - 3);
-                        if (thename.familyName != "") nameBuild += " (" + thename.familyName + ")";
+
+                        ///get rid extra comma that orgs will have:
+                        // if (nameBuild.slice(-3) === ",  ")
+                        nameBuild = nameBuild.substring(0, nameBuild.length - 3);
+
+                        if (thename.familyName != "")
+                            nameBuild += " (" + thename.familyName + ")";
+
                         nameBuild += "<br>";
+
+                        //also gather all names for master list
                         allNames += nameBuild;
 
                         hasFullDate = thename.birthDate.substring(0, 2) != "00" && thename.birthDate.indexOf("ca") == -1;
@@ -162,7 +187,7 @@
                             yrs = parseInt(currentDate.substring(6, 10)) - year;
 
 
-                            //build table entry:
+                            //build BIRTHDAY table entry:
                             html_build =
                                 "<tr><td>" +
                                 thename.birthDate.replaceAll(".", "/") +
@@ -239,6 +264,8 @@
                 });
 
                 bDisplay += "</table>";
+
+                //BUILD TABLE OF LIKELY ALIVE:
                 aliveDisplay = "<table><Tr><th>Name</th><th>BrthYr</th><th>Age</th></tr>";
 
                 currentYear = new Date().getFullYear()
@@ -258,13 +285,25 @@
                 });
                 aliveDisplay += "</table>"
 
+                birthList = birthSort.sort((a, b) => {
+                    if (a.dateForSort > b.dateForSort) return 1;
+                    if (a.dateForSort < b.dateForSort) return -1;
+                    return 0;
+                });
+                //BUILD TABLE SORTED BY BIRTH YEAR
+                birthDisplay = "<table><Tr><th>YEAR</th><th>Name</th></tr>";
+
+
+                birthList.forEach(bio => {
+                    birthDisplay += "<tr><td class='birthT'>&nbsp;&nbsp;" + bio.dateForSort + "&nbsp;&nbsp;</td><td>" + bio.tableLink + "</td></tr>";
+                });
 
                 document.getElementById("birthday-display").innerHTML = bDisplay + "<br>";
                 document.getElementById("alive-display").innerHTML = aliveDisplay + "<Br>";
                 document.getElementById("all-display").innerHTML = allNames;
+                document.getElementById("birth-display").innerHTML = birthDisplay;
                 // + "<br><span id='allnames'><Br><Br><Br><Br></span><b>All Names:</b><Br>" + allNames;
                 //SORT ALGORITHM: first name:
-
             }
         </Script>
     </head>
@@ -299,6 +338,14 @@
             <div>
                 <!-- collapsible content  here -->
                 <span id='all-display'></span>
+
+            </div>
+        </details>
+        <details>
+            <summary>In birth year order</summary>
+            <div>
+                <!-- collapsible content  here -->
+                <span id='birth-display'></span>
 
             </div>
         </details>
