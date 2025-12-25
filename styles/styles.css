@@ -264,7 +264,7 @@ td > a {
         font-size: 100%;
     }
     .name-heading {
-        font-size: 13%;
+        font-size: 12%;
     }
     img {
         width: 105px;
@@ -375,7 +375,7 @@ a.letter-links:visited {
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 .name-heading {
-    font-size: 3vw;
+    font-size: 2.8vw;
     margin-bottom: 10px;
     border-width: 0px;
     border-top: 7px;

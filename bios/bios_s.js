@@ -5,7 +5,7 @@ s_bios = [
         firstName: "Sylvia",
         middleName: "",
         familyName: "",
-        
+
         title: `Factory worker, educator, counselor, community leader`,
         birthDate: "00.00.1948",
         birthLocation: "Chile",
@@ -62,7 +62,7 @@ s_bios = [
         dateUpdated: "04.11.2025",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Community Leader", "Teacher/Educator"],
     },
@@ -72,7 +72,7 @@ s_bios = [
         firstName: "May",
         middleName: "",
         familyName: "",
-        
+
         title: `Poet and novelist<Br>aka Eleanore Marie Sarton`,
         birthDate: "05.03.1912",
         birthLocation: "Wondelgem, Belgium",
@@ -157,9 +157,9 @@ s_bios = [
         dateUpdated: "04.07.2025",
 
         photoHeights: ["250"],
-                photoPos: ["2"],
+        photoPos: ["2"],
 
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Refugee", "Poet", "Author"],
     },
@@ -169,7 +169,7 @@ s_bios = [
         firstName: "Marian",
         middleName: "",
         familyName: "Cannon",
-        
+
         title: `Writer, artist`,
         birthDate: "09.13.1913",
         birthLocation: "Cambridge, Massachusetts",
@@ -198,13 +198,13 @@ s_bios = [
                 Image source: <a href="https://en.wikipedia.org/wiki/Marian_Cannon_Schlesinger" target="_self">https://en.wikipedia.org/wiki/Marian_Cannon_Schlesinger</a>
         `,
         photos: ["images_bios/Marian_Schlesinger.jpg"],
-       
+
         photoTitles: [],
         dateCreated: "prior to 2009",
         dateUpdated: "04.07.2025",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Artist", "Author"],
     },
@@ -214,7 +214,7 @@ s_bios = [
         firstName: "Mary",
         middleName: "Rose",
         familyName: "Merlesena",
-        
+
         title: `Activist, Childcare provider`,
         birthDate: "ca.1925",
         birthLocation: "",
@@ -261,7 +261,7 @@ s_bios = [
         dateUpdated: "04.07.2025",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: [""],
     },
@@ -271,7 +271,7 @@ s_bios = [
         firstName: "E.",
         middleName: "Denise",
         familyName: "",
-        
+
         title: `Business Owner,
                 City Councilor, Former Mayor and School Committee Member, City of Cambridge `,
         birthDate: "00.00.1951",
@@ -357,7 +357,7 @@ s_bios = [
         photoPos: ["6"],
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: [
             "Community Leader",
@@ -371,7 +371,7 @@ s_bios = [
         firstName: "Alice",
         middleName: "Marchant",
         familyName: "Kimball",
-        
+
         title: `Historian, Editor, Administrator`,
         birthDate: "00.00.1908",
         birthLocation: "Oak Park, Illinois",
@@ -422,7 +422,7 @@ s_bios = [
         dateUpdated: "04.11.2025",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Author"],
     },
@@ -432,7 +432,7 @@ s_bios = [
         firstName: "Joan",
         middleName: "",
         familyName: "Forrester",
-        
+
         title: `Feminist, Architect`,
         birthDate: "02.09.1932",
         birthLocation: "",
@@ -484,17 +484,17 @@ s_bios = [
         dateUpdated: "12.24.2025",
 
         photoHeights: ["400"],
-        editors:"Anthony Beckwith",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Writer", "Architect"],
     },
-     {
+    {
         organization: false,
         lastName: "Stevens",
         firstName: "Mabel",
         middleName: "",
         familyName: "Cushman",
-        
+
         title: `Astronomer`,
         birthDate: "01.29.1867",
         birthLocation: "Cambridge, Massachusetts",
@@ -534,7 +534,7 @@ s_bios = [
         dateUpdated: "",
 
         photoHeights: ["200"],
-        editors:"",
+        editors: "",
         authors: "",
         categories: ["Astronomer"],
     },
