@@ -1033,7 +1033,8 @@ July 9, 1999</i>
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
 
-            Josie Avakian grew up in Cambridge, being a resident of the Jefferson Park development as early as age 12. Her father
+            Josie Avakian grew up on Norfolk Street in Somerville, but by age 12 had moved to the
+            Jefferson Park development near Fresh Pond in Cambridge. Her father
             was a farmworker and her mother a dishwasher. She 
             became a strong advocate for housing rights and a 
             supporter of working peopole in Cambridge. As a member of Jefferson Park Tenant Task Force,
@@ -1053,7 +1054,7 @@ July 9, 1999</i>
             <blockquote>
             "Josie Avakian, a resident since 1965 of the Jefferson Park housing development next to 
             Rindge Towers, has been trying to do something about the railroad crossing for over ten
-             years.  In 1973 after a sixth grade boy who lived in Jefferson Park was killed at 
+             years. In 1973 after a sixth grade boy who lived in Jefferson Park was killed at 
              the nearby Sherman Street railroad crossing, Avakian said she and 25 other neighborhood
               residents went to the city council to ask that something be done to protect the safety
                of the area s residents, many of whom like those in Rindge Towers are poor and not 
