@@ -358,7 +358,10 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
     if (person.middleName !== "") html += person.middleName + " ";
     if (person.familyName !== "") html += "(" + person.familyName + ") ";
     if (person.lastName !== " ") html += person.lastName + " ";
-    document.title = "CWHP: "+ person.lastName + ", " + person.firstName+"" ;
+    if (person.firstName != "")
+        document.title =
+            "CWHP: " + person.lastName + ", " + person.firstName + "";
+    else document.title = "CWHP: " + person.lastName;
 
     html += "</strong></div>";
 
