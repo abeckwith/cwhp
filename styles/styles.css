@@ -204,7 +204,7 @@ td > a {
     border-radius: 10px;
     border-width: 5px;
     border-color: gray; */
-    font-size: 1.5vw;
+    font-size: 1.7vw;
     padding: 0.2vw 1vw;
 
     margin-top: 30px;
@@ -447,7 +447,7 @@ a.search-buttons {
     #end-html #opening-pictures {
         font-size: 20px;
     }
-    #bdaydisplay {
+    #bdaydisplay, #dailybday {
         font-size: 20px;
     }
     #size {
