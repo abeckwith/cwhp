@@ -824,13 +824,13 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
         organization: false,
         lastName: "Archer",
         firstName: "Linda",
-        middleName: "",
+        middleName: "Eileen",
         familyName: "",
         
         title: `Cambridge resident`,
-        birthDate: "ca.1951",
+        birthDate: "05.05.1951",
         birthLocation: "",
-        deathDate: "07.00.1999",
+        deathDate: "04.27.1999",
         deathLocation: "Boston, Massachusetts",
         narrative: `
 
@@ -866,7 +866,7 @@ July 9, 1999</i>
             Sharon Stentiford, personal information<br>
             Cambridge City Directories
             <br>
-            City of Cambridge Street Listings<Br>
+            Massachusetts, U.S., Death Index, 1970-2003<Br>
             Image source: WNET <a href="http://www.pbs.org/wnet/religionandethics/week245/cover.html" target="_self">http://www.pbs.org/wnet/religionandethics/week245/cover.html</a>
         `,
         photos: ["images_bios/linda archer.png"],
