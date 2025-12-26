@@ -1023,21 +1023,22 @@ July 9, 1999</i>
         organization: false,
         lastName: "Avakian",
         firstName: "Josephine",
-        middleName: "\"Josie\"",
+        middleName: "\"Josie\" Camile",
         familyName: "Santagate",
         
         title: `Social Activist, Housing Advocate`,
-        birthDate: "00.00.1954",
-        birthLocation: "",
+        birthDate: "09.17.1937",
+
+        birthLocation: "Cambridge, Massachusetts",
         deathDate: "12.08.2004",
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
 
-            Josie Avakian grew up on Norfolk Street in Somerville, but by age 12 had moved to the
+            Josie Avakian grew up on Norfolk Street in Somerville. By the 1960s, she had moved to the
             Jefferson Park development near Fresh Pond in Cambridge. Her father
             was a farmworker and her mother a dishwasher. She 
             became a strong advocate for housing rights and a 
-            supporter of working peopole in Cambridge. As a member of Jefferson Park Tenant Task Force,
+            supporter of working people in Cambridge. As a member of Jefferson Park Tenant Task Force,
             Josie served as the tenant advocate for residents of Jefferson Park
             and was a tireless spokesperson. <br><br>
             Josie first became a member of the Jefferson Park Tenant's Council as a teenager in 1972.
@@ -1077,7 +1078,10 @@ July 9, 1999</i>
             </blockquote>
             In 1996, she worked as a member of the North Cambridge Crime Task Force. <br><br>In
             October 2005, a site near Jackson Street was dedicated in her honor by the Cambridge
-            City Council. The ceremony was conducted by Cambridge Mayor Walter Sullivan.
+            City Council. The ceremony was conducted by Cambridge Mayor Walter Sullivan.<Br><Br>
+            Josie's husband was John Avaikan, a Cambridge resident whose parents were from Armenia. 
+            The two were married in July of 1958 in Cambridge and at first lived on Columbia Street, then 
+            on Putnam Avenue, before moving to Jefferson Park.
 
             `,
         otherNotes: "",
@@ -1085,17 +1089,20 @@ July 9, 1999</i>
             from Mary Russell<Br>
             <a
                 href="http://www.rwinters.com/council/103105.htm">Cambridge City Council meeting notes</a><Br>
-                1950 <i>U.S. Census</i> data<Br>
+                1930 & 1950 <i>U.S. Census</i> data<Br>
                 <i>Cambridge Chronicle:</i><Br>
-
-                                2 Sep 1976<br>
+                31 July 1958<Br>
+                20 August 1959<Br>
+                2 Sep 1976<br>
                 1 Aug 1974<br>
                 20 Oct 1977<br>
                 7 Apr 1983<br>
                 10 May 1984<br> 
-                               7 Jun 1984<br>
+                7 Jun 1984<br>
                 5 May 1977<br>
                 28 Jun 2000<br>
+                U.S., Social Security Applications and Claims Index, 1936-2007
+            <br>
             Image courtesy of Josie's granddaughter Tania Zayas
 
         `,
