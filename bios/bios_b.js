@@ -44,7 +44,12 @@ b_bios = [
             Dance Company, while the other director, Vicki Solomon, completed a Masters
             Degree in Library Science and began working full time in the Children's
             Room
-            of the main branch of the Cambridge Public Library.
+            of the main branch of the Cambridge Public Library.<blockquote>
+
+            "We use the arts as a way for people to express the things they're thinking about,
+             or that they're dealing with in their lives...[we present things] based on personal 
+             experiences but brought to a level where everyone can relate to them."<Br>
+            - <i>Executive Director Pat Dixon, October 1993</i></blockquote>
             
             `,
         otherNotes: "",
@@ -52,7 +57,8 @@ b_bios = [
         Iris Fanger,
             &#8220;Women's Work Informs Back Porch Project&#8221<Br> <em>Dance Magazine</em>,
             May 2000<Br>
-            <i>Cambridge Chornicle</i> 29 January 1991, 17 April 1997
+            <i>Cambridge Chornicle</i> 29 January 1991, 21 October 1993, 17 April 1997
+
 
         `,
         photos: ["images_bios/BPD_small.jpeg", "images_bios/burke.png"],
@@ -181,13 +187,25 @@ b_bios = [
             school in Cambridge was rebuilt in 1995 and on May 21st, 2002, the Cambridge
             School Committee unanimously voted to rename the Agassiz School to the Maria
             L. Baldwin School in her honor. 
+        <Blockquote>
+            "...[H]as not each one of us some precious poetical possession, dear from long and 
+            tender association? Some lines that perfectly express the intimate experiences of 
+            our own souls? Some beautiful verse that springs to our lips in moments of
+            spiritual exaltation, or some tender poem of consolation that sends its blessed 
+            ministration to our despair? No, it cannot be that the mission of poetry is to 
+            the chosen few."<Br>
+
+        - <i>Excerpt from Baldwin's "The Real Hold of the Poet upon the People", as read to  the Cantabrigia Club, October, 1893</i>
+        </blockquote>
 
             `,
         otherNotes: "",
         references: ` <em>Notable American Women</em> (1609-1950) Vol
             I<br> Baldwin school: <a href="https://baldwin.cpsd.us/" target="_self">https://baldwin.cpsd.us/</a>
             <Br>Photo source: wikipedia<Br>
-            Cambridge City Directory, 1899
+            Cambridge City Directory, 1899<Br>
+            <i>The Cambridge Chronicle</i>, Volume XLVIII, Number 41, 14 October 1893
+
         `,
         photos: ["images_bios/mary louise baldwin.jpeg"],
         photoTitles: [],

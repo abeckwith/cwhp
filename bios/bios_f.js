@@ -307,15 +307,15 @@ In
     },
     {
         organization: false,
-        lastName: "Federer",
+        lastName: "Spence",
         firstName: "Helen",
         middleName: "",
-        familyName: "Spence",
+        familyName: "Federer",
 
         title: `Astronomer`,
-        birthDate: "00.00.1911",
+        birthDate: "09.28.1911",
         birthLocation: "New York, New York",
-        deathDate: "00.00.1983",
+        deathDate: "04.11.1983",
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
            Helen Federer lived in Cambridge for more than four decades. <Br><br>She worked with the Harvard College Observatory for 21 years and co-founded the magazine
