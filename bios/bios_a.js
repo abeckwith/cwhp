@@ -1077,7 +1077,7 @@ July 9, 1999</i>
 
             </blockquote>
             In 1996, she worked as a member of the North Cambridge Crime Task Force. <br><br>In
-            October 2005, a site near Jackson Street was dedicated in her honor by the Cambridge
+            October 2005, less than a year after her death, a site near Jackson Street was dedicated in Josie's honor by the Cambridge
             City Council. The ceremony was conducted by Cambridge Mayor Walter Sullivan.<Br><Br>
             Josie's husband was John Avaikan, a Cambridge resident whose parents were from Armenia. 
             The two were married in July of 1958 in Cambridge and at first lived on Columbia Street, then 

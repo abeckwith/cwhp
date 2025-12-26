@@ -388,7 +388,7 @@ g_bios = [
             Although historical research was Gould's lifetime
             passion, it was not her only accomplishment or legacy. She was instrumental
             in establishing a nurses' training hospital in Puerto Rico, and she founded
-            the first pre-school in <br><Br>
+            the first pre-school in 
             Simancas, Spain. She taught at universities across the United States and even
             taught navigation to ensigns during World War I at the Great Lakes Naval Training
             Center. Although she briefly left Spain during the Spanish Civil War, she soon
