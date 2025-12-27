@@ -137,6 +137,8 @@
                 currentDate = new Date();
                 currentDate = currentDate.toLocaleDateString('en-US');
                 nophotocount = 0;
+                                        bDayCount = 0;
+
                 all_bios.forEach((bioLetterList) => {
                     //go through each name for this letter:
                     bioLetterList.forEach((thename) => {
@@ -174,12 +176,12 @@
 
                         //also gather all names for master list
                         allNames += nameBuild;
-
                         hasFullDate = thename.birthDate.substring(0, 2) != "00" && thename.birthDate.indexOf("ca") == -1;
                         if (
                             thename.birthDate != "" &&
                             hasFullDate
                         ) {
+                            bDayCount++;
                             //GET YEAR:
                             year = parseInt(thename.birthDate.substring(6));
                             dayNum = parseInt(thename.birthDate.substring(3, 5));
@@ -298,7 +300,7 @@
                     birthDisplay += "<tr><td class='birthT'>&nbsp;&nbsp;" + bio.dateForSort + "&nbsp;&nbsp;</td><td>" + bio.tableLink + "</td></tr>";
                 });
 
-                document.getElementById("birthday-display").innerHTML = bDisplay + "<br>";
+                document.getElementById("birthday-display").innerHTML = bDisplay + "<br>TOTAL:" + bDayCount;
                 document.getElementById("alive-display").innerHTML = aliveDisplay + "<Br>";
                 document.getElementById("all-display").innerHTML = allNames;
                 document.getElementById("birth-display").innerHTML = birthDisplay;
