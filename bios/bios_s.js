@@ -248,20 +248,29 @@ s_bios = [
             City of Cambridge approved MIT's proposals in 1988, many activists, including
             Mary, agreed that this was not enough after 18 years of protests.<br><br>
             She cared for her neighbors, shopping and doing errands, giving money to homeless people,
-            and being a force for positive action in her community.`,
+            and being a force for positive action in her community.
+            <blockquote>
+            "She was sort of the Mayor of Cambridgeport...She really kept her eyes and ears on waht was happening in the neighborhood."<Br>
+            - E. Denise Simmons, 2005, City Councilor at the time
+            <Br><Br>
+            "To be near Mary was to have a web of community wound around you. [She was] a really beautiful person."<Br>
+            - Vice Mayor Marjorie Decker, 2005, Vice Mayor of Cambridge at the time,
+            </blockquote>`,
         otherNotes: "",
         references: `Oral interview by Sarah Boyer. For information
             on the Simplex Steering Committee, see <em>The Tech</em>, 1990; Christopher
             Montgomery, &#8220;Boston project creates new niche,&#8221; <em>Cleveland Plain
-                Dealer</em>, November 28, 2005.<br>Cambridge City Directory, 1954
+                Dealer</em>, November 28, 2005.<br>Cambridge City Directory, 1954<Br>
+                <i>The Cambridge Chronicle</i>, Volume 160, Number 12, 13 January 2005
+
         `,
         photos: ["images_bios/MaryRoseShea.jpg"],
         photoTitles: ["Photo Courtesy of the Shea Family"],
         dateCreated: "prior to 2009",
-        dateUpdated: "04.07.2025",
+        dateUpdated: "12.27.2025",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: [""],
     },

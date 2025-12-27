@@ -961,6 +961,7 @@ c_bios = [
             They developed a successful mail-order business, offering consultations by mail,
             and selling various herbal remedies. Dr. Lucy Cooke also claimed to be able
             to set bones and heal fractures by laying on of hands. <br><br>
+
             Her reputation and her business grew until 1876
             when the couple moved to the Boston area. Perhaps the growing importance of
             women physicians recognized by their male colleagues and the existence of a
@@ -972,7 +973,27 @@ c_bios = [
             she continued to practice her healing. <br><br>She became seriously ill
             and eventually died of what appears to have been colon cancer in 1895. An oil
             painting of Lucy Ainsworth as a young married woman is in the collections of
-            the Vermont Historical Society.<br>
+            the Vermont Historical Society.<br><Br>
+
+            Rev. Frank Hyatt Smith officiated her funeral. He spoke of <blockquote>
+
+            "[H]er long and successful practice of fifty-three years, in different cities, with 
+            patients in all of the states; of her charity and skill; of her honesty and justice; 
+            of her felicitous marriage, congenial and true...of the great numbers who had come 
+            to her, other agents being powerless, and had gone away cured; and that her life 
+            mission had been to help and heal."</blockquote>
+        <i>
+            (It should be noted that Rev. Smith was arrested in October of that same year, 
+            indicted and arrested on charges of "Sending Obscene and Scurrilous Matter Through
+             the U.S. Mails." He had sent anonymous, angry, and vulgar notes to the wives of 
+             several of the members of his church he had disagreements with. In November, 
+             Smith submitted a plea of insanity and was committed to an asylum in lieu of a prison sentence.)</i>
+
+        
+
+
+
+
             `,
         otherNotes: "",
         references: ` 
@@ -981,15 +1002,16 @@ c_bios = [
             Newkirk, McDonald, &quot;Sleeping Lucy.&quot; Published by the Author, 30 W.
             Chicago Avenue, Chicago, Illinois, 1973.<Br>
             Image source: Vermont Historical Society
-            <br><i>Cambridge Chronicle</i>24 May 1973
+            <br><i>The Cambridge Tribune</i>, 1 June 1895, 19 October 1895, 23 November 1895<br>
+            <i>The Cambridge Chronicle</i>, 24 May 1973
         `,
         photos: ["images_bios/lucy cooke.webp"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "",
+        dateUpdated: "12.27.2025",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Clairvoyant"],
     },
