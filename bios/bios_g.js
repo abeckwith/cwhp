@@ -470,7 +470,9 @@ g_bios = [
             of the Joint House-Senate Committee on Housing and Urban Development. In her
             work in the legislature, Saundra was dedicated to obtaining economic justice
             for the poor, the elderly, the unemployed, minorities and women. She also served
-            as Secretary to the National Black Caucus of Local Elected Officials. <br><Br>
+            as Secretary to the National Black Caucus of Local Elected Officials. 
+            
+            <br><Br>
             Another major concern of hers was the need for
             quality childcare in the Commonwealth. She founded the Childcare Coalition,
             a state-wide collective of community child advocacy groups and individuals.
@@ -481,28 +483,39 @@ g_bios = [
             of Negro Business and Professional Women's Clubs, Inc.; the 1980 Recognition
             Award by the Central Square Cambridge Businessmen's Association and the 1982
             Woman of the Year in Government Award by the Boston Chapter of the National
-            Organization for Women. <br><Br>
+            Organization for Women. <Br><Br>
+            Graham was always outspoken as a City Councilor. In 1980, when the Alewife area was
+             still quite industrial, Graham responded to issues around re-zoning the area and 
+             the impact on blue-collar jobs:
+                <blockquote>
+                "[I no longer] care what kind of jobs we create, just as long as unemployed and underemployed 
+                people get jobs with upward mobility. It's not an issue if they are blue-collar or white-collar
+                or pink-collar. The issue is how can we train them to put them in the positions. Are we talking 
+                about jobs or fighting for the old kinds of plants to come back to the area?"
+                </blockquote>
             The Graham and Parks Alternative Public School
             was named in her honor, along with Rosa Parks. Her portrait appears with that
             of Rosa Parks in a mural &quot;Education Is Liberation / The Rosa Parks Mural,&quot;
             on the first floor of the school's former building at 44 Upton Street.
             This was created in 1984 by artist David Fichter on a commission from the Cambridge
-            Arts Council. Although she is no longer an elected official, she continues to
+            Arts Council. When she was no longer an elected official, she continued to
             be an important political figure, fighting against unfair practices such as
             the recent redistricting of the Cambridge legislative seats.`,
         otherNotes: "",
         references: `
             Graham and Parks Alternative School web site<br>
             <em>Metropolis Magazine</em>, Harvard inc., 2001<br>
-            Cambridge City Directory, 1972
+            Cambridge City Directory, 1972<br>
+            <i>The Cambridge Chronicle</i>, Volume 134, Number 16, 17 April 1980
+
         `,
         photos: ["images_bios/Saundra_Graham.png"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "04.05.2025",
+        dateUpdated: "12.27.2025",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist", "Political Leader"],
     },

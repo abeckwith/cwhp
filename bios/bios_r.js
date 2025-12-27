@@ -27,8 +27,20 @@ r_bios = [
             interested in Hans' drawings and commissioned him to write a children's
             book, published as <em>Rafi and the Nine Monkeys</em> which included a curious
             monkey that was the inspiration of the future children's book <em>Curious
-                George</em>. <Br><Br>In 1940, the Reys fled Paris before the advancing Nazi army invaded.
-            They traveled to via Spain and Portugal, then back to Brazil and from there
+                George</em>. <Br><Br>In 1940, the Reys fled Paris before the advancing Nazi army invaded.<Br><Br>
+                She spoke about this in a 1996 <i>Christian Science Monitor</i> interview, 
+                after Rey had turned 90 years old and several months before her death:
+                <blockquote>
+            "We left Paris very early the next morning. That was the only sad moment I remember. Nobody was in the streets,
+             and it was gray and dark. After we left, it was fine. We bicycled. We were lucky.
+
+            People who had a car would be stopped because another car broke down miles ahead. So when one car 
+            broke down, it was terrible. But bicycles could always get by. We kept going south, and we slept 
+            in barns. You know, when you're in action you're not scared. When you're sitting and waiting for 
+            something, that's the unpleasant situation."
+
+                            </blockquote>
+            The couple traveled to via Spain and Portugal, then back to Brazil and from there
             to New York City, taking the illustrated manuscript of the new book they had
             just written. <em>Curious George</em> was published by Houghton Mifflin in 1941.
             Together, the Reys wrote seven books about the curious little monkey, with Hans
@@ -38,6 +50,7 @@ r_bios = [
             years, but this was corrected in later editions. They published other children's
             stories including <em>Pretzel</em> in 1944, which was the first book to list
             Margret as author.<br><Br>
+
             In 1963, Margret Rey and her husband moved to
             Cambridge and settled in a home near Harvard Square at 14 Hilliard Street. Hans died in in 1977. Soon
             after, Margret was approached by Alan Shallek who persuaded her to collaborate
@@ -67,17 +80,17 @@ r_bios = [
             <br>
             Amy Miller, &quot;Curious George moves into Harvard Square,&quot; <em>Cambridge
                 Chronicle</em>, July 25, 1996.<Br>
-                        <Br>Cambridge City Directory, 1965
-
+            <Br>Cambridge City Directory, 1965
+        <Br><a href="https://www.csmonitor.com/1996/0523/052396.feat.books.3.html">https://www.csmonitor.com/1996/0523/052396.feat.books.3.html</a>
                 Image source: <a href="https://en.wikipedia.org/wiki/Margret_Rey" target="_self">https://en.wikipedia.org/wiki/Margret_Rey</a>
                 `,
         photos: ["images_bios/reys.jpg"],
         photoTitles: ["Margaret and Hans Rey"],
         dateCreated: "prior to 2009",
-        dateUpdated: "04.07.2025",
+        dateUpdated: "12.27.2025",
         
         photoHeights: [225],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Author"],
     },
@@ -208,15 +221,14 @@ r_bios = [
             1903 with a Bachelor of Philosophy degree. She taught English at several high
             schools in upstate New York and afterwards moved to Philadelphia where she taught
             at William Penn High School.<br><Br>
+
              Anne Hubble pursued graduate studies at Radcliffe College
             in 1910-11, and in 1912 she married George Byron Roorbach, an instructor at
             the University of Pennsylvania. Soon after, George Roorbach was made Professor
             of Commercial Geography at the university. The couple raised four children (three
             girls and a boy) in Philadelphia until the First World War, at which time George
-            Roorbach joined the U.S. Shipping Board, a part of the Department of Commerce
-            in Washington, D.C. Following the war, he was offered a position as the first
-            Professor of Trade at the Harvard Business School, continuing also to consult
-            for the government on Reciprocal Trade Agreements. In 1919, the family moved
+            Roorbach joined the U.S. Shipping Board,and later a
+            Professor of Trade at the Harvard Business School. In 1919, the family moved
             to 16 Kirkland Street in Cambridge, where another son and daughter were born. George
             Roorbach died suddenly from a heart attack on May 23, 1934, while in Washington,
             D.C.<br><Br>
@@ -245,7 +257,7 @@ r_bios = [
             those beliefs to her six children, E. Howard, Elizabeth H., Carolyn R. (Dunbar),
             Anne R. (Wallace), Jean A. (Domovs), and George Brett. The family lived in several
             homes in Cambridge including 86 Sparks Street and 74 Avon Hill Street. Her residence
-            was 8 Craigie Circle, Cambridge when she died on March 1, 1964 at the age of
+            was 8 Craigie Circle, in Cambridge, when she died on March 1, 1964 at the age of
             eighty-two.`,
         otherNotes: "",
         references: `<em>
@@ -279,13 +291,22 @@ r_bios = [
         deathDate: "01.05.2007",
         deathLocation: "Tucson, Arizona",
         narrative: `
-            Betty Ann Rubinow (who went by Ann) was the daughter
+            Betty Ann Rubinow (who went by "Ann") was the daughter
             of Meyer and Beverley Orlov in Brookline, Massachusetts. She attended Bryn Mawr College,
             then came to Cambridge in the 1950s to do graduate work in history at Harvard
             University. During this period, she became active in civil rights in Cambridge
             and was a founder of the Boston chapter of the Episcopal Society for Cultural
             and Racial Unity. She went to Selma, Alabama, to march with Martin Luther King, Jr.
-            <br><Br>Her home in Cambridge at 1 Potter Park became a center for educational and welfare reform. From
+            Her home in Cambridge at 1 Potter Park became a center for educational and welfare reform.
+            
+            <Br><Br>In 2007, Reverend Constance Parvey of Cambridge, who had known her since the 1950's,
+             described Ann's involvement in civil rights activities in the late 1950s and 1960s:
+            <blockQuote>
+            "Ann [was always] making sure people got to know each other. Not just 'This is so-and-so, but 
+            'What are we going to do about this?' Ann was not someone who started with the weather. She started 
+            out with what was absolutely on her mind. It was a heady time. It was a time when we were remapping 
+            the theological and social landscape."
+            </blockquote> From
             1968 to 1975, she left graduate work to become an editor for behavioral studies
             at the Harvard University Press. In 1974 she and Stephan Thernstrom developed
             the idea of creating the<em> Harvard Encyclopedia of American Ethnic Groups </em>(1980), of which she became
@@ -306,17 +327,18 @@ r_bios = [
             article by Bryan Marquard, <em>Boston Globe</em> January 25, 2007<br>
             Obituary, <em>Cambridge Chronicle</em>
             (under Betty A. Rubinow) January 22, 2007<Br>
-            Cambridge City Directory, 1961
+            Cambridge City Directory, 1961<Br>
+            <i>The Boston Globe</i>Jan 25, 2007<Br>
             <br>Image source: <A href="https://www.vtcng.com/stowereporter/archives/betty-ann-orlov-rubinow/article_5b7f7b21-06cb-5708-ae30-d74b45d2059f.html" target="_self">
             https://www.vtcng.com/stowereporter/archives/betty-ann-orlov-rubinow/article_5b7f7b21-06cb-5708-ae30-d74b45d2059f.html</a>
         `,
         photos: ["images_bios/rubinow.webp"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated:"04.07.2025",
-photoPos:[],
+        dateUpdated:"12.27.2025",
+        photoPos:[],
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist", "Writer", "Editor"],
         

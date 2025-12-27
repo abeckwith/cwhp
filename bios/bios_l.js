@@ -603,6 +603,16 @@ l_bios = [
             After graduation she practiced architecture with Ida A. Ryan, a fellow graduate,
             in Watertown until the First World War, when a building slump ended the demand
             for new residential housing. <br><br>
+            Luscomb spoke at a 1914 meeting of the Women's Suffrage Party of 
+            Cambridge about protest marches. A reporter indicated that:
+            <blockquote>
+            "She urged all, in a graceful and charming manner, to march in the big suffrage parade to be 
+            held in Boston on May 2. She offered herself as a survivor of two suffrage parades, in other 
+            cities, for proof that the march does not injure the participant. The individual, she said, 
+            while not personally conspicuous in any way, adds to the splendid effect of numbers and quality, 
+            while she gains for herself the satisfying realization of solidarity."
+            </blockquote>
+            The march that May was a resounding success (see image below).<Br><Br>
 
             In 1918, Luscomb left architecture to become executive
             secretary for the Boston Equal Suffrage Association, and began to sell copies
@@ -655,27 +665,30 @@ l_bios = [
             her listeners to think about social justice with the words: &#8220;It's
             time for a second American revolution.&#8221; <br><br>
              In her mid-nineties, ill health forced her into a nursing
-            home in Watertown, where she died at the age of ninety-eight.`,
+            home in Watertown, where she died at the age of ninety-eight.<Br><Br>
+            <i>The May 2, 1914 Suffragist Parade that Luscomb helped inspire participation in:</i>`,
         otherNotes: "",
         references: `
-            Sharon Hartman Strom. <em>Political Woman: Florence Luscomb and the Legacy of
-                Radical Reform</em>. Philadelphia, 2001.<br>
-            Rollins, Ann. <em>Women's History Tour of Cambridge</em>. Ribe: Cambridge,
+            Sharon Hartman Strom, <em>Political Woman: Florence Luscomb and the Legacy of
+                Radical Reform</em>, Philadelphia, 2001.<br>
+            Rollins, Ann, <em>Women's History Tour of Cambridge</em>, Ribe: Cambridge,
             Massachusetts, 1987.<br>
-            MIT Museum. Biographical file.<br>
+            MIT Museum, Biographical file.<br>
             Schlesinger Library. <em>Papers in the Woman's Rights Collection, 1904-1959:
                 A Finding Aid</em>. Cambridge, Massachusetts, 2005.<br>
             Schlesginer Library.<em> Florence Luscomb Papers, 1856-1987: A Finding Aid</em>.
             Cambridge, Massachusetts, 1989.<Br>
+            <i>The Cambridge Tribune</i>, Volume XXXVII, Number 4, 28 March 1914
+<br><i>The Boston Globe</i>, May 03, 1914<Br>
             Cambridge City Directory, 1946
         `,
-        photos: ["images_bios/Florence%20Luscombe%201977%20small.jpeg"],
+        photos: ["images_bios/Florence%20Luscombe%201977%20small.jpeg", "images_bios/luscomb2.png"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "",
+        dateUpdated: "12.27.2025",
 
-        photoHeights: [],
-        editors: "",
+        photoHeights: ["", "400"],
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist", "Suffragists/Suffrage Group", "Architect"],
     },

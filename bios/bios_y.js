@@ -173,6 +173,15 @@ y_bios = [
         which include memories of her early life in Turin, are held at the Immigration
         History Research Center at the University of Minnesota. She died in a Newton
         nursing home at the age of 98.
+
+        <Br><Br>In a 2014 piece about the struggles of Italian-Americans in America in the interwar years, Stefano Luconi writes: 
+        <blockquote>
+        "...after the exiles had settled in their adoptive land, anti-Fascist militancy had to coexist 
+        with the necessity to provide for themselves and their own families. As Anna Yona would 
+        later admit, 'it was not only a principle, it was a challenge to be antifascist'. 
+        The trial was not only ideological and political, but 
+        it also involved everyday life. Likewise, Yona's emigration was both a political
+         exile and a personal displacement."</blockquote>
         `,
         otherNotes: "",
         references: ` Sergio Parussa. <em>I Would Have Liked to Flee
@@ -183,16 +192,17 @@ y_bios = [
         of Minnesota <br> Obituary, Gloria Negri &#8220;Anna Yona at 98; hosted Italian-Hour
         radio show&#8221; <em>Boston Globe</em>, October 15, 2006
         <Br>Cambridge City Directory, 1972<Br>
-        Image from <a href="https://primolevicenter.org/printed-matter/our-life-was-divided/">
-        https://primolevicenter.org/printed-matter/our-life-was-divided/</a>
+        Image and quote from <a href="https://primolevicenter.org/printed-matter/our-life-was-divided/">
+        https://primolevicenter.org/printed-matter/our-life-was-divided/</a><br>
+
     `,
         photos: ["images_bios/yona.jpg"],
         photoTitles: ["Anna, left, with her family, c.1921"],
         dateCreated: "prior to 2009",
-        dateUpdated: "",
+        dateUpdated: "12.27.2025",
         photoPos: ["3"],
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Radio Host", "Refugee"],
     },
