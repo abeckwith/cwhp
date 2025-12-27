@@ -706,9 +706,11 @@ b_bios = [
             Schlesinger Library. An oral biography is included in the <em>Black Women Oral
                 History
                 Project</em>of Schlesinger Library.<Br>
-                <i>The Cambridge Chronicle</i>, 23 July 1921
+                <i>The Cambridge Chronicle</i>, 23 July 1921<Br>
+                <i>The Cambridge Chronicle</i>, 15 June 1967
+
         `,
-        photos: ["images_bios/bennett.png"],
+        photos: ["images_bios/bennett.png", "images_bios/bennett2.png"],
         photoTitles: ["The Cambridge Chronicle, 23 July 1921"],
         dateCreated: "prior to 2009",
         dateUpdated: "",

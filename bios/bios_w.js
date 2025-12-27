@@ -639,9 +639,9 @@ Cambridge City Directory, 1926
         familyName: "Pearson",
 
         title: `State employee, volunteer`,
-        birthDate: "00.00.1903",
+        birthDate: "02.28.1902",
         birthLocation: "Worcester, Massachusetts",
-        deathDate: "00.00.1998",
+        deathDate: "05.13.1988",
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Ozeline Barrett Pearson was the second daughter
@@ -652,6 +652,16 @@ Cambridge City Directory, 1926
             Paul African Methodist Episcopal Church.<br><br>
             Ozeline attended Cambridge public schools and graduated from Cambridge High
             School.
+            <blockquote>
+            "...I hoped to go into medicine....I [later] took the Civil Service exam - 
+            the postal exam - and received a nice mark, 92.6, on my exam and I thought 
+            maybe I would get a chance to work in the post office. But at that time, 
+            the postmaster general didn't believe that women were all sufficient to 
+            their jobs, and I didn't get it. My mother was persistent, though. She even
+             wrote the attorney general in Washington, but to no avail."
+            <Br>
+            - <i>Ozeline Wise, Feb. 1893</i>
+            </blockquote>
             She held clerical jobs until she married John Wise in 1931. The couple adopted
             a son, Hubert Smith, in 1961. Ozeline Wise worked for the Navy during World War
             II, and after the war, she was the first black woman employed by the banking
@@ -674,15 +684,17 @@ Cambridge City Directory, 1926
             Library. Ozeline (Pearson) Wise interview, <em>Black Women Oral History Project</em> of
             Schlesinger Library.<br>
             Cambridge City Directory, 1965<br>
+            <i>The Cambridge Chronicle</i>, Volume 137, Number 8, 24 February 1983
+<br>
             Image source: <a href="https://en.wikipedia.org/wiki/Ozeline_Wise" target="_self">https://en.wikipedia.org/wiki/Ozeline_Wise</a>
         `,
         photos: ["images_bios/Ozeline__Wise.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "04.08.2025",
+        dateUpdated: "12.27.2025",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Volunteer"],
     },
