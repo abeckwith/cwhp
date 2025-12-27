@@ -89,12 +89,14 @@ b_bios = [
         deathLocation: "Cambridge, UK",
         narrative: `
 
-            Born in Boston, the daughter of Francis V and
+            Born in Boston, the daughter of Francis V. and
             Ellen (Noyes) Balch, Emily Greene Balch attended private schools and then went
             to Bryn Mawr College, graduating in its first senior class in 1889. She went
             on to study sociology and went to Paris on a Bryn Mawr fellowship in 1890-1891
             to study economics with Emile Levasseur. As a result, she published her first
-            book, <em>Public Assistance of the Poor in France</em> (1893).<br><br> Balch returned
+            book, <em>Public Assistance of the Poor in France</em> (1893).<br><br> 
+            
+            Balch returned
             to the U.S. to take courses at Harvard and the University of Chicago and spent
             a year studying economics in Berlin from 1895 to 1896. In 1896, she began to
             teach economics and sociology at Wellesley College and was named professor in
@@ -116,7 +118,9 @@ b_bios = [
             for the League of Nations on topics such as disarmament, aviation, and drug
             control. For WILPF, she studied conditions in Haiti, then occupied by U.S. marines,
             and edited and was the primary contributor for the report published as <em>Occupied
-                Haiti </em>(1926) that was significant in causing the U.S. to withdraw.<br><br> In the
+                Haiti </em>(1926) that was significant in causing the U.S. to withdraw.
+                
+                <br><br> In the
             1930s, with the rise of facism and Nazism, she began to write about the victims
             of persecution. During the Second World War, she published a book of poetry
             and began to write on the need for future internationalization of aviation and
@@ -144,10 +148,11 @@ b_bios = [
         `,
         photos: ["images_bios/EmilyGreeneBalch.jpg"],
         photoTitles: [],
+        photoHeights: [],
+
         dateCreated: "prior to 2009",
         dateUpdated: "",
 
-        photoHeights: [],
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Activist", "Economist", "Editor"],

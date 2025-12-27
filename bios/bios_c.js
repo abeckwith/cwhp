@@ -702,7 +702,7 @@ c_bios = [
         deathLocation: "",
         narrative: `
 
-            City Girl Cafe was a favorite gathering place for local feminists and gay ribghts activists. 
+            City Girl Cafe was a favorite gathering place for local feminists and gay rights activists. <Br><Br>
             Located at 204 Hampshire Street in Inman Square in 1997, the
             restaurant offered lunch, dinner, and catering. Merry Moscato
             and Cheryl Schwartz started it as a catering service in 1993. Moscato had been 
@@ -715,7 +715,7 @@ c_bios = [
             their legal rights after government attempts to infiltrate lesbian organizations and 
            the FBI's arrest of Brandeis student and lesbian activit Susan Saxe.
             
-            <br><br>Merry
+            <br><br>
              In 2008, the cafe was purchased by Khavala Macken-Fraizer (also the head
             chef) with her friend, Lauren Anderson. Khavala and Lauren maintained the restaurant&rsquo;s original name
             and much of the menu.
@@ -728,13 +728,16 @@ c_bios = [
                 <a href="https://historycambridge.org/articles/businesses-well-lived-city-girl-cafe/">
                 History Cambridge article on City Girl Cafe</a><Br>
                 THE HISTORY PROJECT: Documenting Documenting LGBTQ Boston <a href="https://www.facebook.com/watch/?v=10154900501831931">
-                Facebook post</a>
+                Facebook post</a><br>
+                Image from <a href="https://www.instagram.com/p/B_LqhOsgWer/">https://www.instagram.com/p/B_LqhOsgWer/</a>                
+
 
         `,
         photos: [
             "images_bios/city-girl-cafe-1-square-0721ede4631d516b7a3d1cbcd61e5b6b-of0zjyvr75k2.jpg",
+            "images_bios/citygirl2.png"
         ],
-        photoTitles: [],
+        photoTitles: ["", "Cheryl Schwarz and Merry Moscato"],
         dateCreated: "00.00.2008",
         dateUpdated: "12.20.2025",
 

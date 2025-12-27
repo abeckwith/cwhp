@@ -60,11 +60,11 @@ o_bios = [
         photos: ["images_bios/oralhistory.jpg"],
         photoTitles: ["OHC Logo <Br>(Northeatern Univ. Archives)"],
         dateCreated: "prior to 2009",
-        dateUpdated: "",
+        dateUpdated: "12.20.25",
         photoPos: ["2"],
 
         photoHeights: ["250"],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Historian/History Project"],
     },
