@@ -310,7 +310,7 @@ here</a>)<br>
             enjoyment for a naturalist in contact with the active scientific life of the Old World, there is 
             little intellectual rest. Toward Brazil I was drawn by a lifelong desire.
             </blockquote>
-            Later, she served as scribe for the Hassler
+            "Later, she served as scribe for the Hassler
             Expedition (1872), providing the only account of
             her husband's last theories on glaciation. After
             Louis Agassiz's death in 1873, Elizabeth joined six
@@ -326,7 +326,7 @@ here</a>)<br>
             presidency of Radcliffe and remained at its head
             until 1902. Shortly before her death she moved
             from Cambridge to Arlington Heights, where she
-            died in 1907 at the age of seventy-five.
+            died in 1907 at the age of seventy-five."
 
             `,
         otherNotes: "",
@@ -381,7 +381,7 @@ https://archive.org/details/journeyinbrazil00agasiala/page/n11/mode/2up</a>)
         very different historical epochs, ward politics in 1970s Rhode Island becomes as compelling as 
         Resistance activity in WWII Italy and sexual politics in 17th-century Rome. An impressive fictional 
         debut from one of the great champions of contemporary Italian American writing."<Br>
-        — <i>Anthony Giardina (author of White Guys and Norumbega Park</i>
+        — <i>Anthony Giardina (author of White Guys and Norumbega Park)</i>
         </blockquote>
 
 
@@ -521,7 +521,7 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
       National Book Association recognized Marjorie Fletcher, then president of the press, 
       as one of the "70 women who have made a difference."<Br><Br>
 
-      In 2006, Betsy Sholl, one of the founders of Alice James Books, said: <blockquote>
+      In 2006, Betsy Sholl, one of the founders of Alice James Books, reflected: <blockquote>
 
       "The experience of starting the press from the ground up
       was a heady one, not least because the organization put a special 

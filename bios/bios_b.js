@@ -357,6 +357,14 @@ b_bios = [
             journalist and translator. She returned to America in 1953, settling in New
             York City, where she lectured professionally and wrote novels, including <em>Upside
                 Down in the Magnolia Tree</em> (1952), and <em>The Inseparables</em> (1958).
+                <blockquote>
+                "This is a deliciously nostalgic book about a little girl, Kathy (Mrs. Bancroft),
+                 growing up in Cambridge in the early 1900's. It was the days of the late Victorian
+                  houses, or the iron deer on the lawn, the buttons and bows and the long ribbed 
+                  stockings, and the time of the Sunday breakfast and fishballs, based beans and 
+                  doughnuts."<Br>
+            - <i>May 1952 review in the Cambridge Chronicle of Bancroft's new book "Upside Down in the Magnolia Tree."</i>
+            </blockquote>
             She continued to work as a translator and publish book reviews. In 1983, she
             published a memoir, <em>Autobiography of a Spy</em>. <br><br>
             Bancroft became involved in Democratic politics,
@@ -370,7 +378,8 @@ b_bios = [
         otherNotes: "",
         references: ` Biographical article, Mary Bancroft papers, Schlesinger
             Library, Radcliffe Institute.<Br>
-            Cambridge City Directory, 1905
+            Cambridge City Directory, 1905<br>
+            <i>The Cambridge Chronicle</i>, 1 May 1952
         `,
         photos: ["images_bios/mary bancroft.jpeg"],
         photoTitles: [],
