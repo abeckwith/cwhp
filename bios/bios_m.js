@@ -231,8 +231,8 @@ m_bios = [
         familyName: "Deane",
 
         title: `Biologist, histochemist, humanitarian`,
-        birthDate: "00.00.1917",
-        birthLocation: "North Carolina",
+        birthDate: "03.16.1917",
+        birthLocation: "Franklin, North Carolina",
         deathDate: "07.20.1966",
         deathLocation: "Boston, Massachusetts",
         narrative: `
@@ -253,7 +253,7 @@ m_bios = [
             Harvard, her husband was the Progressive Party candidate for state representative.
             <br><br>
             Dr. Markham became the victim of McCarthy red-baiting
-            at Harvard in 1953, when she was called before the Jenner Committee. She was
+            at Harvard in 1953, when she was called before the Jenner Committee, but refused to answer most of the committee's questions. She was
             then denied tenure at Harvard and her position was terminated. She returned
             to Harvard later to work with Professor Alexander Forbes on visual mechanismas
             at the Biological Laboratories. <br><br>
@@ -1137,4 +1137,57 @@ m_bios = [
         authors: "Anthony Beckwith",
         categories: ["Astronomer"],
     },
+    //  {
+    //     organization: false,
+    //     lastName: "McCree",
+    //     firstName: "Robin",
+    //     middleName: "Tirrell",
+    //     familyName: "",
+
+    //   title: `Probation officer and clerk magistrate in Cambridge`,
+    //     birthDate: "00.00.1870",
+
+    //     birthLocation: "Cambridge, Massachusetts",
+    //     deathDate: "",
+    //     deathLocation: "",
+    //     narrative: `
+    //        Robin McCree was born, raised, attended school, and worked her entire life in Cambridge.
+    //     She became the first Black female probation officer to work for the City of Cambridge, in 1984. 
+    //      She was also the first Black female assistant clerk magistrate at the Cambridge District Court.<Br><Br>
+
+    //     Her father was Ramon McCree, a World War II and Korean War veteran, who attended Cambridge High
+    //      and Latin School, Tufts University, and MIT Sloan School and her mother was Corinne Green.
+    //       While in college, she interned at a court probation office. After getting her degree in
+    //        Social Psychology and Spanish  from Tufts University, she took courses at Boston University 
+    //        and got a Masters in Management at Lesley College, but then returned to court work in accepting
+    //         a position as a probation officer. <Br><Br>
+
+    //     Robin has a long history of supporting Cambridge in various volunteer efforts, from running
+    //      a Tobin School youth group to working for the Election Commission to leading a women's bible
+    //       study group in her church and serving on the Cambridge Commission on the Status of Women. <Br><Br> 
+
+    //     In an interview, she said that in her work in the court system, she was able to "help lot of 
+    //     people" and <blockquote> "...came to understand mercy and extending mercy - what that entails."</blockquote>
+
+    //     McCree spent twenty-seven years working in the Cambridge District Court, with three years as 
+    //     a probation officer and 24 as an assistant clerk magistrate.
+    //     `,
+    //     otherNotes: "",
+    //     references: ` 
+    //       Interview with the Cambridge Black History Project: <a href="https://vimeo.com/725359798">https://vimeo.com/725359798</a><Br>
+    //         <a href="https://www.linkedin.com/in/robin-mccree-51768623/">https://www.linkedin.com/in/robin-mccree-51768623/</a><Br>
+    //         Photos from BB&N yearbook 1975, Tufts yearbook 1979<Br>
+    //         <a href="http://rwinters.com/council/120423.htm">Cambridge City Council Meeting December 4, 2023 </a>
+        
+    //          `,
+    //     photos: ["images_bios/mccree1.png", "images_bios/mccree2.png"],
+    //     photoTitles: ["BB&N, 1975","Tufts, 1979"],
+    //     dateCreated: "12.28.2025",
+    //     dateUpdated: "",
+
+    //     photoHeights: ["230"],
+    //     editors: "",
+    //     authors: "Anthony Beckwith",
+    //     categories: ["Clerk", "Law Enforcement"],
+    // },
 ];

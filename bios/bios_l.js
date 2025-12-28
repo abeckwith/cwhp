@@ -434,6 +434,8 @@ l_bios = [
             and the Board of Trustees of the college until the end of her life. In recognition
             of her work as a benefactor of the college, Longfellow Hall was named in her
             honor. <br><br>
+
+         
             As a preservationist, Alice was a member of the
             Mount Vernon Ladies Association, the Society for the Preservation of New England
             Antiquities, and the Cambridge Historical Society. She led her family in the
@@ -445,10 +447,32 @@ l_bios = [
             Society of Arts and Crafts, Boston. In 1901, she published a reprint of her
             father's poem &#8220;Song of Hiawatha&#8221; with her account of a visit
             to the Objiway people in Ontario, where she was made an honorary tribal member.
+
+               She had traveled with a delegation to gather with the
+             tribe and she
+             wrote about this visit in the introduction to the 1901 edition of the book:
+             <blockquote>
+            "After sunset, when the fire was lighted on the rocks near by, the Indians assembled
+             together, and Kabaoosa as the spokesman announced that they wished to have the pleasure
+              of taking some of the party into the tribe as members. First came the ladies, as 
+              their father had turned the Ojibway legends into verse...The names, which were 
+              valued names in the tribe, were all chosen with care, and given as proofs of high
+               regard; the men of the party were honored as well as the women.
+            <br><bR>
+            "Odenewasenoquay - the first flash of lightning; Osahgahgushkodawaquay - the lady 
+            of the open plains; Daguagonay - the man whom people like to camp near...
+            
+            <br><Br>
+            "The ceremonies were followed by much singing and dancing, of which the Indians 
+            never tire, and the following day came the farewells - farewells to the broad, 
+            beautiful lake, the islands, the sweet fragrance of the forest, and the kind and devoted hosts."
+        </blockquote>
             `,
         otherNotes: "",
         references: `
-            Alice M. Longfellow. <em>An account of a visit to Hiawatha's people </em>(1901).
+            Alice M. Longfellow. <em>An account of a visit to Hiawatha's people </em>(1901): <Br>
+            
+            &nbsp&nbsp&nbsp&nbsp&nbsp;<a href="https://archive.org/details/songofhiawathawi0000henr/page/n13/mode/2up">https://archive.org/details/songofhiawathawi0000henr/page/n13/mode/2up</a>.
             <br>
             Alice m. Longfellow Papers, Longfellow National Historic Site. <br>
             <em>Biography of Alice M Longfellow</em>, Longfellow National Historic Site.<Br>
@@ -457,10 +481,10 @@ l_bios = [
         photos: ["images_bios/Alice_Longfellow.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "04.05.2025",
+        dateUpdated: "12.28.2025",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Philanthropist", "Preservationist"],
     },
