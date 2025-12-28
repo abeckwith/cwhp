@@ -115,16 +115,17 @@ l_bios = [
 
         title: `Church member, Childcare provider`,
         birthDate: "11.11.1898",
-        birthLocation: "",
+        birthLocation: "Barbados, West Indies",
         deathDate: "06.27.1983",
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
-            Christol Louise came to the United States from
-            Barbados. She met and married her husband, Aubrey Layne in 1925 in the St Paul
+            Christol Louise was born in Barbados and raised in Cuba, before she came to the United States in 1919, at age 21. 
+            She met and married her husband, Aubrey Layne in 1925 in the St. Paul
             African Methodist Episcopal (AME) Church. They were the first couple to be married
             by Rev. C.B. Lawyer in that church's new location in what is now 85 Bishop
-            Richard Allen Drive in Central Square, Cambridge. Husband and wife were active
-            in the church, teaching in the Sunday school and serving on various church boards.
+            Richard Allen Drive in Central Square, Cambridge. Both husband and wife were active
+            in the church, teaching in the Sunday school and serving on various church boards. In 1950, the family 
+            was living at 43 Magee Street.
             <br><br>
             One of her daughters, Audrey (Layne) Ince continued as a trustee and clerk
             of that church. The family was honored as the Family of the Year by St. Paul
@@ -134,7 +135,11 @@ l_bios = [
             children who went on to hold responsible positions in the community.`,
         otherNotes: "",
         references: `
-            Interview by Sandra Pullman, 2003.
+            Interview by Sandra Pullman, 2003.<Br>
+            1950 U.S. Census<br>
+            Correponsdence with Robert Layne<br>
+            Massachusetts, U.S., State and Federal Naturalization Records, 1798-1950 for Christol Louise Layne
+
         `,
         photos: [""],
         photoTitles: [],

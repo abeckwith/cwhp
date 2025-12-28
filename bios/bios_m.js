@@ -65,7 +65,20 @@ m_bios = [
             Captain Mary Jo Majors was honored in November
             2010 as the &#8220;Outstanding Woman Veteran of the Year&#8221; by the Massachusetts
             Department of Veterans' Services at the State House where Cambridge Mayor
-            David Maher presented her with a City Council resolution and a key to the city.
+            David Maher presented her with a City Council resolution and a key to the city.<Br><Br>
+            In a 2010 interview, Majors talked about her service:
+            <blockquote>
+            "[W]hy am I so proud to be a veteran? Because I live in Massachusets, a state that believes
+             and demonstrates that women veterans are special and unique veterans and we deserve to be 
+             appreciated for our service to our country. <Br><Br>
+            "Because I live in the city of Cambridge - North Cambridge particularly - a city that honors
+             and pays tribute to all of its veterans by holding an annual ceremony on Veterans Day.<br><br>
+            "Because I'm the daughter of a veteran, my Irish immigrant father willingly served his country
+             in the Army during World War II.
+            <br><Br>
+            "Because I'm in the U.S. Navy and I'm one of the 4,000 Navy nurses that are serving in active
+             duty or in the reserves, in the United States or in Iraq or Afghanistan or other  countries."
+            </blockquote>
             Captain majors was recognized as the &quot;2012 Alumni Humanitarian of the Year&quot;
             by St. Anselm College in Manchester, New Hampshire and by the Boston Red Sox
             as an outstanding military service member in June of 2012. The Massachusetts
@@ -83,16 +96,18 @@ m_bios = [
             <a href="https://www.youtube.com/watch?v=MnTlRJ6UBpc" target="_self">https://www.youtube.com/watch?v=MnTlRJ6UBpc</a> <br>
             St. Ansel Alumni Awards description
             <br>
-            <a href="www.ahernfoundation.org">www.ahernfoundation.org</a><Br>
-            Cambridge City Directory, 1961
+            <a href="https://www.ahernfoundation.org/">https://www.ahernfoundation.org/</a><Br>
+            Cambridge City Directory, 1961<Br>
+            <i>The Cambridge Chronicle</i>, Volume 166, Number 4, 18 November 2010
+
         `,
         photos: ["images_bios/MajorsMJ_small.jpg"],
         photoTitles: [],
         dateCreated: "00.00.2014",
-        dateUpdated: "07.16.2025",
+        dateUpdated: "12.27.2025",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Nurse", "Military"],
     },
