@@ -2155,20 +2155,23 @@ b_bios = [
         familyName: "Thurston",
 
         title: `Community leader`,
-        birthDate: "00.00.1915",
+        birthDate: "04.10.1915",
         birthLocation: "Cambridge, Massachusetts",
-        deathDate: "00.00.1999",
+        deathDate: "08.02.1999",
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
 
 
             Annie E. Burrell attended the Houghton Elementary
             School and Cambridge High and Latin School. She was a homemaker and also worked
-            for many years at the <a href="bios.html?lNm=WindowShop&mNm=&fNm=">Window Shop</a> in Harvard Square and at the Cambridge Election
+            for many years at the <a href="bios.html?lNm=WindowShop&mNm=&fNm=">Window Shop</a> in
+             Harvard Square, a consignment shop created by a group of women who wished to help refugees fleeing Europees and 
+             one of the few businesses in Cambridge to hire African-Americans leaving the South. She also served with the Cambridge Election
             Commission. <br><br>She was an active member on the board of directors at the Cambridge
-            Community Center from 1985 to 1993. In 1993 she was named honorary member and
+            Community Center on Callendar Street, from 1985 to 1993. In 1993 she was named honorary member and
             continued her service to the center and community by supporting their activities
-            and events. Her family lived for many years at 220 Western Avenue.<br><br>She was 84 when she died. 
+            and events. Her family lived for many years at 220 Western Avenue and she later lived at 89 Brookline 
+            Street with her husband and children.<br><br>She was 84 when she died. 
 
             `,
         otherNotes: "",

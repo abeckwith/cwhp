@@ -417,7 +417,7 @@ l_bios = [
         title: `Philanthropist, preservationist`,
         birthDate: "09.22.1850",
         birthLocation: "Cambridge, Massachusetts",
-        deathDate: "12.00.1928",
+        deathDate: "12.07.1928",
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
             A life long resident of Cambridge, Alice Mary
