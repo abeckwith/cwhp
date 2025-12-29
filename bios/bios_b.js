@@ -183,9 +183,20 @@ b_bios = [
             of Baldwin as a primary school teacher at Agassiz Grammar School at 28 Sacramento
             Street. Seven years later, she was appointed principal of that school, the first
             black woman to be appointed as a principal in Massachusetts. In 1899, she was living at 
-            196 Prospect Street. In 1916,
-            when a new, larger school building was built, she was appointed master of the school.
-            <br><br>Always interested in new learning, she took many courses at Harvard and other
+            196 Prospect Street. 
+            <Br><br>
+            In August of 1915, The Crisis magazine ran an essay by her, where she stated:<blockquote>
+            "The profession of teaching has a rich inheritance. These convictions were bequeathed 
+            to it, to have and to hold: that the dearest interests of life are in its keeping; that 
+            its peculiar service to society is to nourish and perpetuate those noblest aspirations 
+            called its ideals ; that to do such work one must be devoted and unselfish."
+            
+            </blockquote>
+            In 1916,
+            when a new, larger school building was built, she was appointed master of the Aggasiz.
+            <br><br>
+            
+            Always interested in new learning, she took many courses at Harvard and other
             schools throughout her life. She corresponded and worked with many men and women
             of distinction in the area. She also taught during the summer at Hampton Institute
             in Virginia and the Institute for Colored Youth in Cheyney, PA. The Agassiz
@@ -210,6 +221,8 @@ b_bios = [
             <Br>Photo source: wikipedia<Br>
             Cambridge City Directory, 1899<Br>
             <i>The Cambridge Chronicle</i>, Volume XLVIII, Number 41, 14 October 1893
+            <br><i>The Crisis, August 1915: <A href="https://www.marxists.org/history/usa/workers/civil-rights/crisis/0800-crisis-v10n04-w058.pdf">
+            https://www.marxists.org/history/usa/workers/civil-rights/crisis/0800-crisis-v10n04-w058.pdf</a>
 
         `,
         photos: ["images_bios/mary louise baldwin.jpeg"],
