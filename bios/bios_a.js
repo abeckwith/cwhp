@@ -145,7 +145,7 @@ here</a>)<br>
         familyName: "Manning",
         
         title: `Novelist and Playwright`,
-        birthDate: "00.00.1905",
+        birthDate: "06.30.1905",
         birthLocation: "Dublin, Ireland",
         deathDate: "06.25.1999",
         deathLocation: "Cambridge, Massachusetts",
@@ -207,6 +207,7 @@ here</a>)<br>
             https://www.irishtimes.com/opinion/mary-manning-howe-adams-1.204225</a>
             
             <Br>Photo source: wikipedia
+            <Br><a href="https://www.findagrave.com/memorial/210752155/mary-adams">https://www.findagrave.com/memorial/210752155/mary-adams</a>
         `,
         photos: ["images_bios/Mary_Manning_(writer).jpg"],
         photoTitles: [],

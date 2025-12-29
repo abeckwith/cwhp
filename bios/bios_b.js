@@ -284,7 +284,7 @@ b_bios = [
         familyName: "West",
 
         title: `Pilot, community leader`,
-        birthDate: "08.16.1920",
+        birthDate: "08.16.1919",
         birthLocation: "Newton, Massachusetts",
         deathDate: "06.09.1999",
         deathLocation: "Concord, Massachusetts",
@@ -312,10 +312,12 @@ b_bios = [
             `,
         otherNotes: "",
         references: ` <em>Boston Globe</em> 6-25-99<br><em>The Cambridge Chronicle</em>, Volume 153, Number 24, 17 June 1999
-        <br>Cambridge City Directory, 1965
+        <br>Cambridge City Directory, 1965<Br>
+        <i>Boston Globe</i> Sep 12, 1945, Page 83
+
         `,
-        photos: [""],
-        photoTitles: [],
+        photos: ["images_bios/barnes.png"],
+        photoTitles: ["Mary West Barnes, 1945"],
         dateCreated: "prior to 2009",
         dateUpdated: "07.29.2025",
 
@@ -2114,38 +2116,48 @@ b_bios = [
         familyName: "",
 
         title: `Educator`,
-        birthDate: "00.00.1927",
+        birthDate: "03.06.1927",
         birthLocation: "Boston, Massachusetts",
         deathDate: "09.25.1999",
-        deathLocation: "",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
 
 
             Antonia Neves Burke graduated from East Boston
-            High School in 1945 and was a longtime resident of Cambridge.<br><br>She worked as
-            a teaching aide and eventually got her bachelor's degree in special education
-            to work with children with severe learning disabilities. She also worked in
-            the Cambridge Public School system, and taught at the Boston University Mini
-            School (at the time, she lived at 46 Walden Street). Burke occupied the position of Director 
+            High School in 1945 (where she was an avid dancer, winning jitterbug contests) and later became a longtime resident of Cambridge.<br><br>
+            
+            She worked as
+            a teaching aide at the Centre School in Newton and eventually got her bachelor's degree in special education from the University of Massachusetts,
+            to be able to work with children with severe learning disabilities. She also worked in
+            the Cambridge Public School system, taught at the Boston University Mini
+            School (when she was living at 46 Walden Street in Cambridge), and worked with handicapped children at Boston City Hospital. 
+            Burke occupied the position of Director 
             of Public Relation and Recruitment
             for the Cambridge School Volunteers. She received the Tuskegee Airmen's
             Distinguished Lifetime Achievement Award in recognition for her dedication to
             encouraging others on to high levels of personal achievement and the successful
-            pursuit of individual goals. <br><br>She was also involved with the Cambridge Peace
-            Commission and the First Parish Unitarian Universalist Church. She participated
+            pursuit of individual goals. 
+            
+            <br><br> She participated
             as a member of the <a href="bios.html?lNm=BackPorchDanceCompany&mNm=&fNm=">Back Porch Dance Company</a>.
             Burke was quoted in a January 1991 <i>Cambridge Chronicle</i> article describing her very 
             musical Cape Verdean family and that they would celebrate 
-            the holidays by dancing the mazurka:<blockquote>
+            the holidays by dancing the mazurka:
+            
+            <blockquote>
             "The men would take their instruments and go from house to
             house and the grown-ups would end up at my mother's house. 
             I would sit on the edge of the bed and listen to them play."
             </blockquote>
+            She was also involved with the Cambridge Peace
+            Commission and the First Parish Unitarian Universalist Church.
             
 
             `,
         otherNotes: "",
         references: `<em>Cambridge Chronicle</em> May 7, 1959, January 29, 1991, September 30, 1999
+        <Br><i>The Boston Globe</i>
+Thu, Sep 30, 1999, page 77
         `,
         photos: [""],
         photoTitles: [],
@@ -2245,11 +2257,11 @@ b_bios = [
         organization: false,
         lastName: "Butler",
         firstName: "Caroline",
-        middleName: "B.",
+        middleName: "Bernadine",
         familyName: "",
 
         title: `Teacher`,
-        birthDate: "00.00.1897",
+        birthDate: "08.06.1897",
         birthLocation: "Cambridge, Massachusetts",
         deathDate: "01.28.2000",
         deathLocation: "Cambridge, Massachusetts",
@@ -2273,7 +2285,9 @@ b_bios = [
         references: `<em>Cambridge Chronicle</em> 2 February, 2000
         <br>Cambridge City Directory, 1972<br>
         <i>The Cambridge Tribune</i>, Volume XLI, Number 39, 23 November 1918<br>
-        U.S. Census 1910, 1920, 1930
+        U.S. Census 1910, 1920, 1930<Br>
+        Birthdate from <a href="https://www.ancestry.com/family-tree/person/tree/119672567/person/230193076280/facts">
+        https://www.ancestry.com/family-tree/person/tree/119672567/person/230193076280/facts</a>
 
         `,
         photos: ["images_bios/butler.png"],

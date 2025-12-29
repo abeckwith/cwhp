@@ -79,7 +79,7 @@ e_bios = [
         familyName: "Bradshaw",
         
         title: `African-American activist, city employee, volunteer`,
-        birthDate: "00.00.1921",
+        birthDate: "06.11.1921",
         birthLocation: "",
         deathDate: "08.12.2011",
         deathLocation: "Cambridge, Massachusetts",
@@ -112,7 +112,8 @@ e_bios = [
         references: ` <em>Cambridge Chronicle, </em>January 20, 2005;
             Cambridge Public Library <em>Annual Report</em> FY99
             <br>Image source: <em>Boston Globe</em>, Aug. 17, 2011<br>
-            Cambridge City Directory, 1972
+            Cambridge City Directory, 1972<Br>
+            U.S., Social Security Death Index, 1935-2014
         `,
         photos: ["images_bios/ZelmaEvelyn.png"],
         photoTitles: [],
