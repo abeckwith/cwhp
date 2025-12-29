@@ -912,7 +912,7 @@ h_bios = [
         "Ruth Hubbard, 92, First woman tenured in biology at Harvard - The Boston Globe". BostonGlobe.com. 9/4/2016.<Br>
         <i>New York Times</i> "Scholars Face a Challenge by Feminists", By Edward B. Fiske, Nov. 23, 1981
         `,
-        photos: ["images_bios/Ruth_Wald.jpg"],
+        photos: ["images_bios/Ruth_Wald.jpg"],  
         photoTitles: [],
         dateCreated: "prior to 2009",
         dateUpdated: "12.29.2025",
