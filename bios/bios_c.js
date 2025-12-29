@@ -87,21 +87,52 @@ c_bios = [
             was affiliated with the Massachusetts Woman Suffrage Association. It also worked
             with the Cambridge Woman Suffrage Party and other organizations like the Cambridge
             Public School Association (in which Johnson was also an officer). It encouraged
-            women to register and to vote in school committee elections. <br><br>CPEA later became
+            women to register and to vote in school committee elections. <br><br>
+            
+         
+
+
+            In January, 1909, eleven years before women earned the right to vote in the U.S., the Cambridge 
+            Chronicle reported on a meeting at which Mary Page of Brookline spoke to the Association: 
+            <blockquote>
+            "The Cambridge Political Equality Association held a meeting on Saturday afternoon, at the 
+            residence of Mrs. John Brooks, 5 Ash Street...Mrs. Page's subject for the afternoon was 
+            'The Miltant Suffrage Movement in England.' She spoke simply, but with much force, explaining 
+            the conditions in England that caused the Suffragette movement. [The English woman] has not 
+            the social equality with man which has so helped American women...
+            <Br><Br>
+            "As the ladies listened to Mrs. Page, they heard the war cry of the little mill girl, 
+            the Jeanne d'Arc, of England, echoing in their ears; they felt the force of the spirit of
+             the times which has roused all England 'Women, this is War.'"
+            </blockquote>
+
+            During World War I, the CPEA also did work for the war effort. In a May 1917 CPEA meeting, the subject was...
+            <blockquote>
+            "...the increase and conservation of the food supply, this being the special patriotic 
+            task to which the suffragists of the vicinity are devoting themselves[...]the work of 
+            arranging for the permission to cultivate vacant lots [and] about 400 persons had thus 
+            far received permits to plan land aggregating over 35 acres."
+            </blockquote>
+
+            
+            CPEA later became
             part of MWSA and appears to have been the forerunner of the Cambridge League
             of Women Voters, formed after women's votes were secured nationally.`,
         otherNotes: "",
         references: ` Schlesinger Library Archive finding aids for the
             Cambridge Political Equality Association and for Grace A Johnson.<Br>
+               <i>The Cambridge Tribune</i>, Volume XXXI, Number 48, 30 January 1909<br>
+           <i> The Cambridge Sentinel</i>, Volume XIV, Number 27, 26 May 1917<br>
             Image source: Ida M. Tarbell Collection, 1890-1944, Merrick Archives and Special Collections, Pelletier Library, Allegheny College
         `,
-        photos: ["images_bios/cpea.png"],
+        photos: [
+            "", "images_bios/cpea.png"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "",
+        dateUpdated: "12.28.2025",
 
         photoHeights: [215],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Suffragists/Suffrage Group"],
     },
