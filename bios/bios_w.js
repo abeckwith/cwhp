@@ -569,9 +569,9 @@ Cambridge City Directory, 1926
         familyName: "Fayerweather",
 
         title: `Eighteenth century woman of letters`,
-        birthDate: "02.00.1727",
+        birthDate: "02.26.1726",
         birthLocation: "Boston, Massachusetts",
-        deathDate: "00.00.1790",
+        deathDate: "05.06.1790",
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Hannah Winthrop was the daughter of Thomas and

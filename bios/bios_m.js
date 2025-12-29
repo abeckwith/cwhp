@@ -291,12 +291,12 @@ m_bios = [
         organization: false,
         lastName: "Marshall",
         firstName: "Lorna",
-        middleName: "",
-        familyName: "",
+        middleName: "Jean",
+        familyName: "McLean",
 
         title: `Anthropologist`,
-        birthDate: "00.00.1898",
-        birthLocation: "Arizona",
+        birthDate: "09.14.1898",
+        birthLocation: "Morenci, Arizona",
         deathDate: "07.08.2002",
         deathLocation: "Peterborough, New Hampshire",
         narrative: `
@@ -335,15 +335,17 @@ m_bios = [
             Thomas, <em>The Old Way, a Story of the First People</em> (2006)<br>
             Book cover from <a href="https://peacefulsocieties.uncg.edu/societies/juhoansi/">
             https://peacefulsocieties.uncg.edu/societies/juhoansi/</a><Br>
-            Cambridge City Directory, 1941
+            Cambridge City Directory, 1941<Br>
+            U.S., Social Security Applications and Claims Index, 1936-2007
+
         `,
         photos: ["images_bios/marshall_lorna.jpg"],
         photoTitles: ["Lorna Marshall's book about the !Kung people"],
         dateCreated: "prior to 2009",
-        dateUpdated: "04.05.2025",
+        dateUpdated: "12.28.2025",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Scientist", "Writer"],
     },

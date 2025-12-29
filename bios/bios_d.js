@@ -7,9 +7,9 @@ d_bios = [
         familyName: "",
 
         title: `Family and city historian`,
-        birthDate: "00.00.1846",
+        birthDate: "04.03.1846",
         birthLocation: "Cambridge, Massachusetts",
-        deathDate: "00.00.1939",
+        deathDate: "02.15.1939",
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
             A daughter of the author Richard Henry Dana, Jr
@@ -30,7 +30,9 @@ d_bios = [
             Additional correspondence in the Dana
             papers in Houghton, Harvard University Library.<Br>
             Image courtesy of the National Park Service, Longfellow House-Washington's Headquarters National Historic Site
-            <br> (image ID 3004.002/001-#253)
+            <br> (image ID 3004.002/001-#253)<br>
+Birth and death dates:            <a href="https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana">
+https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
         `,
         photos: ["images_bios/elizabeth_dana.jpg"],
         photoTitles: [],

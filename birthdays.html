@@ -144,7 +144,7 @@
                 all_bios.forEach((bioLetterList) => {
                     //go through each name for this letter:
                     bioLetterList.forEach((thename) => {
-                        
+
                         if ((thename.birthDate.slice(3, 5) == "00" || thename.birthDate == "") && thename.firstName != "" &&
                             thename.birthDate.slice(-4) < 1930) {
                             nobirthDate += thename.lastName + ", " + thename.firstName + ": " + thename.birthDate.slice(-4) + "\n";
@@ -162,12 +162,17 @@
                         //for sorting by birthyear:
                         nameForSort = thename.firstName + " " + thename.lastName;
                         dateForSort = thename.birthDate.slice(-4);
+
+                        lName = stripName(thename.lastName);
+                        fName = stripName(thename.firstName);
+                        mName = stripName(thename.middleName);
+
                         tableLink = "<a href='bios.html?lNm=" +
-                            thename.lastName +
+                            lName +
                             "&mNm=" +
-                            thename.middleName +
+                            mName +
                             "&fNm=" +
-                            thename.firstName +
+                            fName +
                             "'>" +
                             thename.firstName +
                             " " +
@@ -179,8 +184,8 @@
                         nameBuild = bio_count + ". " + thename.lastName + ", " + thename.firstName + " " + thename.middleName;
 
                         ///get rid extra comma that orgs will have:
-                        // if (nameBuild.slice(-3) === ",  ")
-                        nameBuild = nameBuild.substring(0, nameBuild.length - 3);
+                        if (nameBuild.slice(-3) === ",  ")
+                            nameBuild = nameBuild.substring(0, nameBuild.length - 3);
 
                         if (thename.familyName != "")
                             nameBuild += " (" + thename.familyName + ")";
@@ -200,18 +205,20 @@
                             dayNum = parseInt(thename.birthDate.substring(3, 5));
                             monthNum = parseInt(thename.birthDate.substring(0, 2));
                             yrs = parseInt(currentDate.substring(6, 10)) - year;
-
+                            lName = stripName(thename.lastName);
+                            fName = stripName(thename.firstName);
+                            mName = stripName(thename.middleName);
 
                             //build BIRTHDAY table entry:
                             html_build =
                                 "<tr><td>" +
                                 thename.birthDate.replaceAll(".", "/") +
                                 "</b></td><td style='padding-left:10px;'><a href='bios.html?lNm=" +
-                                thename.lastName +
+                                lName +
                                 "&mNm=" +
-                                thename.middleName +
+                                mName +
                                 "&fNm=" +
-                                thename.firstName +
+                                fName +
                                 "'>" +
                                 thename.lastName +
                                 ", " +
@@ -288,12 +295,15 @@
                 currentYear = new Date().getFullYear()
 
                 aliveList.forEach(bio => {
+                    lName = stripName(bio.lastName);
+                    fName = stripName(bio.firstName);
+                    mName = stripName(bio.middleName);
                     aliveDisplay += "<tr><td><a href='bios.html?lNm=" +
-                        bio.lastName +
+                        lName +
                         "&mNm=" +
-                        bio.middleName +
+                        mName +
                         "&fNm=" +
-                        bio.firstName +
+                        fName +
                         "'>" +
                         bio.lastName +
                         ", " +
