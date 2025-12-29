@@ -857,6 +857,14 @@ h_bios = [
         deathDate: "09.01.2016",
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
+        Ruth Hubbard was a Harvard professor, scientist, and long time social activist.<blockquote>
+        “Women and nonwhite, working-class and poor men have largely been outside the process of science-making.
+        Though we have been described by scientists, by and 
+        large we have not been the describers and definers of scientific reality. We have not formulated 
+        the questions scientists ask, nor have we answered them. This undoubtedly has affected the content 
+        of science, but it has also affected the social context and the ambience in which science is done.”
+        <Br>- Ruth Hubbard, 1981
+        </blockquote>
             Ruth Hubbard was born in Vienna, Austria and escaped
             the Nazi regime with her family when she thirteen. The family moved to the Boston
             area. Ruth attended Radcliffe College, graduating in 1945. She went on to study
@@ -871,21 +879,28 @@ h_bios = [
             with issues of peace, in which Ruth joined him.<br><br>
 
             She was tenured as professor of biology at Harvard
-            in 1974, the first woman tenured in the department. In the late seventies and
+            in 1974, the first woman tenured in the department. 
+            
+             Hubbard was an outspoken activist, insisting on questioning science's relationship to society, 
+             protesting against U.S. involvement in foreign wars, and joining many other antinuclear activist
+             in the fight for disarmament; she was once arrested on charges of civil disobedience.<br><Br>
+            In the late seventies and
             early eighties, she created innovative courses on biology and politics from
             a feminist perspective. She began to publish studies of the politics of women's
-            health, on the position of women in academia and research and, more recently,
+            health, on the position of women in academia and research and
             on the ethics of gene therapy and genetic testing including, <em>The Politics
                 of Women's Biology</em> (1990); <em>Profitable Promises: Essays on Women
                 Science and Health</em> (1994); and <em>Exploding the Gene Myth,</em> with her
             son Elijah Wald, (1993). She was a board member of Science for the People in
             the 1970s and 1980s, along with geneticists Richard Lewontin and Jonathan Beckwith.
-            She is a founding board member of The Council for Responsible Genetics. Retiring
-            in 1990, she is currently professor <em>emerita</em> in the Department of Molecular
-            and Cellular Biology at Harvard. <br><br>In 2003, she was awarded an honorary Doctorate
+            She is a founding board member of The Council for Responsible Genetics.
+            <Br><Br> Retiring
+            in 1990, she became professor <em>emerita</em> in the Department of Molecular
+            and Cellular Biology at Harvard. In 2003, she was awarded an honorary Doctorate
             of Science by Clark University. In May 2005, the Massachusetts American Civil
             Liberties Union presented her with the Luther Knight Macnair award for her work
-            on bioethics.`,
+            on bioethics.
+            `,
         otherNotes: "",
         references: ` Benjamin F. Shearer and Barbara Smith Shearer <em>Notable
                 Women in the Life Sciences</em>. Westport CN 1996.; R. Hubbard and E. Wald.
@@ -893,14 +908,17 @@ h_bios = [
             pp. 5-20. Chichester: [Novartis Foundation Symposium 224]; Online conversation
             with Frank Aqueno in 1993 <br>
                 Image source: <a href="https://en.wikipedia.org/wiki/Ruth_Hubbard" target="_self">https://en.wikipedia.org/wiki/Ruth_Hubbard</a>
-        <Br>Cambridge City Directory, 1963`,
+        <Br>Cambridge City Directory, 1963<bR>
+        "Ruth Hubbard, 92, First woman tenured in biology at Harvard - The Boston Globe". BostonGlobe.com. 9/4/2016.<Br>
+        <i>New York Times</i> "Scholars Face a Challenge by Feminists", By Edward B. Fiske, Nov. 23, 1981
+        `,
         photos: ["images_bios/Ruth_Wald.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "04.05.2025",
+        dateUpdated: "12.29.2025",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist", "Refugee", "Scientist"],
     },
