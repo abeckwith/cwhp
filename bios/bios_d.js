@@ -863,9 +863,9 @@ d_bios = [
         familyName: "",
 
         title: `Anthropologist`,
-        birthDate: "00.00.1903",
+        birthDate: "10.26.1903",
         birthLocation: "Brooklyn, New York",
-        deathDate: "00.00.1991",
+        deathDate: "04.07.1991",
         deathLocation: "Brookline, Massachusetts",
         narrative: `
             Educated at Barnard, Cora Du Bois obtained her
@@ -892,7 +892,9 @@ d_bios = [
         references: `
             Ogilvie, Marilyn and Joy Harvey. Biographical Dictionary
             of Women Scientists. Routledge Press, 2000<Br>
-            Cambridge City Directory, 1968
+            Cambridge City Directory, 1968<Br>
+            Massachusetts, U.S., Death Index, 1970-2003
+
         `,
         photos: ["images_bios/Cora_Du_Bois_(cropped).jpg"],
         photoTitles: [],

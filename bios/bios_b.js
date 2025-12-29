@@ -671,7 +671,7 @@ b_bios = [
         familyName: "Pearson",
 
         title: `Community leader, Volunteer, Linotype operator`,
-        birthDate: "00.00.1892",
+        birthDate: "06.30.1892",
         birthLocation: "Rock Hill, Jamaica",
         deathDate: "06.00.1977",
         deathLocation: "",
@@ -712,7 +712,9 @@ b_bios = [
                 History
                 Project</em>of Schlesinger Library.<Br>
                 <i>The Cambridge Chronicle</i>, 23 July 1921<Br>
-                <i>The Cambridge Chronicle</i>, 15 June 1967
+                <i>The Cambridge Chronicle</i>, 15 June 1967<br>
+                U.S., Social Security Death Index, 1935-2014
+
 
         `,
         photos: ["images_bios/bennett.png", "images_bios/bennett2.png"],
@@ -1455,7 +1457,7 @@ b_bios = [
         familyName: "Brokczyna",
 
         title: `Librarian, book seller`,
-        birthDate: "00.00.1908",
+        birthDate: "08.07.1908",
         birthLocation: "Vienna, Austria",
         deathDate: "07.10.2005",
         deathLocation: "Cambridge, Massachusetts",
@@ -1488,7 +1490,8 @@ b_bios = [
         references: `<em>Boston Globe </em>July 17, 2005
         <br>Cambridge City Directory, 1971<Br>
         <a href="https://www.legacy.com/us/obituaries/bostonglobe/name/hermine-brand-obituary?id=26471657">
-        https://www.legacy.com/us/obituaries/bostonglobe/name/hermine-brand-obituary?id=26471657</a>
+        https://www.legacy.com/us/obituaries/bostonglobe/name/hermine-brand-obituary?id=26471657</a><Br>
+        U.S., Social Security Death Index, 1935-2014
         `,
         photos: [""],
         photoTitles: [],
@@ -1718,17 +1721,19 @@ b_bios = [
         familyName: "Burniston",
 
         title: `Neurophysiologist and historian of science`,
-        birthDate: "00.00.1904",
+        birthDate: "05.17.1904",
         birthLocation: "Western-Super-Mare, England",
-        deathDate: "00.00.1995",
-        deathLocation: "Cape Cod, Massachusetts",
+        deathDate: "05.09.1995",
+        deathLocation: "Falmouth, Massachusetts",
         narrative: `
 
 
             Born in England, Mary Agnes Burniston was educated
             at Bedford College, University of London. Soon after she married Leslie J Brazier
             in 1928, she finished her Ph.D. degree in physiology at the University of London
-            in 1929. <br><br>When the bombing of London began at the beginning of the Second World
+            in 1929. <br><br>
+            
+            When the bombing of London began at the beginning of the Second World
             War in 1939, she decided to bring her young son to the United States to ensure
             his safety. Awarded a Rockefeller Fellowship, she began to work in neurophysiology
             laboratories at Massachusetts General Hospital investigating peripheral nerve
@@ -1738,13 +1743,18 @@ b_bios = [
             her EEG data. She then moved to the University of California Brain Research
             Institute soon after it was created and was named Professor of Anatomy. Besides
             numerous scientific articles in her field, she published a number of books on
-            the history of neurophysiology from the 17th through the 19th century. <br><br>At the
+            the history of neurophysiology from the 17th through the 19th century. She became a U.S. 
+            citizen while in California, in 1961.<br><br>At the
             end of her life she retired to Massachusetts, dying at the age of 91.
 
             `,
         otherNotes: "",
         references: `Ogilvie, Marilyn and Joy Harvey. <em>Biographical
-                Dictionary of Women Scientists</em>. Routledge Press, 2000.
+                Dictionary of Women Scientists</em>. Routledge Press, 2000.<Br>
+                Massachusetts, Death Index, 1970-2003<Br>
+                U.S. Naturalization Record Indexes, 1791-1992 
+
+
         `,
         photos: [""],
         photoTitles: [],
@@ -2557,7 +2567,7 @@ b_bios = [
         familyName: "Eaton",
 
         title: `Nonprofit Bookstore Co-Founder, Social Activist`,
-        birthDate: "00.00.1913",
+        birthDate: "06.05.1913",
         birthLocation: "Cleveland, Ohio",
         deathDate: "07.12.1978",
         deathLocation: "Cambridge, MA",
@@ -2623,7 +2633,8 @@ b_bios = [
             https://www.cambridgema.gov/CDD/News/2024/5/cambridgebusinesseshonoredat2024legacyluncheonawards</a><br><Br>
             Image from findagrave.com: <a href="https://www.findagrave.com/memorial/214077114/elizabeth-anne-butterfield">
             https://www.findagrave.com/memorial/214077114/elizabeth-anne-butterfield</a><Br>
-            Cambridge City Directory, 1972
+            Cambridge City Directory, 1972<Br>
+            U.S., Social Security Death Index, 1935-2014
         `,
         photos: ["images_bios/butterfield.png"],
         photoTitles: [""],

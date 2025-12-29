@@ -302,7 +302,7 @@ r_bios = [
             <Br><Br>In 2007, Reverend Constance Parvey of Cambridge, who had known her since the 1950's,
              described Ann's involvement in civil rights activities in the late 1950s and 1960s:
             <blockQuote>
-            "Ann [was always] making sure people got to know each other. Not just 'This is so-and-so, but 
+            "Ann [was always] making sure people got to know each other. Not just 'This is so-and-so', but 
             'What are we going to do about this?' Ann was not someone who started with the weather. She started 
             out with what was absolutely on her mind. It was a heady time. It was a time when we were remapping 
             the theological and social landscape."
@@ -328,7 +328,7 @@ r_bios = [
             Obituary, <em>Cambridge Chronicle</em>
             (under Betty A. Rubinow) January 22, 2007<Br>
             Cambridge City Directory, 1961<Br>
-            <i>The Boston Globe</i>Jan 25, 2007<Br>
+            <i>The Boston Globe</i>, Jan 25, 2007<Br>
             <br>Image source: <A href="https://www.vtcng.com/stowereporter/archives/betty-ann-orlov-rubinow/article_5b7f7b21-06cb-5708-ae30-d74b45d2059f.html" target="_self">
             https://www.vtcng.com/stowereporter/archives/betty-ann-orlov-rubinow/article_5b7f7b21-06cb-5708-ae30-d74b45d2059f.html</a>
         `,

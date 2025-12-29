@@ -572,7 +572,7 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
         familyName: "Woodson",
         
         title: `Registered Nurse and Oral Historian`,
-        birthDate: "00.00.1907",
+        birthDate: "07.21.1907",
         birthLocation: "Cambridge, Massachusetts",
         deathDate: "09.04.2000",
         deathLocation: "Roxbury, Massachusetts",
@@ -593,7 +593,9 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
             `,
         otherNotes: "",
         references: `<em>Boston Globe</em>, Sept. 9, 2009; PBS reference
-            unknown<br>Image source: <em>Boston Globe</em>, Sept. 9, 2009
+            unknown<br>Image source: <em>Boston Globe</em>, Sept. 9, 2009<br>
+            Massachusetts, Death Index, 1970-2003
+
         `,
         photos: ["images_bios/corinne woodson alleyne.png"],
         photoTitles: [],

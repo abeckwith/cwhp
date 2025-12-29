@@ -137,11 +137,24 @@
                 currentDate = new Date();
                 currentDate = currentDate.toLocaleDateString('en-US');
                 nophotocount = 0;
-                                        bDayCount = 0;
-
+                bDayCount = 0;
+                noQuote = "No QUOTE:\n";
+                noImage = "No IMAGE:\n";
+                nobirthDate = "No BIRTHDATE:\n";
                 all_bios.forEach((bioLetterList) => {
                     //go through each name for this letter:
                     bioLetterList.forEach((thename) => {
+                        
+                        if ((thename.birthDate.slice(3, 5) == "00" || thename.birthDate == "") && thename.firstName != "" &&
+                            thename.birthDate.slice(-4) < 1930) {
+                            nobirthDate += thename.lastName + ", " + thename.firstName + ": " + thename.birthDate.slice(-4) + "\n";
+                        }
+                        if (thename.narrative.indexOf("blockquote") == -1) {
+                            noQuote += thename.lastName + ", " + thename.firstName + ": " + thename.birthDate.slice(-4) + "\n";
+                        }
+                        if (thename.photos[0] == "") {
+                            noImage += thename.lastName + ", " + thename.firstName + ": " + thename.birthDate.slice(-4) + "\n";
+                        }
                         // if (thename.photos[0] == "") {
                         //     nophotocount++; console.log(nophotocount + ". " + thename.lastName + ", " + thename.firstName)
                         // }
@@ -160,7 +173,7 @@
                             " " +
                             thename.lastName +
                             "</a>";
-                        if (dateForSort.length == 4) birthSort.push({ tableLink, dateForSort});
+                        if (dateForSort.length == 4) birthSort.push({ tableLink, dateForSort });
 
                         bio_count++;
                         nameBuild = bio_count + ". " + thename.lastName + ", " + thename.firstName + " " + thename.middleName;
@@ -221,7 +234,9 @@
 
                     });
                 });
-
+                console.log(nobirthDate);
+                console.log(noImage);
+                console.log(noQuote);
                 //SORT ALGORITHM: first by year, then month, then day:
                 recentsSorted = recentObjects.sort((a, b) => {
                     if (parseInt(a.monthNum) > parseInt(b.monthNum)) return 1;
