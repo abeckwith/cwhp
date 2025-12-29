@@ -903,14 +903,15 @@ h_bios = [
             `,
         otherNotes: "",
         references: ` Benjamin F. Shearer and Barbara Smith Shearer <em>Notable
-                Women in the Life Sciences</em>. Westport CN 1996.; R. Hubbard and E. Wald.
-            &#8220;George Wald Memorial Talk&#8221;<em> </em>in <em>Rhodopsin and Photransduction</em>,
-            pp. 5-20. Chichester: [Novartis Foundation Symposium 224]; Online conversation
+                Women in the Life Sciences</em>. Westport CN 1996.; R. Hubbard and E. Wald.<Br>
+            &#8220;George Wald Memorial Talk&#8221; in <em>Rhodopsin and Photransduction</em>,
+            pp. 5-20. Chichester: [Novartis Foundation Symposium 224]
+            <br> Online conversation
             with Frank Aqueno in 1993 <br>
                 Image source: <a href="https://en.wikipedia.org/wiki/Ruth_Hubbard" target="_self">https://en.wikipedia.org/wiki/Ruth_Hubbard</a>
         <Br>Cambridge City Directory, 1963<bR>
-        "Ruth Hubbard, 92, First woman tenured in biology at Harvard - The Boston Globe". BostonGlobe.com. 9/4/2016.<Br>
-        <i>New York Times</i> "Scholars Face a Challenge by Feminists", By Edward B. Fiske, Nov. 23, 1981
+        <i>The Boston Globe</i>,"Ruth Hubbard, 92, First woman tenured in biology at Harvard, 9/4/2016.<Br>
+        <i>The New York Times</i>, "Scholars Face a Challenge by Feminists" by Edward B. Fiske, Nov. 23, 1981
         `,
         photos: ["images_bios/Ruth_Wald.jpg"],  
         photoTitles: [],

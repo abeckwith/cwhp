@@ -1104,7 +1104,7 @@ m_bios = [
         birthDate: "00.00.1870",
 
         birthLocation: "Cambridge, Massachusetts",
-        deathDate: "00.00.1907",
+        deathDate: "03.01.1907",
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
            <i>Amy McKay was born and attended school in Cambridge. 
