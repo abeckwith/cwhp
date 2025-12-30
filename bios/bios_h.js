@@ -25,7 +25,8 @@ h_bios = [
             and decided to learn typing and stenography. Isabella worked as secretary to
             the dean of residents at Radcliffe College, as membership secretary at the Boston
             Museum of Fine Arts, and as director of the newly formed Boston Center for International
-            Visitors, from 1961-1967 (she was living at 988 Memorial Drive in Cambridge at the time). There she hosted foreign guests of the State Department,
+            Visitors, from 1961-1967 (she was living at 988 Memorial Drive in Cambridge at the time). 
+            There she hosted foreign guests of the State Department,
             welcoming them into her home in Cambridge and learning about their cultures.
             <br><br>
             Isabella Halsted also initiated and led a campaign
@@ -520,7 +521,7 @@ h_bios = [
         familyName: "",
 
         title: `African American writer`,
-        birthDate: "00.00.1859",
+        birthDate: "00.00.1856",
         birthLocation: "Portland, Maine",
         deathDate: "08.13.1930",
         deathLocation: "Cambridge, Massachusetts",
@@ -538,8 +539,40 @@ h_bios = [
             for the magazine, eventually becoming its literary editor. Her work includes
             many short stories, essays, and two serialized novels: <em>Winona: A Tale of
                 Negro Life in the South and Southwest</em> and <em>Of One Blood: or, The Hidden
-                Self.</em> <br><br>In 1905, ill health forced Hopkins to return to work as a stenographer
-            at Massachusetts Institute of Technology. Her final literary work was a series
+                Self.</em> 
+                
+                <br><br>In 1902, Pauline Hopkins wrote:
+            <blockquote>"Is it not true that the fate of the Negro is the romance of American History?"
+            </blockquote>
+            
+            In 1903, in <i>Colored American Magazine</i>, Hopkins wrote of the complexities of racial issues at the time:<blockquote>
+            "We grant that the Southern woman has given us a terrible blow, and in a vital part, because woman 
+            is the natural social leader; she is responsible in great measure for society's deeds; but we
+             have known for years where to seek our enemy; it is not the man so much as the environments of
+              his social system. Granted that the conditions are hard for a certain class of Southern white
+               women; but the results of profligacy are the same in any case, no matter whether white or 
+               black are the partners. Certainly the rapid life of society everywhere at present, among 
+               white and black, is not suggestive of absolute purity, and the black is no worse than his 
+               environment; he follows the fashions as set by his white superior. <Br><br>
+               
+               "But if this thing be true, 
+               and pity 'tis, 'tis true, it is but the result of conditions forced upon a helpless people, 
+               and not their choice; we reap the whirlwind from sowing the wind. Meanwhile, tears and sorrow and
+                heart-burning are the Southern white woman's portion, and like Sarah of old she wreaks her 
+                vengeance on helpless Hagar. Club life has but rendered her disposition more intolerable toward
+                 the victims of her husband's and son's evil passions.<Br><BR>
+            "Spite of these sad short-comings, let us hope. Never until we welcome the Negro, the foreigner, 
+            all races, as equals, and welded together in a common nationality, shall we deserve prosperity 
+            and peace. We hope the time is not far distant when the women of African descent will meet in a 
+            General Federation, and pray, with unwavering trust in the Fatherhood of God and the brotherhood of
+             man: <Br><Br>'Lord, from the four corners of the world we have come to this convention, as representing the
+              homes of the world. It is to these homes the effects of this meeting, for good or for evil, will 
+              go. May many homes be made stronger and sweeter, may many crooked ways be made straight, by what
+               we shall do and say here.'"
+                </blockquote>
+               
+               In 1905, ill health forced Hopkins to return to work as a stenographer
+             at Massachusetts Institute of Technology. Her final literary work was a series
             of articles entitled, &quot;Dark Races of the Twentieth Century,&quot; published
             during 1904-1905 in The Voice of the Negro. Mainly interested in the problems
             of the black middle class, she was one of the first black women writers in America. 
@@ -551,15 +584,16 @@ h_bios = [
             Public Library website &#8220;Penwomen of Cambridge Past: Biographies of
             Our Literary Foremothers&#8221;<br>
                 Image source: <a href="https://en.wikipedia.org/wiki/Pauline_Hopkins" target="_self">https://en.wikipedia.org/wiki/Pauline_Hopkins</a>
-       <br>Cambridge City Directory, 1928
-                `,
-        photos: ["images_bios/Pauline_Elizabeth_Hopkins.jpg"],
+       <br>Cambridge City Directory, 1928<br>
+       "Echoes from the Annual Convention of Northeastern Federation of Colored Women's Clubs," Colored American Magazine 6.10 (Oct. 1903): 709-713
+        <Br>"Pauline Elizabeth Hopkins: Black Daughter of the Revolution", by Lois Brown, 2008, Univeristy of North Carolina Press       `,
+        photos: [ "images_bios/Hopkins2.png", "images_bios/Pauline_Elizabeth_Hopkins.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "",
+        dateUpdated: "12.30.2025",
 
-        photoHeights: [],
-        editors: "",
+        photoHeights: ["400"],
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Writer"],
     },
@@ -1021,7 +1055,9 @@ h_bios = [
             and received the highest percentage among her fellow test-takers. Marjorie's
             first job was as a &#8220;special agent&#8221; for the Massachusetts Minimum
             Wage Commission, where she began a lifelong professional relationship with the
-            Women's Educational and Industrial Union in Boston (WEIU). <br><br>She also studied
+            Women's Educational and Industrial Union in Boston (WEIU). <br><br>
+            
+            She also studied
             statistics with Professor William Z. Ripley at Harvard from 1912-13, and in
             1915 she was one of nine students to enroll in the first graduate level law
             school for women in America&#8212;the Cambridge Law School for Women, which
@@ -1031,7 +1067,9 @@ h_bios = [
             and she was elected to the prestigious Phi Beta Kappa. Unfortunately, the law
             school was short-lived but, undaunted, Marjorie took courses at the Portia School
             of Law on Boston's Beacon Hill&#8212;the first law school in the country
-            to admit women with or without a college degree. <br><br>She also worked as a legal
+            to admit women with or without a college degree. 
+            
+            <br><br>She also worked as a legal
             clerk for the law firm of Hale &amp; Dorr. In 1918, at the age of 32, Marjorie
             was admitted to the Massachusetts Bar. Between 1919 and 1920, she worked for
             the law firm of Dunbar, Nutter &amp; McClennen, and in 1920, Marjorie joined

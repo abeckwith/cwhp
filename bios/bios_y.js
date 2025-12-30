@@ -149,7 +149,7 @@ y_bios = [
         familyName: "Foa",
         
         title: `Teacher, Radio Host`,
-        birthDate: "00.00.1908",
+        birthDate: "04.17.1908",
         birthLocation: "Turin, Italy",
         deathDate: "10.00.2006",
         deathLocation: "Newton, Massachusetts",
