@@ -1184,58 +1184,5 @@ c_bios = [
         authors: "CWHP volunteers",
         categories: ["Actress"],
     },
-    {
-        organization: false,
-        lastName: "Cushman",
-        firstName: "Charlotte",
-        middleName: "Saunders",
-        familyName: "",
-
-        title: `Actress`,
-        birthDate: "07.23.1816",
-        birthLocation: "Boston, Massachusetts",
-        deathDate: "02.18.1876",
-        deathLocation: "Boston, Massachusetts",
-        narrative: `
-            Charlotte Cushman is the only female actress to
-            be enshrined in the University of Hall of Fame for Great Americans. She was
-            the daughter of a failed businessman, Elkanah Cushman and his second wife, Mary
-            Eliza Babbitt. Raised in Boston where her mother ran a boarding house, she trained
-            to become an opera singer but an ill- fated attempt to extend the range of her
-            husky contralto voice while touring in New Orleans. <br><br>Advised to turn to the theater,
-            she was offered the part of Lady Macbeth by the manager of the main theater
-            in that city, making a successful debut at the age of twenty. She soon moved
-            to Philadelphia and New York where she appeared regularly, developing an enthusiastic
-            following, especially as Nancy in &#8220;Oliver Twist,&#8221; and as Lady Macbeth.
-            She took on other Shakespearean roles, including a large number of male roles,
-            for example playing Romeo opposite her sister Susan's Juliet and notably
-            
-
-            as Hamlet. <br><br>In 1844, she went to London where she made a sensational hit, even
-            appearing before Queen Victoria. After a number of highly successful tours of
-            America, she temporarily retired from the stage at the age of thirty=seven and
-            with her accumulated wealth spent her winters in London and her summers in Rome
-            where she lived with the sculptor Emma Stebbins, opening her house as a center
-            for English and American writers and artists including the Brownings and Harriet
-            Hosmer. She moved back to Boston in 1870 with Emma Stebbins and established
-            homes in Boston and Newport, occasionally returning to the stage for special
-            performances. <br><br>She suffered from cancer and finally retired permanently from
-            the stage in 1874. Two years later she died of pneumonia and was buried in Mt
-            Auburn Cemetery, Cambridge. `,
-        otherNotes: "",
-        references: `<em> American Women: 1500 Hundred Biographies</em>,
-            Frances E. Willard and Mary A. Livermore (eds.), Volume I, (1897)<Br><em>Notable
-                American Women</em> (1950)<Br><em>Encyclopedia Americana</em>, 1995<Br>
-Image source: <a href="https://en.wikipedia.org/wiki/Charlotte_Cushman" target="_self">https://en.wikipedia.org/wiki/Charlotte_Cushman</a>
-        `,
-        photos: ["images_bios/Charlotte_Cushman_(Sully,_1843).jpg"],
-        photoTitles: [],
-        dateCreated: "prior to 2009",
-        dateUpdated: "",
-
-        photoHeights: [],
-        editors: "",
-        authors: "CWHP volunteers",
-        categories: ["Actress"],
-    },
+   
 ];

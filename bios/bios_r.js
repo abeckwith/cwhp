@@ -94,60 +94,7 @@ r_bios = [
         authors: "CWHP volunteers",
         categories: ["Author"],
     },
-    {
-        organization: false,
-        lastName: "Richards",
-        firstName: "Ellen",
-        middleName: "Henrietta",
-        familyName: "Swallow",
-        
-        title: `Professor of Sanitary Chemistry and Home Economics`,
-        birthDate: "12.03.1842",
-        birthLocation: "Dunstable, Massachusetts",
-        deathDate: "03.30.1911",
-        deathLocation: "Boston, Massachusetts",
-        narrative: `
-            Ellen Swallow was born in the small town of Dunstable,
-            Massachusetts to Fanny and Peter Swallow. She attended Westford Academy in Westford, Massachusetts,
-            graduating in 1863. After studying and then teaching in Worcester, she went
-            to Vassar College, which had just opened at an advanced level, graduating in
-            1870. She then had the opportunity to attend the Massachusetts Institute of
-            Technology as a special student, the first woman to be accepted at any scientific
-            school. In 1873, she received a second bachelor's degree from MIT and
-            a master's degree from Vassar. She continued to study at MIT and to work
-            under John Nichols on practical problems, such as water safety for the state.
-            In 1873 she married Robert Hallowell Richards, a professor of mining engineering
-            at MIT. <br><Br>
-            With the help of the Women's Education Association
-            of Boston, Ellen Richards established a Woman's Laboratory at MIT in 1876
-            under the directorship of John M. Ordway, which offered training to women in
-            a wide range of sciences; Richards was named an instructor at the laboratory.
-            When women were admitted as MIT undergraduates to regular laboratories in 1883,
-            the women's laboratory closed. Richards was then appointed an instructor
-            in sanitary chemistry and continued to work in the field of sanitation and home
-            economics (a field she helped establish) until her death. She also created a
-            Center for Right Living in her home in Jamaica Plain, testing foods and promoting
-            sanitation. <Br><Br>She published two widely cited books, <em>The Chemistry of Cooking
-                and Cleaning</em> (1882) and <em>Air Water and Food from a Sanitary Point of
-                View</em> (1900). `,
-        otherNotes: "",
-        references: ` <em>Notable American Women</em> Vol 3; Ogilvie,
-            Marilyn and Joy Harvey <em>Dictionary of Women Scientists </em>(2000); Ancker,
-            Jessica Scalzi, <em>Domesticity, Science, and Social Control: Ellen Swallow
-                Richards and the New England Kitchen</em> (1987).<br>
-                Image source: <a href="https://en.wikipedia.org/wiki/Ellen_Swallow_Richards" target="_self">https://en.wikipedia.org/wiki/Ellen_Swallow_Richards</a>
-        `,
-        photos: ["images_bios/Ellen_Swallow_Richards.jpg"],
-        photoTitles: [],
-        dateCreated: "prior to 2009",
-        dateUpdated:
- "04.07.2025",
-        
-        photoHeights: [],
-        editors:"",
-        authors: "CWHP volunteers",
-        categories: ["Teacher/Educator", "Scientist"],
-    },
+
     {
         organization: false,
         lastName: "Roe",

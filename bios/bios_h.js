@@ -195,68 +195,7 @@ h_bios = [
         authors: "CWHP volunteers",
         categories: ["Community Leader", "Factory Worker"],
     },
-    {
-        organization: false,
-        lastName: "Hayden",
-        firstName: "Sophia",
-        middleName: "Gregoria",
-        familyName: "",
 
-        title: `Architect`,
-        birthDate: "10.17.1868",
-        birthLocation: "Santiago, Chile",
-        deathDate: "02.03.1953",
-        deathLocation: "Wintrhop, Massachusetts",
-        narrative: `
-            Sophia Hayden was born in Chile and was raised by her grandparents in Jamaica Plain in Boston.
-            She was the first woman to graduate
-            in architecture from MIT in Cambridge in 1890. After graduation, she taught
-            mechanical drawing at a high school in Jamaica Plain. <Br><Br> Hayden won the competition
-            to design the Woman's Building at the World's Columbian Exposition
-            in Chicago in 1893 commemorating the 400th anniversary of Christopher Columbus's
-            discovery of America. <br><br>In an effort to draw attention to women's progress
-            in entering previously all-male professions, the Board of Lady Managers had
-            established a $1,000 prize for a woman architect. Hayden's design was
-            for an Italian Renaissance exhibit hall with skylights. This was awarded the
-            Gold Medal from the Board of Lady Managers, though the design was criticized
-            for its &quot;daintiness and grace&quot;. Hayden, although barely out of school,
-            and only 22 years old was asked to go to Chicago supervise the construction
-            of her design. Unfortunately, overwhelmed by the pressure of supervising such
-            a large construction project, and negative critical response to her work, Hayden
-            experienced a collapse at the site, but returned a few months later for the
-            dedication of the building.
-            
-            <br><br>She retired from architecture and never designed
-            another building. She moved to Winthrop, Massachusetts where she was active in women's
-            societies. Around 1900, she married an artist, William Blackstone Bennett, and
-            lived a retired life.<br>
-             A plan of her thesis illustration for a Fine Arts building
-            is on the MIT web site. 
-            `,
-        otherNotes: "",
-        references: `
-            <em>Notable American Women: Modern Period</em><br>
-            Sarah Allaback, <em>The First American Women Architects</em>. University of
-            Illinois Press, 2008 <br>
-            <a
-                href="http://web.mit.edu/museum/chicago/bennett29.html">http://web.mit.edu/museum/chicago/bennett29.html</a>
-            <em>Encyclopedia Britannia</em><Br>
-            <a href="https://www.ancestry.com/family-tree/person/tree/4314195/person/132430538456">
-            https://www.ancestry.com/family-tree/person/tree/4314195/person/132430538456</a>/<Br>
-
-            U.S. Census, 1880<Br>
-            Image source: <a href="https://en.wikipedia.org/wiki/Sophia_Hayden" target="_self">https://en.wikipedia.org/wiki/Sophia_Hayden</a>
-        `,
-        photos: ["images_bios/Sophia_Bennett.jpg"],
-        photoTitles: [],
-        dateCreated: "prior to 2009",
-        dateUpdated: "12.29.25",
-
-        photoHeights: [],
-        editors: "Anthony Beckwith",
-        authors: "CWHP volunteers",
-        categories: ["Architect"],
-    },
     {
         organization: false,
         lastName: "Herman",

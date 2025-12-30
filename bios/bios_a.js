@@ -219,61 +219,7 @@ here</a>)<br>
         authors: "CWHP volunteers",
         categories: ["Author"],
     },
-    {
-        organization: false,
-        lastName: "Adams",
-        firstName: "Hannah",
-        middleName: "",
-        familyName: "",
-        
-        title: `Author`,
-        birthDate: "10.01.1755",
-        birthLocation: "Medfield, Massachusetts",
-        deathDate: "12.15.1831",
-        deathLocation: "Brookline, Massachusetts",
-        narrative: `
 
-            Hannah Adams was the first American-born professional
-            author, the daughter of Elizabeth (Cook) and Thomas Adams. Born in the town
-            of Medfield, she began to publish to supplement her family's income, writing
-            on religious and historical themes. Her first book was a list of religious groups
-            entitled <em>Alphabetical Compendium of the Various Sects Which Have Appeared
-                From the Beginning of the Christian Era to the Present </em>(1784), This went
-            through a number of editions in Boston and London. She followed this with historical
-            works, <em>A Summary History of New-England </em>(1799), and <em>A History of
-                the Jews</em> (1812).<br><br> She began to attract friends among literary and religious
-            men in Boston who provided an annuity for her. She produced a final study, <em>Letters
-                on the Gospels</em> in 1826. Although eccentric in her old age, she had a decided
-            influence on her contemporaries and was among the first persons to be buried
-            at Mount Auburn Cemetery. An autobiographical memoir of her life appeared the
-            year after her death, written partly to provide financial support for her younger
-            sister.<Br><Br>
-            In her 1799 work "A Summary History of New-England: from the first settlement at Plymouth, to the acceptance of the federal Constitution",
-            Adams wrote about the "Rise of the controversy between Great Britain and New England":
-            <blockquote>
-            "In the forgoeing history, we have seen the designs of Dudley, Randolph, Andros, 
-            and others, to establish an arbitrary government in New England. Ever jealous of 
-            encroachments upon their privileges, the American settlers baffled all their schemes.
-             Their insidious designs were buried with them for a long period..."
-            </blockquote>
-            `,
-        otherNotes: "",
-        references: `<em>Notable American Women</em>; <em>Cambridge
-                Chronicle</em> 12-13-00<Br>Photo source: wikipedia
-                <br>"A summary history of New-England: from the first settlement at Plymouth, to the acceptance of the federal Constitution", Hannah Adams, 1799. Access 
-                this book online here: <a href="https://archive.org/details/summaryhistoryof00adamrich/mode/2up">
-                https://archive.org/details/summaryhistoryof00adamrich/mode/2up</a>
-        `,
-        photos: ["images_bios/Hannah_Adams_portrait.jpg"],
-        photoTitles: [],
-        dateCreated: "prior to 2009",
-        dateUpdated: "12.23.2025",
-
-        photoHeights: [],
-        editors:"Anthony Beckwith",
-        authors: "CWHP volunteers",
-        categories: ["Author"],
-    },
     {
         organization: false,
         lastName: "Agassiz",
@@ -616,7 +562,7 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
         familyName: "Maguire",
         
         title: `Activist, Teacher`,
-        birthDate: "",
+        birthDate: "07.25.1941",
         birthLocation: "",
         deathDate: "07.14.2002",
         deathLocation: "Cambridge, Massachusetts",
@@ -762,67 +708,7 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
         authors: "CWHP volunteers",
         categories: ["Factory Worker"],
     },
-    {
-        organization: false,
-        lastName: "Applebee",
-        firstName: "Constance",
-        middleName: "M.K.",
-        familyName: "",
-        
-        title: `Physical education teacher, introduced Women's Field Hockey to US`,
-        birthDate: "02.23.1873",
-        birthLocation: "Chigwell, England",
-        deathDate: "01.26.1981",
-        deathLocation: "Burley, England",
-        narrative: `
  
-            
-         
-
-        In 1901, Constance M.K. Applebee mounted the first demonstration of the
-        English game of field hockey in the United States. It was held in
-        Cambridge, Massachusetts, in a courtyard adjacent to the Harvard
-        University gymnasium. A graduate of the British College of Physical
-        Education in London, she had come in this country to take a course in
-        anthropometry, the measurement of the human body. The demonstration
-        took place while she was attending a women's physical education course at
-        Harvard.<Br><Br>
-        Through her energy and enthusiasm, field hockey soon became very
-        popular in women's colleges such as Vassar, Smith, Wellesley, Mount
-        Holyoke, and Radcliffe.<Br><Br>
-        "The Apple," as she was known, was hired in 1904 as athletic director at
-        Bryn Mawr College in Pennsylvania, a position she held through 1928. In
-        1901, she founded the American Field Hockey Association and headed it
-        for 20 years. She also helped found the United States Field Hockey
-        Association in 1922 and the following year created a field hockey camp in
-        Mount Pocono, Pennsylvania. She was for 10 years the editor and
-        publisher of Sportswoman, a magazine for women athletes, the first
-        magazine of its kind in America.<Br><Br>
-        Throughout her life, Applebee commuted between England and the United
-        States, coaching young woman in field hockey and the importance of
-        sportsmanship. She did not retire until she was 94.
-
-            `,
-        otherNotes: "",
-        references: ` Phyllis J. Read and Bernard L. Witlieb <em>The
-                Book of Women's Firsts</em>, 1992.<br>
-            Wikipedia (online encyclopedia) <a
-                href="http://en.wikipedia.org/wiki/Constance_M._K._Applebee" >http://en.wikipedia.org/wiki/Constance_M._K._Applebee</a>;<br>
-            <em>Encyclopedia Britannica </em>(2006)<Br>
-            <a href="https://www.britannica.com/biography/Constance-M-K-Applebee" target="_self">https://www.britannica.com/biography/Constance-M-K-Applebee</a><br>
-            January 5, 1959 Sports Illustrated<br>
-            Photo source: wikipedia
-        `,
-        photos: ["images_bios/constance applebee.jpg"],
-        photoTitles: [],
-        dateCreated: "prior to 2009",
-        dateUpdated: "07.24.2025",
-
-        photoHeights: [],
-        editors:"Joan Sindall",
-        authors: "CWHP Volunteers",
-        categories: ["Sportswoman", "Teacher/Educator"],
-    },
     {
         organization: false,
         lastName: "Archer",

@@ -1,55 +1,5 @@
 p_bios = [
-    {
-        organization: false,
-        lastName: "Painter",
-        firstName: "Megan",
-        middleName: "Lynn",
-        familyName: "Gaffney",
-        
-        title: `Campus leader, Advocate for women's issues`,
-        birthDate: "ca.1979",
-        birthLocation: "",
-        deathDate: "",
-        deathLocation: "",
-        narrative: `
-            During her college years, Megan Gaffney was a psychology
-            major at Harvard (Class of 2002) who pursued an interest in women's issues.
-            For a Women's Studies class titled, &#8220;Women, Violence, and the Law,&#8221;
-            Gaffney conducted a study of violent music lyrics that advocated harm to women,
-            analyzing the verses of rap and heavy metal. At the end of the semester, her
-            professor, Diane Rosenfeld, suggested an independent study to prepare the work
-            for publication. <Br><Br>
-            She assisted Rosenfeld in researching the prosecution of a
-            case in which domestic violence led to the death of a pregnant woman. As co-director
-            of Peer Relations and Date Rape Education, sponsored by Harvard's University
-            Health Services, she dealt with recruiting and advertising for this student-run
-            group. Megan helped to foster a dialogue between the university and her fellow
-            students on the issues of sexuality, which opened the group to some criticism
-            for promoting too open a forum on this topic. <Br><Br>
-            
-            Megan interned in the business
-            department of <em>Harvard Magazine</em> as a work-study student. She also starred
-            in many Harvard theater productions while at college, most notably as the Acid
-            Queen in a student production of The Who's <em>Tommy</em>. She sang in
-            the <em>a capella</em> singing group &#8220;The Callbacks&#8221;, often counseling
-            apprehensive performers at auditions. <br><Br>After leaving Harvard, she took a job
-            as spokesperson for the US attorney's office in Manhattan, appearing regularly
-            in New York press reports.<br>
-            <br>As of 2025, Megan was working for the U.S. Attorney's Office for the Southern District of Ohio `,
-        otherNotes: "",
-        references: ` Personal interview by Sandra Pullman, 2003
-                <br>Megan Gaffney Painter's LinkedIn profile
-        `,
-        photos: [""],
-        photoTitles: [],
-        dateCreated: "00.00.2003",
-        dateUpdated: "04.12.2025",
 
-        photoHeights: [],
-        editors:"",
-        authors: "CWHP volunteers",
-        categories: ["Community Leader"],
-    },
     {
         organization: false,
         lastName: "Parsons",

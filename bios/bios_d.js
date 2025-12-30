@@ -147,51 +147,7 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
         authors: "CWHP volunteers",
         categories: ["Musician"],
     },
-    {
-        organization: false,
-        lastName: "D'Antuono",
-        firstName: "Eleanor",
-        middleName: "",
-        familyName: "",
-
-        title: `Dancer`,
-        birthDate: "00.00.1939",
-        birthLocation: "Cambridge, Massachusetts",
-        deathDate: "",
-        deathLocation: "",
-        narrative: `
-            Eleanor D'Antuono was born in Cambridge
-            and trained in ballet by the founders of the Boston Ballet. She joined the American
-            
-
-            Ballet Theater in 1961 and was a principal dancer from 1963, gaining wide recognition
-            for her roles in Giselle, Swan Lake, and Petrouchka. <br><br>Choreographers Alvin Ailey
-            and Lorenzo Monreal created original roles for her in their ballets. She was
-            the first American ballerina to be invited to perform as a special guest artist
-            with the Kirov Ballet of Leningrad (now St. Petersburg) in 1978 and 1979, where
-            she danced in Giselle and performed the role of Odille in Swan Lake, touring
-            other Soviet cities with them. She was also the first American ballerina to
-            appear with Chinese companies. <br><br>After retiring, she coached professional and
-            regional ballet companies nationwide, staged many classical ballets, and served
-            as the artistic director of a number of ballet companies, and most recently
-            served as artistic director of the New York International Ballet Competition.`,
-        otherNotes: "",
-        references: `
-            Phyllis J. Read and Bernard L. Witlieb <em>The
-                Book of Women's Firsts,</em> 1992.<br>
-            Carolyn Warner,<em>Treasury of Women's Quotations,</em> 1992<Br>New York
-            International Ballet Competition/retrieved on May 19, 2006
-        `,
-        photos: ["images_bios/dantuono.png"],
-        photoTitles: [],
-        dateCreated: "prior to 2009",
-        dateUpdated: "",
-
-        photoHeights: [],
-        editors: "",
-        authors: "CWHP volunteers",
-        categories: ["Dancer"],
-    },
+ 
     {
         organization: false,
         lastName: "D'Arbeloff",
