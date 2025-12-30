@@ -522,7 +522,7 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
         birthDate: "07.21.1907",
         birthLocation: "Cambridge, Massachusetts",
         deathDate: "09.04.2000",
-        deathLocation: "Roxbury, Massachusetts",
+        deathLocation: "Dorchester, Massachusetts",
         narrative: `
 
             Born in Cambridge, Corinne Woodson Alleyne was
@@ -551,7 +551,7 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
             Alleyne started to record stories when, as a nurse, she noticed elders sitting at home
              babysitting and said "Nobody talked to them. They needed listeners." So in her retirement
               she recorded their stories with a tape recorder, and later video cameras. In putting 
-              together her displays, she says they <block>"...stir nostalgic feelings and surprise the public 
+              together her displays, she says they <blockquote>"...stir nostalgic feelings and surprise the public 
               with what we have found."</blockquote>
 
             She was still heavily involved in committees and committed to 

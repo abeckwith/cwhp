@@ -1129,11 +1129,24 @@ c_bios = [
             Jane Curtin was born in Cambridge and attended
             a Catholic school there. She then went to New York City where she studied at
             Elizabeth Seton Junior College in New York City, obtaining an associate degree.
-            She returned to Boston to study drama at Northeastern University, but left in
+            Her parents, Mary Constance (Farrell) and John Joseph Curtin maintained an insurance company in Cambridge at 689 Concord Ave for many years.
+            
+            Jane Curtin returned to Boston to study drama at Northeastern University, but left in
             1968 when she landed a $40 a week acting job with &#8220;The Proposition,&#8221;
             a topical, politically-oriented comedy show in Cambridge that included a number
-            of other talented comedians. She married Patrick Lynch in 1975 and has one daughter.<br>
-            <br><br>In the fall of 1975, she had an opportunity to
+            of other talented comedians. <Br><Br>
+            
+            In a 2019 interivew, Curtin recalled an event in her life in Inman Square in Cambridge:
+            <blockquote>
+            "My senior year of high school, I went and did summer stock and met a woman, Amy, who said, 
+            'I'm auditioning for an improv group. Will you come with me?' I had no idea what improv was. 
+            And I said, 'Sure!' So we went, and it was this little converted bakery in Inman Square, in 
+            Cambridge, and that was the theatre for the Proposition. It had maybe a hundred seats, and 
+            it was right next door to the flagship Legal Sea Foods, so they would give us chowder, 
+            because we were all broke. Amy auditioned, and, at the end, there was nobody else there, 
+            and they said, 'Does anybody else want to audition?' I thought, I'm going to give it a
+             shot. And I got the job."</blockquote>
+            She married Patrick Lynch in 1975 and has one daughter. In the fall of 1975, she had an opportunity to
             become a charter member of the Not Ready For Prime Time Players on NBC's &#8220;Saturday
             Night Live.&#8221; Curtin remained on the show for five seasons, creating a
             number of memorable characters, including Prymaat Conehead. She became widely
@@ -1171,16 +1184,21 @@ c_bios = [
             <em>Cambridge Chronicle</em>. Sept 6, 2000<br>
             hollywood.com<Br>
             <br>Image source: <a href="https://en.wikipedia.org/wiki/Jane_Curtin" target="_self">https://en.wikipedia.org/wiki/Jane_Curtin</a>
-        `,
+            <br><i>New Yorker</i>, "Jane Curtin Is Playing It Straight,
+            The veteran actress on the Republican Party, the turbulence of “S.N.L.,” and the state of women in comedy."
+            By Michael Schulman,
+            February 17, 2019: <A href="https://www.newyorker.com/culture/the-new-yorker-interview/jane-curtin-is-playing-it-straight">link</a>
+        
+            `,
         photos: [
             "images_bios/Jane_Curtin_at_the_41st_Emmy_Awards_cropped_and_altered.jpg",
         ],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "",
+        dateUpdated: "12.30.2025",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Actress"],
     },

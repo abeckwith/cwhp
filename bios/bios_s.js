@@ -208,6 +208,50 @@ s_bios = [
         authors: "CWHP volunteers",
         categories: ["Artist", "Author"],
     },
+      {
+        organization: false,
+        lastName: "Spence",
+        firstName: "Helen",
+        middleName: "",
+        familyName: "Federer",
+
+        title: `Astronomer`,
+        birthDate: "09.28.1911",
+        birthLocation: "New York, New York",
+        deathDate: "04.11.1983",
+        deathLocation: "Cambridge, Massachusetts",
+        narrative: `
+           Helen Federer lived in Cambridge for more than four decades. <Br><br>She worked with the Harvard College Observatory for 21 years and co-founded the magazine
+           <i>Sky & Telescope</i>
+           
+             <br><br>More information about Helen's life and work are outlined in the <b>Women Astronomical Computers at the Harvard College Observatory</b> project:
+            <center>
+             <h1>
+                <a href="https://platestacks.cfa.harvard.edu/women-at-hco/helen-spence-federer" target="_self">Helen Federer's story</a>
+             </h1>
+      </center>
+        The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_self">Women Astronomical Computers at the Harvard College Observatory</a> project is 
+        dedicated to highlighting the lives and work of women who spent time studying and caring 
+        for the observatory's glass plate photograph collection.<Br>
+        <center>       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_self"> <img src="images_bios/harvard-astronomers.png" width='350'></a>
+        
+        </center>
+`,
+        otherNotes: "",
+        references: ` 
+          
+        
+             `,
+        photos: [""],
+        photoTitles: [],
+        dateCreated: "11.15.2025",
+        dateUpdated: "",
+
+        photoHeights: [],
+        editors: "",
+        authors: "",
+        categories: ["Astronomer"],
+    },
     {
         organization: false,
         lastName: "Shea",

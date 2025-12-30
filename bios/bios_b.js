@@ -86,7 +86,7 @@ b_bios = [
         birthDate: "01.08.1867",
         birthLocation: "Boston, Massachusetts",
         deathDate: "01.09.1961",
-        deathLocation: "Cambridge, UK",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
 
             Born in Boston, the daughter of Francis V. and
@@ -100,7 +100,21 @@ b_bios = [
             to the U.S. to take courses at Harvard and the University of Chicago and spent
             a year studying economics in Berlin from 1895 to 1896. In 1896, she began to
             teach economics and sociology at Wellesley College and was named professor in
-            1913. She also was a member of state and municipal commissions studying immigration
+            1913. <br><Br>
+            
+            The February 10, 1900 Cambridge Chronicle highlighted her talk on "The Economics of Consumption."
+            In 1913, the Cambridge Political Equality Association hosted a talk by Balch on "Brief 
+            Jottings on Suffrage", where she told them:
+            <blockquote>
+            "The fact that woman does not count politically for a vote has a subtle and deep-reaching 
+            effect on her economic status. The working woman and the poor woman need the vote for moral 
+            as well as political reasons...The anti-suffragists admit equal suffrage is coming. It is 
+            manifest destiny and is but the external evidence of a thing that is gradually accomplishing itself."
+            </blockquote>
+
+            
+            
+            She also was a member of state and municipal commissions studying immigration
             and education. Active in the women's suffrage movement, she also worked
             for racial justice and for improvement in labor conditions. She became interested
             in the situation of Slavic &#8211;Americans and traveled throughout the Austro-Hungarian
@@ -130,8 +144,11 @@ b_bios = [
             frail health, she contributed the prize money awarded to her to WILPF, continuing
             to work with the organization in an honorary capacity. As late as 1949, she
             served as chair of a committee that honored the centenary of the sociologist
-            Jane Addams, who had been awarded the Nobel Peace Prize in 1931. Balch spent
-            her last years in a Cambridge nursing home where she died at the age of ninety-four.
+            Jane Addams, who had been awarded the Nobel Peace Prize in 1931. 
+            <Br>
+            <Br>In 1957, on her 90th birthday, Balch was living at 8 Dana Street in Cambridge and was honored by the Cambridge Branch 
+            of the Women's International League for Peace and Freedom.
+            
 
             `,
         otherNotes: "",
@@ -143,7 +160,8 @@ b_bios = [
             Mercedes M. Randall, <em>Improper Bostonian: Emily Greene Balch, Nobel Peace
                 Laureate</em>, 1946, (Twayne Publishers, 1964).<br>
                 Image source: <A href="https://en.wikipedia.org/wiki/Emily_Greene_Balch">
-                https://en.wikipedia.org/wiki/Emily_Greene_Balch</a>
+                https://en.wikipedia.org/wiki/Emily_Greene_Balch</a><Br>
+                <i>The Cambridge Chronicle</i>, Feb. 10, 1900, May 10 1913, Jan. 3 1957
 
         `,
         photos: ["images_bios/EmilyGreeneBalch.jpg"],
@@ -151,9 +169,9 @@ b_bios = [
         photoHeights: [],
 
         dateCreated: "prior to 2009",
-        dateUpdated: "",
+        dateUpdated: "12.30.2025",
 
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist", "Economist", "Editor"],
     },
