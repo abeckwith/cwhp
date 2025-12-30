@@ -526,31 +526,59 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
         narrative: `
 
             Born in Cambridge, Corinne Woodson Alleyne was
-            educated in Boston and Philadelphia. She was licensed as a nurse in 1930, but
+            educated in Boston and Philadelphia. 
+            She knew she wanted to be a nurse from an early age, and one of her teachers helped her apply for the 
+            right courses to achieve her dream: "If it wasn't for that teacher...I wonder...", she said in 1990.
+            
+            She was licensed 
+            as a nurse in 1930, but
             was denied work for 12 years because she was an African American. She was finally
             hired during WWII, when there was a shortage of nurses. 
-            <Br><Br>Corinne worked for several
+            <Br><Br>
+            
+            Corinne worked for several
             Boston hospitals and then as a private nurse, later becoming a Boston public
             health nursing supervisor. She lived during her retirement years in Roxbury,
-            where she recorded many oral histories of senior citizens and did videography. She was featured
+            where she recorded many oral histories of senior citizens and did videography. 
+            <Br><Br>
+            She belonged to the Riverside Friendly Neighbors group in Cambridge and was a co-founder 
+            (with Kathleen Walcott, Marie Davis, and E. Denise Simmons) of the Cambridge-based
+             Ethnic Foundation, Inc., formed to
+            collects stories and stage exhibits centered on Black history (she and her co-founders were recognized in 1989
+            by the State Legislature for their work). She was also a booard member of the Cambridge
+            Multicultural Arts Center.<Br><Br>
+
+            Alleyne started to record stories when, as a nurse, she noticed elders sitting at home
+             babysitting and said "Nobody talked to them. They needed listeners." So in her retirement
+              she recorded their stories with a tape recorder, and later video cameras. In putting 
+              together her displays, she says they <block>"...stir nostalgic feelings and surprise the public 
+              with what we have found."</blockquote>
+
+            She was still heavily involved in committees and committed to 
+            telling the stories of ordinary people through video well into her 80s.
+
+
+            She was featured
             on a PBS program produced by the Smithsonian for her achievements as a senior
-            citizen/parent and was honored by Mayor Menino in 1998. She was 93 when she
+            citizen and parent and was honored by Boston's Mayor Menino in 1998. She was 93 when she
             died.
 
             `,
         otherNotes: "",
-        references: `<em>Boston Globe</em>, Sept. 9, 2009; PBS reference
+        references: `<em>Boston Globe</em>, Sept. 9, 2009
+        <Br>PBS reference
             unknown<br>Image source: <em>Boston Globe</em>, Sept. 9, 2009<br>
-            Massachusetts, Death Index, 1970-2003
+            Massachusetts, Death Index, 1970-2003<Br>
+            <i>The Cambridge Chronicle</i>,  24 July 1986, 2 October 1986, 27 September 1990:
 
         `,
-        photos: ["images_bios/corinne woodson alleyne.png"],
-        photoTitles: [],
+        photos: ["images_bios/corinne2.png", "images_bios/corinne woodson alleyne.png"],
+        photoTitles: ["\"Corinne Alleyne, a video producer, oral historian and former nurse, works at a video editing machine at Continental Cablevision (photo by Cheryl A. Miller)\" Camb. Chronicle, 9/27/1990", ""],
         dateCreated: "prior to 2010",
-        dateUpdated: "",
+        dateUpdated: "12.30.2025",
 
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Nurse"],
     },
