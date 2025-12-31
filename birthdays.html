@@ -141,6 +141,20 @@
                 noQuote = "No QUOTE:\n";
                 noImage = "No IMAGE:\n";
                 nobirthDate = "No BIRTHDATE:\n";
+                womanCount = 0;
+                orgcount = 0;
+                all_bios.forEach((bioLetterList) => {
+                    //go through each name for this letter:
+                    bioLetterList.forEach((thename) => {
+                        if (thename.firstName == "")
+                            orgcount++;
+                        else womanCount++;
+                    });
+                });
+                topDisplay = "TOTAL in database: " + (orgcount + womanCount) + "<br>";
+                topDisplay += "# of Women: " + womanCount + "<Br>";
+                topDisplay += "# of Organizations: " + orgcount + "<br>";
+
                 all_bios.forEach((bioLetterList) => {
                     //go through each name for this letter:
                     bioLetterList.forEach((thename) => {
@@ -193,7 +207,10 @@
                         nameBuild += "<br>";
 
                         //also gather all names for master list
-                        allNames += nameBuild;
+                        if (thename.firstName == "") //must be org
+                            allNames += "<b>" + nameBuild + "</b>";
+                        else
+                            allNames += nameBuild;
                         hasFullDate = thename.birthDate.substring(0, 2) != "00" && thename.birthDate.indexOf("ca") == -1;
                         if (
                             thename.birthDate != "" &&
@@ -324,7 +341,8 @@
                 birthList.forEach(bio => {
                     birthDisplay += "<tr><td class='birthT'>&nbsp;&nbsp;" + bio.dateForSort + "&nbsp;&nbsp;</td><td>" + bio.tableLink + "</td></tr>";
                 });
-
+                
+                document.getElementById("summary-numbers").innerHTML = topDisplay;
                 document.getElementById("birthday-display").innerHTML = bDisplay + "<br>TOTAL:" + bDayCount;
                 document.getElementById("alive-display").innerHTML = aliveDisplay + "<Br>";
                 document.getElementById("all-display").innerHTML = allNames;
@@ -342,8 +360,9 @@
     <div class="abouts">
         <div id="opening-pictures" style="margin-top:50px;margin: 0px auto;margin-top:20px">Cambridge Women's Heritage
             Project</div>
-        <div id="end-HTML"></div>
-        <Br>ADDITIONAL DATA: <BR>
+            <div id="end-HTML"></div>
+            <span id="summary-numbers"></span>
+            <Br>ADDITIONAL DATA: <BR>
         <details>
             <summary>Known birthdays</summary>
             <div>
@@ -361,7 +380,7 @@
             </div>
         </details>
         <details>
-            <summary>List of all names</summary>
+            <summary>List of all names (organizations in <b>bold</b>)</summary>
             <div>
                 <!-- collapsible content  here -->
                 <span id='all-display'></span>
