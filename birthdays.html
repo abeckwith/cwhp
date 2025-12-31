@@ -136,11 +136,15 @@
                 bio_count = 0;
                 currentDate = new Date();
                 currentDate = currentDate.toLocaleDateString('en-US');
+
                 nophotocount = 0;
                 bDayCount = 0;
-                noQuote = "No QUOTE:\n";
-                noImage = "No IMAGE:\n";
-                nobirthDate = "No BIRTHDATE:\n";
+
+                //used in console:
+                noQuote = "<Br><b>Need QUOTE:</b><br>";
+                noImage = "<br><B>Need IMAGE:</b><Br>";
+                nobirthDate = "<Br><b>Need BIRTHDATE:</b><Br>";
+                
                 womanCount = 0;
                 orgcount = 0;
                 all_bios.forEach((bioLetterList) => {
@@ -161,13 +165,13 @@
 
                         if ((thename.birthDate.slice(3, 5) == "00" || thename.birthDate == "") && thename.firstName != "" &&
                             thename.birthDate.slice(-4) < 1930) {
-                            nobirthDate += thename.lastName + ", " + thename.firstName + ": " + thename.birthDate.slice(-4) + "\n";
+                            nobirthDate += thename.lastName + ", " + thename.firstName + "<Br>";
                         }
                         if (thename.narrative.indexOf("blockquote") == -1) {
-                            noQuote += thename.lastName + ", " + thename.firstName + ": " + thename.birthDate.slice(-4) + "\n";
+                            noQuote += thename.lastName + ", " + thename.firstName + "<Br>";
                         }
                         if (thename.photos[0] == "") {
-                            noImage += thename.lastName + ", " + thename.firstName + ": " + thename.birthDate.slice(-4) + "\n";
+                            noImage += thename.lastName + ", " + thename.firstName + "<Br>";
                         }
                         // if (thename.photos[0] == "") {
                         //     nophotocount++; console.log(nophotocount + ". " + thename.lastName + ", " + thename.firstName)
@@ -261,6 +265,7 @@
                 console.log(nobirthDate);
                 console.log(noImage);
                 console.log(noQuote);
+                document.getElementById("other-display").innerHTML = nobirthDate + noImage + noQuote;
                 //SORT ALGORITHM: first by year, then month, then day:
                 recentsSorted = recentObjects.sort((a, b) => {
                     if (parseInt(a.monthNum) > parseInt(b.monthNum)) return 1;
@@ -392,6 +397,14 @@
             <div>
                 <!-- collapsible content  here -->
                 <span id='birth-display'></span>
+
+            </div>
+        </details>
+               <details>
+            <summary>Other</summary>
+            <div>
+                <!-- collapsible content  here -->
+                <span id='other-display'></span>
 
             </div>
         </details>
