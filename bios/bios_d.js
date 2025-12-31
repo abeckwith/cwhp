@@ -518,7 +518,7 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
             When her husband became an assistant editor to the <em>Boston Olive Branch</em>,
             the journal published her first written piece. <br><br>In 1847, she published her first
             novel, <em>Edna Etheril, The Boston Seamstress</em>, which was a success. During
-            her lifetime, she published over eighty novels, writing under the pen names
+            her lifetime, she was prolific, publishing over eighty novels, writing under the pen names
             of N. I. Edson and Clara Vance. She also crusaded against alcohol in her book,
             
 
@@ -526,14 +526,14 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
             Society. Her novels, written in a lively style with colorful dialogue often
             depicted poor and struggling individuals overcoming temptations, concluding
             with the triumph of good over evil. With titles such as <em>Out of Prison</em>
-            (1864), <em>Carrie Hamilton</em> (1866), <em>Led to the Light</em> (1867.) <em>That
+            (1864), <em>Carrie Hamilton</em> (1866), <em>Led to the Light</em> (1867), <em>That
                 Wife of Mine</em> (1877) and <em>Cracker Joe</em> (1889) she endorsed conservative
             religious and social ideas, but did so with humor. Denison also contributed
             on a continuous basis to a number of popular periodicals, principally <em>Frank
                 Leslie's Monthly</em>, <em>Harper's Weekly</em>, the <em>People's
                 Home Journal</em>, and <em>Youth's Companion</em>. <br><br>During the last two
-            years of the Civil War, her husband was a hospital chaplain in Washington D
-            C and Mary served as a volunteer nurse. Soon after, the couple went to England
+            years of the Civil War, her husband was a hospital chaplain in Washington D.
+            C. and Mary served as a volunteer nurse. Soon after, the couple went to England
             where he wrote articles in defense of the Northern cause and later edited an
             American newspaper. In 1867 they returned to Washington where they lived for
             many years. <br><br>After his death in 1881, she remained at her home in Baltimore.

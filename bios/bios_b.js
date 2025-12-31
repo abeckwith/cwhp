@@ -449,29 +449,42 @@ b_bios = [
 
             life with her husband, Carl Barron (who served as the head of the Central Square
             Business Association) and was a partner with him of the Real estate and development
-            business, CARU Associates.<br><br> Barron received numerous honors including Women of
+            business, CARU Associates.
+            
+            <br><br>In the 1960s, Barron and her husband conducted tours through their
+            furniture store for CHLS students and offered prizes of U.S. Savings Bonds for students who wrote the best essays
+            about their experience.
+            
+            <br><Br>Barron received numerous honors including Women of
 
-            the Year- Cambridge YWCA, 1999, and (with her husband) the Joint Medal of Honor
+            the Year-Cambridge YWCA, 1999, and (with her husband) the Joint Medal of Honor
             Histradut Memorial Award, April 1987. She sat on the Board at Mt. Auburn Hospital.
+            <Br><br>
+            In June of 1995, the YWCA honored the couple:<blockquote>"In the historically restored main lobby of the Cambridge YMCA, the YMCA 
+            dedicated a portion of its Central Square facilities in the names of Carl F. and Ruth L. 
+            Barron...in a tribute to the Barrons' 'distinguished YMCA leadership and generous philanthropy'...Carl 
+            and Ruth Barron have been active in Cambridge civic affairs for the past 50 years."
+            </blockquote>
             She was a lifetime member of Hadassah, member of Beth El Temple Center, the
             Cambridge Chamber of Commerce, and the Rental Housing Association of Greater
             Boston Real Estate Board. She established four annual scholarships at Cambridge
-            Rindge and Latin School jointly with her husband and participated in the Barron
+            Rindge and Latin School jointly with her husband, including the Ruth Barron Hatian Scholarship and the
+            Ruth Barron Hispanic Scholarship, and participated in the Barron
             Family Fund of Judaica at Widener Library, Harvard University.<br><br> She was 85 when
             she died.
 
             `,
         otherNotes: "",
-        references: `<em>Cambridge Chronicle</em> 4-25-01<br>
-        Image source, <em>Boston Globe</em>  March 3, 2014
+        references: `<em>Cambridge Chronicle</em> 6-16-1966, 1-12-1967, 6-8-1995, 6-12-1997, 4-25-2001,<br>
+        Image source, <em>Boston Globe</em>  Apr 24, 2001, March 3, 2014
         `,
-        photos: ["images_bios/ruth barron copy.jpg"],
-        photoTitles: [],
+        photos: ["images_bios/barron3.png", "images_bios/barron2.png"],
+        photoTitles: ["", "The Cambridge Chronicle, 12 January 1967"],
         dateCreated: "prior to 2009",
-        dateUpdated: "",
+        dateUpdated: "12.30.2025",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Businesswoman", "Volunteer"],
     },
