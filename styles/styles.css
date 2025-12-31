@@ -382,6 +382,7 @@ a.letter-links:visited {
     margin-bottom: 10px;
     border-width: 0px;
     border-top: 7px;
+    line-height:1.2;
     border-color: rgb(234, 212, 112);
     /* transition: border-width 1.6s linear; */
     border-style: solid;
