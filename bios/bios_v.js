@@ -53,7 +53,7 @@ v_bios = [
         familyName: "",
         
         title: `Educator, actress, singer`,
-        birthDate: "",
+        birthDate: "c.1975",
         birthLocation: "Buenos Aires, Argentina",
         deathDate: "",
         deathLocation: "",
@@ -94,8 +94,8 @@ v_bios = [
         2004 Kennedy Center artist detail `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2009",dateUpdated:
- "04.12.2025",
+        dateCreated: "prior to 2009",
+        dateUpdated:"04.12.2025",
         
         photoHeights: [],
         editors:"",

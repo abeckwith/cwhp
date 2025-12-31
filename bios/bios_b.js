@@ -872,7 +872,7 @@ b_bios = [
         familyName: "",
 
         title: `Psychologist, educator`,
-        birthDate: "",
+        birthDate: "c.1953",
         birthLocation: "",
         deathDate: "",
         deathLocation: "",

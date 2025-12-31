@@ -896,7 +896,7 @@ July 9, 1999</i>
         familyName: "",
         
         title: `Founder and head of Ethiopian Adbar Women's Alliance.`,
-        birthDate: "",
+        birthDate: "c.1975",
         birthLocation: "Ethiopia",
         deathDate: "",
         deathLocation: "",
