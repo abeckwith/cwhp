@@ -134,6 +134,10 @@
                 birthSort = [];
                 allNames = "";
                 bio_count = 0;
+
+                noimgct = 0;
+                noqtct = 0;
+                nbdct = 0;
                 currentDate = new Date();
                 currentDate = currentDate.toLocaleDateString('en-US');
 
@@ -166,12 +170,15 @@
                         if ((thename.birthDate.slice(3, 5) == "00" || thename.birthDate == "") && thename.firstName != "" &&
                             thename.birthDate.slice(-4) < 1930) {
                             nobirthDate += thename.lastName + ", " + thename.firstName + "<Br>";
+                            nbdct++;
                         }
                         if (thename.narrative.indexOf("blockquote") == -1) {
                             noQuote += thename.lastName + ", " + thename.firstName + "<Br>";
+                                noqtct++;
                         }
                         if (thename.photos[0] == "") {
                             noImage += thename.lastName + ", " + thename.firstName + "<Br>";
+                                noimgct++;
                         }
                         // if (thename.photos[0] == "") {
                         //     nophotocount++; console.log(nophotocount + ". " + thename.lastName + ", " + thename.firstName)
@@ -265,7 +272,8 @@
                 console.log(nobirthDate);
                 console.log(noImage);
                 console.log(noQuote);
-                document.getElementById("other-display").innerHTML = nobirthDate + noImage + noQuote;
+                disp = nobirthDate + "(" + nbdct + ")<Br>"  + noImage  + "(" + noimgct + ")<Br>"+ noQuote + "(" + noqtct + ")<Br>";
+                document.getElementById("other-display").innerHTML = disp;
                 //SORT ALGORITHM: first by year, then month, then day:
                 recentsSorted = recentObjects.sort((a, b) => {
                     if (parseInt(a.monthNum) > parseInt(b.monthNum)) return 1;
