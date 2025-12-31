@@ -387,6 +387,17 @@ a.letter-links:visited {
     border-style: solid;
     /* width:50%; */
 }
+#born {
+    font-size: 2.0vw;
+    margin-bottom: 10px;
+    border-width: 0px;
+    border-top: 7px;
+    margin-left:10px;
+    /* border-color: rgb(234, 212, 112); */
+    /* transition: border-width 1.6s linear; */
+    /* border-style: solid; */
+    /* width:50%; */
+}
 .selected-ltr {
     color: green;
     border: 2px solid blue;

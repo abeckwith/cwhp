@@ -538,10 +538,10 @@ m_bios = [
         She has also taught creative writing in Boston University's MFA program and was the senior distinguished 
         writer-in-residence at Emerson College.  In addition, she was chair of the writing committee at the Fine Arts Work Center in Provincetown.<br><br>
 
-        Mazur sees Cambridge as having been essential to the direction her life took: "I always say I could start 
+        Mazur sees Cambridge as having been essential to the direction her life took:<blockquote> "I always say I could start 
         an autobiography with '...and then I moved to Cambridge.'  I was just so liking what I was doing. I met lots 
         of poets. And something about that store [Grolier] - it was sort of like a club that you could join by simply
-        going in.  I could sit and listen to people talk, or sometimes I might say something, or laugh."  <br><br>
+        going in.  I could sit and listen to people talk, or sometimes I might say something, or laugh."  </blockquote>
 
         The creative arts runs in Mazur's family: Gail's son Dan Mazur, a resident of Cambridge, is a graphic novelist 
         and her daughter, Kath&#235; Mazur, is an actress living in Los Angeles.

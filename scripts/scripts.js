@@ -356,9 +356,17 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
     html += "<div class='name-heading'><strong>";
     if (person.firstName !== "") html += person.firstName + " ";
     if (person.middleName !== "") html += person.middleName + " ";
-    if (person.familyName !== "") html += "(" + person.familyName + ") ";
+    // if (person.familyName !== "") html += "(" + person.familyName + ") ";
     if (person.lastName !== " ") html += person.lastName + " ";
-    // if (person.familyName !== "") html += "(n&eacute;e " + person.familyName + ") ";
+    if (person.familyName !== "")
+        html +=
+            "<Br><span id='born'>(born " +
+            person.firstName +
+            " " +
+            person.middleName +
+            " " +
+            person.familyName +
+            ")</span> ";
     if (person.firstName != "")
         document.title =
             "CWHP: " + person.lastName + ", " + person.firstName + "";

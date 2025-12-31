@@ -53,7 +53,7 @@ v_bios = [
         familyName: "",
         
         title: `Educator, actress, singer`,
-        birthDate: "c.1975",
+        birthDate: "00.00.1963",//april 11, 1963
         birthLocation: "Buenos Aires, Argentina",
         deathDate: "",
         deathLocation: "",
@@ -74,31 +74,49 @@ v_bios = [
             Flavia Viggiani has taught in the combined 5-6 grade
             of the Amigos program at the Kennedy School in Cambridge in a two-way full immersion
             Spanish/English classroom. She shares her class of twenty students with an English-speaking
-            teaching partner. Involved in theater and music herself, she arranged an African
+            teaching partner. <BR><BR>
+              She has also made her name as an actress and singer.
+            In December 2000, she sang at the Millenium stage of the Kennedy Center for
+            the Performing Arts in Washington as part of the Latin-American group &#8220;Sonabo,&#8221;
+            performing innovative arrangements of traditional Latin American songs.
+            <br><Br>Viggiani commented on the Amigos program in 2001:
+            <blockquote>
+            "It really creates better people. It's anti-biased, anti-racist, anti-homophobic. We are about building a new society."
+            </blockquote>
+            
+            Involved in theater and music herself, she arranged an African
             dance production for sixth graders. When her teacher friends in Argentina told
             her about an impoverished, isolated school in the Andes mountains of northern
             Argentina operating without government support, she involved students throughout
             the Kennedy school in &#8220;Operacion Larcas,&#8221; collecting funds, school
             supplies, and winter clothing for the school. <br><br>
-             She has also made her name as an actress and singer.
-            In December 2000, she sang at the Millenium stage of the Kennedy Center for
-            the Performing Arts in Washington as part of the Latin-American group &#8220;Sonabo,&#8221;
-            performing innovative arrangements of traditional Latin American songs. An actress,
+           
+           
+            
+            An actress,
             she has performed with TheatreZone in Federico Lorca's play, &#8220;The
             House of Bernardo Alba&#8221; during the second &#8220;Lorca in the Park&#8221;
             festival in 2004, and in Jeff Goode's play &#8220;Anger Box&#8221; in Chelsea
-            in 2003.`,
+            in 2003.
+            In a review of "Anger Box," which Viggiani co-starred in and was staged in Chelsea, Massachusetts, the reviewer stated:
+            <blockquote>
+            "It would be difficult not to play favories among these misfits and outright lunatics. Flavia Steiner is wonderfully tightly wound as a pot-stirring housewife with some curious notions about the mysteries of God's will (and what constitutes a proper dinner)."
+            </blockquote>
+
+`,
         otherNotes: "",
         references: `
         2004 learner.og profile<br>
-        2004 Kennedy Center artist detail `,
+        2004 Kennedy Center artist detail 
+        <br> <i>The Boston Globe</i>, Apr 01, 2001, p.238<Br>
+        Birthdate from U.S., Public Records Index, 1950-1993, Volume 1`,
         photos: [""],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated:"04.12.2025",
+        dateUpdated:"12.31.2025",
         
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Actress", "Teacher/Educator", "Musician"],
     },
