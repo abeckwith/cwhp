@@ -162,7 +162,7 @@ j_bios = [
         organization: false,
         lastName: "Johnson",
         firstName: "Grace",
-        middleName: "A.",
+        middleName: "Allen",
         familyName: "Fitch",
         
         title: `Social activist, suffragist, political leader`,
@@ -182,8 +182,16 @@ j_bios = [
             became interested in woman suffrage and served as president of the Cambridge
                 Political Equality Association. In 1912, she was one of three Massachusetts
             women delegates to the Progressive Party national convention. In 1912 to 1914,
-            she was president of the Cambridge Public Schools Association and, after working
-            with the Massachusetts Woman Suffrage Association, became a member of the national
+            she was president of the Cambridge Public Schools Association.<Br><Br>
+            
+
+            In a 1915 letter to the Cambridge Tribune, after a defeat of a ballot question on suffrage, Johnson wrote:
+
+            <blockquote>"Working together has developed a fine, permanent, and wholesome comradeship between men and women of all conditions and creeds.<Br>
+            "Though woman suffrage is delayed in Massachusetts, it is surely coming. Justice demands it. The spirit of the century claims the help of women in the government as well as in the home. Those women who are awake to the capacity of their patriotic duty do not wish to shirk, but are read to co-operate as soon as the ballot is placed in their hands."
+            </blockquote>
+            After working
+            with the Massachusetts Woman Suffrage Association, Johnson became a member of the national
             council of the National American Woman Suffrage Association and by 1917, she
             was chairwoman of the Massachusetts branch. In 1919-1920, with Mary P. Sleeper,
             she edited <em>A Citizen's Guide</em> for the Boston Equal Suffrage Association
@@ -209,6 +217,8 @@ j_bios = [
         
             Cambridge City Directory, 1896
             <Br>Image credit: History Cambridge
+            <i>The Cambridge Tribune</i>, Volume XXXVIII, Number 36, 6 November 1915
+
         `,
         photos: ["images_bios/grace_johnson.png"],
         photoTitles: [],

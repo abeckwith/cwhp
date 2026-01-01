@@ -232,7 +232,7 @@
                             year = parseInt(thename.birthDate.substring(6));
                             dayNum = parseInt(thename.birthDate.substring(3, 5));
                             monthNum = parseInt(thename.birthDate.substring(0, 2));
-                            yrs = parseInt(currentDate.substring(6, 10)) - year;
+                            yrs = parseInt(currentDate.slice(-4)) - year;
                             lName = stripName(thename.lastName);
                             fName = stripName(thename.firstName);
                             mName = stripName(thename.middleName);
@@ -269,9 +269,9 @@
 
                     });
                 });
-                console.log(nobirthDate);
-                console.log(noImage);
-                console.log(noQuote);
+                // console.log(nobirthDate);
+                // console.log(noImage);
+                // console.log(noQuote);
                 disp = nobirthDate + "(" + nbdct + ")<Br>"  + noImage  + "(" + noimgct + ")<Br>"+ noQuote + "(" + noqtct + ")<Br>";
                 document.getElementById("other-display").innerHTML = disp;
                 //SORT ALGORITHM: first by year, then month, then day:
