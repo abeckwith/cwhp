@@ -934,26 +934,39 @@ h_bios = [
             time on supported her work. The couple joined in philanthropic projects for
             museums and in the preservation of wildlife, funding more than fourteen museums
             and setting up an outdoor sculpture museum for American sculpture at Brookgreen
-            Gardens, South Carolina. <br><br>In 1940, she and her husband moved to an estate, Stenerigg,
+            Gardens, South Carolina. <br><br>
+            In 1940, she and her husband moved to an estate, Stenerigg,
             in Redding Ridge Connecticut where she continued set up a large studio. There
             both husband and wife practiced organic farming and founded a bird sanctuary.
             After the death of her husband in 1955, she began a large number animal studies
             as well as monumental equestrian statues, the last completed when she was ninety.
-            She died at the age of ninety seven at her estate, which is now the Collis P
-            Huntington State Park. `,
+            She died at the age of ninety seven at her estate, which is now the Collis P.
+            Huntington State Park. <br><br>
+           <i> Art News</i> ran a 2014 article on the Columbia University's Wallach Art Gallery's exhhhibit “Goddess, 
+            Heroine, Beast: Anna Hyatt Huntington's New York Sculpture, 1902-1936,” which helped to reintroduce 
+            her art to the public:
+            <blockquote>
+            "During her lifetime, the artist made a name for herself depicting fierce creatures, strong leaders, 
+            and legendary heroines. Nearly a century later, this exhibition identifies Huntington as a powerful 
+            figure in her own right. 'She succeeded in every way against every odd,' says [Barnard professor 
+            Anne] Higgonet. 'And that's a lesson for women and a lesson for anyone who thinks they can't become an artist.'"
+            </blockquote>
+
+`,
         otherNotes: "",
         references: `<em>Notable American Women, Modern Period</em>;
             <em>Encyclopedia Britannica</em>, <em>Wikipedia</em><Br>
             Image source: <a href="https://en.wikipedia.org/wiki/Anna_Hyatt_Huntington" target="_self">https://en.wikipedia.org/wiki/Anna_Hyatt_Huntington</a>
-        <Br>Cambridge City Directory, 1876
+        <Br>Cambridge City Directory, 1876<br>
+        <a href="https://www.artnews.com/art-news/news/celebrating-anna-hyatt-huntington-2371/>Art News article, 2014</a>
             `,
         photos: ["images_bios/Anna_Vaughn_Hyatt.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "04.05.2025",
+        dateUpdated: "01.01.2026",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Artist"],
     },

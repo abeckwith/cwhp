@@ -931,7 +931,20 @@ b_bios = [
             1954, she met and married Justin Kaplan. The couple moved to Cambridge in 1959
             where she wrote the first of her novels while raising her family.<br><br> Among the
             best known of her novels are <em>Growing up Rich</em> (1975) and <em>Professor
-                Romeo</em> (1989). In recent years she has joined her husband (noted for his
+                Romeo</em> (1989). 
+                
+                In a 1968 talk to Radcliffe Phi Beta Kappa, Bernays reflected on life and work and writing:
+            <blockquote>
+            "in order to pursue your work you must be willing to let other things go, things generally
+            associated with 'wife' and 'mother'...You cannot have it both ways. YOu cannot be all things 
+            to all people. If you can create in one area with enough skill, passion, and compassion to 
+            satisfy yourself, then you must be satisfied with partial success in other places...<Br><BR>
+            "A woman writer does not want to let on that she is capable of the kind of emotional excess 
+            that good strong fictional characters generally exhibit."
+            </blockquote>
+
+
+                In recent years she has joined her husband (noted for his
             biographies of Mark Twain, Lincoln Steffens, and Walt Whitman ) in writing two
             books, one on the manner in which names have changed, <em>The Language of Names</em>
             (1997) and another, a double memoir, <em>Back Then: Two Lives in 1950s New York
@@ -949,10 +962,12 @@ b_bios = [
             Anne Bernays
             &#8220;Remembering Mrs McIntosh &#8220; <em>Chronicle of Higher Education</em>,
             Feb 9, 2002<Br>&#8220;Meet the Writers: Anne Bernays&#8221; (includes interview)
-            Barnes and Noble website
+            Barnes and Noble website<Br>
+            <i>The Cambridge Chronicle</i>, 2 May 1968
+
         `,
-        photos: ["images_bios/ann bernays.webp"],
-        photoTitles: [],
+        photos: ["images_bios/bernays2.png", "images_bios/ann bernays.webp"],
+        photoTitles: ["Bernays in 1968"],
         dateCreated: "prior to 2009",
         dateUpdated: "",
 
@@ -1168,7 +1183,18 @@ b_bios = [
             1920s. In 1930, she published a biography of her mother entitled: <em>Lucy Stone,
                 Pioneer in Women's Rights. </em><br><br>Although she spent much of her life in
             Dorchester, she moved to 1010 Massachusetts Avenue in Cambridge in 
-            1936, where she lived until her death fourteen years later.
+            1936, where she lived until her death fourteen years later.<Br><Br>
+            In a 1935 Cambridge Chronicle, was introduced this way:
+            <blockquote>
+            "Miss Alice Stone Blackwell, the most distinguished woman in this state, was the guest
+             of the Cambridge League of Women Voters Tuesday afternoon at the home of Mrs. Charles 
+             Peabody, 197 Brattle Street.<Br><br>
+            "'Pioneer Women I Have Known' was the subject upon which Miss Blackwell spoke. More 
+            than any living woman, she herself symbolizes the terrific struggle which women have 
+            undergone for two generations in order to wrest a respected status...."
+            </blockquote>
+
+
 
             `,
         otherNotes: "",
@@ -1180,7 +1206,9 @@ b_bios = [
             
             of Woman's Journal, of which she was editor, between 1905 and 1917. <br>
             George Grantham Bain Collection, Library of Congress.
-            <Br>Cambridge City Directory, 1944
+            <Br>Cambridge City Directory, 1944<br>
+                        <i>The Cambridge Chronicle</i>, 6 June 1935
+
 
         `,
         photos: ["images_bios/Alice Stone Blackwell LOC small.jpeg"],

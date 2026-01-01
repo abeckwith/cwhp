@@ -751,7 +751,18 @@ l_bios = [
         In 1994, she graduated from the Gerontology Program at UMass/Boston in Dorchester and later created "S.L.U.T." (Senior 
         Lesbian Urban Transport), a system where she would help out her elder friends and neighbors by driving them for important 
         appointments and errands. 
-         <br><Br>
+        Leno was part of several women's empowerment and self-defense programs.  
+        In 1997, Leno had helped with the LEAP project (Lifetime Empowerment and 
+        Awareness program) and described the works as:
+        <blockquote> "Usually self-defense courses focus on what is going on in a woman's 
+        environment.  But here girls are taught how to feel comfortable defending themselves. 
+        This program bridge the gap between the external and internal."
+        </blockquote>
+
+        She was also involved (in 2001) in organizing a mother-daughter self-defense class, funded by the Cambridge Police Department.
+        <br><Br>
+
+
 
         In 2008, Mary received the Cambridge Peace and Justice Award for her efforts, which included advocating for housing for 
         low income Cambridge residents.  In addition to her work in local cable TV, she was a photographer and "chronicler of 
@@ -771,14 +782,15 @@ l_bios = [
         https://www.legacy.com/us/obituaries/legacyremembers/mary-leno-obituary?id=59453208</a><br><br>
 
         <i>Boston Globe</i>, September 10, 2000, April 26, 2018, November 16, 2008
+        <i>The Cambridge Chronicle</i>, Volume 151, Number 19, 8 May 1997
         `,
         photos: ["images_bios/leno_mary.jpeg"],
         photoTitles: [],
         dateCreated: "12.03.2025",
-        dateUpdated: "",
+        dateUpdated: "01.01.2026",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "Anthony Beckwith",
         categories: ["Activist", "Photographer"],
     },

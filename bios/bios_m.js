@@ -806,7 +806,14 @@ m_bios = [
             <em>Maud's Journey: A Life From Art</em>. <br><br>She died four years later in
             Cambridge. Plans have been made to create an art museum and gallery in her honor
             in the carriage house behind the Agassiz Community Center at 20 Sacramento Street,
-            Cambridge. `,
+            Cambridge.<Br><br>
+            In a 2017 review of a deCordova Scuplture Park and Museum show, Cate McQuaid says of Morgan:
+            <blockquote>
+            "Morgan's first piece in the show, the large, yellow, pixelated 'Gold Coast II,' dates to 
+            the early 1970s and demonstrates her incisive color sense. Slight variations in tone make 
+            greens and yellows recede or pop; space opens up in woozy brightness. Imagine coming to
+             from a faint on a humid summer day."
+             </blockquote>. `,
         otherNotes: "",
         references: `
             Cambridge Chronicle, 14 May 1964 & 27 May, 1999<br>
@@ -817,7 +824,9 @@ m_bios = [
                 Journey: A Life From Art</em>.( Berkeley, New Earth Publications) 1995. <br>
            
         <Br>Image source: <a href="https://en.wikipedia.org/wiki/Maud_Morgan" target="_self">https://en.wikipedia.org/wiki/Maud_Morgan</a>
-                `,
+        <i>The Boston Globe</i> "Nevertheless, they persisted: standout New England women painters",
+by Cate McQuaid,, April 12, 2017    
+        `,
         photos: ["images_bios/MaudCabot.png"],
         photoTitles: [],
         dateCreated: "prior to 2009",
