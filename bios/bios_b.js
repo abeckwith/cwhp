@@ -1260,7 +1260,21 @@ b_bios = [
             HIV programs. He died in 1992. She set up the first case management program
             in the country to work with incarcerated women with AIDS at the Massachusetts
             State Prison for Women at Framingham and then helped to found a home for formerly
-            homeless women with HIV/AIDS in 1990 at Rush House. For more than five years,
+            homeless women with HIV/AIDS in 1990 at Rush House.
+            <br><Br>
+            Bodecker's caring and compassion come through in a 1989 article about the Women and AIDS Project:
+             <blockquote>
+            "The prison sends most women out with no after-care plans," says Bodecker, and the project 
+            is working to change that. Bodecker worked closely with Maria Lopez during her last eight
+             months in prison, and as the date of her parole approached, she collaborated on postrelease
+              plans with a caseworker from Lopez's hometown, arranging for a weekly visiting nurse and 
+              scoping out AIDS and drug support groups in the area."
+            </blockquote>
+         
+
+
+            
+            For more than five years,
             she was a social worker in the AIDS Clinic at Cambridge Hospital.
             To understand the world wide impact of the disease, she traveled to AIDS clinics
             in Nepal and India and then to South Africa.<br><br>
@@ -1276,7 +1290,8 @@ b_bios = [
         otherNotes: "",
         references: ` <em>Boston Globe </em>September 3, 2007, obituary<br>
             Cambridge Chronicle obituary, August 23, 2007<Br>
-            The Cambridge Chronicle, Volume 149, Number 16, 20 April 1995
+            The Cambridge Chronicle, Volume 149, Number 16, 20 April 1995<br>
+               <i>The Boston Globe</i>, Oct 08, 1989, Page 443
 
         `,
         photos: ["images_bios/bodecker.png"],

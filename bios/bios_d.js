@@ -735,7 +735,18 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
             describing the appalling conditions. Altogether, Dix inspired the establishment
             of 32 state hospitals and 120 private and county hospitals. She expanded her
             survey to the prisons and published a book <em>Remarks on Prisons and Prison
-                Discipline in the United States</em> (1845). <br><br>During the Civil War, she was named
+                Discipline in the United States</em> (1845). 
+                <br><br>
+                Dix was mentioned in an 1860 Dowse Institute lecture on "Modern Infidelity"
+                <blockquote>
+                "Men like Martin Luther, and John Howard, women like Dorothea Dix, who 
+                every where fight against the sins that eat out the heart of the world, who care 
+                for the orphan, the abandoned, the wretched, and they fallen -- they are religious, 
+                they are Christians."
+                </blockquote>
+                
+                
+                During the Civil War, she was named
             superintendent of army nurses and caused controversy when she excluded those
             attached to religious orders or anyone under thirty. After the war, she continued
             to visit hospitals, expanding her surveys to the South. <br><br>She died in New Jersey,
@@ -749,6 +760,7 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
     
             Photo of Dorothea Lynde Dix from https://en.wikipedia.org/wiki/Dorothea_Dix#/media/File:Dorothea_Dix_1802%E2%80%931887.jpg
         
+        <br><i>The Cambridge Chronicle</i>, Volume XV, Number 5, 4 February 1860
 
       
         `,

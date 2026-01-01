@@ -618,6 +618,15 @@ c_bios = [
             starred in further programs, &#8220;Julia and Company&#8221; and &#8220;Dinner
             at Julia's.&#8221; A series of cookbooks also came out of this, along with her
             popular public television series. <br><br>
+
+            In 1976, the Boston YWCA honored five Cambridge women who contributed to "improving and expanding 
+            opportunities for all women," including Julia Child, because of her 
+            <blockquote>
+            "...pilot program on French cooking for the deaf and hard of hearing [and for] elevating the 
+            traditional art of cooking into an unprecedented national pastime with style, humor, and grace."
+            </blockquote>
+
+
             
             In the 1990s, she hosted four more series with
             arious celebrity chefs. 
@@ -637,6 +646,14 @@ c_bios = [
             Medal of Freedom in 2003 and honorary degrees from Harvard and Smith. She moved
             to a Santa Barbara California retirement home in 2001, gifting her Cambridge
             home to Smith College and her kitchen to the Smithsonian. <br><br>
+
+            For an 2001 NPR interview, as she was preparing to move to California, in which she said she never expected to grow attached to her adopted city, she said:
+            <blockquote> 
+            "Cambridge, which is such a nice place, I thought it was going to be very stuffy and as they say, cold, 
+            Boston, but I didn't realize that it's such a  nice warm place to be in. And then what's nice about 
+            Cambridge is  most people are <i>doing something</i>, so that you meet interesting people...leaving Cambridge 
+            is a bittersweet experience."
+            </blockquote>
             
             The papers of Julia
             Child (1920-1993) are in the Schlesinger Library at Radcliffe. `,
@@ -649,7 +666,12 @@ c_bios = [
             https://commons.wikimedia.org/wiki/File:Julia_Child_restore.jpg</a><Br>
             History Cambridge <a href="https://historycambridge.org/articles/julia-childs-kitchen/" target="_self">article</a><br>
             <i>America's Master Chef Looks at the Highlights, Culinary and Otherwise, of the City and its Neighbor, Cambridge</i> by Barbara
-            Beckwith, USAir Magazine, March, 1996
+            Beckwith, USAir Magazine, March, 1996<br>
+            <i>            The Cambridge Chronicle</i>, 11 March 1976<br>
+                                    "Goodbye, Julia Child"
+            Nov.9, 2001, <i>All Things Considered</i>, NRP: 
+            <a href="https://www.npr.org/2001/11/09/1133015/goodbye-julia-child">https://www.npr.org/2001/11/09/1133015/goodbye-julia-child</a>
+
         `,
         photos: ["images_bios/Julia_Child_restore.jpg"],
         photoTitles: [],

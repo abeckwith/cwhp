@@ -317,7 +317,9 @@ h_bios = [
             Scholarship. `,
         otherNotes: "",
         references: ` <em>The Witness</em> magazine Monday, July 15,
-            2002, <em>Cambridge Chronicle</em> June 5 2002. Biographical note, Archive of
+            2002<Br>
+             <em>Cambridge Chronicle</em> June 5 2002. 
+             <Br>Biographical note, Archive of
             Women in Theological Scholarship by Leslie Reyman: (October 2000) <a
                 href="http://www.columbia.edu/cu/lweb/img/assets/6396/Hiatt_SFA51305PDF.pdf">http://www.columbia.edu/cu/lweb/img/assets/6396/Hiatt_SFA51305PDF.pdf</a>
        <br>Image sources: Collection info, The Burke Library at Union Theological Seminary, Columbia University in the City of New York
@@ -331,7 +333,7 @@ h_bios = [
         dateCreated: "prior to 2009",
         dateUpdated: "04.08.2025",
 
-        photoHeights: [200, 300],
+        photoHeights: [250, 150],
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Clergy", "Teacher/Educator"],
