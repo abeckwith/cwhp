@@ -656,7 +656,7 @@ b_bios = [
         deathDate: "01.03.1923",
         deathLocation: "Washington, DC",
         narrative: `
-            Mabel Hubbard was raised in Cambridge on Brattle
+            Mabel Hubbard was raised in Cambridge, at 148 Brattle
             Street. Her father, Gardiner Greene Hubbard who had a Boston law practice, helped
             establish a city water works in Cambridge, was a founder of the Cambridge Gas
             Co., and later organized a Cambridge to Boston trolley system. <br><br>Between ages
@@ -698,6 +698,7 @@ b_bios = [
             Ann J. Bishundayal, <em>Mabel Hubbard Bell</em> Protea Publishing Company, 2002.<br>
             Waite, Helen <em>Make a Joyful Sound Romance of Mabel Hubbard and Alexander
                 Graham Bell</em>, Philadelphia: Mcrae Smith 1961.<br>Image source: wikimedia commons
+                <br>Address from 1873 Hopkins Map, Cambridge Historical Commission
         `,
         photos: ["images_bios/Mabel_Hubbard_Bell.jpg"],
         photoTitles: [],
@@ -1270,9 +1271,7 @@ b_bios = [
               plans with a caseworker from Lopez's hometown, arranging for a weekly visiting nurse and 
               scoping out AIDS and drug support groups in the area."
             </blockquote>
-         
-
-
+        
             
             For more than five years,
             she was a social worker in the AIDS Clinic at Cambridge Hospital.
@@ -1389,15 +1388,18 @@ b_bios = [
             but chose to return to China in 1923. She remained there for the rest of her
             professional life as professor of biology at Yenching University, educating
             the next generation of Chinese scientists during difficult political times.
-            <br><br>She retired to Cambridge in 1950 and lived near the home of her brother, the
+            <br><br>She retired to 44 Martin Street in Cambridge in 1950, near the home of her brother, the
             noted Harvard psychologist and professor, Edwin Boring. During her last years,
             she became active in Cambridge civic affairs.
+
+
 
             `,
         otherNotes: "",
         references: ` Ogilvie, Marilyn. <em>A Dame full of Vim and Vigor.</em>
             1998; Ogilvie, Marilyn and Joy Harvey. <em>Biographical Dictionary of Women
-                Scientists</em>. Routledge Press, 2000.
+                Scientists</em>. Routledge Press, 2000.<br>
+                1954 Cambridge City Directory
         `,
         photos: [""],
         photoTitles: [],
@@ -2010,7 +2012,7 @@ b_bios = [
 
             Charlotte Hawkins Brown was born in North Carolina
             to Caroline Hawkins and Edmund H. Hight. Her extended family moved to Cambridge
-            in 1890 when she was seven, where she was raised and educated.
+            in 1890 when she was seven, where she was raised and educated (55 Essex Street).
 
             Charlotte attended public schools in Cambridge, including the Cambridge English High School. 
             She then attended Massachusetts State Normal School. <br><br>In 1902, after a year in North

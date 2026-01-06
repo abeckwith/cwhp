@@ -737,7 +737,8 @@ m_bios = [
             of Pediatrics. In 1941, she married Arthur Burkhard, a professor of German literature
             but continued to practice under her own name. She published many articles
             in pediatric journals. From 1955 to 1985, she sat on the board of directors of
-            the Cambridge Mental Health Association, retiring at the age of ninety. She died
+            the Cambridge Mental Health Association, retiring at the age of ninety. In 1965, she was living at 10 Farwell Place
+            in Cambridge. She died
             eleven years later, at 101.`,
         otherNotes: "",
         references: `Schlesinger Library: Papers of Dorothea May Moore<br>
@@ -746,7 +747,8 @@ m_bios = [
             2 February 1996, p. 25.
             <Br><i>The Cambridge Tribune</i>, Volume XXXVIII, Number 35, 30 October 1915
             <br>Photo from <a href="https://www.findagrave.com/memorial/148150327/dorothea_may_burkhard#view-photo=289204850">
-            https://www.findagrave.com/memorial/148150327/dorothea_may_burkhard#view-photo=289204850</a>
+            https://www.findagrave.com/memorial/148150327/dorothea_may_burkhard#view-photo=289204850</a><br>
+            1965 Cambridge City Directory
 
         `,
         photos: ["images_bios/moore.png"],
@@ -1039,7 +1041,7 @@ by Cate McQuaid,, April 12, 2017
 
             <Br><BR>
 
-            In 1986, Morales published Getting Home Alive with her daughter Aurora, a groundbreaking 
+            In 1986, when Morales was living at 107A Amory Street, she published Getting Home Alive with her daughter Aurora, a groundbreaking 
             collection of multi-genre writing about being Puerto Rican women in
 
             Puerto Rico and the United States. Excerpts have been widely anthologized and 
@@ -1083,7 +1085,8 @@ by Cate McQuaid,, April 12, 2017
         <em>Cambridge Chronicle</em> articles from 1982-1990<Br>
         <em>Boston Globe</em> March 4, 1982<Br>
        Smith College interview at <a href="https://www.smith.edu/libraries/libs/ssc/vof/transcripts/Morales.pdf" target="_self">https://www.smith.edu/libraries/libs/ssc/vof/transcripts/Morales.pdf</a><Br>
-       Images source: Aurora Morales 
+       Images source: Aurora Morales <Br>
+       1989 Cambridge Phone Book
         `,
         photos: [
             "images_bios/rosario Sari-&-Lori-1986.jpg",

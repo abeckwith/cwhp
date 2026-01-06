@@ -124,8 +124,8 @@ l_bios = [
             African Methodist Episcopal (AME) Church. They were the first couple to be married
             by Rev. C.B. Lawyer in that church's new location in what is now 85 Bishop
             Richard Allen Drive in Central Square, Cambridge. Both husband and wife were active
-            in the church, teaching in the Sunday school and serving on various church boards. In 1950, the family 
-            was living at 43 Magee Street.
+            in the church, teaching in the Sunday school and serving on various church boards. In 1930, the faimily 
+            was living at 31 Grigg Street, which is today Callendar Street, and in 1950, they were at 43 Magee Street.
             <br><br>
             One of her daughters, Audrey (Layne) Ince continued as a trustee and clerk
             of that church. The family was honored as the Family of the Year by St. Paul
@@ -138,7 +138,8 @@ l_bios = [
             Interview by Sandra Pullman, 2003.<Br>
             1950 U.S. Census<br>
             Correponsdence with Robert Layne<br>
-            Massachusetts, U.S., State and Federal Naturalization Records, 1798-1950 for Christol Louise Layne
+            Massachusetts, U.S., State and Federal Naturalization Records, 1798-1950 for Christol Louise Layne<Br>
+            1930 City Directory
 
         `,
         photos: [""],
@@ -166,7 +167,8 @@ l_bios = [
         narrative: `
             The daughter of a Congregational minister, George
             Leavitt and his wife, Henrietta (Kendrick), Henrietta Swan Leavitt was brought
-            up in Cambridge and attended public schools. She attended Oberlin College from
+            up in Cambridge at 9 Warland Street (today's Kelley Road) and attended the public schools. 
+            She attended Oberlin College from
             1885 to 1888. <br><br>In 1892, she finished her undergraduate work at Radcliffe College
             and began to work at the Harvard Observatory in 1895 under Professor Edward
             Pickering, who employed women with mathematical skills as &#8220;computers&#8221;.

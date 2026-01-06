@@ -381,13 +381,14 @@ https://archive.org/details/journeyinbrazil00agasiala/page/n11/mode/2up</a>)
             Commission on the Status of Women in the 1980s. <Br><Br>Following the death of her husband
             in 1984, she moved from Bronxville New York to Cambridge where she was an interviewer
             for the Harvard and Radcliffe admissions office for 12 years and endowed an
-            Elizabeth Cannon Aldrich Memorial Fund at Radcliffe. She was 81 when she died.
+            Elizabeth Cannon Aldrich Memorial Fund at Radcliffe. In 1989, she was living at
+             983 Memorial Drive. 
 
             `,
         otherNotes: "",
         references: ` <em>Boston Globe</em> 03-11-01, <em>NY Times</em>,
             (paid notice) 03-07-01<Br>U.S. Social Security Index<Br>
-            Cambridge City Directory, 1948
+            Cambridge City Directory, 1948, 1989
         `,
         photos: [""],
         photoTitles: [],
@@ -953,7 +954,7 @@ July 9, 1999</i>
 
             Josie Avakian grew up on Norfolk Street in Somerville. By the 1960s, she had moved to the
             Jefferson Park development near Fresh Pond in Cambridge. Her father
-            was a farmworker and her mother a dishwasher. She 
+            was a farmworker who also worked at Haymarket in Boston and her mother worked at a a restaurant. She 
             became a strong advocate for housing rights and a 
             supporter of working people in Cambridge. As a member of Jefferson Park Tenant Task Force,
             Josie served as the tenant advocate for residents of Jefferson Park
@@ -1020,7 +1021,7 @@ July 9, 1999</i>
                 28 Jun 2000<br>
                 U.S., Social Security Applications and Claims Index, 1936-2007
             <br>
-            Image courtesy of Josie's granddaughter Tania Zayas
+            Image courtesy of Josie's granddaughter Tania Zayas, as well as fact-checking<br>
 
         `,
         photos: ["images_bios/avakian.jpeg"],

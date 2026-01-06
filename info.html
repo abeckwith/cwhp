@@ -157,6 +157,7 @@
                         if (thename.firstName == "")
                             orgcount++;
                         else womanCount++;
+                        if(thename.authors.indexOf("CWHP volunteers")!=-1) console.log(thename.lastName + " " + thename.firstName)
                     });
                 });
                 topDisplay = "TOTAL in database: " + (orgcount + womanCount) + "<br>";

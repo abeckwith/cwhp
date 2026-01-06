@@ -302,10 +302,13 @@ h_bios = [
             in the first women's ordination in July 29 1974, though they did not then
             have the permission of their bishops or the church government at that time.
             After the Episcopal Church's General Convention in 1976, where ordination of
-            women was approved, she was then regularly ordained in 1977. <br><br>
+            women was approved, she was then regularly ordained in 1977. <br><br
+
+            
             Hiatt returned to Cambridge in 1975 and joined
             the Episcopal Divinity School where she eventually rose to full professor as
-            the John Seely Stone Professor of Pastoral Theology, Cambridge. In 1997, she
+            the John Seely Stone Professor of Pastoral Theology, Cambridge. 
+            In 1989, she was residing at 101 Brattle Street in Cambridge. In 1997, she
             was Acting Director of Congregational Studies. The Suzanne Hiatt Chair in Feminist
             Pastoral Theology was named after her. In 1993, she published with Emily C Hewitt,
             <em>Women Priests, Yes or No?</em> She contributed extensive book chapters and
@@ -323,7 +326,7 @@ h_bios = [
             Women in Theological Scholarship by Leslie Reyman: (October 2000) <a
                 href="http://www.columbia.edu/cu/lweb/img/assets/6396/Hiatt_SFA51305PDF.pdf">http://www.columbia.edu/cu/lweb/img/assets/6396/Hiatt_SFA51305PDF.pdf</a>
        <br>Image sources: Collection info, The Burke Library at Union Theological Seminary, Columbia University in the City of New York
-       
+       <Br>1989 Cambridge Telephone book
                 `,
         photos: [
             "images_bios/suzanne_hiatt2.jpg",

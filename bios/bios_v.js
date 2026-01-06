@@ -3,7 +3,7 @@ v_bios = [
         organization: false,
         lastName: "Valenzuela",
         firstName: "Julia",
-        middleName: "Sylvia",
+        middleName: "Silvia",
         familyName: "",
         
         title: `Activist for the Latino community`,
@@ -26,9 +26,11 @@ v_bios = [
             elderly at the Cambridge Senior Center. Governor Michael Dukakis honored her
             for her devotion and extensive work on behalf of Latino children. <Br><Br>
             In 1985, at age 86, she did volunteer work for the Cambridge Red Cross for the Holiday Doll Program and said 
+            <blockquote>
             "You can see the special love and care put into every outfit.  It's wonderful to know that people still take some time
-             to make the holidays special for someone else."
-            On her death,
+             to make the holidays special for someone else."</blockquote>
+             
+            In 1992, she was living at 38 Plymouth Street in Cambridge. On her death,
             a resolution was passed in her honor by the Cambridge City Council.
             `,
         otherNotes: "",
