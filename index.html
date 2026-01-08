@@ -101,12 +101,16 @@
                 "8": "th",
                 "9": "th"
             }
+            nums = currentDate.split("/");
+            crMonth = nums[0];
+            crDay = nums[1];
+            crYear = nums[2];
             all_bios.forEach(bioLtr => {
                 bioLtr.forEach(bio => {
-
+                    
                     //does bio birth match today's date?
-                    if (bio.birthDate.substring(0, 2) == currentDate.substring(0, 2) &&
-                        bio.birthDate.substring(3, 5) == currentDate.substring(3, 5)) {
+                    if (parseInt(bio.birthDate.substring(0, 2)) == crMonth &&
+                        parseInt(bio.birthDate.substring(3, 5)) == crDay) {
 
                         //make link to bio:
                         link = "<a id='dailybday' href='bios.html?lNm=" +
@@ -118,7 +122,7 @@
                             // add +
                             "'>";
                         //get how old the person is:
-                        yrs = parseInt(currentDate.substring(6, 10)) - parseInt(bio.birthDate.substring(6, 10));
+                        yrs = crYear - parseInt(bio.birthDate.substring(6, 10));
                         //determine "th", "st" "rd":
                         suffix = "" + endings[yrs % 10];
                         //things like 112 don't end in "nd":
