@@ -212,8 +212,10 @@ w_bios = [
             including &#8220;Strike While the Iron is Hot: Wages for Housework,&#8221; &#8220;Disarm
             Rapists: Smash Sexism,&#8221; &#8220;For Shelter and Beyond.&#8221; Recently,
             Betsy developed a series of International Women's Rights Posters honoring
-            women activists from many continents. (http://www.youtube.com/watch?v=VN7qpEEw1Ow
-            ). She has also posted some of her watercolors on YouTube http://www.youtube.com/watch?v=IZIGGp6SBtQ.
+            women activists from many continents. (<A href="http://www.youtube.com/watch?v=VN7qpEEw1Ow">
+            http://www.youtube.com/watch?v=VN7qpEEw1Ow</a>).
+             She has also posted some of her watercolors <a href="http://www.youtube.com/watch?v=IZIGGp6SBtQ">
+             on YouTube</a>.
             Many of Betsy's books and articles are now out of print. In the future,
             she is hoping to post them on the web for ready access by feminists and others
             working to end male violence against women.</p>
@@ -613,10 +615,10 @@ Cambridge City Directory, 1926
             of her in her late thirties, painted
             by John Singleton Copley, is held in the Metropolitan Museum of New York.`,
         otherNotes: "",
-        references: ` Mercy Otis Warren letters, Mass Historical Society;
+        references: ` Mercy Otis Warren letters, Mass Historical Society<Br>
             Kate Davies., <em>Catharine Macaulay and Mercy Otis Warren: The Revolutionary
                 Atlantic and the Politics of Gender.</em> (New York: Oxford University Press,
-            2005); <br>
+            2005)<br>
             
                 Image source: <a href="https://commons.wikimedia.org/wiki/File:Mrs._John_Winthrop.jpg" target="_self">
                 https://commons.wikimedia.org/wiki/File:Mrs._John_Winthrop.jpg</a>
