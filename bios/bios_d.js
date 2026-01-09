@@ -205,7 +205,7 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
         Louise Agnes Nelson was born in Cambridge to Irish immigrants Neal and Julia Nelson. 
         Her father worked as an inspector in an auto plant.
 
-        Louise grew up in East Cambridge on Otis St.  At the age of 34, 
+        Louise grew up first at 131B Thorndike Street (1920), then in East Cambridge on 75 Otis Street (1928).  At the age of 34, 
         in the midst of World War II (August 5, 1943), she enlisted in the
         Women's Army Corps (WACS) and served in New Guinea and Manila. 
         She was on active duty until the end of the war.  <Br><br>
@@ -214,7 +214,17 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
         making their home on Inman St.  In 1950, Louise was appointed to the 
         Cambridge Police Department as the second female officer ever hired for such a
         position at the CPD.  As part of her work, she specialized in the difficult job 
-        of rape cases and served on the vice squad.  In the 1960s, she was one of three 
+        of rape cases and served on the vice squad.<Br><br> A 1953 article discusses the city's 9:30pm curfew,
+         which had been reinstated after several decades to deal with an increase in criminal activity
+          by youths. Darling, who was at the time a member of the Cambridge Crime Prevention Bureau, was quoted as saying:
+
+        <blockquote>
+        "My job is to keep the juvenile offenders from reaching the court level...only six teenagers have
+        been reported for violation of the 9:30 curfew during the four months it has been in effect. 
+        [Five of them] were given a warning about curfew observance and then sent home. The sixth, a 
+        more difficult case, was taken to court..."
+        </blockquote>
+ In the 1960s, Darling was one of three 
         officers that made the original arrest of the Boston Strangler, Albert DeSalvo. She was living at 
         78 Dana Street in Cambridge at the time.<Br><br>
 
@@ -233,24 +243,23 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
         otherNotes: "",
         references: ` 
 
-        <em>Cambridge Chronicle</em>, 30 March 1967. 3 May 1977, 18 October 1979<br>
-        <em>Boston Globe</em>, July 17 1995 <Br>
+        <em>Cambridge Chronicle</em>  17 December 1953, 30 March 1967, 3 May 1977, 18 October 1979<br>
+        <em>The Boston Globe</em>, July 17 1995 <Br>
         <a href="https://www.cambridgema.gov/Departments/cambridgepolice/aboutthedepartment/departmenthistory" target="_self">
         https://www.cambridgema.gov/Departments/cambridgepolice/aboutthedepartment/departmenthistory</a><Br>
         1930 U.S. Census<Br>
-        1954 <em>Cambridge City Directory</em><Br>
+        Cambridge City Directory 1954, 1961<Br>
         U.S. Dept. of Veteran Affairs <em>BIRLS Death File</em><Br>
         <Br>
-        Image source: Cambridge Police Department Facbeook page post: Mar. 7, 2019 <br>
-        Cambridge City Directory, 1961
+        Image source: Cambridge Police Department Facebook page post: Mar. 7, 2019 <br>
         `,
         photos: ["images_bios/louise_nelson.jpg"],
         photoTitles: [],
         dateCreated: "04.06.2025",
-        dateUpdated: "04.06.2025",
+        dateUpdated: "01.09.2026",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Law Enforcement", "Military"],
     },

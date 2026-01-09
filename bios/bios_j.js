@@ -63,8 +63,7 @@ j_bios = [
         photos: ["images_bios/harriet_jacobs.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated:
- "04.05.2025",
+        dateUpdated: "04.05.2025",
         
         photoHeights: [],
         editors:"",
@@ -96,9 +95,9 @@ j_bios = [
             at 5 Magazine Street; he occupied the pulpit there from 1818 to 1833. <br><Br>
             
             In 1835,
-            he became pastor of the new Second Baptist Church, but died tragically in May
+            her father became pastor of the new Second Baptist Church, but died tragically in May
             1836, aged 51, when he was thrown from a carriage. In 1837, Sarah Jacobs published
-            a memoir of her father. She also wrote many poems published in various sources,
+            a memoir about her father. She also wrote many poems published in various sources,
             as well as a number of books for young people, including Nonantum and Natick
             (Boston 1853), a history of the Indian tribes of New England and the missionary
             work of John Eliot among the Indians. 
@@ -146,8 +145,8 @@ j_bios = [
         `,
         photos: [""],
         photoTitles: [],
-        dateCreated: "prior to 2009",dateUpdated:
- "",
+        dateCreated: "prior to 2009",
+        dateUpdated: "",
         
         photoHeights: [],
         editors:"",
