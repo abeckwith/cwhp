@@ -55,6 +55,9 @@ function showBirthdays() {
         bioLetterList.forEach((thename) => {
             if (thename.firstName == "") orgcount++;
             else womanCount++;
+            if(thename.deathDate != "" && thename.birthDate != "")
+            console.log(parseInt(thename.deathDate.slice(-4)) - parseInt(thename.birthDate.slice(-4)))
+
             if (thename.authors.indexOf("CWHP volunteers") != -1)
                 console.log(thename.lastName + " " + thename.firstName);
         });

@@ -72,7 +72,28 @@
                     image: "images_bios/doffer.png",
                     sentence: "At the age of 15, \"Minnie\" worked in New Bedford as a <b>cotton mill doffer</b>, replacing bobbins or spindles from a spinning frame as they ran out"
 
-                }
+                },
+                {
+                    name: "Mary Bodecker",
+                    link: "https://cwhp.cambridgema.gov/bios.html?ln=Bodecker&mN=Anne&fN=Mary",
+                    image: "images_bios/bodecker_sm.png",
+                    sentence: "Set up the first case management program in the country to <b>work with incarcerated women with AIDS</b>"
+
+                },
+                {
+                    name: "Lorna Marshall",
+                    link: "https://cwhp.cambridgema.gov/bios.html?lNm=Marshall&mNm=Jean&fNm=Lorna",
+                    image: "images_bios/marshall_lorna.jpg",
+                    sentence: "Was an anthropologist, who published a book about the !Kung people and who <b>lived to 104 years old</"
+
+                },
+                {
+                    name: "",
+                    link: "",
+                    image: "",
+                    sentence: ""
+
+                },
 
 
 
@@ -83,15 +104,17 @@
             html = "";
             count = 0;
             cards.forEach(element => {
-                count++;
-                if (count % 2 == 0) mgn = "margin-left:20vw"
-                else mgn = "margin-right:20vw";
-                html += '<div class="w3-container"><div class="w3-card-4" style="width:50%;' + mgn + '"">' +
-                    '<header class="w3-container w3-light-grey"><h3><a href="' + element.link + '">' +
-                    element.name + '</a></h3></header><div class="w3-container"><img src="' +
-                    element.image + '" alt="Avatar"' +
-                    'class="w3-left w3-circle w3-margin-right" style="width:60px"><p>' +
-                    element.sentence + '</p><br></div></div></div><Br>';
+                if (element.name != "") {
+                    count++;
+                    if (count % 2 == 0) mgn = "margin-left:20vw"
+                    else mgn = "margin-right:20vw";
+                    html += '<div class="w3-container"><div class="w3-card-4" style="width:50%;' + mgn + '"">' +
+                        '<header class="w3-container w3-light-grey"><h3><a href="' + element.link + '">' +
+                        element.name + '</a></h3></header><div class="w3-container"><img src="' +
+                        element.image + '" alt="Avatar"' +
+                        'class="w3-left w3-circle w3-margin-right" style="width:60px"><p>' +
+                        element.sentence + '</p><br></div></div></div><Br>';
+                }
             });
             document.getElementById("cards").innerHTML = html;
         }
@@ -111,13 +134,9 @@
         <div class="abouts">
             <h1 class="nice_header headings">Fun Facts & Firsts</h1><br>
             <div id="cards"></div>
-
-            <div class="facts">
-
-                <a href="https://cwhp.cambridgema.gov/bios.html?ln=Bodecker&mN=Anne&fN=Mary">Mary Bodecker</a>
-                set up the first case management program in the country to <b>work with incarcerated women with AIDS</b>
-            </div>
             <hr>
+                        <h1><span>&#x1F6A7; Under construction<span> &#x1F6A7;</h1>
+
             <div class="facts">
 
                 The <a
@@ -185,7 +204,6 @@
 
 
 
-            <h1>More COMING SOON!</h1>
 
 
 
