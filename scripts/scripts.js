@@ -61,7 +61,7 @@ function startBio() {
  * @param {Integer} num number of recents to show
  */
 function showRecents(num) {
-    setMenu(4);
+    setMenu(5);
     var all_bios = getBios();
     const months = [
         "January",
@@ -1036,12 +1036,13 @@ function setMenu(whichOneGray) {
         '<a id="1" class="search-buttons" href="bios.html">Name Index</a>' +
         '<a id="2" class="search-buttons" href="topical.html">Subject Index</a>' +
         '<a id="3" class="top-links" href="search.html">Site Search &#x1F50E;</a>' +
-        '<a id="4" class="top-links" href="recents.html">Recently Added</a>' +
-        '<a id="5" class="top-links" href="resources.html">Resources</a>' +
-        '<a id="6" class="top-links" href="nominations.html">Nominations</a>' +
-        '<a id="7" class="top-links" href="about.html">About</a>' +
-        '<a id="8" class="top-links" href="map.html">MAP &#x1F4CD;</a>' +
-        '<a id="9" class="top-links" href="info.html">&#x24D8;</a>' +
+        '<a id="4" class="top-links" href="funfacts.html">Fun Facts</a>' +
+        '<a id="5" class="top-links" href="recents.html">Recently Added</a>' +
+        '<a id="6" class="top-links" href="resources.html">Resources</a>' +
+        '<a id="7" class="top-links" href="nominations.html">Nominations</a>' +
+        '<a id="8" class="top-links" href="map.html">Map &#x1F4CD;</a>' +
+        '<a id="9" class="top-links" href="about.html">About</a>' +
+        '<a id="10" class="top-links" href="info.html">&#x24D8;</a>' +
         '<a href="javascript:void(0);" class="icon" onclick="resizeMenu()">' +
         '<i class="fa fa-bars"> <span id="menu-text">MENU</span></i>' +
         "</a>";
@@ -1053,7 +1054,7 @@ function setMenu(whichOneGray) {
  * Make all bios arrays available and do counts
  */
 function setTotals(about) {
-    setMenu(7); 
+    setMenu(9); 
     alph = "abcdefghijklmnopqrstuvwxyz";
     var all_bios = getBios();
 
