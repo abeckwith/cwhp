@@ -23,9 +23,59 @@
     <!-- for hamburger menu icon: -->
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/5/w3.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+    h1, h2, h3{
+        font-family: Open Sans;
+    }
+
+
+</style>
+    <script>
+        function setCards() {
+            setMenu(4);
+
+            cards = [
+                {
+                    name: "Elizabeth Halsted",
+                    link: "https://cwhp.cambridgema.gov/bios.html?lNm=Halsted&mNm=&fNm=Isabella",
+                    image: "images_bios/Isabella Halsted small.jpeg",
+                    sentence: "Led the campaign to <B>close Memorial Drive</B> to automobile traffic on Sundays"
+                },
+      {
+                    name: "Barbara Ackermann",
+                    link: "https://cwhp.cambridgema.gov/bios.html?ln=Ackermann&mN=&fN=Barbara",
+                    image: "images_bios/Barbara Ackermann small.jpeg",
+                    sentence: "Was the first woman to serve as the <b>mayor of the City of Cambridge</b>"
+                }
+
+
+
+
+            ];
+
+
+
+
+
+            html = "";
+            count = 0;
+            cards.forEach(element => {
+                count++;
+                if(count % 2 == 0) mgn = "margin-left:20vw" 
+                else mgn = "margin-right:20vw";
+                html += '<div class="w3-container"><div class="w3-card-4" style="width:50%;' +mgn + '"">' +
+                    '<header class="w3-container w3-light-grey"><h3><a href="' + element.link + '">' +
+                    element.name + '</a></h3></header><div class="w3-container"><img src="' +
+                    element.image + '" alt="Avatar"' +
+                    'class="w3-left w3-circle w3-margin-right" style="width:60px"><p>' +
+                    element.sentence + '</p><br></div></div></div><Br>';
+            });
+            document.getElementById("cards").innerHTML = html;
+        }
+    </script>
 </head>
 
-<body onload="setMenu(4)">
+<body onload="setCards()">
     <div class="topnav" id="myTopnav">
     </div>
 
@@ -36,48 +86,16 @@
 
         <Br><br>
         <div class="abouts">
+            
+            
+            <h1 class="nice_header headings">Fun Facts & Firsts</h1><br>
+            <div id="cards"></div>
 
-
-
-            <h1 class="nice_header headings">Fun Facts & Firsts</h1>
-
-            <div class="facts">
+            <!-- <div class="facts">
                 <h1>Did you know...</h1>
-            </div>
+            </div> -->
 
-            <div class="w3-container">
-                <div class="w3-card-4" style="width:50%">
-                    <header class="w3-container w3-light-grey">
-                        <h3><a href="https://cwhp.cambridgema.gov/bios.html?lNm=Halsted&mNm=&fNm=Isabella">Elizabeth
-                                Halsted</a></h3>
-                    </header>
-                    <div class="w3-container">
-                        <img src="images_bios/Isabella Halsted small.jpeg" alt="Avatar"
-                            class="w3-left w3-circle w3-margin-right" style="width:60px">
-                        <p>Led
-                            the campaign
-                            to <B>close Memorial Drive</B> to automobile traffic on Sundays</p><br>
-                    </div>
-
-                </div>
-            </div>
-            <hr>
-            <h1>Cambridge Women Firsts:</h1>
-
-            <div class="w3-container">
-                <div class="w3-card-4" style="width:50%">
-                    <header class="w3-container w3-light-grey">
-                        <h3><a href="https://cwhp.cambridgema.gov/bios.html?ln=Ackermann&mN=&fN=Barbara">
-                                Barbara Ackermann</a></h3>
-                    </header>
-                    <div class="w3-container">
-                        <img src="images_bios/Barbara Ackermann small.jpeg" alt="Avatar"
-                            class="w3-left w3-circle w3-margin-right" style="width:60px">
-                        <p>The first woman to serve as the mayor of the City of Cambridge</p><br>
-                    </div>
-
-                </div>
-            </div>
+            
             <br>
 
             <div class="w3-container">
@@ -89,7 +107,7 @@
                     <div class="w3-container">
                         <img src="images_bios/mary louise baldwin.jpeg" alt="Avatar"
                             class="w3-left w3-circle w3-margin-right" style="width:60px">
-                        <p>The
+                        <p>Was the
                             first Black
                             woman to be appointed as a <b>principal at a public school</b> in Massachusetts<br>
                     </div>
@@ -107,8 +125,9 @@
                     <div class="w3-container">
                         <img src="images_bios/Elizabeth_Bishop,_1934_yearbook_portrait.jpg" alt="Avatar"
                             class="w3-left w3-circle w3-margin-right" style="width:60px">
-                        <p> In 1976, became the first American and the first woman to be awarded the <b>Books Abroad/Neustadt
-                    International Prize for Literature</b>
+                        <p> In 1976, became the first American and the first woman to be awarded the <b>Books
+                                Abroad/Neustadt
+                                International Prize for Literature</b>
                     </div>
 
                 </div>
