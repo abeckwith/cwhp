@@ -162,7 +162,7 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
             In 1992, Sybill d'Arbeloff was the first
-            women to be elected chairman of the board of a Harvard Teaching Hospital and served
+            woman to be elected chairman of the board of a Harvard Teaching Hospital and served
             as the director of development of Mount Auburn Hospital. A trustee of the hospital
             since 1986, she continually demonstrated her commitment to the hospital and
             community service. She lived at 46 Foster Street in Cambridge in 1961.

@@ -452,8 +452,8 @@ g_bios = [
             to construct both elderly and family housing complexes over the next ten years.
             She has continued to the present to challenge the creation of Harvard buildings
             in areas of the Riverside neighborhood of Cambridge. <br><Br>
-            In 1971, she was elected to the Cambridge City
-            Council, the first woman of color to be elected. From 1972 to the 1980s, she
+            In 1971, she became the first woman of color to be elected to the Cambridge City
+            Council. From 1972 to the 1980s, she
             served as Chairwoman of its Housing and Land Use Committee. From 1976 to 1977,
             Graham served as Vice-Mayor of Cambridge. As City Councilor and later State
             Representative, she played a key role in obtaining federal housing dollars for
