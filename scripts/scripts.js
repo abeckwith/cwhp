@@ -1039,10 +1039,9 @@ function setMenu(whichOneGray) {
         '<a id="4" class="top-links" href="recents.html">Recently Added</a>' +
         '<a id="5" class="top-links" href="resources.html">Resources</a>' +
         '<a id="6" class="top-links" href="nominations.html">Nominations</a>' +
-        '<a id="7" class="top-links" href="internship.html">Get Involved</a>' +
-        '<a id="8" class="top-links" href="about.html">About</a>' +
-        '<a id="9" class="top-links" href="map.html">MAP &#x1F4CD;</a>' +
-        '<a id="10" class="top-links" href="info.html">&#x24D8;</a>' +
+        '<a id="7" class="top-links" href="about.html">About</a>' +
+        '<a id="8" class="top-links" href="map.html">MAP &#x1F4CD;</a>' +
+        '<a id="9" class="top-links" href="info.html">&#x24D8;</a>' +
         '<a href="javascript:void(0);" class="icon" onclick="resizeMenu()">' +
         '<i class="fa fa-bars"> <span id="menu-text">MENU</span></i>' +
         "</a>";
@@ -1054,7 +1053,7 @@ function setMenu(whichOneGray) {
  * Make all bios arrays available and do counts
  */
 function setTotals(about) {
-    setMenu(8); 
+    setMenu(7); 
     alph = "abcdefghijklmnopqrstuvwxyz";
     var all_bios = getBios();
 
