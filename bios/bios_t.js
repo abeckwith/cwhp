@@ -52,10 +52,11 @@ t_bios = [
             at the age of eighty-seven.`,
         otherNotes: "",
         references: ` Marilyn Ogilvie and Joy Harvey, <em>Biographical
-                Dictionary of Women Scientists</em>. Routledge, 2000; Phyllis J. Read and Bernard
+                Dictionary of Women Scientists</em>. Routledge, 2000
+                <Br> Phyllis J. Read and Bernard
             L. Witlieb,<em> The Book of Women's Firsts</em>, New York: Random House,
             1992<br>
-            Cambridge City Directory, 1900
+            1900 Cambridge City Directory 
        <Br> Image source: <a href="https://en.wikipedia.org/wiki/Helen_B._Taussig" target="_self">https://en.wikipedia.org/wiki/Helen_B._Taussig </a>   
        <br><a href="https://www.heart.org/en/news/2024/03/28/dr-helen-taussigs-work-saved-blue-babies">
        https://www.heart.org/en/news/2024/03/28/dr-helen-taussigs-work-saved-blue-babies</a>    `,

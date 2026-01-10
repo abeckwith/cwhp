@@ -616,7 +616,7 @@ h_bios = [
         middleName: "Lilley",
         familyName: "",
 
-        title: `Architect; fellow, American Institute of Architects`,
+        title: `Architect, fellow in the American Institute of Architects`,
         birthDate: "09.25.1864",
         birthLocation: "Cambridge, Massachusetts",
         deathDate: "09.13.1964",
@@ -626,7 +626,7 @@ h_bios = [
             Lilley Howe was born on September 25, 1864 in Cambridge, Massachusetts. She
             was the eldest of four children of Dr. Estes and Lois Lilly (White) Howe. The
             family originally lived at 1 Oxford Street in Cambridge where they owned an
-            acre of land and a few farm animals. Howe attended Miss Olmsted's and
+            acre of land and a few farm animals. <br><Br>Howe attended Miss Olmsted's and
             then Miss Page's elementary schools from 1868 &#8211; 1877 and graduated
             from the Cambridge public high school in 1882. From a young age, Howe showed
             an interest in architecture. The workers building the Sanders Theatre at Harvard
