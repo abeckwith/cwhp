@@ -1263,9 +1263,7 @@ function init(topical, search) {
             // "</center>" +
             '<div style="margin-bottom:50px"> </div>';
     else html = "";
-    html +=
-        '<div style="margin-bottom:50px"></div>' +
-        '<p style="text-align:right"id="footnote">Cambridge Women\'s Heritage Project<br>Last updated December 2025</p>';
+ 
 
     document.getElementById("end-HTML").innerHTML = html;
 }
