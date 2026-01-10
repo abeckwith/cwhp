@@ -229,6 +229,9 @@ td > a {
     font-size: 18px;
     font-style: italic;
 }
+.left, .right{
+    border-radius:6px;
+}
 /* table{
     font-size:89%; 
 } */
