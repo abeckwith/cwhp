@@ -196,7 +196,7 @@ b_bios = [
             from Cambridge High School in 1874. She graduated from Cambridge Teachers'
             Training School the following year.<br><br> When she was unable to find a position in
             the Boston area, Baldwin began a teaching career in Charlestown, Maryland. In 1882,
-            pressure from the Cambridge African-American community resulted in the hiring
+            pressure from the Cambridge African American community resulted in the hiring
 
             of Baldwin as a primary school teacher at Agassiz Grammar School at 28 Sacramento
             Street. Seven years later, she was appointed principal of that school, the first
@@ -1120,7 +1120,7 @@ b_bios = [
             The Black Women&rsquo;s Oral History Project, like the Oral History Center, highlighted the importance of
             communicating across identities and documenting everyday people. The Black Women&rsquo;s Oral History
             Project
-            included interviews with 72 African-American women from Cambridge.<br><br> The project was supported by the
+            included interviews with 72 African American women from Cambridge.<br><br> The project was supported by the
             Schlesinger
             Library and aimed to record the stories of women who had wide ranging impact in early 20th century America.
             Some
@@ -2277,7 +2277,7 @@ Thu, Sep 30, 1999, page 77
             School and Cambridge High and Latin School. She was a homemaker and also worked
             for many years at the <a href="bios.html?lNm=WindowShop&mNm=&fNm=">Window Shop</a> in
              Harvard Square, a consignment shop created by a group of women who wished to help refugees fleeing Europees and 
-             one of the few businesses in Cambridge to hire African-Americans leaving the South. She also served with the Cambridge Election
+             one of the few businesses in Cambridge to hire African Americans leaving the South. She also served with the Cambridge Election
             Commission. <br><br>She was an active member on the board of directors at the Cambridge
             Community Center on Callendar Street, from 1985 to 1993. In 1993 she was named honorary member and
             continued her service to the center and community by supporting their activities
@@ -2409,7 +2409,7 @@ Thu, Sep 30, 1999, page 77
 
         Gladys Marion Canada's father was Ambrose Canada, who was born 1882 in Tennessee.  Her mother was
          Ellen Louise Harvey (born in Virginia).  Gladys' grandfather Anthony Canada was born in 1851 in Virginia and being an
-        African-American, this likely means he was born into slavery.  <Br><Br>
+        African American, this likely means he was born into slavery.  <Br><Br>
 
         By the early 1900s, Gladys' grandfather Anthony had moved to Cambridge and the
         family lived on Harvey St. in North Cambridge.  They later moved to North Woburn,
@@ -2420,7 +2420,7 @@ Thu, Sep 30, 1999, page 77
         moved into a house on Hubbard Avenue in North Cambridge. Gladys was a dedicated mother 
         to her two sons Paul and James and a devoted member of the Union Baptist Church (UBC) in Central
         Square for over 50 years, where she served on many committees.  
-        UBC was founded in 1877 by African-Americans in Cambridge and Gladys was a 
+        UBC was founded in 1877 by African Americans in Cambridge and Gladys was a 
         member of UBC when Martin Luther King, Jr. preached there in April of 1955.
             
 

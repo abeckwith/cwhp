@@ -27,7 +27,7 @@ l_bios = [
             that spurred her to combine social psychology with environmental studies. She
             received a certificate in community psychiatry in 1965 and taught related courses
             at Harvard University's Graduate School of Education and Graduate School of
-            Design between 1965 and 1977.<br><br>
+            Design between 1965 and 1977 (she and her family had moved to Cambridge by the mid-1970s).<br><br>
             Her gifts as an administrator were recognized,
             and she began to serve as a dean at the MIT School of Architecture. She moved
             to Wellesley College in 1979 as Dean of Students, remaining there until 1984,
@@ -38,7 +38,7 @@ l_bios = [
             the director of the Bunting Institute at Radcliffe College, a post she held
             until 1997. <br><br>
             Surrounded by creative women, Ladd was inspired
-            to write her first novel, Sarah's Psalm, which was published in 1996. This received
+            to write her first novel, <i>Sarah's Psalm</i>, which was published in 1996. This received
             the Best Fiction Award from the Black Caucus of the American Library Association
             the following year. Ladd has served as trustee of the National Council for Research
             on Women, Bentley College, Hampshire College and Boston's Institute of Contemporary
@@ -49,9 +49,10 @@ l_bios = [
         otherNotes: "",
         references: `
             Wilma Slaight, &#8220;Florence Ladd&#8221; <em>Wellesley 125th anniversary</em>,
-            August 28, 2000.<br>
+            August 28, 2000<br>
             <a href="http://www.wellesley.edu/Anniversary/ladd.html" target="_self">http://www.wellesley.edu/Anniversary/ladd.html</a><br>
             Florence Cawthorne Ladd, personal communication.<br>
+            <i>Cambridge Chronicle</i> 11 September 1975
         `,
         photos: ["images_bios/Florence%20Ladd%20small.jpeg"],
         photoTitles: [],

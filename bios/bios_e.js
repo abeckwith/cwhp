@@ -78,7 +78,7 @@ e_bios = [
         middleName: "Olivia",
         familyName: "Bradshaw",
         
-        title: `African-American activist, city employee, volunteer`,
+        title: `African American activist, city employee, volunteer`,
         birthDate: "06.11.1921",
         birthLocation: "",
         deathDate: "08.12.2011",

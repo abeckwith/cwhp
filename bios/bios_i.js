@@ -14,11 +14,12 @@ i_bios = [
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Adeline M. Ireson was the daughter of Mary and
-            Samuel Ireson. The family lived on Ash. Street in Cambridge. At the age of sixteen, she passed an examination to attend the
-            first state funded teacher training school in the nation, the Normal School
-            of Lexington, as a member of its first class of 1839, graduating with twenty-five
+            Samuel Ireson. The family lived on Ash Street in Cambridge. 
+            At the age of sixteen, she passed an examination to attend the
+            first state-funded teacher training school in the nation, the Normal School
+            of Lexington. She was a member of its first class of 1839, graduating with twenty-five
             other young women in 1840. Their principal and teacher was a Unitarian minister,
-            Rev. Cyrus Peirce who was supported by his wife, Harriet Peirce.
+            Rev. Cyrus Peirce, who was supported by his wife, Harriet Peirce.
             
             <br><Br>A model school
             for children was set up in Lexington and the young teachers took turns teaching
@@ -26,7 +27,7 @@ i_bios = [
             (then actively working for the initiation of teacher training schools and public
             school education in Massachusetts) and Samuel Gridley Howe who also attended
             their graduation ceremony. (Another member of this class was Hannah Damon of
-            West Cambridge (now Arlington) the daughter of a Unitarian minister. She served
+            West Cambridge—now Arlington—the daughter of a Unitarian minister.) Ireson served
             as class secretary, often wrote poetry and lyrics for the alumnae celebrations.
             She taught for a while in Worcester and Boston and died in 1901).
             
@@ -45,10 +46,12 @@ i_bios = [
             years of teaching in the Washington Grammar School in Cambridge at a large meeting
             held at Sanders Theater July 1, 1892. Among the tributes was a letter from the
             governor of the Commonwealth, William Russell, who had been one of her pupils
-            as was his son, and another letter was sent from Alice Freeman Palmer. Ireson
+            as was his son, and another letter was sent from Alice Freeman Palmer. 
+            <Br><Br>Ireson
             was also awarded a yearly sum of $129, subscribed to by one hundred of her neighbors
             and former pupils including the mayor of the city and the Harvard University
-            president. She was still alive (although ill and bedridden) in 1902 (she lived at 29 Everett Street at the time). An appendix
+            president. She was still alive (although ill and bedridden) in 1902 
+            (she lived at 29 Everett Street at the time). An appendix
             to a history of the first class of the Lexington Normal School recounts the
             ceremony on her retirement. In celebration of its 150th anniversary, The Framingham
             State College, an outgrowth of Lexington Normal, posted a reproduction of a

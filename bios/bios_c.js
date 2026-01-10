@@ -13,7 +13,7 @@ c_bios = [
         deathLocation: "",
         narrative: `
 
-            In 1878, Pauline Agassiz Shaw (Mrs. Quincy Shaw),
+            In 1878, Pauline Agassiz Shaw,
             influenced by Elizabeth Peabody's
             kindergarten movement, realized that working mothers needed a safe space for
             their children during working hours. She rented and then bought a building at
@@ -45,9 +45,10 @@ c_bios = [
             relocated to the Margaret Fuller House at 71 Cherry Street.
             `,
         otherNotes: "",
-        references: ` George Wright Collection at the Cambridge Historical
-            Society. 37th
-            Annual Report of Cambridge Social Union.<Br><em>4word</em>, October 2001<Br>
+        references: `<i>George Wright Collection</i> at the Cambridge Historical
+            Society<Br>37th
+            Annual Report of Cambridge Social Union
+            <Br><em>4word</em>, October 2001<Br>
             <i>Cambridge Chronicle</i>, 28 January 1971
         `,
         photos: ["images_bios/neighborhood house on moore.jpg"],
@@ -78,7 +79,7 @@ c_bios = [
             
             in 1896 &quot;to extend study and discussion with a view to securing political
             equality for American citizens.&quot; Although the main focus was suffrage for
-            women, CPEA also studied and supported African-American suffrage and proportional
+            women, CPEA also studied and supported African American suffrage and proportional
             representation. Its leading officer and president was Grace
                 A. (Fitch) Johnson, who served as its president until 1916.<br><br>
             Although it began by sponsoring meetings and lectures,

@@ -44,7 +44,7 @@ o_bios = [
             1990)</blockquote>Beginning in the 1970s in Cambridge, oral histories became a community organizing tool. The Oral
             History Center and the Black Women&rsquo;s Oral History Project highlighted the importance of communicating
             across identities and documenting everyday people. The Black Women&rsquo;s Oral History Project included
-            interviews with 72 African-American women from
+            interviews with 72 African American women from
             Cambridge.`,
         otherNotes: "",
         references: `

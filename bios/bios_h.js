@@ -112,8 +112,8 @@ h_bios = [
         organization: false,
         lastName: "Hamilton",
         firstName: "Margaret",
-        middleName: "",
-        familyName: "",
+        middleName: "Elaine",
+        familyName: "Heafield",
 
         title: `Software engineer, NASA software designer, founder of software company`,
         birthDate: "00.00.1936",
@@ -129,25 +129,36 @@ h_bios = [
             graduate work for a chance to work on software for the Apollo program and eventually
             became the director of software programming at MIT's Instrumentation Laboratory
             for the Apollo and Skylab NASA missions, overseeing the moon flights. She produced
-            over 130 papers, proceeding and reports.<br><br>
+            over 130 papers, proceeding and reports. Hamilton's work in the software field was extensive and has
+            been credited with coining the term "Software Engineering."<br><br>
             In 1986, she founded and became CEO of Hamilton Technologies, in Cambridge,
             a software company. She has been recognized with the Augusta Ada Lovelace Award
             by the Association of Women in Computing in 1986 and the NASA Exceptional Space
             Act Award, in 2003 for her contributions to the Apollo Program and to the field
-            of software engineering.`,
+            of software engineering.
+            
+            <Br><Br>In 2016, Barack Obama awarded her the Presidential Medal of Freedom.
+            In a Cambridge Chronicle article at the time, MIT professor Jaime Paraire said:<blockquote>
+            "She was a true software engineering pioneer, and it's not hyperbole to say that she, and the instrumentation
+             Lab's Software Engineering Division that she led, put us on the moon."</blockquote>
+             In the same article, the MIT News author stated:<blockquote>
+             "Hamilton had become an icon for women in science and technology, especially in the few years since a 
+             now-famous photo, showing her next to a printout of her MIT team's Appolo code, began circulating online.</blockquote>  `,
         otherNotes: "",
         references: ` Earlham College press release March 4, 2005; NASA
             Office of Logic Design &#8220;About Margaret Hamilton.&quot; <a
                 href="http://klabs.org/home_page/hamilton.htm" target="_self">http://klabs.org/home_page/hamilton.htm</a><br>
                 Image source: <a href="https://en.wikipedia.org/wiki/Margaret_Hamilton_%28software_engineer%29" target="_self">https://en.wikipedia.org/wiki/Margaret_Hamilton_%28software_engineer%29</a>
+                <Br>Second image and quotest from: <i>The Cambridge Chronicle</i>, Volume 170, Number 55, 24 November 2016
+
         `,
-        photos: ["images_bios/Margaret_Hamilton_1995.jpg"],
-        photoTitles: [],
+        photos: ["images_bios/Margaret_Hamilton_1995.jpg", "images_bios/hamilton_margaret2.png"],
+        photoTitles: ["", ""],
         dateCreated: "prior to 2009",
-        dateUpdated: "04.05.2025",
+        dateUpdated: "01.10.2026",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony BEckwith",
         authors: "CWHP volunteers",
         categories: ["Businesswoman"],
     },
@@ -472,7 +483,7 @@ h_bios = [
         narrative: `
             Pauline Hopkins was born in Maine but came to
             Boston as a young girl where she attended Girls High School. After winning a
-            writing competition at the age of fifteen sponsored by the African-American
+            writing competition at the age of fifteen sponsored by the African American
             playwright, novelist, essayist, historian, and abolitionist, William Wells Brown
             (1814-1884), she began to write seriously. <br><br>At the age of twenty, she wrote a
             musical drama &#8220;Slaves Escape or the Underground Railroad&#8221;. She both

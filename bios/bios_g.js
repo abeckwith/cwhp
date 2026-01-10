@@ -664,7 +664,7 @@ g_bios = [
             Devoted to her community, she is depicted in the
             top left-hand corner of the mural behind the Harvest Cooperative Supermarket
             in Central Square. In 2002, on her ninetieth birthday, she was awarded the key
-            to the City of Cambridge. Since then, she compiled a booklet entitled <em>African-American
+            to the City of Cambridge. Since then, she compiled a booklet entitled <em>African American
                 Women&#8212;Firsts </em>that celebrates in words and photographs the accomplishments
             of Black women U.S. history. She served as a member of the Cambridge African
             American Heritage Trail Committee and the Cambridge Historical Commission, and
@@ -866,7 +866,7 @@ g_bios = [
         Experience at M.I.T., 1941-1999</i>, by Clarence G. Williams, Yvonne stated: "All of my grandmother's 
         children were born in Cambridge, literally within walking distance to M.I.T. My mother always 
         worked in factories until she came to work at M.I.T." (her mother worked as a payroll accountant 
-        there). When Yvonne applied for a job at M.I.T. in 1965, she didn't know if a Cambridge African-American 
+        there). When Yvonne applied for a job at M.I.T. in 1965, she didn't know if a Cambridge African American 
         girl with a high school diploma would be considered. She got the job—as a clerk in the Personnel 
         Department. Yvonne later used M.I.T.'s tuition assistance program to get her bachelor's degree and 
         eventually pursued and achieved a master's degree in education—she was ready to start a new career 
