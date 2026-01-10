@@ -48,7 +48,7 @@ body {
     overflow: auto; /** overrides hidden of body that prevents scrolling **/
     margin-left: 6vw;
     margin-right: 1vw;
-    box-shadow: 0 0 15px 5px rgba(0, 0, 0, 0.2);
+    /* box-shadow: 0 0 15px 5px rgba(0, 0, 0, 0.2); */
     box-shadow: 8px 8px 18px gray;
 }
 #bio {
@@ -232,7 +232,7 @@ td > a {
     font-style: italic;
 }
 .left, .right{
-    border-radius:6px;
+    border-radius:8px;
 }
 /* table{
     font-size:89%; 
