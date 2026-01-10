@@ -152,41 +152,54 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
         organization: false,
         lastName: "D'Arbeloff",
         firstName: "Sybil",
-        middleName: "C.",
-        familyName: "",
+        middleName: "Noble",
+        familyName: "Coe",
 
-        title: `Hospital administrator`,
-        birthDate: "00.00.1931",
-        birthLocation: "",
+        title: `Hospital administrator, Volunteer`,
+        birthDate: "11.11.1931",
+        birthLocation: "Waterbury, Connecticut",
         deathDate: "12.31.2000",
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
-            In 1992, Sybill d'Arbeloff was the first
+        Sybil Coe married Dimitri d'Arbeloff and by the time she was in her mid-20s, the couple had moved
+         to Cambridge from Waterbury, Connecticut.
+        She was involved in artistic pursuits, exhibiting some of her works at the Boston YWCA in the early 1960s.
+        The couple lived at 46 Foster Street in Cambridge in 1961 and by 1964 was living at 130 Brattle Street. 
+        <br><Br>
+        d'Arbeloff was on the first Board of Trustees when the Browne & Nichols school combined with
+        the Buckingham School in 1974.
+            In 1992, she was the first
             woman to be elected chairman of the board of a Harvard Teaching Hospital and served
             as the director of development of Mount Auburn Hospital. A trustee of the hospital
             since 1986, she continually demonstrated her commitment to the hospital and
-            community service. She lived at 46 Foster Street in Cambridge in 1961.
-            <br><br>In addition to her contributions to Wheaton College and Mt
-            Auburn Hospital, she served as a member of Cambridge Community Foundation. She
-            was a member of the Board of Overseers at the Museum of Science and WGBH, and
+            community service. 
+            <br><br>
+            In addition to her contributions to Mount
+            Auburn Hospital, she served as a member of Cambridge Community Foundation, volunteered on behalf of Wheaton College, 
+           
+            was a member of the Board of Overseers at the Museum of Science and at WGBH, and
             was an associate of the Museum of Fine Arts. She was recognized by many organizations
             for her community service including Women in Philanthropy and the New England
             Association for Hospital Philanthropy. She was awarded the Cambridge YWCA's
-            Tribute to Women Award in 1993. <br><br>She was 69 when she died. <br>
+            Tribute to Women Award in 1993. <br><br>
             `,
         otherNotes: "",
-        references: ` <em>Cambridge Chronicle</em>May 4, 1961, Jan 17, 2001<Br>Image source: <em>Boston Globe</em>Sept. 13, 1993
-        
+        references: ` <em>Cambridge Chronicle</em>May 4, 1961, 4 February 1965, 10 January 1974, Jan 17, 2001
+        <Br>Image source: <em>Boston Globe</em>Sept. 13, 1993
+        <Br>U.S., Social Security Applications and Claims Index, 1936-2007
+        <Br><a href="https://www.findagrave.com/memorial/210753844/sybil-noble-darbeloff">
+        https://www.findagrave.com/memorial/210753844/sybil-noble-darbeloff</a>
+
         `,
         photos: ["images_bios/darbeloff.png"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "",
+        dateUpdated: "01.10.2026",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
-        categories: ["Businesswoman", "Community Leader"],
+        categories: ["Businesswoman", "Community Leader", "Volunteer"],
     },
     {
         organization: false,

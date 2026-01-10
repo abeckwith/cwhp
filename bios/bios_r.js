@@ -6,7 +6,7 @@ r_bios = [
         middleName: "Elizabeth",
         familyName: "Waldsetin",
         
-        title: `Author of children's books`,
+        title: `Co-Author of Curious George children's books`,
         birthDate: "05.16.1906",
         birthLocation: "Hamburg, Germany",
         deathDate: "12.21.1996",
@@ -16,18 +16,24 @@ r_bios = [
             in Germany. She studied at the Klosterschule in Hamburg where she graduated
             in 1925. She continued her studies in art at several schools including the Bauhaus
             in Dessau, Germany. She had a one-woman show of her watercolor paintings in
-            Berlin. In 1929, she began working as a copywriter in for an English advertising
+            Berlin. <Br><Br>
+            
+            In 1929, she began working as a copywriter in for an English advertising
             company in Berlin. Also trained as a photographer, she took writing, advertising,
             and photography jobs in Germany and England. She traveled to Rio de Janerio,
             Brazil, in 1935, where she became reaquainted with the German-born Hans A. Reysenbach
             (later shortened to Rey), who was a family friend. Hans A. Rey had been working
             in Brazil since the mid 1920s in a family import business.<br><Br>
+
+
              The couple married in 1935, and moved to Paris where
             they began their collaboration in children's books. A French publisher became
             interested in Hans' drawings and commissioned him to write a children's
             book, published as <em>Rafi and the Nine Monkeys</em> which included a curious
             monkey that was the inspiration of the future children's book <em>Curious
-                George</em>. <Br><Br>In 1940, the Reys fled Paris before the advancing Nazi army invaded.<Br><Br>
+                George</em>. <Br><Br>
+                
+                In 1940, the Reys fled Paris before the advancing Nazi army invaded.<Br><Br>
                 She spoke about this in a 1996 <i>Christian Science Monitor</i> interview, 
                 after Rey had turned 90 years old and several months before her death:
                 <blockquote>

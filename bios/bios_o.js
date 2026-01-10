@@ -76,7 +76,7 @@ o_bios = [
         middleName: "Frances",
         familyName: "",
 
-        title: `Poet, author, first Cambridge librarian`,
+        title: `Poet, author, librarian`,
         birthDate: "09.05.1818",
         birthLocation: "Cambridge, Massachusetts",
         deathDate: "02.07.1905",
