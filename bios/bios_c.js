@@ -544,39 +544,49 @@ c_bios = [
         deathLocation: "",
         narrative: `
 
-            Joyce Chen was born in Beijing and after marriage,
-            went to live in Shanghai. In 1949, Joyce Chen and her husband Thomas left Shanghai,
-        
-            fleeing the new Communist regime to settle in the United States. They were soon
-            living in Cambridge on Kirkland Street. <br><br>Nine years later, in 1958, Joyce opened
+            Joyce Chen was born Liao Chia-ai in Beijing.  After marrying, she and her husband Thomas moved to 
+            Shanghai. In 1949, they
+                   fled the new Communist regime to settle in the United States. They were soon
+            living in Cambridge on Kirkland Street. <br><br>
+            
+            Nine years later, in 1958, Joyce opened
             the first Mandarin Chinese restaurant in New England at 617 Concord Ave,
-            Cambridge. By the 1960's, it was a famous restaurant, visited by patrons
+            Cambridge. She had not been a professional cook, but had come to realize how much people 
+            liked her cooking when her bake sale
+            items (pumpkin cookies and egg rolls) immediately sold out at the Buckingham Brown and Nichols school bake sale 
+            in the mid-1950s. 
+            
+            <br><Br>By the 1960's, \"Joyce Chen's\" had become a famous restaurant, visited by patrons
             that ranged from celebrities to ordinary restaurant-goers. She began to teach
             Chinese cooking at both the Cambridge and Boston Adult Education Centers and,
             in 1962, she published a widely-praised cookbook,<em> Joyce Chen Cook Book</em>.
             By 1968, she was asked to present a television cooking show for WGBH (PBS) &#8220;Joyce
             Chen Cooks&#8221;. In time, she opened restaurants in various locations in Cambridge,
-            including Central Sq., Memorial Dr., Rindge Avenue, and in Boston. <br><br>Chen also
-            introduced a line of cookware. She had been a popular figure, often welcoming
-            guests to her restaurant, but in the 1980s she developed Alzheimer's disease,
-            which incapacitated her. She died in 1994 and her restaurants closed, the last
-            one four years after her death, but her three children continued her retail,
+            including ones in Central Square, on Memorial Drive, on Rindge Avenue, and in Boston. 
+            
+            Chen also
+            introduced a line of cookware. <br><br>
+            
+            She had been a very popular local. figure, often welcoming
+            guests to her restaurant. In the 1980s she developed Alzheimer's disease and when she died in
+             1994, her restaurants began to close, the last
+            one four years after her death. Her three children continued her retail,
             cookware, and Chinese food businesses.`,
         otherNotes: "",
         references: ` <em>Boston</em> <em>Globe</em>, May 19, 1994. obituary
             <br>
             Giving Gallery: about Joyce Chen
             
-        <Br>Image source: <a href="https://en.wikipedia.org/wiki/Joyce_Chen_(chef)" target="_self">
+        <Br><a href="https://en.wikipedia.org/wiki/Joyce_Chen_(chef)" target="_self">
         https://en.wikipedia.org/wiki/Joyce_Chen_(chef)</a>
         `,
         photos: ["images_bios/joycechen.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "04.11.2025",
+        dateUpdated: "01.10.2026",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Businesswoman", "Chef"],
     },
