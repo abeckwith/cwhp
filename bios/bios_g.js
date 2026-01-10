@@ -774,7 +774,7 @@ g_bios = [
         photoHeights: [],
         editors: "",
         authors: "",
-        categories: ["Astronomer", "Teacher"],
+        categories: ["Astronomer", "Teacher/Educator"],
     },
     {
         organization: false,
@@ -902,6 +902,6 @@ g_bios = [
         photoHeights: [],
         editors: "",
         authors: "Anthony Beckwith",
-        categories: ["Teacher", "Volunteer", "Community Leader"],
+        categories: ["Teacher/Educator", "Volunteer", "Community Leader"],
     },
 ];

@@ -764,8 +764,8 @@ Cambridge City Directory, 1926
         organization: false,
         lastName: "Wolf",
         firstName: "Alice",
-        middleName: "Koerner",
-        familyName: "",
+        middleName: "",
+        familyName: "Koerner",
 
         title: `State representative, former Mayor of Cambridge`,
         birthDate: "12.24.1933",
@@ -790,6 +790,12 @@ Cambridge City Directory, 1926
             active in working for early childhood education, public education, affordable
             housing, health care, and has been consistently a strong advocate for women's
             rights.<br><br>
+            In 1991, the city received a delegation from Port-au-Prince, Haiti, with its mayor Evans
+             Paul, who had been previously tortured while in prison and treated at Cambridge Hospital. 
+             Alice Wolf was mayor at time, who welcomed him warmly and said: <blockquote>
+            "With this key and with the goodwill of the people of Cambridge, we hope many doors 
+            will continue to be opened to you and to your people."
+            </blockquote>
             Among her many honors and awards were: the 2002
             Legislative Leadership Award from the Massachusetts Alliance for Arts Education,
             the 2002 Margot P. Koberg Award from the Cambridge Fair Housing Committee, the
@@ -800,9 +806,10 @@ Cambridge City Directory, 1926
             chapter of the National Organization of Women.<br><Br>Alice Wolf lived at 48 Huron Avenue for more than 40 years. `,
         otherNotes: "",
         references: ` Harvard Gazette 6-2-2005<Br>
-                <a href="https://en.wikipedia.org/wiki/Ozeline_Wise" target="_self">https://en.wikipedia.org/wiki/Ozeline_Wise</a><Br><Br>
-                Image source: <a href="https://en.wikipedia.org/wiki/Ozeline_Wise" target="_self">https://en.wikipedia.org/wiki/Ozeline_Wise</a>
-        `,
+                <a href="https://en.wikipedia.org/wiki/Alice_Wolf" target="_self">https://en.wikipedia.org/wiki/Alice_Wolf</a><Br><Br>
+            <i>The Cambridge Chronicle</i>, Volume 145, Number 19, 9 May 1991
+
+                `,
         photos: ["images_bios/Alice_Wolf.jpg"],
         photoTitles: [],
         dateCreated: "00.00.2014",

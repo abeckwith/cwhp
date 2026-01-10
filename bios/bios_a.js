@@ -637,7 +637,7 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
         photoHeights: [],
         editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
-        categories: ["Activist", "Teacher"],
+        categories: ["Activist", "Teacher/Educator"],
     },
     {
         organization: false,

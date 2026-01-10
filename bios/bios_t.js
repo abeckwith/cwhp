@@ -39,6 +39,12 @@ t_bios = [
             limbs) as a result of their mothers' use of the anti-nausea drug, thalidomide.
             Her testimony before the Food and Drug Administration successfully kept this
             drug out of the United States. <br><br>
+            Dr. Laura Olivieri, who served on the AHA's Young Hearts Congenital Heart Defects Committee, in 2024 said of Taussig:
+
+        <blockquote>
+                    "Most of us in the field are in awe of her. I love thinking about what she had to do 
+             to get people on board with her vision. She really moved the needle both for children 
+             with congenital heart disease and for women in academic medicine."</blockquote>
             She was awarded the Presidential Medal of Freedom
             in 1964 and became the first woman president of the American Heart Association
             in 1965. Along with many other honors, she was elected a member of the National
@@ -50,14 +56,17 @@ t_bios = [
             L. Witlieb,<em> The Book of Women's Firsts</em>, New York: Random House,
             1992<br>
             Cambridge City Directory, 1900
-       <Br> Image source: <a href="https://en.wikipedia.org/wiki/Helen_B._Taussig" target="_self">https://en.wikipedia.org/wiki/Helen_B._Taussig </a>       `,
-        photos: ["images_bios/Helen_Taussig.jpg"],
+       <Br> Image source: <a href="https://en.wikipedia.org/wiki/Helen_B._Taussig" target="_self">https://en.wikipedia.org/wiki/Helen_B._Taussig </a>   
+       <br><a href="https://www.heart.org/en/news/2024/03/28/dr-helen-taussigs-work-saved-blue-babies">
+       https://www.heart.org/en/news/2024/03/28/dr-helen-taussigs-work-saved-blue-babies</a>    `,
+       
+       photos: ["images_bios/Helen_Taussig.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "04.07.2025",
+        dateUpdated: "01.10.2026",
 
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Doctor", "Author"],
     },
