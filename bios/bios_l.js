@@ -278,7 +278,7 @@ l_bios = [
             job at the Cambridge schools to run The Lesley School full-time, adding a program
             in primary teacher training. In 1915, Edith Lesley purchased the house her family
             had long rented at 29 Everett Street. Merl Wolfard, who served as an advisor
-            and investor, later purchased additional nearby houses to serve as dormitories.<br>
+            and investor, later purchased additional nearby houses to serve as dormitories.<br><Br>
              Edith
             Lesley hired Boston kindergarten teacher Gertrude Malloch in 1914 as a part-time
             instructor. Malloch soon became a valued friend, administrator and the first

@@ -1635,7 +1635,7 @@ b_bios = [
             With her older sister, Sheila
                     Brass, she owns and runs Shelmar Antiques, which the sisters started
             when they left their jobs in 1975 to care for their ailing father. They have
-            been licensed antique dealers for more than 40 years.<br>
+            been licensed antique dealers for more than 40 years.<br><Br>
             The sisters were the North American Consultants
             for Miller's Publications, in London, for 11 years. They were responsible
             for research, photo shoots, and marketing information for several of Miller's
@@ -1694,8 +1694,8 @@ b_bios = [
 
 
         `,
-        photos: ["images_bios/Brass sisters.jpg"],
-        photoTitles: [],
+        photos: ["images_bios/brass_marilynn.jpg", "images_bios/Brass sisters.jpg"],
+        photoTitles: ["", "The Brass Sisters"],
         dateCreated: "00.00.2016",
         dateUpdated: "04.06.2025",
 
@@ -1789,8 +1789,8 @@ b_bios = [
      
 
         `,
-        photos: ["images_bios/Brass sisters.jpg"],
-        photoTitles: [],
+        photos: ["images_bios/brass_sheila.jpg", "images_bios/Brass sisters.jpg"],
+        photoTitles: ["", "The Brass Sisters"],
         dateCreated: "00.00.2016",
         dateUpdated: "07.29.2025",
 
@@ -2187,7 +2187,7 @@ b_bios = [
                 Photo from <a href="https://en.wikipedia.org/wiki/Mary_Bunting#/media/File:Mary_Bunting.jpg">
                 https://en.wikipedia.org/wiki/Mary_Bunting#/media/File:Mary_Bunting.jpg</a>
         `,
-        photos: ["images_bios/Mary_Bunting.JPG"],
+        photos: ["images_bios/Mary_Bunting.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
         dateUpdated: "",
