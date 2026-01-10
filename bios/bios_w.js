@@ -829,7 +829,7 @@ Cambridge City Directory, 1926
 
   
             The Women's Center (aka The Women's Educational Center, The Cambridge Women's Center) arose from the action
-            by a feminist protest group, Bread and Roses
+            by a feminist protest group, Bread and Roses,
             that was seeking a place to situate a women's center for under-served
             women in Cambridge. On March 6, 1971, the women marched and took over a former
             industrial building at 888 Memorial Drive, which was then owned by Harvard.

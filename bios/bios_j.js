@@ -17,7 +17,7 @@ j_bios = [
             age and became the slaves
             of the Norcom family. In order to avoid the sexual attentions of her new owner &#8220;Dr
             Flint&#8221;, she formed a liason with a white man and bore him two children
-            but became fearful of their future when her lover &#8220;Mr Sands&#8221; (a
+            but became fearful of their future when her lover &#8220;Mr. Sands&#8221; (a
             future congressman) failed to free her children.<Br><br>
             
             She escaped from her lover's
