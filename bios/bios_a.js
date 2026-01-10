@@ -31,11 +31,11 @@ a_bios = [
         plan that would raze Brookline and Elm streets, along with 1,300 working class residents' homes.
         Asked to help publicize the opposition, she donned a Paul Revere style tricorner hat and 
         rode a horse through Cambridgeport to City Hall, to the calls of "Citizens of Cambridge! 
-        Save Our City! The highway is coming!" The residents prevailed; the project was canceled in 1972.<Br><Br>
+        Save Our City! The highway is coming!" The residents prevailed; the project was canceled in 1972.
 
         In 1972, Ackermann was also  a delegate to the Democratic National Convention from
         Massachusetts. In 1989, she wrote an account of her experiences as a Cambridge
-        politician in a book entitled, <em>"You the Mayor?": The Education of a City Politician</em>, which
+        politician in a book entitled, <em>"You the Mayor?: The Education of a City Politician"</em>, which
         offers insights into political life and the functioning of a city. In her memoir, she explained:<blockquote>
         "Like most of my colleagues, I wanted to be a link between citizens and city government and
          to help the bureaucracy see their responsibilities in human terms. Among my special goals
