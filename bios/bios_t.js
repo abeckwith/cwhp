@@ -237,26 +237,43 @@ t_bios = [
             one of the first Fair Housing committees in America. The NAACP presented her
             with an outstanding achievement award for humanitarian services in 1973. In
             1976 Alpha Kappa Alpha honored her by establishing in her name a scholarship
-            at Tufts Dental School for female African American students. `,
+            at Tufts Dental School for female African American students.<Br><Br>
+            In an August 1977 interivew Thompson recalled how she became interested in dentistry:<blockquote>
+
+            "I went to Roberts Elementary...first the Boardman School. They used to have the Boardman School right
+            across from where the Newtowne Court housing project is. And we had one black teacher there. Her name was 
+            Goldie Lane; her father was a physician in Cambridge. And then I think it was either two, three, or four grades,
+            and then you went up to Roberts School, which is on the corner of Harvard and Broadway. And then from there
+            you went to Cambridge High and Latin. The Roberts School is where they'd send the kids from class to Forsyth for their dental
+            checkups. They didn't have the clinics in the schools that they did when I worked there.<br><Br>
+            "That's where I got the idea I wanted to be a dentist. Because I saw the girls all dressed up in white, but everybody else 
+                wanted me to be a nurse, a teacher, or anything else besides that...<Br><Br>
+            "After I came back with the bright idea that this is what I wanted, my mother said, "You can do it if you want to.
+            So this is what I did."
+            </blockquote>`,
         otherNotes: "",
         references: `
             Oral history of Mary Crutchfield Thompson in Black Women Oral History Project,
             conducted by Schlesinger Library, Radcliffe and in the Sophia Smith Collection,
-            Smith College Northampton MA.<br>
+            Smith College Northampton MA: 
+            <A href="https://iiif.lib.harvard.edu/manifests/view/drs:45177050$15i">
+            https://iiif.lib.harvard.edu/manifests/view/drs:45177050$15i</a>
+            <br>
             Schlesinger Library, online Flickr photo album, link viewed February 23, 2015:
             https://www.flickr.com/photos/schlesinger_library/13270319163/ <br>
             <em>Black Women in America, A Historical Encyclopedia</em> ed. Darlene Clark,
             Carlson Publishing, Inc.,1993.<Br>
             Cambridge Chronicle 21 November 1985<br>
             Image source: <a href="https://commons.wikimedia.org/wiki/File:Mary_Crutchfield_Thompson_%2813270319163%29.jpg" target="_self">https://commons.wikimedia.org/wiki/File:Mary_Crutchfield_Thompson_%2813270319163%29.jpg</a>
+           
         `,
         photos: ["images_bios/Mary_Crutchfield_Thompson.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2016",
-        dateUpdated: "04.08.2025",
+        dateUpdated: "01.11.2026",
 
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Dentist"],
     },

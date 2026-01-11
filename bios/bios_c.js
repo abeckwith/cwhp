@@ -126,8 +126,7 @@ c_bios = [
            <i> The Cambridge Sentinel</i>, Volume XIV, Number 27, 26 May 1917<br>
             Image source: Ida M. Tarbell Collection, 1890-1944, Merrick Archives and Special Collections, Pelletier Library, Allegheny College
         `,
-        photos: [
-            "", "images_bios/cpea.png"],
+        photos: ["", "images_bios/cpea.png"],
         photoTitles: [],
         dateCreated: "prior to 2009",
         dateUpdated: "12.28.2025",
@@ -293,31 +292,67 @@ c_bios = [
             <br> <br> With her husband, Cornelia settled in Cambridge where she raised four
             daughters and one son. In spite of her family responsibilities, running an academic
             household and raising five children, she became an important writer, contributing
-            articles on social and economic subjects to Harper's, Atlantic Monthly, and
-            North American Review. In 1928 she published a novel, <i>Red Rust</i>, that became
-            a best-seller. In this, she described the Swedish immigrant farmers of rural
-            Minnesota from the area in which she had been raised.  <br> <br>In order to have privacy
+            articles on social and economic subjects to <i>Harper's</i>, <i>Atlantic Monthly</i>, and
+            <I>North American Review</i>. In 1928 she published a novel, <i>Red Rust</i>, that became
+            a best-seller. In it, she described the Swedish immigrant farmers of rural
+            Minnesota from the area in which she had been raised.  
+            <br> <br>In order to have privacy
             for her writing, she had the habit of hiding in the bathroom or in her car,
-            as vividly described by her daughter Marion Cannon Schlesinger.
-            in a memoir, <em>Snatched from Oblivion</em>. <Br><Br>Just before her death, she was living at 
-            23 Willard Street in Cambridge.`,
+            as vividly described by her daughter Marion Cannon Schlesinger
+            in the memoir, <em>Snatched from Oblivion</em>.
+            Cannon wrote about women's rights, birth control, and public 
+            education and published a total of eight novels. She was also involved with Planned 
+             Parenthood and the League of Women Voters.<Br><br>
+             
+             Cannon was a frequent and prolific writer of "Letters to the Editor" to the Cambridge Chornicle (writing from her home at 23 Willard Street in Cambridge),
+             thoughout the 1920s and 1930s, often writing in support of funds for the public schools and in support of teachers,
+             as well as railing against corruption in city government. Her letters were lengthy and regularly took up the full height of the page.
+             She certainly had strong opinions, like this one, excerpted from a 1938 letter to the editor:
+             
+             <blockquote>
+            "The mentality of our Cambridge school committee is certainly strange. 
+            Last Wednesday they closed our schools for a half day, deprived 14,000 children of their 
+            opportunity for education, threw away the thousands of dollars our schools cost every school day, 
+            and for what? To give the children the opportunity to take part in the funeral of a Civil War veteran, 
+            to accompany the body from the home to the church and from there to the city limits while the funeral 
+            cortege made its way on to a cemetery in Waltham. Did they expect the kindergarten children and those 
+            of the lower grades to take part? Did they expect the older thousands to walk from distant parts of the city, 
+            miles for such a march? Did they remember that closing the schools for half a day deprived half of the 
+            high school pupils of an entire day's school attendance? 
+            <br><Br>
+            "The panoply of death is something from which 
+            parents of feeling try to protect their young children. The funeral ceremonial is neither the time nor 
+            place to inspire patriotic fervor in children, which I assume was the purpose of the misguided act of 
+            the school committee, and instead inspires shrinking or morbid fancies, neither of which is conducive 
+            to enthusiasm for one's country. Why could not the children have remained in school and have had exercises
+             appropriate to the occasion and to their age in the class or assembly rooms?"
+             </blockquote>
+            
+            In 2011, Maria Diedrich wrote a book about Cannon, trying to understand and disentangle
+            Cannon's strong and heartfelt advocacy for women's rights and other causes with her (and her husband's) belief in eugenics,
+             generally considered today to have been a set of racist and xenophobic theories.
+          
+          `,
         otherNotes: "",
         references: `Marion Cannon Schlesinger, <em>Snatched from Oblivion</em>,
             Little Brown (1997)<br>
             Cambridge Public Library &#8220;Penwomen of Cambridge Past: Biographies
             of Our Literary Foremothers&#8221;<Br>
-                Image source: <a href="https://en.wikipedia.org/wiki/Cornelia_James_Cannon" target="_self">
-                https://en.wikipedia.org/wiki/Cornelia_James_Cannon</a>
-                <br>Cambridge City Directory, 1968
+                <a href="https://en.wikipedia.org/wiki/Cornelia_James_Cannon" target="_self">
+            https://en.wikipedia.org/wiki/Cornelia_James_Cannon</a>
+            <br>Cambridge City Directory, 1968
+            <br><i>Cornelia James Cannon and the Future American Race Paperback</i>,  Maria I. Diedrich, University of Mass. Press, January, 2011
+        <Br><i>The Cambridge Chronicle</i>, 2 December 1922, 22 December 1938
+
 
         `,
         photos: ["images_bios/Cornelia_Cannon_in_~April_1948.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "",
+        dateUpdated: "01.11.2026",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: [""],
     },
@@ -799,7 +834,7 @@ c_bios = [
         `,
         photos: [
             "images_bios/city-girl-cafe-1-square-0721ede4631d516b7a3d1cbcd61e5b6b-of0zjyvr75k2.jpg",
-            "images_bios/citygirl2.png"
+            "images_bios/citygirl2.png",
         ],
         photoTitles: ["", "Cheryl Schwarz and Merry Moscato"],
         dateCreated: "00.00.2008",
@@ -1235,5 +1270,4 @@ c_bios = [
         authors: "CWHP volunteers",
         categories: ["Actress"],
     },
-   
 ];

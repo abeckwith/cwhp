@@ -295,7 +295,27 @@ g_bios = [
             area, including Lincoln Labs from the late 1970s to the 1990s, writing manuals
             and serving as a digital technical instructor. She drew on this experience for
             some of her later poetry. <br><Br>
-            In her fifties, she developed her skills as a
+            In August 1993, Goodman published the following, in the journal <i>Poetry</i>:
+            <blockquote>
+                        Anxiety of Ten O'Clock<Br>
+            Miriam Goodman<Br>
+
+            Account for all the work.<Br>
+            Do the arithmetic: this much finish<Br>
+            day by day. Feel better. You feel<Br>
+            you're holding cats under a rug.<Br>
+            You balk, refuse your own assignments,<Br>
+            stalk reunion with your other,<Br>
+            lazy self, this one harnessed<Br>
+            in a soggy woolen swimsuit, body<Br>
+            doughy under puzzle straps. She asks<Br>
+            her one repeating question as if<Br>
+            what you have said definitively were<Br>
+            still unclear. In different ways she asks:<Br>
+            always a but, always a what if.<Br>
+            Always impossible to finish.<Br>
+            </blockquote>
+            In her fifties, Goodman developed her skills as a
             photographer, studying at the Photography Atelier program of the Radcliffe and
             Lesley Seminars and at the New England School of Photography. She sought images
             in unusual locations such as elevators and construction sites, and soon exhibited
@@ -306,7 +326,8 @@ g_bios = [
             and coordinated the Word &amp; Image Lecture series, sponsored by Lesley Seminars
             and The Center for Photographic Exhibition of the New England School of Photography.
             She also served as Photography Editor for the <em>Women's Review of Books</em>
-            and Poetry Editor for <em>Sojourner</em> newspaper, Boston.<br><Br>
+            and Poetry Editor for <em>Sojourner</em> newspaper, Boston.
+            <br><Br>
             While she continued to publish individual poems
             in various publications over the years, in 1996 she published a third book of
             poetry, <em>Commercial Traveler</em>, with Garden Street Press of Truro, Massachusetts.
@@ -332,14 +353,16 @@ g_bios = [
             Miriam Goodman online web site<Br>
             Press release, Griffin Museum of Photography, April 2, 2009<Br>
             <i>The Cambridge Chronicle</i>, Volume 135, Number 15, 9 April 1981
+            <br><a href="https://www.poetryfoundation.org/poetrymagazine/browse?volume=162&issue=5&page=27">
+            https://www.poetryfoundation.org/poetrymagazine/browse?volume=162&issue=5&page=27</a>
         `,
         photos: ["images_bios/MiriamGoodman1.jpg"],
         photoTitles: [],
         dateCreated: "00.00.2014",
-        dateUpdated: "",
+        dateUpdated: "01.11.2026",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Photographer", "Poet"],
     },
@@ -535,7 +558,7 @@ g_bios = [
             Renae Gray,
                 daughter of Anlizia and Robert Gray, was born on April 19, 1951 in Portsmouth, Virginia and grew up in
                 Virginia and New Haven, Connecticut with her aunt Elnora Doggett. She graduated from Woodrow Wilson High
-                School in Portsmouth, Virginia and moved to Florida where she met and married Edward Scott. In 1973,
+                School in Portsmouth, Virginia, and moved to Florida where she met and married Edward Scott. In 1973,
                 Gray moved to Cambridge, Massachusetts, eventually settling in the &ldquo;Port&rdquo; neighborhood, also
                 known as Area IV, with her daughter Michele N. Scott.<br><Br>
             Early in
@@ -546,9 +569,10 @@ g_bios = [
            In the early
                 1980s, a large group of women met to address the declining support of women-led organizations and the
                 closing of two feminist newspapers. In a 2008 </span>Boston Herald interview, Gray reflected on those
-            early meetings: &ldquo;Out of that came the question: How do we sustain women&rsquo;s organizations? How do
+            early meetings: <blockquote>
+            &ldquo;Out of that came the question: How do we sustain women&rsquo;s organizations? How do
             we guarantee the viability and ability of women&rsquo;s work? We went around and around. We knew we
-            couldn&rsquo;t fund all the social services that women needed.&rdquo; In 1984, Gray was one of eight women
+            couldn&rsquo;t fund all the social services that women needed.&rdquo;</blockquote> In 1984, Gray was one of eight women
             from that initial group who founded the Boston Women&rsquo;s Fund (BWF) to support organizations that help
             low-income women and girls on issues related to racial, economic and social justice. Twenty years later, she
             was asked to join the Board and become the Interim Executive Director, where she served for five years,

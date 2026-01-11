@@ -55,8 +55,11 @@ function showBirthdays() {
         bioLetterList.forEach((thename) => {
             if (thename.firstName == "") orgcount++;
             else womanCount++;
-            if(thename.deathDate != "" && thename.birthDate != "")
-            console.log(parseInt(thename.deathDate.slice(-4)) - parseInt(thename.birthDate.slice(-4)))
+            if (thename.deathDate != "" && thename.birthDate != "")
+                console.log(
+                    parseInt(thename.deathDate.slice(-4)) -
+                        parseInt(thename.birthDate.slice(-4))
+                );
 
             if (thename.authors.indexOf("CWHP volunteers") != -1)
                 console.log(thename.lastName + " " + thename.firstName);
@@ -69,6 +72,21 @@ function showBirthdays() {
     all_bios.forEach((bioLetterList) => {
         //go through each name for this letter:
         bioLetterList.forEach((thename) => {
+            lName = stripName(thename.lastName);
+            fName = stripName(thename.firstName);
+            mName = stripName(thename.middleName);
+            theLink =
+                "<a href='bios.html?lNm=" +
+                lName +
+                "&mNm=" +
+                mName +
+                "&fNm=" +
+                fName +
+                "'>" +
+                thename.lastName +
+                ", " +
+                thename.firstName +
+                "</a>";
             if (
                 (thename.birthDate.slice(3, 5) == "00" ||
                     thename.birthDate == "") &&
@@ -76,15 +94,15 @@ function showBirthdays() {
                 thename.birthDate.slice(-4) < 1930
             ) {
                 nobirthDate +=
-                    thename.lastName + ", " + thename.firstName + "<Br>";
+                    theLink + "<Br>";
                 nbdct++;
             }
             if (thename.narrative.indexOf("blockquote") == -1) {
-                noQuote += thename.lastName + ", " + thename.firstName + "<Br>";
+                noQuote += theLink + "<Br>";
                 noqtct++;
             }
             if (thename.photos[0] == "") {
-                noImage += thename.lastName + ", " + thename.firstName + "<Br>";
+                noImage += theLink + "<Br>";
                 noimgct++;
             }
             // if (thename.photos[0] == "") {
@@ -95,24 +113,8 @@ function showBirthdays() {
             nameForSort = thename.firstName + " " + thename.lastName;
             dateForSort = thename.birthDate.slice(-4);
 
-            lName = stripName(thename.lastName);
-            fName = stripName(thename.firstName);
-            mName = stripName(thename.middleName);
-
-            tableLink =
-                "<a href='bios.html?lNm=" +
-                lName +
-                "&mNm=" +
-                mName +
-                "&fNm=" +
-                fName +
-                "'>" +
-                thename.firstName +
-                " " +
-                thename.lastName +
-                "</a>";
             if (dateForSort.length == 4)
-                birthSort.push({ tableLink, dateForSort });
+                birthSort.push({ theLink, dateForSort });
 
             bio_count++;
             nameBuild =
