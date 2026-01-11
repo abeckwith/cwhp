@@ -361,7 +361,7 @@ In
          raise her family (she gave birth to son Horace Jr. in 1911 and daughter Elsie May in 1915).
         <br><br>
          Sadly, in March of 1916, at the age of 34 and despite being in good health, Goldie Franks died suddenly. 
-         Her death was attributed to "heart trouble." The couple had been living at 99 Howard Street at the time. The. CWHP could 
+         Her death was attributed to "heart trouble." The couple had been living at 99 Howard Street at the time. The CWHP could 
         not find a photograph of Goldie, but have included one of her daughter Elsie May Franks.
     `,
         otherNotes: "",
