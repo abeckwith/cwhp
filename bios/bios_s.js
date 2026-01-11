@@ -488,7 +488,7 @@ s_bios = [
 
         title: `Feminist, Architect`,
         birthDate: "02.09.1932",
-        birthLocation: "",
+        birthLocation: "New York, New York",
         deathDate: "04.06.1998",
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
@@ -506,7 +506,8 @@ s_bios = [
             architects (Katrin Adam, Noel Phyllis Birkby, Ellen Perry Berkeley, Bobbie Sue
             Hood, Marie I. Kennedy, and Leslie Kanes Weisman), she organized the Women's
             School of Planning and Architecture (WSAP), which offered summer sessions around
-            the country between 1974 and 1981 (at the time she was living at 10 Kirkland Road in Cambridge). She was a successful feminist architect and
+            the country between 1974 and 1981 (at the time she was living at 10 Kirkland Road in Cambridge). 
+            She was a successful feminist architect and
             planner, who focused on developing low-income housing for women and children.
             She was involved in the Women's Design Center and Women's Development
             Corporation in Rhode Island, and Women's Housing for Housing and Economic
@@ -515,12 +516,25 @@ s_bios = [
 
             Sprague wrote two manuals,<em> A Development Primer:
                 Starting Housing or Business Ventures by and/or for Women</em> (1984), and <em>A
-                Manual on Transitional Housing</em> (1986). She also wrote two major books,
+                Manual on Transitional Housing</em> (1986). 
+                In a 1986 letter to the Boston Globe, Sprague wrote to set the record straight about transitional housing:
+                <blockquote>
+                "Some residents choose transitional housing after leaving a battered-women's shelter because they 
+                need time and services to become self-supporting...Many divorced or widowed women and young parents 
+                are homeless because they have no place to live and no way to support themselves. Without transitional
+                 housing and its services these women enter the cycle of homelessness..."
+                </blockquote>
+
+              
+
+
+                She also wrote two major books,
             <em>Taking Action: A Comprehensive Approach to Housing Women and Children in
                 Massachusetts </em>(1988), and <em>More than Housing: Lifeboats for Women and
                 Children</em> (1991). She lectured at Columbia, MIT, Arizona State University,
             and in the Netherlands, Canada, the People's Republic of China, and the
-            former Soviet Union. She won the Massachusetts Women's Political Caucus's
+            former Soviet Union and traveled the United States speaking about issues of homelessness for women and children.
+             She won the Massachusetts Women's Political Caucus's
             Abigail Adams award in 1988. <br><br>She died of brain cancer in Cambridge. Her papers
             are held at Schlesinger Library, Radcliffe Institute.`,
         otherNotes: "",
@@ -530,11 +544,13 @@ s_bios = [
             Birthdate from U.S., Social Security Death Index, 1935-2014<Br>
             Book cover from <a href="https://www.commoncrowbooks.com/pages/books/B59091/joan-forrester-sprague/more-than-housing-lifeboats-for-women-and-children-inscribed-by-sprague">
             https://www.commoncrowbooks.com/pages/books/B59091/joan-forrester-sprague/more-than-housing-lifeboats-for-women-and-children-inscribed-by-sprague</a>
-        `,
+         <Br>
+                <i>The Boston Globe</i>Sep 08, 1986, page 15
+            `,
         photos: ["images_bios/sprague.png"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "12.24.2025",
+        dateUpdated: "01.11.2026",
 
         photoHeights: ["400"],
         editors: "Anthony Beckwith",
