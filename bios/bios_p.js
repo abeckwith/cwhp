@@ -316,7 +316,7 @@ p_bios = [
         deathDate: "10.21.2012",
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
-        The following is excerpted, with permission, from a 2012 obituary for Kaethe Peters, written by Matthew Peters:<Br><Br>
+        The following is excerpted, with permission, from a 2012 obituary for Kaethe Peters written by Matthew Peters:<Br><Br>
       <blockquote>  Kaethe Peters once wrote,         <blockquote>
 
         "I found from my experiences that it is essential to enrich one's own personality 

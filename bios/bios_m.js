@@ -1151,83 +1151,78 @@ by Cate McQuaid,, April 12, 2017
         authors: "Anthony Beckwith",
         categories: ["Astronomer"],
     },
-//      {
-//         organization: false,
-//         lastName: "McCree",
-//         firstName: "Robin",
-//         middleName: "Tirrell",
-//         familyName: "",
+     {
+        organization: false,
+        lastName: "McCree",
+        firstName: "Robin",
+        middleName: "Tirrell",
+        familyName: "",
 
-//       title: `Probation officer and Assistant Clerk-Magistrate at Cambridge District Court`,
-//         birthDate: "00.00.1957",
+      title: `Probation officer and Assistant Clerk-Magistrate at Cambridge District Court`,
+        birthDate: "00.00.1957",
 
-//         birthLocation: "Cambridge, Massachusetts",
-//         deathDate: "",
-//         deathLocation: "",
-//         narrative: `
-//            Robin McCree was born, raised, attended school, and worked her entire life in Cambridge. She attended
-//             the public 
-//            elementary schools and then Cambridge's Buckingham, Browne and Nichols High School.
-//         She was hired as the first Black female probation officer to work at the Cambridge District Court, Middlesex 
-//         County, in 1984. 
-//          She was also the first Black female assistant Assistant Clerk Magistrate at the Cambridge District Court, where she worked for 37 years.
-         
-//          <Br><Br>
-//         Her father, Ramon McCree, was a World War II and Korean War veteran who was born and raised in Cambridge and attended 
-//         Cambridge High
-//          and Latin School, Tufts University, and MIT Sloan School of Management. 
-//            Her mother, Corinne Green, who was also born and raised in Cambridge and also attended CHLS, was a 
-//            devoted mother of five children.<br><Br>
+        birthLocation: "Cambridge, Massachusetts",
+        deathDate: "",
+        deathLocation: "",
+        narrative: `
+          Robin McCree was born, raised, attended school, and worked her entire life in Cambridge. She attended 
+          the Russel elementary school in Cambridge and then Cambridge's Buckingham, Browne and Nichols High 
+          School. She was hired as the first Black female probation officer to work at the Cambridge District
+           Court, Middlesex County, in 1984. She was also the first Black female Assistant Clerk Magistrate
+            at the Cambridge District Court, where she worked for 37 years.<Br><Br>
 
-//           Robin attended college at Tufts University, where during her first year she interned at the Cambridge District Court
-//           Juvenile Probation office. 
-//           After getting her degree in
-//            Social Psychology and Spanish from Tufts, she was in the MBA program at Boston University, but was 
-//            unsatisfied with the program and serred to the 
-//           Masters in Management program at Lesley College. She then returned to court work, accepting
-//             a position as a probation officer in Cambridge. <Br><Br>
+            Her father, Ramon McCree, was a World War II and Korean War veteran who was born and raised in 
+            Cambridge and attended Cambridge High and Latin School, Tufts University, and MIT Sloan School
+             of Management. Her mother, Corrine Green, who was also born and raised in Cambridge [and] also
+              attended CHLS, and was a devoted mother of five children.<Br><Br>
 
-//         Her work in the court system was complex. She provided all kinds of legal support to magistrates and judges, 
-//         preparing orders and warrants, scheduled hearings, dealing with bail issues, conducting
-//         preliminary hearings and dealing with traffic violations, and interacting with lawyers and judges.
-//         She faced some serious obstacles and poor treatment as a Black woman working in the Cambridge District Court 
-//         (sometimes feeling that her co-workers treated her with less respect than the offenders she was dealing with),
-// but looking back, McCree says it felt good that she was able to help a lot of 
-//         people and that the work helped her "...come to understand the concept of mercy and that it entails extending mercy to others."</blockquote>
+            Robin attended college at Tufts University, where during her first year she interned at the 
+            Cambridge District Court Juvenile Probation Department. After getting her degree in Social 
+            Psychology and Spanish from Tufts, she attended the MBA program at Boston University, but was
+             unsatisfied with the program and decided to enter the Masters in Management program at Lesley 
+             College. She then returned to court work, accepting a position as an adult probation officer in Cambridge.<Br><Br>
 
+            Her work in the court system was complex. She provided all kinds of legal support to judges, 
+             lawyers, police and the public, including issuing search warrants, conducting probable cause 
+             hearings, dealing with bail issues, conducting preliminary hearings and dealing with traffic 
+             violations. She also served as a bail bondsman. McCree faced many obstacles and barriers as
+              a Black female working in the Cambridge District Court. Still, McCree says it felt good that 
+              she was able to help a lot of people in her position at the court and that she "...came to 
+              understand the concept of mercy and extended mercy to many"
+            <Br><Br>
+            Robin has a long history of supporting Cambridge in various volunteer efforts, 
+            from running a Tobin School youth group to working for the Election Commission 
+            to leading a women's bible study group in her church and serving on the Cambridge 
+            Commission on the Status of Women. She also ran a teen center out of Corcoran Park 
+            for the City of Cambridge, was involved in prison ministry work at a Massachusetts 
+            women's prison, and ran (with another Cambridge resident), a non-profit holiday shop 
+            for kids at the Tobin School that allowed kids to be able to buy gifts for their family members.
+             She recalls that:<blockquote>
+            "We wanted kids to experience the joy of being a giver and to bless other people. It was so
+             beautiful seeing the kids getting excited about buying things for their family and friends."
+             </blockquote>
 
-//        <Br><Br> Robin has a long history of supporting Cambridge in various volunteer efforts, from running
-//          a Tobin School youth group to working for the Election Commission to leading a women's bible
-//           study group in her church and serving on the Cambridge Commission on the Status of Women. She also
-//           ran a teen center out of Corcoran Park for the City of Cambridge, was involved in prison ministry
-//           work at a Massachusetts women's prison, and ran (with another Cambridge resident), a non-profit holiday shop for kids
-//           at the Tobin School that allowed kids to be able to buy gifts for their family members. In that program, she recalls that:
-          
-//           <blockquote>
-//             "We wanted kids to experience what it's like to be a <i>giver</i> and to bless other people. It was 
-//             so beautiful seeing the kids buying things for their family."
-//           </blockquote>
 
        
 
-//         `,
-//         otherNotes: "",
-//         references: ` 
-//           Interview with Robin McCree found at the Cambridge Black History Project: <a href="https://vimeo.com/725359798">https://vimeo.com/725359798</a><Br>
-//             <a href="https://www.linkedin.com/in/robin-mccree-51768623/">https://www.linkedin.com/in/robin-mccree-51768623/</a><Br>
-//             Photos from BB&N yearbook 1975, Tufts yearbook 1979<Br>
-//             <a href="http://rwinters.com/council/120423.htm">Cambridge City Council Meeting December 4, 2023 </a><br>
-//             Interview with Robin McCree, conducted by Anthony Beckwith, Jan. 9, 2026
+        `,
+        otherNotes: "",
+        references: ` 
+          Interview with Robin McCree found at the Cambridge Black History Project: <a href="https://vimeo.com/725359798">https://vimeo.com/725359798</a><Br>
+            <a href="https://www.linkedin.com/in/robin-mccree-51768623/">https://www.linkedin.com/in/robin-mccree-51768623/</a><Br>
+            Photos from BB&N yearbook 1975, Tufts yearbook 1979<Br>
+            <a href="http://rwinters.com/council/120423.htm">Cambridge City Council Meeting December 4, 2023 </a><br>
+            Interview with Robin McCree, conducted by Anthony Beckwith, Jan. 9 and Jan. 13, 2026
         
-//              `,
-//         photos: ["images_bios/mccree1.png", "images_bios/mccree2.png"],
-//         photoTitles: ["BB&N, 1975","Tufts, 1979"],
-//         dateCreated: "01.09.2026",
-//         dateUpdated: "",
+             `,
+        photos: ["images_bios/mcree.jpg", "images_bios/mccree1.png"],
+        photoTitles: ["","Robin McCree at BB&N, 1975"],
+        dateCreated: "01.13.2026",
+        dateUpdated: "",
 
-//         photoHeights: ["230"],
-//         editors: "",
-//         authors: "Anthony Beckwith",
-//         categories: ["Clerk", "Law Enforcement"],
-//     },
+        photoHeights: [""],
+        editors: "",
+        authors: "Anthony Beckwith",
+        categories: ["Clerk", "Law Enforcement"],
+    },
 ];
