@@ -303,4 +303,94 @@ p_bios = [
         authors: "CWHP volunteers",
         categories: ["Physical Therapist ", "Volunteer"],
     },
+      {
+        organization: false,
+        lastName: "Peters",
+        firstName: "Kaethe",
+        middleName: "",
+        familyName: "Jacob",
+        
+        title: `Social worker, educator, volunteer`,
+        birthDate: "10.03.1914",
+        birthLocation: "Erfurt, Germany",
+        deathDate: "10.21.2012",
+        deathLocation: "Cambridge, Massachusetts",
+        narrative: `
+        The following is excerpted, with permission, from a 2012 obituary for Kaethe Peters, written by Matthew Peters:<Br><Br>
+      <blockquote>  Kaethe Peters once wrote,         <blockquote>
+
+        "I found from my experiences that it is essential to enrich one's own personality 
+        to capacity so that one can give freely to others."
+        </blockquote>
+
+        Possessing a beautiful smile and utilizing her compassion for others, Katya worked for 80 years to improve 
+        her community and the lives of other people. <Br><Br>
+
+        Katya was born in Germany and left for England [according to lore] two days before the start of World War
+         II, during which she lost both her parents and younger sister in the concentration camps. Shortly after 
+         arriving in England, she was arrested for being an enemy alien and detained on the Isle of Man with 4,000 
+         other Germans, Jews and Nazis alike. <Br><Br>
+
+        Upon her release six months later, Katya began studying to be a social worker at the University of London
+         while working full time. In 1949 she traveled to Israel to work with Arab families to improve their health,
+          nutrition, and housing...Katya earned a Fulbright Scholarship to pursue her Masters degree at Columbia University,
+           arriving in New York with $5 in her pocket. After marrying Stefan Peters, a mathematician, and earning her
+            Masters degree, she moved to Cambridge in 1953.<Br><Br> 
+
+        Katyas 60-year career in the Boston/Cambridge area was dedicated to the support of mentally challenged 
+        children and their families. For many years she worked at Boston Children's Service, and was later the 
+        Director of Social Services in the Shriver Center at the Water E. Fernald State School. In 1981 Katya 
+        founded Integrated Foster Care, an agency that focused on placing developmentally challenged children 
+        in foster homes and created programs to address their medical, educational, and recreational needs. <Br><Br>
+
+        At the age of 83, Katya created a program in a special needs class in the Cambridge Rindge and Latin
+         High School based on the Orff method of music therapy, and she went faithfully to oversee the program 
+         up to the time of her death. <Br><Br>
+
+        Katya also worked tirelessly to develop educational and community programs in Cambridge. She was a 
+        founding member of both the Community Schools Program and the Enrichment Program, the Commissioner
+         of the Cambridge Human Rights Commission for two years, a member of the Cambridge Community Foundation, 
+         and once an active member of the PTA.<Br><Br> 
+
+        She received the Jeanne V. Burton Award for Community Service in 2001. In addition, she received 
+        numerous other forms of recognition from the City of Cambridge, the Commonwealth of Massachusetts, 
+        and the American Association of Mental Retardation for her work over the years. <Br><Br>
+
+        Katya was happiest sitting on her sunny porch in Vinalhaven, Maine, with her husband, or when frequenting 
+        one of her favorite restaurants, enjoying good food, drink, and conversation.</blockquote>
+        <hr>
+        Kaethe Peters lived at 93 Upland Road in Cambridge for several decades. <br><Br>
+        In a 1999 interview in the Cambridge Chronicle, Peters discussed the Orff Project that she had initiated at the high school, 
+        where developmentally delayed students learned to use percussive, yet melodic, instruments (like the xylophone) in order to improve their
+        capacity for learning in all subject areas: 
+       <blockquote>"The most outstanding feature of these instruments is that anybody, however disabled or emotionally
+       disturbed, can produce a beautiful tone. The element of failure, so prevalent in the teaching of disabled people,
+       is thereby eliminated."
+
+       </blockquote>
+       In the <i>Boston Globe's</i> obituary, State Representative Alice Wolf was quoted as saying of Peters:
+       <blockquote>
+        "Kathy was a very active member of the Cambridge community. Children were really her area of interest. 
+        She was very outgoing and very feisty, an activist and an advocate, and she always had a smile on her face."
+       </blockquote>
+                `,
+        otherNotes: "",
+        references: ` Oral interview with Peters' son, Matthew Peters<Br>
+        Online <a href="https://www.legacy.com/us/obituaries/wickedlocal-cambridgechronicle/name/kaethe-peters-obituary?id=20281318">
+        obit</a> written by Matthew Peters<br>
+         1965 City Directory<Br>
+        <i>The Cambridge Chronicle</i>, Volume 139, Number 30, 25 July 1985 & Volume 153, Number 49, 8 December 1999
+        <br>November 22, 2012 <i>The Boston Globe</i> <a href="https://www.bostonglobe.com/metro/obituaries/2012/11/22/kaethe-peters-cambridge-longtime-social-worker-educator/y50M8As1eXlni67qqiTd3I/story.html">
+        obituary</a> for Peters
+        `,
+        photos: ["images_bios/peters.png"],
+        photoTitles: [""],
+        dateCreated: "01.13.2026",
+        dateUpdated: "",
+
+        photoHeights: [""],
+        editors:"",
+        authors: "Anthony Beckwith",
+        categories: ["Social worker", "Volunteer", "Teacher/Educator"],
+    },
 ];

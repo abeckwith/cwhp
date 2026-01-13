@@ -2273,16 +2273,17 @@ Thu, Sep 30, 1999, page 77
         narrative: `
 
 
-            Annie E. Burrell attended the Houghton Elementary
-            School and Cambridge High and Latin School. She was a homemaker and also worked
+            Annie Thurston attended the Houghton Elementary
+            School and Cambridge High and Latin School. After she married, she was a homemaker and worked
             for many years at the <a href="bios.html?lNm=WindowShop&mNm=&fNm=">Window Shop</a> in
              Harvard Square, a consignment shop created by a group of women who wished to help refugees fleeing Europees and 
-             one of the few businesses in Cambridge to hire African Americans leaving the South. She also served with the Cambridge Election
+             one of the few businesses in Cambridge to hire African Americans leaving the South. 
+             She also served with the Cambridge Election
             Commission. <br><br>She was an active member on the board of directors at the Cambridge
             Community Center on Callendar Street, from 1985 to 1993. In 1993 she was named honorary member and
             continued her service to the center and community by supporting their activities
             and events. Her family lived for many years at 220 Western Avenue and she later lived at 89 Brookline 
-            Street with her husband and children.<br><br>She was 84 when she died. 
+            Street with her husband (Stanley Jones Burrell) and two children.<br><br>She was 84 when she died. 
 
             `,
         otherNotes: "",

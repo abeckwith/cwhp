@@ -444,9 +444,9 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
         //has a title for second image:
         if (person.photoTitles.length == 2 && person.photoTitles[1] != "")
             title =
-                '<tr><td align="center">' +
+                '<tr><td align="center"><i>' +
                 person.photoTitles[1] +
-                "</td></tr>";
+                "</i></td></tr>";
         else title = "";
 
         html +=

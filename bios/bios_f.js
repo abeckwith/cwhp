@@ -337,9 +337,10 @@ In
     
         Goldie Lane grew up at 189 Windsor Street in Cambridge, the daughter of William Lane
          (born in North Carolina) and Alice Twine (born in Massachusetts). In 1908, at age 24, Goldie became 
-         a teacher at the Boardman School, just down the street at 105 Windsor Street in Cambridge. <br><Br>Cambridge
-          resident <a href="bios.html?ln=Thompson&mN=Crutchfield&fN=Mary">Mary Crutchfield Thompson</a>,
-           one of the first African Americans to graduate from Tufts Dental School, recalled Lane in a
+         a teacher at the Boardman School at 105 Windsor Street, just a block away from her home. 
+         <br><Br>Cambridge
+          resident <a href="bios.html?ln=Thompson&mN=Crutchfield&fN=Mary">Mary Crutchfield Thompson</a>
+           (one of the first African Americans to graduate from Tufts Dental School) recalled Lane in a
             1977 interview:<blockquote> "They used to have the Boardman School right across from where the Newtowne
              Court housing project is. And we had one black teacher there. Her name was Goldie Lane; 
              her father was a physician in Cambridge."</blockquote>
@@ -375,11 +376,11 @@ In
         1932 Cambridge High and Latin School yearbooks
 `,
         photos: [ "images_bios/franks_sep_4_1906.png", "images_bios/franks.png"],
-        photoTitles: ["Boton Globe, Sept. 4, 1906", "Goldie Franks daughter Elsie May Franks, CHLS Yearbook, 1932"],
+        photoTitles: ["Boton Globe, Sept. 4, 1906", "Goldie Franks' daughter Elsie May Franks, CHLS Yearbook, 1932"],
         dateCreated: "01.11.2026",
         dateUpdated: "",
-        photoPos: ["3"],
-        photoHeights: ["200"],
+        photoPos: ["1"],
+        photoHeights: ["160"],
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Teacher", "Writer"],
