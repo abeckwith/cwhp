@@ -78,7 +78,7 @@ t_bios = [
         middleName: "",
         familyName: "",
         
-        title: `Educator, Director of the Shady Hill School 1921-1949`,
+        title: `Educator, director of the Shady Hill School`,
         birthDate: "06.24.1888",
         birthLocation: "Hartford, Connecticut",
         deathDate: "03.12.1979",

@@ -415,7 +415,7 @@ m_bios = [
         middleName: "McGlinchey",
         familyName: "",
 
-        title: `Engineer, Physicist, Educator, Community Activist`,
+        title: `Engineer, physicist, educator, community activist`,
         birthDate: "02.10.1911",
         birthLocation: "Boston, Massachusetts",
         deathDate: "05.17.2004",
@@ -497,7 +497,7 @@ m_bios = [
         middleName: "Lewis",
         familyName: "Beckwith",
 
-        title: `Poet, Teacher, Activist`,
+        title: `Poet, teacher, activist`,
         birthDate: "00.00.1937",
         birthLocation: "Cambridge, Massachusetts",
         deathDate: "",
@@ -702,7 +702,7 @@ m_bios = [
         middleName: "May",
         familyName: "",
 
-        title: `Cambridge Pediatrician`,
+        title: `Pediatrician`,
         birthDate: "05.13.1894",
         birthLocation: "Providence, Rhode Island",
         deathDate: "06.05.1995",

@@ -6,7 +6,7 @@ z_bios = [
         middleName: "M.",
         familyName: "Totsi",
         
-        title: `Community Director`,
+        title: `Community director`,
         birthDate: "",
         birthLocation: "Cambridge, Massachusetts",
         deathDate: "",

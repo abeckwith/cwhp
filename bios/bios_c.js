@@ -143,7 +143,7 @@ c_bios = [
         middleName: "",
         familyName: "",
 
-        title: `Women's Educational Instituion`,
+        title: `Women's educational instituion`,
         birthDate: "",
         birthLocation: "",
         deathDate: "",
@@ -736,7 +736,7 @@ c_bios = [
         middleName: "",
         familyName: "",
 
-        title: `Affordable Childcare Organization`,
+        title: `Affordable childcare organization`,
         birthDate: "",
         birthLocation: "",
         deathDate: "",
@@ -794,7 +794,7 @@ c_bios = [
         middleName: "",
         familyName: "",
 
-        title: `Restaurant and Feminist Gathering Place<br>Founded 1997`,
+        title: `Restaurant and feminist gathering place<br>Founded 1997`,
         birthDate: "",
         birthLocation: "",
         deathDate: "",
@@ -852,7 +852,7 @@ c_bios = [
         middleName: "",
         familyName: "",
 
-        title: `Women-Owned Pottery Business and Collective<Br>Founded 1976`,
+        title: `Women-owned oottery business and collective<Br>Founded 1976`,
         birthDate: "",
         birthLocation: "",
         deathDate: "",
@@ -901,7 +901,7 @@ c_bios = [
         middleName: "E.",
         familyName: "",
 
-        title: `Resident and Property Owner/Developer`,
+        title: `Resident and property owner/developer`,
         birthDate: "00.00.1898",
         birthLocation: "Poland",
         deathDate: "02.01.1965",
@@ -1037,7 +1037,7 @@ c_bios = [
         middleName: "",
         familyName: "Ainsworth",
 
-        title: `Healer, Clairvoyant`,
+        title: `Healer, clairvoyant`,
         birthDate: "05.04.1819",
         birthLocation: "Calais, Vermont",
         deathDate: "1895",
@@ -1188,7 +1188,7 @@ c_bios = [
         middleName: "",
         familyName: "",
 
-        title: `Comedian and actress`,
+        title: `Comedia, actress`,
         birthDate: "09.06.1947",
         birthLocation: "Cambridge, Massachusetts",
         deathDate: "",

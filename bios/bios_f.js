@@ -64,7 +64,7 @@ f_bios = [
         middleName: "",
         familyName: "",
 
-        title: `Feminist Therapy Collective<br>1973-2013`,
+        title: `Feminist therapy collective<br>1973-2013`,
         birthDate: "",
         birthLocation: "",
         deathDate: "",
@@ -254,7 +254,7 @@ f_bios = [
         middleName: "",
         familyName: "",
 
-        title: `Author, Feminist, Transcendentalist<br>`,
+        title: `Author, feminist, transcendentalist<br>`,
         birthDate: "05.23.1810",
         birthLocation: "Cambridge, Massachusetts",
         deathDate: "07.19.1850",
@@ -358,8 +358,9 @@ In
          "the educational uplift of colored women."
         <Br><br>
         In February of 1910, Goldie Lane married Horace Hastings Franks, a porter originally from Norwell, 
-        Massachusetts, and shortly thereafter, Lane resigned from her teaching position, presumably to
-         raise her family (she gave birth to son Horace Jr. in 1911 and daughter Elsie May in 1915).
+        Massachusetts, and shortly thereafter, Lane resigned from her teaching position, as was required of 
+        married teachers at that time. She and her husband had two children, Horace Jr. in 1911 and Elsie May in 1915.
+
         <br><br>
          Sadly, in March of 1916, at the age of 34 and despite being in good health, Goldie Franks died suddenly. 
          Her death was attributed to "heart trouble." The couple had been living at 99 Howard Street at the time. The CWHP could 

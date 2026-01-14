@@ -114,7 +114,7 @@ l_bios = [
         middleName: "Louise",
         familyName: "King",
 
-        title: `Church member, Childcare provider`,
+        title: `Church member, childcare provider`,
         birthDate: "11.11.1898",
         birthLocation: "Barbados, West Indies",
         deathDate: "06.27.1983",
@@ -334,7 +334,7 @@ l_bios = [
         middleName: "",
         familyName: "Barron",
 
-        title: `Nurse, Community Leader, Volunteer`,
+        title: `Nurse, community leader, volunteer`,
         birthDate: "02.22.1908",
         birthLocation: "Adams Run, South Carolina",
         deathDate: "05.20.1997",
@@ -732,7 +732,7 @@ l_bios = [
         middleName: "M.",
         familyName: "",
 
-        title: `Feminist, Social activist, Photographer`,
+        title: `Feminist, social activist, photographer`,
         birthDate: "11.11.1940",
         birthLocation: "Ipswich, Massachusetts",
         deathDate: "09.04.2025",

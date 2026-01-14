@@ -6,7 +6,7 @@ y_bios = [
         middleName: "",
         familyName: "",
         
-        title: `Reproductive Rights Activist, Writer, Social Worker`,
+        title: `Reproductive rights activist, writer, social worker`,
         birthDate: "00.00.1952",
         birthLocation: "Oregon",
         deathDate: "",
@@ -148,7 +148,7 @@ y_bios = [
         middleName: "",
         familyName: "Foa",
         
-        title: `Teacher, Radio Host`,
+        title: `Teacher, radio host`,
         birthDate: "04.17.1908",
         birthLocation: "Turin, Italy",
         deathDate: "10.00.2006",

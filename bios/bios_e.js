@@ -132,7 +132,7 @@ e_bios = [
         middleName: "",
         familyName: "",
         
-        title: `Labor and community Activist, educator`,
+        title: `Labor and community activist, educator`,
         birthDate: "00.00.1946",
         birthLocation: "Boston, Massachusetts",
         deathDate: "",
@@ -199,7 +199,7 @@ e_bios = [
         middleName: "Marguerite",
         familyName: "",
         
-        title: `Pathologist, First African American Woman Admitted to Tufts Medical School`,
+        title: `Pathologist, first African American woman admitted to Tufts Medical School`,
         birthDate: "02.17.1898",
         birthLocation: "Georgetown County, South Carolina",
         deathDate: "06.16.1943",

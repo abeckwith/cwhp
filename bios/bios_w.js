@@ -43,7 +43,7 @@ w_bios = [
         middleName: "Abernethy",
         familyName: "",
 
-        title: `Teacher, Human Rights Activist, Volunteer`,
+        title: `Teacher, human rights activist, volunteer`,
         birthDate: "05.16.1936",
         birthLocation: "Shelby, North Carolina",
         deathDate: "01.03.2010",
@@ -107,7 +107,7 @@ w_bios = [
         middleName: "",
         familyName: "",
 
-        title: `Feminist, Human Rights Activist, Tenant's and Welfare Rights Organizer`,
+        title: `Feminist, human rights activist, tenant's and welfare rights organizer`,
         birthDate: "00.00.1940",
         birthLocation: "Boston, Massachusetts",
         deathDate: "",
@@ -407,7 +407,7 @@ w_bios = [
         middleName: "",
         familyName: "Rinaldi",
 
-        title: `Factory worker, PTA president, Volunteer`,
+        title: `Factory worker, PTA president, volunteer`,
         birthDate: "08.24.1921",
         birthLocation: "",
         deathDate: "12.14.2014",
@@ -457,7 +457,7 @@ Cambridge City Directory, 1926
         middleName: "",
         familyName: "",
 
-        title: `1939-1971`,
+        title: `Consignment shop`,
         birthDate: "",
         birthLocation: "",
         deathDate: "",
@@ -767,7 +767,7 @@ Cambridge City Directory, 1926
         middleName: "",
         familyName: "Koerner",
 
-        title: `State representative, former Mayor of Cambridge`,
+        title: `State representative, former mayor of Cambridge`,
         birthDate: "12.24.1933",
         birthLocation: "Vienna, Austria",
         deathDate: "01.26.2023",
@@ -1049,12 +1049,12 @@ Cambridge City Directory, 1926
     },
     {
         organization: true,
-        lastName: "Women's School of Cambridge, 595 Massachusetts Avenue",
+        lastName: "Women's School of Cambridge",
         firstName: "",
         middleName: "",
         familyName: "",
 
-        title: `1971-1992`,
+        title: `Alternative feminist education center<Br>1971-1992`,
         birthDate: "",
         birthLocation: "",
         deathDate: "",

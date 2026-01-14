@@ -186,7 +186,7 @@ g_bios = [
         middleName: "",
         familyName: "",
 
-        title: `Poet, Author, Teacher`,
+        title: `Poet, author, teacher`,
         birthDate: "04.22.1943",
         birthLocation: "New York, New York",
         deathDate: "10.13.2023",
@@ -373,7 +373,7 @@ g_bios = [
         middleName: "Bache",
         familyName: "",
 
-        title: `Mathematician, Historical researcher, Educator`,
+        title: `Mathematician, historical researcher, educator`,
         birthDate: "01.05.1868",
         birthLocation: "Cambridge, Massachusetts",
         deathDate: "07.25.1953",
@@ -549,7 +549,7 @@ g_bios = [
         middleName: "",
         familyName: "",
 
-        title: `Educator, Community activist, Nonprofit Consultant`,
+        title: `Educator, community activist, nonprofit consultant`,
         birthDate: "04.19.1951",
         birthLocation: "Portsmouth, VA",
         deathDate: "01.24.2017",
@@ -633,7 +633,7 @@ g_bios = [
         middleName: "",
         familyName: "Revaleon",
 
-        title: `Teacher and local historian`,
+        title: `Teacher, local historian`,
         birthDate: "09.13.1912",
         birthLocation: "Cambridge, Massachusetts",
         deathDate: "02.10.2012",
@@ -725,7 +725,7 @@ g_bios = [
         middleName: "",
         familyName: "",
 
-        title: `Craft Collective, 204 Hampshire Street<br>1974-1979`,
+        title: `Craft collective, 204 Hampshire Street<br>1974-1979`,
         birthDate: "",
         birthLocation: "",
         deathDate: "",
@@ -850,7 +850,7 @@ g_bios = [
         middleName: "",
         familyName: "Harris",
 
-        title: `Financial Aid Director, Community center board member, Volunteer`,
+        title: `Financial aid director, community center board member, volunteer`,
         birthDate: "00.00.1947",
         birthLocation: "Cambridge, Massachusetts",
         deathDate: "",

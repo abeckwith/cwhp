@@ -155,7 +155,7 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
         middleName: "Noble",
         familyName: "Coe",
 
-        title: `Hospital administrator, Volunteer`,
+        title: `Hospital administrator, volunteer`,
         birthDate: "11.11.1931",
         birthLocation: "Waterbury, Connecticut",
         deathDate: "12.31.2000",
@@ -349,7 +349,7 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
         middleName: "",
         familyName: "",
 
-        title: `Mayor, City Councilor, School Committee Member`,
+        title: `Mayor, city councilor, school committee member`,
         birthDate: "00.00.1945",
         birthLocation: "Newton, Massachusetts",
         deathDate: "",
@@ -422,7 +422,7 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
         middleName: "",
         familyName: "",
 
-        title: `Singer, Songwriter, Writer, and Political Activist`,
+        title: `Singer, songwriter, writer, political activist`,
         birthDate: "07.20.1949",
         birthLocation: "Asheville, North Carolina",
         deathDate: "03.11.2015",
@@ -715,7 +715,7 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
         middleName: "Lynde",
         familyName: "",
 
-        title: `Educator, Reformer`,
+        title: `Educator, reformer`,
         birthDate: "04.04.1802",
         birthLocation: "Hampden, Maine",
         deathDate: "07.18.1887",
@@ -803,7 +803,7 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
         middleName: "",
         familyName: "",
 
-        title: `Sculptor, Public Artist`,
+        title: `Sculptor, public artist`,
         birthDate: "00.00.1954",
         birthLocation: "",
         deathDate: "",
@@ -976,7 +976,7 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
         middleName: "Glover",
         familyName: "Harris",
 
-        title: `First Proprietor of a Printing Press in America`,
+        title: `First proprietor of a printing press in America`,
         birthDate: "ca.1600",
         birthLocation: "England",
         deathDate: "08.00.1643",

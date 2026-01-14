@@ -6,7 +6,7 @@ h_bios = [
         middleName: "",
         familyName: "Hopkinson",
 
-        title: `Author and Activist`,
+        title: `Author, activist`,
         birthDate: "05.08.1907",
         birthLocation: "Manchester, Massachusetts",
         deathDate: "12.13.2006",
@@ -294,7 +294,7 @@ h_bios = [
         middleName: "Radley",
         familyName: "",
 
-        title: `Episcopal priest , feminist theologian, educator`,
+        title: `Episcopal priest, feminist theologian, educator`,
         birthDate: "09.21.1936",
         birthLocation: "Hartford, Connecticut",
         deathDate: "05.30.2002",
@@ -559,7 +559,7 @@ h_bios = [
         middleName: "",
         familyName: "",
 
-        title: `Amateur archaeologist, Author`,
+        title: `Amateur archaeologist, author`,
         birthDate: "09.25.1861",
         birthLocation: "Cambridge, Massachusetts",
         deathDate: "ca.1941",
@@ -993,7 +993,7 @@ h_bios = [
         middleName: "",
         familyName: "",
 
-        title: `Lawyer, Volunteer, Sportswoman<br>`,
+        title: `Lawyer, volunteer, sportswoman<br>`,
         birthDate: "06.24.1886",
         birthLocation: "Boston, Massachusetts",
         deathDate: "04.01.1977",

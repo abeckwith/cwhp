@@ -73,7 +73,7 @@ s_bios = [
         middleName: "Marie",
         familyName: "",
 
-        title: `Poet and novelist`,
+        title: `Poet, novelist`,
         birthDate: "05.03.1912",
         birthLocation: "Wondelgem, Belgium",
         deathDate: "07.16.1995",
@@ -259,7 +259,7 @@ s_bios = [
         middleName: "Rose",
         familyName: "Merlesena",
 
-        title: `Activist, Childcare provider`,
+        title: `Activist, childcare provider`,
         birthDate: "ca.1925",
         birthLocation: "",
         deathDate: "01.08.2005",
@@ -325,8 +325,8 @@ s_bios = [
         middleName: "Denise",
         familyName: "",
 
-        title: `Business Owner,
-                City Councilor, Mayor, School Committee Member`,
+        title: `Business owner,
+                city councilor, mayor, school committee member`,
         birthDate: "00.00.1951",
         birthLocation: "Cambridge, Massachusetts",
         deathDate: "",
@@ -425,7 +425,7 @@ s_bios = [
         middleName: "Marchant",
         familyName: "Kimball",
 
-        title: `Historian, Editor, Administrator`,
+        title: `Historian, editor, administrator`,
         birthDate: "00.00.1908",
         birthLocation: "Oak Park, Illinois",
         deathDate: "02.06.2001",
@@ -486,7 +486,7 @@ s_bios = [
         middleName: "",
         familyName: "Forrester",
 
-        title: `Feminist, Architect`,
+        title: `Feminist, architect`,
         birthDate: "02.09.1932",
         birthLocation: "New York, New York",
         deathDate: "04.06.1998",

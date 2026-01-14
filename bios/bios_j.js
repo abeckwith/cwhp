@@ -83,7 +83,7 @@ j_bios = [
         familyName: "",
         
         title: `Politician,
-                Teacher, Author, Poet, Copy Editor`,
+                teacher, author, poet, copy editor`,
         birthDate: "03.17.1813",
         birthLocation: "Cranston, Rhode Island",
         deathDate: "05.14.1902",

@@ -144,7 +144,7 @@ here</a>)<br>
         middleName: "Howe",
         familyName: "Manning",
         
-        title: `Novelist and Playwright`,
+        title: `Novelist, playwright`,
         birthDate: "06.30.1905",
         birthLocation: "Dublin, Ireland",
         deathDate: "06.25.1999",
@@ -301,7 +301,7 @@ https://archive.org/details/journeyinbrazil00agasiala/page/n11/mode/2up</a>)
         middleName: "",
         familyName: "Bonomo",
         
-        title: `American Historian, Editor`,
+        title: `American historian, editor`,
         birthDate: "00.00.1938",
         birthLocation: "",
         deathDate: "",
@@ -407,7 +407,7 @@ https://archive.org/details/journeyinbrazil00agasiala/page/n11/mode/2up</a>)
         middleName: "",
         familyName: "Perkins",
         
-        title: `Writer and editor`,
+        title: `Writer, editor`,
         birthDate: "ca.1907",
         birthLocation: "Cambridge, Massachusetts",
         deathDate: "02.15.2000",
@@ -519,7 +519,7 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
         middleName: "Helen",
         familyName: "Woodson",
         
-        title: `Registered Nurse and Oral Historian`,
+        title: `Registered nurse, oral historian`,
         birthDate: "07.21.1907",
         birthLocation: "Cambridge, Massachusetts",
         deathDate: "09.04.2000",
@@ -590,7 +590,7 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
         middleName: "M.",
         familyName: "Maguire",
         
-        title: `Activist, Teacher`,
+        title: `Activist, teacher`,
         birthDate: "07.25.1941",
         birthLocation: "",
         deathDate: "07.14.2002",
@@ -804,7 +804,7 @@ July 9, 1999</i>
         middleName: "",
         familyName: "",
         
-        title: `Biologist and bookstore co-founder
+        title: `Biologist, bookstore co-founder
                             `,
         birthDate: "09.09.1934",
         birthLocation: "Buenos Argentina",
@@ -944,7 +944,7 @@ July 9, 1999</i>
         middleName: "\"Josie\" Camile",
         familyName: "Santagate",
         
-        title: `Social Activist, Housing Advocate`,
+        title: `Social activist, housing advocate`,
         birthDate: "09.17.1937",
 
         birthLocation: "Cambridge, Massachusetts",
@@ -1081,7 +1081,7 @@ July 9, 1999</i>
         middleName: "",
         familyName: "Ward",
         
-        title: `Artitst, Fashion Designer, Choreographer`,
+        title: `Artitst, fashion designer, choreographer`,
         birthDate: "00.00.1940",
         birthLocation: "Cambridge, Massachusetts",
         deathDate: "09.08.2013",

@@ -495,7 +495,7 @@ b_bios = [
         middleName: "Fiske",
         familyName: "",
 
-        title: `Author, Poet, Translator, Teacher`,
+        title: `Author, poet, translator, teacher`,
         birthDate: "11.30.1838",
         birthLocation: "New York, New York",
         deathDate: "09.01.1916",
@@ -717,7 +717,7 @@ b_bios = [
         middleName: "",
         familyName: "Pearson",
 
-        title: `Community leader, Volunteer, Linotype operator`,
+        title: `Community leader, volunteer, linotype operator`,
         birthDate: "06.30.1892",
         birthLocation: "Rock Hill, Jamaica",
         deathDate: "06.00.1977",
@@ -1315,7 +1315,7 @@ b_bios = [
         middleName: "",
         familyName: "Keefe",
 
-        title: `Activist, School Volunteer`,
+        title: `Activist, school volunteer`,
         birthDate: "12.03.1939",
         birthLocation: "Boston, Massachusetts",
         deathDate: "05.23.2001",
@@ -1366,7 +1366,7 @@ b_bios = [
         middleName: "Middleton",
         familyName: "",
 
-        title: `Biologist, Educator`,
+        title: `Biologist, educator`,
         birthDate: "02.22.1883",
         birthLocation: "Philadelphia, Pennsylvania",
         deathDate: "09.18.1955",
@@ -1603,7 +1603,7 @@ b_bios = [
         middleName: "Pearl",
         familyName: "",
 
-        title: `Culinary Historian, Cookbook Author, Television Producer`,
+        title: `Culinary historian, cookbook author, television producer`,
         birthDate: "00.00.1941",
         birthLocation: "Winthrop, Massachusetts",
         deathDate: "",
@@ -1717,8 +1717,8 @@ b_bios = [
         middleName: "Janet",
         familyName: "",
 
-        title: `Culinary Historian, Fashion Designer, 
-                Television Producer`,
+        title: `Culinary historian, fashion designer, 
+                television producer`,
         birthDate: "00.00.1937",
         birthLocation: "Winthrop, Massachusetts",
         deathDate: "09.07.2022",
@@ -1813,7 +1813,7 @@ b_bios = [
         middleName: "Agnes",
         familyName: "Burniston",
 
-        title: `Neurophysiologist and historian of science`,
+        title: `Neurophysiologist,historian of science`,
         birthDate: "05.17.1904",
         birthLocation: "Western-Super-Mare, England",
         deathDate: "05.09.1995",
@@ -1932,7 +1932,7 @@ b_bios = [
         middleName: "",
         familyName: "",
 
-        title: `Gourmet Vegetarian Restaurant and Center for Feminism<br>1974 - 1978
+        title: `Gourmet vegetarian restaurant and center for feminism<br>1974 - 1978
                `,
         birthDate: "",
         birthLocation: "",
@@ -2004,7 +2004,7 @@ b_bios = [
         middleName: "Eugenia",
         familyName: "Hawkins",
 
-        title: `Educator, School Founder, Lecturer`,
+        title: `Educator, school founder, lecturer`,
         birthDate: "06.11.1883",
         birthLocation: "Henderson, North Carolina",
         deathDate: "01.11.1961",
@@ -2095,7 +2095,7 @@ b_bios = [
         middleName: "",
         familyName: "Thorp",
 
-        title: `Writer and Artistic leader`,
+        title: `Writer, artistic leader`,
         birthDate: "03.24.1850",
         birthLocation: "Oxford, New York",
         deathDate: "01.00.1911",
@@ -2149,7 +2149,7 @@ b_bios = [
         middleName: "",
         familyName: "Ingraham",
 
-        title: `Educator, Microbiologist, University Administrator`,
+        title: `Educator, microbiologist, university administrator`,
         birthDate: "07.10.1910",
         birthLocation: "Brooklyn, New York",
         deathDate: "01.21.1998",
@@ -2309,7 +2309,7 @@ Thu, Sep 30, 1999, page 77
         middleName: "V.",
         familyName: "",
 
-        title: `Community Activist`,
+        title: `Community activist`,
         birthDate: "09.24.1929",
         birthLocation: "",
         deathDate: "07.14.1999",
@@ -2451,7 +2451,7 @@ Thu, Sep 30, 1999, page 77
         middleName: "",
         familyName: "",
 
-        title: `Champion Dog Sled Racer`,
+        title: `Champion dog sled racer`,
         birthDate: "12.26.1954",
         birthLocation: "Cambridge, Massachusetts",
         deathDate: "08.05.2006",
@@ -2523,7 +2523,7 @@ Thu, Sep 30, 1999, page 77
         middleName: "",
         familyName: "Shutt",
 
-        title: `Activist, Teacher, Writer`,
+        title: `Activist, teacher, writer`,
         birthDate: "00.00.1937",
         birthLocation: "Brooklyn, New York",
         deathDate: "",
@@ -2672,7 +2672,7 @@ Thu, Sep 30, 1999, page 77
         middleName: '"Betty"',
         familyName: "Eaton",
 
-        title: `Nonprofit Bookstore Co-Founder, Social Activist`,
+        title: `Nonprofit bookstore co-founder, social activist`,
         birthDate: "06.05.1913",
         birthLocation: "Cleveland, Ohio",
         deathDate: "07.12.1978",
@@ -2759,7 +2759,7 @@ Thu, Sep 30, 1999, page 77
         middleName: "Marie",
         familyName: "",
 
-        title: `Telephone company worker, Library trustee`,
+        title: `Telephone company worker, library trustee`,
         birthDate: "07.27.1908",
         birthLocation: "Cambridge, Massachusetts",
         deathDate: "05.05.1995",

@@ -6,7 +6,7 @@ k_bios = [
         middleName: "",
         familyName: "Mitchell",
         
-        title: `School Committee member,
+        title: `School committee member,
                 biographer`,
         birthDate: "02.23.1828",
         birthLocation: "Nantucket, Massachusetts",
