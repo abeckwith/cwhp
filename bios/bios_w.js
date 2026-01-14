@@ -1,5 +1,6 @@
 w_bios = [
     {
+        poc: false,
         organization: false,
         lastName: "Wadden",
         firstName: "Mary",
@@ -37,6 +38,7 @@ w_bios = [
         categories: ["Teacher/Educator"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Wallace",
         firstName: "Julia",
@@ -101,6 +103,7 @@ w_bios = [
         categories: ["Activist", "Teacher/Educator", "Volunteer"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Warrior",
         firstName: "Betsy",
@@ -256,6 +259,7 @@ w_bios = [
         categories: ["Activist", "Writer", "Editor"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Whitman",
         firstName: "Florence",
@@ -328,6 +332,7 @@ w_bios = [
         categories: ["Political Leader"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Whitney",
         firstName: "Anne",
@@ -401,6 +406,7 @@ w_bios = [
         categories: ["Artist", "Poet"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Williams",
         firstName: "Antoinette",
@@ -451,6 +457,7 @@ Cambridge City Directory, 1926
         categories: ["Factory Worker", "Volunteer"],
     },
     {
+        poc: false,
         organization: true,
         lastName: "Window Shop",
         firstName: "",
@@ -522,6 +529,7 @@ Cambridge City Directory, 1926
         categories: ["Refugee", "Social/Philanthropic Organization"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Winship",
         firstName: "Joanna",
@@ -564,6 +572,7 @@ Cambridge City Directory, 1926
         categories: ["Teacher/Educator"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Winthrop",
         firstName: "Hannah",
@@ -634,6 +643,7 @@ Cambridge City Directory, 1926
         categories: ["Community Leader", "Writer"],
     },
     {
+        poc: true,
         organization: false,
         lastName: "Wise",
         firstName: "Ozeline",
@@ -701,6 +711,7 @@ Cambridge City Directory, 1926
         categories: ["Volunteer"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Wise",
         firstName: "Pearl",
@@ -761,6 +772,7 @@ Cambridge City Directory, 1926
         categories: ["Community Leader", "Political Leader"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Wolf",
         firstName: "Alice",
@@ -821,6 +833,7 @@ Cambridge City Directory, 1926
         categories: ["Political Leader", "Refugee"],
     },
     {
+        poc: false,
         organization: true,
         lastName: "Women's Center",
         firstName: "",
@@ -874,6 +887,7 @@ Cambridge City Directory, 1926
         categories: ["Educational Institution/School", "Feminist Organization"],
     },
     {
+        poc: false,
         organization: true,
         lastName: "Women's Coffeehouse, 46 Pleasant Street",
         firstName: "",
@@ -929,6 +943,7 @@ Cambridge City Directory, 1926
         categories: ["Feminist Organization"],
     },
     {
+        poc: false,
         organization: true,
         lastName: "Women's Community Health Center",
         firstName: "",
@@ -992,6 +1007,7 @@ Cambridge City Directory, 1926
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
     },
     {
+        poc: false,
         organization: true,
         lastName: "Women's Law Collective",
         firstName: "",
@@ -1048,6 +1064,7 @@ Cambridge City Directory, 1926
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
     },
     {
+        poc: false,
         organization: true,
         lastName: "Women's School of Cambridge",
         firstName: "",

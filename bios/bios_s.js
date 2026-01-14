@@ -1,5 +1,6 @@
 s_bios = [
     {
+        poc: true,
         organization: false,
         lastName: "Saavedra-Keber",
         firstName: "Sylvia",
@@ -67,6 +68,7 @@ s_bios = [
         categories: ["Community Leader", "Teacher/Educator"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Sarton",
         firstName: "Eleanore (\"May\")",
@@ -164,6 +166,7 @@ s_bios = [
         categories: ["Refugee", "Poet", "Author"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Schlesinger",
         firstName: "Marian",
@@ -209,6 +212,7 @@ s_bios = [
         categories: ["Artist", "Author"],
     },
       {
+        poc: false,
         organization: false,
         lastName: "Spence",
         firstName: "Helen",
@@ -253,6 +257,7 @@ s_bios = [
         categories: ["Astronomer"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Shea",
         firstName: "Mary",
@@ -316,9 +321,10 @@ s_bios = [
         photoHeights: [],
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
-        categories: [""],
+        categories: ["Activist", "Child Care Provider"],
     },
     {
+        poc: true,
         organization: false,
         lastName: "Simmons",
         firstName: "E.",
@@ -419,6 +425,7 @@ s_bios = [
         ],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Smith",
         firstName: "Alice",
@@ -480,6 +487,7 @@ s_bios = [
         categories: ["Author"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Sprague",
         firstName: "Joan",
@@ -558,6 +566,7 @@ s_bios = [
         categories: ["Writer", "Architect"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Stevens",
         firstName: "Mabel",

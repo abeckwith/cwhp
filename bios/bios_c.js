@@ -1,5 +1,6 @@
 c_bios = [
     {
+        poc: false,
         organization: true,
         lastName: "Cambridge Neighborhood House",
         firstName: "",
@@ -62,6 +63,7 @@ c_bios = [
         categories: ["Social/Philanthropic Organization"],
     },
     {
+        poc: false,
         organization: true,
         lastName: "Cambridge Political Equality Association",
         firstName: "",
@@ -137,6 +139,7 @@ c_bios = [
         categories: ["Suffragists/Suffrage Group"],
     },
     {
+        poc: false,
         organization: true,
         lastName: "Cambridge School of Architecture and Landcape Architecture",
         firstName: "",
@@ -202,6 +205,7 @@ c_bios = [
         categories: ["Educational Institution/School", "School/Institution"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Cannon",
         firstName: "Annie",
@@ -270,6 +274,7 @@ c_bios = [
         categories: ["Scientist", "Suffragists/Suffrage Group", "Astronomer"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Cannon",
         firstName: "Cornelia",
@@ -357,6 +362,7 @@ c_bios = [
         categories: [""],
     },
     {
+        poc: false,
         organization: true,
         lastName: "Cantabrigia Club",
         firstName: "",
@@ -414,6 +420,7 @@ c_bios = [
         categories: ["Social/Philanthropic Organization", "Women's Club"],
     },
     {
+        poc: false,
         organization: true,
         lastName: "Cell 16",
         firstName: "",
@@ -462,6 +469,7 @@ c_bios = [
         categories: ["Feminist Organization"],
     },
     {
+        poc: false,
         organization: true,
         lastName: "Centro Presente",
         firstName: "",
@@ -507,6 +515,7 @@ c_bios = [
         categories: ["Social/Philanthropic Organization"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Chall",
         firstName: "Jeanne",
@@ -567,6 +576,7 @@ c_bios = [
         categories: ["Teacher/Educator", "Psychologist"],
     },
     {
+        poc: true,
         organization: false,
         lastName: "Chen",
         firstName: "Joyce",
@@ -627,6 +637,7 @@ c_bios = [
         categories: ["Businesswoman", "Chef"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Child",
         firstName: "Julia",
@@ -730,6 +741,7 @@ c_bios = [
         categories: ["Chef"],
     },
     {
+        poc: false,
         organization: true,
         lastName: "Child Care Resource Center (CCRC)",
         firstName: "",
@@ -788,6 +800,7 @@ c_bios = [
         ],
     },
     {
+        poc: false,
         organization: true,
         lastName: "City Girl Cafe",
         firstName: "",
@@ -846,6 +859,7 @@ c_bios = [
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
     },
     {
+        poc: false,
         organization: true,
         lastName: "Clayground",
         firstName: "",
@@ -895,6 +909,7 @@ c_bios = [
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Cohen",
         firstName: "Bertha",
@@ -961,6 +976,7 @@ c_bios = [
         categories: ["Businesswoman"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Comstock",
         firstName: "Ada",
@@ -1031,6 +1047,7 @@ c_bios = [
         categories: ["Teacher/Educator"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Cooke",
         firstName: "Lucy",
@@ -1118,6 +1135,7 @@ c_bios = [
         categories: ["Clairvoyant"],
     },
     {
+        poc: true,
         organization: false,
         lastName: "Cummins",
         firstName: "Rose",
@@ -1182,6 +1200,7 @@ c_bios = [
         categories: [""],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Curtin",
         firstName: "Jane",

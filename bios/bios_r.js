@@ -1,5 +1,6 @@
 r_bios = [
     {
+        poc: false,
         organization: false,
         lastName: "Rey",
         firstName: "Margaret",
@@ -102,6 +103,7 @@ r_bios = [
     },
 
     {
+        poc: false,
         organization: false,
         lastName: "Roe",
         firstName: "Anne",
@@ -155,6 +157,7 @@ r_bios = [
         categories: ["Teacher/Educator", "Psychologist"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Roorbach",
         firstName: "Anne",
@@ -232,6 +235,7 @@ r_bios = [
         categories: ["Activist", "Teacher/Educator", "Reformer"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Rubinow",
         firstName: "Betty",

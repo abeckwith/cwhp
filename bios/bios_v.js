@@ -1,5 +1,6 @@
 v_bios = [
     {
+        poc: true,
         organization: false,
         lastName: "Valenzuela",
         firstName: "Julia",
@@ -48,6 +49,7 @@ v_bios = [
         categories: ["Activist"],
     },
     {
+        poc: true,
         organization: false,
         lastName: "Viggiani",
         firstName: "Flavia",

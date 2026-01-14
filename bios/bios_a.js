@@ -1,5 +1,6 @@
 a_bios = [
     {
+        poc: false,
         organization: false,
         lastName: "Ackermann",
         firstName: "Barbara",
@@ -65,6 +66,7 @@ a_bios = [
         categories: ["Political Leader"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Abbott",
         firstName: "Eleanor",
@@ -138,6 +140,7 @@ here</a>)<br>
     },
 
     {
+        poc: false,
         organization: false,
         lastName: "Adams",
         firstName: "Mary",
@@ -221,6 +224,7 @@ here</a>)<br>
     },
 
     {
+        poc: false,
         organization: false,
         lastName: "Agassiz",
         firstName: "Elizabeth",
@@ -295,6 +299,7 @@ https://archive.org/details/journeyinbrazil00agasiala/page/n11/mode/2up</a>)
         categories: ["Teacher/Educator"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Albright",
         firstName: "Carol",
@@ -356,6 +361,7 @@ https://archive.org/details/journeyinbrazil00agasiala/page/n11/mode/2up</a>)
         ],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Aldrich",
         firstName: "Elizabeth",
@@ -401,6 +407,7 @@ https://archive.org/details/journeyinbrazil00agasiala/page/n11/mode/2up</a>)
         categories: ["Community Leader"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Aldrich",
         firstName: "Elizabeth",
@@ -442,6 +449,7 @@ https://archive.org/details/journeyinbrazil00agasiala/page/n11/mode/2up</a>)
         categories: ["Author"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Alice James Books",
         firstName: "",
@@ -513,6 +521,7 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
     },
 
     {
+        poc: true,
         organization: false,
         lastName: "Alleyne",
         firstName: "Corinne",
@@ -584,6 +593,7 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
         categories: ["Nurse"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Al-Weqayan",
         firstName: "Ellen",
@@ -640,6 +650,7 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
         categories: ["Activist", "Teacher/Educator"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Anders",
         firstName: "Rosalie",
@@ -694,6 +705,7 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
         categories: ["Activist"],
     },
     {
+        poc: true,
         organization: false,
         lastName: "Andrade",
         firstName: "Dominga",
@@ -739,6 +751,7 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
     },
  
     {
+        poc: true,
         organization: false,
         lastName: "Archer",
         firstName: "Linda",
@@ -798,6 +811,7 @@ July 9, 1999</i>
         categories: [""],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Arditti",
         firstName: "Rita",
@@ -890,6 +904,7 @@ July 9, 1999</i>
         categories: ["Community Leader", "Scientist"],
     },
     {
+        poc: true,
         organization: false,
         lastName: "Argaw",
         firstName: "Seble",
@@ -938,6 +953,7 @@ July 9, 1999</i>
         categories: ["Community Leader"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Avakian",
         firstName: "Josephine",
@@ -1035,6 +1051,7 @@ July 9, 1999</i>
         categories: ["Activist","Housing Advocate"],
     },
     {
+        poc: true,
         organization: false,
         lastName: "Azevedo",
         firstName: "Louise",
@@ -1075,6 +1092,7 @@ July 9, 1999</i>
         categories: ["Volunteer"],
     },
     {
+        poc: true,
         organization: false,
         lastName: "Armstrong",
         firstName: "Barbara",

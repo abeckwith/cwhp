@@ -1,5 +1,6 @@
 h_bios = [
     {
+        poc: false,
         organization: false,
         lastName: "Halsted",
         firstName: "Isabella",
@@ -58,6 +59,7 @@ h_bios = [
         categories: ["Activist", "Author"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Hamilton",
         firstName: "Alice",
@@ -109,6 +111,7 @@ h_bios = [
         categories: ["Doctor"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Hamilton",
         firstName: "Margaret",
@@ -163,6 +166,7 @@ h_bios = [
         categories: ["Businesswoman"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Harvey",
         firstName: "Beatrice",
@@ -208,6 +212,7 @@ h_bios = [
     },
 
     {
+        poc: false,
         organization: false,
         lastName: "Herman",
         firstName: "Judith",
@@ -288,6 +293,7 @@ h_bios = [
         categories: ["Teacher/Educator", "Psychiatrist"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Hiatt",
         firstName: "Suzanne",
@@ -353,6 +359,7 @@ h_bios = [
         categories: ["Clergy", "Teacher/Educator"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Hocking",
         firstName: "Agnes",
@@ -409,6 +416,7 @@ h_bios = [
         categories: ["Teacher/Educator", "Editor"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Holman",
         firstName: "Winifred",
@@ -469,6 +477,7 @@ h_bios = [
         categories: ["Acquitted of Witchcraft"],
     },
     {
+        poc: true,
         organization: false,
         lastName: "Hopkins",
         firstName: "Pauline",
@@ -553,6 +562,7 @@ h_bios = [
         categories: ["Writer"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Horsford",
         firstName: "Cornelia",
@@ -610,6 +620,7 @@ h_bios = [
         categories: ["Author"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Howe",
         firstName: "Lois",
@@ -757,6 +768,7 @@ h_bios = [
         categories: ["Architect"],
     },
     {
+        poc: true,
         organization: false,
         lastName: "Huang",
         firstName: "Audrey",
@@ -842,6 +854,7 @@ h_bios = [
         categories: ["Lawyer", "Teacher/Educator", "Businesswoman"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Hubbard",
         firstName: "Ruth",
@@ -921,6 +934,7 @@ h_bios = [
         categories: ["Activist", "Refugee", "Scientist"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Huntington",
         firstName: "Anna",
@@ -987,6 +1001,7 @@ h_bios = [
         categories: ["Artist"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Hurd",
         firstName: "Marjorie",
@@ -1095,6 +1110,7 @@ h_bios = [
         categories: ["Sportswoman", "Volunteer"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Henry",
         firstName: "Marian",

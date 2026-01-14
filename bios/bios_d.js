@@ -1,5 +1,6 @@
 d_bios = [
     {
+        poc: false,
         organization: false,
         lastName: "Dana",
         firstName: "Elizabeth",
@@ -45,6 +46,7 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
         categories: ["Historian/History Project"],
     },
     {
+        poc: false,
         organization: true,
         lastName: "Dandelion School",
         firstName: "",
@@ -89,6 +91,7 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
         categories: ["Educational Institution/School"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Daniels",
         firstName: "Mabel",
@@ -149,6 +152,7 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
     },
  
     {
+        poc: false,
         organization: false,
         lastName: "D'Arbeloff",
         firstName: "Sybil",
@@ -202,6 +206,7 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
         categories: ["Businesswoman", "Community Leader", "Volunteer"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Darling",
         firstName: "Louise",
@@ -277,6 +282,7 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
         categories: ["Law Enforcement", "Military"],
     },
     {
+        poc: false,
         organization: true,
         lastName: "Daughters of Bilitis",
         firstName: "",
@@ -343,6 +349,7 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
         categories: ["Feminist Organization"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Davis",
         firstName: "Henrietta",
@@ -416,6 +423,7 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
         categories: ["Environmentalist", "Political Leader", "Journalist"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Deihl",
         firstName: "Marcia",
@@ -521,6 +529,7 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
         categories: ["Activist", "Musician", "Author"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Denison",
         firstName: "Mary",
@@ -577,6 +586,7 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
         categories: [""],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Der-Hovanessian",
         firstName: "Diana",
@@ -646,6 +656,7 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
         categories: ["Poet"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Deutsch",
         firstName: "Helene",
@@ -709,6 +720,7 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
         categories: ["Psychiatrist", "Refugee"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Dix",
         firstName: "Dorothea",
@@ -797,6 +809,7 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
         categories: ["Teacher/Educator", "Reformer"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Driscoll",
         firstName: "Ellen",
@@ -848,6 +861,7 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
         categories: [""],
     },
     {
+        poc: false,
         organization: false,
         lastName: "DuBois",
         firstName: "Cora",
@@ -899,6 +913,7 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
         categories: ["Scientist"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Dunlap",
         firstName: "Louise",
@@ -970,6 +985,7 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
         categories: ["Activist", "Teacher/Educator", "Writer"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Dunster",
         firstName: "Elizbeth",

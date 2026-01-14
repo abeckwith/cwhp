@@ -57,7 +57,7 @@ body {
     overflow: auto;
 }
 .person-title{
-    font-size: 2.0vw;
+    font-size: 1.8vw;
 }
 .name-link,
 .letter-link {
@@ -259,9 +259,7 @@ td > a {
     #bio {
         font-size: 65%;
     }
-    .person-title{
-        font-size:80%;
-    }
+  
     .name-link {
         font-size: 224%;
     }
@@ -393,12 +391,18 @@ a.letter-links:visited {
     border-style: solid;
     /* width:50%; */
 }
+#full-name{
+    margin-bottom:50px;
+    color:rgb(76, 13, 92);
+}
+
 #born {
-    font-size: 2.0vw;
+    font-size: 1.7vw;
     margin-bottom: 10px;
     border-width: 0px;
     border-top: 7px;
-    margin-left:10px;
+    margin-left:25px;
+    margin-top: 50px;
     /* border-color: rgb(234, 212, 112); */
     /* transition: border-width 1.6s linear; */
     /* border-style: solid; */

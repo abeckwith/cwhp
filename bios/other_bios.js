@@ -13,6 +13,7 @@
    
    other_bios = [
    {
+        poc: false,
         organization: false,
         lastName: "Applebee",
         firstName: "Constance",
@@ -74,6 +75,7 @@
         categories: ["Sportswoman", "Teacher/Educator"],
     },
         {
+        poc: false,
         organization: false,
         lastName: "Painter",
         firstName: "Megan",
@@ -125,6 +127,7 @@
         categories: ["Community Leader"],
     },
         {
+        poc: false,
         organization: false,
         lastName: "Adams",
         firstName: "Hannah",
@@ -180,6 +183,7 @@
         categories: ["Author"],
     },
      {
+        poc: false,
         organization: false,
         lastName: "Cushman",
         firstName: "Charlotte",
@@ -234,6 +238,7 @@ Image source: <a href="https://en.wikipedia.org/wiki/Charlotte_Cushman" target="
         categories: ["Actress"],
     },
        {
+        poc: false,
         organization: false,
         lastName: "D'Antuono",
         firstName: "Eleanor",
@@ -279,6 +284,7 @@ Image source: <a href="https://en.wikipedia.org/wiki/Charlotte_Cushman" target="
         categories: ["Dancer"],
     },
         {
+        poc: false,
         organization: false,
         lastName: "Hayden",
         firstName: "Sophia",
@@ -341,6 +347,7 @@ Image source: <a href="https://en.wikipedia.org/wiki/Charlotte_Cushman" target="
         categories: ["Architect"],
     },
         {
+        poc: false,
         organization: false,
         lastName: "Richards",
         firstName: "Ellen",

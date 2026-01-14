@@ -1,5 +1,6 @@
 k_bios = [
     {
+        poc: false,
         organization: false,
         lastName: "Kendall",
         firstName: "Phebe",
@@ -66,6 +67,7 @@ k_bios = [
         ],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Kistiakowsky",
         firstName: "Vera",

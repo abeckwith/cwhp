@@ -37,6 +37,8 @@ function showBirthdays() {
     noimgct = 0;
     noqtct = 0;
     nbdct = 0;
+    pocct = 0;
+    pocList = "";
     currentDate = new Date();
     currentDate = currentDate.toLocaleDateString("en-US");
 
@@ -53,6 +55,7 @@ function showBirthdays() {
     all_bios.forEach((bioLetterList) => {
         //go through each name for this letter:
         bioLetterList.forEach((thename) => {
+            if(thename.poc){pocct++;pocList += pocct + ". " + thename.lastName + ", " + thename.firstName + "\n"}
             if (thename.firstName == "") orgcount++;
             else womanCount++;
             if (thename.deathDate != "" && thename.birthDate != "")
@@ -65,6 +68,7 @@ function showBirthdays() {
                 console.log(thename.lastName + " " + thename.firstName);
         });
     });
+    console.log(pocList)
     topDisplay = "TOTAL in database: " + (orgcount + womanCount) + "<br>";
     topDisplay += "# of Women: " + womanCount + "<Br>";
     topDisplay += "# of Organizations: " + orgcount + "<br>";
@@ -72,6 +76,7 @@ function showBirthdays() {
     all_bios.forEach((bioLetterList) => {
         //go through each name for this letter:
         bioLetterList.forEach((thename) => {
+
             lName = stripName(thename.lastName);
             fName = stripName(thename.firstName);
             mName = stripName(thename.middleName);

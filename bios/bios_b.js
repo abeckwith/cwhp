@@ -1,5 +1,6 @@
 b_bios = [
     {
+        poc: false,
         organization: true,
         lastName: "Back Porch Dance Company",
         firstName: "",
@@ -76,6 +77,7 @@ b_bios = [
         categories: ["Dancer"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Balch",
         firstName: "Emily",
@@ -176,6 +178,7 @@ b_bios = [
         categories: ["Activist", "Economist", "Editor"],
     },
     {
+        poc: true,
         organization: false,
         lastName: "Baldwin",
         firstName: "Maria",
@@ -258,6 +261,7 @@ b_bios = [
         ],
     },
     {
+        poc: true,
         organization: false,
         lastName: "Barlow",
         firstName: "Louisa",
@@ -308,6 +312,7 @@ b_bios = [
         categories: ["Abolitionist", "Refugee"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Barnes",
         firstName: "Mary",
@@ -358,6 +363,7 @@ b_bios = [
         categories: ["Community Leader", "Pilot"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Bancroft",
         firstName: "Mary",
@@ -430,6 +436,7 @@ b_bios = [
         categories: ["Intelligence Officer", "Author"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Barron",
         firstName: "Ruth",
@@ -489,6 +496,7 @@ b_bios = [
         categories: ["Businesswoman", "Volunteer"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Bates",
         firstName: "Charlotte",
@@ -542,6 +550,7 @@ b_bios = [
         categories: ["Teacher/Educator"],
     },
     {
+        poc: true,
         organization: false,
         lastName: "Battle",
         firstName: "De Ama",
@@ -603,6 +612,7 @@ b_bios = [
         categories: ["Dancer"],
     },
     {
+        poc: false,
         organization: true,
         lastName: "Bee, The",
         firstName: "",
@@ -644,6 +654,7 @@ b_bios = [
         categories: ["Social/Philanthropic Organization"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Bell",
         firstName: "Mabel",
@@ -711,6 +722,7 @@ b_bios = [
         categories: ["Teacher/Educator", "Suffragists/Suffrage Group"],
     },
     {
+        poc: true,
         organization: false,
         lastName: "Bennett",
         firstName: "Satyra",
@@ -775,6 +787,7 @@ b_bios = [
         categories: ["Community Leader", "Volunteer"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Berman",
         firstName: "Sara",
@@ -866,6 +879,7 @@ b_bios = [
         ],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Beukema",
         firstName: "Stephanie",
@@ -905,6 +919,7 @@ b_bios = [
         categories: ["Psychologist"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Bernays",
         firstName: "Anne",
@@ -980,6 +995,7 @@ b_bios = [
         categories: ["Author"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Bibring",
         firstName: "Grete",
@@ -1024,6 +1040,7 @@ b_bios = [
         categories: ["Psychiatrist", "Refugee"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Bishop",
         firstName: "Elizabeth",
@@ -1101,6 +1118,7 @@ b_bios = [
         categories: ["Poet"],
     },
     {
+        poc: true,
         organization: true,
         lastName: "Black Women Oral History Project",
         firstName: "",
@@ -1150,6 +1168,7 @@ b_bios = [
         categories: ["Historian/History Project"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Blackwell",
         firstName: "Alice",
@@ -1230,6 +1249,7 @@ b_bios = [
         ],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Bodecker",
         firstName: "Mary",
@@ -1309,6 +1329,7 @@ b_bios = [
         categories: ["Activist"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Bolger",
         firstName: "Ann",
@@ -1360,6 +1381,7 @@ b_bios = [
     },
 
     {
+        poc: false,
         organization: false,
         lastName: "Boring",
         firstName: "Alice",
@@ -1414,6 +1436,7 @@ b_bios = [
         categories: ["Teacher/Educator", "Scientist"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Boulanger",
         firstName: "Nadia",
@@ -1485,6 +1508,7 @@ b_bios = [
         categories: ["Teacher/Educator", "Musician"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Bradstreet",
         firstName: "Anne",
@@ -1543,6 +1567,7 @@ b_bios = [
         categories: ["Poet"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Brand",
         firstName: "Hermine",
@@ -1597,6 +1622,7 @@ b_bios = [
         categories: ["Librarian", "Businesswoman"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Brass",
         firstName: "Marilynn",
@@ -1711,6 +1737,7 @@ b_bios = [
         ],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Brass",
         firstName: "Sheila",
@@ -1807,6 +1834,7 @@ b_bios = [
         ],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Brazier",
         firstName: "Mary",
@@ -1860,6 +1888,7 @@ b_bios = [
         categories: ["Historian/History Project", "Scientist"],
     },
     {
+        poc: false,
         organization: true,
         lastName: "Bread and Roses",
         firstName: "",
@@ -1926,6 +1955,7 @@ b_bios = [
         categories: ["Feminist Organization"],
     },
     {
+        poc: false,
         organization: true,
         lastName: "Bread and Roses Restaurant",
         firstName: "",
@@ -1998,6 +2028,7 @@ b_bios = [
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
     },
     {
+        poc: true,
         organization: false,
         lastName: "Brown",
         firstName: "Charlotte",
@@ -2049,6 +2080,7 @@ b_bios = [
         categories: ["Teacher/Educator"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Brunt",
         firstName: "Ruth",
@@ -2089,6 +2121,7 @@ b_bios = [
         categories: ["Teacher/Educator", "Volunteer"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Bull",
         firstName: "Sara",
@@ -2143,6 +2176,7 @@ b_bios = [
         categories: ["Community Leader", "Author"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Bunting-Smith",
         firstName: "Mary",
@@ -2200,6 +2234,7 @@ b_bios = [
         categories: ["Teacher/Educator", "Scientist"],
     },
     {
+        poc: true,
         organization: false,
         lastName: "Burke",
         firstName: "Antonia",
@@ -2261,6 +2296,7 @@ Thu, Sep 30, 1999, page 77
         categories: ["Teacher/Educator"],
     },
     {
+        poc: true,
         organization: false,
         lastName: "Burrell",
         firstName: "Annie",
@@ -2303,6 +2339,7 @@ Thu, Sep 30, 1999, page 77
         categories: ["Community Leader"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Burton",
         firstName: "Jeanne",
@@ -2346,6 +2383,7 @@ Thu, Sep 30, 1999, page 77
         categories: ["Activist"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Butler",
         firstName: "Caroline",
@@ -2396,6 +2434,7 @@ Thu, Sep 30, 1999, page 77
         categories: ["Teacher/Educator"],
     },
     {
+        poc: true,
         organization: false,
         lastName: "Butler",
         firstName: "Gladys",
@@ -2445,6 +2484,7 @@ Thu, Sep 30, 1999, page 77
         categories: [""],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Butcher",
         firstName: "Susan",
@@ -2517,6 +2557,7 @@ Thu, Sep 30, 1999, page 77
         categories: ["Athlete"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Beckwith",
         firstName: "Barbara",
@@ -2623,6 +2664,7 @@ Thu, Sep 30, 1999, page 77
         categories: ["Activist", "Writer", "Teacher/Educator", "Journalist"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Bibber",
         firstName: "Florence",
@@ -2666,6 +2708,7 @@ Thu, Sep 30, 1999, page 77
         categories: ["Astronomer"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Butterfield",
         firstName: "Elizabeth",
@@ -2753,6 +2796,7 @@ Thu, Sep 30, 1999, page 77
         categories: ["Activist", "Non-profit Owner"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Boudreau",
         firstName: "Alma",

@@ -1,5 +1,6 @@
 n_bios = [
     {
+        poc: false,
         organization: true,
         lastName: "New Words (Center for)",
         firstName: "",

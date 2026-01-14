@@ -1,5 +1,6 @@
 i_bios = [
     {
+        poc: false,
         organization: false,
         lastName: "Ireson",
         firstName: "Adeline",

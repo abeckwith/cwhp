@@ -1,5 +1,6 @@
 m_bios = [
     {
+        poc: false,
         organization: false,
         lastName: "Majors",
         firstName: "Mary",
@@ -112,6 +113,7 @@ m_bios = [
         categories: ["Nurse", "Military"],
     },
     {
+        poc: false,
         organization: true,
         lastName: "Mapping Feminist Cambridge",
         firstName: "",
@@ -166,6 +168,7 @@ m_bios = [
         categories: ["Historian/History Project"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Misticke",
         firstName: "Squaw",
@@ -224,6 +227,7 @@ m_bios = [
         categories: ["Community Leader", "Political Leader"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Markham",
         firstName: "Helen",
@@ -288,6 +292,7 @@ m_bios = [
         categories: ["Activist", "Scientist"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Marshall",
         firstName: "Lorna",
@@ -350,6 +355,7 @@ m_bios = [
         categories: ["Scientist", "Writer"],
     },
     {
+        poc: false,
         organization: true,
         lastName: "Massachusetts Feminist Federal Credit Union",
         firstName: "",
@@ -409,6 +415,7 @@ m_bios = [
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Mathison",
         firstName: "Genevieve",
@@ -491,6 +498,7 @@ m_bios = [
         categories: ["Activist", "Teacher/Educator", "Scientist"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Mazur",
         firstName: "Gail",
@@ -569,6 +577,7 @@ m_bios = [
         categories: ["Teacher/Educator", "Poet"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Merrill",
         firstName: "Estelle",
@@ -635,6 +644,7 @@ m_bios = [
         categories: ["Community Leader", "Teacher/Educator", "Writer"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Mongan",
         firstName: "Agnes",
@@ -696,6 +706,7 @@ m_bios = [
         categories: ["Historian/History Project"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Moore",
         firstName: "Dorothea",
@@ -763,6 +774,7 @@ m_bios = [
         categories: ["Doctor"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Morgan",
         firstName: "Maud",
@@ -841,6 +853,7 @@ by Cate McQuaid,, April 12, 2017
         categories: ["Artist", "Teacher/Educator"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Morrison",
         firstName: "Kathleen",
@@ -938,6 +951,7 @@ by Cate McQuaid,, April 12, 2017
         categories: ["Business Manager"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Morrison",
         firstName: "Phylis",
@@ -985,6 +999,7 @@ by Cate McQuaid,, April 12, 2017
         categories: ["Artist", "Teacher/Educator", "Scientist", "Writer"],
     },
     {
+        poc: true,
         organization: false,
         lastName: "Morales",
         firstName: "Rosario",
@@ -1109,6 +1124,7 @@ by Cate McQuaid,, April 12, 2017
     },
 
     {
+        poc: false,
         organization: false,
         lastName: "McKay",
         firstName: "Amy",
@@ -1153,6 +1169,7 @@ by Cate McQuaid,, April 12, 2017
         categories: ["Astronomer"],
     },
      {
+        poc: false,
         organization: false,
         lastName: "McCree",
         firstName: "Robin",

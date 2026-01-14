@@ -1,5 +1,6 @@
 j_bios = [
     {
+        poc: true,
         organization: false,
         lastName: "Jacobs",
         firstName: "Harriet",
@@ -76,6 +77,7 @@ j_bios = [
         ],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Jacobs",
         firstName: "Sarah",
@@ -158,6 +160,7 @@ j_bios = [
         ],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Johnson",
         firstName: "Grace",
@@ -234,6 +237,7 @@ j_bios = [
         ],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Jones",
         firstName: "Alice",

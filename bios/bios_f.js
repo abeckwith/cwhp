@@ -1,5 +1,6 @@
 f_bios = [
     {
+        poc: false,
         organization: false,
         lastName: "Fleischmann",
         firstName: "Susan",
@@ -58,6 +59,7 @@ f_bios = [
         categories: ["Activist", "Teacher/Educator"],
     },
     {
+        poc: false,
         organization: true,
         lastName: "Focus Counseling and Consultation, Inc.",
         firstName: "",
@@ -113,6 +115,7 @@ f_bios = [
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Friedler",
         firstName: "Gladys",
@@ -179,6 +182,7 @@ f_bios = [
         categories: ["Scientist"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Frye",
         firstName: "Mary",
@@ -248,6 +252,7 @@ f_bios = [
         categories: ["Artist"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Fuller",
         firstName: "Margaret",
@@ -322,6 +327,7 @@ In
         categories: ["Social/Philanthropic Organization", "Author"],
     },
      {
+        poc: true,
         organization: false,
         lastName: "Franks",
         firstName: "Goldie",

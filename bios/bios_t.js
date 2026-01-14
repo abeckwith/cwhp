@@ -1,5 +1,6 @@
 t_bios = [
     {
+        poc: false,
         organization: false,
         lastName: "Taussig",
         firstName: "Helen",
@@ -72,6 +73,7 @@ t_bios = [
         categories: ["Doctor", "Author"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Taylor",
         firstName: "Katharine",
@@ -138,6 +140,7 @@ t_bios = [
         categories: ["Teacher/Educator"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Thomas",
         firstName: "Helen",
@@ -207,6 +210,7 @@ t_bios = [
         ],
     },
     {
+        poc: true,
         organization: false,
         lastName: "Thompson",
         firstName: "Mary",
@@ -278,6 +282,7 @@ t_bios = [
         categories: ["Dentist"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Turner",
         firstName: "Ruth",

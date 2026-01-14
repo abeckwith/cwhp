@@ -1,5 +1,6 @@
 z_bios = [
  {
+        poc: false,
         organization: false,
         lastName: "Zappala",
         firstName: "Dolores",

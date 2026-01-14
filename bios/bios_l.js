@@ -1,5 +1,6 @@
 l_bios = [
     {
+        poc: true,
         organization: false,
         lastName: "Ladd",
         firstName: "Florence",
@@ -65,6 +66,7 @@ l_bios = [
         categories: ["Psychologist", "Teacher/Educator"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Larson",
         firstName: "Linda",
@@ -108,6 +110,7 @@ l_bios = [
         categories: ["Writer", "Editor"],
     },
     {
+        poc: true,
         organization: false,
         lastName: "Layne",
         firstName: "Christol",
@@ -154,6 +157,7 @@ l_bios = [
         categories: ["Childcare Provider"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Leavitt",
         firstName: "Henrietta",
@@ -199,6 +203,7 @@ l_bios = [
         categories: ["Scientist", "Astronomer"],
     },
     {
+        poc: false,
         organization: true,
         lastName: "Lesbian Avengers and LGBTQ Seniors Group",
         firstName: "",
@@ -241,6 +246,7 @@ l_bios = [
         categories: ["Feminist Organization"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Lesley",
         firstName: "Edith",
@@ -328,6 +334,7 @@ l_bios = [
         categories: ["Teacher/Educator"],
     },
     {
+        poc: true,
         organization: false,
         lastName: "Lewis",
         firstName: "Emily",
@@ -412,6 +419,7 @@ l_bios = [
         categories: ["Nurse", "Volunteer", "Community Leader"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Longfellow",
         firstName: "Alice",
@@ -493,6 +501,7 @@ l_bios = [
         categories: ["Philanthropist", "Preservationist"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Lowell",
         firstName: "Maria",
@@ -549,6 +558,7 @@ l_bios = [
         categories: ["Abolitionist", "Poet"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Lowry",
         firstName: "Lois",
@@ -606,6 +616,7 @@ l_bios = [
         categories: ["Author"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Luscomb",
         firstName: "Florence",
@@ -726,6 +737,7 @@ l_bios = [
         categories: ["Activist", "Suffragists/Suffrage Group", "Architect"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Leno",
         firstName: "Mary",

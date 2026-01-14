@@ -1,5 +1,6 @@
 g_bios = [
     {
+        poc: true,
         organization: false,
         lastName: "Gatherwright",
         firstName: "Dorothy",
@@ -15,11 +16,12 @@ g_bios = [
             Dorothy A. (Wood) Gatherwright was born in Cambridge
             in 1903 and lived her entire life in Cambridge. Her family lived on Worcester Street. Dorothy learned to play the piano
             and became the accompanist to well-known contralto singer, Dorothy Richardson.
-            Dorothy said, &#8220;We went to the different colored colleges. We went from
+            Dorothy said, <blockquote>
+            &#8220;We went to the different colored colleges. We went from
             Maine on down south. I guess I must have met Dorothy [Richardson] at church.
             I was a born member of the church. I was taking piano lessons from William Lawrence;
-            he was the accompanist of Roland Hayes.&#8221; (Roland Hayes was a famous African
-            American singer.) <Br><Br>
+            he was the accompanist of Roland Hayes.&#8221; <br>(Roland Hayes was a famous African
+            American singer.) </blockquote>
             
             Dorothy played what she called &#8220;regular music&#8221;
             -- Negro spirituals and songs by black composers. According to her niece, Leora
@@ -44,6 +46,7 @@ g_bios = [
         categories: ["Musician"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Gilman",
         firstName: "Caroline",
@@ -105,6 +108,7 @@ g_bios = [
         categories: [""],
     },
     {
+        poc: false,
         organization: true,
         lastName: "Goddard-Cambridge Graduate Program in Social Change",
         firstName: "",
@@ -180,6 +184,7 @@ g_bios = [
         categories: ["Educational Institution/School", "School/Institution"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Gluck",
         firstName: "Louise",
@@ -265,6 +270,7 @@ g_bios = [
         categories: ["Poet", "Author"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Goodman",
         firstName: "Miriam",
@@ -367,6 +373,7 @@ g_bios = [
         categories: ["Photographer", "Poet"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Gould",
         firstName: "Alice",
@@ -443,6 +450,7 @@ g_bios = [
         ],
     },
     {
+        poc: true,
         organization: false,
         lastName: "Graham",
         firstName: "Saundra",
@@ -543,6 +551,7 @@ g_bios = [
         categories: ["Activist", "Political Leader"],
     },
     {
+        poc: true,
         organization: false,
         lastName: "Gray",
         firstName: "Renae",
@@ -627,6 +636,7 @@ g_bios = [
         categories: ["Activist", "Teacher/Educator"],
     },
     {
+        poc: true,
         organization: false,
         lastName: "Green",
         firstName: "Suzanne",
@@ -719,6 +729,7 @@ g_bios = [
         categories: ["Teacher/Educator", "Historian/History Project"],
     },
     {
+        poc: false,
         organization: true,
         lastName: "Gypsy Wagon Collective",
         firstName: "",
@@ -758,6 +769,7 @@ g_bios = [
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Gill",
         firstName: "Edith",
@@ -801,6 +813,7 @@ g_bios = [
         categories: ["Astronomer", "Teacher/Educator"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Gill",
         firstName: "Mabel",
@@ -844,6 +857,7 @@ g_bios = [
         categories: ["Astronomer"],
     },
     {
+        poc: true,
         organization: false,
         lastName: "Gittens",
         firstName: "Yvonne",

@@ -21,6 +21,7 @@ let RECENT_MONTHS_LIMIT2 = 5; //for recent edits part of recents page
  * Also called when page is loaded when person is selected
  **/
 function startBio() {
+ 
     setMenu(1); //1 = set that one to gray
 
     //get params from URL:
@@ -353,20 +354,20 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
         person.firstName;
 
     //name:
-    html += "<div class='name-heading'><strong>";
+    html += "<div class='name-heading'><strong><span id='full-name'>";
     if (person.firstName !== "") html += person.firstName + " ";
     if (person.middleName !== "") html += person.middleName + " ";
-    // if (person.familyName !== "") html += "(" + person.familyName + ") ";
     if (person.lastName !== " ") html += person.lastName + " ";
     if (person.familyName !== "")
         html +=
-            "<Br><span id='born'>(born " +
+            "</span><Br><span id='born'>(born " +
             person.firstName +
             " " +
             person.middleName +
             " " +
             person.familyName +
             ")</span> ";
+    else html += "</span>";
     if (person.firstName != "")
         document.title =
             "CWHP: " + person.lastName + ", " + person.firstName + "";
@@ -1054,7 +1055,7 @@ function setMenu(whichOneGray) {
  * Make all bios arrays available and do counts
  */
 function setTotals(about) {
-    setMenu(9); 
+    setMenu(9);
     alph = "abcdefghijklmnopqrstuvwxyz";
     var all_bios = getBios();
 
@@ -1212,6 +1213,8 @@ function next() {
  * @param {Boolean} search true if called from search.html
  */
 function init(topical, search) {
+
+
     //get rid of ltr after done with topics
     let alphaList = "SELECT: ";
 
@@ -1263,7 +1266,6 @@ function init(topical, search) {
             // "</center>" +
             '<div style="margin-bottom:50px"> </div>';
     else html = "";
- 
 
     document.getElementById("end-HTML").innerHTML = html;
 }

@@ -1,5 +1,6 @@
 y_bios = [
     {
+        poc: false,
         organization: false,
         lastName: "Yanow",
         firstName: "Susan",
@@ -142,6 +143,7 @@ y_bios = [
         categories: ["Activist", "Writer"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Yona",
         firstName: "Anna",
@@ -207,6 +209,7 @@ y_bios = [
         categories: ["Radio Host", "Refugee"],
     },
     {
+        poc: false,
         organization: true,
         lastName: "YWCA of Cambridge 7 Temple Street",
         firstName: "",

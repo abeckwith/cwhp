@@ -1,5 +1,6 @@
 o_bios = [
     {
+        poc: false,
         organization: true,
         lastName: "Oral History Center",
         firstName: "",
@@ -70,6 +71,7 @@ o_bios = [
     },
 
     {
+        poc: false,
         organization: false,
         lastName: "Orne",
         firstName: "Caroline",

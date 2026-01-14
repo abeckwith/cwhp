@@ -1,6 +1,7 @@
 p_bios = [
 
     {
+        poc: false,
         organization: false,
         lastName: "Parsons",
         firstName: "Emily",
@@ -56,6 +57,7 @@ p_bios = [
         categories: ["Community Leader", "Nurse"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Pappenheim",
         firstName: "Yvonne",
@@ -121,6 +123,7 @@ p_bios = [
         categories: ["Activist"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Payne-Gaposchkin",
         firstName: "Cecilia",
@@ -181,6 +184,7 @@ p_bios = [
         categories: ["Scientist"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Peirce",
         firstName: "Melusina",
@@ -247,6 +251,7 @@ p_bios = [
         categories: ["Reformer", "Author"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Piltch",
         firstName: "Sylvia",
@@ -304,6 +309,7 @@ p_bios = [
         categories: ["Physical Therapist ", "Volunteer"],
     },
       {
+        poc: false,
         organization: false,
         lastName: "Peters",
         firstName: "Kaethe",

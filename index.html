@@ -17,6 +17,7 @@
         rel="stylesheet">
     <link href="styles/styles.css" rel="stylesheet">
     <script src="scripts/scripts.js"></script>
+    <script src="scripts/photo_names.js"></script>
 
     <!-- for hamburger menu icon: -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -107,7 +108,7 @@
             crYear = nums[2];
             all_bios.forEach(bioLtr => {
                 bioLtr.forEach(bio => {
-                    
+
                     //does bio birth match today's date?
                     if (parseInt(bio.birthDate.substring(0, 2)) == crMonth &&
                         parseInt(bio.birthDate.substring(3, 5)) == crDay) {
@@ -135,6 +136,32 @@
                 });
             });
             setMenu(0);
+
+            //shuffle photos
+            link1 = photoList[1];
+
+            stripped = link1.substring(link1.indexOf("?") + 1);
+            lastNamePhoto = stripped.substring(stripped.indexOf("=") + 1, stripped.indexOf("&"));
+            stripped = stripped.substring(stripped.indexOf("&") + 1 );
+            middleNamePhoto = stripped.substring(stripped.indexOf("=") + 1, stripped.indexOf("&"));
+            stripped = stripped.substring(stripped.indexOf("&") + 1 );
+            firstNamePhoto = stripped.substring(stripped.indexOf("=") + 1);
+
+            namePhoto = firstNamePhoto + " " + middleNamePhoto + " " + lastNamePhoto;
+            info = getLocation("Comstock", "Louise", "Ada");
+            ltrIndex2 = info[0];
+            personIndex2 = info[1];
+
+            ltrIndex2 = "abcdefghijklmnopqrstuvwxyz".indexOf(
+                lastNamePhoto.charAt(0).toLowerCase()
+            );
+            bios = getBios();
+            console.log(ltrIndex2 + " " + personIndex2)
+            person2 = bios[ltrIndex2][personIndex2];
+            console.log(person2.photos[0]);
+            console.log(person2.poc)
+            // document.getElementById("test").innerHTML = "<img height='155' title='"+namePhoto + 
+            //     "' src='" + person2.photos[0] + "'>";
         }
     </script>
 </head>
@@ -171,10 +198,10 @@
             </div>
 
             <div id="opening-pictures" style="margin: 0px auto;">
+                <span id="test"></span>
                 <a href="bios.html?lNm=Fuller&mNm=&fNm=Margaret" target="_self">
-                    <img class="opening-images"
-                        src="images_bios/Margaret%20Fuller%20small.jpeg" alt="Margaret Fuller" height="155"
-                        title="Sarah Margaret Fuller"></a>
+                    <img class="opening-images" src="images_bios/Margaret%20Fuller%20small.jpeg" alt="Margaret Fuller"
+                        height="155" title="Sarah Margaret Fuller"></a>
                 <a href="bios.html?lNm=CambridgeSchoolofArchitectureandLandcapeArchitecture&mNm=&fNm="
                     target="_self"><img class="opening-images" src="images_bios/CSALA_195x250.jpeg" height="155"
                         alt=""></a>

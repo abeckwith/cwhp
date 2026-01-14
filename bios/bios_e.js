@@ -1,5 +1,6 @@
 e_bios = [
     {
+        poc: false,
         organization: false,
         lastName: "Eliot",
         firstName: "Martha",
@@ -72,6 +73,7 @@ e_bios = [
         categories: ["Doctor"],
     },
     {
+        poc: true,
         organization: false,
         lastName: "Evelyn",
         firstName: "Zelma",
@@ -126,6 +128,7 @@ e_bios = [
         categories: ["Activist", "Volunteer"],
     },
     {
+        poc: false,
         organization: false,
         lastName: "Ewing",
         firstName: "Tess",
@@ -193,6 +196,7 @@ e_bios = [
         categories: ["Activist", "Teacher/Educator"],
     },
      {
+        poc: true,
         organization: false,
         lastName: "Easterling",
         firstName: "Dr. Ruth",
