@@ -137,31 +137,63 @@
             });
             setMenu(0);
 
-            //shuffle photos
-            link1 = photoList[1];
+            /*
+            *   CHOOSE RANDOM PHOTOS FOR INDEX PAGE:
+            */
+            displayPhotos = [];
 
-            stripped = link1.substring(link1.indexOf("?") + 1);
-            lastNamePhoto = stripped.substring(stripped.indexOf("=") + 1, stripped.indexOf("&"));
-            stripped = stripped.substring(stripped.indexOf("&") + 1 );
-            middleNamePhoto = stripped.substring(stripped.indexOf("=") + 1, stripped.indexOf("&"));
-            stripped = stripped.substring(stripped.indexOf("&") + 1 );
-            firstNamePhoto = stripped.substring(stripped.indexOf("=") + 1);
+            function shuffleAndPick(count, min, max) {
+                const numbers = [];
+                for (let i = min; i <= max; i++) {
+                    numbers.push(i);
+                }
 
-            namePhoto = firstNamePhoto + " " + middleNamePhoto + " " + lastNamePhoto;
-            info = getLocation("Comstock", "Louise", "Ada");
-            ltrIndex2 = info[0];
-            personIndex2 = info[1];
+                // Fisher-Yates shuffle
+                for (let i = numbers.length - 1; i > 0; i--) {
+                    const j = Math.floor(Math.random() * (i + 1));
+                    [numbers[i], numbers[j]] = [numbers[j], numbers[i]];
+                }
 
-            ltrIndex2 = "abcdefghijklmnopqrstuvwxyz".indexOf(
-                lastNamePhoto.charAt(0).toLowerCase()
-            );
-            bios = getBios();
-            console.log(ltrIndex2 + " " + personIndex2)
-            person2 = bios[ltrIndex2][personIndex2];
-            console.log(person2.photos[0]);
-            console.log(person2.poc)
-            // document.getElementById("test").innerHTML = "<img height='155' title='"+namePhoto + 
-            //     "' src='" + person2.photos[0] + "'>";
+                // Pick the first 'count' numbers
+                return numbers.slice(0, count);
+            }
+
+            
+            const shuffledNumbers = shuffleAndPick(5, 0, photoList.length - 1);
+
+            html = "";
+            //BUILD HTML TO DISPLAY PHOTOS:
+            shuffledNumbers.forEach(element => {
+                currentPerson = photoList[element];
+                console.log(element)
+                stripped = currentPerson.substring(currentPerson.indexOf("?") + 1);
+                lastNamePhoto = stripped.substring(stripped.indexOf("=") + 1, stripped.indexOf("&"));
+                stripped = stripped.substring(stripped.indexOf("&") + 1);
+                middleNamePhoto = stripped.substring(stripped.indexOf("=") + 1, stripped.indexOf("&"));
+                stripped = stripped.substring(stripped.indexOf("&") + 1);
+                firstNamePhoto = stripped.substring(stripped.indexOf("=") + 1);
+
+                namePhoto = firstNamePhoto + " " + middleNamePhoto + " " + lastNamePhoto;
+                info = getLocation(lastNamePhoto, middleNamePhoto, firstNamePhoto);
+                ltrIndex2 = info[0];
+                personIndex2 = info[1];
+
+                ltrIndex2 = "abcdefghijklmnopqrstuvwxyz".indexOf(
+                    lastNamePhoto.charAt(0).toLowerCase()
+                );
+                bios = getBios();
+                console.log(ltrIndex2 + " " + personIndex2)
+                person2 = bios[ltrIndex2][personIndex2];
+                console.log(person2.photos[0]);
+                //deal with person2.poc
+                html += "<a href='" + currentPerson + "' target='_self'><img class='opening-images' src='" +
+                    person2.photos[0] + "' alt='" + namePhoto + "' height='155' title='" + namePhoto + "'></a>";
+
+            });
+
+
+            document.getElementById("test").innerHTML = html;
+
         }
     </script>
 </head>
@@ -198,9 +230,9 @@
             </div>
 
             <div id="opening-pictures" style="margin: 0px auto;">
-                <span id="test"></span>
-                <a href="bios.html?lNm=Fuller&mNm=&fNm=Margaret" target="_self">
-                    <img class="opening-images" src="images_bios/Margaret%20Fuller%20small.jpeg" alt="Margaret Fuller"
+                <span id="test"></span> 
+                <!-- <a href="bios.html?lNm=Fuller&mNm=&fNm=Margaret" target="_self"> -->
+                    <!-- <img class="opening-images" src="images_bios/Margaret%20Fuller%20small.jpeg" alt="Margaret Fuller"
                         height="155" title="Sarah Margaret Fuller"></a>
                 <a href="bios.html?lNm=CambridgeSchoolofArchitectureandLandcapeArchitecture&mNm=&fNm="
                     target="_self"><img class="opening-images" src="images_bios/CSALA_195x250.jpeg" height="155"
@@ -212,7 +244,7 @@
                         src="images_bios/YWCA%201916%20girls%20basketball%20team%20small2.jpg" height="155"
                         alt="YWCA Girls Basketball team, 1916"></a>
                 <a href="bios.html?lNm=Chen&mNm=&fNm=Joyce" target="_self"><img class="opening-images"
-                        src="images_bios/joycechen.jpg" height="155" alt="Joyce Chen"></a>
+                        src="images_bios/joycechen.jpg" height="155" alt="Joyce Chen"></a>  -->
             </div>
 
 
