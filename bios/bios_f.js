@@ -6,7 +6,7 @@ f_bios = [
         middleName: "",
         familyName: "",
 
-        title: `Executive Director of Cambridge Community Television (CCTV); photographer`,
+        title: `Exec. Dir. of Cambridge Community Television, photographer`,
         birthDate: "00.00.1955",
         birthLocation: "",
         deathDate: "",
@@ -254,14 +254,14 @@ f_bios = [
         middleName: "",
         familyName: "",
 
-        title: `aka Sarah Margaret Fuller, Marchesa Margaret F. Ossoli<br>Author, Editor, Feminist, Transcendentalist`,
+        title: `Author, Feminist, Transcendentalist<br>`,
         birthDate: "05.23.1810",
         birthLocation: "Cambridge, Massachusetts",
         deathDate: "07.19.1850",
         deathLocation: "Fire Island, New York",
         narrative: `
     Born to Timothy and Margaret (Crane) Fuller in 
-    1810, Sarah Margaret Fuller grew up in Cambridge. Her father gave her a very 
+    1810, Sarah Margaret Fuller grew up in Cambridge. She also went by the name Marchesa Margaret F. Ossoli. Her father gave her a very 
     thorough education in Latin and world literature. She studied at a girl's 
     school in Groton and continued her education at home and at Mr. Perkins school 
     where she learned Greek. <br><br>By her late teens, she was considered a prodigy and 
@@ -369,7 +369,7 @@ In
         references: `
 
         <i>The Cambridge Chronicle</i>, 5 March 1910<br>
-        <i>The Boston Globe</i>Sep 4 1906, Oct 16, 1908, Sep 24, 1909, Mar 22, 1916<Br>
+        <i>The Boston Globe</i> Sep 4 1906, Oct 16, 1908, Sep 24, 1909, Mar 22, 1916<Br>
         Massachusetts, U.S., Marriage Records, 1840-1915<Br>
         Schlesinger Library, Radcliffe Oral History Project: <a href="https://iiif.lib.harvard.edu/manifests/view/drs:45177050$15i">
         https://iiif.lib.harvard.edu/manifests/view/drs:45177050$15i</a><Br>

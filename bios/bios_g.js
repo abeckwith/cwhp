@@ -850,7 +850,7 @@ g_bios = [
         middleName: "",
         familyName: "Harris",
 
-        title: `Financial Aid Director, Cambridge Community Center board member, Volunteer`,
+        title: `Financial Aid Director, Community center board member, Volunteer`,
         birthDate: "00.00.1947",
         birthLocation: "Cambridge, Massachusetts",
         deathDate: "",

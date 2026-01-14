@@ -205,7 +205,7 @@ l_bios = [
         middleName: "",
         familyName: "",
 
-        title: `1384 Cambridge Street, Intersection of Hampshire and Cambridge Streets`,
+        title: `Lesbian community group`,
         birthDate: "",
         birthLocation: "",
         deathDate: "",
@@ -213,7 +213,8 @@ l_bios = [
         narrative: `
             Until 1998, the Lesbian Avengers had weekly poetry slams and other events at
             Ryle&rsquo;s Jazz Club, the oldest jazz club in Cambridge and the second oldest in the Greater Boston area
-            (closed in 2018). <br><br>The group was focused on lesbian visibility and they were known for their spontaneous
+            (closed in 2018). <br><br>
+            The group was focused on lesbian visibility and they were known for their spontaneous
             public skits such as passing out Hershey Kisses on the subway for Valentine&rsquo;s Day while wearing
             Lesbian Avengers shirts. After 1998, they rented meeting space at Boston GLASS, an organization that still
             provides mentorship programs to LGBTQ+ youth of color. Lesbian Avengers was involved in the founding of Dyke
@@ -246,7 +247,7 @@ l_bios = [
         middleName: "",
         familyName: "",
 
-        title: `Founder of The Lesley School (now Lesley University); teacher`,
+        title: `Founder of Lesley University, teacher`,
         birthDate: "01.27.1872",
         birthLocation: "New Granada (now Panama)",
         deathDate: "05.16.1953",
@@ -554,7 +555,7 @@ l_bios = [
         middleName: "",
         familyName: "Hammersberg",
 
-        title: `Author of young people and children's literature`,
+        title: `Author of children's literature`,
         birthDate: "00.00.1937",
         birthLocation: "Hawaii",
         deathDate: "",

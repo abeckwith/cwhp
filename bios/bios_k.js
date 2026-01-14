@@ -6,8 +6,8 @@ k_bios = [
         middleName: "",
         familyName: "Mitchell",
         
-        title: `Politician (one of first two women elected to Cambridge School Committee);
-                Biographer`,
+        title: `School Committee member,
+                biographer`,
         birthDate: "02.23.1828",
         birthLocation: "Nantucket, Massachusetts",
         deathDate: "06.04.1907",

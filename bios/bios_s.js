@@ -69,11 +69,11 @@ s_bios = [
     {
         organization: false,
         lastName: "Sarton",
-        firstName: "May",
-        middleName: "",
+        firstName: "Eleanore",
+        middleName: "Marie \"May\"",
         familyName: "",
 
-        title: `Poet and novelist<Br>aka Eleanore Marie Sarton`,
+        title: `Poet and novelist`,
         birthDate: "05.03.1912",
         birthLocation: "Wondelgem, Belgium",
         deathDate: "07.16.1995",
@@ -326,7 +326,7 @@ s_bios = [
         familyName: "",
 
         title: `Business Owner,
-                City Councilor, Former Mayor and School Committee Member, City of Cambridge `,
+                City Councilor, Mayor, School Committee Member`,
         birthDate: "00.00.1951",
         birthLocation: "Cambridge, Massachusetts",
         deathDate: "",

@@ -6,7 +6,7 @@ i_bios = [
         middleName: "M.",
         familyName: "",
 
-        title: `Cambridge schoolteacher; Member of first class of first teacher-training
+        title: `Teacher, member of first class of first teacher-training
                 school`,
         birthDate: "06.07.1823",
         birthLocation: "Cambridge, Massachusetts",

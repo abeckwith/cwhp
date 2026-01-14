@@ -213,7 +213,7 @@ y_bios = [
         middleName: "",
         familyName: "",
         
-        title: `ca.1892`,
+        title: `Founded ca.1892`,
         birthDate: "",
         birthLocation: "",
         deathDate: "",

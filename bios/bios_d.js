@@ -51,7 +51,7 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
         middleName: "",
         familyName: "",
 
-        title: `Pre-school<br>founded 1971 in Cambridge`,
+        title: `Pre-school<br>Founded 1971`,
         birthDate: "",
         birthLocation: "",
         deathDate: "",
@@ -208,7 +208,7 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
         middleName: "Agnes",
         familyName: "Nelson",
 
-        title: `Second ever female Cambridge Police officer, military veteran`,
+        title: `Second female Cambridge Police officer, military veteran`,
         birthDate: "11.27.1919",
         birthLocation: "Cambridge, Massachusetts",
         deathDate: "07.14.1995",
@@ -349,7 +349,7 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
         middleName: "",
         familyName: "",
 
-        title: `Former Mayor, City Councilor, and School Committee Member, City of Cambridge`,
+        title: `Mayor, City Councilor, School Committee Member`,
         birthDate: "00.00.1945",
         birthLocation: "Newton, Massachusetts",
         deathDate: "",
@@ -422,7 +422,7 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
         middleName: "",
         familyName: "",
 
-        title: `Singer, Songwriter, Writer, Diarist and Political Activist`,
+        title: `Singer, Songwriter, Writer, and Political Activist`,
         birthDate: "07.20.1949",
         birthLocation: "Asheville, North Carolina",
         deathDate: "03.11.2015",

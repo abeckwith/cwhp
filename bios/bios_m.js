@@ -6,7 +6,7 @@ m_bios = [
         middleName: "Josephine",
         familyName: "O'Dwyer",
 
-        title: `Navy Nurse (Retired)`,
+        title: `Navy nurse`,
         birthDate: "03.19.1948",
         birthLocation: "Arlington, Massachusetts",
         deathDate: "03.18.2025",
@@ -118,8 +118,8 @@ m_bios = [
         middleName: "",
         familyName: "",
 
-        title: `History Project and Walking Tour of Feminist Landmarks in Inman Square and on Hampshire Street,
-                <Br>1970s -1990s`,
+        title: `History project/feminist walking tour group 
+                <Br>Founded 1970s`,
         birthDate: "",
         birthLocation: "",
         deathDate: "",
@@ -554,6 +554,7 @@ m_bios = [
         <a href="https://www.poetryfoundation.org/poets/gail-mazur" target="_self">ThePoetryFoundation.org</a><br>
         <a href="https://www.radcliffe.harvard.edu/people/gail-mazur" target="_self">Radcliffe profile of Gail Mazur</a><br>
         <em>Boston Phoenix</em> article, July 1995<br>
+        <a href="https://www.poetryfoundation.org/poets/gail-mazur">https://www.poetryfoundation.org/poets/gail-mazur</a><br>
         Photo by Elsa Dorfman, courtesy of Gail Mazur
 
         `,

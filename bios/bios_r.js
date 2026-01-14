@@ -161,7 +161,7 @@ r_bios = [
         middleName: "Elizabeth",
         familyName: "Hubble",
         
-        title: `Teacher, civic activist, political reformer, women's rights advocate`,
+        title: `Teacher, political reformer, women's rights advocate`,
         birthDate: "03.30.1882",
         birthLocation: "West Huntington, Ontario, Canada",
         deathDate: "03.01.1964",

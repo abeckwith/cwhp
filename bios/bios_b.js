@@ -6,7 +6,7 @@ b_bios = [
         middleName: "",
         familyName: "",
 
-        title: `Women's Intergenerational Dance/Theater Company<br>1985-2001`,
+        title: `Women's Dance/Theater Company<br>1985-2001`,
         birthDate: "",
         birthLocation: "",
         deathDate: "",
@@ -964,7 +964,9 @@ b_bios = [
             &#8220;Remembering Mrs McIntosh &#8220; <em>Chronicle of Higher Education</em>,
             Feb 9, 2002<Br>&#8220;Meet the Writers: Anne Bernays&#8221; (includes interview)
             Barnes and Noble website<Br>
-            <i>The Cambridge Chronicle</i>, 2 May 1968
+            <i>The Cambridge Chronicle</i>, 2 May 1968<br>
+            <a href="https://patlc.wordpress.com/interview-with-anne-bernays/">https://patlc.wordpress.com/interview-with-anne-bernays/</a>
+            <br><A href="https://chicagowrites.substack.com/p/interview-with-anne-bernays">2024 Interview with Anne Bernays</a>
 
         `,
         photos: ["images_bios/bernays2.png", "images_bios/ann bernays.webp"],
@@ -1105,7 +1107,7 @@ b_bios = [
         middleName: "",
         familyName: "",
 
-        title: `Five year project supported by Schlesinger Library to document the lives of Black Women<br>1976 - 1981`,
+        title: `Documented the lives of Black Women in America<br>1976 - 1981`,
         birthDate: "",
         birthLocation: "",
         deathDate: "",
@@ -1418,7 +1420,7 @@ b_bios = [
         middleName: "",
         familyName: "",
 
-        title: `Teacher of music theory and composition, conductor`,
+        title: `Music teacher, conductor`,
         birthDate: "09.16.1887",
         birthLocation: "Paris, France",
         deathDate: "10.22.1979",
@@ -1601,7 +1603,7 @@ b_bios = [
         middleName: "Pearl",
         familyName: "",
 
-        title: `Culinary Historian, Cookbook Author, Antique Dealer, Television Producer`,
+        title: `Culinary Historian, Cookbook Author, Television Producer`,
         birthDate: "00.00.1941",
         birthLocation: "Winthrop, Massachusetts",
         deathDate: "",
@@ -1678,16 +1680,16 @@ b_bios = [
         references: `Marilynn Brass, Sheila Brass. <em>Heirloom Baking
                 with the Brass Sisters: more than 100 years of recipes discovered from family
                 cookbooks, original journals, scraps of paper, and grandmother's kitchen.</em>
-            New York, NY: Black Dog &amp; Leventhal Publishers, 2006.<br>
+            New York, NY: Black Dog &amp; Leventhal Publishers, 2006.<br><br>
             Marilynn Brass, Sheila Brass. <em>Heirloom Cooking With The Brass Sisters: Recipes
                 You Remember and Love</em>. New York, NY: Black Dog &amp; Leventhal Publishers,
-            2008<br>
+            2008<br><Br>
             Marilynn Brass, Sheila Brass. <em>Baking With The Brass Sisters: Over 125 Recipes
                 for Classic Cakes, Pies, Cookies, Breads, Desserts, and Savories from America's
-                Favorite Home Bakers</em>. New York, NY: St. Martin's Griffin, 2015.<br>
+                Favorite Home Bakers</em>. New York, NY: St. Martin's Griffin, 2015.<br><Br>
             <em>Miller's Buyer's Guide: Kitchenware: What To Look for And What
                 to Pay For Kitchenware For Over 2000 Items Of Kitchenware</em>. London: Mitchell
-            Beazley, 2005.<br>
+            Beazley, 2005.<br><br>
             Bill Brett, Kerry Brett, Carol Beggy. <em>Boston, Inspirational Women</em> Boston,
             MA: Three Bean Press, 2011. <br>
             The Brass Sisters' s website: <a href="http://www.thebrasssisters.com" target="_self">www.thebrasssisters.com</a>
@@ -1715,7 +1717,7 @@ b_bios = [
         middleName: "Janet",
         familyName: "",
 
-        title: `Culinary Historian, Cookbook Author, Fashion Designer, Antique Dealer,
+        title: `Culinary Historian, Fashion Designer, 
                 Television Producer`,
         birthDate: "00.00.1937",
         birthLocation: "Winthrop, Massachusetts",
@@ -1930,7 +1932,7 @@ b_bios = [
         middleName: "",
         familyName: "",
 
-        title: `Gourmet Vegetarian Restaurant and Center for Feminist<br>1974 - 1978
+        title: `Gourmet Vegetarian Restaurant and Center for Feminism<br>1974 - 1978
                `,
         birthDate: "",
         birthLocation: "",

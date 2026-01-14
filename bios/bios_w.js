@@ -827,7 +827,7 @@ Cambridge City Directory, 1926
         middleName: "",
         familyName: "",
 
-        title: `Community organization, 46 Pleasant Street, Cambridge`,
+        title: `Community organization`,
         birthDate: "",
         birthLocation: "",
         deathDate: "",

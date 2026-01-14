@@ -267,7 +267,7 @@ t_bios = [
             Image source: <a href="https://commons.wikimedia.org/wiki/File:Mary_Crutchfield_Thompson_%2813270319163%29.jpg" target="_self">https://commons.wikimedia.org/wiki/File:Mary_Crutchfield_Thompson_%2813270319163%29.jpg</a>
            
         `,
-        photos: ["images_bios/Mary_Crutchfield_Thompson.jpg"],
+        photos: ["images_bios/thompson_mary.png"],
         photoTitles: [],
         dateCreated: "prior to 2016",
         dateUpdated: "01.11.2026",

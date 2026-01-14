@@ -51,7 +51,7 @@ a_bios = [
         references: `The Political Graveyard: Index to Politicians <a href="https://politicalgraveyard.com/bio/acampora-adamowski.html#ACKERMANN">
         https://politicalgraveyard.com/bio/acampora-adamowski.html#ACKERMANN</a><Br>
             "You the Mayor?": The Education of a City Politician, by Barbara Ackerman, Praeger Press, 1989<br>
-            <i>Cambridge Chronicle</a> 11.3.77
+            <i>Cambridge Chronicle</a> Nov. 3, 1977
         `,
         photos: ["images_bios/Barbara%20Ackermann%20small.jpeg"],
         photoTitles: [""],
@@ -227,7 +227,7 @@ here</a>)<br>
         middleName: "Cabot",
         familyName: "Cary",
         
-        title: `First President of Radcliffe College, educator, science writer`,
+        title: `First President of Radcliffe College`,
         birthDate: "12.05.1822",
         birthLocation: "Boston, Massachusetts",
         deathDate: "06.27.1907",
@@ -448,7 +448,7 @@ https://archive.org/details/journeyinbrazil00agasiala/page/n11/mode/2up</a>)
         middleName: "",
         familyName: "",
         
-        title: `Non-profit cooperative poetry press<br>(founded 1973 in Cambridge, Massachusetts affiliated with the University of Farmington 1996-2021)`,
+        title: `Non-profit cooperative poetry press<br>(founded 1973)`,
         birthDate: "",
         birthLocation: "",
         deathDate: "",
@@ -804,8 +804,8 @@ July 9, 1999</i>
         middleName: "",
         familyName: "",
         
-        title: `Biologist; Co-founder of New Words bookstore and Women's Community Cancer
-                            Project`,
+        title: `Biologist and bookstore co-founder
+                            `,
         birthDate: "09.09.1934",
         birthLocation: "Buenos Argentina",
         deathDate: "12.25.2009",
@@ -896,7 +896,7 @@ July 9, 1999</i>
         middleName: "W.",
         familyName: "",
         
-        title: `Founder and head of Ethiopian Adbar Women's Alliance.`,
+        title: `Founder Ethiopian Adbar Women's Alliance`,
         birthDate: "c.1975",
         birthLocation: "Ethiopia",
         deathDate: "",

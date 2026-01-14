@@ -68,7 +68,7 @@ c_bios = [
         middleName: "",
         familyName: "",
 
-        title: `Political education and suffrage organization<br>Founded in 1896, flourished until ca.1920`,
+        title: `Political education and suffrage organization<br>1896 - ca.1920`,
         birthDate: "",
         birthLocation: "",
         deathDate: "",
@@ -736,7 +736,7 @@ c_bios = [
         middleName: "",
         familyName: "",
 
-        title: `Resource and Referral Organization for Affordable Childcare, 187 Hampshire Street`,
+        title: `Affordable Childcare Organization`,
         birthDate: "",
         birthLocation: "",
         deathDate: "",
@@ -794,7 +794,7 @@ c_bios = [
         middleName: "",
         familyName: "",
 
-        title: `Women-owned Restaurant and Feminist Gathering Place<br>Founded 1997`,
+        title: `Restaurant and Feminist Gathering Place<br>Founded 1997`,
         birthDate: "",
         birthLocation: "",
         deathDate: "",
@@ -852,7 +852,7 @@ c_bios = [
         middleName: "",
         familyName: "",
 
-        title: `Women Owned Pottery Business and Collective, founded in 1976`,
+        title: `Women-Owned Pottery Business and Collective<Br>Founded 1976`,
         birthDate: "",
         birthLocation: "",
         deathDate: "",

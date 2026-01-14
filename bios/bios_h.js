@@ -115,7 +115,7 @@ h_bios = [
         middleName: "Elaine",
         familyName: "Heafield",
 
-        title: `Software engineer, NASA software designer, founder of software company`,
+        title: `NASA software designer, founder of software company`,
         birthDate: "00.00.1936",
         birthLocation: "Paoli, Indiana",
         deathDate: "",
@@ -616,7 +616,7 @@ h_bios = [
         middleName: "Lilley",
         familyName: "",
 
-        title: `Architect, fellow in the American Institute of Architects`,
+        title: `Architect`,
         birthDate: "09.25.1864",
         birthLocation: "Cambridge, Massachusetts",
         deathDate: "09.13.1964",
@@ -828,10 +828,10 @@ h_bios = [
         Interview with Audrey Huang, April 2, 2025<br>
         <em>Belmont Voice</em> article, Oct. 13, 2024<br>
         Alma Boudreau obit, <em>Cambridge Chronicle</em>, May 18, 1995<Br>
-        Photo courtesy of Audrey Huang
+        Photos courtesy of Audrey Huang
         `,
 
-        photos: ["images_bios/audrey huang.jpeg"],
+        photos: ["images_bios/audrey huang.jpeg", "images_bios/huang2.JPG"],
         photoTitles: [],
         dateCreated: "04.04.2025",
         dateUpdated: "04.04.2025",
@@ -848,7 +848,7 @@ h_bios = [
         middleName: "",
         familyName: "",
 
-        title: `Biologist; biochemist; social activist`,
+        title: `Biologist, biochemist, social activist`,
         birthDate: "03.03.1924",
         birthLocation: "Vienna, Austria",
         deathDate: "09.01.2016",

@@ -6,7 +6,7 @@ o_bios = [
         middleName: "",
         familyName: "",
 
-        title: `Collaborative Center Using Oral History To Build Community<Br>1980 - 1992`,
+        title: `Collaborative Center Using Oral History<Br>1980 - 1992`,
         birthDate: "",
         birthLocation: "",
         deathDate: "",
