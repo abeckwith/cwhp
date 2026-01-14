@@ -257,7 +257,7 @@ s_bios = [
         categories: ["Astronomer"],
     },
     {
-        poc: false,
+        poc: true,
         organization: false,
         lastName: "Shea",
         firstName: "Mary",

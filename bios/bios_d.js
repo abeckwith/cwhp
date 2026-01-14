@@ -46,7 +46,7 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
         categories: ["Historian/History Project"],
     },
     {
-        poc: false,
+        poc: true,
         organization: true,
         lastName: "Dandelion School",
         firstName: "",

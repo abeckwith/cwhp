@@ -327,7 +327,7 @@ m_bios = [
             near her daughter in Peterborough, New Hampshire. Schlesinger holds a diary
             of Lorna Marshall that includes planning for dinners, including a manuscript
             cookbook. Her expedition diaries are held at Peabody Museum, Harvard University.<br>
-            <br>izabeth Marshall Thomas
+            <br>Her daughter Elizabeth Marshall Thomas
             also became a serious student of anthropology. Only nineteen when she first
             went with her mother to Africa, Thomas continued her mother's work. As
             early as 1959, in her late twenties, Thomas published a study of the group,
@@ -341,11 +341,13 @@ m_bios = [
             Book cover from <a href="https://peacefulsocieties.uncg.edu/societies/juhoansi/">
             https://peacefulsocieties.uncg.edu/societies/juhoansi/</a><Br>
             Cambridge City Directory, 1941<Br>
-            U.S., Social Security Applications and Claims Index, 1936-2007
+            U.S., Social Security Applications and Claims Index, 1936-2007<br>
+            Photo of Marshall from family tree of <i>janmc60_1</i> on ancestry.com 
+            <A href="https://www.ancestry.com/mediaui-viewer/tree/47579690/person/322410618877/media/77b16f60-f4db-46fa-8f7f-7adfe79394d1">Link</a>
 
         `,
-        photos: ["images_bios/marshall_lorna.jpg"],
-        photoTitles: ["Lorna Marshall's book about the !Kung people"],
+        photos: ["images_bios/marshall_lorna.png", "images_bios/marshall_lorna.jpg"],
+        photoTitles: ["", "Lorna Marshall's book about the !Kung people"],
         dateCreated: "prior to 2009",
         dateUpdated: "12.28.2025",
 
@@ -1169,7 +1171,7 @@ by Cate McQuaid,, April 12, 2017
         categories: ["Astronomer"],
     },
      {
-        poc: false,
+        poc: true,
         organization: false,
         lastName: "McCree",
         firstName: "Robin",
