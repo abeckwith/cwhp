@@ -69,8 +69,8 @@ s_bios = [
     {
         organization: false,
         lastName: "Sarton",
-        firstName: "Eleanore",
-        middleName: "Marie \"May\"",
+        firstName: "Eleanore (\"May\")",
+        middleName: "Marie",
         familyName: "",
 
         title: `Poet and novelist`,
