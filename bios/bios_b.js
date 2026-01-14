@@ -1556,7 +1556,7 @@ b_bios = [
             Photo from <a href="https://en.wikipedia.org/wiki/Anne_Bradstreet#/media/File:Frontispiece_for_An_Account_of_Anne_Bradstreet_The_Puritan_Poetess,_and_Kindred_Topics,_edited_by_Colonel_Luther_Caldwell_(Boston,_1898)_(cropped).jpg">
             https://en.wikipedia.org/wiki/Anne_Bradstreet#/media/File:Frontispiece_for_An_Account_of_Anne_Bradstreet_The_Puritan_Poetess,_and_Kindred_Topics,_edited_by_Colonel_Luther_Caldwell_(Boston,_1898)_(cropped).jpg</a>
         `,
-        photos: ["images_bios/bradstreet.JPG"],
+        photos: ["images_bios/bradstreet.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
         dateUpdated: "",
