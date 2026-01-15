@@ -537,10 +537,12 @@ g_bios = [
             Graham and Parks Alternative School web site<br>
             <em>Metropolis Magazine</em>, Harvard inc., 2001<br>
             Cambridge City Directory, 1972<br>
-            <i>The Cambridge Chronicle</i>, Volume 134, Number 16, 17 April 1980
+            <i>The Cambridge Chronicle</i>, Volume 134, Number 16, 17 April 1980<Br>
+            Photo from <a href="https://www.legacy.com/us/obituaries/bostonglobe/name/saundra-graham-obituary?id=52398590">
+            https://www.legacy.com/us/obituaries/bostonglobe/name/saundra-graham-obituary?id=52398590/a>
 
         `,
-        photos: ["images_bios/Saundra_Graham.png"],
+        photos: [ "images_bios/graham2.png", "images_bios/Saundra_Graham.png"],
         photoTitles: [],
         dateCreated: "prior to 2009",
         dateUpdated: "12.27.2025",

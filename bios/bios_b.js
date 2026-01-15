@@ -2640,6 +2640,33 @@ Thu, Sep 30, 1999, page 77
         into a booklet series: <i>What Was I Thinking? Reflecting on Everyday Racism</i> (2009), <i>Digging Deeper
         into Everyday Racism</i> (2013) and <i>Questions and Quandaries</i> (2015).
         <br><Br>
+        Beckwith's 2013 essay, "Why Read Slave Narratives?" exemplifies her reflective and honest style of writing.
+         She relates her past avoidance of narratives written about the horrors of slavery and of the Holocaust and 
+         then writes:
+         <blockquote>
+
+        "...In both cases, I feared that they'd be solely about bondsmen and bondswomen stripped of dignity, agency,
+         and humanity.<br><Br>
+
+        "My change of heart and mind started with a plaque I noticed in front of a house in my neighborhood in 
+        Cambridge. Installed as part of my city's new African American Heritage Trail, it marked the home of
+         Harriett Jacobs, who, more than 150 years ago, self-published under the pseudonym Linda Brent, a memoir 
+         of her enslavement, escape, and life as an emancipated woman.
+        <br><Br>
+        "As a fellow writer, I was intrigued. So I put my qualms aside, and read Jacobs' "Incidents in the Life 
+        of a Slave Girl Written by Herself", and then a dozen other books penned by men and women who had endured
+         bondage.
+            <br><Br>
+        "I found that yes, they describe the horror of forced labor, rape, hunger, thirst, 16-hour workdays, 
+        illiteracy, and brutality. But they're also a testament to endurance and resistance."
+        </blockquote>
+        The essay concludes with:
+        <blockquote>
+        "...We need these stories to balance our images of victims with counter images of resilience and
+         resistance. And to know what forms of resistance we, too, are capable of, when humanity requires 
+         it in the face of inhumanity."
+         </blockquote>
+
         In her 80s, Barbara coached a Women's Writing Workshop for older women who live in Mission 
         Hill, Fenway, Jamaica Plain, Roxbury and Dorchester. The free workshop culminated in <i>From
          Our Notebooks: Essays, Stories, and Reflections booklets </i>(2017, 2019).<br><Br>
@@ -2652,14 +2679,17 @@ Thu, Sep 30, 1999, page 77
             `,
         otherNotes: "",
         references: `Source: in-person interview and email exchange with Anthony Beckwith
+        <Br><a href="https://www.barbarabeckwith.net/2013/10/01/why-read-slave-narratives-2/">Slave Narrative Essay at BarbaraBeckwith.net
+        </a>
+
         `,
         photos: ["images_bios/barbarabeckwith.jpg"],
         photoTitles: [],
         dateCreated: "06.21.2025",
-        dateUpdated: "",
+        dateUpdated: "01.15.2026",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "Anthony Beckwith",
         categories: ["Activist", "Writer", "Teacher/Educator", "Journalist"],
     },
