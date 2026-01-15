@@ -285,6 +285,10 @@ td > a {
     #menu-bar {
         font-size: 30vw;
     }
+    .opening-images{
+    height:25vw;
+    width:auto;
+}
 }
 /* table{font-size:20%! important;} */
 
@@ -771,8 +775,8 @@ a.search-buttons {
 }
 
 .holographic-card {
-    /* width: 300px;
-  height: 200px; */
+    /* width: 600px; */
+  /* height: 200px; */
     background: #111;
     display: flex;
     justify-content: center;
@@ -781,7 +785,7 @@ a.search-buttons {
     overflow: hidden;
     border-radius: 15px;
     transition: all 0.5s ease;
-        font-size: 1.8vw;
+        font-size: 1.2vw;
 
 }
 
@@ -861,7 +865,7 @@ img:not(.opening-images) {
     margin: 18px;
 }
 .opening-images{
-    height:17vw;
+    height:15vw;
     width:auto;
 }
 .index-page-text-in-boxes li:nth-child(even)::before {
