@@ -678,6 +678,7 @@ a.search-buttons {
     display: block;
     align-content: center;
     background-color: #EAD470;
+    
 }
 
 #menu-bar a {
@@ -845,6 +846,10 @@ a.search-buttons {
 img:not(.opening-images) {
     border: solid 1px black;
     margin: 18px;
+}
+.opening-images{
+    height:15vw;
+    width:auto;
 }
 .index-page-text-in-boxes li:nth-child(even)::before {
     background-color: rgb(243, 219, 200);
