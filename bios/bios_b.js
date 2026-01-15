@@ -878,46 +878,46 @@ b_bios = [
             "Editor",
         ],
     },
-    {
-        poc: false,
-        organization: false,
-        lastName: "Beukema",
-        firstName: "Stephanie",
-        middleName: "",
-        familyName: "",
+    // {
+    //     poc: false,
+    //     organization: false,
+    //     lastName: "Beukema",
+    //     firstName: "Stephanie",
+    //     middleName: "",
+    //     familyName: "",
 
-        title: `Psychologist, educator`,
-        birthDate: "c.1953",
-        birthLocation: "",
-        deathDate: "",
-        deathLocation: "",
-        narrative: `
+    //     title: `Psychologist, educator`,
+    //     birthDate: "c.1953",
+    //     birthLocation: "",
+    //     deathDate: "",
+    //     deathLocation: "",
+    //     narrative: `
 
 
-            Stephanie Beukema obtained her doctorate in psychology
+    //         Stephanie Beukema obtained her doctorate in psychology
             
 
-            from the Harvard School of Education in 1990. She is a developmental psychologist
-            with special interest in systems and systemic theories.<br><br> As a licensed psychologist,
-            she has been in clinical practice in Harvard Square since 1993. She holds a
-            clinical appointment at Harvard Medical School, where she supervises and teaches.
-            She has held an adjunct professorship at Lesley University since 1993.  She
-            devotes an enormous amount of her time to working with women. 
+    //         from the Harvard School of Education in 1990. She is a developmental psychologist
+    //         with special interest in systems and systemic theories.<br><br> As a licensed psychologist,
+    //         she has been in clinical practice in Harvard Square since 1993. She holds a
+    //         clinical appointment at Harvard Medical School, where she supervises and teaches.
+    //         She has held an adjunct professorship at Lesley University since 1993.  She
+    //         devotes an enormous amount of her time to working with women. 
 
-            `,
-        otherNotes: "",
-        references: ` Lesley University adjunct faculty site 
-        `,
-        photos: ["images_bios/beukema.jpeg"],
-        photoTitles: [],
-        dateCreated: "prior to 2009",
-        dateUpdated: "",
+    //         `,
+    //     otherNotes: "",
+    //     references: ` Lesley University adjunct faculty site 
+    //     `,
+    //     photos: ["images_bios/beukema.jpeg"],
+    //     photoTitles: [],
+    //     dateCreated: "prior to 2009",
+    //     dateUpdated: "",
 
-        photoHeights: [],
-        editors: "",
-        authors: "CWHP volunteers",
-        categories: ["Psychologist"],
-    },
+    //     photoHeights: [],
+    //     editors: "",
+    //     authors: "CWHP volunteers",
+    //     categories: ["Psychologist"],
+    // },
     {
         poc: false,
         organization: false,
