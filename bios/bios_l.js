@@ -216,15 +216,15 @@ l_bios = [
         deathDate: "",
         deathLocation: "",
         narrative: `
-            Until 1998, the Lesbian Avengers had weekly poetry slams and other events at
-            Ryle&rsquo;s Jazz Club, the oldest jazz club in Cambridge and the second oldest in the Greater Boston area
-            (closed in 2018). <br><br>
+            In the late 90s, the Lesbian Avengers had weekly poetry slams and other events at
+            Ryle&rsquo;s Jazz Club, which had been the oldest jazz club in Cambridge and the second oldest in the Greater Boston area. <br><br>
             The group was focused on lesbian visibility and they were known for their spontaneous
             public skits such as passing out Hershey Kisses on the subway for Valentine&rsquo;s Day while wearing
-            Lesbian Avengers shirts. After 1998, they rented meeting space at Boston GLASS, an organization that still
-            provides mentorship programs to LGBTQ+ youth of color. Lesbian Avengers was involved in the founding of Dyke
-            March in Boston beginning in 1996 which still happens every year on the Friday before Boston&rsquo;s pride
-            parade. Across the street at S&amp;S, another Cambridge restaurant staple, a LGBTQ+ seniors group meets
+            Lesbian Avengers shirts. In 1998 they moved on from Ryles to renting meeting space at Boston GLASS, an organization that still
+            provides mentorship programs to LGBTQ+ youth of color. 
+            <Br><Br>Lesbian Avengers was involved in the founding of Dyke
+            March in Boston beginning in 1996 which (as of 2018) still happens every year on the Friday before Boston&rsquo;s pride
+            parade. Across the street at S&amp;S, another Cambridge restaurant staple, an LGBTQ+ seniors group meets
             weekly sponsored by the Cambridge Somerville Elder Services. 
             `,
         otherNotes: "",

@@ -1177,8 +1177,8 @@ by Cate McQuaid,, April 12, 2017
             Interview with Robin McCree, conducted by Anthony Beckwith, Jan. 9 and Jan. 13, 2026
         
              `,
-        photos: ["images_bios/mcree.jpg", "images_bios/mccree1.png"],
-        photoTitles: ["","Robin McCree at BB&N, 1975"],
+        photos: ["images_bios/mcree.jpg", "images_bios/mccree1.png", "images_bios/mccree2.png"],
+        photoTitles: ["","Robin McCree at BB&N, 1975", "Robin McCree at Tuftsm 1979"],
         dateCreated: "01.13.2026",
         dateUpdated: "",
 

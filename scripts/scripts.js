@@ -21,7 +21,6 @@ let RECENT_MONTHS_LIMIT2 = 5; //for recent edits part of recents page
  * Also called when page is loaded when person is selected
  **/
 function startBio() {
- 
     setMenu(1); //1 = set that one to gray
 
     //get params from URL:
@@ -436,30 +435,35 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
     html += "<br>" + narr;
 
     //possible second image:
-    if (person.photos.length == 2) {
-        if (person.photoHeights.length == 2 && person.photoHeights[1] != "")
-            height = person.photoHeights[1];
-        else height = 300;
+    if (person.photos.length > 1) {
+        //go through all photos:
+        tbl = "<table width='2vh'>";
+        for (let i= 1; i < person.photos.length; i++) {
+            if (person.photoHeights.length > i && person.photoHeights[i] != "")
+                height = person.photoHeights[i];
+            else height = 300;
 
-        tbl = "<table width='2vh'><tr><td>";
-        //has a title for second image:
-        if (person.photoTitles.length == 2 && person.photoTitles[1] != "")
-            title =
-                '<tr><td align="center"><i>' +
-                person.photoTitles[1] +
-                "</i></td></tr>";
-        else title = "";
+            tbl += "<tr><td>";
+            //has a title for second image:
+            if (person.photoTitles.length > i && person.photoTitles[i] != "")
+                title =
+                    '<tr><td align="center"><i>' +
+                    person.photoTitles[i] +
+                    "</i></td></tr>";
+            else title = "";
 
-        html +=
-            tbl +
-            '<img src="' +
-            person.photos[1] +
-            '" alt=""  height="' +
-            height +
-            'vh"' +
-            ' border="1" style="margin:20px"></td></tr>' +
-            title +
-            "</table>";
+            html +=
+                tbl +
+                '<img src="' +
+                person.photos[i] +
+                '" alt=""  height="' +
+                height +
+                'vh"' +
+                ' border="1" style="margin:20px"></td></tr>' +
+                title 
+                ;
+        }
+        html += "</table>";
     }
 
     //references & date updated:
@@ -1213,8 +1217,6 @@ function next() {
  * @param {Boolean} search true if called from search.html
  */
 function init(topical, search) {
-
-
     //get rid of ltr after done with topics
     let alphaList = "SELECT: ";
 
