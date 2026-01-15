@@ -154,13 +154,14 @@
             const day = today.getDate()
             var seed = parseInt(day + "" + month + "" + year);
 
+            
             //get 5 random bio numbers:
             shuffledNumbers = [];
             shuffledNumbers.push(Math.floor(random() * photoList.length));
 
-            for (let index = 0; index < 4; index++) {
+            for (let index = 0; index < 15; index++) {
                 chosen = true;
-                while(chosen){
+                while (chosen) {
                     num = Math.floor(random() * photoList.length);
                     chosen = false;
                     //check if alread chosen:
@@ -170,16 +171,9 @@
                 };
                 shuffledNumbers.push(num);
             }
-            shuffledNumbers.forEach(element => {
-                console.log(element)
-            });
 
 
-
-            html = "";
-            //BUILD HTML TO DISPLAY PHOTOS:
-            shuffledNumbers.forEach(element => {
-                currentPerson = photoList[element];
+            function buildBio(currentPerson) {
                 //make name for title:
                 stripped = currentPerson.substring(currentPerson.indexOf("?") + 1);
                 lastNamePhoto = stripped.substring(stripped.indexOf("=") + 1, stripped.indexOf("&"));
@@ -199,17 +193,44 @@
                     lastNamePhoto.charAt(0).toLowerCase()
                 );
                 bios = getBios();
-
                 //found bio:
                 person2 = bios[ltrIndex2][personIndex2];
+                return person2;
+            }
+            function buildLinks(shift) {
+                html = "";
+                //BUILD HTML TO DISPLAY PHOTOS:
+                links = [];
+                for (i = shift; i < 5 + shift; i++) {
+                    element = shuffledNumbers[i];
 
-                html += "<a href='" + currentPerson + "' target='_self'><img class='opening-images' src='" +
-                    person2.photos[0] + "' alt='" + namePhoto + "' height='155' title='" + namePhoto + "'></a>";
+                    currentPerson = photoList[element];
+                    person2 = buildBio(currentPerson);
 
-            });
+                    links.push("<a href='" + currentPerson + "' target='_self'><img class='opening-images' src='" +
+                        person2.photos[0] + "' alt='" + namePhoto + "' height='155' title='" + namePhoto + "'></a>");
 
+                };
+
+                for (i = 0; i < 5; i++) {
+                    html += links[i];
+                }
+                return html;
+            }
+            let shift = 0;
+            html = buildLinks(shift);
 
             document.getElementById("random-intro-photos").innerHTML = html;
+
+            function rotatePhotos() {
+                shift++;
+                if(shift == 12) shift = 0;
+                html = buildLinks(shift);
+                document.getElementById("random-intro-photos").innerHTML = html;
+
+            }
+            setInterval(rotatePhotos, 5000);
+
 
         }
     </script>
