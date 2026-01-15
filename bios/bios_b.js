@@ -667,38 +667,42 @@ b_bios = [
         deathDate: "01.03.1923",
         deathLocation: "Washington, DC",
         narrative: `
-            Mabel Hubbard was raised in Cambridge, at 148 Brattle
-            Street. Her father, Gardiner Greene Hubbard who had a Boston law practice, helped
-            establish a city water works in Cambridge, was a founder of the Cambridge Gas
-            Co., and later organized a Cambridge to Boston trolley system. <br><br>Between ages
-            four and five, Mabel became deaf as a result of scarlet fever. Her father founded
-            the first American school for the deaf at Chelmsford, Massachusetts and served as trustee
+            Mabel Hubbard grew up in Cambridge, at 148 Brattle
+            Street. Before her fifth birthday, Mabel was stricken with scarlet fever and, as a result, became permanently deaf
+            and with impaired balance. Because of her condition, her father worked to found
+            the Clarke School for the Deaf (the first of its kind in America) in Chelmsford, Massachusetts, which Mabel attended. 
             
-            of the Clarke School for the deaf, which Mabel attended. <br><br>
-            After Mabel went to Germany in her teens to study
-            chemistry and the German language, she returned to Cambridge at the age of sixteen.
-            Alexander Graham Bell had taught at the Clarke School and was then professor
-            of vocal physiology and elocution at Boston University. He was hired by Mabel's
-            father as a private tutor. Hubbard was also financing Bell's experiments
+            
+            <br><br>
 
-            on the telephone and helped organize his company. Mabel and Alexander became
-            romantically involved, and at first her parents opposed the marriage objecting
-            to the age disparity and fearing that their children would be deaf (since Bell's
-            mother was congenitally deaf), but the two were engaged in 1875. In 1877, the
-            couple married. They had two sons who died in infancy and two daughters who
+            Mabel went to Germany in her teens to study
+            chemistry and the German language and then returned to Cambridge at the age of sixteen. 
+            By then she had learned to both lip-read and to speak (despite her deafness), one of the 
+            first deaf childen in America to be able to do so (she also learned to lip-read and speak in multiple languages).<Br><Br>
+            Alexander Graham Bell had taught at the Clarke School and later became a private tutor to Mabel, leading to 
+            Mabel and Alexander becaming
+            romantically involved. At first her parents opposed the marriage objecting
+            to the age disparity (she was 19, he 29) and fearing that their children would be deaf (since Bell's
+            mother was congenitally deaf), but the two were engaged in 1875 and married in 1877. 
+            They had two sons who died in infancy and two daughters who
             lived into adulthood. <br><br>
-            Mabel supported her husband in his work, notably
-            in his interest in aviation (the Aerial Experiment Association). In 1910, she
+            Around 1885, Mabel Bell helped establish the Young Ladies Club of Baddeck, one of the first Canadian women's clubs, after
+            visiting and falling in love with the Nova Scotia landscape.
+            Bell was apparently known for her ability to make people comfortable with her deafness, helped by the fact that
+            she was a master lipreader. <blockquote>“Mabel would host dinner 
+            parties and situate herself at a spot around the table where she knew the light would shine better 
+            on the faces of her guests, allowing her to better read their lips as they spoke.”</blockquote>
+            In 1910, Mabel
             became a strong supporter of women's rights and marched in the women's
             suffrage national convention in Washington in 1910. During World War I, she
             sponsored benefits to raise money for the Red Cross and fund lifeboats for the
             US Navy. She later founded the Montessori Education Association and became its
-            president. Later she opened a school in Washington, D.C. and started a magazine,
+            president. She also opened a school in Washington, D.C. and started the magazine of the Montessori Education Association,
             <em>Freedom for the Child</em>.<br><br>
             
-            She
+            After her husband's death in 1922, she began to go blind and 
             died on January 3, 1923 in Washington D.C. and was buried on Cape Breton Island,
-            Nova Scotia, Canada where the Bells had a summer home. Many of her letters to
+            Nova Scotia, where the Bells had a summer home. Many of her letters to
             and from her husband are in the Bell Family Papers in the Library of Congress.
 
             `,
@@ -709,8 +713,10 @@ b_bios = [
             Ann J. Bishundayal, <em>Mabel Hubbard Bell</em> Protea Publishing Company, 2002.<br>
             Waite, Helen <em>Make a Joyful Sound Romance of Mabel Hubbard and Alexander
                 Graham Bell</em>, Philadelphia: Mcrae Smith 1961.<br>Image source: wikimedia commons
-                <br>Address from 1873 Hopkins Map, Cambridge Historical Commission
-        `,
+                <br>Address from 1873 Hopkins Map, Cambridge Historical Commission<Br>
+                <A href="https://agbell.org/2021/03/02/mabel-bell-the-driving-force-behind-alexander-graham-bell/">Mabel Bell, the Driving Force Behind Alexander Graham Bell</a>
+        <br><a href="https://en.wikipedia.org/wiki/Mabel_Gardiner_Hubbard">https://en.wikipedia.org/wiki/Mabel_Gardiner_Hubbard</a>
+                `,
         photos: ["images_bios/Mabel_Hubbard_Bell.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
@@ -719,7 +725,7 @@ b_bios = [
         photoHeights: [],
         editors: "",
         authors: "CWHP volunteers",
-        categories: ["Teacher/Educator", "Suffragists/Suffrage Group"],
+        categories: ["Teacher/Educator", "Suffragists/Suffrage Group", "Businesswoman"],
     },
     {
         poc: true,
