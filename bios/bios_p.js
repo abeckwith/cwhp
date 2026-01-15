@@ -109,7 +109,8 @@ p_bios = [
         references: `Avi Steinberg in <em>Boston Globe</em> 7-19-05;
             <em>Monthly Review</em>, December 1995.<Br>
             Cambridge City Directory, 1968<Br>
-            Photo credit: <a href="https://ahecinfo.org/survivors/pappenheim-fritz/>
+            Photo credit: Alabama Holocaust Education Center, received from Steven Rasmussen, son of Lore May Rasmussen, a colleague of Fritz Pappenheim at Talladega College.
+ Photo link: <a href="https://ahecinfo.org/survivors/pappenheim-fritz/">
             https://ahecinfo.org/survivors/pappenheim-fritz/</a>
         `,
         photos: ["images_bios/Pappenheim.jpg"],

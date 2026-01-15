@@ -142,30 +142,45 @@
             */
             displayPhotos = [];
 
-            function shuffleAndPick(count, min, max) {
-                const numbers = [];
-                for (let i = min; i <= max; i++) {
-                    numbers.push(i);
-                }
-
-                // Fisher-Yates shuffle
-                for (let i = numbers.length - 1; i > 0; i--) {
-                    const j = Math.floor(Math.random() * (i + 1));
-                    [numbers[i], numbers[j]] = [numbers[j], numbers[i]];
-                }
-
-                // Pick the first 'count' numbers
-                return numbers.slice(0, count);
+            //chooses random number using seed - so: same numbers for each day
+            function random() {
+                var x = Math.sin(seed++) * 10000;
+                return x - Math.floor(x);
             }
+            //get the date and make it into one numerical value:
+            const today = new Date();
+            const year = today.getFullYear();
+            const month = today.getMonth() + 1;
+            const day = today.getDate()
+            var seed = parseInt(day + "" + month + "" + year);
 
-            
-            const shuffledNumbers = shuffleAndPick(5, 0, photoList.length - 1);
+            //get 5 random bio numbers:
+            shuffledNumbers = [];
+            shuffledNumbers.push(Math.floor(random() * photoList.length));
+
+            for (let index = 0; index < 4; index++) {
+                chosen = true;
+                while(chosen){
+                    num = Math.floor(random() * photoList.length);
+                    chosen = false;
+                    //check if alread chosen:
+                    shuffledNumbers.forEach(element => {
+                        if (element == num) chosen = true;
+                    });
+                };
+                shuffledNumbers.push(num);
+            }
+            shuffledNumbers.forEach(element => {
+                console.log(element)
+            });
+
+
 
             html = "";
             //BUILD HTML TO DISPLAY PHOTOS:
             shuffledNumbers.forEach(element => {
                 currentPerson = photoList[element];
-                console.log(element)
+                //make name for title:
                 stripped = currentPerson.substring(currentPerson.indexOf("?") + 1);
                 lastNamePhoto = stripped.substring(stripped.indexOf("=") + 1, stripped.indexOf("&"));
                 stripped = stripped.substring(stripped.indexOf("&") + 1);
@@ -174,6 +189,8 @@
                 firstNamePhoto = stripped.substring(stripped.indexOf("=") + 1);
 
                 namePhoto = firstNamePhoto + " " + middleNamePhoto + " " + lastNamePhoto;
+
+                //find bio:
                 info = getLocation(lastNamePhoto, middleNamePhoto, firstNamePhoto);
                 ltrIndex2 = info[0];
                 personIndex2 = info[1];
@@ -182,10 +199,10 @@
                     lastNamePhoto.charAt(0).toLowerCase()
                 );
                 bios = getBios();
-                console.log(ltrIndex2 + " " + personIndex2)
+
+                //found bio:
                 person2 = bios[ltrIndex2][personIndex2];
-                console.log(person2.photos[0]);
-                //deal with person2.poc
+
                 html += "<a href='" + currentPerson + "' target='_self'><img class='opening-images' src='" +
                     person2.photos[0] + "' alt='" + namePhoto + "' height='155' title='" + namePhoto + "'></a>";
 
@@ -230,9 +247,9 @@
             </div>
 
             <div id="opening-pictures" style="margin: 0px auto;">
-                <span id="test"></span> 
+                <span id="test"></span>
                 <!-- <a href="bios.html?lNm=Fuller&mNm=&fNm=Margaret" target="_self"> -->
-                    <!-- <img class="opening-images" src="images_bios/Margaret%20Fuller%20small.jpeg" alt="Margaret Fuller"
+                <!-- <img class="opening-images" src="images_bios/Margaret%20Fuller%20small.jpeg" alt="Margaret Fuller"
                         height="155" title="Sarah Margaret Fuller"></a>
                 <a href="bios.html?lNm=CambridgeSchoolofArchitectureandLandcapeArchitecture&mNm=&fNm="
                     target="_self"><img class="opening-images" src="images_bios/CSALA_195x250.jpeg" height="155"

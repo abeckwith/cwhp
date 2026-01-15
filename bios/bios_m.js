@@ -167,65 +167,7 @@ m_bios = [
         authors: "CWHP volunteers",
         categories: ["Historian/History Project"],
     },
-    {
-        poc: false,
-        organization: false,
-        lastName: "Misticke",
-        firstName: "Squaw",
-        middleName: "Sachem",
-        familyName: "",
-
-        title: `Native American chief (of Massachuset tribes)`,
-        birthDate: "ca.1585",
-        birthLocation: "Massachusetts",
-        deathDate: "ca.1650",
-        deathLocation: "Medford, Massachusetts",
-        narrative: `
-            No birth date or name has been discovered for
-            the Squaw Sachem (or female ruler), widow of Nanpashemet, who ruled over the
-            Massachuset federation of tribes. She married Nanapashemet sometime between
-            1600 and 1608, during which time her first son was born. She had three living
-            sons and a daughter, born over the next ten years. Her husband was killed in
-            a devastating raid by the Micmac Indians in 1619, following which she was named
-            Squaw Sachem with four tribes still loyal to her. <br><br>Her territory extended from
-            Charlestown (including areas that are now Cambridge, Somerville, Medford, and
-            Arlington) to Concord and up to Marblehead. Sometime in the 1620s she married
-            her husband's medicine man, Webcowit, but retained her power. She placed
-            her sons in control of different parts of her territory. Her oldest son, Wonohaquaham
-            (called by the English Sagamore John), gave the English the right to settle
-            in the area of Charlestown along the Charles River in 1627. He was to die a
-            few years later from smallpox, as was one of her other sons, while the youngest
-            (called by the English, Sagamore James) was badly disfigured. <br><br>In 1639, Squaw
-            Sachem and Webcowit signed over to the English a large tract of land &#8220;within
-            the bounds of Watertowne (sic) Cambridge and Boston&#8221; for the sum of 21
-            coats, 19 fathom of wampum, and 3 bushels of corn. She reserved a large parcel
-            of land bordering the west side of the Mystic Lakes for her use until her death,
-            and also for the use of the Indians for planting, hunting, and fishing, &quot;while
-            the Squaw liveth.&quot; She marked the treaty with the symbol of a bow and arrow.
-            In 1644, she signed a treaty of submission to the English, agreeing to place
-            her land and people under the control of the Massachusetts Bay Colony. She died
-            around 1650 and is buried somewhere in what is now Medford.`,
-        otherNotes: "",
-        references: ` Benjamin Bussey Thatcher, <em>Indian Biography</em>.
-            New York (1832); Lucius R. Paige. <em>History of Cambridge 1630-1877</em>, Boston
-            1877<Br>Menotomy Journal timeline
-            <Br> Frederick J Lund (compiler), &#8220;Brief
-            History of Somerville,&#8221; Somerville Planning Board, 1996.<Br>
-            <a href="https://en.wikipedia.org/wiki/Saunkskwa_of_Missitekw#/media/File:Squaw_Sachem_-_Robbins_Memorial_Flagstaff_-_Arlington,_MA_-_DSC02798.jpg">
-            <https://en.wikipedia.org/wiki/Saunkskwa_of_Missitekw#/media/File:Squaw_Sachem_-_Robbins_Memorial_Flagstaff_-_Arlington,_MA_-_DSC02798.jpg</a>
-        `,
-        photos: ["images_bios/misticke.jpg"],
-        photoTitles: [
-            "Statue of Squaw Sachem Misticke, grounds of Robbins Library, Arlington, Massachusetts",
-        ],
-        dateCreated: "prior to 2009",
-        dateUpdated: "04.12.2025",
-
-        photoHeights: [],
-        editors: "",
-        authors: "CWHP volunteers",
-        categories: ["Community Leader", "Political Leader"],
-    },
+   
     {
         poc: false,
         organization: false,
