@@ -720,10 +720,10 @@ b_bios = [
         photos: ["images_bios/Mabel_Hubbard_Bell.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "",
+        dateUpdated: "01.15.2026",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Suffragists/Suffrage Group", "Businesswoman"],
     },
