@@ -493,7 +493,13 @@ a.search-buttons {
     .email {
         font-size: 13px;
     }
-
+    #cwhp_logo{
+        height:20vw;
+        width:auto;
+    }
+    .holographic-card {
+        font-size:10vw;
+    }
     #myInput,
     #results a,
     .name-link,
@@ -529,6 +535,11 @@ a.search-buttons {
         margin: 0px;
         padding: 0px;
     }
+    .index-page-text-in-boxes li {
+        font-size:2vw;
+        border-radius:3px;
+    }
+
     .topnav a {
         display: none;
     }
@@ -770,11 +781,12 @@ a.search-buttons {
     overflow: hidden;
     border-radius: 15px;
     transition: all 0.5s ease;
+        font-size: 1.8vw;
+
 }
 
 .holographic-card h2 {
     color: #0ff;
-    font-size: 2rem;
     position: relative;
     z-index: 2;
 }
@@ -811,10 +823,11 @@ a.search-buttons {
     align-items: center;
     gap: 1rem;
     background: rgb(234, 212, 112);
-    padding: 1.5rem;
-    border-radius: 1rem;
+    padding: 2vw;
+    border-radius: 1vw;
     width: calc(100% - 2rem);
     box-shadow: 0.55rem 0.55rem 0.95rem rgb(0 0 0 / 0.3);
+
 }
 
 .index-page-text-in-boxes li::before {
@@ -848,7 +861,7 @@ img:not(.opening-images) {
     margin: 18px;
 }
 .opening-images{
-    height:15vw;
+    height:17vw;
     width:auto;
 }
 .index-page-text-in-boxes li:nth-child(even)::before {
@@ -866,7 +879,6 @@ img:not(.opening-images) {
 
 .fade-in {
     border-radius: 10px;
-
     opacity: 0;
     /* make things invisible upon start */
     animation: fadeIn ease-in 1;
