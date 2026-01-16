@@ -162,7 +162,7 @@
             shuffledNumbers = [];
             shuffledNumbers.push(Math.floor(random() * photoList.length));
 
-            for (let index = 0; index < 15; index++) {
+            for (let index = 0; index < 25; index++) {
                 chosen = true;
                 while (chosen) {
                     num = Math.floor(random() * photoList.length);
@@ -215,6 +215,7 @@
 
                 };
                 html += "</div></div>";
+
                 for (i = 0; i < 5; i++) {
                     html += links[i];
                 }
@@ -225,14 +226,15 @@
 
             document.getElementById("random-intro-photos").innerHTML = html;
 
+            /* rotate 5 photos at a time */
             function rotatePhotos() {
                 shift+=5;
-                if (shift == 15) shift = 0;
+                if (shift == 25) shift = 0;
                 html = buildLinks(shift);
                 document.getElementById("random-intro-photos").innerHTML = html;
 
             }
-            setInterval(rotatePhotos, 5000);
+            setInterval(rotatePhotos, 4000); //switch to next five every 4 seconds
 
 
         }
