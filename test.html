@@ -36,22 +36,23 @@ body {
 
 
 .scroll-container {
-  /* height: 100vh; */
+  /* margin-left:100px;
+  margin-right:100px; */
 }
 
 .carousel-primary,
 .carousel-secondary {
   /* top: 26%; */
   left: 50%;
-  width: 50%;
+  width: 100%;
   overflow: hidden;
   position: absolute;
   white-space: nowrap;
 }
 
 .carousel-primary img {
-  width: auto;
-  margin-left: 20px;
+  /* width: auto; */
+  margin-left: 2px;
   border-radius: 14px;
   height: 155px;
 }
@@ -59,21 +60,21 @@ body {
 .carousel-primary {
   display: flex;
   justify-content: space-around;
-  animation: scroll-horizontal 20s linear infinite;
+  animation: scroll-horizontal 25s linear infinite;
 }
 
 .carousel-secondary {
   animation: scroll-horizontal 20s linear infinite;
-  animation-delay: 10s;
+  animation-delay: 5s;
 }
 
 @keyframes scroll-horizontal {
   0% {
-    left: 100%;
+    left: 25%;
   }
 
   100% {
-    left: -100%;
+    left: 0%;
   }
 }
 
@@ -112,8 +113,8 @@ body {
         <img src="images_bios/ackerman.jpg" alt="cat2" />
         <img src="images_bios/Ada-Comstock-1905.jpg" alt="cat3" />
         <img src="images_bios/alice james books.jpg" alt="cat4" />
-      </div>
-      <div class="carousel-primary carousel-secondary">
+      <!-- </div>
+      <div class="carousel-primary carousel-secondary"> -->
         <img src="images_bios/Alice_Wolf.jpg" alt="cat5" />
         <img src="images_bios/ann bernays.webp" alt="cat6" />
         <img src="images_bios/bernays2.png" alt="cat7" />
