@@ -55,8 +55,11 @@
     <script src="bios/bios_x.js"></script>
     <script src="bios/bios_y.js"></script>
     <script src="bios/bios_z.js"></script>
-
+    <style>
+       
+    </style>
     <script>
+
         function bday() {
             currentDate = new Date();
             // Short format (e.g., "12/16/2025")
@@ -154,7 +157,7 @@
             const day = today.getDate()
             var seed = parseInt(day + "" + month + "" + year);
 
-            
+
             //get 5 random bio numbers:
             shuffledNumbers = [];
             shuffledNumbers.push(Math.floor(random() * photoList.length));
@@ -198,7 +201,7 @@
                 return person2;
             }
             function buildLinks(shift) {
-                html = "";
+                html = '<div class="scroll-container"><div class="carousel-primary">';
                 //BUILD HTML TO DISPLAY PHOTOS:
                 links = [];
                 for (i = shift; i < 5 + shift; i++) {
@@ -211,7 +214,7 @@
                         person2.photos[0] + "' alt='" + namePhoto + " title='" + namePhoto + "'></a>");
 
                 };
-
+                html += "</div></div>";
                 for (i = 0; i < 5; i++) {
                     html += links[i];
                 }
@@ -224,19 +227,19 @@
 
             function rotatePhotos() {
                 shift++;
-                if(shift == 12) shift = 0;
+                if (shift == 12) shift = 0;
                 html = buildLinks(shift);
                 document.getElementById("random-intro-photos").innerHTML = html;
 
             }
-            setInterval(rotatePhotos, 5000);
+            setInterval(rotatePhotos, 7000);
 
 
         }
     </script>
     <style>
-        body{
-            font-size:2vw;
+        body {
+            font-size: 2vw;
         }
     </style>
 </head>
@@ -272,7 +275,7 @@
                 The Cambridge Women's Heritage Project
             </div>
 
-            <div id="opening-pictures" style="margin: 0px auto;">
+            <div id="five-photos" style="margin: 0px auto;">
                 <span id="random-intro-photos"></span>
                 <!-- <a href="bios.html?lNm=Fuller&mNm=&fNm=Margaret" target="_self"> -->
                 <!-- <img class="opening-images" src="images_bios/Margaret%20Fuller%20small.jpeg" alt="Margaret Fuller"

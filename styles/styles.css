@@ -288,6 +288,7 @@ td > a {
     .opening-images{
     height:25vw;
     width:auto;
+    border-radius:20px;
 }
 }
 /* table{font-size:20%! important;} */
@@ -695,6 +696,11 @@ a.search-buttons {
     background-color: #EAD470;
     
 }
+#five-photos{
+      width: fit-content;
+    display: block;
+    align-content: center;
+}
 
 #menu-bar a {
     color: #fff;
@@ -744,9 +750,9 @@ a.search-buttons {
 #main {
     margin: 0px 10vw;
 }
-* {
+/* * {
     box-sizing: border-box;
-}
+} */
 /* 5 boxes on index.html*/
 .index-page-text-in-boxes {
     max-width: 600px;
@@ -867,13 +873,17 @@ img:not(.opening-images) {
 .opening-images{
     height:15vw;
     width:auto;
+    border-radius: 2vw;
+    border: 0px black solid;
+        margin: 0.5vw 0.5vw;
+
 }
 .index-page-text-in-boxes li:nth-child(even)::before {
     background-color: rgb(243, 219, 200);
 }
 @keyframes fadeIn {
     from {
-        opacity: 0;
+        opacity: .1;
     }
 
     to {

@@ -60,26 +60,26 @@
     <script>
        function bioStart(){
         startBio();
-        const scrollableDiv = document.getElementById('scrollplace');
-        console.log(scrollableDiv)
-        const scrollPosition = scrollableDiv.scrollY
-         || scrollableDiv.scrollTop;
+        // const scrollableDiv = document.getElementById('bio');
+        // console.log(scrollableDiv.scrollY + ", " + scrollableDiv.scrollTop)
+        // const scrollPosition = scrollableDiv.scrollY
+        //  || scrollableDiv.scrollTop;
 
-        console.log(scrollPosition);
-        // Save scroll position
-        window.addEventListener("beforeunload", () => {
-            localStorage.setItem("divScrollPosition", scrollPosition);
-        });
+        // console.log(scrollPosition);
+        // // Save scroll position
+        // window.addEventListener("beforeunload", () => {
+        //     localStorage.setItem("divScrollPosition", scrollPosition);
+        // });
 
-        // Restore scroll position
-        window.addEventListener("load", () => {
-            const savedScrollPosition = localStorage.getItem("divScrollPosition");
+        // // Restore scroll position
+        // window.addEventListener("load", () => {
+        //     const savedScrollPosition = localStorage.getItem("divScrollPosition");
 
-            if (savedScrollPosition !== null) {
-                // Use parseInt to convert the string from localStorage back to an integer
-                scrollableDiv.scrollTop = parseInt(savedScrollPosition, 10);
-            }
-        })
+        //     if (savedScrollPosition !== null) {
+        //         // Use parseInt to convert the string from localStorage back to an integer
+        //         scrollableDiv.scrollTop = parseInt(savedScrollPosition, 10);
+        //     }
+        // })
        }
 
     </script>

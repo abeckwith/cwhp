@@ -238,6 +238,7 @@ function showRecents(num) {
             "No new entries in the last " + RECENT_MONTHS_LIMIT + " months";
             
 }
+
 /**
  * Gets 3 parts of name from URL
  * @returns {Array} name parames array
