@@ -57,7 +57,32 @@
         content="historical, commission, designated, landmarks, easements, conservation, neighborhood, preservation">
     <title>CWHP Name Index</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <script>
+       function bioStart(){
+        startBio();
+        const scrollableDiv = document.getElementById('scrollplace');
+        console.log(scrollableDiv)
+        const scrollPosition = scrollableDiv.scrollY
+         || scrollableDiv.scrollTop;
 
+        console.log(scrollPosition);
+        // Save scroll position
+        window.addEventListener("beforeunload", () => {
+            localStorage.setItem("divScrollPosition", scrollPosition);
+        });
+
+        // Restore scroll position
+        window.addEventListener("load", () => {
+            const savedScrollPosition = localStorage.getItem("divScrollPosition");
+
+            if (savedScrollPosition !== null) {
+                // Use parseInt to convert the string from localStorage back to an integer
+                scrollableDiv.scrollTop = parseInt(savedScrollPosition, 10);
+            }
+        })
+       }
+
+    </script>
     <style>
         a {
             scroll-margin-top: 95px;
@@ -67,7 +92,7 @@
 
 </head>
 
-<body onload="startBio()">
+<body onload="bioStart()">
 
 
     <div class="topnav" id="myTopnav">
@@ -77,7 +102,7 @@
     </div>
 
     <div class="main">
-        <div class="left">
+        <div class="left" id="scrollplace">
             <div id="side-table">
             </div>
         </div>
