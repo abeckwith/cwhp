@@ -1273,3 +1273,4 @@ function init(topical, search) {
 
     document.getElementById("end-HTML").innerHTML = html;
 }
+
