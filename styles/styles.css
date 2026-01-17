@@ -29,10 +29,10 @@ body {
     margin-top: 90px;
 }
 .nice-header2 {
-    border: 2px solid black;
+    border: 0px solid black;
     border-radius: 5px;
     color: black;
-    background-color: rgb(234, 212, 112);
+    /* background-color: rgb(234, 212, 112); */
     padding: 10px;
     margin-top: 90px;
 }
@@ -56,7 +56,7 @@ body {
     overflow-x: auto;
     overflow: auto;
 }
-.person-title{
+.person-title {
     font-size: 1.8vw;
 }
 .name-link,
@@ -73,8 +73,7 @@ body {
 .recents-name:hover {
     border: 1px solid black;
     border-radius: 5px;
-     background-color: rgb(254, 230, 123);
-
+    background-color: rgb(254, 230, 123);
 }
 .collapsible {
     background-color: #555; /* Opaque header */
@@ -231,8 +230,9 @@ td > a {
     font-size: 18px;
     font-style: italic;
 }
-.left, .right{
-    border-radius:8px;
+.left,
+.right {
+    border-radius: 8px;
 }
 /* table{
     font-size:89%; 
@@ -242,6 +242,7 @@ td > a {
     #recents {
         font-size: 3.5vw;
     }
+
     #recents a {
         font-size: 4.5vw;
     }
@@ -259,7 +260,7 @@ td > a {
     #bio {
         font-size: 65%;
     }
-  
+
     .name-link {
         font-size: 224%;
     }
@@ -285,11 +286,14 @@ td > a {
     #menu-bar {
         font-size: 30vw;
     }
-    .opening-images{
-    height:25vw;
-    width:auto;
-    border-radius:20px;
-}
+    .opening-images {
+        height: 25vw;
+        width: auto;
+        border-radius: 20px;
+    }
+    #nice-header2 {
+        font-size: 2vw;
+    }
 }
 /* table{font-size:20%! important;} */
 
@@ -382,23 +386,23 @@ a.letter-links:visited {
     padding-top: 10px;
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
-.birthT{
-    padding:6px;
+.birthT {
+    padding: 6px;
 }
 .name-heading {
     font-size: 2.8vw;
     margin-bottom: 10px;
     border-width: 0px;
     border-top: 7px;
-    line-height:1.2;
+    line-height: 1.2;
     border-color: rgb(234, 212, 112);
     /* transition: border-width 1.6s linear; */
     border-style: solid;
     /* width:50%; */
 }
-#full-name{
-    margin-bottom:50px;
-    color:rgb(76, 13, 92);
+#full-name {
+    margin-bottom: 50px;
+    color: rgb(76, 13, 92);
 }
 
 #born {
@@ -406,9 +410,9 @@ a.letter-links:visited {
     margin-bottom: 10px;
     border-width: 0px;
     border-top: 7px;
-    margin-left:25px;
+    margin-left: 25px;
     margin-top: 50px;
-    
+
     /* border-color: rgb(234, 212, 112); */
     /* transition: border-width 1.6s linear; */
     /* border-style: solid; */
@@ -463,11 +467,10 @@ a.search-buttons {
 .headings {
     color: #ead470;
     background-color: black;
-    padding:10px;
- 
+    padding: 10px;
 }
-.facts{
-    font-size:1.4vw;
+.facts {
+    font-size: 1.4vw;
     margin: 2vw 10vw;
 }
 @media screen and (max-width: 700px) {
@@ -479,7 +482,8 @@ a.search-buttons {
     #end-html #opening-pictures {
         font-size: 20px;
     }
-    #bdaydisplay, #dailybday {
+    #bdaydisplay,
+    #dailybday {
         font-size: 20px;
     }
     #size {
@@ -498,12 +502,12 @@ a.search-buttons {
     .email {
         font-size: 13px;
     }
-    #cwhp_logo{
-        height:20vw;
-        width:auto;
+    #cwhp_logo {
+        height: 20vw;
+        width: auto;
     }
     .holographic-card {
-        font-size:10vw;
+        font-size: 10vw;
     }
     #myInput,
     #results a,
@@ -541,16 +545,19 @@ a.search-buttons {
         padding: 0px;
     }
     .index-page-text-in-boxes li {
-        font-size:2vw;
-        border-radius:3px;
+        font-size: 2.5vw;
+        border-radius: 3px;
     }
-
+    #footnote{
+        font-size:2.5vw;
+    }
     .topnav a {
         display: none;
     }
     /* .topnav a:not(:first-child) {
         display: none;
     } */
+ 
     body {
         font-size: 18px;
         margin-left: 2px;
@@ -585,7 +592,13 @@ a.search-buttons {
 
         /* other style changes here */
     }
+    #nice-header2 {
+        font-size: 2vw;
+    }
 }
+    #footnote{
+        font-size:1.9vw;
+    }
 #menu-text {
     font-family: "Open Sans", sans-serif;
 }
@@ -674,16 +687,16 @@ a.search-buttons {
     display: block;
     align-content: center;
 }
-#printy:hover{
+#printy:hover {
     border: 1px solid black;
-    border-radius:5px;
-    padding:5px;
+    border-radius: 5px;
+    padding: 5px;
     background-color: rgb(254, 230, 123);
 }
 #opening-pictures {
     border-style: solid;
-    border-radius: .5vw;
-    border-width: .4vw;
+    border-radius: 0.5vw;
+    border-width: 0.4vw;
     /* border-color: #ead470; */
     font-size: 1.9vw;
     padding: 0.4vw 1vw;
@@ -693,11 +706,10 @@ a.search-buttons {
     width: fit-content;
     display: block;
     align-content: center;
-    background-color: #EAD470;
-    
+    background-color: #ead470;
 }
-#five-photos{
-      width: fit-content;
+#five-photos {
+    width: fit-content;
     display: block;
     align-content: center;
 }
@@ -782,7 +794,7 @@ a.search-buttons {
 
 .holographic-card {
     /* width: 600px; */
-  /* height: 200px; */
+    /* height: 200px; */
     background: #111;
     display: flex;
     justify-content: center;
@@ -791,8 +803,7 @@ a.search-buttons {
     overflow: hidden;
     border-radius: 15px;
     transition: all 0.5s ease;
-        font-size: 1.2vw;
-
+    font-size: 1.2vw;
 }
 
 .holographic-card h2 {
@@ -837,7 +848,6 @@ a.search-buttons {
     border-radius: 1vw;
     width: calc(100% - 2rem);
     box-shadow: 0.55rem 0.55rem 0.95rem rgb(0 0 0 / 0.3);
-
 }
 
 .index-page-text-in-boxes li::before {
@@ -870,28 +880,27 @@ img:not(.opening-images) {
     border: solid 1px black;
     margin: 18px;
 }
-.opening-images{
-    height:15vw;
-    width:auto;
+.opening-images {
+    height: 15vw;
+    width: auto;
     border-radius: 2vw;
     border: 0px black solid;
-        margin: 0.5vw 0.5vw;
-
+    margin: 0.5vw 0.5vw;
 }
 .index-page-text-in-boxes li:nth-child(even)::before {
     background-color: rgb(243, 219, 200);
 }
 @keyframes fadeIn {
     from {
-        opacity: .1;
+        opacity: 0.1;
     }
 
     to {
         opacity: 1;
     }
 }
-#photo-legend{
-    font-size:1.3vw;
+#photo-legend {
+    font-size: 2vw;
 }
 .fade-in {
     border-radius: 10px;
