@@ -56,7 +56,7 @@
     <script src="bios/bios_y.js"></script>
     <script src="bios/bios_z.js"></script>
     <style>
-       
+
     </style>
     <script>
 
@@ -211,7 +211,7 @@
                     person2 = buildBio(currentPerson);
 
                     links.push("<a href='" + currentPerson + "' target='_self'><img class='opening-images' src='" +
-                        person2.photos[0] + "' alt='" + namePhoto + " title='" + namePhoto + "'></a>");
+                        person2.photos[0] + "' alt='" + namePhoto + "'' title='" + namePhoto + "'></a>");
 
                 };
                 html += "</div></div>";
@@ -228,14 +228,23 @@
 
             /* rotate 5 photos at a time */
             function rotatePhotos() {
-                shift+=5;
+                shift += 5;
                 if (shift == 25) shift = 0;
                 html = buildLinks(shift);
                 document.getElementById("random-intro-photos").innerHTML = html;
 
             }
-            setInterval(rotatePhotos, 5000); //switch to next five every 4 seconds
 
+            function repeatedTask() {
+                rotatePhotos();
+            }
+            // iniital rotate
+            const initialTimerId = setTimeout(() => {
+                rotatePhotos();
+
+                // after initial rotate:
+                setInterval(repeatedTask, 7000); 
+            }, 4000); 
 
         }
     </script>
@@ -297,7 +306,7 @@
 
 
         </div>
-        <center><I>click any photo above to learn more</I></center>
+        <center><span id='photo-legend'>hover to see name &#x2022; click to learn more</span></center>
         <br>
         <!-- nice boxes with text -->
         <div class="index-page-text-in-boxes">

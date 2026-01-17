@@ -890,7 +890,9 @@ img:not(.opening-images) {
         opacity: 1;
     }
 }
-
+#photo-legend{
+    font-size:1.3vw;
+}
 .fade-in {
     border-radius: 10px;
     opacity: 0;
