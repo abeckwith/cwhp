@@ -503,7 +503,7 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
 
     bioURL =
         "/" + getHref(person.lastName, person.middleName, person.firstName);
-    if (topical) window.history.pushState({}, "New Title", bioURL);
+     window.history.pushState({}, "New Title", bioURL);
 
     //set style of selected on left side:
     if (!initial && !topical & !search)
@@ -523,6 +523,10 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
     //reset scroll to top of bio when going to new bio:
     bioWindow = document.getElementById("bio");
     bioWindow.scrollTop = 0;
+
+        console.log("window state: ")
+        console.log(window.history.state)
+
 }
 
 /**
@@ -1026,6 +1030,7 @@ window.addEventListener("popstate", (event) => {
     // If a state has been provided, we have a "simulated" page
     // update the current page.
     if (event.state) {
+        console.log("popstate")
         //get URL params and reload page
         startBio();
     }
@@ -1083,6 +1088,7 @@ function next() {
     bioURL =
         "/" + getHref(person.lastName, person.middleName, person.firstName);
     window.history.pushState({}, "New Title", bioURL);
+    console.log(window.history.state)
 }
 /**
  * Build clickable alphabet list
