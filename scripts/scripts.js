@@ -821,7 +821,11 @@ function search() {
                     text = text.replaceAll("<strong>", "");
                     text = text.replaceAll("<em>", "");
                     text = text.replaceAll("<i>", "");
+                    text = text.replaceAll("<\\i>", "");
                     text = text.replaceAll("<b>", "");
+                    text = text.replaceAll("<\\\b>", "");
+                    text = text.replaceAll("<blockquote>", "");
+                    text = text.replaceAll("<\\blockquote>", "");
                     // text = text.replaceAll("<br>", "");
                     // text = text.replaceAll("<Br>", "");
                     // text = text.replaceAll("<BR>", "");

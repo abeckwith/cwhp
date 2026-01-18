@@ -71,7 +71,7 @@ s_bios = [
         poc: false,
         organization: false,
         lastName: "Sarton",
-        firstName: "Eleanore (\"May\")",
+        firstName: 'Eleanore ("May")',
         middleName: "Marie",
         familyName: "",
 
@@ -184,14 +184,33 @@ s_bios = [
             James Cannon. After graduating from Radcliffe College in 1934, Marian spent
             a year traveling in China and studying Chinese painting in Peking. On her return
             home, she wrote and illustrated <em>San Bao and His Adventures in Peking</em>,
-            a classic children's book of the 1930s. <Br><Br>In 1940 she married the historian Arthur
+            a classic children's book of the 1930s. <Br><Br>
+            
+            In 1940 she married the historian Arthur
             Schlesinger, Jr., whom she had met during his junior year at Harvard; they had
-            four children. The couple divorced in 1970. In 1979, while living at 109 Irving Street in Cambridge, she published an autobiography,
+            four children. The couple divorced in 1970. In 1979, while living at 109 Irving 
+            Street in Cambridge, she published an autobiography,
             <em>Snatched From Oblivion</em>, that described growing up in an academic household
-            in Cambridge dominated by strong-minded women, including her novelist mother.
+            in Cambridge dominated by strong-minded women, including her novelist mother. 
             In this book she also depicted an assortment of Cambridge characters of the
-            1920s and 1930s, the politics of the time, and town-gown confrontations.<br><Br>
-            When she died in 2017, Marian Schlesinger was 104 years old.`,
+            1920s and 1930s, the politics of the time, and town-gown confrontations.
+            In describing her teen years at Cambridge High anad Latin School, Schlesinger wrote:
+            <blockquote>
+            "The high school kids were contemptuous of the parochial school kids; the parochial school kids
+            despised the high school kids; and they both combined to abominate the private school 'sissies.'<br><Br>
+            
+            
+            "It was a jolly mix, but seemed not to have affected the general tone of our high school life.
+            We were all outsiders thrown together higgledy-piggledy and the rich melange of personality and cultures
+            was an education in itself. We did not think much in ethnic terms in those days. Differences in background and even
+            in religion were remaked upon but taken for granted, by them and by us."
+            </blockquote>
+            Schlesinger wrote four books in all, including
+            <I>San Bao and his Adventures in Peking</i> (1939), <i>Children of the Fiery Mountain</i> (1940),
+            and <i>I Remember: A Life of Politics, Painting and People</i> (2012), the 2012 work including many additional 
+            details about her life in Cambridge, this time as an adult.
+
+`,
         otherNotes: "",
         references: `Marian Cannon Schlesinger, <em>Snatched from Oblivion</em>,
             (Little Brown, 1979)<br>
@@ -204,14 +223,14 @@ s_bios = [
 
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "04.07.2025",
+        dateUpdated: "01.17.2026",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Artist", "Author"],
     },
-      {
+    {
         poc: false,
         organization: false,
         lastName: "Spence",
@@ -616,7 +635,7 @@ s_bios = [
         authors: "",
         categories: ["Astronomer"],
     },
-     {
+    {
         poc: false,
         organization: false,
         lastName: "Sunksqa",
