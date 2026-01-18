@@ -503,7 +503,7 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
 
     bioURL =
         "/" + getHref(person.lastName, person.middleName, person.firstName);
-    if (topical) window.history.replaceState({}, "New Title", bioURL);
+    if (topical) window.history.pushState({}, "New Title", bioURL);
 
     //set style of selected on left side:
     if (!initial && !topical & !search)
@@ -1012,9 +1012,18 @@ function ranPerson() {
     // makeBio(letter, person, false, false, false);
     bioURL =
         "/" + getHref(person.lastName, person.middleName, person.firstName);
-    window.history.replaceState({}, "New Title", bioURL);
+    window.history.pushState({}, "New Title", bioURL);
 }
+// Handle forward/back buttons
+window.addEventListener("popstate", (event) => {
+  // If a state has been provided, we have a "simulated" page
+  // update the current page.
+  if (event.state) {
+    //get URL params and reload page
+    startBio();
 
+  }
+});
 /**
  * Go to previous person (wraps to next letter when needed)
  */
@@ -1040,7 +1049,7 @@ function previous() {
     makeBio(currentLetter, currentPersonIndex, true, false, false);
     bioURL =
         "/" + getHref(person.lastName, person.middleName, person.firstName);
-    window.history.replaceState({}, "New Title", bioURL);
+    window.history.pushState({}, "New Title", bioURL);
 }
 /**
  * Go to nextperson (wraps to next letter when needed)
@@ -1067,7 +1076,7 @@ function next() {
     makeBio(currentLetter, currentPersonIndex, false, false, false);
     bioURL =
         "/" + getHref(person.lastName, person.middleName, person.firstName);
-    window.history.replaceState({}, "New Title", bioURL);
+    window.history.pushState({}, "New Title", bioURL);
 }
 /**
  * Build clickable alphabet list
