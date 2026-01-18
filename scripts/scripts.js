@@ -497,6 +497,7 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
         "<br><br><br><br><br><br><br>";
 
     document.getElementById("bio").innerHTML = html;
+    if(topical) window.history.replaceState({}, "New Title", "bios.html");
 
     //set style of selected on left side:
     if (!initial && !topical & !search)
@@ -788,6 +789,7 @@ function showNamesForTopical(option) {
                     choice[i][j][2] + //place in letter list
                     "'>" +
                     "<a onclick='makeBio(" +
+                    // "<a href='" + getHref(choice[i][j][0], choice[i][j][1], choice[i][j][2] ) + 
                     choice[i][j][1] +
                     ", " +
                     choice[i][j][2] +
