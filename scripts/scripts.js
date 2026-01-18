@@ -109,12 +109,13 @@ function showRecents(num) {
                     html_build =
                         "<br></i>" +
                         thename.dateCreated.replaceAll(".", "/") +
-                        ":</b>&nbsp;&nbsp;<span class='recents-name'><a href='bios.html?lNm=" +
-                        thename.lastName +
-                        "&mNm=" +
-                        thename.middleName +
-                        "&fNm=" +
-                        thename.firstName +
+                        ":</b>&nbsp;&nbsp;<span class='recents-name'>" +
+                        "<a href='" +
+                        getHref(
+                            thename.lastName,
+                            thename.middleName,
+                            thename.firstName
+                        ) +
                         "'>" +
                         thename.lastName +
                         ", " +
@@ -180,12 +181,11 @@ function showRecents(num) {
                     html_build =
                         "<br></i>" +
                         thename.dateUpdated.replaceAll(".", "/") +
-                        ":</b>&nbsp;&nbsp;<span class='recents-name'><a href='bios.html?lNm=" +
-                        thename.lastName +
-                        "&mNm=" +
-                        thename.middleName +
-                        "&fNm=" +
-                        thename.firstName +
+                        ":</b>&nbsp;&nbsp;<span class='recents-name'>" + 
+                        "<a href='" + getHref(
+                        thename.lastName,
+                        thename.middleName,
+                        thename.firstName)
                         "'>" +
                         thename.lastName +
                         ", " +
@@ -236,7 +236,6 @@ function showRecents(num) {
     else
         document.getElementById("recents").innerHTML =
             "No new entries in the last " + RECENT_MONTHS_LIMIT + " months";
-            
 }
 
 /**
@@ -346,13 +345,7 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
     currentPersonIndex = indexOfPerson;
     let html = "<div id='bio-container' style='line-height:1.7'>";
 
-    link =
-        "bios.html?lNm=" +
-        person.lastName +
-        "&mNm=" +
-        person.middleName +
-        "&fNm=" +
-        person.firstName;
+    link = getHref(person.lastName, person.middleName, person.firstName);
 
     //name:
     html += "<div class='name-heading'><strong><span id='full-name'>";
@@ -440,7 +433,7 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
     if (person.photos.length > 1) {
         //go through all photos:
         tbl = "<table width='2vh'>";
-        for (let i= 1; i < person.photos.length; i++) {
+        for (let i = 1; i < person.photos.length; i++) {
             if (person.photoHeights.length > i && person.photoHeights[i] != "")
                 height = person.photoHeights[i];
             else height = 300;
@@ -462,8 +455,7 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
                 height +
                 'vh"' +
                 ' border="1" style="margin:20px"></td></tr>' +
-                title 
-                ;
+                title;
         }
         html += "</table>";
     }
@@ -578,19 +570,15 @@ function makeSidebar(letterIndex, stepping, topical, search) {
                 letterIndex +
                 "-" +
                 i +
-                "'>" +
-                "<a title='" +
+                "'><a title='" +
                 firstCommaLast +
-                "' href='bios.html?lNm=" +
-                strippedNamesList[letterIndex][i][0] +
-                "&mNm=" +
-                strippedNamesList[letterIndex][i][1] +
-                "&fNm=" +
-                strippedNamesList[letterIndex][i][2] +
-                // add +
-                "'>" +
-                firstCommaLast +
-                "</a></td></tr>";
+                "' href='" +
+                getHref(
+                    strippedNamesList[letterIndex][i][0],
+                    strippedNamesList[letterIndex][i][1],
+                    strippedNamesList[letterIndex][i][2]
+                ) +
+            "'>" + firstCommaLast + "</a></td></tr>";
         }
     }
     html += "</table>";
@@ -610,6 +598,9 @@ function makeSidebar(letterIndex, stepping, topical, search) {
             document.getElementById("bio").innerHTML =
                 "<h1>No entries for " + ltr.toUpperCase() + " yet</h1>";
         }
+}
+function getHref(l, m, f) {
+    return "bios.html?lNm=" + l + "&mNm=" + m + "&fNm=" + f;
 }
 /**
  *
@@ -992,13 +983,11 @@ function ranPerson() {
     makeSidebar(currentLetter2, false, false, false);
 
     console.log(strippedNamesList[currentLetter2][currentPersonIndex2][0]);
-    site =
-        "bios.html?lNm=" +
-        strippedNamesList[currentLetter2][currentPersonIndex2][0] +
-        "&mNm=" +
-        strippedNamesList[currentLetter2][currentPersonIndex2][1] +
-        "&fNm=" +
-        strippedNamesList[currentLetter2][currentPersonIndex2][2];
+    site = getHref(
+        strippedNamesList[currentLetter2][currentPersonIndex2][0],
+        strippedNamesList[currentLetter2][currentPersonIndex2][1],
+        strippedNamesList[currentLetter2][currentPersonIndex2][2]
+    );
 
     //ensures sidebar and URL match person selected:
     window.open(site, "_self");
@@ -1020,13 +1009,11 @@ function previous() {
         currentPersonIndex = all_bios[currentLetter].length - 1;
         makeSidebar(currentLetter, true, false, false);
     }
-    site =
-        "bios.html?lNm=" +
-        strippedNamesList[currentLetter][currentPersonIndex][0] +
-        "&mNm=" +
-        strippedNamesList[currentLetter][currentPersonIndex][1] +
-        "&fNm=" +
-        strippedNamesList[currentLetter][currentPersonIndex][2];
+    site = getHref(
+        strippedNamesList[currentLetter][currentPersonIndex][0],
+        strippedNamesList[currentLetter][currentPersonIndex][1],
+        strippedNamesList[currentLetter][currentPersonIndex][2]
+    );
     window.open(site, "_self");
 
     makeBio(currentLetter, currentPersonIndex, true, false, false);
@@ -1047,13 +1034,11 @@ function next() {
         currentPersonIndex = 0;
         makeSidebar(currentLetter, true, false, false);
     }
-    site =
-        "bios.html?lNm=" +
-        strippedNamesList[currentLetter][currentPersonIndex][0] +
-        "&mNm=" +
-        strippedNamesList[currentLetter][currentPersonIndex][1] +
-        "&fNm=" +
-        strippedNamesList[currentLetter][currentPersonIndex][2];
+    site = getHref(
+        strippedNamesList[currentLetter][currentPersonIndex][0],
+        strippedNamesList[currentLetter][currentPersonIndex][1],
+        strippedNamesList[currentLetter][currentPersonIndex][2]
+    );
     window.open(site, "_self");
 
     makeBio(currentLetter, currentPersonIndex, false, false, false);
@@ -1118,4 +1103,3 @@ function init(topical, search) {
 
     document.getElementById("end-HTML").innerHTML = html;
 }
-

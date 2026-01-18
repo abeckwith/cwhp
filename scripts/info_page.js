@@ -55,7 +55,16 @@ function showBirthdays() {
     all_bios.forEach((bioLetterList) => {
         //go through each name for this letter:
         bioLetterList.forEach((thename) => {
-            if(thename.poc){pocct++;pocList += pocct + ". " + thename.lastName + ", " + thename.firstName + "\n"}
+            if (thename.poc) {
+                pocct++;
+                pocList +=
+                    pocct +
+                    ". " +
+                    thename.lastName +
+                    ", " +
+                    thename.firstName +
+                    "\n";
+            }
             if (thename.firstName == "") orgcount++;
             else womanCount++;
             if (thename.deathDate != "" && thename.birthDate != "")
@@ -68,7 +77,7 @@ function showBirthdays() {
                 console.log(thename.lastName + " " + thename.firstName);
         });
     });
-    console.log(pocList)
+    console.log(pocList);
     topDisplay = "TOTAL in database: " + (orgcount + womanCount) + "<br>";
     topDisplay += "# of Women: " + womanCount + "<Br>";
     topDisplay += "# of Organizations: " + orgcount + "<br>";
@@ -76,17 +85,15 @@ function showBirthdays() {
     all_bios.forEach((bioLetterList) => {
         //go through each name for this letter:
         bioLetterList.forEach((thename) => {
-
             lName = stripName(thename.lastName);
             fName = stripName(thename.firstName);
             mName = stripName(thename.middleName);
             theLink =
-                "<a href='bios.html?lNm=" +
-                lName +
-                "&mNm=" +
-                mName +
-                "&fNm=" +
-                fName +
+                "<a href='" + 
+                getHref(
+                lName ,
+                mName ,
+                fName )+
                 "'>" +
                 thename.lastName +
                 ", " +
@@ -98,8 +105,7 @@ function showBirthdays() {
                 thename.firstName != "" &&
                 thename.birthDate.slice(-4) < 1930
             ) {
-                nobirthDate +=
-                    theLink + "<Br>";
+                nobirthDate += theLink + "<Br>";
                 nbdct++;
             }
             if (thename.narrative.indexOf("blockquote") == -1) {
@@ -163,12 +169,8 @@ function showBirthdays() {
                 html_build =
                     "<tr><td>" +
                     thename.birthDate.replaceAll(".", "/") +
-                    "</b></td><td style='padding-left:10px;'><a href='bios.html?lNm=" +
-                    lName +
-                    "&mNm=" +
-                    mName +
-                    "&fNm=" +
-                    fName +
+                    "</b></td><td style='padding-left:10px;'><a href='" +
+                    getHref(lName, mName, fName) +
                     "'>" +
                     thename.lastName +
                     ", " +
@@ -264,12 +266,8 @@ function showBirthdays() {
         fName = stripName(bio.firstName);
         mName = stripName(bio.middleName);
         aliveDisplay +=
-            "<tr><td><a href='bios.html?lNm=" +
-            lName +
-            "&mNm=" +
-            mName +
-            "&fNm=" +
-            fName +
+            "<tr><td><a href='" +
+            getHref(lName, mName, fName) +
             "'>" +
             bio.lastName +
             ", " +
@@ -295,7 +293,7 @@ function showBirthdays() {
             "<tr><td class='birthT'>&nbsp;&nbsp;" +
             bio.dateForSort +
             "&nbsp;&nbsp;</td><td>" +
-            bio.tableLink +
+            bio.theLink +
             "</td></tr>";
     });
 
