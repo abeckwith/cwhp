@@ -507,7 +507,7 @@ function makeBio(
         "<br><br><br><br><br><br><br>";
 
     document.getElementById("bio").innerHTML = html;
-
+    skipPush = true;
     if (skipPush) {
         console.log("Pushing state")
         bioURL =
@@ -630,9 +630,9 @@ function makeSidebar(letterIndex, stepping, topical, search) {
                 "<h1>No entries for " + ltr.toUpperCase() + " yet</h1>";
         }
     //set URL to first woman in the alpha list:
-    // threeNames = strippedNamesList[letterIndex][0];
-    // bioURL = "/" + getHref(threeNames[0], threeNames[1], threeNames[2]);
-    // window.history.pushState({}, "", bioURL);
+    threeNames = strippedNamesList[letterIndex][0];
+    bioURL = "/" + getHref(threeNames[0], threeNames[1], threeNames[2]);
+    window.history.pushState({}, "", bioURL);
 }
 function getHref(l, m, f) {
     return "bios.html?last=" + l + "&middle=" + m + "&first=" + f;
@@ -1028,9 +1028,9 @@ function ranPerson() {
     //ensures sidebar and URL match person selected:
     // window.open(site, "_self");
     // makeBio(letter, person, false, false, false);
-    // bioURL =
-    //     "/" + getHref(person.lastName, person.middleName, person.firstName);
-    // window.history.pushState({}, "New Title", bioURL);
+    bioURL =
+        "/" + getHref(person.lastName, person.middleName, person.firstName);
+    window.history.pushState({}, "New Title", bioURL);
 }
 // Handle forward/back buttons
 window.addEventListener("popstate", (event) => {
@@ -1065,9 +1065,9 @@ function previous() {
     // window.open(site, "_self");
 
     makeBio(currentLetter, currentPersonIndex, true, false, false);
-    // bioURL =
-    //     "/" + getHref(person.lastName, person.middleName, person.firstName);
-    // window.history.pushState({}, "New Title", bioURL);
+    bioURL =
+        "/" + getHref(person.lastName, person.middleName, person.firstName);
+    window.history.pushState({}, "New Title", bioURL);
 }
 /**
  * Go to nextperson (wraps to next letter when needed)
@@ -1092,9 +1092,9 @@ function next() {
     );
     // window.open(site, "_self");
     makeBio(currentLetter, currentPersonIndex, false, false, false);
-    // bioURL =
-    //     "/" + getHref(person.lastName, person.middleName, person.firstName);
-    // window.history.pushState({}, "New Title", bioURL);
+    bioURL =
+        "/" + getHref(person.lastName, person.middleName, person.firstName);
+    window.history.pushState({}, "New Title", bioURL);
 }
 /**
  * Build clickable alphabet list
