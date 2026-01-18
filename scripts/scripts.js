@@ -619,6 +619,10 @@ function makeSidebar(letterIndex, stepping, topical, search) {
             document.getElementById("bio").innerHTML =
                 "<h1>No entries for " + ltr.toUpperCase() + " yet</h1>";
         }
+    //set URL to first woman in the alpha list:
+    threeNames = strippedNamesList[letterIndex][0];
+    bioURL = "/" + getHref(threeNames[0], threeNames[1], threeNames[2]);
+    window.history.pushState({}, "", bioURL);
 }
 function getHref(l, m, f) {
     return "bios.html?last=" + l + "&middle=" + m + "&first=" + f;
