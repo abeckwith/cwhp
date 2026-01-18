@@ -600,7 +600,7 @@ function makeSidebar(letterIndex, stepping, topical, search) {
         }
 }
 function getHref(l, m, f) {
-    return "bios.html?lNm=" + l + "&mNm=" + m + "&fNm=" + f;
+    return "bios.html?last=" + l + "&middle=" + m + "&first=" + f;
 }
 /**
  *

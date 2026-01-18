@@ -56,12 +56,11 @@ function bday() {
             ) {
                 //make link to bio:
                 link =
-                    "<a id='dailybday' href='bios.html?lNm=" +
-                    bio.lastName +
-                    "&mNm=" +
-                    bio.middleName +
-                    "&fNm=" +
-                    bio.firstName +
+                    "<a id='dailybday'" + 
+                    getHref(
+                    bio.lastName,
+                    bio.middleName,
+                    bio.firstName) +
                     // add +
                     "'>";
                 //get how old the person is:
