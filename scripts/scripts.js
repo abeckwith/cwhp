@@ -333,6 +333,7 @@ function openWin() {
  * @param {Integer} letter position in alphabet
  * @param {Integer} indexOfPerson
  */
+let person = "";
 function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
     //get the last name fist letter:
 
@@ -497,6 +498,7 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
         "<br><br><br><br><br><br><br>";
 
     document.getElementById("bio").innerHTML = html;
+
     bioURL = "/" + getHref(person.lastName, person.middleName, person.firstName);
     if(topical) window.history.replaceState({}, "New Title", bioURL);
 
@@ -985,7 +987,6 @@ function ranPerson() {
     //display:
     makeSidebar(currentLetter2, false, false, false);
 
-    console.log(strippedNamesList[currentLetter2][currentPersonIndex2][0]);
     site = getHref(
         strippedNamesList[currentLetter2][currentPersonIndex2][0],
         strippedNamesList[currentLetter2][currentPersonIndex2][1],
@@ -993,8 +994,10 @@ function ranPerson() {
     );
 
     //ensures sidebar and URL match person selected:
-    window.open(site, "_self");
-    makeBio(letter, person, false, false, false);
+    // window.open(site, "_self");
+    // makeBio(letter, person, false, false, false);
+      bioURL = "/" + getHref(person.lastName, person.middleName, person.firstName);
+     window.history.replaceState({}, "New Title", bioURL);
 }
 
 /**
@@ -1017,9 +1020,11 @@ function previous() {
         strippedNamesList[currentLetter][currentPersonIndex][1],
         strippedNamesList[currentLetter][currentPersonIndex][2]
     );
-    window.open(site, "_self");
+    // window.open(site, "_self");
 
     makeBio(currentLetter, currentPersonIndex, true, false, false);
+       bioURL = "/" + getHref(person.lastName, person.middleName, person.firstName);
+     window.history.replaceState({}, "New Title", bioURL);
 }
 /**
  * Go to nextperson (wraps to next letter when needed)
@@ -1042,9 +1047,10 @@ function next() {
         strippedNamesList[currentLetter][currentPersonIndex][1],
         strippedNamesList[currentLetter][currentPersonIndex][2]
     );
-    window.open(site, "_self");
-
+    // window.open(site, "_self");
     makeBio(currentLetter, currentPersonIndex, false, false, false);
+   bioURL = "/" + getHref(person.lastName, person.middleName, person.firstName);
+     window.history.replaceState({}, "New Title", bioURL);
 }
 /**
  * Build clickable alphabet list
