@@ -497,7 +497,8 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
         "<br><br><br><br><br><br><br>";
 
     document.getElementById("bio").innerHTML = html;
-    if(topical) window.history.replaceState({}, "New Title", "bios.html");
+    bioURL = "/" + getHref(person.lastName, person.middleName, person.firstName);
+    if(topical) window.history.replaceState({}, "New Title", bioURL);
 
     //set style of selected on left side:
     if (!initial && !topical & !search)
