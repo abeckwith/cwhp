@@ -25,7 +25,7 @@ function startBio() {
 
     //get params from URL:
     p = getParams();
-
+    console.log(p);
     //when page first loads
     ltrIndex = 0;
     personIndex = 0;
@@ -336,7 +336,14 @@ function openWin() {
  * @param {Integer} indexOfPerson
  */
 let person = "";
-function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
+function makeBio(
+    ltrIndex,
+    indexOfPerson,
+    initial,
+    search,
+    topical,
+    skipPush = false,
+) {
     //get the last name fist letter:
 
     // ltrIndex = "abcdefghijklmnopqrstuvwxyz".indexOf(urllastName.charAt(0).toLowerCase());
@@ -501,9 +508,12 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
 
     document.getElementById("bio").innerHTML = html;
 
-    bioURL =
-        "/" + getHref(person.lastName, person.middleName, person.firstName);
-     window.history.pushState({}, "New Title", bioURL);
+    if (skipPush) {
+        console.log("Pushing state")
+        bioURL =
+            "/" + getHref(person.lastName, person.middleName, person.firstName);
+        window.history.pushState({}, "New Title", bioURL);
+    }
 
     //set style of selected on left side:
     if (!initial && !topical & !search)
@@ -523,10 +533,6 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
     //reset scroll to top of bio when going to new bio:
     bioWindow = document.getElementById("bio");
     bioWindow.scrollTop = 0;
-
-        console.log("window state: ")
-        console.log(window.history.state)
-
 }
 
 /**
@@ -624,9 +630,9 @@ function makeSidebar(letterIndex, stepping, topical, search) {
                 "<h1>No entries for " + ltr.toUpperCase() + " yet</h1>";
         }
     //set URL to first woman in the alpha list:
-    threeNames = strippedNamesList[letterIndex][0];
-    bioURL = "/" + getHref(threeNames[0], threeNames[1], threeNames[2]);
-    window.history.pushState({}, "", bioURL);
+    // threeNames = strippedNamesList[letterIndex][0];
+    // bioURL = "/" + getHref(threeNames[0], threeNames[1], threeNames[2]);
+    // window.history.pushState({}, "", bioURL);
 }
 function getHref(l, m, f) {
     return "bios.html?last=" + l + "&middle=" + m + "&first=" + f;
@@ -992,7 +998,8 @@ function ranPerson() {
     setTotals(false);
     ltrCount = 0;
     //count how many total people to choose from:
-    all_bios.forEach((bioLetterList) => {
+    if(all_people.length == 0)
+        all_bios.forEach((bioLetterList) => {
         let personCount = 0;
 
         //go through each name for this letter:
@@ -1003,14 +1010,14 @@ function ranPerson() {
         ltrCount++;
     });
 
-    chosen = Math.floor(Math.random() * all_people.length);
-
+    chosen = Math.floor(Math.random() *  all_people.length);
     //get letter and person within letter:
     currentLetter2 = all_people[chosen][0];
     currentPersonIndex2 = all_people[chosen][1];
-
-    //display:
+    console.log(currentLetter2 + ", " + currentPersonIndex2)
     makeSidebar(currentLetter2, false, false, false);
+    makeBio(currentLetter2, currentPersonIndex2, false, false, false);
+    //display:
 
     site = getHref(
         strippedNamesList[currentLetter2][currentPersonIndex2][0],
@@ -1021,16 +1028,16 @@ function ranPerson() {
     //ensures sidebar and URL match person selected:
     // window.open(site, "_self");
     // makeBio(letter, person, false, false, false);
-    bioURL =
-        "/" + getHref(person.lastName, person.middleName, person.firstName);
-    window.history.pushState({}, "New Title", bioURL);
+    // bioURL =
+    //     "/" + getHref(person.lastName, person.middleName, person.firstName);
+    // window.history.pushState({}, "New Title", bioURL);
 }
 // Handle forward/back buttons
 window.addEventListener("popstate", (event) => {
     // If a state has been provided, we have a "simulated" page
     // update the current page.
     if (event.state) {
-        console.log("popstate")
+        console.log("popstate");
         //get URL params and reload page
         startBio();
     }
@@ -1058,9 +1065,9 @@ function previous() {
     // window.open(site, "_self");
 
     makeBio(currentLetter, currentPersonIndex, true, false, false);
-    bioURL =
-        "/" + getHref(person.lastName, person.middleName, person.firstName);
-    window.history.pushState({}, "New Title", bioURL);
+    // bioURL =
+    //     "/" + getHref(person.lastName, person.middleName, person.firstName);
+    // window.history.pushState({}, "New Title", bioURL);
 }
 /**
  * Go to nextperson (wraps to next letter when needed)
@@ -1085,10 +1092,9 @@ function next() {
     );
     // window.open(site, "_self");
     makeBio(currentLetter, currentPersonIndex, false, false, false);
-    bioURL =
-        "/" + getHref(person.lastName, person.middleName, person.firstName);
-    window.history.pushState({}, "New Title", bioURL);
-    console.log(window.history.state)
+    // bioURL =
+    //     "/" + getHref(person.lastName, person.middleName, person.firstName);
+    // window.history.pushState({}, "New Title", bioURL);
 }
 /**
  * Build clickable alphabet list
