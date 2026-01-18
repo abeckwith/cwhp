@@ -520,6 +520,9 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
                 element.classList.add("name-link");
             }
         }
+    //reset scroll to top of bio when going to new bio:
+    bioWindow = document.getElementById("bio");
+    bioWindow.scrollTop = 0;
 }
 
 /**
@@ -1016,13 +1019,12 @@ function ranPerson() {
 }
 // Handle forward/back buttons
 window.addEventListener("popstate", (event) => {
-  // If a state has been provided, we have a "simulated" page
-  // update the current page.
-  if (event.state) {
-    //get URL params and reload page
-    startBio();
-
-  }
+    // If a state has been provided, we have a "simulated" page
+    // update the current page.
+    if (event.state) {
+        //get URL params and reload page
+        startBio();
+    }
 });
 /**
  * Go to previous person (wraps to next letter when needed)
