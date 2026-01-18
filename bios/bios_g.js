@@ -602,9 +602,10 @@ g_bios = [
                 monitor for the first presidential election after apartheid ended in South Africa.</span><br><Br>
             Gray was also the
                 Chair of the Board of Trustees of the YWCA Cambridge, and in 2010, she received the Lieutenant Kenney
-                Award for her commitment to safety and prosperity for the Area IV Cambridge community. Gray dedicated
+                Award for her commitment to safety and prosperity for the Area IV Cambridge community (she was living at 
+                84 Columbia Street at the time). Gray dedicated
                 her entire career and life to helping others, especially women, African Americans and fellow
-                Cantabrigians (she was living at 84 Columbia Street at the time).</span>`,
+                Cantabrigians.</span>`,
         otherNotes: "",
         references: `
             <span >Graves, Helen. &ldquo;Second Time Around

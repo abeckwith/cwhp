@@ -888,7 +888,7 @@ c_bios = [
             vessel, and a house is an outer vessel, so learning how to renovate a space was essential and empowering for
             us as women.&rdquo;<br><br>
 
-            The space is still owned by Annie Hoffman and is now a yoga and expressive
+            As of 2019, the space was still owned by Annie Hoffman and was a yoga and expressive
             arts studio named Art &amp; Soul.<br>
           
             `,
