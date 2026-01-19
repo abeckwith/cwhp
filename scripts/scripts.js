@@ -341,6 +341,7 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
     // ltrIndex = "abcdefghijklmnopqrstuvwxyz".indexOf(urllastName.charAt(0).toLowerCase());
     //get all JSON bios for this letter:
     bios = getBios();
+
     //GET PERSON JSON:
     person = bios[ltrIndex][indexOfPerson];
     currentLetter = ltrIndex;
@@ -526,6 +527,8 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
     //reset scroll to top of bio when going to new bio:
     bioWindow = document.getElementById("bio");
     bioWindow.scrollTop = 0;
+            // setBoldInSideBar(bios, currentLetter, currentPersonIndex);
+
 }
 function onclickForMakeBio(ltrIndex, indexOfPerson, initial, search, topical) {
     makeBio(ltrIndex, indexOfPerson, initial, search, topical);
@@ -536,6 +539,7 @@ function onclickForMakeBio(ltrIndex, indexOfPerson, initial, search, topical) {
         "/" + getHref(person.lastName, person.middleName, person.firstName);
     window.history.pushState({}, "New Title", bioURL);
     console.log("onclickmakebio:", bioURL)
+    setBoldInSideBar(bios, ltrIndex, indexOfPerson);
 }
 function onclickLetter(letterIndex, personIndex, stepping, topical, search) {
     makeSidebar(letterIndex, personIndex, stepping, topical, search);
