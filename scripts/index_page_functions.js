@@ -56,7 +56,7 @@ function bday() {
             ) {
                 //make link to bio:
                 link =
-                    "<a id='dailybday'" + 
+                    "<a id='dailybday' href='" + 
                     getHref(
                     bio.lastName,
                     bio.middleName,
