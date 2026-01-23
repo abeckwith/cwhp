@@ -116,7 +116,7 @@ function showRecents(num) {
                             thename.firstName,
                         ) +
                         "'>" +
-                        thename.lastName +
+                        thename.lastName.replaceAll("'", "") +
                         ", " +
                         thename.firstName +
                         "</a></span>,&nbsp;<i> " +
@@ -186,7 +186,7 @@ function showRecents(num) {
                             thename.lastName,
                             thename.middleName,
                             thename.firstName,
-                        );
+                        )+
                     "'>" +
                         thename.lastName +
                         ", " +
@@ -199,6 +199,7 @@ function showRecents(num) {
                         monthNum,
                         year,
                         dayNum,
+                        
                     });
                 }
             }
@@ -231,6 +232,8 @@ function showRecents(num) {
     });
     r2.forEach((element) => {
         html2 += element.html_build;
+                console.log(element.html_build)
+
     });
     if (html + html2 != "")
         document.getElementById("recents").innerHTML = html + html2;
