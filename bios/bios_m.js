@@ -611,7 +611,8 @@ m_bios = [
                 she began to work at the Fogg Art Museum as a research assistant under Paul
                 Sachs, preparing a catalogue of his collection of drawings. She soon became
                 an important part of the museum and from 1937 to 1947 her title was Keeper of
-                Drawings. By 1947 she was named Curator of Drawings, the first woman to be named
+                Drawings.
+                <Br><Br> By 1947 she was named Curator of Drawings, the first woman to be named
                 curator at the Fogg, retaining this title until her retirement in 1975. She
                 was also an important administrator of the museum. Between 1951 and 1968 (when she was living at
                 1558 Mass. Ave.), she
@@ -965,7 +966,8 @@ by Cate McQuaid,, April 12, 2017
             Morales grew up in New York City speaking Spanish at home with her Puerto Rican immigrant
             parents and her siblings.  She transitioned to English as her primary language while
             attending New York City schools.  She joined the communist party in 1949, where she met Richard 
-            (Dick) Levins. They married in 1950, and facing the blacklist and Dick's possible drafting
+            (Dick) Levins. 
+            <Br><Br>They married in 1950, and facing the blacklist and Dick's possible drafting
             into the Korean War, moved to Puerto Rico in 1951, where they farmed and had two children.
                 In 1956 they returned to New York where Rosario was a visual artist and studied at City
                 College in New York. They returned to Puerto Rico in 1961, where Rosario did oil painting,
@@ -1001,7 +1003,7 @@ by Cate McQuaid,, April 12, 2017
 
             <Br><BR>
 
-            In 1986, when Morales was living at 107A Amory Street, she published Getting Home Alive with her daughter Aurora, a groundbreaking 
+            In 1986, when Morales was living at 107A Amory Street, she published <i>Getting Home Alive</i> with her daughter Aurora, a groundbreaking 
             collection of multi-genre writing about being Puerto Rican women in
 
             Puerto Rico and the United States. Excerpts have been widely anthologized and 

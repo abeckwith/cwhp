@@ -594,8 +594,7 @@ l_bios = [
             19th-century farmhouse in New Hampshire.`,
         otherNotes: "",
         references: `
-            &quot;
-            Lowry, Lois.&quot; <em>Contemporary Authors</em>. Ed. Susan M. Trosky. Detroit: Gale
+            &quot;Lowry, Lois.&quot; <em>Contemporary Authors</em>. Ed. Susan M. Trosky. Detroit: Gale
             Research, Inc., 1994, pp..<br>
             Smith, Amanda. &quot;PW Interviews: Lois Lowry.&quot; <em>Publisher Weekly</em>. 21
             February 1986: 152-153.<br>

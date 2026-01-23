@@ -259,7 +259,7 @@ p_bios = [
         middleName: "Rosslyn",
         familyName: "",
         
-        title: `Physical therapist. community advocate and volunteer`,
+        title: `Physical therapist, community advocate, and volunteer`,
         birthDate: "03.08.1925",
         birthLocation: "Cambridge, Massachusetts",
         deathDate: "11.15.2015",

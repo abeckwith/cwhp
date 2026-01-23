@@ -84,7 +84,7 @@ function bday() {
         });
     });
     setMenu(0);
-
+    displayRandomCard();
     /*
      *   CHOOSE RANDOM PHOTOS FOR INDEX PAGE:
      */

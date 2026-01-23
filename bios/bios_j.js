@@ -189,8 +189,12 @@ j_bios = [
 
             In a 1915 letter to the Cambridge Tribune, after a defeat of a ballot question on suffrage, Johnson wrote:
 
-            <blockquote>"Working together has developed a fine, permanent, and wholesome comradeship between men and women of all conditions and creeds.<Br>
-            "Though woman suffrage is delayed in Massachusetts, it is surely coming. Justice demands it. The spirit of the century claims the help of women in the government as well as in the home. Those women who are awake to the capacity of their patriotic duty do not wish to shirk, but are read to co-operate as soon as the ballot is placed in their hands."
+            <blockquote>"Working together has developed a fine, permanent, and wholesome comradeship between men 
+            and women of all conditions and creeds.<Br>
+            "Though woman suffrage is delayed in Massachusetts, it is surely coming. Justice demands it. The 
+            spirit of the century claims the help of women in the government as well as in the home. Those
+             women who are awake to the capacity of their patriotic duty do not wish to shirk, but are ready
+             to co-operate as soon as the ballot is placed in their hands."
             </blockquote>
             After working
             with the Massachusetts Woman Suffrage Association, Johnson became a member of the national

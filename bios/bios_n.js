@@ -7,8 +7,7 @@ n_bios = [
         middleName: "",
         familyName: "",
 
-        title: `Feminist center & bookstore<br>
-    Founded 2002  <Br>Formerly the New Words Bookstore (1974-2002)`,
+        title: `Feminist center & bookstore <Br>Formerly the New Words Bookstore (1974-2002)`,
         birthDate: "",
         birthLocation: "",
         deathDate: "",

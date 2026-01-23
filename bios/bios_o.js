@@ -17,7 +17,7 @@ o_bios = [
             collaboration between the Cambridge Arts Council and the Cambridge Social History Resource Center. The goal
             was to build stronger communities not only by documenting oral histories but by bringing people together, in
             one-on-one interviews, to overcome stereotypes and prejudices, believing that <blockquote>&ldquo;...the lives of regular
-            people are important and deserve to be documented.&rdquo;</blockquote> The center was housed at 186 hampshire Street.<Br>
+            people are important and deserve to be documented.&rdquo;</blockquote> The center was housed at 186 Hampshire Street.<Br>
             Examples of interview pairs from Cambridge, Roxbury, Lawrence, and Central
             America included: High school girls and older women; Spanish-speaking and English-speaking youth; Jewish and
             Palestinian women; Public and parochial students; and Mayan, Creole, and Garifuna women. <br><Br>
