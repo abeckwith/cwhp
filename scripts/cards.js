@@ -168,7 +168,7 @@ cards = [
         sentence: "A feminist poet, activist, and author, Rosario also did oil paintings, printmaking,"+
         " and fiber arts and was an amateur naturalist anthropologist. In 1987, she was one of 18 "+
         "Massachusetts poets and writers whose work was <b>inscribed in granite and installed along the "+
-        "new Orange Line MBTA stations</b>.</a>",
+        "new Orange Line MBTA stations</b>.",
     },
        {
         name: "New Words",
