@@ -5,7 +5,7 @@ cards = [
         image: "images_bios/Isabella Halsted small.jpeg",
         sentence:
             "Was an author and activist who led the campaign to <B>close Memorial Drive</B>" +
-            " to automobile traffic on Sundays",
+            " to automobile traffic on Sundays. She was also the author of <b>\"The Aunts\"</b>, a 1992 memoir of the four Curtis sisters of Beacon Hill and Manchester, New Hampshire.",
     },
     {
         name: "Barbara Ackermann",
@@ -43,14 +43,17 @@ cards = [
         link: "bios.html?ln=Bodecker&mN=Anne&fN=Mary",
         image: "images_bios/bodecker_sm.png",
         sentence:
-            "Set up the first case management program in the country to <b>work with incarcerated women with AIDS</b>",
+            "Set up the first case management program in the country to <b>work with incarcerated women with AIDS. </b>"+
+            "She was also a naturalist, who traveled to Quebec to see baby seals, to Labrador and Newfoundland to study polar bears and snowy owls, and to Antarctica to view the penguin colonies. "+
+            "When almost seventy, <b>she took a dog sledding trip to Alaska, camping in deep snow.</b>",
     },
     {
         name: "Lorna Marshall",
         link: "bios.html?lNm=Marshall&mNm=Jean&fNm=Lorna",
         image: "images_bios/marshall_lorna.jpg",
         sentence:
-            "Was an anthropologist, who published a book about the !Kung people and who <b>lived be to 104 years old</b>",
+            "Was an anthropologist, who published a book about the !Kung people and who <b>lived be to 104 years old.</b>"+
+            "Over a period of two decades, she spent <b>more time in Botswana and Namibia than she did in Cambridge</b>, developing close personal ties to the !Kung for her book.",
     },
     {
         name: "Mary Crutchfield Thompson",
@@ -187,7 +190,7 @@ cards = [
         image: "images_bios/piltch.jpeg",
         sentence: "During World War II, she became and <b>air raid warden</b> and while attending "+
         "Boston University's Sargent College for Physical Therapy, she joined the USO, <b>entertaining the "+
-        "troops</b> stationed at Camp Devens and served as a member of the <b>Jewish War Veterans Auxiliary.</b>",
+        "troops</b> stationed at Camp Devens and serving as a member of the <b>Jewish War Veterans Auxiliary.</b>",
     },
     {
         name: "Jane Curtin",
