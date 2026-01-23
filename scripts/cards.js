@@ -36,7 +36,8 @@ cards = [
         link: "bios.html?lNm=Andrade&mNm=%22Minnie%22&fNm=Dominga",
         image: "images_bios/doffer.png",
         sentence:
-            "In 1919, at the age of 15, Minnie was working in New Bedford as a <b>cotton mill doffer</b>, replacing bobbins or spindles from a spinning frame as they ran out",
+            "In 1919, at the age of 15, Minnie was working in New Bedford as a <b>cotton mill doffer</b>, replacing bobbins or spindles from a spinning frame as they ran out.<br>"
+            +"She moved to Cambridge in the 1930s and <b>lived on Market Street for over 60 years.</b> ",
     },
     {
         name: "Mary Bodecker",
@@ -265,7 +266,7 @@ function displayRandomCard() {
             '" alt="Avatar"' +
             'class="w3-left w3-circle w3-margin-right" style="width:60px"><p><span  style="font-size:1.1vw">' +
             element.sentence +
-            "</span></p><br></div></div></div></a><Br>";
+            "</span></p><br></div></div></div></a>";
     }
     document.getElementById("one-card").innerHTML = html;
 }
