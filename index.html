@@ -27,7 +27,8 @@
     <title>Cambridge Women's Heritage Project</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/5/w3.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
     <script src="bios/bios_a.js"></script>
     <script src="bios/bios_b.js"></script>
@@ -63,6 +64,30 @@
         body {
             font-size: 2vw;
         }
+       
+        h1,
+        h2,
+        h3 {
+            font-family: Open Sans;
+        }
+
+        .no-underline-area a,
+        .no-underline-area a:visited,
+        .no-underline-area a:hover,
+        .no-underline-area a:active {
+            text-decoration: none;
+        }
+
+        @media screen and (max-width: 700px) {
+            /* header.w3-container.w3-light-grey, div.w3-container{
+                width:350px;
+            } */
+
+            h3 {
+                font-size: 1.5vw;
+            }
+        }
+   
     </style>
 </head>
 
@@ -90,10 +115,34 @@
                     </div>
                 </div>
             </div>
+            <center>
+            <div class="w3-container no-underline-area">
+                <a href="bios.html?ln=Baldwin&mN=Louisa&fN=Maria">
+                    <div class="w3-card-4" style="width:30%;">
+                        <header class="w3-container w3-light-grey">
+                            <h3 style="font-size:1.3vw">
+                                Maria Baldwin
+                            </h3>
+                        </header>
+                        <div class="w3-container"><img src="images_bios/mary louise baldwin.jpeg" alt="Avatar"
+                                class="w3-left w3-circle w3-margin-right" style="width:60px;">
+                            <p>
+                                <span style="font-size:1.1vw">
+                                The first Black woman to be appointed as a <b>principal at a public school</b> in
+                                Massachusetts</b> 
+                                (the Aggasiz in Cambridge). She was also an activist and a writer
+                                </span>
+                            </p>
+                        
+                        </div>
+                    </div>
+                    </a>
+            </div>
+            </center>
             <span id="bdaydisplay"></span>
 
             <br>
-            <div class="fade-in" style="text-align:center;font-size:3.5vw;">
+            <div class="fade-in" style="text-align:center;font-size:3vw;">
                 The Cambridge Women's Heritage Project
             </div>
 
@@ -103,7 +152,8 @@
 
 
         </div>
-        <center><span id='photo-legend'>&#x2191; hover to see name &#x2022;  click to learn more &#x2191; </span></center>
+        <center><span id='photo-legend'>&#x2191; hover to see name &#x2022; click to learn more &#x2191; </span>
+        </center>
         <br>
         <!-- nice boxes with text -->
         <div class="index-page-text-in-boxes">

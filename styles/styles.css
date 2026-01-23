@@ -493,7 +493,8 @@ a.search-buttons {
         font-size: 5px;
     }
     .flicker {
-        font-size: 40px;
+        font-size: 20px;
+        margin-bottom:10px;
     }
     .email {
         font-size: 10px;
@@ -877,7 +878,7 @@ a.search-buttons {
 }
 img:not(.opening-images) {
     border: solid 1px black;
-    margin: 18px;
+    margin-top: 18px;
 }
 .opening-images {
     height: 15vw;
@@ -939,13 +940,13 @@ input[type="text"]:focus {
     outline: #ecc61d;
 }
 .flicker {
-    font-size: 3vw;
+    font-size: 1.5vw;
     text-align: center;
-    margin: 0.5rem auto;
-    margin-bottom: 0.5vh;
+    /* margin: 0.5rem auto; */
+    margin-bottom: .5vw;
     margin-left: 0.1vh;
     margin-right: 0.1vh;
-    padding: 1.3vh;
+    padding: 1vh;
     color: rgb(234, 212, 112);
     background: -webkit-gradient(
             linear,

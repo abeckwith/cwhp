@@ -20,7 +20,7 @@
     <title>CWHP Fun Facts</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-    <!-- for hamburger menu icon: -->
+    <!-- for cards -->
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/5/w3.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <style>
@@ -201,7 +201,8 @@
                     count++;
                     if (count % 2 == 0) mgn = "margin-left:20vw"
                     else mgn = "margin-right:20vw";
-                    html += '<div class="w3-container no-underline-area"><a href="' + element.link
+                    html += '<div class="w3-container no-underline-area">'+
+                        '<a href="' + element.link
                         + '"><div class="w3-card-4" style="width:50%;' + mgn + '"">' +
                         '<header class="w3-container w3-light-grey"><h3>' +
                         element.name + '</h3></header><div class="w3-container"><img src="' +
