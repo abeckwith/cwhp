@@ -259,14 +259,14 @@ function displayRandomCard() {
             '<a href="' +
             element.link +
             '"><div class="w3-card-4" style="width:50%;">' +
-            '<header class="w3-container w3-light-grey"><h3 style="font-size:1.6vw">' +
+            '<header class="w3-container w3-light-grey"><h3 id="gray">' +
             element.name +
             '</h3></header><div class="w3-container"><img src="' +
             element.image +
             '" alt="Avatar"' +
-            'class="w3-left w3-circle w3-margin-right" style="width:60px"><p><span  style="font-size:1.1vw">' +
+            'class="w3-left w3-circle w3-margin-right" style="width:60px"><p><span id="sentence">' +
             element.sentence +
-            "</span></p><br></div></div></div></a>";
+            "</span></p></div></div></div></a>";
     }
     document.getElementById("one-card").innerHTML = html;
 }

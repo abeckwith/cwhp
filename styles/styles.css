@@ -12,6 +12,9 @@ body {
     font-size: 2.2vh;
     /* overflow:hidden; */
 }
+#sentence{
+    font-size:1.2vw;
+}
 .abouts {
     margin-left: 10vw;
     margin-right: 10vw;
@@ -234,6 +237,9 @@ td > a {
 .right {
     border-radius: 8px;
 }
+#gray{
+    font-size:1.6vw;
+}
 /* table{
     font-size:89%; 
 } */
@@ -242,7 +248,9 @@ td > a {
     #recents {
         font-size: 3.5vw;
     }
-
+    #sentence {
+        font-size: 2.5vw;
+    }
     #recents a {
         font-size: 4.5vw;
     }
@@ -294,6 +302,13 @@ td > a {
     #nice-header2 {
         font-size: 2vw;
     }
+            #gray{
+        font-size:2.5vw;
+    }
+       #celebrate{
+        font-size:3vw;
+    }
+
 }
 /* table{font-size:20%! important;} */
 
@@ -473,6 +488,7 @@ a.search-buttons {
     font-size: 1.4vw;
     margin: 2vw 10vw;
 }
+
 @media screen and (max-width: 700px) {
     strong,
     h1,
@@ -494,7 +510,7 @@ a.search-buttons {
     }
     .flicker {
         font-size: 20px;
-        margin-bottom:10px;
+        margin-bottom: 10px;
     }
     .email {
         font-size: 10px;
@@ -594,9 +610,18 @@ a.search-buttons {
         font-size: 2vw;
     }
     #footnote {
-    font-style: italic;
-    font-size: 2.5vw;
-}
+        font-style: italic;
+        font-size: 2.5vw;
+    }
+    #sentence {
+        font-size: 2.5vw;
+    }
+        #gray{
+        font-size:2.5vw;
+    }
+    #celebrate{
+        width:75%;
+    }
 }
 
 #menu-text {
@@ -942,9 +967,9 @@ input[type="text"]:focus {
 .flicker {
     font-size: 1.5vw;
     text-align: center;
-    font-family: 'Open sans';
+    font-family: "Open sans";
     /* margin: 0.5rem auto; */
-    margin-bottom: .5vw;
+    margin-bottom: 0.5vw;
     margin-left: 0.1vh;
     margin-right: 0.1vh;
     padding: 1vh;
