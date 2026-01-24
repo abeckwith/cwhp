@@ -884,9 +884,10 @@ c_bios = [
             Somerville) in 1970 and began selling pottery on the streets until they had the idea to open a storefront.
             In 1976, they rented 97 Hampshire Street until they purchased their permanent home at 91 Hampshire Street in
             1991. Women did all of the renovations, including electrical and plumbing. Now a yoga instructor, Annie
-            Hoffman, reflects on the experience as deeply formative. &ldquo;We were making vessels. The body is a
+            Hoffman, reflects on the experience as deeply formative. 
+            <blockquote>"We were making vessels. The body is a
             vessel, and a house is an outer vessel, so learning how to renovate a space was essential and empowering for
-            us as women.&rdquo;<br><br>
+            us as women.</blockquote>
 
             As of 2019, the space was still owned by Annie Hoffman and was a yoga and expressive
             arts studio named Art &amp; Soul.<br>

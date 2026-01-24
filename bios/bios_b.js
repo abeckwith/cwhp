@@ -2873,8 +2873,10 @@ Thu, Sep 30, 1999, page 77
     Cambridge Public Library, the Cambridge Chronicle ran an article entitled “Alma Boudreau doesn't 
     know what all the fuss is about." A retired New England Telephone Company manager and congressional aide
      to House Speaker Tip O'Neill described Alma as a "perfectionist, who knew every fact of her job" 
-     and "has a lively sense of humor." The same article quoted Alma as saying “You might have thought 
-     I put every brick in every branch library building. Well, I didn't. Now let's go have some tea!”<Br><Br>
+     and "has a lively sense of humor." The same article quoted Alma as saying<blockquote>
+      "You might have thought 
+     I put every brick in every branch library building. Well, I didn't. Now let's go have some tea!”
+     </blockquote>
      In 1989, the Observatory 
        Hill Branch of the Cambridge Public Library, located at 245 Concord Avenue, was named in Alma's honor, for her 
        dedication and decades of service. 

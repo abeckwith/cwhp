@@ -4,15 +4,15 @@ cards = [
         link: "bios.html?lNm=Halsted&mNm=&fNm=Isabella",
         image: "images_bios/Isabella Halsted small.jpeg",
         sentence:
-            "Was an author and activist who led the campaign to <B>close Memorial Drive</B>" +
-            " to automobile traffic on Sundays. She was also the author of <b>\"The Aunts\"</b>, a 1992 memoir of the four Curtis sisters of Beacon Hill and Manchester, New Hampshire.",
+            "Halsted was an author and activist who led the campaign to <B>close Memorial Drive</B>" +
+            " to automobile traffic on Sundays. She was also the author of <i>The Aunts</i>, a 1992 memoir of the four Curtis sisters of Beacon Hill and Manchester, New Hampshire.",
     },
     {
         name: "Barbara Ackermann",
         link: "bios.html?ln=Ackermann&mN=&fN=Barbara",
         image: "images_bios/Barbara Ackermann small.jpeg",
         sentence:
-            "Was the <b>first woman</b> to serve as the <b>mayor of the City of Cambridge</b>. As a city councilor, she helped put a stop to " +
+            "Ackermann was the <b>first woman</b> to serve as the <b>mayor of the City of Cambridge</b>. As a city councilor, she helped put a stop to " +
             "plans to tear down homes and develop the Inner Belt highway through Cambridge",
     },
     {
@@ -20,8 +20,8 @@ cards = [
         link: "bios.html?ln=Baldwin&mN=Louisa&fN=Maria",
         image: "images_bios/mary louise baldwin.jpeg",
         sentence:
-            "Was the first African-American to be appointed as a <b>principal at a public school</b> in Massachusetts</b> " +
-            "(the Agassiz in Cambridge). She was also an activist and writer",
+            "Baldwin was the first African-American to be appointed as a <b>principal at a public school</b> in Massachusetts</b> " +
+            "(the Agassiz in Cambridge). She was also an activist and a writer.",
     },
 
     {
@@ -29,14 +29,14 @@ cards = [
         link: "bios.html?lNm=Friedler&mNm=&fNm=Gladys",
         image: "images_bios/Friedler_Gaby.jpg",
         sentence:
-            "Sang <b>folk songs in the cafés of Cambridge</b> in the late 1950s before becoming a developmental pharmacologist",
+            "Friedler sang <b>folk songs in the cafés of Cambridge</b> in the late 1950s before becoming a developmental pharmacologist",
     },
     {
         name: 'Dominga "Minnie" Andrade',
         link: "bios.html?lNm=Andrade&mNm=%22Minnie%22&fNm=Dominga",
         image: "images_bios/doffer.png",
         sentence:
-            "In 1919, at the age of 15, Minnie was working in New Bedford as a <b>cotton mill doffer</b>, replacing bobbins or spindles from a spinning frame as they ran out.<br>"
+            "In 1919, at the age of 15, Andrade was working in New Bedford as a <b>cotton mill doffer</b>, replacing bobbins or spindles from a spinning frame as they ran out.<br>"
             +"She moved to Cambridge in the 1930s and <b>lived on Market Street for over 60 years.</b> ",
     },
     {
@@ -44,7 +44,7 @@ cards = [
         link: "bios.html?ln=Bodecker&mN=Anne&fN=Mary",
         image: "images_bios/bodecker_sm.png",
         sentence:
-            "Set up the first case management program in the country to <b>work with incarcerated women with AIDS. </b>"+
+            "Bodecker set up the first case management program in the country to <b>work with incarcerated women with AIDS. </b>"+
             "She was also a naturalist, who traveled to Quebec to see baby seals, to Labrador and Newfoundland to study polar bears and snowy owls, and to Antarctica to view the penguin colonies. "+
             "When almost seventy, <b>she took a dog sledding trip to Alaska, camping in deep snow.</b>",
     },
@@ -53,7 +53,7 @@ cards = [
         link: "bios.html?lNm=Marshall&mNm=Jean&fNm=Lorna",
         image: "images_bios/marshall_lorna.jpg",
         sentence:
-            "Was an anthropologist, who published a book about the !Kung people and who <b>lived be to 104 years old.</b>"+
+            "Marhsall was an anthropologist, who published a book about the !Kung people and who <b>lived be to 104 years old.</b>"+
             "Over a period of two decades, she spent <b>more time in Botswana and Namibia than she did in Cambridge</b>, developing close personal ties to the !Kung for her book.",
     },
     {
@@ -61,7 +61,7 @@ cards = [
         link: "bios.html?ln=Thompson&mN=Crutchfield&fN=Mary",
         image: "images_bios/thompson_mary_sm.png",
         sentence:
-            "Was the first <b>Black woman to practice denistry</b> in the Boston area, running a dental " +
+            "Thompson was the first <b>Black woman to practice denistry</b> in the Boston area, running a dental " +
             "clinic out of her home in Cambridge",
     },
     {
@@ -69,7 +69,7 @@ cards = [
         link: "bios.html?lNm=Leno&mNm=M.&fNm=Mary",
         image: "images_bios/leno_mary.jpeg",
         sentence:
-            'Long time social activist and photographer, Leno also created "S.L.U.T."(Senior Lesbian Urban Transport), a' +
+            'A long-time social activist and photographer, Leno also created "S.L.U.T."(Senior Lesbian Urban Transport), a' +
             " transportation system where she would <b>help out her elder friends and neighbors</b> by driving them for important appointments and errands",
     },
     {
@@ -77,7 +77,7 @@ cards = [
         link: "bios.html?ln=CambridgeSchoolofArchitectureandLandcapeArchitecture&mN=&fN=",
         image: "images_bios/CSALA_195x250.jpeg",
         sentence:
-            "Was the first such school to offer <b>women graduate training</b> in both architecture and landscape architecture under a single faculty",
+            "CSALA was the first such school to offer <b>women graduate training</b> in both architecture and landscape architecture under a single faculty",
     },
 
     {
@@ -93,7 +93,7 @@ cards = [
         link: "bios.html?lNm=WomensCenter&mNm=&fNm=",
         image: "images_bios/womensctr_sm.png",
         sentence:
-            "Was founded after a group of women <b>took over a former industrial building at 888 Memorial Drive</b>, " +
+            "The Women's Center was founded after a group of women <b>took over a former industrial building at 888 Memorial Drive</b>, " +
             "which led to purchasing a building at 46 Pleasant Street to help underserved women in the city",
     },
     {
@@ -101,7 +101,7 @@ cards = [
         link: "bios.html?ln=Bishop&mN=&fN=Elizabeth",
         image: "images_bios/Elizabeth_Bishop,_1934_yearbook_portrait.jpg",
         sentence:
-            "In 1976, became the first American and the first woman to be awarded the <b>Books" +
+            "In 1976, Bishop became the first American and the first woman to be awarded the <b>Books" +
             " Abroad/Neustadt International Prize for Literature</b>",
     },
     {
@@ -109,7 +109,7 @@ cards = [
         link: "bios.html?ln=Easterling&mN=Marguerite&fN=Dr.Ruth",
         image: "images_bios/easterling.png",
         sentence:
-            "Attended Cambridge High and Latin School and eventually became " +
+            "Easterling attended Cambridge High and Latin School and eventually became " +
             "the <b>first African American woman </b>to be admitted to Tufts University School of Medicine",
     },
     {
@@ -118,7 +118,7 @@ cards = [
         image: "images_bios/EdithLesley_small2.jpeg",
         sentence:
             "After working for a time as a kindergarten teacher in Cambridge, " +
-            "she <b>founded the Lesley School</b>, which eventually became <b>Lesley College</b> (and later Lesley University)",
+            "Edith Lesley <b>founded the Lesley School</b>, which eventually became <b>Lesley College</b> (and later Lesley University)",
     },
     {
         name: "Lois Howe",
@@ -135,14 +135,14 @@ cards = [
         link: "bios.html?ln=Graham&mN=Mae&fN=Saundra",
         image: "images_bios/Saundra_Graham.png",
         sentence:
-            "Was the first woman of color to be elected to the <b>Cambridge City Council</b>, who " +
+            "Graham was the first woman of color to be elected to the <b>Cambridge City Council</b>, who " +
             "also led the fight for <b>rent control</b> in Cambridge",
     },
     {
         name: "Florence Ladd",
         link: "bios.html?last=Ladd&middle=&first=Florence",
         image: "images_bios/Florence%20Ladd%20small.jpeg",
-        sentence: "The director of the Bunting Institute at Radcliffe College, her first novel, <B>\"Sarah's Psalm\"</b>, "+
+        sentence: "The director of the Bunting Institute at Radcliffe College, Ladd's first novel, <i>Sarah's Psalm</i>, "+
         "was published in 1996 and won the <b>Best Fiction Award</b> from "+
         "the Black Caucus of the American Library Association",
     },
@@ -151,21 +151,21 @@ cards = [
         link: "bios.html?ln=Johnson&mN=Allen&fN=Grace",
         image: "images_bios/grace_johnson.png",
         sentence: "A member of the Massachusetts, as well as the National, Women's Suffrage Associations, "+
-        "she wrote a <b>1915 letter to the Cambridge Tribune</b>, arguing:<br><i> \"Though woman suffrage is delayed in Massachusetts, "+
+        "Johnson wrote a <b>1915 letter to the Cambridge Tribune</b>, arguing:<br><i> \"Though woman suffrage is delayed in Massachusetts, "+
         "it is surely coming. Justice demands it. The spirit of the century claims the help of women in the government.\"</i>", 
     },
        {
         name: "Helen Wendler Markham",
         link: "bios.html?ln=Markham&mN=Wendler&fN=Helen",
         image: "images_bios/Markham_HWD.jpg",
-        sentence: "A biologist and histochemist, in 1944 she became the <b>first female instructor and "+
+        sentence: "A biologist and histochemist, in 1944 Markham became the <b>first female instructor and "+
         "later the first female professor</b> in the Department of Anatomy at Harvard Medical School."
     },
     {
         name: "Rosario Morales",
         link: "bios.html?last=Morales&middle=&first=Rosario",
         image: "images_bios/rosario%20Sari%20self-portrait%20painting_sm.jpg",
-        sentence: "A feminist poet, activist, and author, Rosario also did oil paintings, printmaking,"+
+        sentence: "A feminist poet, activist, and author, Morales also did oil paintings, printmaking,"+
         " and fiber arts and was an amateur naturalist anthropologist. In 1987, she was one of 18 "+
         "Massachusetts poets and writers whose work was <b>inscribed in granite and installed along the "+
         "new Orange Line MBTA stations</b>.",
@@ -182,14 +182,14 @@ cards = [
         name: "Cecilia Helena Payne-Gaposchkin",
         link: "bios.html?last=Payne-Gaposchkin&middle=Helena&first=Cecilia",
         image: "images_bios/Cecilia_Gaposchkin_sm.jpg",
-        sentence: "In 1925 she earned a Ph.D. in astronomy at Radcliffe College, the <b>first person to obtain a Ph.D. in this subject</b> from either Harvard or Radcliffe."+
-        "In 1956 she was appointed Phillips Professor of Astronomy, becoming the <b>first woman to receive a tenured professorship at Harvard University.</b>",
+        sentence: "In 1925, Payne Gaposchkin earned a Ph.D. in astronomy at Radcliffe College, the <b>first person to obtain a Ph.D. in this subject</b> from either Harvard or Radcliffe."+
+        " In 1956 she was appointed Phillips Professor of Astronomy, becoming the <b>first woman to receive a tenured professorship at Harvard University.</b>",
     },
           {
         name: "Sylvia Rosslyn Piltch",
         link: "bios.html?last=Piltch&middle=Rosslyn&first=Sylvia",
         image: "images_bios/piltch.jpeg",
-        sentence: "During World War II, she became and <b>air raid warden</b> and while attending "+
+        sentence: "During World War II, Piltch became and <b>air raid warden</b> and while attending "+
         "Boston University's Sargent College for Physical Therapy, she joined the USO, <b>entertaining the "+
         "troops</b> stationed at Camp Devens and serving as a member of the <b>Jewish War Veterans Auxiliary.</b>",
     },
@@ -197,9 +197,10 @@ cards = [
         name: "Jane Curtin",
         link: "bios.html?ln=Curtin&mN=&fN=Jane",
         image: "images_bios/Jane_Curtin_at_the_41st_Emmy_Awards_cropped_and_altered.jpg",
-        sentence: "In her senior year of high school, she went to a theater in Inman Square with a "+
+        sentence: "Curtin was born in Cambridge. When in her senior year of high school, she went to a theater in Inman Square with a "+
         "friend who was auditioning for an improv show. When the director asked \"Anybody"+
-        " else want to audition?\" Curtin got up on stage and performed, despite having no improv experience, <B>and ended up getting the job.</b>",
+        " else want to audition?\" Curtin got up on stage and performed, despite having no improv experience, <B>and ended up getting the job.</b>"
+        +" Curtin went on to become an <b>internationally-known actress and comedian.</b>",
     },
        //    {
     //     name: "",
