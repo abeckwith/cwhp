@@ -15,6 +15,16 @@ cards = [
             "Ackermann was the <b>first woman</b> to serve as the <b>mayor of the City of Cambridge</b>. As a city councilor, she helped put a stop to " +
             "plans to tear down homes and develop the Inner Belt highway through Cambridge",
     },
+       {
+        name: "Alma Boudreau",
+        link: "bios.html?last=Boudreau&middle=Marie&first=Alma",
+        image: "images_bios/boudreau_alma3.png",
+        sentence: "Boudreau grew up in Cambridge and worked at the Temple Street office of the New England "+
+        "Telephone Company <B>for 47 years</b>. As a <B>trustee of the Cambridge Public Library </b>for decades, "+
+         "she was honored in 1989 by having the Concord Avenue CPL branch named after her. At a celebration honoring"+
+         " her work, she retorted:<Br> <i>\"You might have thought I put every brick in every branch library building. Well, I"+
+          " didn't. Now let's go have some tea!\"</i>",
+    },
     {
         name: "Maria Baldwin",
         link: "bios.html?ln=Baldwin&mN=Louisa&fN=Maria",
@@ -53,7 +63,7 @@ cards = [
         link: "bios.html?lNm=Marshall&mNm=Jean&fNm=Lorna",
         image: "images_bios/marshall_lorna.jpg",
         sentence:
-            "Marhsall was an anthropologist, who published a book about the !Kung people and who <b>lived be to 104 years old.</b>"+
+            "Marhsall was an anthropologist, who published a book about the !Kung people and who <b>lived be to 104 years old. </b>"+
             "Over a period of two decades, she spent <b>more time in Botswana and Namibia than she did in Cambridge</b>, developing close personal ties to the !Kung for her book.",
     },
     {
@@ -202,13 +212,38 @@ cards = [
         " else want to audition?\" Curtin got up on stage and performed, despite having no improv experience, <B>and ended up getting the job.</b>"
         +" Curtin went on to become an <b>internationally-known actress and comedian.</b>",
     },
-       //    {
+       
+    {
+        name: "Clayground",
+        link: "bios.html?last=Clayground&middle=&first=",
+        image: "images_bios/clayground2.png",
+        sentence: "Clayground was a <b>women-owned pottery business and collective, "+
+                "founded in 1976</b> by Annie Hoffman and Carole Ann Fer. Women did all"+
+                " of the renovations of the Hampshire Street location, including electrical and plumbing."+
+                "<Br><Br> Annie recalls: \"We were making vessels. The body is a vessel, and a house is an outer "+
+                "vessel, so <b>learning how to renovate a space was essential and empowering for us as women.\"</b>",
+    },
+     {
+        name: "Marian Cannon Schlesinger",
+        link: "bios.html?last=Schlesinger&middle=&first=Marian",
+        image: "images_bios/Marian_Schlesinger.jpg",
+        sentence: "Schleshinger <b>wrote two memoirs about Cambridge</b>. The first was about growing up "+
+        "in Cambridge in the 1920s and 1930s (<i>Snatched From Oblivion</i>, 1979) and the second centered "+
+        "on her her adult life in Cambridge (<i>I Remember: A Life of Politics, Painting and People</i>, 2012)",
+    },
+     // {
     //     name: "",
     //     link: "",
     //     image: "",
     //     sentence: "",
     // },
-    // {
+     // {
+    //     name: "",
+    //     link: "",
+    //     image: "",
+    //     sentence: "",
+    // },
+     // {
     //     name: "",
     //     link: "",
     //     image: "",

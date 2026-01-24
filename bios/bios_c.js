@@ -866,7 +866,7 @@ c_bios = [
         middleName: "",
         familyName: "",
 
-        title: `Women-owned oottery business and collective<Br>Founded 1976`,
+        title: `Women-owned pottery business and collective<Br>Founded 1976`,
         birthDate: "",
         birthLocation: "",
         deathDate: "",
@@ -887,7 +887,7 @@ c_bios = [
             Hoffman, reflects on the experience as deeply formative. 
             <blockquote>"We were making vessels. The body is a
             vessel, and a house is an outer vessel, so learning how to renovate a space was essential and empowering for
-            us as women.</blockquote>
+            us as women."</blockquote>
 
             As of 2019, the space was still owned by Annie Hoffman and was a yoga and expressive
             arts studio named Art &amp; Soul.<br>
