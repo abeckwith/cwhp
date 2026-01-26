@@ -1215,7 +1215,7 @@ July 9, 1999</i>
         <br><Br> Axelrod believed strongly in building community, and had a remarkable ability to make everyone 
         she spoke to feel deeply seen and understood. This was especially true of her children, whom Janet spoke 
         of with deep admiration. Motherhood was a source of great pride and joy throughout her life, and she 
-        believed strongly in a woman's right to choose any and all paths, including full-time parenting." 
+        believed strongly in a woman's right to choose any and all paths, including full-time parenting.
         </blockquote>
 
         In her late 20's, Axelrod helped form a collective which put together the 1979 "Amandla Festival

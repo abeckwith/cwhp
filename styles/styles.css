@@ -444,6 +444,11 @@ a.letter-links:visited {
     padding: 2px;
     text-align: center;
     margin-bottom:2vw;
+    
+}
+#cwhp-logo{
+    height: 50vw;
+
 }
 /* RESPONSIVE MENU: */
 .topnav {
