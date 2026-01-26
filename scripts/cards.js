@@ -286,7 +286,7 @@ function displayCards() {
                 '"><div class="w3-card-4" style="width:50%;' +
                 mgn +
                 '"">' +
-                '<header class="w3-container w3-light-grey"><h3>' +
+                '<header class="w3-container w3-black"><h3 class="best-color">' +
                 element.name +
                 '</h3></header><div class="w3-container"><img src="' +
                 element.image +
@@ -313,7 +313,7 @@ function displayRandomCard() {
             '<a href="' +
             element.link +
             '"><div class="w3-card-4" style="width:50%;">' +
-            '<header class="w3-container w3-light-grey"><h3 id="gray">' +
+            '<header class="w3-container w3-black"><h3 id="gray">' +
             element.name +
             '</h3></header><div class="w3-container"><img src="' +
             element.image +

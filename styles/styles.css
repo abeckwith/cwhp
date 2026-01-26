@@ -239,6 +239,10 @@ td > a {
 }
 #gray{
     font-size:1.6vw;
+    color: #EAD470;
+}
+.best-color{
+    color:#EAD470;
 }
 /* table{
     font-size:89%; 
