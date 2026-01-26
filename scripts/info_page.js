@@ -67,6 +67,7 @@ function showBirthdays() {
             }
             if (thename.firstName == "") orgcount++;
             else womanCount++;
+
             if (thename.deathDate != "" && thename.birthDate != "")
                 console.log(
                     parseInt(thename.deathDate.slice(-4)) -
@@ -116,9 +117,7 @@ function showBirthdays() {
                 noImage += theLink + "<Br>";
                 noimgct++;
             }
-            // if (thename.photos[0] == "") {
-            //     nophotocount++; console.log(nophotocount + ". " + thename.lastName + ", " + thename.firstName)
-            // }
+
 
             //for sorting by birthyear:
             nameForSort = thename.firstName + " " + thename.lastName;
@@ -151,9 +150,11 @@ function showBirthdays() {
                 //must be org
                 allNames += "<b>" + nameBuild + "</b>";
             else allNames += nameBuild;
+            
             hasFullDate =
                 thename.birthDate.substring(0, 2) != "00" &&
                 thename.birthDate.indexOf("ca") == -1;
+
             if (thename.birthDate != "" && hasFullDate) {
                 bDayCount++;
                 //GET YEAR:

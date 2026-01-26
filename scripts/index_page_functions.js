@@ -47,8 +47,46 @@ function bday() {
     crMonth = nums[0];
     crDay = nums[1];
     crYear = nums[2];
+
+    /*
+     * Get most recent bio that has been added to project and display it
+     */
+    recentYear = 0;
+    recentMonth = 0;
+    recentDay = 0;
     all_bios.forEach((bioLtr) => {
         bioLtr.forEach((bio) => {
+            if (bio.dateCreated.indexOf(".") != -1) {
+                found = false;
+                created = bio.dateCreated.split(".");
+                y = parseInt(created[2]);
+                m = parseInt(created[0]);
+                d = parseInt(created[1]);
+
+                if (y > recentYear) {
+                    found = true;
+                }
+                if (y == recentYear) {
+                    if (m == recentMonth) {
+                        if (d >= recentDay) found = true;
+                    }
+                    if (m > recentMonth) found = true;
+                }
+                if (found) {
+                    recentYear = y;
+                    recentMonth = m;
+                    recentDay = d;
+                    mostRecentHMTL =
+                    "<i>Newest addition to the project: </i><br>"+
+                        "<a href='" +
+                        getHref(bio.lastName, bio.middleName, bio.firstName) +
+                        "'>" + bio.firstName +
+                    " " + bio.lastName +
+                    "</a>";
+
+                      document.getElementById("most-recent").innerHTML = mostRecentHMTL;
+                }   
+            }
             //does bio birth match today's date?
             if (
                 parseInt(bio.birthDate.substring(0, 2)) == crMonth &&
@@ -56,11 +94,8 @@ function bday() {
             ) {
                 //make link to bio:
                 link =
-                    "<a id='dailybday' href='" + 
-                    getHref(
-                    bio.lastName,
-                    bio.middleName,
-                    bio.firstName) +
+                    "<a id='dailybday' href='" +
+                    getHref(bio.lastName, bio.middleName, bio.firstName) +
                     // add +
                     "'>";
                 //get how old the person is:
@@ -124,12 +159,12 @@ function bday() {
         stripped = currentPerson.substring(currentPerson.indexOf("?") + 1);
         lastNamePhoto = stripped.substring(
             stripped.indexOf("=") + 1,
-            stripped.indexOf("&")
+            stripped.indexOf("&"),
         );
         stripped = stripped.substring(stripped.indexOf("&") + 1);
         middleNamePhoto = stripped.substring(
             stripped.indexOf("=") + 1,
-            stripped.indexOf("&")
+            stripped.indexOf("&"),
         );
         stripped = stripped.substring(stripped.indexOf("&") + 1);
         firstNamePhoto = stripped.substring(stripped.indexOf("=") + 1);
@@ -143,7 +178,7 @@ function bday() {
         personIndex2 = info[1];
 
         ltrIndex2 = "abcdefghijklmnopqrstuvwxyz".indexOf(
-            lastNamePhoto.charAt(0).toLowerCase()
+            lastNamePhoto.charAt(0).toLowerCase(),
         );
         bios = getBios();
         //found bio:
@@ -169,7 +204,7 @@ function bday() {
                     namePhoto +
                     "'' title='" +
                     namePhoto +
-                    "'></a>"
+                    "'></a>",
             );
         }
         html += "</div></div>";

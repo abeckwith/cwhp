@@ -249,6 +249,24 @@ cards = [
     //     image: "",
     //     sentence: "",
     // },
+     // {
+    //     name: "",
+    //     link: "",
+    //     image: "",
+    //     sentence: "",
+    // },
+     // {
+    //     name: "",
+    //     link: "",
+    //     image: "",
+    //     sentence: "",
+    // },
+     // {
+    //     name: "",
+    //     link: "",
+    //     image: "",
+    //     sentence: "",
+    // },
 ];
 /**
  * displays fun facts/first on Fun Facts page

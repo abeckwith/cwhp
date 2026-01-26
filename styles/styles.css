@@ -443,6 +443,7 @@ a.letter-links:visited {
 .logo {
     padding: 2px;
     text-align: center;
+    margin-bottom:2vw;
 }
 /* RESPONSIVE MENU: */
 .topnav {
@@ -522,6 +523,7 @@ a.search-buttons {
     #cwhp_logo {
         height: 20vw;
         width: auto;
+        margin-bottom:2vw;
     }
     .holographic-card {
         font-size: 10vw;
@@ -925,7 +927,7 @@ img:not(.opening-images) {
     }
 }
 #photo-legend {
-    font-size: 2vw;
+    font-size: 1.4vw;
 }
 .fade-in {
     border-radius: 10px;

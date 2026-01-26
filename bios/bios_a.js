@@ -1148,4 +1148,129 @@ July 9, 1999</i>
         authors: "Anthony Beckwith",
         categories: ["Dancer", "Choreographer", "Artist", "Fashion Designer"],
     },
+      {
+        poc: true,
+        organization: false,
+        lastName: "Axelrod",
+        firstName: "Janet",
+        middleName: "",
+        familyName: "",
+        
+        title: `Feminist activist, funder of social movements, tech VP`,
+        birthDate: "11.01.1951",
+        birthLocation: "New York, New York",
+        deathDate: "12.26.2021",
+        deathLocation: "Cambridge, Massachusetts",
+        narrative: `
+    
+
+        In March of 1975, when Janet Axelrod was a 23-year-old recent graduate of Barnard College, she was the only 
+        full-time salaried staffer of the Haymarket Foundation, which was founded just eight months earlier by George 
+        Pillsbury Jr, an heir of the Pillsbury baking company, to support organizations dedicated to radical social change. 
+        <br><br>
+        In a Boston Globe interview at that time, she explained: 
+
+        <blockquote>
+        "We gave money to the Cambridge Tenants Organizing Committee for their handbook on legal tactics. If they
+         can organize successfully against rent change so that poor people won't be forced out of Cambridge, then 
+         they can have a base of power to counteract established power...More 
+         health advocacy needs to be done, too. The Somerville Women's Health Project is successfully 
+        challenging local hospitals. People need to be made aware that they can control their own bodies...
+        We're basically interested in people who can collectively get some control over their lives."
+        </blockquote>
+
+        The following is excerpted, with permission, from the 2021 obituary for Janet Axelrod written by her son Eli Plenk:
+
+        <blockquote>
+        <i>Cambridge Feminist Activist Who Transformed Philanthropy, Tech Culture, and Local Libraries</i><br><Br> Janet 
+        Axelrod [was] an activist who reimagined the process of funding social movements and planted the seeds of
+         progressive culture within the tech industry. 
+
+        <br><Br>
+        Axelrod lived in Cambridge for nearly fifty years, and in that time contributed to the city's unique 
+        culture in myriad ways. She was born in New York City on November 1, 1951, to a socialist Jewish family, 
+        and was a lifelong feminist, anti-capitalist and anti-racist. She joined Students for a Democratic Society
+         (SDS) as a high schooler in New Haven, and worked to support Black Panther Party members on trial in the city. 
+        <br><Br>Janet attended Barnard College, where she co-founded the Barnard Center for Research on Women, was
+         a leader in the student movement, and wrote her thesis on women in rock music. The college recently honored
+          her with its Millicent Carey McIntosh Award for Feminism. In 1973, Janet was the first staff hire at 
+          Haymarket People's Fund, an organization which redistributed money from wealthy young people to grassroots 
+          organizations throughout New England.
+
+        <br><br> In 1981, Axelrod was once again a first employee, this time at Lotus, developer of the world's 
+        first digital spreadsheet. The company grew exponentially soon after her hire, and she quickly became 
+        Vice President of Human Resources. In that role she hired thousands of staff, prioritizing people from 
+        marginalized communities, and championed the fight against workplace sexual harassment, pushed Lotus to
+         align itself with the anti-apartheid movement, developed Lotus' anti-racism-focused foundation, and 
+         ensured that Lotus was the first company in the country to guarantee equal benefits to same-sex partners. 
+         In 1986, Janet began to divide her time between Lotus and Blackside, a film production company which during 
+         her time there created Eyes on the Prize, a fourteen-part documentary widely viewed as the definitive visual 
+         history of the Civil Rights Movement. 
+
+        <br><Br>From 1999 until her death, she chaired the board of the Cambridge Public Library, leading the 
+        development of a groundbreaking $95M new addition to the system's central branch. In addition, she was 
+        a co-founder and longtime board member of South Africa Partners, and served on the boards of over a dozen
+         other social justice organizations. For the past eleven years, Janet and seven of her close friends have
+          made up the Brazilian-inspired drum band SheBoom.
+        <br><Br> Axelrod believed strongly in building community, and had a remarkable ability to make everyone 
+        she spoke to feel deeply seen and understood. This was especially true of her children, whom Janet spoke 
+        of with deep admiration. Motherhood was a source of great pride and joy throughout her life, and she 
+        believed strongly in a woman's right to choose any and all paths, including full-time parenting." 
+        </blockquote>
+
+        In her late 20's, Axelrod helped form a collective which put together the 1979 "Amandla Festival
+         of Unity" at Harvard Stadium, which was headlined by Bob Marley and the Wailers and featured Patti 
+         LaBelle, Eddie Palmieri, and Babatunde Olatunji, and a speech from comedian and activist Dick Gregory.<Br><Br>
+
+        Axelrod and her family lived for many years on Berekely Street in Cambridge. She was a part-time consultant in the late 1980s for Lotus and arranged six art shows per year, 
+        highlighting local artists in two-dimensional media. In 1989, she was working to create an on-site 
+        day care facility at Lotus and in the late 1990s, Axelrod wrote regular letters to the Cambridge 
+        Chronicle as a Cambridge Public Library Trustee, advocating for the building of the new main branch 
+        of the library on Broadway.<br><Br>
+
+        In 2017, Hampshire College's group "Ethics for the Common Good" reported that Axelrod's "latest project" was
+         Wealth Matters. The philantrhopy group worked to balance their counseling on "having wealth and <i>giving</i> wealth."
+<Br><Br>
+        In discussing her years of work on behalf the Cambridge Public Library system, Susan Flannery said of Axelrod: 
+        <blockquote>
+        “She believed in the power of democratic institutions to make people's lives better. The idea of 
+        free and open access, available to everyone, really appealed to someone egalitarian like Janet.”</blockquote>
+       
+
+
+
+
+    
+        `,
+        otherNotes: "",
+        references: `
+        Kendall Square weekly <i>Fax</i>, 10 November 1987, 11 April 1989<br>
+        <i>The Cambridge Chronicle</i>, Volume 153, Number 19, 13 May 1999<br>
+        <A href="https://barnard.edu/magazine/spring-2022/lifelong-activist">https://barnard.edu/magazine/spring-2022/lifelong-activist</a> <br>
+
+        <a href="https://www.boston.com/culture/music/2017/05/24/long-before-boston-calling-amandla-festival-brought-bob-marley-and-social-justice-to-harvard/">
+        https://www.boston.com/culture/music/2017/05/24/long-before-boston-calling-amandla-festival-brought-bob-marley-and-social-justice-to-harvard/</a><br>
+
+        <a href="https://barnard.edu/magazine/spring-2022/lifelong-activist">
+        https://barnard.edu/magazine/spring-2022/lifelong-activist</a> <br>
+
+        <i>The Boston Globe</i> Sun, Mar 16, 1975, "Radical Foundations? This Pillsbury Says it Best", by Arnie Reisman<br>
+
+
+      Images from Tim Plenk
+        `,
+        photos: ["images_bios/janet_2001.jpg", "images_bios/janet_flower.jpg" ],
+        photoTitles: [],
+        dateCreated: "01.25.2026",
+        dateUpdated: "",
+
+        photoHeights: [],
+        editors:"",
+        authors: "Anthony Beckwith",
+        categories: ["Activist", "Philanthropist", "Executive", "Volunteer"],
+    },
 ];
+
+
+
+
