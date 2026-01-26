@@ -73,16 +73,17 @@ function bday() {
                     if (m > recentMonth) found = true;
                 }
                 if (found) {
+                    
                     recentYear = y;
                     recentMonth = m;
                     recentDay = d;
                     mostRecentHMTL =
-                    "<i>Newest addition to the project: </i><br>"+
-                        "<a href='" +
+                    "<i>Latest addition to the project: </i><br>"+
+                        "<span id='latest-link'><a  href='" +
                         getHref(bio.lastName, bio.middleName, bio.firstName) +
                         "'>" + bio.firstName +
                     " " + bio.lastName +
-                    "</a>";
+                    "</a></span><br><span id='small-date'>(added " + bio.dateCreated.replaceAll(".", "/") + ")</span>";
 
                       document.getElementById("most-recent").innerHTML = mostRecentHMTL;
                 }   

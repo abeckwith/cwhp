@@ -308,6 +308,9 @@ td > a {
        #celebrate{
         font-size:3vw;
     }
+    #latest-link{
+        font-size:3vw;
+}
 
 }
 /* table{font-size:20%! important;} */
@@ -439,7 +442,12 @@ a.letter-links:visited {
     border-radius: 5px;
     text-decoration: none;
 }
-
+#small-date{
+    font-size:1vw;
+}
+#latest-link{
+color:blue;
+}
 .logo {
     padding: 2px;
     text-align: center;
@@ -544,7 +552,7 @@ a.search-buttons {
         font-size: 15px;
     }
     #all-sources {
-        color: red;
+        /* color: red; */
         margin: 2vw 4vw;
     }
 
@@ -556,9 +564,9 @@ a.search-buttons {
         font-size: 12px;
         margin: 5px;
     }
-    a {
+    /* a {
         font-size: 10px;
-    }
+    } */
 
     img {
         width: 105px;
@@ -629,6 +637,9 @@ a.search-buttons {
     #celebrate{
         width:75%;
     }
+        #latest-link{
+        font-size:3vw;
+}
 }
 
 #menu-text {
