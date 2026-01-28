@@ -58,9 +58,9 @@ t_bios = [
             L. Witlieb,<em> The Book of Women's Firsts</em>, New York: Random House,
             1992<br>
             <i>Cambridge City Directory </i>, 1900
-       <Br> Image source: wikipedia<Br>
+       <Br> Image from wikipedia.com:<Br>
        <a class='indent' href="https://en.wikipedia.org/wiki/Helen_B._Taussig" >https://en.wikipedia.org/wiki/Helen_B._Taussig </a>   
-       <br><i>American Heart Assocation</i> article, March 28, 2024<Br>
+       <br><i>American Heart Assocation</i> article, March 28, 2024:<Br>
        <a class='indent' href="https://www.heart.org/en/news/2024/03/28/dr-helen-taussigs-work-saved-blue-babies">
        https://www.heart.org/en/news/2024/03/28/dr-helen-taussigs-work-saved-blue-babies</a>    `,
        
@@ -128,7 +128,7 @@ t_bios = [
             May Sarton,<em> Recovering: A Journal, 1978-1979</em>,. New York: W.W. Norton
             pp 242-244.<br>
             <i>Cambridge City Directory</i>, 1946
-            <br>Image used wth permission from Shady Hill School
+            <br>Image used wth permission from Shady Hill School:
             <br><a class='indent' href="https://www.shs.org/" >https://www.shs.org/</a>
             
         `,
@@ -194,8 +194,8 @@ t_bios = [
             Hoffleit, Dorritt &#8220;Eloge: Helen Meriwether Lewis Thomas, 21 August 1905-6
             August 1997 [Obituary]&#8221; <em>Isis</em> 89: 316, 1998.<Br>
             <i>The Cambridge Chronicle</i>, 10 June 1993
-            <Br>Cambridge City Directory, 1963<br>
-            Photo source: <i>University of Chicago Press Journals</i><Br>
+            <Br><i>Cambridge City Directory</i>, 1963<br>
+            Image from <i>University of Chicago Press Journals</i>:<Br>
             <a class='indent' href="https://www.journals.uchicago.edu/doi/abs/10.1086/384004?journalCode=isis">
             https://www.journals.uchicago.edu/doi/abs/10.1086/384004?journalCode=isis</a>
 
@@ -263,16 +263,16 @@ t_bios = [
         references: `
             Oral history of Mary Crutchfield Thompson in Black Women Oral History Project,
             conducted by Schlesinger Library, Radcliffe and in the Sophia Smith Collection,
-            Smith College Northampton MA<Br>
+            Smith College Northampton Mass.:<Br>
             <A class='indent' href="https://iiif.lib.harvard.edu/manifests/view/drs:45177050$15i">
             https://iiif.lib.harvard.edu/manifests/view/drs:45177050$15i</a>
             <br>
-            Schlesinger Library, online Flickr photo album, link viewed February 23, 2015<Br>
+            Schlesinger Library, online Flickr photo album, link viewed February 23, 2015:<Br>
             <a class='indent' href="https://www.flickr.com/photos/schlesinger_library/13270319163/">https://www.flickr.com/photos/schlesinger_library/13270319163/</a> <br>
             <em>Black Women in America, A Historical Encyclopedia</em> ed. Darlene Clark,
             Carlson Publishing, Inc.,1993.<Br>
             <i>Cambridge Chronicle</i>, 21 November 1985<br>
-            Image source:wikipedia<Br>
+            Image from wikipedia.com:<Br>
              <a class='indent' href="https://commons.wikimedia.org/wiki/File:Mary_Crutchfield_Thompson_%2813270319163%29.jpg" >https://commons.wikimedia.org/wiki/File:Mary_Crutchfield_Thompson_%2813270319163%29.jpg</a>
            
         `,
@@ -335,7 +335,7 @@ t_bios = [
                 Harvard Gazette</em>, May 2001<br>
             Obituary on sciencenetwork.com<br>
             <i>Cambridge City Directory</i>, 1965<br>
-                Image source: wikipedia<br> 
+                Image from wikipedia.com:<br> 
                 <a class='indent' href="https://en.wikipedia.org/wiki/Ruth_Turner" >https://en.wikipedia.org/wiki/Ruth_Turner</a>
         `,
         photos: ["images_bios/Ruth_Turner.jpg"],

@@ -259,7 +259,7 @@ g_bios = [
             4/22/2013<Br>
             <i>The Cambridge Chronicle</i>, 3 September 2003
             <br>
-            Image source: <a href="https://en.wikipedia.org/wiki/Louise_Gl%C3%BCck" >ttps://en.wikipedia.org/wiki/Louise_Gl%C3%BCck</a>
+            Image from <a href="https://en.wikipedia.org/wiki/Louise_Gl%C3%BCck" >ttps://en.wikipedia.org/wiki/Louise_Gl%C3%BCck</a>
         `,
         photos: ["images_bios/louise_gluck.jpg"],
         photoTitles: [],
@@ -361,8 +361,8 @@ g_bios = [
             Miriam Goodman online web site<Br>
             Press release, Griffin Museum of Photography, April 2, 2009<Br>
             <i>The Cambridge Chronicle</i>,  9 April 1981
-            <br><i>Poetry Foundation</i Aug. 1993<Br>
-            &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://www.poetryfoundation.org/poetrymagazine/browse?volume=162&issue=5&page=27">
+            <br><i>Poetry Foundation</i Aug. 1993:<Br>
+            <a class='indent' href="https://www.poetryfoundation.org/poetrymagazine/browse?volume=162&issue=5&page=27">
             https://www.poetryfoundation.org/poetrymagazine/browse?volume=162&issue=5&page=27</a>
         `,
         photos: ["images_bios/MiriamGoodman1.jpg"],
@@ -436,8 +436,8 @@ g_bios = [
         references: ` Kathleen E. LeMieux; Massachusetts Historical Society,
             Alice Bache Gould'papers Guidie to the Collection<br>
             &#8220;Alice in Seville&#8221; Time magazine July 7, 1952.<Br>
-            Image source: wikipedia<br>
-             &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://en.wikipedia.org/wiki/Alice_Bache_Gould">https://en.wikipedia.org/wiki/Alice_Bache_Gould</a>
+            Image from wikipedia.com:<br>
+             <a class='indent' href="https://en.wikipedia.org/wiki/Alice_Bache_Gould">https://en.wikipedia.org/wiki/Alice_Bache_Gould</a>
         `,
         photos: ["images_bios/Alice_Bache_Gould.png"],
         photoTitles: [],
@@ -540,10 +540,10 @@ g_bios = [
         references: `
             Graham and Parks Alternative School web site<br>
             <em>Metropolis Magazine</em>, Harvard inc., 2001<br>
-            Cambridge City Directory, 1972<br>
+            <i>Cambridge City Directory</i>, 1972<br>
             <i>The Cambridge Chronicle</i>,  17 April 1980<Br>
-            Photo from legacy.com<br>
-            &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://www.legacy.com/us/obituaries/bostonglobe/name/saundra-graham-obituary?id=52398590">https://www.legacy.com/us/obituaries/bostonglobe/name/saundra-graham-obituary?id=52398590/a>
+            Photo from legacy.com:<br>
+            <a class='indent' href="https://www.legacy.com/us/obituaries/bostonglobe/name/saundra-graham-obituary?id=52398590">https://www.legacy.com/us/obituaries/bostonglobe/name/saundra-graham-obituary?id=52398590/a>
 
         `,
         photos: [ "images_bios/graham2.png", "images_bios/Saundra_Graham.png"],
@@ -932,13 +932,13 @@ g_bios = [
         otherNotes: "",
         references: ` 
           Oral interview by Anthony Beckwith, December 8, 2025<br>
-        MIT Black History article <br>
-        &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://www.blackhistory.mit.edu/archive/yvonne-harris-and-sherry-glanville-ca-1965" >"Yvonne Harris and Sherr Glanville, ca. 1965"</a><br>
-        Upworthy.com<Br>
-         &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://www.upworthy.com/cambridge-community-center" >"How this beloved, 90-year-old community center continues to be a haven for so many to this day"</a>, March 29, 2020<br>
+        MIT Black History article: <br>
+        <a class='indent' href="https://www.blackhistory.mit.edu/archive/yvonne-harris-and-sherry-glanville-ca-1965" >"Yvonne Harris and Sherr Glanville, ca. 1965"</a><br>
+        Upworthy.com:<Br>
+         <a class='indent' href="https://www.upworthy.com/cambridge-community-center" >"How this beloved, 90-year-old community center continues to be a haven for so many to this day"</a>, March 29, 2020<br>
 
-        CCC Facebook post<Br> 
-        &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://www.facebook.com/CambCommCenter/posts/meet-yvonne-gittens-recipient-of-the-2019-janet-ms-k-kendrick-sisters-of-the-cen/10162414874505357/" >"Meet Yvonne Gittens"</a>,  Oct. 7, 2019<br>
+        CCC Facebook post:<Br> 
+        <a class='indent' href="https://www.facebook.com/CambCommCenter/posts/meet-yvonne-gittens-recipient-of-the-2019-janet-ms-k-kendrick-sisters-of-the-cen/10162414874505357/" >"Meet Yvonne Gittens"</a>,  Oct. 7, 2019<br>
         <a href="https://www.bhacambridge.org/" >Black History In Action website</a> <br>
         
              `,

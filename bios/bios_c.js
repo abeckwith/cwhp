@@ -126,7 +126,7 @@ c_bios = [
             Cambridge Political Equality Association and for Grace A Johnson.<Br>
                <i>The Cambridge Tribune</i>,  30 January 1909<br>
            <i>The Cambridge Sentinel</i>,  26 May 1917<br>
-            Image source: Ida M. Tarbell Collection, 1890-1944, Merrick Archives and Special Collections, Pelletier Library, Allegheny College
+            Image from Ida M. Tarbell Collection, 1890-1944, Merrick Archives and Special Collections, Pelletier Library, Allegheny College
         `,
         photos: ["", "images_bios/cpea.png"],
         photoTitles: [],
@@ -263,8 +263,8 @@ c_bios = [
               Annie Jump Cannon, head-and-shoulders
             portrait, 1922<br>
             New York World Telegram and the Sun Newspaper Photograph Collection, Library
-            of Congress.<br>Image source: wikipedia
-            <Br>&nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://en.wikipedia.org/wiki/Annie_Jump_Cannon" >https://en.wikipedia.org/wiki/Annie_Jump_Cannon</a>
+            of Congress.<br>Image from wikipedia.com:
+            <Br><a class='indent' href="https://en.wikipedia.org/wiki/Annie_Jump_Cannon" >https://en.wikipedia.org/wiki/Annie_Jump_Cannon</a>
         `,
         photos: ["images_bios/annie cannon.jpg"],
         photoTitles: [],
@@ -346,9 +346,9 @@ c_bios = [
             Little Brown (1997)<br>
             Cambridge Public Library &#8220;Penwomen of Cambridge Past: Biographies
             of Our Literary Foremothers&#8221;<Br>
-            Wikipedia entry<br>
-                &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://en.wikipedia.org/wiki/Cornelia_James_Cannon" >https://en.wikipedia.org/wiki/Cornelia_James_Cannon</a>
-            <br>Cambridge City Directory, 1968
+            Wikipedia entry:<br>
+                <a class='indent' href="https://en.wikipedia.org/wiki/Cornelia_James_Cannon" >https://en.wikipedia.org/wiki/Cornelia_James_Cannon</a>
+            <br><i>Cambridge City Directory</i>, 1968
             <br><i>Cornelia James Cannon and the Future American Race Paperback</i>,  Maria I. Diedrich, University of Mass. Press, January, 2011
         <Br><i>The Cambridge Chronicle</i>, 2 December 1922, 22 December 1938
 
@@ -624,8 +624,8 @@ c_bios = [
         otherNotes: "",
         references: ` <em>Boston</em> <em>Globe</em>, May 19, 1994
             
-        <Br>Wikipedia entry<Br>
-        &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://en.wikipedia.org/wiki/Joyce_Chen_(chef)">https://en.wikipedia.org/wiki/Joyce_Chen_(chef)</a>
+        <Br>Wikipedia entry:<Br>
+        <a class='indent' href="https://en.wikipedia.org/wiki/Joyce_Chen_(chef)">https://en.wikipedia.org/wiki/Joyce_Chen_(chef)</a>
         `,
         photos: ["images_bios/joycechen.jpg"],
         photoTitles: [],
@@ -719,18 +719,18 @@ c_bios = [
         references: ` Schlesinger Library, Julia Child collection guide<br>
             <em>Treasury of Women's Quotations</em> by Carolyn Warner, Prentice Hall,
             Englewood Cliffs, NJ, 1992.<Br>
-            Schlesinger Papers<br>
-            &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://guides.library.harvard.edu/schlesinger_julia_child">https://guides.library.harvard.edu/schlesinger_julia_child</a><br>
-            Image source: wikipedia<br>
-            &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://commons.wikimedia.org/wiki/File:Julia_Child_restore.jpg">https://commons.wikimedia.org/wiki/File:Julia_Child_restore.jpg</a><Br>
-            History Cambridge article<Br>
-             &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://historycambridge.org/articles/julia-childs-kitchen/" >https://historycambridge.org/articles/julia-childs-kitchen/</a><br>
+            Schlesinger Papers:<br>
+            <a class='indent' href="https://guides.library.harvard.edu/schlesinger_julia_child">https://guides.library.harvard.edu/schlesinger_julia_child</a><br>
+            Image from wikipedia.com:<br>
+            <a class='indent' href="https://commons.wikimedia.org/wiki/File:Julia_Child_restore.jpg">https://commons.wikimedia.org/wiki/File:Julia_Child_restore.jpg</a><Br>
+            History Cambridge article:<Br>
+             <a class='indent' href="https://historycambridge.org/articles/julia-childs-kitchen/" >https://historycambridge.org/articles/julia-childs-kitchen/</a><br>
             <i>America's Master Chef Looks at the Highlights, Culinary and Otherwise, of the City and its Neighbor, Cambridge</i> by Barbara
             Beckwith, USAir Magazine, March, 1996<br>
             <i> he Cambridge Chronicle</i>, 11 March 1976<br>
             Goodbye, Julia Child"
-            Nov.9, 2001, <i>All Things Considered</i>, NRP<br>
-            &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://www.npr.org/2001/11/09/1133015/goodbye-julia-child">https://www.npr.org/2001/11/09/1133015/goodbye-julia-child</a>
+            Nov.9, 2001, <i>All Things Considered</i>, NRP:<br>
+            <a class='indent' href="https://www.npr.org/2001/11/09/1133015/goodbye-julia-child">https://www.npr.org/2001/11/09/1133015/goodbye-julia-child</a>
 
         `,
         photos: ["images_bios/Julia_Child_restore.jpg"],
@@ -782,7 +782,7 @@ c_bios = [
             <a href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf" >
                 https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf
             </a><br>
-            <strong>Photo: </strong>Cambridge Chronicle, 18 November 1971<br>
+            <strong>Photo: </strong><i>Cambridge Chronicle</i>, 18 November 1971<br>
             <i>Cambridge Chronicle</i>, 18 November 1971<Br>
             The Child Care Resource Center archive is housed at Schlesinger
             Library, Radcliffe Institute.
@@ -842,8 +842,8 @@ c_bios = [
                 https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a><Br>
                 <a href="https://historycambridge.org/articles/businesses-well-lived-city-girl-cafe/">
                 History Cambridge article on City Girl Cafe</a><Br>
-                THE HISTORY PROJECT: Documenting Documenting LGBTQ Boston Facebook post
-                <br>&nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://www.facebook.com/watch/?v=10154900501831931">
+                THE HISTORY PROJECT: Documenting Documenting LGBTQ Boston Facebook post:
+                <br><a class='indent' href="https://www.facebook.com/watch/?v=10154900501831931">
                 https://www.facebook.com/watch/?v=10154900501831931</a><br>
                 Image from <a href="https://www.instagram.com/p/B_LqhOsgWer/">https://www.instagram.com/p/B_LqhOsgWer/</a>                
 
@@ -1037,8 +1037,8 @@ c_bios = [
             `,
         otherNotes: "",
         references: `<em>Notable American Women, Modern Period</em>;
-            Ada Louise Comstock papers, Smith College.<br>Image source: wikipedia<br>
-            &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://en.wikipedia.org/wiki/Ada_Comstock">https://en.wikipedia.org/wiki/Ada_Comstock</a>
+            Ada Louise Comstock papers, Smith College.<br>Image from wikipedia.com:<br>
+            <a class='indent' href="https://en.wikipedia.org/wiki/Ada_Comstock">https://en.wikipedia.org/wiki/Ada_Comstock</a>
             <Br><i>Cambridge City Directory</i>, 1928
         `,
         photos: ["images_bios/Ada-Comstock-1905.jpg"],
@@ -1125,7 +1125,7 @@ c_bios = [
             Ainsworth Cooke.&#8221;<br>
             Newkirk, McDonald, &quot;Sleeping Lucy.&quot; Published by the Author, 30 W.
             Chicago Avenue, Chicago, Illinois, 1973.<Br>
-            Image source: Vermont Historical Society
+            Image from Vermont Historical Society
             <br><i>The Cambridge Tribune</i>, 1 June 1895, 19 October 1895, 23 November 1895<br>
             <i>The Cambridge Chronicle</i>, 24 May 1973
         `,
@@ -1276,7 +1276,8 @@ c_bios = [
         references: `
             <em>Cambridge Chronicle</em>. Sept 6, 2000<br>
             hollywood.com<Br>
-            <br>Image source: wikipedia<Br>&nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://en.wikipedia.org/wiki/Jane_Curtin" >https://en.wikipedia.org/wiki/Jane_Curtin</a>
+            <br>Image from wikipedia.com:
+            <Br><a class='indent' href="https://en.wikipedia.org/wiki/Jane_Curtin" >https://en.wikipedia.org/wiki/Jane_Curtin</a>
             <br><i>New Yorker</i>, "Jane Curtin Is Playing It Straight,
             The veteran actress on the Republican Party, the turbulence of “S.N.L.,” and the state of women in comedy."
             By Michael Schulman,

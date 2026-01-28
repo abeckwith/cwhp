@@ -59,8 +59,8 @@ e_bios = [
             National Library of Medicine web site. <Br>
             &nbsp;&nbsp;&nbsp;&nbsp;<a
                 href="http://www.nlm.nih.gov/changingthefaceofmedicine/physicians/biography_99.html" >http://www.nlm.nih.gov/changingthefaceofmedicine/physicians/biography_99.html</a>
-            <Br>Image source: wikipedia<br>
-            &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://en.wikipedia.org/wiki/Martha_May_Eliot">https://en.wikipedia.org/wiki/Martha_May_Eliot</a>
+            <Br>Image from wikipedia.com:<br>
+            <a class='indent' href="https://en.wikipedia.org/wiki/Martha_May_Eliot">https://en.wikipedia.org/wiki/Martha_May_Eliot</a>
              <br>
              <i>The Cambridge Chronicle</i>, 8 October 1959 <Br>
              <i>Cambridge City Directory</i>, 1972  `,
@@ -115,7 +115,7 @@ e_bios = [
         otherNotes: "",
         references: ` <em>Cambridge Chronicle, </em>January 20, 2005;
             Cambridge Public Library <em>Annual Report</em> FY99
-            <br>Image source: <em>Boston Globe</em>, Aug. 17, 2011<br>
+            <br>Image from <em>Boston Globe</em>, Aug. 17, 2011<br>
             <I>Cambridge City Directory</i>, 1972<Br>
             <i>U.S., Social Security Death Index</i>, 1935-2014
         `,
@@ -184,8 +184,8 @@ e_bios = [
             Tess Ewing staff biography (autobiographical statement), College of Public and
             Community Service, UMass Boston
             <br>
-            Fair Economy profile<Br>
-            &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://www.faireconomy.org/board_tess_ewing" >https://www.faireconomy.org/board_tess_ewing</a><br>
+            Fair Economy profile:<Br>
+            <a class='indent' href="https://www.faireconomy.org/board_tess_ewing" >https://www.faireconomy.org/board_tess_ewing</a><br>
             Tess Ewing, personal communication.<br>
         `,
         photos: ["images_bios/tess_ewing.jpg"],
@@ -243,13 +243,13 @@ e_bios = [
         Obituary from <i>The Boston Globe</i>, June 1943<br>
         Photo Source NIH US National Library of Medicine, Public Domain<br><br>
 
-        "Deaths and Funerals: Dr. Ruth Easterling." The Boston Globe, June 17, 1943, Boston, Massachusetts, page 11. 
+        "Deaths and Funerals: Dr. Ruth Easterling." <i>The Boston Globe</i>, June 17, 1943, Boston, Massachusetts, page 11. 
         <br>Retrieved from Newspapers.com on June 5, 2020: <a href="https://www.newspapers.com/clip/52830380/obituary-for-ruth-m-easterling/" >https://www.newspapers.com/clip/52830380/obituary-for-ruth-m-easterling/</a><br><br>
 
         NIH National Library of Medicine Biography.<br>Retrieved June 2, 2020:
        <a href=" https://cfmedicine.nlm.nih.gov/physicians/biography_94.html" >https://cfmedicine.nlm.nih.gov/physicians/biography_94.html</a><br><br>
 
-        "Deaths and Funerals: Dr. Ruth Easterling." The Boston Globe, June 17, 1943, Boston, Massachusetts, page 11.<br>
+        "Deaths and Funerals: Dr. Ruth Easterling." <i>The Boston Globe</i>, June 17, 1943, Boston, Massachusetts, page 11.<br>
         Retrieved from Newspapers.com on June 5, 2020: <a href="https://www.newspapers.com/clip/52830380/obituary-for-ruth-m-easterling/" >
         https://www.newspapers.com/clip/52830380/obituary-for-ruth-m-easterling/</a><br><br>
 

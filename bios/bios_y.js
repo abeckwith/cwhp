@@ -194,7 +194,7 @@ y_bios = [
         of Minnesota <br> Obituary, Gloria Negri &#8220;Anna Yona at 98; hosted Italian-Hour
         radio show&#8221; <em>Boston Globe</em>, October 15, 2006
         <Br><i>Cambridge City Directory</i>, 1972<Br>
-        Image and quote from <i>Printed Matter</i>, Centro Primo Levi Online Monthly
+        Image and quote from <i>Printed Matter</i>, Centro Primo Levi Online Monthly:
 
         <Br><a class='indent' href="https://primolevicenter.org/printed-matter/our-life-was-divided/">
         https://primolevicenter.org/printed-matter/our-life-was-divided/</a><br>
@@ -247,7 +247,7 @@ y_bios = [
     `,
         otherNotes: "",
         references: `YWCA
-        papers, Schlesinger Library, Radcliffe Institute<Br><i>YWCA of Cambridge</i> website<Br>
+        papers, Schlesinger Library, Radcliffe Institute<Br><i>YWCA of Cambridge</i> website:<Br>
         <a class='indent' href="https://ywcacam.org/">https://ywcacam.org/</a>
         `,
         photos: ["images_bios/YWCA%201916%20girls%20basketball%20team.jpeg"],

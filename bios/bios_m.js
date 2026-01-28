@@ -98,7 +98,7 @@ m_bios = [
             St. Ansel Alumni Awards description
             <br>
             <a href="https://www.ahernfoundation.org/">https://www.ahernfoundation.org/</a><Br>
-            Cambridge City Directory, 1961<Br>
+            <i>Cambridge City Directory</i>, 1961<Br>
             <i>The Cambridge Chronicle</i>,  18 November 2010
 
         `,
@@ -221,7 +221,7 @@ m_bios = [
             Family records of James G. Deane.<br>
             Markham, Helen Deane.<em> Papers</em>,<em> 1941-1968</em>. Schlesinger Library,
             Hollis Library Catalog summary of archival collection.<br>
-            Cambridge City Directory, 1954
+            <i>Cambridge City Directory</i>, 1954
         `,
         photos: ["images_bios/Markham_HWD.jpg"],
         photoTitles: [],
@@ -282,7 +282,7 @@ m_bios = [
             Thomas, <em>The Old Way, a Story of the First People</em> (2006)<br>
             Book cover from <a href="https://peacefulsocieties.uncg.edu/societies/juhoansi/">
             https://peacefulsocieties.uncg.edu/societies/juhoansi/</a><Br>
-            Cambridge City Directory, 1941<Br>
+            <i>Cambridge City Directory</i>, 1941<Br>
             U.S., Social Security Applications and Claims Index, 1936-2007<br>
             Photo of Marshall from family tree of <i>janmc60_1</i> on ancestry.com 
             <A href="https://www.ancestry.com/mediaui-viewer/tree/47579690/person/322410618877/media/77b16f60-f4db-46fa-8f7f-7adfe79394d1">Link</a>
@@ -574,8 +574,8 @@ m_bios = [
                 in America</em>, 1898.<br>
             <em>Blue Book of Cambridge</em>, Cambridge MA, 1904.<br>
             &#8221;Birth Insurance attacked&#8221;<em> New York Times</em>, May 11, 1906.
-            <Br>Photo source: <a href="https://en.wikipedia.org/wiki/Estelle_M._H._Merrill" >https://en.wikipedia.org/wiki/Estelle_M._H._Merrill</a>
-        <br>Cambridge City Directory, 1890
+            <Br>Image from <a href="https://en.wikipedia.org/wiki/Estelle_M._H._Merrill" >https://en.wikipedia.org/wiki/Estelle_M._H._Merrill</a>
+        <br><i>Cambridge City Directory</i>, 1890
             `,
         photos: ["images_bios/Estelle_Merrill.png"],
         photoTitles: [],
@@ -637,7 +637,7 @@ m_bios = [
                 Harvard Art Museum Archives<br>
                 <em>Harvard University Gazette</em>, September19,
                 1996.
-                <br>Photo source: wikipedia<br> 
+                <br>Image from wikipedia.com:<br> 
                 <a class='indent' href="https://en.wikipedia.org/wiki/Agnes_Mongan" >https://en.wikipedia.org/wiki/Agnes_Mongan</a>
         <br><i>The Cambridge Chronicle</i>, 7 April 1960
                 `,
@@ -777,14 +777,14 @@ m_bios = [
              </blockquote>. `,
         otherNotes: "",
         references: `
-            Cambridge Chronicle, 14 May 1964 & 27 May, 1999<br>
+            <i>Cambridge Chronicle</i>, 14 May 1964 & 27 May, 1999<br>
             Oral Interview
             with Maud Morgan, Archives of American Art, Smithsonian Institution; (Microfilm
             of her scrapbooks are also held at the Smithsonian)<br>
             Maud Morgan, <em>Maud's
                 Journey: A Life From Art</em>.( Berkeley, New Earth Publications) 1995. <br>
            
-        <Br>Image source: <a href="https://en.wikipedia.org/wiki/Maud_Morgan" >https://en.wikipedia.org/wiki/Maud_Morgan</a>
+        <Br>Image from <a href="https://en.wikipedia.org/wiki/Maud_Morgan" >https://en.wikipedia.org/wiki/Maud_Morgan</a>
         <i>The Boston Globe</i> "Nevertheless, they persisted: standout New England women painters",
 by Cate McQuaid,, April 12, 2017    
         `,
@@ -881,7 +881,7 @@ by Cate McQuaid,, April 12, 2017
             Conn.: Greenwood Press, 2001. Found 
             <a href="http://books.google.com/books?id=RjZuWeTJpAkC&amp;pg=PA466&amp;lpg=PA466&amp;dq=Robert+Frost+Encyclopedia+Tuten+Zubizarreta" >
             here</a><br><br>Image courtesty of Middlebury College Special Collections, Middlebury, Vermont<Br><br>
-            Cambridge City Directory, 1939<br>
+            <i>Cambridge City Directory</i>, 1939<br>
             Birth and death dates from <a href="https://www.findagrave.com/memorial/36546026/kathleen-morrison">
             https://www.findagrave.com/memorial/36546026/kathleen-morrison</a><Br>
 
@@ -932,7 +932,7 @@ by Cate McQuaid,, April 12, 2017
             of First Atom Bomb, Dies&#8221; NY Times, April 26, 2005 <br>
             <a
                 href="http://www.memoriesofmorrison.org/Aboutthissite.htm">www.memoriesofmorrison.org/Aboutthissite.htm</a>
-                <Br>Cambridge City Directory, 1968
+                <Br><i>Cambridge City Directory</i>, 1968
         `,
         photos: [""],
         photoTitles: [],
@@ -1173,12 +1173,12 @@ by Cate McQuaid,, April 12, 2017
         `,
         otherNotes: "",
         references: ` 
-          Interview with Robin McCree found at the Cambridge Black History Project<Br> 
+          Interview with Robin McCree found at the Cambridge Black History Project:<Br> 
           <a class='indent' href="https://vimeo.com/725359798">https://vimeo.com/725359798</a><Br>
-            LinkedIn profile<Br>
+            LinkedIn profile:<Br>
             <a class='indent' href="https://www.linkedin.com/in/robin-mccree-51768623/">https://www.linkedin.com/in/robin-mccree-51768623/</a><Br>
             Photos from BB&N yearbook 1975, Tufts yearbook 1979<Br>
-            <I>Cambridge City Council Meeting minutes</i> December 4, 2023<Br>
+            <I>Cambridge City Council Meeting minutes</i> December 4, 2023:<Br>
              <a class='indent' href="http://rwinters.com/council/120423.htm">http://rwinters.com/council/120423.htm</a><br>
             Interview with Robin McCree, conducted by Anthony Beckwith, Jan. 9 and Jan. 13, 2026
         

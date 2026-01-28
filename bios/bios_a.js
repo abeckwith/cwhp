@@ -49,8 +49,8 @@ a_bios = [
         University professor of German, who died in 2011.
             `,
         otherNotes: "",
-        references: `The Political Graveyard: Index to Politicians<Br>
-        &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://politicalgraveyard.com/bio/acampora-adamowski.html#ACKERMANN">https://politicalgraveyard.com/bio/acampora-adamowski.html#ACKERMANN</a><Br>
+        references: `The Political Graveyard: Index to Politicians:<Br>
+        <a class='indent' href="https://politicalgraveyard.com/bio/acampora-adamowski.html#ACKERMANN">https://politicalgraveyard.com/bio/acampora-adamowski.html#ACKERMANN</a><Br>
             "You the Mayor?: The Education of a City Politician", by Barbara Ackerman, Praeger Press, 1989<br>
             <i>Cambridge Chronicle</i> Nov. 3, 1977
         `,
@@ -117,16 +117,16 @@ a_bios = [
             biographical note<br>
             Review of Abbott's autobiography in <em>Time Magazine</em>, Oct
             05, 1936.<Br>
-            Photo source: wikipedia<Br>&nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://en.wikipedia.org/wiki/Eleanor_Hallowell_Abbott#/media/File:Portrait_of_Eleanor_Hallowell_Abbott.jpg">https://en.wikipedia.org/wiki/Eleanor_Hallowell_Abbott#/media/File:Portrait_of_Eleanor_Hallowell_Abbott.jpg</a><br>
+            Image from wikipedia.com:<Br><a class='indent' href="https://en.wikipedia.org/wiki/Eleanor_Hallowell_Abbott#/media/File:Portrait_of_Eleanor_Hallowell_Abbott.jpg">https://en.wikipedia.org/wiki/Eleanor_Hallowell_Abbott#/media/File:Portrait_of_Eleanor_Hallowell_Abbott.jpg</a><br>
             <i>Cambridge Tribune</i>, March 11, 1893<Br>
             <i>Cambridge Tribune</i>, December 25, 1892<br>
             <i>Cambridge Tribune</i>, October 21, 1905<br>
             <i>The New York Times</i>, January 3, 1937<br>
             "Being Little in Cambridge When Everyone Else Was Big", by Eleanor Hallowell Abbott, 
-            New York ; D. Appleton-Century company, inc., 1936<Br>
-            &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015059385941&seq=1">https://babel.hathitrust.org/cgi/pt?id=mdp.39015059385941&seq=1</a><br>
-            Book cover photo from Abe Books<br>
-            &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://www.abebooks.com/first-edition/Being-Little-Cambridge-When-Big-Eleanor/31885289056/bd#&gid=1&pid=1">https://www.abebooks.com/first-edition/Being-Little-Cambridge-When-Big-Eleanor/31885289056/bd#&gid=1&pid=1</a>
+            New York ; D. Appleton-Century company, inc., 1936:<Br>
+            <a class='indent' href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015059385941&seq=1">https://babel.hathitrust.org/cgi/pt?id=mdp.39015059385941&seq=1</a><br>
+            Book cover photo from Abe Books:<br>
+            <a class='indent' href="https://www.abebooks.com/first-edition/Being-Little-Cambridge-When-Big-Eleanor/31885289056/bd#&gid=1&pid=1">https://www.abebooks.com/first-edition/Being-Little-Cambridge-When-Big-Eleanor/31885289056/bd#&gid=1&pid=1</a>
         `,
         photos: ["images_bios/Portrait_of_Eleanor_Hallowell_Abbott.jpg", "images_bios/abbott_cover.png"],
         photoTitles: ["", "Abbott's memoir <i>Being Little in Cambridge</i>"],
@@ -208,11 +208,11 @@ a_bios = [
             Samuel Beckett Collection, University of Texas, Austin
             <Br>Susan
             Howe collection, Geisel Library, University of California, San Diego
-            <br><i>Irish Times</i> July 8, 1999<br>
-            &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://www.irishtimes.com/opinion/mary-manning-howe-adams-1.204225">https://www.irishtimes.com/opinion/mary-manning-howe-adams-1.204225)</a>
+            <br><i>Irish Times</i> July 8, 1999:<br>
+            <a class='indent' href="https://www.irishtimes.com/opinion/mary-manning-howe-adams-1.204225">https://www.irishtimes.com/opinion/mary-manning-howe-adams-1.204225)</a>
             
-            <Br>Photo source: wikipedia
-            <Br>&nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://www.findagrave.com/memorial/210752155/mary-adams">https://www.findagrave.com/memorial/210752155/mary-adams</a>
+            <Br>Image from wikipedia.com:
+            <Br><a class='indent' href="https://www.findagrave.com/memorial/210752155/mary-adams">https://www.findagrave.com/memorial/210752155/mary-adams</a>
         `,
         photos: ["images_bios/Mary_Manning_(writer).jpg"],
         photoTitles: [],
@@ -286,10 +286,10 @@ a_bios = [
         references: ` <em>Notable American Women</em> (1609-1950) Vol
             I <Br>
             <em>Dictionary of American Biography</em>, (1928)
-            <Br>Photo source: wikipedia:<Br>
-            &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://en.wikipedia.org/wiki/Elizabeth_Cabot_Agassiz">https://en.wikipedia.org/wiki/Elizabeth_Cabot_Agassiz</a><Br>
+            <Br>Image from wikipedia.com:<Br>
+            <a class='indent' href="https://en.wikipedia.org/wiki/Elizabeth_Cabot_Agassiz">https://en.wikipedia.org/wiki/Elizabeth_Cabot_Agassiz</a><Br>
             <I>A Journey In Brazil</i>, 1868, Boston: Tucknor and Fields:<Br>
-            &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://archive.org/details/journeyinbrazil00agasiala/page/n11/mode/2up">https://archive.org/details/journeyinbrazil00agasiala/page/n11/mode/2up</a>
+            <a class='indent' href="https://archive.org/details/journeyinbrazil00agasiala/page/n11/mode/2up">https://archive.org/details/journeyinbrazil00agasiala/page/n11/mode/2up</a>
         `,
         photos: ["images_bios/eliabeth cabot aggasiz.jpeg"],
         photoTitles: [],
@@ -344,15 +344,15 @@ a_bios = [
             at Harvard University Extension School for several years. She is married to attorney Birge Albright
             and lives in Cambridge.`,
         otherNotes: "",
-        references: `wikipedia entry for Carol Bonomo Albright<Br>
-       &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://en.wikipedia.org/wiki/Carol_Bonomo_Albright">https://en.wikipedia.org/wiki/Carol_Bonomo_Albright</a>
-        <Br>amazon.com biography for Carol Bonomo Albright
-       <Br>&nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://www.amazon.com/stores/Carol-Bonomo-Albright/author/B001JSDLOY">https://www.amazon.com/stores/Carol-Bonomo-Albright/author/B001JSDLOY</a><Br>
-       Tough Poets Press<Br>
-       &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://www.toughpoets.com/albright_holofernes.htm">https://www.toughpoets.com/albright_holofernes.htm</a>
+        references: `Wikipedia entry for Carol Bonomo Albright:<Br>
+       <a class='indent' href="https://en.wikipedia.org/wiki/Carol_Bonomo_Albright">https://en.wikipedia.org/wiki/Carol_Bonomo_Albright</a>
+        <Br>Amazon.com biography for Carol Bonomo Albright:
+       <Br><a class='indent' href="https://www.amazon.com/stores/Carol-Bonomo-Albright/author/B001JSDLOY">https://www.amazon.com/stores/Carol-Bonomo-Albright/author/B001JSDLOY</a><Br>
+       Tough Poets Press:<Br>
+       <a class='indent' href="https://www.toughpoets.com/albright_holofernes.htm">https://www.toughpoets.com/albright_holofernes.htm</a>
         <br>
-       Image source: Google Books
-        <Br>&nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://books.google.com/books?id=5R28DDgTAd4C&pg=PA38#v=onepage&q&f=false">https://books.google.com/books?id=5R28DDgTAd4C&pg=PA38#v=onepage&q&f=false</a>
+       Image from Google Books:
+        <Br><a class='indent' href="https://books.google.com/books?id=5R28DDgTAd4C&pg=PA38#v=onepage&q&f=false">https://books.google.com/books?id=5R28DDgTAd4C&pg=PA38#v=onepage&q&f=false</a>
                <i>Cambridge Chronicle</i> January 22, 2009<br>
  `,
         photos: ["images_bios/carol albright.jpeg"],
@@ -512,11 +512,11 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
         <i>Bookwomen: 70 who have made a difference</i>, Women's National
         Book Association <br>
         Ali Kazam, "Beacon Voices: Jo Pitkin", Beacon Dispatch, Issue 28,
-        December 2006, January 2007<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="http://www.alicejamesbooks.org">www.alicejamesbooks.org</a><br>
+        December 2006, January 2007:<br>
+        <a class='indent' href="http://www.alicejamesbooks.org">www.alicejamesbooks.org</a><br>
         <i>Down East: The Magazine of Maine</i>, June, 2006. "The People's Poet: Maine's New Poet Laureate, 
         Betsy Sholl, Finds Poetry in the Most Unlikely Places" by Michaela Cavallaro:<Br>
-       &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href=<"https://web.archive.org/web/20110707230938/http://www.betsysholl.com/news_file_bv.asp?key=34">https://web.archive.org/web/20110707230938/http://www.betsysholl.com/news_file_bv.asp?key=34</a><br>
+       <a class='indent' href=<"https://web.archive.org/web/20110707230938/http://www.betsysholl.com/news_file_bv.asp?key=34">https://web.archive.org/web/20110707230938/http://www.betsysholl.com/news_file_bv.asp?key=34</a><br>
         Image courtesy of Alice James Books
     `,
         photos: ["images_bios/alice james books.jpg"],
@@ -586,7 +586,7 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
             `,
         otherNotes: "",
         references: `<em>Boston Globe</em>, Sept. 9, 2009
-        <Br>Image source: <em>Boston Globe</em>, Sept. 9, 2009<br>
+        <Br>Image from <em>Boston Globe</em>, Sept. 9, 2009<br>
             Massachusetts, Death Index, 1970-2003<Br>
             <i>The Cambridge Chronicle</i>,  24 July 1986, 2 October 1986, 27 September 1990
 
@@ -698,8 +698,8 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
 
             `,
         otherNotes: "",
-        references: `Cambridge Energy Alliance bio<Br>
-        &nbsp; &nbsp;&nbsp;&nbsp;<A href="https://masspeaceaction.org/mapaef-board/">https://masspeaceaction.org/mapaef-board/</a>
+        references: `Cambridge Energy Alliance bio:<Br>
+        <a class='indent' href="https://masspeaceaction.org/mapaef-board/">https://masspeaceaction.org/mapaef-board/</a>
             <br>
             <i>The Cambridge Chronicle</i>, 22 April 1993<Br>
                 Photo courtesy of Rosalie Anders
@@ -745,7 +745,7 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
             `,
         otherNotes: "",
         references: ` <em>Cambridge Chronicle</em>, 11-17-99<br>
-    Ancestry.com Naturalization recrords<br>
+    Ancestry.com Naturalization records<br>
     <i>U.S. Census</i> records<Br>
     <i>Cambridge City Directory</i> 1941, 1944 ,1972 
         `,
@@ -809,8 +809,8 @@ July 9, 1999</i>
             <i>Cambridge City Directories</i>
             <br>
             <i>Massachusetts Death Index</i>, 1970-2003<Br>
-            Image source: WNET <Br>
-            &nbsp; &nbsp;&nbsp;&nbsp;<a href="http://www.pbs.org/wnet/religionandethics/week245/cover.html" >http://www.pbs.org/wnet/religionandethics/week245/cover.html</a>
+            Image from WNET: <Br>
+            <a class='indent' href="http://www.pbs.org/wnet/religionandethics/week245/cover.html" >http://www.pbs.org/wnet/religionandethics/week245/cover.html</a>
         `,
         photos: ["images_bios/linda archer.png"],
         photoTitles: [],
@@ -898,10 +898,10 @@ July 9, 1999</i>
             `,
         otherNotes: "",
         references: ` Based on a personal interview by Sandra Pullman,
-            2003.; Further information from Jewish Women's Archive &#8220;Women who
+            2003.<Br>Further information from Jewish Women's Archive &#8220;Women who
             Dared&#8221; exhibit online.<Br>
-            <i>Searching for Life</i> review<br>
-            &nbsp; &nbsp;&nbsp;&nbsp;<a href="https://www.ucpress.edu/books/searching-for-life/paper">https://www.ucpress.edu/books/searching-for-life/paper</a>
+            <i>Searching for Life</i> review:<br>
+            <a class='indent' href="https://www.ucpress.edu/books/searching-for-life/paper">https://www.ucpress.edu/books/searching-for-life/paper</a>
             <Br>
             <i>Cambridge City Directory</i>, 1968
         `,
@@ -1092,7 +1092,7 @@ July 9, 1999</i>
             `,
         otherNotes: "",
         references: `<em>Cambridge Chronicle</em>, June 7, 1973 & October 2, 2000 & May 4, 2006<Br>
-        Cambridge City Directory, 1972
+        <i>Cambridge City Directory</i>, 1972
         `,
         photos: [""],
         photoTitles: [],
@@ -1255,10 +1255,10 @@ July 9, 1999</i>
         references: `
         Kendall Square weekly <i>Fax</i>, 10 November 1987, 11 April 1989<br>
         <i>The Cambridge Chronicle</i>, 13 May 1999<br>
-        <i>Barnard Magazine</i>, Spring 2002
-        <br>&nbsp; &nbsp;&nbsp;&nbsp;<A href="https://barnard.edu/magazine/spring-2022/lifelong-activist">https://barnard.edu/magazine/spring-2022/lifelong-activist</a> <br>
-        <i>the Boston Globe</i>, May 24, 2017</i><br>
-        &nbsp; &nbsp;&nbsp;&nbsp;<a href="https://www.boston.com/culture/music/2017/05/24/long-before-boston-calling-amandla-festival-brought-bob-marley-and-social-justice-to-harvard/">https://www.boston.com/culture/music/2017/05/24/long-before-boston-calling-amandla-festival-brought-bob-marley-and-social-justice-to-harvard/</a><br>
+        <i>Barnard Magazine</i>, Spring 2002:
+        <br><a class='indent' href="https://barnard.edu/magazine/spring-2022/lifelong-activist">https://barnard.edu/magazine/spring-2022/lifelong-activist</a> <br>
+        <i>the Boston Globe</i>, May 24, 2017</i>:<br>
+        <a class='indent' href="https://www.boston.com/culture/music/2017/05/24/long-before-boston-calling-amandla-festival-brought-bob-marley-and-social-justice-to-harvard/">https://www.boston.com/culture/music/2017/05/24/long-before-boston-calling-amandla-festival-brought-bob-marley-and-social-justice-to-harvard/</a><br>
 
 
         <i>The Boston Globe</i> Sun, Mar 16, 1975, "Radical Foundations? This Pillsbury Says it Best", by Arnie Reisman<br>

@@ -88,9 +88,9 @@ r_bios = [
             Amy Miller, &quot;Curious George moves into Harvard Square,&quot; <em>Cambridge
                 Chronicle</em>, July 25, 1996.<Br>
             <Br><i>Cambridge City Directory</i>, 1965
-        <Br><i>Christian Science Monitor</i> interview, May 23, 1996<Br>
+        <Br><i>Christian Science Monitor</i> interview, May 23, 1996:<Br>
         <a class='indent' href="https://www.csmonitor.com/1996/0523/052396.feat.books.3.html">https://www.csmonitor.com/1996/0523/052396.feat.books.3.html</a>
-                <Br>Image source: wikipedia<br>
+                <Br>Image from wikipedia.com:<br>
                 <a class='indent' href="https://en.wikipedia.org/wiki/Margret_Rey" >https://en.wikipedia.org/wiki/Margret_Rey</a>
                 `,
         photos: ["images_bios/reys.jpg"],
@@ -144,10 +144,10 @@ r_bios = [
             Wrenn, Robert L., &quot;The Evolution of Anne Roe,&quot; <em>J Counseling &amp;
                 Development</em> 63: 267-75, Jan 1985.<Br>
                 <I>Cambridge City Directory</i>, 1965<br>
-                Birth date from ancestry.com<Br>
+                Birth date from ancestry.com:<Br>
                 <a class='indent' href="https://www.ancestry.com/family-tree/person/tree/71942149/person/292480937875/facts?_phsrc=prV2552&_phstart=successSource">
                 https://www.ancestry.com/family-tree/person/tree/71942149/person/292480937875/facts?_phsrc=prV2552&_phstart=successSource</a>
-                Image source: wikipedia<Br>
+                Image from wikipedia.com:<Br>
                  <a class='indent' href="https://en.wikipedia.org/wiki/Anne_Roe">https://en.wikipedia.org/wiki/Anne_Roe</a>
         `,
         photos: ["images_bios/Anne_Roe.jpg"],
@@ -290,7 +290,7 @@ r_bios = [
             (under Betty A. Rubinow) January 22, 2007<Br>
             <i>Cambridge City Directory</i>, 1961<Br>
             <i>The Boston Globe</i>, Jan 25, 2007<Br>
-            <br>Image source: <i>Vermont Community Newspaper Group<nr>
+            <br>Image from <i>Vermont Community Newspaper Group:<br>
             <A class='indent' href="https://www.vtcng.com/stowereporter/archives/betty-ann-orlov-rubinow/article_5b7f7b21-06cb-5708-ae30-d74b45d2059f.html" >
             https://www.vtcng.com/stowereporter/archives/betty-ann-orlov-rubinow/article_5b7f7b21-06cb-5708-ae30-d74b45d2059f.html</a>
         `,

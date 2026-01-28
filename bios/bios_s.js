@@ -55,7 +55,7 @@ s_bios = [
             `,
         otherNotes: "",
         references: `Oral interview by Sarah Boyer<br>
-        Image source: <i>Community Training and Assistance Center</i><br>
+        Image from <i>Community Training and Assistance Center</i>:<br>
         <a class='indent' href="https://ctacusa.com/about-us/staff/sylvia-saavedra-keber/" >https://ctacusa.com/about-us/staff/sylvia-saavedra-keber/</a>
         `,
         photos: ["images_bios/Saavedra.jpg"],
@@ -152,7 +152,7 @@ s_bios = [
                 Dreaming Deep</em>; <br><br><em>A World of Light</em>. Constance Hunting <em>May Sarton:
                 Woman and Poet</em><Br><br>National Poetry Foundation, 1982; <em>Great Women Writers</em>.
             <Br><Br>Henry Holt, 1994; Cambridge Historical Commission files<Br><Br>
-            Image source: wikipedia<br>
+            Image from wikipedia.com:<br>
             <a class='indent' href="https://en.wikipedia.org/wiki/May_Sarton" >https://en.wikipedia.org/wiki/May_Sarton</a>
         `,
         photos: ["images_bios/May_Sarton.jpg"],
@@ -219,7 +219,7 @@ s_bios = [
             Arthur Schlesinger, Jr. <em>A Life in the 20th Century: Innocent Beginnings,
                 1917-1950</em>. Houghton Mifflin, 2000<Br>
                 <i>Cambridge City Directory</i>, 1972<br>
-                Image source: wikipedia<br>
+                Image from wikipedia.com:<br>
                 <a class='indent' href="https://en.wikipedia.org/wiki/Marian_Cannon_Schlesinger" >https://en.wikipedia.org/wiki/Marian_Cannon_Schlesinger</a>
         `,
         photos: ["images_bios/Marian_Schlesinger.jpg"],
@@ -328,12 +328,13 @@ s_bios = [
             - Vice Mayor Marjorie Decker, 2005, Vice Mayor of Cambridge at the time,
             </blockquote>`,
         otherNotes: "",
-        references: `Oral interview by Sarah Boyer. For information
-            on the Simplex Steering Committee, see <em>The Tech</em>, 1990; Christopher
+        references: `Oral interview by Sarah Boyer. <Br>For information
+            on the Simplex Steering Committee, see <em>The Tech</em>, 1990.<br>
+            Christopher
             Montgomery, &#8220;Boston project creates new niche,&#8221; <em>Cleveland Plain
                 Dealer</em>, November 28, 2005.<br>
-                <i>Cambridge City Directory</i>, 1954<Br>
-                <i>The Cambridge Chronicle</i>, 13 January 2005
+                <i>Cambridge City Directory</i>, 1954.<Br>
+                <i>The Cambridge Chronicle</i>, 13 January 2005.
 
         `,
         photos: ["images_bios/MaryRoseShea.jpg"],
@@ -547,7 +548,7 @@ s_bios = [
             Sprague wrote two manuals,<em> A Development Primer:
                 Starting Housing or Business Ventures by and/or for Women</em> (1984), and <em>A
                 Manual on Transitional Housing</em> (1986). 
-                In a 1986 letter to the Boston Globe, Sprague wrote to set the record straight about transitional housing:
+                In a 1986 letter to <i>The Boston Globe</i>, Sprague wrote to set the record straight about transitional housing:
                 <blockquote>
                 "Some residents choose transitional housing after leaving a battered-women's shelter because they 
                 need time and services to become self-supporting...Many divorced or widowed women and young parents 
@@ -572,7 +573,7 @@ s_bios = [
             Library, Radcliffe Institute.<Br>
             <I>Cambridge City Directory</i>, 1972<Br>
             Birthdate from <i>U.S. Social Security Death Index</i>, 1935-2014<Br>
-            Book cover from Common Crow Books<br>
+            Book cover from Common Crow Books:<br>
             <a class='indent' href="https://www.commoncrowbooks.com/pages/books/B59091/joan-forrester-sprague/more-than-housing-lifeboats-for-women-and-children-inscribed-by-sprague">https://www.commoncrowbooks.com/pages/books/B59091/joan-forrester-sprague/more-than-housing-lifeboats-for-women-and-children-inscribed-by-sprague</a>
          <Br>
                 <i>The Boston Globe</i>Sep 08, 1986, page 15
@@ -624,7 +625,7 @@ s_bios = [
         otherNotes: "",
         references: ` 
           <i>Cambridge City Directory</i>, 1903<Br>
-          Photo source: Harvard University Plate Stacks<br>
+          Image from Harvard University Plate Stacks:<br>
           <a class='indent' href="https://platestacks.cfa.harvard.edu/women-at-hco/mabel-cushman-stevens">
           https://platestacks.cfa.harvard.edu/women-at-hco/mabel-cushman-stevens</a>
         
@@ -683,7 +684,7 @@ s_bios = [
             1877<Br>Menotomy Journal timeline
             <Br> Frederick J Lund (compiler), &#8220;Brief
             History of Somerville,&#8221; Somerville Planning Board, 1996.<Br>
-            Image source: wikipedia<Br>
+            Image from wikipedia.com:<Br>
             <a class='indent' href="https://en.wikipedia.org/wiki/Saunkskwa_of_Missitekw#/media/File:Squaw_Sachem_-_Robbins_Memorial_Flagstaff_-_Arlington,_MA_-_DSC02798.jpg">https://en.wikipedia.org/wiki/Saunkskwa_of_Missitekw#/media/File:Squaw_Sachem_-_Robbins_Memorial_Flagstaff_-_Arlington,_MA_-_DSC02798.jpg</a>
         `,
         photos: ["images_bios/misticke.jpg"],

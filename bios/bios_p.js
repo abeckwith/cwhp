@@ -45,7 +45,7 @@ p_bios = [
         references: `<em>Notable American Women</em> (1950)<Br>
         <em>Biographical
                 Dictionary of Women Scientists</em> (2000)
-            Image source: wikipedia public domain entry for Emily Parsons
+            Image from wikipedia public domain entry for Emily Parsons
         `,
         photos: ["images_bios/emily_Parsons.jpg"],
         photoTitles: [],
@@ -111,7 +111,7 @@ p_bios = [
             <em>Monthly Review</em>, December 1995.<Br>
             <i>Cambridge City Directory</i>, 1968<Br>
             Photo credit: Alabama Holocaust Education Center, received from Steven Rasmussen, son of Lore May Rasmussen, a colleague of Fritz Pappenheim at Talladega College.
- <Br>><a class='indent' href="https://ahecinfo.org/survivors/pappenheim-fritz/">
+            <Br><a class='indent' href="https://ahecinfo.org/survivors/pappenheim-fritz/">
             https://ahecinfo.org/survivors/pappenheim-fritz/</a>
         `,
         photos: ["images_bios/Pappenheim.jpg"],
@@ -173,7 +173,7 @@ p_bios = [
             and Bernard L. Wilieb. <em>The Book of Women's Firsts</em>, New York,
             1992. Marilyn Ogilvie and Joy Harvey (eds.) <em>Biographical Dictionary of Women
                 Scientists</em>. Routledge, 2000.<Br>
-                Image source: wikipedia<br>
+                Image from wikipedia.com:<br>
                 <a class='indent' href="https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin" >https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin</a>
         `,
         photos: ["images_bios/Cecilia_Gaposchkin.jpg"],
@@ -241,7 +241,7 @@ p_bios = [
             <br>
             Ancestry.com genealogy records including family trees, vital records, U.S. Census
             reports, and city directory entries.<Br>
-            Image source: wikipedia<br>
+            Image from wikipedia.com:<br>
             <a class='indent' href="https://en.wikipedia.org/wiki/Melusina_Fay_Peirce" >https://en.wikipedia.org/wiki/Melusina_Fay_Peirce</a>
         `,
         photos: ["images_bios/peirce.png"],
@@ -298,7 +298,7 @@ p_bios = [
         references: ` Oral interview by Sarah Boyer.<br>
             &quot;A Century of Shalom &#8211; History: A History of the Organized Jewish
             Community in ambridge,&quot;<br>
-            Image source: legacy.com<Br>
+            Image from legacy.com<:Br>
             <a class='indent' href="https://www.legacy.com/us/obituaries/bostonglobe/name/sylvia-piltch-obituary?id=17084405">
             https://www.legacy.com/us/obituaries/bostonglobe/name/sylvia-piltch-obituary?id=17084405</a><Br>
             <i>Cambridge City Directory</i>, 1931
@@ -392,7 +392,7 @@ p_bios = [
         https://www.legacy.com/us/obituaries/wickedlocal-cambridgechronicle/name/kaethe-peters-obituary?id=20281318</a> <br>
          <I>City Directory</i> 1965 <Br>
         <i>The Cambridge Chronicle</i> 25 July 1985 &  8 December 1999
-        <br><i>The Boston Globe</i> , November 22, 2012 <Br>
+        <br><i>The Boston Globe</i> , November 22, 2012: <Br>
         <a class='indent' href="https://www.bostonglobe.com/metro/obituaries/2012/11/22/kaethe-peters-cambridge-longtime-social-worker-educator/y50M8As1eXlni67qqiTd3I/story.html">
         https://www.bostonglobe.com/metro/obituaries/2012/11/22/kaethe-peters-cambridge-longtime-social-worker-educator/y50M8As1eXlni67qqiTd3I/story.html</a>
         `,

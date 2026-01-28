@@ -52,7 +52,7 @@ k_bios = [
             Gray, Christoper. &quot;Streetscapes/McKin, Mead &amp; White: A Skeptic's View
             of a Renowned Architectural Firm,&quot; <em>New York Times</em>, 2 June 2006,
             online archives.<br>
-            Photo source: Cambridge Historical Commission
+            Image from Cambridge Historical Commission
         `,
         photos: ["images_bios/phebe_mitchell.png"],
         photoTitles: [],
@@ -119,7 +119,7 @@ k_bios = [
             Carol Berczuk, &#8220;Choices and Successes: Honoring Women Pioneers &#8220;<em>
                 Annals of the New York Academy of Sciences</em> 869 (1), 22&#8211;33, 1999.
                 <Br>
-                Photo source: <a href="https://en.wikipedia.org/wiki/Vera_Kistiakowsky" >https://en.wikipedia.org/wiki/Vera_Kistiakowsky</a>
+                Image from <a href="https://en.wikipedia.org/wiki/Vera_Kistiakowsky" >https://en.wikipedia.org/wiki/Vera_Kistiakowsky</a>
         `,
         photos: ["images_bios/Vera_K.jpg"],
         photoTitles: [],

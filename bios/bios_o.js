@@ -55,7 +55,8 @@ o_bios = [
             The Oral History Center archive is housed at Northeastern University<br> <a
 class='indent' href="https://repository.library.northeastern.edu/collections/neu:cj82kw07t" >https://repository.library.northeastern.edu/collections/neu:cj82kw07t</a>
         <br><i>The Cambridge Chronicle</i>,  20 April 1989<br>
-        Photo from Northeastern University<br> <a class='indent' href="https://repository.library.northeastern.edu/files/neu:m0427d80x">
+        Photo from Northeastern University:<br> 
+        <a class='indent' href="https://repository.library.northeastern.edu/files/neu:m0427d80x">
         https://repository.library.northeastern.edu/files/neu:m0427d80x</a>
                 `,
         photos: ["images_bios/oralhistory.jpg"],
@@ -121,7 +122,7 @@ class='indent' href="https://repository.library.northeastern.edu/collections/neu
             Orne family biographies and landmark
                 report for Orne's home at 107 Auburn Street, Cambridge Historical Commission.
             <em>Who's Who in America</em> (1905)<br>
-            Image source: Cambridge Public Library
+            Image from Cambridge Public Library
         `,
         photos: ["images_bios/caroline_orne.png"],
         photoTitles: [],

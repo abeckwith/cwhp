@@ -42,7 +42,7 @@ f_bios = [
         otherNotes: "",
         references: ` Personal information; biographical information 
     in Susan Fleischmann, &#8220;TV Station: How To Create An Award-Winning Public 
-    Access Station&#8221;<Br> <em>Be the Media</em>, online book 
+    Access Station&#8221;<Br> <em>Be the Media</em>, online book:
     <Br><a class='indent' href="http://www.bethemedia.com/tableofcontents.htm" >http://www.bethemedia.com/tableofcontents.htm</a><br>
 
     Photo by Sean Effel. <br>
@@ -169,8 +169,8 @@ f_bios = [
       Science Studies Mary Wyer</em> (ed.) 312-331.(2001)<Br>
       Cynthia R Daniels. <em>Exposing 
       Men: The Science and Politics of Male Reproduction</em>. New York (2006).<Br>
-      Woods Hole Museum profile<Br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://woodsholemuseum.org/WHHWomen/GladysFriedler.html">https://woodsholemuseum.org/WHHWomen/GladysFriedler.html</a>`,
+      Woods Hole Museum profile:<Br>
+      <a class='indent' href="https://woodsholemuseum.org/WHHWomen/GladysFriedler.html">https://woodsholemuseum.org/WHHWomen/GladysFriedler.html</a>`,
         photos: ["images_bios/Friedler_Gaby.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
@@ -233,8 +233,8 @@ f_bios = [
         otherNotes: "",
         references: ` 
     Nomination by Robin Hein<Br>Source: Cambridge newspapers.<Br>
-    Image source: picyrl.com<Br>
-     &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://itoldya420.getarchive.net/amp/media/illustration-from-the-adventures-of-nils-by-mary-hamilton-frye-page-154-42ec0d">https://itoldya420.getarchive.net/amp/media/illustration-from-the-adventures-of-nils-by-mary-hamilton-frye-page-154-42ec0d</a>
+    Image from picyrl.com:<Br>
+     <a class='indent' href="https://itoldya420.getarchive.net/amp/media/illustration-from-the-adventures-of-nils-by-mary-hamilton-frye-page-154-42ec0d">https://itoldya420.getarchive.net/amp/media/illustration-from-the-adventures-of-nils-by-mary-hamilton-frye-page-154-42ec0d</a>
     <Br><i>The Boston Globe</i> Jun 17, 1921, page 11
         <Br><i>The Houston Post</i>  Dec 07, 1913, page 56
     `    ,
@@ -309,14 +309,14 @@ In
     educational, support, outreach, and community services.<br>
     <br>`,
         otherNotes: "",
-        references: `<em>Notable American Women</em> (1607-1950) vol 
+        references: `<em>Notable American Women</em> (1607-1950) Vol 
     I
     <Br>Robert N Hudspeth, <em>The Letters of Margaret Fuller </em>Vol 1-V (1988)<Br>
-    Margaret Fuller Neighborhood House website<br> 
-    &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="http://www.margaretfullerhouse.org/index.html">http://www.margaretfullerhouse.org/index.html</a>
+    Margaret Fuller Neighborhood House website:<br> 
+    <a class='indent' href="http://www.margaretfullerhouse.org/index.html">http://www.margaretfullerhouse.org/index.html</a>
     <br>
-     Image source: wikipedia<Br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://en.wikipedia.org/wiki/Margaret_Fuller" >https://en.wikipedia.org/wiki/Margaret_Fuller</a>
+     Image from wikipedia.com:<Br>
+      <a class='indent' href="https://en.wikipedia.org/wiki/Margaret_Fuller" >https://en.wikipedia.org/wiki/Margaret_Fuller</a>
   `,
         photos: ["images_bios/margaret_fuller.jpg"],
         photoTitles: [],
@@ -380,8 +380,8 @@ In
         <i>The Cambridge Chronicle</i>, 5 March 1910<br>
         <i>The Boston Globe</i> Sep 4 1906, Oct 16, 1908, Sep 24, 1909, Mar 22, 1916<Br>
         <i>Massachusetts, U.S., Marriage Records</i>, 1840-1915<Br>
-        Schlesinger Library, Radcliffe Oral History Project<br> 
-        &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://iiif.lib.harvard.edu/manifests/view/drs:45177050$15i">https://iiif.lib.harvard.edu/manifests/view/drs:45177050$15i</a><Br>
+        Schlesinger Library, Radcliffe Oral History Project:<br> 
+        <a class='indent' href="https://iiif.lib.harvard.edu/manifests/view/drs:45177050$15i">https://iiif.lib.harvard.edu/manifests/view/drs:45177050$15i</a><Br>
         <i>Cambridge High and Latin School yearbook</i> 1932
 `,
         photos: [ "images_bios/franks_sep_4_1906.png", "images_bios/franks.png"],

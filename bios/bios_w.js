@@ -25,7 +25,7 @@ w_bios = [
         <i>Cambridge Chronicle</i> November 1 1924<Br>
         <I>Boston Globe</i> May 30, 1946<Br>
         <I>Cambridge City Directory</i>, 1965<Br>
-        Image source: Regis College 1945 yearbook
+        Image from Regis College 1945 yearbook
         `,
         photos: ["images_bios/mary_wadden.png"],
         photoTitles: [],
@@ -390,7 +390,7 @@ w_bios = [
             Toronto: Second Story Press, 1997.<Br>
             Whitney image from wikipedia<Br>
             <a class=indent' href="https://en.wikipedia.org/wiki/Anne_Whitney" >https://en.wikipedia.org/wiki/Anne_Whitney</a> <Br>
-             Statue image from wikipedia<Br>
+             Statue image from wikipedia.com:<Br>
              <a class='indent' href="https://commons.wikimedia.org/wiki/File:Charles_Sumner_statue_%28Cambridge,_MA%29_-_Anne_Whitney_sculptor.JPG" >https://commons.wikimedia.org/wiki/File:Charles_Sumner_statue_%28Cambridge,_MA%29_-_Anne_Whitney_sculptor.JPG</a> from wikimedia commons 
         `,
         photos: [
@@ -558,7 +558,7 @@ w_bios = [
         otherNotes: "",
         references: ` <em>An Historic Guide to Cambridge</em>, Appendix &#8220;Edward
             Winship&#8221;<Br>
-               Photo from findagrave.com<Br>
+               Photo from findagrave.com:<Br>
                <a class='indent' href="https://www.findagrave.com/memorial/20848657/joanna-winship#view-photo=7093541">
             https://www.findagrave.com/memorial/20848657/joanna-winship#view-photo=7093541</a>
         `,
@@ -631,7 +631,7 @@ w_bios = [
                 Atlantic and the Politics of Gender.</em> (New York: Oxford University Press,
             2005)<br>
             
-                Image source: wikipedia<Br>
+                Image from wikipedia.com:<Br>
                  <a class='indent' href="https://commons.wikimedia.org/wiki/File:Mrs._John_Winthrop.jpg" >https://commons.wikimedia.org/wiki/File:Mrs._John_Winthrop.jpg</a>
         `,
         photos: ["images_bios/HANNAH_Winthrop.jpg"],
@@ -700,7 +700,7 @@ w_bios = [
             <i>Cambridge City Directory</i>, 1965<br>
             <i>The Cambridge Chronicle</i>, 24 February 1983
             <br>
-            Image source: wikipedia<br>
+            Image from wikipedia.com:<br>
             <a class='indent' href="https://en.wikipedia.org/wiki/Ozeline_Wise" >https://en.wikipedia.org/wiki/Ozeline_Wise</a>
         `,
         photos: ["images_bios/Ozeline__Wise.jpg"],
@@ -761,7 +761,7 @@ w_bios = [
         references: ` <em>Cambridge Chronicle</em>, August 12,1999<br>Schlesinger
             Library biography and guide to Pearl Katz Wise papers.<Br>
             <i>Cambridge City Directory</i>, 1930 & 1965<Br>
-            FindAGrave.com<Nbr>
+            FindAGrave.com:<br>
             <a class='indent' href="https://www.ancestry.com/search/collections/60525/records/146988896?tid=&pid=&queryId=408823c2-fecb-4a9d-af1a-db3e98971fa5&_phsrc=prV2532&_phstart=successSource">https://www.ancestry.com/search/collections/60525/records/146988896?tid=&pid=&queryId=408823c2-fecb-4a9d-af1a-db3e98971fa5&_phsrc=prV2532&_phstart=successSource
             </a> 
         `,
@@ -822,7 +822,7 @@ w_bios = [
             chapter of the National Organization of Women.<br><Br>Alice Wolf lived at 48 Huron Avenue for more than 40 years. `,
         otherNotes: "",
         references: ` <I>Harvard Gazette</i> June 2, 2005<Br>
-                Wikipedia entry<Br>
+                Wikipedia.com entry:<Br>
                 <a class='indent' href="https://en.wikipedia.org/wiki/Alice_Wolf" >https://en.wikipedia.org/wiki/Alice_Wolf</a><Br><Br>
             <i>The Cambridge Chronicle</i>,  9 May 1991
 
@@ -879,7 +879,7 @@ w_bios = [
         references: `Finding
             Aid, Northeastern University Library Archives; Annie Popkin Papers, Schlesinger
             Library; Central Square Women's Walking Tour.
-            <br>Logo image from Aug. 15, 2025 Facebook post<Br>
+            <br>Logo image from Aug. 15, 2025 Facebook post:<Br>
              <a class='indent' href="https://www.facebook.com/photo/?fbid=1182736037215446&set=pb.100064371836450.-2207520000/">https://www.facebook.com/photo/?fbid=1182736037215446&set=pb.100064371836450.-2207520000/</a>`,
         photos: ["images_bios/womensctr.png", "images_bios/888MemDr.jpg"],
         photoTitles: ["Women's Center Logo", "Plaque ready to be placed on Memorial Drive"],
@@ -935,7 +935,7 @@ w_bios = [
         references: ` Dominique Tremblay, finding aid for the Women's
             Coffeehouse Records, prepared October 2006. Northeastern University Library
            
-            <br>Image source: <i>Concordia Universiti Press<br>
+            <br>Image from <i>Concordia University Press</i>:<br>
              <a class='indent' href="https://press.library.concordia.ca/read/ingredients-for-revolution" >
             https://press.library.concordia.ca/read/ingredients-for-revolution</a>
         `,

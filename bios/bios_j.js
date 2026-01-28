@@ -56,11 +56,11 @@ j_bios = [
                 Slave Girl</em> (Simon &amp; Schuster
             2003)<br>
             Harriet Jacobs website by Julie Adams<br>
-           Video history of Harriet Jacobs' life produced by Mount Auburn Cemetery<br>
+           Video history of Harriet Jacobs' life produced by Mount Auburn Cemetery:<br>
             <a class='indent' href="https://youtu.be/wnyYNMZpmoU" >https://youtu.be/wnyYNMZpmoU</a><Br>
-            Image source: wikipedia<br>
+            Image from wikipedia.com:<br>
             <a class='indent' href="https://en.wikipedia.org/wiki/Harriet_Jacobs" >https://en.wikipedia.org/wiki/Harriet_Jacobs</a>
-        <br>Cambridge City Directory, 1872
+        <br><i>Cambridge City Directory</i>, 1872
             `,
         photos: ["images_bios/harriet_jacobs.jpg"],
         photoTitles: [],
@@ -226,7 +226,7 @@ j_bios = [
         references: ` Grace A Johnson papers, Schlesinger Library, Radcliffe
             Institute. <a href="http://oasis.lib.harvard.edu/oasis/deliver/~sch01027" >http://oasis.lib.harvard.edu/oasis/deliver/~sch01027</a><Br>
         
-            Cambridge City Directory, 1896
+            <i>Cambridge City Directory</i>, 1896
             <Br>Image credit: History Cambridge
             <i>The Cambridge Tribune</i>,  6 November 1915
 
@@ -292,8 +292,8 @@ j_bios = [
             &#8220;A P. Jones&#8221; <em>New York Times</em> obituary June 13, 1989<br>
             P hotograph of Alice Palache and Katharine Hepburn at Bryn Mawr in the 1920s,
             Schlesinger Library collections
-            <br>Image source: <a href="https://en.wikipedia.org/wiki/Alice_Palache_Jones" >https://en.wikipedia.org/wiki/Alice_Palache_Jones</a>
-        <br>Cambridge City Directory, 1950
+            <br>Image from <a href="https://en.wikipedia.org/wiki/Alice_Palache_Jones" >https://en.wikipedia.org/wiki/Alice_Palache_Jones</a>
+        <br><i>Cambridge City Directory</i>, 1950
             `,
         photos: ["images_bios/AlicePalache.png"],
         photoTitles: [],

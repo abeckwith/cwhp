@@ -98,8 +98,8 @@ h_bios = [
             Sicherman. <em>Alice Hamilton M.D.: A life in Letters</em>. Harvard University
             Press, 1984; Ogilvie, Marilyn and Joy Harvey. <em>Biographical Dictionary of
                 Women Scientists</em> (2000).<Br>
-                Image source: wikipedia
-                <Br>&nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://en.wikipedia.org/wiki/Alice_Hamilton" >https://en.wikipedia.org/wiki/Alice_Hamilton</a>
+                Image from wikipedia.com:
+                <Br><a class='indent' href="https://en.wikipedia.org/wiki/Alice_Hamilton" >https://en.wikipedia.org/wiki/Alice_Hamilton</a>
         `,
         photos: ["images_bios/Alice_Hamilton.jpg"],
         photoTitles: [],
@@ -153,8 +153,8 @@ h_bios = [
             Office of Logic Design &#8220;About Margaret Hamilton.&quot;<Br> 
             <a class='indent'
                 href="http://klabs.org/home_page/hamilton.htm">http://klabs.org/home_page/hamilton.htm</a><br>
-                Image source: wikipedia<Br>
-                &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://en.wikipedia.org/wiki/Margaret_Hamilton_%28software_engineer%29" >https://en.wikipedia.org/wiki/Margaret_Hamilton_%28software_engineer%29</a>
+                Image from wikipedia<Br>
+                <a class='indent' href="https://en.wikipedia.org/wiki/Margaret_Hamilton_%28software_engineer%29" >https://en.wikipedia.org/wiki/Margaret_Hamilton_%28software_engineer%29</a>
                 <Br>Second image and quotest from: <i>The Cambridge Chronicle</i>,  24 November 2016
 
         `,
@@ -283,7 +283,7 @@ h_bios = [
             Harry Kreisler, &quot;Conversations with History Interview with Judith Lewis
             Herman,&quot; at Berkeley.edu<br>
             Radcliffe alumni awards website<br>
-            Image source: Judith Herman
+            Image from Judith Herman
         `,
         photos: ["images_bios/JudyHerman.jpg"],
         photoTitles: [],
@@ -552,7 +552,7 @@ h_bios = [
                 Hopkins</em>. Ed. John C. Gruesser. Urbana: U of Illinois P, 1996. Cambridge
             Public Library website &#8220;Penwomen of Cambridge Past: Biographies of
             Our Literary Foremothers&#8221;<br>
-                Image source: wikiepedia<Br>
+                Image from wikiepedia<Br>
                 <a class='indent' href="https://en.wikipedia.org/wiki/Pauline_Hopkins" >https://en.wikipedia.org/wiki/Pauline_Hopkins</a>
        <br><i>Cambridge City Directory</i>, 1928<br>
        "Echoes from the Annual Convention of Northeastern Federation of Colored Women's Clubs," <i>Colored American Magazine</i> 6.10 (Oct. 1903): 709-713
@@ -611,8 +611,9 @@ h_bios = [
             Society Boas collection (Philadelphia).`,
         otherNotes: "",
         references: ` Horsford family papers, Rensselaer Polytechnic
-            Institute Library; Cambridge Chronicle, July 2, 1998.<Br>
-            Image source: wikipedia<br>
+            Institute Library<Br>
+            <i>Cambridge Chronicle</i>, July 2, 1998.<Br>
+            Image from wikipedia:<br>
             <a class='indent' href="https://en.wikipedia.org/wiki/Cornelia_Horsford" >https://en.wikipedia.org/wiki/Cornelia_Horsford</a>
        <Br><i>Cambridge City Directory</i>, 1861
             `,
@@ -925,8 +926,8 @@ h_bios = [
             pp. 5-20. Chichester: [Novartis Foundation Symposium 224]
             <br> Online conversation
             with Frank Aqueno in 1993 <br>
-                Image source: wikipedia <a class='indent' href="https://en.wikipedia.org/wiki/Ruth_Hubbard" >https://en.wikipedia.org/wiki/Ruth_Hubbard</a>
-        <Br>Cambridge City Directory, 1963<bR>
+                Image from wikipedia:<Br> <a class='indent' href="https://en.wikipedia.org/wiki/Ruth_Hubbard" >https://en.wikipedia.org/wiki/Ruth_Hubbard</a>
+        <Br><i>Cambridge City Directory</i>, 1963<bR>
         <i>The Boston Globe</i>,"Ruth Hubbard, 92, First woman tenured in biology at Harvard, 9/4/2016.<Br>
         <i>The New York Times</i>, "Scholars Face a Challenge by Feminists" by Edward B. Fiske, Nov. 23, 1981
         `,
@@ -993,7 +994,7 @@ h_bios = [
         otherNotes: "",
         references: `<em>Notable American Women, Modern Period</em>;
             <em>Encyclopedia Britannica</em>, <em>Wikipedia</em><Br>
-            Image source: wikipedia<Br>
+            Image from wikipedia<Br>
              <a class='indent' href="https://en.wikipedia.org/wiki/Anna_Hyatt_Huntington" >https://en.wikipedia.org/wiki/Anna_Hyatt_Huntington</a>
         <Br><i>Cambridge City Directory</i>, 1876<br>
         <a class='indent' href="https://www.artnews.com/art-news/news/celebrating-anna-hyatt-huntington-2371/>Art News article, 2014</a>

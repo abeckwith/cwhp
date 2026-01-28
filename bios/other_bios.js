@@ -62,7 +62,7 @@
             <em>Encyclopedia Britannica </em>(2006)<Br>
             <a href="https://www.britannica.com/biography/Constance-M-K-Applebee" >https://www.britannica.com/biography/Constance-M-K-Applebee</a><br>
             January 5, 1959 Sports Illustrated<br>
-            Photo source: wikipedia
+            Image from wikipedia
         `,
         photos: ["images_bios/constance applebee.jpg"],
         photoTitles: [],
@@ -167,7 +167,7 @@
             `,
         otherNotes: "",
         references: `<em>Notable American Women</em>; <em>Cambridge
-                Chronicle</em> 12-13-00<Br>Photo source: wikipedia
+                Chronicle</em> 12-13-00<Br>Image from wikipedia
                 <br>"A summary history of New-England: from the first settlement at Plymouth, to the acceptance of the federal Constitution", Hannah Adams, 1799. Access 
                 this book online here: <a href="https://archive.org/details/summaryhistoryof00adamrich/mode/2up">
                 https://archive.org/details/summaryhistoryof00adamrich/mode/2up</a>
@@ -225,7 +225,7 @@
         references: `<em> American Women: 1500 Hundred Biographies</em>,
             Frances E. Willard and Mary A. Livermore (eds.), Volume I, (1897)<Br><em>Notable
                 American Women</em> (1950)<Br><em>Encyclopedia Americana</em>, 1995<Br>
-Image source: <a href="https://en.wikipedia.org/wiki/Charlotte_Cushman" >https://en.wikipedia.org/wiki/Charlotte_Cushman</a>
+Image from <a href="https://en.wikipedia.org/wiki/Charlotte_Cushman" >https://en.wikipedia.org/wiki/Charlotte_Cushman</a>
         `,
         photos: ["images_bios/Charlotte_Cushman_(Sully,_1843).jpg"],
         photoTitles: [],
@@ -334,7 +334,7 @@ Image source: <a href="https://en.wikipedia.org/wiki/Charlotte_Cushman" >https:/
             https://www.ancestry.com/family-tree/person/tree/4314195/person/132430538456</a>/<Br>
 
             U.S. Census, 1880<Br>
-            Image source: <a href="https://en.wikipedia.org/wiki/Sophia_Hayden" >https://en.wikipedia.org/wiki/Sophia_Hayden</a>
+            Image from <a href="https://en.wikipedia.org/wiki/Sophia_Hayden" >https://en.wikipedia.org/wiki/Sophia_Hayden</a>
         `,
         photos: ["images_bios/Sophia_Bennett.jpg"],
         photoTitles: [],
@@ -388,7 +388,7 @@ Image source: <a href="https://en.wikipedia.org/wiki/Charlotte_Cushman" >https:/
             Marilyn and Joy Harvey <em>Dictionary of Women Scientists </em>(2000); Ancker,
             Jessica Scalzi, <em>Domesticity, Science, and Social Control: Ellen Swallow
                 Richards and the New England Kitchen</em> (1987).<br>
-                Image source: <a href="https://en.wikipedia.org/wiki/Ellen_Swallow_Richards" >https://en.wikipedia.org/wiki/Ellen_Swallow_Richards</a>
+                Image from <a href="https://en.wikipedia.org/wiki/Ellen_Swallow_Richards" >https://en.wikipedia.org/wiki/Ellen_Swallow_Richards</a>
         `,
         photos: ["images_bios/Ellen_Swallow_Richards.jpg"],
         photoTitles: [],
