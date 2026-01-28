@@ -87,9 +87,11 @@ r_bios = [
             <br>
             Amy Miller, &quot;Curious George moves into Harvard Square,&quot; <em>Cambridge
                 Chronicle</em>, July 25, 1996.<Br>
-            <Br>Cambridge City Directory, 1965
-        <Br><a href="https://www.csmonitor.com/1996/0523/052396.feat.books.3.html">https://www.csmonitor.com/1996/0523/052396.feat.books.3.html</a>
-                Image source: <a href="https://en.wikipedia.org/wiki/Margret_Rey" target="_self">https://en.wikipedia.org/wiki/Margret_Rey</a>
+            <Br><i>Cambridge City Directory</i>, 1965
+        <Br><i>Christian Science Monitor</i> interview, May 23, 1996<Br>
+        <a class='indent' href="https://www.csmonitor.com/1996/0523/052396.feat.books.3.html">https://www.csmonitor.com/1996/0523/052396.feat.books.3.html</a>
+                Image source: wikipedia<br>
+                <a class='indent' href="https://en.wikipedia.org/wiki/Margret_Rey" >https://en.wikipedia.org/wiki/Margret_Rey</a>
                 `,
         photos: ["images_bios/reys.jpg"],
         photoTitles: ["Margaret and Hans Rey"],
@@ -141,15 +143,17 @@ r_bios = [
             Vol. 20, No. 4, 734-736 (1992)<br>
             Wrenn, Robert L., &quot;The Evolution of Anne Roe,&quot; <em>J Counseling &amp;
                 Development</em> 63: 267-75, Jan 1985.<Br>
-                Cambridge City Directory, 1965<br>
-                Birth date from <a href="https://www.ancestry.com/family-tree/person/tree/71942149/person/292480937875/facts?_phsrc=prV2552&_phstart=successSource">
+                <I>Cambridge City Directory</i>, 1965<br>
+                Birth date from ancestry.com<Br>
+                <a class='indent' href="https://www.ancestry.com/family-tree/person/tree/71942149/person/292480937875/facts?_phsrc=prV2552&_phstart=successSource">
                 https://www.ancestry.com/family-tree/person/tree/71942149/person/292480937875/facts?_phsrc=prV2552&_phstart=successSource</a>
-                Image source: <a href="https://en.wikipedia.org/wiki/Anne_Roe" target="_self">https://en.wikipedia.org/wiki/Anne_Roe</a>
+                Image source: wikipedia<Br>
+                 <a class='indent' href="https://en.wikipedia.org/wiki/Anne_Roe">https://en.wikipedia.org/wiki/Anne_Roe</a>
         `,
         photos: ["images_bios/Anne_Roe.jpg"],
         photoTitles: [],
-        dateCreated: "prior to 2009",dateUpdated:
- "04.07.2025",
+        dateCreated: "prior to 2009",
+        dateUpdated:"04.07.2025",
         
         photoHeights: [],
         editors:"",
@@ -222,12 +226,12 @@ r_bios = [
             Obituary, <em>Boston Traveler</em>, March 2, 1964.<br>
             Roorbach, Anne. &#8220;Harvard's Glass Flowers.&#8221; <em>American German
                 Review</em>, June 1937, 14-17.
-                <br>Cambridge City Directory, 1921
+                <br><i>Cambridge City Directory</i>, 1921
         `,
         photos: ["images_bios/Anne%20Roorbach%20small.jpeg"],
         photoTitles: [],
-        dateCreated: "prior to 2009",dateUpdated:
- "",
+        dateCreated: "prior to 2009",
+        dateUpdated:"",
         
         photoHeights: [],
         editors:"",
@@ -284,9 +288,10 @@ r_bios = [
             article by Bryan Marquard, <em>Boston Globe</em> January 25, 2007<br>
             Obituary, <em>Cambridge Chronicle</em>
             (under Betty A. Rubinow) January 22, 2007<Br>
-            Cambridge City Directory, 1961<Br>
+            <i>Cambridge City Directory</i>, 1961<Br>
             <i>The Boston Globe</i>, Jan 25, 2007<Br>
-            <br>Image source: <A href="https://www.vtcng.com/stowereporter/archives/betty-ann-orlov-rubinow/article_5b7f7b21-06cb-5708-ae30-d74b45d2059f.html" target="_self">
+            <br>Image source: <i>Vermont Community Newspaper Group<nr>
+            <A class='indent' href="https://www.vtcng.com/stowereporter/archives/betty-ann-orlov-rubinow/article_5b7f7b21-06cb-5708-ae30-d74b45d2059f.html" >
             https://www.vtcng.com/stowereporter/archives/betty-ann-orlov-rubinow/article_5b7f7b21-06cb-5708-ae30-d74b45d2059f.html</a>
         `,
         photos: ["images_bios/rubinow.webp"],

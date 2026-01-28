@@ -40,8 +40,7 @@ v_bios = [
         photos: ["images_bios/JuliaV.jpg"],
         photoTitles: ["Photo Courtesy of Sylvia Saavedra-Keber"],
         dateCreated: "prior to 2009",
-        dateUpdated:
- "04.06.2025",
+        dateUpdated:"04.06.2025",
         
         photoHeights: [],
         editors:"",
@@ -113,7 +112,7 @@ v_bios = [
         2004 learner.og profile<br>
         2004 Kennedy Center artist detail 
         <br> <i>The Boston Globe</i>, Apr 01, 2001, p.238<Br>
-        Birthdate from U.S., Public Records Index, 1950-1993, Volume 1`,
+        Birthdate from <i>U.S., Public Records Index</i>, 1950-1993, Volume 1`,
         photos: [""],
         photoTitles: [],
         dateCreated: "prior to 2009",

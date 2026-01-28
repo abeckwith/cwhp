@@ -46,7 +46,7 @@ h_bios = [
             Papers, 1797-1991 of the Curtis family, Schlesinger Library<em><br>
                 Cambridge Chronicle</em> October 21, 1993.<br>
             corrections and additions by her children<br>
-            Cambridge City Directory, 1961
+            <i>Cambridge City Directory</i>, 1961
         `,
         photos: ["images_bios/Isabella%20Halsted%20small.jpeg"],
         photoTitles: ["Photo of Isabella Halsted by Nancy Scanlan"],
@@ -98,7 +98,8 @@ h_bios = [
             Sicherman. <em>Alice Hamilton M.D.: A life in Letters</em>. Harvard University
             Press, 1984; Ogilvie, Marilyn and Joy Harvey. <em>Biographical Dictionary of
                 Women Scientists</em> (2000).<Br>
-                Image source: <a href="https://en.wikipedia.org/wiki/Alice_Hamilton" target="_self">https://en.wikipedia.org/wiki/Alice_Hamilton</a>
+                Image source: wikipedia
+                <Br>&nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://en.wikipedia.org/wiki/Alice_Hamilton" >https://en.wikipedia.org/wiki/Alice_Hamilton</a>
         `,
         photos: ["images_bios/Alice_Hamilton.jpg"],
         photoTitles: [],
@@ -149,9 +150,11 @@ h_bios = [
              now-famous photo, showing her next to a printout of her MIT team's Appolo code, began circulating online.</blockquote>  `,
         otherNotes: "",
         references: ` Earlham College press release March 4, 2005; NASA
-            Office of Logic Design &#8220;About Margaret Hamilton.&quot; <a
-                href="http://klabs.org/home_page/hamilton.htm" target="_self">http://klabs.org/home_page/hamilton.htm</a><br>
-                Image source: <a href="https://en.wikipedia.org/wiki/Margaret_Hamilton_%28software_engineer%29" target="_self">https://en.wikipedia.org/wiki/Margaret_Hamilton_%28software_engineer%29</a>
+            Office of Logic Design &#8220;About Margaret Hamilton.&quot;<Br> 
+            <a class='indent'
+                href="http://klabs.org/home_page/hamilton.htm">http://klabs.org/home_page/hamilton.htm</a><br>
+                Image source: wikipedia<Br>
+                &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://en.wikipedia.org/wiki/Margaret_Hamilton_%28software_engineer%29" >https://en.wikipedia.org/wiki/Margaret_Hamilton_%28software_engineer%29</a>
                 <Br>Second image and quotest from: <i>The Cambridge Chronicle</i>, Volume 170, Number 55, 24 November 2016
 
         `,
@@ -340,10 +343,11 @@ h_bios = [
             2002<Br>
              <em>Cambridge Chronicle</em> June 5 2002. 
              <Br>Biographical note, Archive of
-            Women in Theological Scholarship by Leslie Reyman: (October 2000) <a
+            Women in Theological Scholarship by Leslie Reyman: (October 2000) <Br>
+            &nbsp;&nbsp;&nbsp;&nbsp;<a
                 href="http://www.columbia.edu/cu/lweb/img/assets/6396/Hiatt_SFA51305PDF.pdf">http://www.columbia.edu/cu/lweb/img/assets/6396/Hiatt_SFA51305PDF.pdf</a>
        <br>Image sources: Collection info, The Burke Library at Union Theological Seminary, Columbia University in the City of New York
-       <Br>1989 Cambridge Telephone book
+       <Br><i>Cambridge Telephone book</i>, 1989 
                 `,
         photos: [
             "images_bios/suzanne_hiatt2.jpg",
@@ -403,7 +407,8 @@ h_bios = [
         otherNotes: "",
         references: ` Finding aid and list of archives, William Ernest Hocking papers, Houghton
             Library Harvard University.<Br>
-            Image used wth permission from Shady Hill School (<a href="https://www.shs.org/" target="_self">https://www.shs.org/</a>)
+            Image used wth permission from Shady Hill School <Br>
+            <a class='indent' href="https://www.shs.org/" >https://www.shs.org/</a>
         `,
         photos: ["images_bios/agnes_hocking.jpeg"],
         photoTitles: [],
@@ -547,9 +552,10 @@ h_bios = [
                 Hopkins</em>. Ed. John C. Gruesser. Urbana: U of Illinois P, 1996. Cambridge
             Public Library website &#8220;Penwomen of Cambridge Past: Biographies of
             Our Literary Foremothers&#8221;<br>
-                Image source: <a href="https://en.wikipedia.org/wiki/Pauline_Hopkins" target="_self">https://en.wikipedia.org/wiki/Pauline_Hopkins</a>
-       <br>Cambridge City Directory, 1928<br>
-       "Echoes from the Annual Convention of Northeastern Federation of Colored Women's Clubs," Colored American Magazine 6.10 (Oct. 1903): 709-713
+                Image source: wikiepedia<Br>
+                <a class='indent' href="https://en.wikipedia.org/wiki/Pauline_Hopkins" >https://en.wikipedia.org/wiki/Pauline_Hopkins</a>
+       <br><i>Cambridge City Directory</i>, 1928<br>
+       "Echoes from the Annual Convention of Northeastern Federation of Colored Women's Clubs," <i>Colored American Magazine</i> 6.10 (Oct. 1903): 709-713
         <Br>"Pauline Elizabeth Hopkins: Black Daughter of the Revolution", by Lois Brown, 2008, Univeristy of North Carolina Press       `,
         photos: [ "images_bios/Hopkins2.png", "images_bios/Pauline_Elizabeth_Hopkins.jpg"],
         photoTitles: [],
@@ -606,7 +612,8 @@ h_bios = [
         otherNotes: "",
         references: ` Horsford family papers, Rensselaer Polytechnic
             Institute Library; Cambridge Chronicle, July 2, 1998.<Br>
-            Image source: <a href="https://en.wikipedia.org/wiki/Cornelia_Horsford" target="_self">https://en.wikipedia.org/wiki/Cornelia_Horsford</a>
+            Image source: wikipedia<br>
+            <a class='indent' href="https://en.wikipedia.org/wiki/Cornelia_Horsford" >https://en.wikipedia.org/wiki/Cornelia_Horsford</a>
        <Br>Cambridge City Directory, 1861
             `,
         photos: ["images_bios/Cornelia_Horsford.jpg"],
@@ -918,7 +925,7 @@ h_bios = [
             pp. 5-20. Chichester: [Novartis Foundation Symposium 224]
             <br> Online conversation
             with Frank Aqueno in 1993 <br>
-                Image source: <a href="https://en.wikipedia.org/wiki/Ruth_Hubbard" target="_self">https://en.wikipedia.org/wiki/Ruth_Hubbard</a>
+                Image source: wikipedia <a class='indent' href="https://en.wikipedia.org/wiki/Ruth_Hubbard" >https://en.wikipedia.org/wiki/Ruth_Hubbard</a>
         <Br>Cambridge City Directory, 1963<bR>
         <i>The Boston Globe</i>,"Ruth Hubbard, 92, First woman tenured in biology at Harvard, 9/4/2016.<Br>
         <i>The New York Times</i>, "Scholars Face a Challenge by Feminists" by Edward B. Fiske, Nov. 23, 1981
@@ -986,9 +993,10 @@ h_bios = [
         otherNotes: "",
         references: `<em>Notable American Women, Modern Period</em>;
             <em>Encyclopedia Britannica</em>, <em>Wikipedia</em><Br>
-            Image source: <a href="https://en.wikipedia.org/wiki/Anna_Hyatt_Huntington" target="_self">https://en.wikipedia.org/wiki/Anna_Hyatt_Huntington</a>
-        <Br>Cambridge City Directory, 1876<br>
-        <a href="https://www.artnews.com/art-news/news/celebrating-anna-hyatt-huntington-2371/>Art News article, 2014</a>
+            Image source: wikipedia<Br>
+             <a class='indent' href="https://en.wikipedia.org/wiki/Anna_Hyatt_Huntington" >https://en.wikipedia.org/wiki/Anna_Hyatt_Huntington</a>
+        <Br><i>Cambridge City Directory</i>, 1876<br>
+        <a class='indent' href="https://www.artnews.com/art-news/news/celebrating-anna-hyatt-huntington-2371/>Art News article, 2014</a>
             `,
         photos: ["images_bios/Anna_Vaughn_Hyatt.jpg"],
         photoTitles: [],
@@ -1129,14 +1137,14 @@ h_bios = [
               Harvard College Observatory</b> project:
             <center>
              <h1>
-                <a href="https://platestacks.cfa.harvard.edu/women-at-hco/marian-alberta-hawes" target="_self">Marian Henry's story</a>
+                <a href="https://platestacks.cfa.harvard.edu/women-at-hco/marian-alberta-hawes" >Marian Henry's story</a>
              </h1>
      </center>
-        The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_self">Women Astronomical 
+        The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" >Women Astronomical 
         Computers at the Harvard College Observatory</a> project is 
         dedicated to highlighting the lives and work of women who spent time studying and caring 
         for the observatory's glass plate photograph collection.<Br>
-        <center>       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_self"> <img src="images_bios/harvard-astronomers.png" width='350'></a>
+        <center>       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" > <img src="images_bios/harvard-astronomers.png" width='350'></a>
         
         </center>
 `,

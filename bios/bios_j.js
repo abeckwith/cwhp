@@ -56,9 +56,9 @@ j_bios = [
                 Slave Girl</em> (Simon &amp; Schuster
             2003)<br>
             Harriet Jacobs website by Julie Adams<br>
-            View a <a href="https://youtu.be/wnyYNMZpmoU" target="_self">video history of Harriet Jacobs' life</a> produced by Mount
+            View a <a href="https://youtu.be/wnyYNMZpmoU" >video history of Harriet Jacobs' life</a> produced by Mount
             Auburn Cemetery.<br>
-            Image source: <a href="https://en.wikipedia.org/wiki/Harriet_Jacobs" target="_self">https://en.wikipedia.org/wiki/Harriet_Jacobs</a>
+            Image source: <a href="https://en.wikipedia.org/wiki/Harriet_Jacobs" >https://en.wikipedia.org/wiki/Harriet_Jacobs</a>
         <br>Cambridge City Directory, 1872
             `,
         photos: ["images_bios/harriet_jacobs.jpg"],
@@ -219,7 +219,7 @@ j_bios = [
             Nations.`,
         otherNotes: "",
         references: ` Grace A Johnson papers, Schlesinger Library, Radcliffe
-            Institute. <a href="http://oasis.lib.harvard.edu/oasis/deliver/~sch01027" target="_self">http://oasis.lib.harvard.edu/oasis/deliver/~sch01027</a><Br>
+            Institute. <a href="http://oasis.lib.harvard.edu/oasis/deliver/~sch01027" >http://oasis.lib.harvard.edu/oasis/deliver/~sch01027</a><Br>
         
             Cambridge City Directory, 1896
             <Br>Image credit: History Cambridge
@@ -287,7 +287,7 @@ j_bios = [
             &#8220;A P. Jones&#8221; <em>New York Times</em> obituary June 13, 1989<br>
             P hotograph of Alice Palache and Katharine Hepburn at Bryn Mawr in the 1920s,
             Schlesinger Library collections
-            <br>Image source: <a href="https://en.wikipedia.org/wiki/Alice_Palache_Jones" target="_self">https://en.wikipedia.org/wiki/Alice_Palache_Jones</a>
+            <br>Image source: <a href="https://en.wikipedia.org/wiki/Alice_Palache_Jones" >https://en.wikipedia.org/wiki/Alice_Palache_Jones</a>
         <br>Cambridge City Directory, 1950
             `,
         photos: ["images_bios/AlicePalache.png"],

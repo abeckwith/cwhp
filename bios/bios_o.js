@@ -49,13 +49,13 @@ o_bios = [
             Cambridge.`,
         otherNotes: "",
         references: `
-            Written by Kimm Topping, printed in <em>Mapping Feminist Cambridge</em> guidebook, 2019: <a
+            Written by Kimm Topping, printed in <em>Mapping Feminist Cambridge</em> guidebook, 2019<Br> <a class='indent' 
                 href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a>
             <br>
-            The Oral History Center archive is housed at Northeastern University. <a
-                href="https://repository.library.northeastern.edu/collections/neu:cj82kw07t" target="_self">https://repository.library.northeastern.edu/collections/neu:cj82kw07t</a>
+            The Oral History Center archive is housed at Northeastern University<br> <a
+class='indent' href="https://repository.library.northeastern.edu/collections/neu:cj82kw07t" >https://repository.library.northeastern.edu/collections/neu:cj82kw07t</a>
         <br><i>The Cambridge Chronicle</i>, Volume 143, Number 16, 20 April 1989<br>
-        Photo from: <a href="https://repository.library.northeastern.edu/files/neu:m0427d80x">
+        Photo from Northeastern University<br> <a class='indent' href="https://repository.library.northeastern.edu/files/neu:m0427d80x">
         https://repository.library.northeastern.edu/files/neu:m0427d80x</a>
                 `,
         photos: ["images_bios/oralhistory.jpg"],

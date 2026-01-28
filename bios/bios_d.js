@@ -32,8 +32,8 @@ d_bios = [
             papers in Houghton, Harvard University Library.<Br>
             Image courtesy of the National Park Service, Longfellow House-Washington's Headquarters National Historic Site
             <br> (image ID 3004.002/001-#253)<br>
-Birth and death dates:            <a href="https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana">
-https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
+            Birth and death dates frome FindaGrave.com
+            <Br>&nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana">https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
         `,
         photos: ["images_bios/elizabeth_dana.jpg"],
         photoTitles: [],
@@ -76,7 +76,7 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
             entered elementary school. <br>
             `,
         otherNotes: "",
-        references: `<em>Teaching Tolerance</em> magazine Number
+        references: `<em>Teaching Tolerance</em> magazine, Number
             24, Fall 2003.
             <Br><i>Cambridge Chronicle</i>30 Nov 72
         `,
@@ -138,7 +138,7 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
             New York, (1952)<br>
             Biography, Finding Aid Mabel Wheeler Daniels Papers, Schlesinger
             Library, Radcliffe Institute.<Br>
-            Cambridge City Directory, 1968
+            <I>Cambridge City Directory</i>, 1968
         `,
         photos: ["images_bios/mabel daniels.jpg"],
         photoTitles: [],
@@ -150,7 +150,7 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
         authors: "CWHP volunteers",
         categories: ["Musician"],
     },
- 
+
     {
         poc: false,
         organization: false,
@@ -190,8 +190,9 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
         otherNotes: "",
         references: ` <em>Cambridge Chronicle</em>May 4, 1961, 4 February 1965, 10 January 1974, Jan 17, 2001
         <Br>Image source: <em>Boston Globe</em>Sept. 13, 1993
-        <Br>U.S., Social Security Applications and Claims Index, 1936-2007
-        <Br><a href="https://www.findagrave.com/memorial/210753844/sybil-noble-darbeloff">
+        <Br><i>U.S., Social Security Applications and Claims Index</i>, 1936-2007
+        <Br>FindAGrave.com<Br>
+        &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://www.findagrave.com/memorial/210753844/sybil-noble-darbeloff">
         https://www.findagrave.com/memorial/210753844/sybil-noble-darbeloff</a>
 
         `,
@@ -263,13 +264,14 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
 
         <em>Cambridge Chronicle</em>  17 December 1953, 30 March 1967, 3 May 1977, 18 October 1979<br>
         <em>The Boston Globe</em>, July 17 1995 <Br>
-        <a href="https://www.cambridgema.gov/Departments/cambridgepolice/aboutthedepartment/departmenthistory" target="_self">
-        https://www.cambridgema.gov/Departments/cambridgepolice/aboutthedepartment/departmenthistory</a><Br>
-        1930 U.S. Census<Br>
-        Cambridge City Directory 1954, 1961<Br>
+        Cambridge Police Department History<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://www.cambridgema.gov/Departments/cambridgepolice/aboutthedepartment/departmenthistory">https://www.cambridgema.gov/Departments/cambridgepolice/aboutthedepartment/departmenthistory</a><Br>
+        <i>U.S. Census</i> 1930<Br>
+        <i>Cambridge City Directory</i> 1954, 1961<Br>
         U.S. Dept. of Veteran Affairs <em>BIRLS Death File</em><Br>
         <Br>
         Image source: Cambridge Police Department Facebook page post: Mar. 7, 2019 <br>
+        &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://www.facebook.com/CambridgePolice/posts/pfbid027e1x9n6tt7ptBYiYNwW71f3QFrYmrhohWCt2yB24pryzyq2rU6rLn8yqZe2mrxsJl">https://www.facebook.com/CambridgePolice/posts/pfbid027e1x9n6tt7ptBYiYNwW71f3QFrYmrhohWCt2yB24pryzyq2rU6rLn8yqZe2mrxsJl</a>
         `,
         photos: ["images_bios/louise_nelson.jpg"],
         photoTitles: [],
@@ -331,8 +333,9 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
         references: `Gallo, Marcia M. <em>Different Daughters: A history
                 of the Daughters of
                 Bilitis and the Birth of the Lesbian Rights Movement</em>, Carroll &amp; Graf, 2006.<br>
-                <i>Cambridge Day</i>, October 31, 2024 <a href="https://www.cambridgeday.com/2024/03/31/sarah-boyers-coming-out-becoming-ourselves-takes-daughters-from-secret-society-to-acceptance/">
-                Interview with Sarah Boyer</a><br>
+                <i>Cambridge Day</i>, October 31, 2024 <Br>
+                Interview with Sarah Boyer<Br>
+                &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://www.cambridgeday.com/2024/03/31/sarah-boyers-coming-out-becoming-ourselves-takes-daughters-from-secret-society-to-acceptance/">https://www.cambridgeday.com/2024/03/31/sarah-boyers-coming-out-becoming-ourselves-takes-daughters-from-secret-society-to-acceptance/</a><br>
                 <i>Cambridge Chronicle</i> October 30, 1981, 5 April 1984, 11 November 1993
 
 
@@ -404,10 +407,10 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
         `,
         otherNotes: "",
         references: `
-            Henrietta Davis website bio, <a href="http://www.henriettadavis.org" target="_self"
-                >http://www.henriettadavis.org</a> <br>
-            Oral history interview with Henrietta Davis, <a href="https://infinitehistory.mit.edu/video/henrietta-davis" target="_self"
-                >https://infinitehistory.mit.edu/video/henrietta-davis</a> <br>
+            Henrietta Davis website bio<br>
+            &nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.henriettadavis.org">http://www.henriettadavis.org</a> <br>
+            Oral history interview with Henrietta Davis<Br>
+            &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://infinitehistory.mit.edu/video/henrietta-davis">https://infinitehistory.mit.edu/video/henrietta-davis</a> <br>
             Board Member Bio, ICLEI website<Br>
                         Photo credit: Richard Bock
 
@@ -485,28 +488,30 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
                 `,
         otherNotes: "",
         references: `
-                Deihl, Marcia. &ldquo;Marcia Deihl Home.&rdquo; Marcia-Mellow-D Blogspot. 2013. <a
-                    href="http://marcia-mellow-d.blogspot.com" target="new">http://marcia-mellow-d.blogspot.com</a>.
+                Deihl, Marcia. &ldquo;Marcia Deihl Home.&rdquo; Marcia-Mellow-D Blogspot. 2013<br> 
+                &nbsp;&nbsp;&nbsp;&nbsp;<a
+                    href="http://marcia-mellow-d.blogspot.com" >http://marcia-mellow-d.blogspot.com</a>.
                 <br>
                 Deihl, Marcia. Papers of Marcia Deihl, 1965-2011 (inclusive). Schlesinger Library on the History of
                 Women in America, Radcliffe Institute for Advanced Study, 2009-M153, 2016-M80. Web. 31 March 2019.
-               <a href="http://id.lib.harvard.edu/alma/990120776210203941/catalog"
-                    target="new">http://id.lib.harvard.edu/alma/990120776210203941/catalog</a>. <br>
+               <Br>&nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="http://id.lib.harvard.edu/alma/990120776210203941/catalog"
+                    >http://id.lib.harvard.edu/alma/990120776210203941/catalog</a>. <br>
                 Ely, Elissa. &ldquo;Marcia Deihl.&rdquo; The Remembrance Project. WBUR. Boston, Massachusetts. July 7,
-                2015. Radio. <a
+                2015. Radio. <br>&nbsp;&nbsp;&nbsp;&nbsp;<a
                     href="https://www.wbur.org/remembrance-project/2015/07/07/the-remembrance-project-marcia-deihl"
-                    target="new">https://www.wbur.org/remembrance-project/2015/07/07/the-remembrance-project-marcia-deihl</a>.
+                    >https://www.wbur.org/remembrance-project/2015/07/07/the-remembrance-project-marcia-deihl</a>.
                 <br>
                 Hale, Kendall. <em>Radical Passions</em>. Bloomington: iUniverse, 2008. E-book. <br>
                 New Harmony Sisterhood Band. &hellip;And Ain&rsquo;t I a Woman, Paredon Records, 1977. Smithsonian
-                Center for Folklife and Cultural Heritage. Web. 31 March. 2019. <a
+                Center for Folklife and Cultural Heritage. Web. 31 March. 2019.<br>&nbsp;&nbsp;&nbsp;&nbsp; <a
                     href="https://folkways.si.edu/new-harmony-sisterhood-band/and-aint-i-a-woman/african-american-music-folk-struggle-protest/album/smithsonian"
-                    target="new">https://folkways.si.edu/new-harmony-sisterhood-band/and-aint-i-a-woman/african-american-music-folk-struggle-protest/album/smithsonian</a>.
-                <a href="https://sirismm.si.edu/EADpdfs/CFCH.PARE.pdf"
-                    target="new">https://sirismm.si.edu/EADpdfs/CFCH.PARE.pdf</a>. <br>
+                    >https://folkways.si.edu/new-harmony-sisterhood-band/and-aint-i-a-woman/african-american-music-folk-struggle-protest/album/smithsonian</a>.
+                <Br>Smithsonian Center for Folklife and Heritage, <i>Paredon Records collection (Archivo
+de Paredon Records), circa 1964-2007</i><br>&nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://sirismm.si.edu/EADpdfs/CFCH.PARE.pdf"
+                    >https://sirismm.si.edu/EADpdfs/CFCH.PARE.pdf</a>. <br>
                 Seligson, Susan. &ldquo;The Good Life of Marcia Deihl.&rdquo; <em>Bostonia</em>. Winter Spring, 2016.
-                <a href="http://www.bu.edu/bostonia/winter-spring16/marcia-deihl-cambridge/"
-                    target="new">http://www.bu.edu/bostonia/winter-spring16/marcia-deihl-cambridge/</a>.</span><br>
+               <br>&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.bu.edu/bostonia/winter-spring16/marcia-deihl-cambridge/"
+                    >http://www.bu.edu/bostonia/winter-spring16/marcia-deihl-cambridge/</a>.</span><br>
                  Photo
                 by Betsy Sowers<br>
                  Photo courtesy of Deborah Silverstein. <Br>
@@ -640,7 +645,8 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
             <em>The Worcester Phoenix</em>, November 12 - 19, 1999<br>
             McIntire, D. <em>International Who's Who in Poetry and Poets' Encyclopedia</em>,
             Routledge, 2001, p. 139-40.<br>
-            <a href="http://www.cervenabarvapress.com/der-hovanessianinterview.htm">
+            Červená Barva Press interview<Br>
+            &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="http://www.cervenabarvapress.com/der-hovanessianinterview.htm">
             http://www.cervenabarvapress.com/der-hovanessianinterview.htm</a><br>
             <i>The Cambridge Chronicle</i>, 9 June 1988<br>
             <i>Boston Globe</i> obit, March 4, 2018
@@ -705,9 +711,9 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
             New York, 1991. <br>
             Roazen, Paul. <em>Helene Deutsch, A Psychoanalyst's Life</em>,
             (Garden City, N.Y, 1985)<br>
-            Finding aid, Helene (Rosenbach) Deutsch papers, Schlesinger
+            <i>Finding aid</i>, Helene (Rosenbach) Deutsch papers, Schlesinger
             Library.<br>
-            Cambridge City Directory, 1963.
+            <i>Cambridge City Directory</i>, 1963.
         `,
         photos: ["images_bios/Helene-Deutsch.jpg"],
         photoTitles: [],
@@ -792,7 +798,8 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
             <em>Notable American
                 Women</em> (1950) Vol I.<Br>
     
-            Photo of Dorothea Lynde Dix from https://en.wikipedia.org/wiki/Dorothea_Dix#/media/File:Dorothea_Dix_1802%E2%80%931887.jpg
+            Photo of Dorothea Lynde Dix from wikipedia<Br>
+            &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://en.wikipedia.org/wiki/Dorothea_Dix#/media/File:Dorothea_Dix_1802%E2%80%931887.jpg">https://en.wikipedia.org/wiki/Dorothea_Dix#/media/File:Dorothea_Dix_1802%E2%80%931887.jpg</a>
         
         <br><i>The Cambridge Chronicle</i>, Volume XV, Number 5, 4 February 1860
 
@@ -848,7 +855,8 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
             Charles Hagen, &#8220;Review/Art<br>
             When the Outside World Is Danger <em>New York Times</em> December 27, 1991<br>
             Cambridge Arts Council website<br>
-            <a href="http://www.ellendriscoll.net">http://www.ellendriscoll.net
+            Ellen Driscoll's website<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="http://www.ellendriscoll.net">http://www.ellendriscoll.net</a>
         `,
         photos: ["images_bios/driscoll_small.jpg"],
         photoTitles: [],
@@ -898,8 +906,8 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
         references: `
             Ogilvie, Marilyn and Joy Harvey. Biographical Dictionary
             of Women Scientists. Routledge Press, 2000<Br>
-            Cambridge City Directory, 1968<Br>
-            Massachusetts, U.S., Death Index, 1970-2003
+            <i>Cambridge City Directory</i> 1968<Br>
+            <i>Massachusetts Death Index</i>, 1970-2003
 
         `,
         photos: ["images_bios/Cora_Du_Bois_(cropped).jpg"],
@@ -972,7 +980,8 @@ https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
             September 2002<br>
             Vanessa E. Jones &quot;The way of oneness&quot;<br>
             <em>Boston Globe</em> April 19, 2006<Br>
-            <a href="http://www.undoingsilence.org">http://www.undoingsilence.org</a>
+            Undoing Silence website<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="http://www.undoingsilence.org">http://www.undoingsilence.org</a>
         `,
         photos: ["images_bios/Louise%20Dunlap.jpg"],
         photoTitles: ["Louise Dunlap. Photo by Skip Schiel"],

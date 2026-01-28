@@ -31,8 +31,9 @@ g_bios = [
             her 90th birthday at the church where she was the oldest member. At her death,
             the City of Cambridge memorialized her passing.`,
         otherNotes: "",
-        references: ` Oral interview by Sarah Boyer.<Br>City of Cambridge
-            vital statistics, Cambridge City Clerk's office.<br>
+        references: ` Oral interview by Sarah Boyer.<Br>
+        <i>City of Cambridge
+            vital statistics</i>, Cambridge City Clerk's office.<br>
             <i>Cambridge Chronicle</a>, February 6, 2002
         `,
         photos: [""],
@@ -167,7 +168,8 @@ g_bios = [
             published national bi-monthly newsletters.`,
         otherNotes: "",
         references: `Written by Kimm Topping, printed in <em>Mapping Feminist Cambridge</em>
-            guidebook, 2019: <a
+            guidebook, 2019<Br>
+            &nbsp;&nbsp;&nbsp;&nbsp;<a
                 href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a>
             <br>
             The Goddard-Cambridge Graduate Program in Social Change archive has been deposited at the University of
@@ -242,22 +244,22 @@ g_bios = [
             <br>
             &quot;Louise Gluck&quot; The Academy of American Poets &#8211; Louise Gluck&quot;
             Date accessed: 12/7/2005 <a
-                href="http://www.poets.org/poet.php/prmPID/82" target="_self">http://www.poets.org/poet.php/prmPID/82</a><br>
+                href="http://www.poets.org/poet.php/prmPID/82" >http://www.poets.org/poet.php/prmPID/82</a><br>
             &quot;Louise Gluck&quot; NNDB: Tracking the Entire World. Soylent Communications
             2005. Date accessed: 12/7/2005 <a
-                href="http://www.nndb.com/people/036/000068829" target="_self">http://www.nndb.com/people/036/000068829</a><br>
+                href="http://www.nndb.com/people/036/000068829" >http://www.nndb.com/people/036/000068829</a><br>
             Atkins, Christine. &quot;Wishing for Another Poem: The Poetry and Essays of
             Louise Gluck&quot; The New York State Writer's Institute Writer's Online Vol.
             1 No. 4 (Summer 1997). Date accessed: 12/7/2005 <a
-                href="http://www.english.uiuc.edu/maps/poets/g_l/gluck/about.htm" target="_self">
+                href="http://www.english.uiuc.edu/maps/poets/g_l/gluck/about.htm" >
                 http://www.english.uiuc.edu/maps/poets/g_l/gluck/about.htm</a><br>
             Hass, Robert &quot;About Louise Gluck&quot; Modern American Poetry
           
-            Brief Biography, <a href="http://www.helical-library.net/gluck/bio.asp" target="_self">http://www.helical-library.net/gluck/bio.asp</a>. Date accessed:
+            Brief Biography, <a href="http://www.helical-library.net/gluck/bio.asp" >http://www.helical-library.net/gluck/bio.asp</a>. Date accessed:
             4/22/2013<Br>
             <i>The Cambridge Chronicle</i>, 3 September 2003
             <br>
-            Image source: <a href="https://en.wikipedia.org/wiki/Louise_Gl%C3%BCck" target="_self">ttps://en.wikipedia.org/wiki/Louise_Gl%C3%BCck</a>
+            Image source: <a href="https://en.wikipedia.org/wiki/Louise_Gl%C3%BCck" >ttps://en.wikipedia.org/wiki/Louise_Gl%C3%BCck</a>
         `,
         photos: ["images_bios/louise_gluck.jpg"],
         photoTitles: [],
@@ -359,7 +361,8 @@ g_bios = [
             Miriam Goodman online web site<Br>
             Press release, Griffin Museum of Photography, April 2, 2009<Br>
             <i>The Cambridge Chronicle</i>, Volume 135, Number 15, 9 April 1981
-            <br><a href="https://www.poetryfoundation.org/poetrymagazine/browse?volume=162&issue=5&page=27">
+            <br><i>Poetry Foundation</i Aug. 1993<Br>
+            &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://www.poetryfoundation.org/poetrymagazine/browse?volume=162&issue=5&page=27">
             https://www.poetryfoundation.org/poetrymagazine/browse?volume=162&issue=5&page=27</a>
         `,
         photos: ["images_bios/MiriamGoodman1.jpg"],
@@ -433,7 +436,8 @@ g_bios = [
         references: ` Kathleen E. LeMieux; Massachusetts Historical Society,
             Alice Bache Gould'papers Guidie to the Collection<br>
             &#8220;Alice in Seville&#8221; Time magazine July 7, 1952.<Br>
-            Image source: <a href="https://en.wikipedia.org/wiki/Alice_Bache_Gould">https://en.wikipedia.org/wiki/Alice_Bache_Gould</a>
+            Image source: wikipedia<br>
+             &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://en.wikipedia.org/wiki/Alice_Bache_Gould">https://en.wikipedia.org/wiki/Alice_Bache_Gould</a>
         `,
         photos: ["images_bios/Alice_Bache_Gould.png"],
         photoTitles: [],
@@ -538,8 +542,8 @@ g_bios = [
             <em>Metropolis Magazine</em>, Harvard inc., 2001<br>
             Cambridge City Directory, 1972<br>
             <i>The Cambridge Chronicle</i>, Volume 134, Number 16, 17 April 1980<Br>
-            Photo from <a href="https://www.legacy.com/us/obituaries/bostonglobe/name/saundra-graham-obituary?id=52398590">
-            https://www.legacy.com/us/obituaries/bostonglobe/name/saundra-graham-obituary?id=52398590/a>
+            Photo from legacy.com<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://www.legacy.com/us/obituaries/bostonglobe/name/saundra-graham-obituary?id=52398590">https://www.legacy.com/us/obituaries/bostonglobe/name/saundra-graham-obituary?id=52398590/a>
 
         `,
         photos: [ "images_bios/graham2.png", "images_bios/Saundra_Graham.png"],
@@ -610,18 +614,18 @@ g_bios = [
         references: `
             <span >Graves, Helen. &ldquo;Second Time Around
                 is Sweet For Renae Gray,&rdquo; </span>Boston Herald, 3/1/2008, <a
-                href="https://www.bostonherald.com/2008/03/01/second-time-around-is-sweet-for-renae-gray/" target="_self">
+                href="https://www.bostonherald.com/2008/03/01/second-time-around-is-sweet-for-renae-gray/" >
                 https://www.bostonherald.com/2008/03/01/second-time-around-is-sweet-for-renae-gray/</a><br>
             <span >My Keeper Obituary:</span><a
-                href="http://www.mykeeper.com/profile/HaymarketPeoplesFund/" target="_self">
+                href="http://www.mykeeper.com/profile/HaymarketPeoplesFund/" >
                 http://www.mykeeper.com/profile/HaymarketPeoplesFund/</a><br>
             New England Blacks in Philanthropy website, blog post, 1/31/17,
             https://sel-law.squarespace.com/renae-gray-post<br>
             <span >Silva-Collins, Candelaria, blog,
-                7/1/2008</span>, <a href="http://candelariasilva.com/a-tribute-to-the-lovely-renae-gray/" target="_self">http://candelariasilva.com/a-tribute-to-the-lovely-renae-gray/</a><br>
+                7/1/2008</span>, <a href="http://candelariasilva.com/a-tribute-to-the-lovely-renae-gray/" >http://candelariasilva.com/a-tribute-to-the-lovely-renae-gray/</a><br>
             <span >YWCA Cambridge Massachusetts Facebook
                 post, 4/21/2017,</span> <span>
-                <a href="https://www.facebook.com/pg/YWCACambMA/photos/?tab=album&amp;album_id=10155047494801125" target="_self">https://www.facebook.com/pg/YWCACambMA/photos/?tab=album&amp;album_id=10155047494801125</a></span><br>
+                <a href="https://www.facebook.com/pg/YWCACambMA/photos/?tab=album&amp;album_id=10155047494801125" >https://www.facebook.com/pg/YWCACambMA/photos/?tab=album&amp;album_id=10155047494801125</a></span><br>
             <br>
           <i>The Cambridge Chronicle</i>, Volume 157, Number 36, 25 June 2003
 
@@ -790,13 +794,13 @@ g_bios = [
              <br><br>More information about Edith's life and work are outlined in the <b>Women Astronomical Computers at the Harvard College Observatory</b> project:
             <center>
              <h1>
-                <a href="https://platestacks.cfa.harvard.edu/women-at-hco/edith-frances-gill" target="_self">Edith Gill's story</a>
+                <a href="https://platestacks.cfa.harvard.edu/women-at-hco/edith-frances-gill" >Edith Gill's story</a>
              </h1>
        </center>
-        The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_self">Women Astronomical Computers at the Harvard College Observatory</a> project is 
+        The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" >Women Astronomical Computers at the Harvard College Observatory</a> project is 
         dedicated to highlighting the lives and work of women who spent time studying and caring 
         for the observatory's glass plate photograph collection.<Br>
-        <center>       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_self"> <img src="images_bios/harvard-astronomers.png" width='350'></a>
+        <center>       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" > <img src="images_bios/harvard-astronomers.png" width='350'></a>
         
         </center>
 `,
@@ -834,13 +838,13 @@ g_bios = [
              <br><br>More information about Edith's life and work are outlined in the <b>Women Astronomical Computers at the Harvard College Observatory</b> project:
             <center>
              <h1>
-                <a href="https://platestacks.cfa.harvard.edu/women-at-hco/mabel-abbie-gill" target="_self">Mabel Gill's story</a>
+                <a href="https://platestacks.cfa.harvard.edu/women-at-hco/mabel-abbie-gill" >Mabel Gill's story</a>
              </h1>
       </center>
-        The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_self">Women Astronomical Computers at the Harvard College Observatory</a> project is 
+        The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" >Women Astronomical Computers at the Harvard College Observatory</a> project is 
         dedicated to highlighting the lives and work of women who spent time studying and caring 
         for the observatory's glass plate photograph collection.<Br>
-        <center>       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_self"> <img src="images_bios/harvard-astronomers.png" width='350'></a>
+        <center>       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" > <img src="images_bios/harvard-astronomers.png" width='350'></a>
         
         </center>
 `,
@@ -928,11 +932,14 @@ g_bios = [
         otherNotes: "",
         references: ` 
           Oral interview by Anthony Beckwith, December 8, 2025<br><br>
-        MIT Black History article, <a href="https://www.blackhistory.mit.edu/archive/yvonne-harris-and-sherry-glanville-ca-1965" target="_self">"Yvonne Harris and Sherr Glanville, ca. 1965"</a><br><br>
-        Upworthy.com, <a href="https://www.upworthy.com/cambridge-community-center" target="_self">"How this beloved, 90-year-old community center continues to be a haven for so many to this day"</a>, March 29, 2020<br><br>
+        MIT Black History article <br>
+        &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://www.blackhistory.mit.edu/archive/yvonne-harris-and-sherry-glanville-ca-1965" >"Yvonne Harris and Sherr Glanville, ca. 1965"</a><br><br>
+        Upworthy.com<Br>
+         &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://www.upworthy.com/cambridge-community-center" >"How this beloved, 90-year-old community center continues to be a haven for so many to this day"</a>, March 29, 2020<br><br>
 
-        CCC Facebook post, <a href="https://www.facebook.com/CambCommCenter/posts/meet-yvonne-gittens-recipient-of-the-2019-janet-ms-k-kendrick-sisters-of-the-cen/10162414874505357/" target="_self">"Meet Yvonne Gittens"</a>,  Oct. 7, 2019<br><br>
-        <a href="https://www.bhacambridge.org/" target="_self">Black History In Action website</a> <br><br>
+        CCC Facebook post<Br> 
+        &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://www.facebook.com/CambCommCenter/posts/meet-yvonne-gittens-recipient-of-the-2019-janet-ms-k-kendrick-sisters-of-the-cen/10162414874505357/" >"Meet Yvonne Gittens"</a>,  Oct. 7, 2019<br><br>
+        <a href="https://www.bhacambridge.org/" >Black History In Action website</a> <br><br>
         
              `,
         photos: ["images_bios/gittens_yvonne.jpg"],

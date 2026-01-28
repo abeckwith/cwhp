@@ -88,7 +88,7 @@ w_bios = [
         references: `
             Obituary <em>Boston Globe</em>, January 5, 2010.<br>
             Family information.<br>
-            Cambridge City Directory, 1972
+            <i>Cambridge City Directory</i>, 1972
         `,
         photos: ["images_bios/Juliaquilt_cropped_small.jpg"],
         photoTitles: [
@@ -388,8 +388,8 @@ w_bios = [
             Anne Whitney Papers, Wellesley College Archives<br>
             Martin, Elizabeth and Vivan Meyer. <em>Female Gazes: Seventy-Five Women Artists</em>.
             Toronto: Second Story Press, 1997.<Br>
-            Whitney <a href="https://en.wikipedia.org/wiki/Anne_Whitney" target="_self">image</a> 
-             and statue <a href="https://commons.wikimedia.org/wiki/File:Charles_Sumner_statue_%28Cambridge,_MA%29_-_Anne_Whitney_sculptor.JPG" target="_self">
+            Whitney <a href="https://en.wikipedia.org/wiki/Anne_Whitney" >image</a> 
+             and statue <a href="https://commons.wikimedia.org/wiki/File:Charles_Sumner_statue_%28Cambridge,_MA%29_-_Anne_Whitney_sculptor.JPG" >
         image</a> from wikimedia commons 
         `,
         photos: [
@@ -443,8 +443,8 @@ w_bios = [
         otherNotes: "",
         references: `Photo courtesy of Toni Williams.<Br>
        
-<Br>Oral interview by Sarah Boyer.
-Cambridge City Directory, 1926
+            <Br>Oral interview by Sarah Boyer.
+            <i>Cambridge City Directory</i>, 1926
         `,
         photos: ["images_bios/Toni%20Williams%20small.jpg"],
         photoTitles: [],
@@ -515,7 +515,7 @@ Cambridge City Directory, 1926
             Library, Radcliffe Institute<Br> Eleanor Roosevelt, &#8220;My Day&#8221;, May 30,
             1950; Ellen Miller, Ilse Heyman, Dorothy Dahl<em>The Window Shop: Safe Harbor
                 for Refugees, 1939-1972</em>, Diesel books, 2007<br>
-                Photo: The Cambridge Book, 1966
+                Photo: <i>The Cambridge Book</i>, 1966
            
         `,
         photos: ["images_bios/windowshop.JPG"],
@@ -557,7 +557,8 @@ Cambridge City Directory, 1926
         otherNotes: "",
         references: ` <em>An Historic Guide to Cambridge</em>, Appendix &#8220;Edward
             Winship&#8221;
-               Photo from <a href="https://www.findagrave.com/memorial/20848657/joanna-winship#view-photo=7093541">
+               Photo from findagrave.com<Br>
+               <a class='indent' href="https://www.findagrave.com/memorial/20848657/joanna-winship#view-photo=7093541">
             https://www.findagrave.com/memorial/20848657/joanna-winship#view-photo=7093541</a>
         `,
         photos: ["images_bios/winship.jpg"],
@@ -629,8 +630,8 @@ Cambridge City Directory, 1926
                 Atlantic and the Politics of Gender.</em> (New York: Oxford University Press,
             2005)<br>
             
-                Image source: <a href="https://commons.wikimedia.org/wiki/File:Mrs._John_Winthrop.jpg" target="_self">
-                https://commons.wikimedia.org/wiki/File:Mrs._John_Winthrop.jpg</a>
+                Image source: wikipedia<Br>
+                 <a class='indent' href="https://commons.wikimedia.org/wiki/File:Mrs._John_Winthrop.jpg" >https://commons.wikimedia.org/wiki/File:Mrs._John_Winthrop.jpg</a>
         `,
         photos: ["images_bios/HANNAH_Winthrop.jpg"],
         photoTitles: [],
@@ -695,10 +696,11 @@ Cambridge City Directory, 1926
         references: ` Ozeline (Pearson) Wise papers and biographical information, Schlesinger
             Library. Ozeline (Pearson) Wise interview, <em>Black Women Oral History Project</em> of
             Schlesinger Library.<br>
-            Cambridge City Directory, 1965<br>
+            <i>Cambridge City Directory</i>, 1965<br>
             <i>The Cambridge Chronicle</i>, Volume 137, Number 8, 24 February 1983
-<br>
-            Image source: <a href="https://en.wikipedia.org/wiki/Ozeline_Wise" target="_self">https://en.wikipedia.org/wiki/Ozeline_Wise</a>
+            <br>
+            Image source: wikipedia<br>
+            <a class='indent' href="https://en.wikipedia.org/wiki/Ozeline_Wise" >https://en.wikipedia.org/wiki/Ozeline_Wise</a>
         `,
         photos: ["images_bios/Ozeline__Wise.jpg"],
         photoTitles: [],
@@ -757,9 +759,10 @@ Cambridge City Directory, 1926
         otherNotes: "",
         references: ` <em>Cambridge Chronicle</em>, August 12,1999<br>Schlesinger
             Library biography and guide to Pearl Katz Wise papers.<Br>
-            Cambridge City Directory, 1930 & 1965<Br>
-            <a href="https://www.ancestry.com/search/collections/60525/records/146988896?tid=&pid=&queryId=408823c2-fecb-4a9d-af1a-db3e98971fa5&_phsrc=prV2532&_phstart=successSource">
-            Find-A-Grave</a> for birthdate
+            <i>Cambridge City Directory</i>, 1930 & 1965<Br>
+            FindAGrave.com<Nbr>
+            <a class='indent' href="https://www.ancestry.com/search/collections/60525/records/146988896?tid=&pid=&queryId=408823c2-fecb-4a9d-af1a-db3e98971fa5&_phsrc=prV2532&_phstart=successSource">https://www.ancestry.com/search/collections/60525/records/146988896?tid=&pid=&queryId=408823c2-fecb-4a9d-af1a-db3e98971fa5&_phsrc=prV2532&_phstart=successSource
+            </a> 
         `,
         photos: ["images_bios/wise.jpg"],
         photoTitles: [],
@@ -817,8 +820,9 @@ Cambridge City Directory, 1926
             Commonwealth Coalition, and the 1993 Woman of Courage Award from the Massachusetts
             chapter of the National Organization of Women.<br><Br>Alice Wolf lived at 48 Huron Avenue for more than 40 years. `,
         otherNotes: "",
-        references: ` Harvard Gazette 6-2-2005<Br>
-                <a href="https://en.wikipedia.org/wiki/Alice_Wolf" target="_self">https://en.wikipedia.org/wiki/Alice_Wolf</a><Br><Br>
+        references: ` Harvard Gazette June 2, 2005<Br>
+                Wikipedia entry<Br>
+                <a class='indent' href="https://en.wikipedia.org/wiki/Alice_Wolf" >https://en.wikipedia.org/wiki/Alice_Wolf</a><Br><Br>
             <i>The Cambridge Chronicle</i>, Volume 145, Number 19, 9 May 1991
 
                 `,
@@ -874,7 +878,8 @@ Cambridge City Directory, 1926
         references: `Finding
             Aid, Northeastern University Library Archives; Annie Popkin Papers, Schlesinger
             Library; Central Square Women's Walking Tour.
-            <br>Logo image from <a href="https://www.facebook.com/cambridgewomenscenter/">https://www.facebook.com/cambridgewomenscenter/</a>`,
+            <br>Logo image from Aug. 15, 2025 Facebook post<Br>
+             <a class='indent' href="https://www.facebook.com/photo/?fbid=1182736037215446&set=pb.100064371836450.-2207520000/">https://www.facebook.com/photo/?fbid=1182736037215446&set=pb.100064371836450.-2207520000/</a>`,
         photos: ["images_bios/womensctr.png", "images_bios/888MemDr.jpg"],
         photoTitles: ["Women's Center Logo", "Plaque ready to be placed on Memorial Drive"],
         dateCreated: "prior to 2009",
@@ -929,7 +934,8 @@ Cambridge City Directory, 1926
         references: ` Dominique Tremblay, finding aid for the Women's
             Coffeehouse Records, prepared October 2006. Northeastern University Library
            
-            <br>Image source: <a href="https://press.library.concordia.ca/read/ingredients-for-revolution" target="_self">
+            <br>Image source: <i>Concordia Universiti Press<br>
+             <a class='indent' href="https://press.library.concordia.ca/read/ingredients-for-revolution" >
             https://press.library.concordia.ca/read/ingredients-for-revolution</a>
         `,
         photos: ["images_bios/womenscoffehouse.png"],
@@ -1047,9 +1053,9 @@ Cambridge City Directory, 1926
         otherNotes: "",
         references: ` Written by Kimm Topping, printed in Mapping Feminist
             Cambridge guidebook, 2019:
-            <a href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf" target="_self">
+            <a href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf" >
             https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a><br>
-            <a href="www.nlgmass.org/nlg-mass-history" target="_self">www.nlgmass.org/nlg-mass-history</a><Br>
+            <a href="www.nlgmass.org/nlg-mass-history" >www.nlgmass.org/nlg-mass-history</a><Br>
             <i>The Cambridge Chronicle</i>, 21 February 1974
 
         `,
@@ -1096,8 +1102,8 @@ Cambridge City Directory, 1926
         references: `Special Collections, Northeastern University, Boston.
             Online guide; <br>
             The Women's History Tour of Cambridge<Br>
-            <i>The Cambridge Chronicle</i>, Volume 140, Number 22, 29 May 1986
-            <Br><i>The Cambridge Chronicle</i>, Volume 133, Number 8, 22 February 1979
+            <i>The Cambridge Chronicle</i>, 29 May 1986
+            <Br><i>The Cambridge Chronicle</i>, 22 February 1979
 
         `,
         photos: ["images_bios/womenschool.png"],

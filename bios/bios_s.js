@@ -55,7 +55,8 @@ s_bios = [
             `,
         otherNotes: "",
         references: `Oral interview by Sarah Boyer<br>
-        Image source: <a href="https://ctacusa.com/about-us/staff/sylvia-saavedra-keber/" target="_self">https://ctacusa.com/about-us/staff/sylvia-saavedra-keber/</a>
+        Image source: <i>Community Training and Assistance Center</i><br>
+        <a class='indent' href="https://ctacusa.com/about-us/staff/sylvia-saavedra-keber/" >https://ctacusa.com/about-us/staff/sylvia-saavedra-keber/</a>
         `,
         photos: ["images_bios/Saavedra.jpg"],
         photoTitles: [],
@@ -151,7 +152,8 @@ s_bios = [
                 Dreaming Deep</em>; <br><br><em>A World of Light</em>. Constance Hunting <em>May Sarton:
                 Woman and Poet</em><Br><br>National Poetry Foundation, 1982; <em>Great Women Writers</em>.
             <Br><Br>Henry Holt, 1994; Cambridge Historical Commission files<Br><Br>
-            Image source: <a href="https://en.wikipedia.org/wiki/May_Sarton" target="_self">https://en.wikipedia.org/wiki/May_Sarton</a>
+            Image source: wikipedia<br>
+            <a class='indent' href="https://en.wikipedia.org/wiki/May_Sarton" >https://en.wikipedia.org/wiki/May_Sarton</a>
         `,
         photos: ["images_bios/May_Sarton.jpg"],
         photoTitles: [],
@@ -216,8 +218,9 @@ s_bios = [
             (Little Brown, 1979)<br>
             Arthur Schlesinger, Jr. <em>A Life in the 20th Century: Innocent Beginnings,
                 1917-1950</em>. Houghton Mifflin, 2000<Br>
-                Cambridge City Directory, 1972<br>
-                Image source: <a href="https://en.wikipedia.org/wiki/Marian_Cannon_Schlesinger" target="_self">https://en.wikipedia.org/wiki/Marian_Cannon_Schlesinger</a>
+                <i>Cambridge City Directory</i>, 1972<br>
+                Image source: wikipedia<br>
+                <a class='indent' href="https://en.wikipedia.org/wiki/Marian_Cannon_Schlesinger" >https://en.wikipedia.org/wiki/Marian_Cannon_Schlesinger</a>
         `,
         photos: ["images_bios/Marian_Schlesinger.jpg"],
 
@@ -250,13 +253,13 @@ s_bios = [
              <br><br>More information about Helen's life and work are outlined in the <b>Women Astronomical Computers at the Harvard College Observatory</b> project:
             <center>
              <h1>
-                <a href="https://platestacks.cfa.harvard.edu/women-at-hco/helen-spence-federer" target="_self">Helen Federer's story</a>
+                <a href="https://platestacks.cfa.harvard.edu/women-at-hco/helen-spence-federer" >Helen Federer's story</a>
              </h1>
       </center>
-        The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_self">Women Astronomical Computers at the Harvard College Observatory</a> project is 
+        The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" >Women Astronomical Computers at the Harvard College Observatory</a> project is 
         dedicated to highlighting the lives and work of women who spent time studying and caring 
         for the observatory's glass plate photograph collection.<Br>
-        <center>       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_self"> <img src="images_bios/harvard-astronomers.png" width='350'></a>
+        <center>       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" > <img src="images_bios/harvard-astronomers.png" width='350'></a>
         
         </center>
 `,
@@ -328,8 +331,9 @@ s_bios = [
         references: `Oral interview by Sarah Boyer. For information
             on the Simplex Steering Committee, see <em>The Tech</em>, 1990; Christopher
             Montgomery, &#8220;Boston project creates new niche,&#8221; <em>Cleveland Plain
-                Dealer</em>, November 28, 2005.<br>Cambridge City Directory, 1954<Br>
-                <i>The Cambridge Chronicle</i>, Volume 160, Number 12, 13 January 2005
+                Dealer</em>, November 28, 2005.<br>
+                <i>Cambridge City Directory</i>, 1954<Br>
+                <i>The Cambridge Chronicle</i>, 13 January 2005
 
         `,
         photos: ["images_bios/MaryRoseShea.jpg"],
@@ -412,18 +416,18 @@ s_bios = [
         `,
         otherNotes: "",
         references: `
-            MIT Oral history interview with Joe McMaster, video and transcript, 2/25/2016, <a
-                href="https://infinitehistory.mit.edu/video/denise-simmons"
-                target="new">https://infinitehistory.mit.edu/video/denise-simmons</a> <br>
+            MIT Oral history interview with Joe McMaster, video and transcript, Feb. 25, 2016<br>
+            <a class='indent'
+                href="https://infinitehistory.mit.edu/video/denise-simmons">https://infinitehistory.mit.edu/video/denise-simmons</a> <br>
             Ratigan, Evelyn<em>. </em>&quot;Cambridge Officials Unveil Monument to Prince Hall,&quot; <em>Cambridge
                 Chronicle</em>, 5/18/2010<br>
             Cambridge City Council Resolution to Name Prince Hall a Founding Father, 10/20/2008, 
             <br>
             Denise Simmons Election Website and Bio <br>
             Monroe, Rev. Irene.&ldquo;Black Episcopal Congregation Celebrates Lesbian Marriage,&rdquo; <em>Huffington
-                Post</em>, 11/10/2009, <a
+                Post</em>, 11/10/2009<Br> <a class='indent'
                 href="https://www.huffingtonpost.com/irene-monroe/black-episcopal-congregat_b_281261.html"
-                target="new">https://www.huffingtonpost.com/irene-monroe/black-episcopal-congregat_b_281261.html</a>
+                >https://www.huffingtonpost.com/irene-monroe/black-episcopal-congregat_b_281261.html</a>
             <br>
    
             Photo Credit: Stephen Maclone
@@ -491,8 +495,7 @@ s_bios = [
             Obituary, <em>Resonance</em> June 2006<br>
             Oral interview in Schlesinger Library<br>
             DMS<em>E News</em> (MIT). April 2001 <br>
-            <a href="http://oasis.lib.harvard.edu" target="_self">http://oasis.lib.harvard.edu</a><br>
-            Cambridge City Directory, 1972<br>
+            <i>Cambridge City Directory</i>, 1972<br>
             Image from University of Chicago Photographic Archive, apf1-07690, Hanna Holborn Gray Special Collections Research Center, University of Chicago Library.
            `,
         photos: ["images_bios/Alice_Kimball_Smith.jpg"],
@@ -567,10 +570,10 @@ s_bios = [
         otherNotes: "",
         references: ` Finding aid, Joan Forrester Sprague papers, Schlesinger
             Library, Radcliffe Institute.<Br>
-            Cambridge City Directory, 1972<Br>
-            Birthdate from U.S., Social Security Death Index, 1935-2014<Br>
-            Book cover from <a href="https://www.commoncrowbooks.com/pages/books/B59091/joan-forrester-sprague/more-than-housing-lifeboats-for-women-and-children-inscribed-by-sprague">
-            https://www.commoncrowbooks.com/pages/books/B59091/joan-forrester-sprague/more-than-housing-lifeboats-for-women-and-children-inscribed-by-sprague</a>
+            <I>Cambridge City Directory</i>, 1972<Br>
+            Birthdate from <i>U.S. Social Security Death Index</i>, 1935-2014<Br>
+            Book cover from Common Crow Books<br>
+            <a class='indent' href="https://www.commoncrowbooks.com/pages/books/B59091/joan-forrester-sprague/more-than-housing-lifeboats-for-women-and-children-inscribed-by-sprague">https://www.commoncrowbooks.com/pages/books/B59091/joan-forrester-sprague/more-than-housing-lifeboats-for-women-and-children-inscribed-by-sprague</a>
          <Br>
                 <i>The Boston Globe</i>Sep 08, 1986, page 15
             `,
@@ -606,22 +609,23 @@ s_bios = [
             <center>
              <h1>
                 <a href="https://platestacks.cfa.harvard.edu/women-at-hco/mabel-cushman-stevens" 
-                target="_self">Mabel Stevens' story</a>
+                >Mabel Stevens' story</a>
              </h1>
       </center>
-        The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_self">Women Astronomical
+        The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" >Women Astronomical
          Computers at the Harvard College Observatory</a> project is 
         dedicated to highlighting the lives and work of women who spent time studying and caring 
         for the observatory's glass plate photograph collection.<Br>
-        <center>       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_self"> 
+        <center>       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" > 
         <img src="images_bios/harvard-astronomers.png" width='350'></a>
         
         </center>
 `,
         otherNotes: "",
         references: ` 
-          Cambridge City Directory, 1903<Br>
-          Photo source: <a href="https://platestacks.cfa.harvard.edu/women-at-hco/mabel-cushman-stevens">
+          <i>Cambridge City Directory</i>, 1903<Br>
+          Photo source: Harvard University Plate Stacks<br>
+          <a class='indent' href="https://platestacks.cfa.harvard.edu/women-at-hco/mabel-cushman-stevens">
           https://platestacks.cfa.harvard.edu/women-at-hco/mabel-cushman-stevens</a>
         
              `,
@@ -679,8 +683,8 @@ s_bios = [
             1877<Br>Menotomy Journal timeline
             <Br> Frederick J Lund (compiler), &#8220;Brief
             History of Somerville,&#8221; Somerville Planning Board, 1996.<Br>
-            <a href="https://en.wikipedia.org/wiki/Saunkskwa_of_Missitekw#/media/File:Squaw_Sachem_-_Robbins_Memorial_Flagstaff_-_Arlington,_MA_-_DSC02798.jpg">
-            <https://en.wikipedia.org/wiki/Saunkskwa_of_Missitekw#/media/File:Squaw_Sachem_-_Robbins_Memorial_Flagstaff_-_Arlington,_MA_-_DSC02798.jpg</a>
+            Image source: wikipedia<Br>
+            <a class='indent' href="https://en.wikipedia.org/wiki/Saunkskwa_of_Missitekw#/media/File:Squaw_Sachem_-_Robbins_Memorial_Flagstaff_-_Arlington,_MA_-_DSC02798.jpg">https://en.wikipedia.org/wiki/Saunkskwa_of_Missitekw#/media/File:Squaw_Sachem_-_Robbins_Memorial_Flagstaff_-_Arlington,_MA_-_DSC02798.jpg</a>
         `,
         photos: ["images_bios/misticke.jpg"],
         photoTitles: [

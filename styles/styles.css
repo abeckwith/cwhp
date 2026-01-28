@@ -244,6 +244,9 @@ td > a {
 .best-color{
     color:#EAD470;
 }
+.indent{
+    margin-left:2.5vw;
+}
 /* table{
     font-size:89%; 
 } */

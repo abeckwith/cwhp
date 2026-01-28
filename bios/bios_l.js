@@ -51,7 +51,7 @@ l_bios = [
         references: `
             Wilma Slaight, &#8220;Florence Ladd&#8221; <em>Wellesley 125th anniversary</em>,
             August 28, 2000<br>
-            <a href="http://www.wellesley.edu/Anniversary/ladd.html" target="_self">http://www.wellesley.edu/Anniversary/ladd.html</a><br>
+            <a href="http://www.wellesley.edu/Anniversary/ladd.html" >http://www.wellesley.edu/Anniversary/ladd.html</a><br>
             Florence Cawthorne Ladd, personal communication.<br>
             <i>Cambridge Chronicle</i> 11 September 1975
         `,
@@ -98,7 +98,7 @@ l_bios = [
             Doug Holder &#8220;Farewell, to the editor of <em>Spare Change </em>Newspaper
             in Cambridge, MA.&#8221; <em>Cambridge Chronicle</em> January 29, 2002<br>
           
-       <br> Image source: <a href="https://dougholder.blogspot.com/2012/01/linda-larson-poet-who-writes-what-she.html" target="_self">https://dougholder.blogspot.com/2012/01/linda-larson-poet-who-writes-what-she.html</a>`,
+       <br> Image source: <a href="https://dougholder.blogspot.com/2012/01/linda-larson-poet-who-writes-what-she.html" >https://dougholder.blogspot.com/2012/01/linda-larson-poet-who-writes-what-she.html</a>`,
         photos: ["images_bios/LindaLarson.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
@@ -190,7 +190,7 @@ l_bios = [
                 Notable American Women</em>, Vol 2<br>
             Ogilvie and Harvey, <em>Biographical Dictionary of Women in Science</em> (2000)<br>
             <em>Boston Globe,</em> February 1, '05.<Br>
-            Photo source: <a href="https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt" target="_self">https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt</a>
+            Photo source: <a href="https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt" >https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt</a>
         `,
         photos: ["images_bios/Henrietta_Swan_Leavitt.jpg"],
         photoTitles: [],
@@ -229,10 +229,10 @@ l_bios = [
             `,
         otherNotes: "",
         references: ` The Lesbian Avengers archive is housed at The History Project.
-            <a href="www.historyproject.org" target="_self">www.historyproject.org</a><em><br>
+            <a href="www.historyproject.org" >www.historyproject.org</a><em><br>
             </em>Written by Kimm Topping, printed in <em>Mapping Feminist Cambridge</em> guidebook, 2019: <a
                 href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a>
-                <br>Image source: https://www.wbur.org/news/2019/06/17/lesbian-avengers, with permission from the History Project at <a href="https://historyproject.org/" target="_self">https://historyproject.org/</a>
+                <br>Image source: https://www.wbur.org/news/2019/06/17/lesbian-avengers, with permission from the History Project at <a href="https://historyproject.org/" >https://historyproject.org/</a>
         `,
         photos: ["images_bios/lesbian_avengers.png"],
         photoTitles: [],
@@ -488,7 +488,7 @@ l_bios = [
             <br>
             Alice m. Longfellow Papers, Longfellow National Historic Site. <br>
             <em>Biography of Alice M Longfellow</em>, Longfellow National Historic Site.<Br>
-            Image source: <a href="https://en.wikipedia.org/wiki/Alice_Mary_Longfellow" target="_self">https://en.wikipedia.org/wiki/Alice_Mary_Longfellow</a>
+            Image source: <a href="https://en.wikipedia.org/wiki/Alice_Mary_Longfellow" >https://en.wikipedia.org/wiki/Alice_Mary_Longfellow</a>
         `,
         photos: ["images_bios/Alice_Longfellow.jpg"],
         photoTitles: [],
@@ -545,7 +545,7 @@ l_bios = [
             Providence, Rhode Island: Brown University Press, 1936; <br>
             Papers of James Russell Lowell, Houghton Library, Harvard University (includes
             letters to and from Maria White Lowell)<br>
-            Photo source: <a href="https://en.wikipedia.org/wiki/Maria_White_Lowell" target="_self">https://en.wikipedia.org/wiki/Maria_White_Lowell</a>
+            Photo source: <a href="https://en.wikipedia.org/wiki/Maria_White_Lowell" >https://en.wikipedia.org/wiki/Maria_White_Lowell</a>
         `,
         photos: ["images_bios/maria_lowell.jpg"],
         photoTitles: [],
@@ -602,7 +602,7 @@ l_bios = [
                 Since 1960. Dictionary of Literary Biography.</em> Vol 52<br>
             Lois Lowry Papers-1977-1993 Kerlan Collection, University of Minnesota. Includes
             book manuscripts<Br>
-            Image source: <a href="https://en.wikipedia.org/wiki/Lois_Lowry" target="_self">https://en.wikipedia.org/wiki/Lois_Lowry</a>
+            Image source: <a href="https://en.wikipedia.org/wiki/Lois_Lowry" >https://en.wikipedia.org/wiki/Lois_Lowry</a>
         `,
         photos: ["images_bios/Lois_Lowry.jpg"],
         photoTitles: [],
@@ -791,9 +791,9 @@ l_bios = [
         `,
         otherNotes: "",
         references: `
-        CCTV Instagram post, <a href="https://www.instagram.com/p/DOTEMspDly9/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_self">
+        CCTV Instagram post, <a href="https://www.instagram.com/p/DOTEMspDly9/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" >
         Sept. 7, 2025</a><br><br>
-        Image from <a href="https://www.legacy.com/us/obituaries/legacyremembers/mary-leno-obituary?id=59453208" target="_self">
+        Image from <a href="https://www.legacy.com/us/obituaries/legacyremembers/mary-leno-obituary?id=59453208" >
         https://www.legacy.com/us/obituaries/legacyremembers/mary-leno-obituary?id=59453208</a><br><br>
 
         <i>Boston Globe</i>, September 10, 2000, April 26, 2018, November 16, 2008

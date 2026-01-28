@@ -119,7 +119,7 @@ k_bios = [
             Carol Berczuk, &#8220;Choices and Successes: Honoring Women Pioneers &#8220;<em>
                 Annals of the New York Academy of Sciences</em> 869 (1), 22&#8211;33, 1999.
                 <Br>
-                Photo source: <a href="https://en.wikipedia.org/wiki/Vera_Kistiakowsky" target="_self">https://en.wikipedia.org/wiki/Vera_Kistiakowsky</a>
+                Photo source: <a href="https://en.wikipedia.org/wiki/Vera_Kistiakowsky" >https://en.wikipedia.org/wiki/Vera_Kistiakowsky</a>
         `,
         photos: ["images_bios/Vera_K.jpg"],
         photoTitles: [],

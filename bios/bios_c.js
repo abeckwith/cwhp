@@ -125,7 +125,7 @@ c_bios = [
         references: ` Schlesinger Library Archive finding aids for the
             Cambridge Political Equality Association and for Grace A Johnson.<Br>
                <i>The Cambridge Tribune</i>, Volume XXXI, Number 48, 30 January 1909<br>
-           <i> The Cambridge Sentinel</i>, Volume XIV, Number 27, 26 May 1917<br>
+           <i>The Cambridge Sentinel</i>, Volume XIV, Number 27, 26 May 1917<br>
             Image source: Ida M. Tarbell Collection, 1890-1944, Merrick Archives and Special Collections, Pelletier Library, Allegheny College
         `,
         photos: ["", "images_bios/cpea.png"],
@@ -188,9 +188,12 @@ c_bios = [
                 Cambridge School</em>. Cambridge School of Architecture and Landscape Architecture
             records at Smith College 
             and in William Allan Neilsen's presidential archives at Smith College.<br>
-            Doris Cole, <em>Eleanor Raymond, Architect<Br></em> Philadelphia: The Art Alliance
-            Press, 1981<Br>Susana Torre, &quot;Women in American Architecture: A Historic
-            and Contemporary Perspective,&#8221; NY: Whitney Library of Design, 1977<Br> National
+            Doris Cole, <em>Eleanor Raymond, Architect<Br>
+            </em> Philadelphia: The Art Alliance
+            Press, 1981<Br>
+            Susana Torre, &quot;Women in American Architecture: A Historic
+            and Contemporary Perspective,&#8221; NY: Whitney Library of Design, 1977
+            <Br> National
             Register of Historic Places Registration Form/National Historic Landmark Nomination
             Form.
         `,
@@ -258,10 +261,10 @@ c_bios = [
             Marilyn and Joy Harvey. <em>Biographical Dictionary of Women Scientists</em>,
             (2000).
               Annie Jump Cannon, head-and-shoulders
-            portrait, 1922. <br>
+            portrait, 1922<br>
             New York World Telegram and the Sun Newspaper Photograph Collection, Library
-            of Congress.<br>Public domain Image source: 
-            <a href="https://en.wikipedia.org/wiki/Annie_Jump_Cannon" target="_self">https://en.wikipedia.org/wiki/Annie_Jump_Cannon</a>
+            of Congress.<br>Image source: wikipedia
+            <Br>&nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://en.wikipedia.org/wiki/Annie_Jump_Cannon" >https://en.wikipedia.org/wiki/Annie_Jump_Cannon</a>
         `,
         photos: ["images_bios/annie cannon.jpg"],
         photoTitles: [],
@@ -343,8 +346,8 @@ c_bios = [
             Little Brown (1997)<br>
             Cambridge Public Library &#8220;Penwomen of Cambridge Past: Biographies
             of Our Literary Foremothers&#8221;<Br>
-                <a href="https://en.wikipedia.org/wiki/Cornelia_James_Cannon" target="_self">
-            https://en.wikipedia.org/wiki/Cornelia_James_Cannon</a>
+            Wikipedia entry<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://en.wikipedia.org/wiki/Cornelia_James_Cannon" >https://en.wikipedia.org/wiki/Cornelia_James_Cannon</a>
             <br>Cambridge City Directory, 1968
             <br><i>Cornelia James Cannon and the Future American Race Paperback</i>,  Maria I. Diedrich, University of Mass. Press, January, 2011
         <Br><i>The Cambridge Chronicle</i>, 2 December 1922, 22 December 1938
@@ -468,52 +471,52 @@ c_bios = [
         authors: "CWHP volunteers",
         categories: ["Feminist Organization"],
     },
-    {
-        poc: false,
-        organization: true,
-        lastName: "Centro Presente",
-        firstName: "",
-        middleName: "",
-        familyName: "",
+    // {
+    //     poc: false,
+    //     organization: true,
+    //     lastName: "Centro Presente",
+    //     firstName: "",
+    //     middleName: "",
+    //     familyName: "",
 
-        title: `Community organization<br>Est. 1981`,
-        birthDate: "",
-        birthLocation: "",
-        deathDate: "",
-        deathLocation: "",
-        narrative: `
+    //     title: `Community organization<br>Est. 1981`,
+    //     birthDate: "",
+    //     birthLocation: "",
+    //     deathDate: "",
+    //     deathLocation: "",
+    //     narrative: `
 
-            Established in 1981, Centro Presente is an immigrant-led,
-            community-based organization in Cambridge. It was originally created in response
-            to the influx of Central Americans fleeing U.S.-sponsored civil war but soon
+    //         Established in 1981, Centro Presente is an immigrant-led,
+    //         community-based organization in Cambridge. It was originally created in response
+    //         to the influx of Central Americans fleeing U.S.-sponsored civil war but soon
             
 
-            developed into an active community organization with a wider mission to develop
-            adult education programs (ESL, literacy, and citizenship), youth leadership
-            development (Pintamos Nuestro Mundo), and immigration legal services. <br><br>It was
-            founded by Sister Rose Marie Cummins (then attached to Saint
-            Mary's Catholic
-            Church), members of the Salvadoran immigrant community, and members of the legal
-            community in Cambridge. The current address is 54 Essex Street in Central Square in Cambridge
-            but the youth program is based in East Somerville. 
-           `,
-        otherNotes: "",
-        references: `Un Encuentro con Centro Presente (A discussion
-            at Cambridge Community Television) <Br>
-            Centro Presente's 25th Anniversary and Holiday Fiesta <Br>
-            Centro Presente's home page: <a href="http://www.cpresente.org" target="_self">http://www.cpresente.org</a>
+    //         developed into an active community organization with a wider mission to develop
+    //         adult education programs (ESL, literacy, and citizenship), youth leadership
+    //         development (Pintamos Nuestro Mundo), and immigration legal services. <br><br>It was
+    //         founded by Sister Rose Marie Cummins (then attached to Saint
+    //         Mary's Catholic
+    //         Church), members of the Salvadoran immigrant community, and members of the legal
+    //         community in Cambridge. The current address is 54 Essex Street in Central Square in Cambridge
+    //         but the youth program is based in East Somerville. 
+    //        `,
+    //     otherNotes: "",
+    //     references: `Un Encuentro con Centro Presente (A discussion
+    //         at Cambridge Community Television) <Br>
+    //         Centro Presente's 25th Anniversary and Holiday Fiesta <Br>
+    //         Centro Presente's home page: <a href="http://www.cpresente.org" >http://www.cpresente.org</a>
 
-        `,
-        photos: ["images_bios/centro presente.png"],
-        photoTitles: [],
-        dateCreated: "prior to 2009",
-        dateUpdated: "",
+    //     `,
+    //     photos: ["images_bios/centro presente.png"],
+    //     photoTitles: [],
+    //     dateCreated: "prior to 2009",
+    //     dateUpdated: "",
 
-        photoHeights: [],
-        editors: "",
-        authors: "CWHP volunteers",
-        categories: ["Social/Philanthropic Organization"],
-    },
+    //     photoHeights: [],
+    //     editors: "",
+    //     authors: "CWHP volunteers",
+    //     categories: ["Social/Philanthropic Organization"],
+    // },
     {
         poc: false,
         organization: false,
@@ -562,7 +565,7 @@ c_bios = [
         otherNotes: "",
         references: `<em>Cambridge Chronicle</em>, December 2, 1999<br>
             <a
-                href="http://education.stateuniversity.com/pages/1819/Chall-Jeanne-1921-1999.html" target="_self">http://education.stateuniversity.com/pages/1819/Chall-Jeanne-1921-1999.html</a><br>
+                href="http://education.stateuniversity.com/pages/1819/Chall-Jeanne-1921-1999.html" >http://education.stateuniversity.com/pages/1819/Chall-Jeanne-1921-1999.html</a><br>
             <em>Harvard Gazette</em> obituary December 2 1999
         `,
         photos: ["images_bios/jeanne chall.jpeg"],
@@ -619,12 +622,10 @@ c_bios = [
             one four years after her death. Her three children continued her retail,
             cookware, and Chinese food businesses.`,
         otherNotes: "",
-        references: ` <em>Boston</em> <em>Globe</em>, May 19, 1994. obituary
-            <br>
-            Giving Gallery: about Joyce Chen
+        references: ` <em>Boston</em> <em>Globe</em>, May 19, 1994
             
-        <Br><a href="https://en.wikipedia.org/wiki/Joyce_Chen_(chef)" target="_self">
-        https://en.wikipedia.org/wiki/Joyce_Chen_(chef)</a>
+        <Br>Wikipedia entry<Br>
+        &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://en.wikipedia.org/wiki/Joyce_Chen_(chef)">https://en.wikipedia.org/wiki/Joyce_Chen_(chef)</a>
         `,
         photos: ["images_bios/joycechen.jpg"],
         photoTitles: [],
@@ -718,16 +719,18 @@ c_bios = [
         references: ` Schlesinger Library, Julia Child collection guide<br>
             <em>Treasury of Women's Quotations</em> by Carolyn Warner, Prentice Hall,
             Englewood Cliffs, NJ, 1992.<Br>
-            <a href="https://guides.library.harvard.edu/schlesinger_julia_child" target="_self">Schlesinger Papers</a><br>
-            Image source: <a href="https://commons.wikimedia.org/wiki/File:Julia_Child_restore.jpg" target="_self">
-            https://commons.wikimedia.org/wiki/File:Julia_Child_restore.jpg</a><Br>
-            History Cambridge <a href="https://historycambridge.org/articles/julia-childs-kitchen/" target="_self">article</a><br>
+            Schlesinger Papers<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://guides.library.harvard.edu/schlesinger_julia_child">https://guides.library.harvard.edu/schlesinger_julia_child</a><br>
+            Image source: wikipedia<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://commons.wikimedia.org/wiki/File:Julia_Child_restore.jpg">https://commons.wikimedia.org/wiki/File:Julia_Child_restore.jpg</a><Br>
+            History Cambridge article<Br>
+             &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://historycambridge.org/articles/julia-childs-kitchen/" >https://historycambridge.org/articles/julia-childs-kitchen/</a><br>
             <i>America's Master Chef Looks at the Highlights, Culinary and Otherwise, of the City and its Neighbor, Cambridge</i> by Barbara
             Beckwith, USAir Magazine, March, 1996<br>
-            <i>            The Cambridge Chronicle</i>, 11 March 1976<br>
-                                    "Goodbye, Julia Child"
-            Nov.9, 2001, <i>All Things Considered</i>, NRP: 
-            <a href="https://www.npr.org/2001/11/09/1133015/goodbye-julia-child">https://www.npr.org/2001/11/09/1133015/goodbye-julia-child</a>
+            <i> he Cambridge Chronicle</i>, 11 March 1976<br>
+            Goodbye, Julia Child"
+            Nov.9, 2001, <i>All Things Considered</i>, NRP<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://www.npr.org/2001/11/09/1133015/goodbye-julia-child">https://www.npr.org/2001/11/09/1133015/goodbye-julia-child</a>
 
         `,
         photos: ["images_bios/Julia_Child_restore.jpg"],
@@ -776,11 +779,11 @@ c_bios = [
             `,
         otherNotes: "",
         references: `Written by Kimm Topping, printed in Mapping Feminist Cambridge guidebook, 2019<br>
-            <a href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf" target="_self">
+            <a href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf" >
                 https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf
             </a><br>
             <strong>Photo: </strong>Cambridge Chronicle, 18 November 1971<br>
-            Cambridge Chronicle, 18 November 1971<Br>
+            <i>Cambridge Chronicle</i>, 18 November 1971<Br>
             The Child Care Resource Center archive is housed at Schlesinger
             Library, Radcliffe Institute.
 
@@ -839,8 +842,9 @@ c_bios = [
                 https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a><Br>
                 <a href="https://historycambridge.org/articles/businesses-well-lived-city-girl-cafe/">
                 History Cambridge article on City Girl Cafe</a><Br>
-                THE HISTORY PROJECT: Documenting Documenting LGBTQ Boston <a href="https://www.facebook.com/watch/?v=10154900501831931">
-                Facebook post</a><br>
+                THE HISTORY PROJECT: Documenting Documenting LGBTQ Boston Facebook post
+                <br>&nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://www.facebook.com/watch/?v=10154900501831931">
+                https://www.facebook.com/watch/?v=10154900501831931</a><br>
                 Image from <a href="https://www.instagram.com/p/B_LqhOsgWer/">https://www.instagram.com/p/B_LqhOsgWer/</a>                
 
 
@@ -1033,9 +1037,9 @@ c_bios = [
             `,
         otherNotes: "",
         references: `<em>Notable American Women, Modern Period</em>;
-            Ada Louise Comstock papers, Smith College.<br>Public domain Image source: 
-            <a href="https://en.wikipedia.org/wiki/Ada_Comstock" target="_self">https://en.wikipedia.org/wiki/Ada_Comstock</a>
-            <Br>Cambridge City Directory, 1928
+            Ada Louise Comstock papers, Smith College.<br>Image source: wikipedia<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://en.wikipedia.org/wiki/Ada_Comstock">https://en.wikipedia.org/wiki/Ada_Comstock</a>
+            <Br><i>Cambridge City Directory</i>, 1928
         `,
         photos: ["images_bios/Ada-Comstock-1905.jpg"],
         photoTitles: [],
@@ -1177,16 +1181,17 @@ c_bios = [
             `,
         otherNotes: "",
         references: ` &#8220;Sister Rose Marie Cummins&#8221; Environmental
-            Quality Commission Earth Day, Earth Day 2006 <a
+            Quality Commission Earth Day, Earth Day 2006<br> 
+            &nbsp;&nbsp;&nbsp;&nbsp;<a
                 href="http://www.eqc.ky.gov/eday/eday2006/Sister%2BRose%2BMarie%2BCummins.htm">http://www.eqc.ky.gov/eday/eday2006/Sister+Rose+Marie+Cummins.htm</a><br>
             &#8220;The evolution of the Latino Community in Cambridge Massachusetts&#8221;
             Professor Deborah Pacini-Hernandez In collaboration with Maira Prez and Melissa
-            Lee, Spring, 2002. Department of Anthropology, Tufts University. <a
+            Lee, Spring, 2002. Department of Anthropology, Tufts University
+            <br>&nbsp;&nbsp;&nbsp;&nbsp;<a
                 href="http://repository01.lib.tufts.edu:8080/fedora/get/tufts:MS083.001.001.00013/bdef:TuftsPDF/getPDF">http://repository01.lib.tufts.edu:8080/fedora/get/tufts:MS083.001.001.00013/bdef:TuftsPDF/getPDF</a>.
-            Centro Presente's 25th Anniversary and Holiday Fiesta <a
-                href="http://www.massjwj.net/node/653">http://www.massjwj.net/node/653</a>.
-            <br>
-            See entry for <a href="https://cwhp.cambridgema.gov/bios.html?ln=CentroPresente&mN=&fN=">Centro Presente</a>.
+            Centro Presente's 25th Anniversary and Holiday Fiesta
+            <br>&nbsp;&nbsp;&nbsp;&nbsp; <a
+                href="http://www.massjwj.net/node/653">http://www.massjwj.net/node/653</a
             <br>
             <i>Cambridge Chronicle</i> December 21, 2006
         `,
@@ -1271,11 +1276,12 @@ c_bios = [
         references: `
             <em>Cambridge Chronicle</em>. Sept 6, 2000<br>
             hollywood.com<Br>
-            <br>Image source: <a href="https://en.wikipedia.org/wiki/Jane_Curtin" target="_self">https://en.wikipedia.org/wiki/Jane_Curtin</a>
+            <br>Image source: wikipedia<Br>&nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://en.wikipedia.org/wiki/Jane_Curtin" >https://en.wikipedia.org/wiki/Jane_Curtin</a>
             <br><i>New Yorker</i>, "Jane Curtin Is Playing It Straight,
             The veteran actress on the Republican Party, the turbulence of “S.N.L.,” and the state of women in comedy."
             By Michael Schulman,
-            February 17, 2019: <A href="https://www.newyorker.com/culture/the-new-yorker-interview/jane-curtin-is-playing-it-straight">link</a>
+            February 17, 2019<Br>
+            &nbsp;&nbsp;&nbsp;&nbsp; <A href="https://www.newyorker.com/culture/the-new-yorker-interview/jane-curtin-is-playing-it-straight">link</a>
         
             `,
         photos: [

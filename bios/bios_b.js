@@ -156,13 +156,13 @@ b_bios = [
         otherNotes: "",
         references: ` 
             <em>Notable American Women: The Modern Period</em> (1980)<br>
-            Nobel prize information online: <a href="http://nobelprize.org/nobel_prizes/peace/laureates/1946/balch-bio.html">
-            http://nobelprize.org/nobel_prizes/peace/laureates/1946/balch-bio.html</a>
+            NobelPrize.org<Br>
+            &nbsp; &nbsp;&nbsp;&nbsp;<a href="http://nobelprize.org/nobel_prizes/peace/laureates/1946/balch-bio.html">http://nobelprize.org/nobel_prizes/peace/laureates/1946/balch-bio.html</a>
             <br>
             Mercedes M. Randall, <em>Improper Bostonian: Emily Greene Balch, Nobel Peace
                 Laureate</em>, 1946, (Twayne Publishers, 1964).<br>
-                Image source: <A href="https://en.wikipedia.org/wiki/Emily_Greene_Balch">
-                https://en.wikipedia.org/wiki/Emily_Greene_Balch</a><Br>
+                Image from wikipedia <Br>
+                &nbsp; &nbsp;&nbsp;&nbsp;<A href="https://en.wikipedia.org/wiki/Emily_Greene_Balch">https://en.wikipedia.org/wiki/Emily_Greene_Balch</a><Br>
                 <i>The Cambridge Chronicle</i>, Feb. 10, 1900, May 10 1913, Jan. 3 1957
 
         `,
@@ -237,13 +237,14 @@ b_bios = [
 
             `,
         otherNotes: "",
-        references: ` <em>Notable American Women</em> (1609-1950) Vol
-            I<br> Baldwin school: <a href="https://baldwin.cpsd.us/" target="_self">https://baldwin.cpsd.us/</a>
+        references: ` <em>Notable American Women</em> (1609-1950) Vol I<br> 
+        Baldwin school<Br>
+        &nbsp; &nbsp;&nbsp;&nbsp;<a href="https://baldwin.cpsd.us/">https://baldwin.cpsd.us/</a>
             <Br>Photo source: wikipedia<Br>
-            Cambridge City Directory, 1899<Br>
+            <i>Cambridge City Directory</i>, 1899<Br>
             <i>The Cambridge Chronicle</i>, Volume XLVIII, Number 41, 14 October 1893
-            <br><i>The Crisis, August 1915: <A href="https://www.marxists.org/history/usa/workers/civil-rights/crisis/0800-crisis-v10n04-w058.pdf">
-            https://www.marxists.org/history/usa/workers/civil-rights/crisis/0800-crisis-v10n04-w058.pdf</a>
+            <br><i>The Crisis, August 1915
+            <Br>&nbsp; &nbsp;&nbsp;&nbsp;<A href="https://www.marxists.org/history/usa/workers/civil-rights/crisis/0800-crisis-v10n04-w058.pdf">https://www.marxists.org/history/usa/workers/civil-rights/crisis/0800-crisis-v10n04-w058.pdf</a>
 
         `,
         photos: ["images_bios/mary louise baldwin.jpeg"],
@@ -298,8 +299,9 @@ b_bios = [
 
             `,
         otherNotes: "",
-        references: ` <em>Boston Globe</em> obituary, November 9, 1901<br><em>
-        Cambridge Chronicle</em>, November 9, 1901
+        references: ` <em>The Boston Globe</em>, November 9, 1901<br>
+        <em>
+        The Cambridge Chronicle</em>, November 9, 1901
         `,
         photos: ["images_bios/BarlowNov91901.png"],
         photoTitles: ["Cambridge Chronicle November 9, 1901"],
@@ -347,9 +349,10 @@ b_bios = [
 
             `,
         otherNotes: "",
-        references: ` <em>Boston Globe</em> 6-25-99<br><em>The Cambridge Chronicle</em>, Volume 153, Number 24, 17 June 1999
-        <br>Cambridge City Directory, 1965<Br>
-        <i>Boston Globe</i> Sep 12, 1945, Page 83
+        references: ` <em>The Boston Globe</em> June 25, 1999<br>
+        <em>The Cambridge Chronicle</em>, Volume 153, Number 24, 17 June 1999
+        <br><i>Cambridge City Directory</i>, 1965<Br>
+        <i>The Boston Globe</i> Sep 12, 1945
 
         `,
         photos: ["images_bios/barnes.png"],
@@ -422,7 +425,7 @@ b_bios = [
         otherNotes: "",
         references: ` Biographical article, Mary Bancroft papers, Schlesinger
             Library, Radcliffe Institute.<Br>
-            Cambridge City Directory, 1905<br>
+            <i>Cambridge City Directory</i>, 1905<br>
             <i>The Cambridge Chronicle</i>, 1 May 1952
         `,
         photos: ["images_bios/mary bancroft.jpeg"],
@@ -482,8 +485,9 @@ b_bios = [
 
             `,
         otherNotes: "",
-        references: `<em>Cambridge Chronicle</em> 6-16-1966, 1-12-1967, 6-8-1995, 6-12-1997, 4-25-2001,<br>
-        Image source, <em>Boston Globe</em>  Apr 24, 2001, March 3, 2014
+        references: `<em>Cambridge Chronicle:</em><Br>
+        Jun. 16, 1966<Br>Jan. 12, 1967<br>June 8, 1995<br>June 12, 1997<br>April 25, 2001<br>
+        Image source: <em>Boston Globe</em>  Apr 24, 2001, March 3, 2014
         `,
         photos: ["images_bios/barron3.png", "images_bios/barron2.png"],
         photoTitles: ["", "The Cambridge Chronicle, 12 January 1967"],
@@ -535,9 +539,12 @@ b_bios = [
             `,
         otherNotes: "",
         references: ` Houghton Library archives under Rog&eacute; (Henry
-            Wadsworth Longfellow collection); <em>Appleton encyclopedia</em>; Frances E
+            Wadsworth Longfellow collection)<Br>
+            <em>Appleton encyclopedia</em><Br>
+             Frances E
             Willard and Mary A. Livermore, <em>American Women: Fifteen Hundred Biographies</em>
-            (1897).<br>Image source: wikimedia commons
+            (1897)
+            <br>Image source: wikimedia commons
         `,
         photos: ["images_bios/charlotte bates.jpg"],
         photoTitles: [],
@@ -708,14 +715,19 @@ b_bios = [
             `,
         otherNotes: "",
         references: `
-            Bell Family Papers , Library of Congress, Washington DC<br>
-            Lilias M Toward; <em>Mabel Bell: Alexander's Silent Partner</em> (Methuen, 1984).<br>
-            Ann J. Bishundayal, <em>Mabel Hubbard Bell</em> Protea Publishing Company, 2002.<br>
+            Bell Family Papers, Library of Congress, Washington DC, Lilias M Toward
+            <Br><em>Mabel Bell: Alexander's Silent Partner</em> (Methuen, 1984)
+            <br>
+            Ann J. Bishundayal, <em>Mabel Hubbard Bell</em> Protea Publishing Company, 2002<br>
             Waite, Helen <em>Make a Joyful Sound Romance of Mabel Hubbard and Alexander
-                Graham Bell</em>, Philadelphia: Mcrae Smith 1961.<br>Image source: wikimedia commons
-                <br>Address from 1873 Hopkins Map, Cambridge Historical Commission<Br>
-                <A href="https://agbell.org/2021/03/02/mabel-bell-the-driving-force-behind-alexander-graham-bell/">Mabel Bell, the Driving Force Behind Alexander Graham Bell</a>
-        <br><a href="https://en.wikipedia.org/wiki/Mabel_Gardiner_Hubbard">https://en.wikipedia.org/wiki/Mabel_Gardiner_Hubbard</a>
+                Graham Bell</em>, Philadelphia: Mcrae Smith 1961
+                <br>Image source: wikimedia commons
+                <br>Street address from 1873 Hopkins Map, Cambridge Historical Commission<Br>
+                <i>Mabel Bell, the Driving Force Behind Alexander Graham Bell</i>, Assoc. for the Deaf and Hard of Hearing
+                &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://agbell.org/2021/03/02/mabel-bell-the-driving-force-behind-alexander-graham-bell/">https://agbell.org/2021/03/02/mabel-bell-the-driving-force-behind-alexander-graham-bell/</a>
+        
+                <br>Wikipedia entry<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://en.wikipedia.org/wiki/Mabel_Gardiner_Hubbard">https://en.wikipedia.org/wiki/Mabel_Gardiner_Hubbard</a>
                 `,
         photos: ["images_bios/Mabel_Hubbard_Bell.jpg"],
         photoTitles: [],
@@ -775,10 +787,11 @@ b_bios = [
         references: ` Ozeline (Pearson) Wise papers and biographical information,
             Schlesinger Library. An oral biography is included in the <em>Black Women Oral
                 History
-                Project</em>of Schlesinger Library.<Br>
+                Project</em>of Schlesinger Library
+                <Br>
                 <i>The Cambridge Chronicle</i>, 23 July 1921<Br>
                 <i>The Cambridge Chronicle</i>, 15 June 1967<br>
-                U.S., Social Security Death Index, 1935-2014
+                <i>U.S., Social Security Death Index</i>, 1935-2014
 
 
         `,
@@ -860,12 +873,12 @@ b_bios = [
         references: `
 
             Tony Chamberlain. &#8220;Berman, a women's movement unto herself with 3 unofficial
-            wins.&#8221; <em>Boston Globe</em>, April 16, 2006<br>
+            wins&#8221; <em>Boston Globe</em>, April 16, 2006<br>
             Hal Higdon, <em>Boston: A Century of Running</em> (1995)<br>
             Sara Mae Berman, personal communication.<br>
             Photograph by Jaye R. Phillips.  From the personal collection of Sara Mae Berman.<Br>
 
-        Cambridge City Directory, 1965
+        <i>Cambridge City Directory</i>, 1965
         `,
         photos: ["images_bios/Sara Mae Berman.jpeg"],
         photoTitles: [],
@@ -978,16 +991,18 @@ b_bios = [
         otherNotes: "",
         references: ` David Walton, &#8220;Gotham when they were Young&#8221;
 
-            <em>New York Times</em> June 9, 2002<Br>Christopher Lehmann-Haupt. &#8220;Whats
+            <em>New York Times</em> June 9, 2002<Br>
+            Christopher Lehmann-Haupt. &#8220;Whats
             in a Name: Ima Hogg Knew&#8221;
             <em> NY Times</em>, January 1997<Br>
             Anne Bernays
             &#8220;Remembering Mrs McIntosh &#8220; <em>Chronicle of Higher Education</em>,
             Feb 9, 2002<Br>&#8220;Meet the Writers: Anne Bernays&#8221; (includes interview)
             Barnes and Noble website<Br>
-            <i>The Cambridge Chronicle</i>, 2 May 1968<br>
-            <a href="https://patlc.wordpress.com/interview-with-anne-bernays/">https://patlc.wordpress.com/interview-with-anne-bernays/</a>
-            <br><A href="https://chicagowrites.substack.com/p/interview-with-anne-bernays">2024 Interview with Anne Bernays</a>
+            <i>The Cambridge Chronicle</i> 2 May 1968<br>
+            2024 Interview with Anne Bernays on <i>Aging and the Creative Process</i> WordPress site<Br>
+            &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://patlc.wordpress.com/interview-with-anne-bernays/">https://patlc.wordpress.com/interview-with-anne-bernays/</a>
+          
 
         `,
         photos: ["images_bios/bernays2.png", "images_bios/ann bernays.webp"],
@@ -1033,7 +1048,7 @@ b_bios = [
         otherNotes: "",
         references: ` Ogilvie, Marilyn and Joy Harvey. <em>Biographical
                 Dictionary of Women Scientists</em>. Routledge Press, 2000.
-                <br>Cambridge City Directory, 1972
+                <br><i>Cambridge City Directory</i>, 1972
         `,
         photos: ["images_bios/grete bibring.jpg"],
         photoTitles: [],
@@ -1106,8 +1121,9 @@ b_bios = [
             `,
         otherNotes: "",
         references: ` &quot;Elizabeth Bishop&quot;. The Academy of American
-            Poets &#8211; Elizabeth Bishop. Date accessed 30 November 2005; <a
-                href="http://www.poets.org/poet.php/prmPID/7" target="_self">http://www.poets.org/poet.php/prmPID/7</a><br>
+            Poets &#8211; Elizabeth Bishop. Date accessed 30 November 2005<Br>
+            &nbsp;&nbsp;&nbsp;&nbsp;<a
+                href="http://www.poets.org/poet.php/prmPID/7" >http://www.poets.org/poet.php/prmPID/7</a><br>
             Lensing, George S. and Colwell, Anne Agnes. &quot;About Elizabeth Bishop&quot;<Br>
             Robert Dale Parker, University of Illinois at Urbana-Champaign. Date accessed,
             30 November 2005<br>
@@ -1161,7 +1177,7 @@ b_bios = [
             `,
         otherNotes: "",
         references: `<a
-                href="https://www.radcliffe.harvard.edu/schlesinger-library/collections/black-women-oral-history-project" target="_self">https://www.radcliffe.harvard.edu/schlesinger-library/collections/black-women-oral-history-project</a>
+                href="https://www.radcliffe.harvard.edu/schlesinger-library/collections/black-women-oral-history-project" >https://www.radcliffe.harvard.edu/schlesinger-library/collections/black-women-oral-history-project</a>
         `,
         photos: ["images_bios/black womens oral history.avif"],
         photoTitles: ["BWOHP board members, c.1980"],
@@ -1230,11 +1246,8 @@ b_bios = [
             Cambridge Historical Commission (files), Obituary from <em>Cambridge Chronicle</em><br>
             <em>Notable American Women</em> (1607-1950) Vol I
             <br>
-            Alice Stone Blackwell half-length portrait, seated, facing right, holding copy
-            
-            of Woman's Journal, of which she was editor, between 1905 and 1917. <br>
             George Grantham Bain Collection, Library of Congress.
-            <Br>Cambridge City Directory, 1944<br>
+            <Br><i>Cambridge City Directory<i>, 1944<br>
                         <i>The Cambridge Chronicle</i>, 6 June 1935
 
 
@@ -1316,8 +1329,8 @@ b_bios = [
             `,
         otherNotes: "",
         references: ` <em>Boston Globe </em>September 3, 2007, obituary<br>
-            Cambridge Chronicle obituary, August 23, 2007<Br>
-            The Cambridge Chronicle, Volume 149, Number 16, 20 April 1995<br>
+            <i>Cambridge Chronicle</i> obituary, August 23, 2007<Br>
+            <i>The Cambridge Chronicle</i>, Volume 149, Number 16, 20 April 1995<br>
                <i>The Boston Globe</i>, Oct 08, 1989, Page 443
 
         `,
@@ -1371,8 +1384,8 @@ b_bios = [
             `,
         otherNotes: "",
         references: ` <em>Cambridge Chronicle</em> 6-13-01<br>
-        The Cambridge Chronicle, Volume 137, Number 22, 2 June 1983<br>
-        Cambridge City Directory, 1968
+        <i>The Cambridge Chronicle</i>, Volume 137, Number 22, 2 June 1983<br>
+        <i>Cambridge City Director</i>y, 1968
 
         `,
         photos: [""],
@@ -1427,9 +1440,10 @@ b_bios = [
             `,
         otherNotes: "",
         references: ` Ogilvie, Marilyn. <em>A Dame full of Vim and Vigor.</em>
-            1998; Ogilvie, Marilyn and Joy Harvey. <em>Biographical Dictionary of Women
+            1998<br>
+            Ogilvie, Marilyn and Joy Harvey. <em>Biographical Dictionary of Women
                 Scientists</em>. Routledge Press, 2000.<br>
-                1954 Cambridge City Directory
+                <i> Cambridge City Directory</i> 1954
         `,
         photos: [""],
         photoTitles: [],
@@ -1498,7 +1512,7 @@ b_bios = [
             Monsaingeon, Bruno <em>Mademoiselle</em> Manchester
             UK: Carcanet, 1985.<br>
             Rosenstiel, Leonie <em>A Life in Music NY</em>: WW Norton
-            1982.<Br>Cambridge City Directory, 1941<br>
+            1982.<Br><i>Cambridge City Directory</i>, 1941<br>
             Photo from <a href="https://en.wikipedia.org/wiki/Nadia_Boulanger#/media/File:Nadia_Boulanger_1925.jpg">
             https://en.wikipedia.org/wiki/Nadia_Boulanger#/media/File:Nadia_Boulanger_1925.jpg</a>
 
@@ -1612,10 +1626,11 @@ b_bios = [
             `,
         otherNotes: "",
         references: `<em>Boston Globe </em>July 17, 2005
-        <br>Cambridge City Directory, 1971<Br>
-        <a href="https://www.legacy.com/us/obituaries/bostonglobe/name/hermine-brand-obituary?id=26471657">
+        <br><i>Cambridge City Directory</i>, 1971<Br>
+        Legacy.com obituary<Br>
+        &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://www.legacy.com/us/obituaries/bostonglobe/name/hermine-brand-obituary?id=26471657">
         https://www.legacy.com/us/obituaries/bostonglobe/name/hermine-brand-obituary?id=26471657</a><Br>
-        U.S., Social Security Death Index, 1935-2014
+        <i>U.S., Social Security Death Index</i>, 1935-2014
         `,
         photos: [""],
         photoTitles: [],
@@ -1724,7 +1739,7 @@ b_bios = [
             Beazley, 2005.<br><br>
             Bill Brett, Kerry Brett, Carol Beggy. <em>Boston, Inspirational Women</em> Boston,
             MA: Three Bean Press, 2011. <br>
-            The Brass Sisters' s website: <a href="http://www.thebrasssisters.com" target="_self">www.thebrasssisters.com</a>
+            The Brass Sisters' s website: <a href="http://www.thebrasssisters.com" >www.thebrasssisters.com</a>
 
 
         `,
@@ -1819,7 +1834,7 @@ b_bios = [
              What to Look for and What to Pay for Kitchenware for Over 2000 Items of Kitchenware</em>. London: Mitchell
               Beazley, 2005.<br>Bill Brett, Kerry Brett, Carol Beggy.&nbsp;<em>Boston, Inspirational Women&nbsp;
               </em>Boston, MA: Three Bean Press, 2011.<br>The Brass Sisters&apos; s website: 
-              <a href="http://www.thebrasssisters.com/" target="_self">www.thebrasssisters.com</a><Br>
+              <a href="http://www.thebrasssisters.com/" >www.thebrasssisters.com</a><Br>
         The Boston Globe, Sept. 12, 2022</p>
      
 
@@ -1877,9 +1892,9 @@ b_bios = [
             `,
         otherNotes: "",
         references: `Ogilvie, Marilyn and Joy Harvey. <em>Biographical
-                Dictionary of Women Scientists</em>. Routledge Press, 2000.<Br>
-                Massachusetts, Death Index, 1970-2003<Br>
-                U.S. Naturalization Record Indexes, 1791-1992 
+                Dictionary of Women Scientists</em>. Routledge Press, 2000<Br>
+                <i>Massachusetts, Death Index</i>, 1970-2003<Br>
+                <i>U.S. Naturalization Record Indexes</i>, 1791-1992 
 
 
         `,
@@ -1944,10 +1959,11 @@ b_bios = [
             of Socialist Feminism&#8221; (Brandeis, PhD dissertation 1978).<br>
             Annie Popkin Papers, Schlesinger Library, Radcliffe Institute. Includes materials
             from the affiliated organization, Cell 16.<br>
-            See also, Mass Moments posting at <a
-                href="http://www.massmoments.org/moment.cfm?mid=16">http://www.massmoments.org/moment.cfm?mid=16</a><Br>
-                Tess Ewing interview from <a href="https://www.bu.edu/wgs/files/2013/10/Ewing-Bread-and-Roses.pdf">
-                https://www.bu.edu/wgs/files/2013/10/Ewing-Bread-and-Roses.pdf</a>
+            Mass Moments posting<Br>&nbsp;&nbsp;&nbsp;&nbsp;<a
+                href="http://www.massmoments.org/moment.cfm?mid=16">http://www.massmoments.org/moment.cfm?mid=16</a>
+                <Br>
+                Tess Ewing interview <br>
+                &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://www.bu.edu/wgs/files/2013/10/Ewing-Bread-and-Roses.pdf">https://www.bu.edu/wgs/files/2013/10/Ewing-Bread-and-Roses.pdf</a>
 
         `,
         photos: [""],
@@ -2016,7 +2032,7 @@ b_bios = [
             `,
         otherNotes: "",
         references: ` Written by Kimm Topping, printed in Mapping Feminist Cambridge guidebook, 2019:
-            <a href="https://historycambridge.org/self-guided-tours/self-guided-tour-mapping-feminist-cambridge-inman-square-1970s-1990s/" target="_self">
+            <a href="https://historycambridge.org/self-guided-tours/self-guided-tour-mapping-feminist-cambridge-inman-square-1970s-1990s/" >
             https://historycambridge.org/self-guided-tours/self-guided-tour-mapping-feminist-cambridge-inman-square-1970s-1990s/</a><br>
             Stories for Bread and Roses provided by Pat Hynes.
         `,
@@ -2071,9 +2087,10 @@ b_bios = [
             `,
         otherNotes: "",
         references: ` <em>Notable American Women, Modern Period</em> (Belnap
-            Press: 1980)<Br>Photo from <a href="https://en.wikipedia.org/wiki/Charlotte_Hawkins_Brown#/media/File:Charlotte_Eugenia_Hawkins_Brown.jpg">
-            https://en.wikipedia.org/wiki/Charlotte_Hawkins_Brown#/media/File:Charlotte_Eugenia_Hawkins_Brown.jpg</a><Br>
-            <a href="https://en.wikipedia.org/wiki/Charlotte_Hawkins_Brown">https://en.wikipedia.org/wiki/Charlotte_Hawkins_Brown</a>
+            Press: 1980)<Br>
+            Photo from wikipedia<Br>
+            &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://en.wikipedia.org/wiki/Charlotte_Hawkins_Brown#/media/File:Charlotte_Eugenia_Hawkins_Brown.jpg">https://en.wikipedia.org/wiki/Charlotte_Hawkins_Brown#/media/File:Charlotte_Eugenia_Hawkins_Brown.jpg</a><Br>
+            <br>Wikipedia entry<Br>&nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://en.wikipedia.org/wiki/Charlotte_Hawkins_Brown">https://en.wikipedia.org/wiki/Charlotte_Hawkins_Brown</a>
         `,
         photos: ["images_bios/brown_charlotte.jpg"],
         photoTitles: [],
@@ -2114,7 +2131,7 @@ b_bios = [
             `,
         otherNotes: "",
         references: ` <em>Cambridge Chronicle</em> 10-20-99
-        <br>Cambridge City Directory, 1954
+        <br><I>Cambridge City Directory</i>, 1954
         `,
         photos: ["images_bios/brunt ruth 1917 chls.png"],
         photoTitles: [],
@@ -2225,9 +2242,8 @@ b_bios = [
         references: ` Ogilvie, Marilyn and Joy Harvey. <em>Biographical
                 Dictionary of Women Scientists.</em> Routledge Press, 2000. Obituary in <em>Harvard
                 Gazette</em>, 1998.
-                <br>Cambridge City Directory, 1963<Br>
-                Photo from <a href="https://en.wikipedia.org/wiki/Mary_Bunting#/media/File:Mary_Bunting.jpg">
-                https://en.wikipedia.org/wiki/Mary_Bunting#/media/File:Mary_Bunting.jpg</a>
+                <br><i>Cambridge City Directory</i>, 1963<Br>
+                Photo from wikipedia<br>&nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://en.wikipedia.org/wiki/Mary_Bunting#/media/File:Mary_Bunting.jpg">https://en.wikipedia.org/wiki/Mary_Bunting#/media/File:Mary_Bunting.jpg</a>
         `,
         photos: ["images_bios/Mary_Bunting.jpg"],
         photoTitles: [],
@@ -2421,9 +2437,8 @@ Thu, Sep 30, 1999, page 77
         references: `<em>Cambridge Chronicle</em> 2 February, 2000
         <br>Cambridge City Directory, 1972<br>
         <i>The Cambridge Tribune</i>, Volume XLI, Number 39, 23 November 1918<br>
-        U.S. Census 1910, 1920, 1930<Br>
-        Birthdate from <a href="https://www.ancestry.com/family-tree/person/tree/119672567/person/230193076280/facts">
-        https://www.ancestry.com/family-tree/person/tree/119672567/person/230193076280/facts</a>
+        <i>U.S. Census</i> 1910, 1920, 1930<Br>
+        Birthdate from ancestry.com<Br> &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://www.ancestry.com/family-tree/person/tree/119672567/person/230193076280/facts">https://www.ancestry.com/family-tree/person/tree/119672567/person/230193076280/facts</a>
 
         `,
         photos: ["images_bios/butler.png"],
@@ -2475,9 +2490,10 @@ Thu, Sep 30, 1999, page 77
             `,
         otherNotes: "",
         references: ` <em>Cambridge Chronicle</em> 09-16-99<Br>
-        US Censuses: 1910, 1941<Br>
-        <a href="https://kinginstitute.stanford.edu/king-preaches-cambridges-union-baptist-church" target="_self">
-        https://kinginstitute.stanford.edu/king-preaches-cambridges-union-baptist-church</a>
+        <i>US Census</i> 1910, 1941<Br>
+        King Institute at Stanford University
+        <br>
+        &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://kinginstitute.stanford.edu/king-preaches-cambridges-union-baptist-church">https://kinginstitute.stanford.edu/king-preaches-cambridges-union-baptist-church</a>
         `,
         photos: [""],
         photoTitles: [],
@@ -2538,17 +2554,17 @@ Thu, Sep 30, 1999, page 77
         otherNotes: "",
         references: ` Bernstein, V. Susan Butcher, Pioneer in Sled Dog Racing. (August 17, 2006). New York
         Times. <Br>Retrieved 7/4/2020 from
-        <a href="https://www.nytimes.com/2006/08/07/sports/07butcher.html" target="_self">
+        <a href="https://www.nytimes.com/2006/08/07/sports/07butcher.html" >
         https://www.nytimes.com/2006/08/07/sports/07butcher.html</a>.<Br><Br>
         Academy of Achievement (n.d). Interview with Susan Butcher, Champion Dog Sled Racer.
-        <Br>Retrieved 7/4/2020 from <a href="https://achievement.org/achiever/susan-butcher/#interview/" target="_self">
+        <Br>Retrieved 7/4/2020 from <a href="https://achievement.org/achiever/susan-butcher/#interview/" >
         https://achievement.org/achiever/susan-butcher/#interview/</a><Br><Br>
 
         Alaska Sports Hall of Fame (n.d.). Susan Butcher: Hard-nosed Competitor. <Br>Retrieved 7/4/2020
-        from <a href=" http://alaskasports.wpengine.com/inductee/susan-butcher/" target="_self"> http://alaskasports.wpengine.com/inductee/susan-butcher/</a>
-        <Br><br><a href="https://www.thecrimson.com/article/1974/5/24/the-warehouse-school-one-alternative-pthe/" target="_self">
+        from <a href=" http://alaskasports.wpengine.com/inductee/susan-butcher/" > http://alaskasports.wpengine.com/inductee/susan-butcher/</a>
+        <Br><br><a href="https://www.thecrimson.com/article/1974/5/24/the-warehouse-school-one-alternative-pthe/" >
         https://www.thecrimson.com/article/1974/5/24/the-warehouse-school-one-alternative-pthe/</a><Br><Br>
-        Photo source: <a href="https://commons.wikimedia.org/wiki/File:Fairbanks_-_Susan_Butcher_and_Dogs.jpg" target="_self">
+        Photo source: <a href="https://commons.wikimedia.org/wiki/File:Fairbanks_-_Susan_Butcher_and_Dogs.jpg" >
         https://commons.wikimedia.org/wiki/File:Fairbanks_-_Susan_Butcher_and_Dogs.jpg</a>
 <br><Br><b>NOTE: bio written July 2020 - added to site in 2025</b>
         `,
@@ -2685,8 +2701,8 @@ Thu, Sep 30, 1999, page 77
             `,
         otherNotes: "",
         references: `Source: in-person interview and email exchange with Anthony Beckwith
-        <Br><a href="https://www.barbarabeckwith.net/2013/10/01/why-read-slave-narratives-2/">Slave Narrative Essay at BarbaraBeckwith.net
-        </a>
+        <Br>Slave Narrative Essay at BarbaraBeckwith.net<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://www.barbarabeckwith.net/2013/10/01/why-read-slave-narratives-2/">https://www.barbarabeckwith.net/2013/10/01/why-read-slave-narratives-2/</a>
 
         `,
         photos: ["images_bios/barbarabeckwith.jpg"],
@@ -2718,13 +2734,13 @@ Thu, Sep 30, 1999, page 77
              <br><br>More information about Edith's life and work are outlined in the <b>Women Astronomical Computers at the Harvard College Observatory</b> project:
             <center>
              <h1>
-                <a href="https://platestacks.cfa.harvard.edu/women-at-hco/florence-c-bibber" target="_self">Florence Bibber's story</a>
+                <a href="https://platestacks.cfa.harvard.edu/women-at-hco/florence-c-bibber" >Florence Bibber's story</a>
              </h1>
 </center>
-        The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_self">Women Astronomical Computers at the Harvard College Observatory</a> project is 
+        The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" >Women Astronomical Computers at the Harvard College Observatory</a> project is 
         dedicated to highlighting the lives and work of women who spent time studying and caring 
         for the observatory's glass plate photograph collection.<Br>
-        <center>       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" target="_self"> <img src="images_bios/harvard-astronomers.png" width='350'></a>
+        <center>       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" > <img src="images_bios/harvard-astronomers.png" width='350'></a>
         
         </center>
 `,
@@ -2795,31 +2811,30 @@ Thu, Sep 30, 1999, page 77
         references: `
             "Elizabeth Eaton Butterfield, 65, Founder of Bryn Mawr Book Sale" (July 14,
             1978)
-            <i>The New York Times</i>
-            <a href="https://www.nytimes.com/1978/07/14/archives/elizabeth-eaton-butterfield-65-founder-of-bryn-mawr-book-sale.html" target="_self">https://www.nytimes.com/1978/07/14/archives/elizabeth-eaton-butterfield-
+            <i>The New York Times</i><br>
+            &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://www.nytimes.com/1978/07/14/archives/elizabeth-eaton-butterfield-65-founder-of-bryn-mawr-book-sale.html" >https://www.nytimes.com/1978/07/14/archives/elizabeth-eaton-butterfield-
             65-founder-of-bryn-mawr-book-sale.html</a>
             <br> <br>
             “The First Fifty Years: A History of the Bryn Mawr Book Store in Cambridge
-            with a Nod to its Sister Stores” by Jan Gardner, 2023
-            <a href="https://brynmawrbookstore.com/bookstore-history-for-sale/" target="_self">https://brynmawrbookstore.com/bookstore-history-for-sale/</a>
+            with a Nod to its Sister Stores” by Jan Gardner, 2023<br>
+            &nbsp;<a href="https://brynmawrbookstore.com/bookstore-history-for-sale/" >https://brynmawrbookstore.com/bookstore-history-for-sale/</a>
             <br> <br>
             "Long-Time Administrator Elizabeth Butterfield Dies" (July 18, 1978) <i>Harvard
-            Crimson</i>,
-            <a href="https://www.thecrimson.com/article/1978/7/18/long-time-administrator-elizabeth-butterfield-dies-pmrs/" target="_self">https://www.thecrimson.com/article/1978/7/18/long-time-administrator-
+            Crimson</i><Br>
+            &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://www.thecrimson.com/article/1978/7/18/long-time-administrator-elizabeth-butterfield-dies-pmrs/" >https://www.thecrimson.com/article/1978/7/18/long-time-administrator-
             elizabeth-butterfield-dies-pmrs/</a>
             <br> <br>
             "Elizabeth Butterfield (1913 - 1978)" by Dan Swanson (July 18, 1978)
-            <i>Harvard Crimson</i>
-            <a href="https://www.thecrimson.com/article/1978/7/18/elizabeth-butterfield-1913-1978-pbsbome/" target="_self">https://www.thecrimson.com/article/1978/7/18/elizabeth-butterfield-1913-
+            <i>Harvard Crimson</i><br>
+            &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://www.thecrimson.com/article/1978/7/18/elizabeth-butterfield-1913-1978-pbsbome/" >https://www.thecrimson.com/article/1978/7/18/elizabeth-butterfield-1913-
             1978-pbsbome/</a>
             <br><Br>
-            City of Cambridge announcement:  <a href="https://www.cambridgema.gov/CDD/News/2024/5/cambridgebusinesseshonoredat2024legacyluncheonawards"><br>
-           
-            https://www.cambridgema.gov/CDD/News/2024/5/cambridgebusinesseshonoredat2024legacyluncheonawards</a><br><Br>
-            Image from findagrave.com: <a href="https://www.findagrave.com/memorial/214077114/elizabeth-anne-butterfield">
-            https://www.findagrave.com/memorial/214077114/elizabeth-anne-butterfield</a><Br>
-            Cambridge City Directory, 1972<Br>
-            U.S., Social Security Death Index, 1935-2014
+            City of Cambridge announcement<Br>
+            &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://www.cambridgema.gov/CDD/News/2024/5/cambridgebusinesseshonoredat2024legacyluncheonawards">https://www.cambridgema.gov/CDD/News/2024/5/cambridgebusinesseshonoredat2024legacyluncheonawards</a><br><Br>
+            Image from findagrave.com<br>
+             &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://www.findagrave.com/memorial/214077114/elizabeth-anne-butterfield">https://www.findagrave.com/memorial/214077114/elizabeth-anne-butterfield</a><Br>
+            <i>Cambridge City Directory</i>, 1972<Br>
+            <i>U.S., Social Security Death Index</i>, 1935-2014
         `,
         photos: ["images_bios/butterfield.png"],
         photoTitles: [""],
@@ -2887,7 +2902,7 @@ Thu, Sep 30, 1999, page 77
         references: `
             <i>Cambridge Chronicle</i>:<br>30 July 1910<br>9 May 1925<br>24 September 1927<br>22 August 1930
             <br>9 February 1950<br>24 May 1962<br>14 June 1979<br>5 October 1989<Br>
-            Cambridge City Directory 1954, 1961
+            <i>Cambridge City Directory</i> 1954, 1961
         `,
         photos: ["images_bios/boudreau_alma2.png"],
         photoTitles: [

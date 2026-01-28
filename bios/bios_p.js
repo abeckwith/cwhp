@@ -42,7 +42,8 @@ p_bios = [
             After her death, her father published her correspondence detailing her experiences
             as a war nurse, <em>Memoir of Emily Elizabeth Parsons </em>(1880). `,
         otherNotes: "",
-        references: `<em>Notable American Women</em> (1950); <em>Biographical
+        references: `<em>Notable American Women</em> (1950)<Br>
+        <em>Biographical
                 Dictionary of Women Scientists</em> (2000)
             Image source: wikipedia public domain entry for Emily Parsons
         `,
@@ -106,11 +107,11 @@ p_bios = [
             and a peace activist, in his role as book editor of the <em>Scientific American</em>.
             She died in Cambridge at the age of ninety-five.`,
         otherNotes: "",
-        references: `Avi Steinberg in <em>Boston Globe</em> 7-19-05;
+        references: `Avi Steinberg in <em>The Boston Globe</em> July 19, 2005<Br>
             <em>Monthly Review</em>, December 1995.<Br>
-            Cambridge City Directory, 1968<Br>
+            <i>Cambridge City Directory</i>, 1968<Br>
             Photo credit: Alabama Holocaust Education Center, received from Steven Rasmussen, son of Lore May Rasmussen, a colleague of Fritz Pappenheim at Talladega College.
- Photo link: <a href="https://ahecinfo.org/survivors/pappenheim-fritz/">
+ <Br>><a class='indent' href="https://ahecinfo.org/survivors/pappenheim-fritz/">
             https://ahecinfo.org/survivors/pappenheim-fritz/</a>
         `,
         photos: ["images_bios/Pappenheim.jpg"],
@@ -172,7 +173,8 @@ p_bios = [
             and Bernard L. Wilieb. <em>The Book of Women's Firsts</em>, New York,
             1992. Marilyn Ogilvie and Joy Harvey (eds.) <em>Biographical Dictionary of Women
                 Scientists</em>. Routledge, 2000.<Br>
-                Image source: <a href="https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin" target="_self">https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin</a>
+                Image source: wikipedia<br>
+                <a class='indent' href="https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin" >https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin</a>
         `,
         photos: ["images_bios/Cecilia_Gaposchkin.jpg"],
         photoTitles: [],
@@ -239,7 +241,8 @@ p_bios = [
             <br>
             Ancestry.com genealogy records including family trees, vital records, U.S. Census
             reports, and city directory entries.<Br>
-            Image source: <a href="https://en.wikipedia.org/wiki/Melusina_Fay_Peirce" target="_self">https://en.wikipedia.org/wiki/Melusina_Fay_Peirce</a>
+            Image source: wikipedia<br>
+            <a class='indent' href="https://en.wikipedia.org/wiki/Melusina_Fay_Peirce" >https://en.wikipedia.org/wiki/Melusina_Fay_Peirce</a>
         `,
         photos: ["images_bios/peirce.png"],
         photoTitles: [],
@@ -295,9 +298,10 @@ p_bios = [
         references: ` Oral interview by Sarah Boyer.<br>
             &quot;A Century of Shalom &#8211; History: A History of the Organized Jewish
             Community in ambridge,&quot;<br>
-            Image source: <a href="https://www.legacy.com/us/obituaries/bostonglobe/name/sylvia-piltch-obituary?id=17084405">
+            Image source: legacy.com<Br>
+            <a class='indent' href="https://www.legacy.com/us/obituaries/bostonglobe/name/sylvia-piltch-obituary?id=17084405">
             https://www.legacy.com/us/obituaries/bostonglobe/name/sylvia-piltch-obituary?id=17084405</a><Br>
-            Cambridge City Directory, 1931
+            <i>Cambridge City Directory</i>, 1931
         `,
         photos: ["images_bios/piltch.jpeg"],
         photoTitles: [""],
@@ -383,12 +387,14 @@ p_bios = [
                 `,
         otherNotes: "",
         references: ` Oral interview with Peters' son, Matthew Peters<Br>
-        Online <a href="https://www.legacy.com/us/obituaries/wickedlocal-cambridgechronicle/name/kaethe-peters-obituary?id=20281318">
-        obit</a> written by Matthew Peters<br>
-         1965 City Directory<Br>
-        <i>The Cambridge Chronicle</i>, Volume 139, Number 30, 25 July 1985 & Volume 153, Number 49, 8 December 1999
-        <br>November 22, 2012 <i>The Boston Globe</i> <a href="https://www.bostonglobe.com/metro/obituaries/2012/11/22/kaethe-peters-cambridge-longtime-social-worker-educator/y50M8As1eXlni67qqiTd3I/story.html">
-        obituary</a> for Peters
+        Legacy.com written by Matthew Peters<Br>
+         <a class='indent' href="https://www.legacy.com/us/obituaries/wickedlocal-cambridgechronicle/name/kaethe-peters-obituary?id=20281318">
+        https://www.legacy.com/us/obituaries/wickedlocal-cambridgechronicle/name/kaethe-peters-obituary?id=20281318</a> <br>
+         <I>City Directory</i> 1965 <Br>
+        <i>The Cambridge Chronicle</i> 25 July 1985 &  8 December 1999
+        <br><i>The Boston Globe</i> , November 22, 2012 <Br>
+        <a class='indent' href="https://www.bostonglobe.com/metro/obituaries/2012/11/22/kaethe-peters-cambridge-longtime-social-worker-educator/y50M8As1eXlni67qqiTd3I/story.html">
+        https://www.bostonglobe.com/metro/obituaries/2012/11/22/kaethe-peters-cambridge-longtime-social-worker-educator/y50M8As1eXlni67qqiTd3I/story.html</a>
         `,
         photos: ["images_bios/peters.png"],
         photoTitles: [""],

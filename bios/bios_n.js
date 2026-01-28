@@ -45,9 +45,12 @@ n_bios = [
         references: ` Center for New Words site &#8220;History&#8221;
             <br>
             &#8220;From the Schlesinger Library&#8221; <em>Radcliffe Quarterly</em>, Winter
-            2003.
-            <br><a href="https://historyproject.omeka.net/items/show/872" target="_self">https://historyproject.omeka.net/items/show/872</a>Br>
-            Photo source: <a href="https://commons.m.wikimedia.org/" target="_self">https://commons.m.wikimedia.org/</a>
+            2003.<br>
+            
+           <i>Queer History Boston Digital Archives</i><br>
+           <a class='indent' href="https://historyproject.omeka.net/items/show/872" >https://historyproject.omeka.net/items/show/872</a>Br>
+            Photo source: wikipedia<Br>
+            <a class='indent' href="https://commons.m.wikimedia.org/" >https://commons.m.wikimedia.org/</a>
         `,
         photos: ["images_bios/new_words.jpg"],
         photoTitles: [],
