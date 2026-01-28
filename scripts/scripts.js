@@ -186,8 +186,8 @@ function showRecents(num) {
                             thename.lastName,
                             thename.middleName,
                             thename.firstName,
-                        )+
-                    "'>" +
+                        ) +
+                        "'>" +
                         thename.lastName +
                         ", " +
                         thename.firstName +
@@ -199,7 +199,6 @@ function showRecents(num) {
                         monthNum,
                         year,
                         dayNum,
-                        
                     });
                 }
             }
@@ -232,8 +231,7 @@ function showRecents(num) {
     });
     r2.forEach((element) => {
         html2 += element.html_build;
-                console.log(element.html_build)
-
+        console.log(element.html_build);
     });
     if (html + html2 != "")
         document.getElementById("recents").innerHTML = html + html2;
@@ -530,8 +528,7 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
     //reset scroll to top of bio when going to new bio:
     bioWindow = document.getElementById("bio");
     bioWindow.scrollTop = 0;
-            // setBoldInSideBar(bios, currentLetter, currentPersonIndex);
-
+    // setBoldInSideBar(bios, currentLetter, currentPersonIndex);
 }
 function onclickForMakeBio(ltrIndex, indexOfPerson, initial, search, topical) {
     makeBio(ltrIndex, indexOfPerson, initial, search, topical);
@@ -541,19 +538,18 @@ function onclickForMakeBio(ltrIndex, indexOfPerson, initial, search, topical) {
     bioURL =
         "/" + getHref(person.lastName, person.middleName, person.firstName);
     window.history.pushState({}, "New Title", bioURL);
-    console.log("onclickmakebio:", bioURL)
+    console.log("onclickmakebio:", bioURL);
     setBoldInSideBar(bios, ltrIndex, indexOfPerson);
 }
 function onclickLetter(letterIndex, personIndex, stepping, topical, search) {
     makeSidebar(letterIndex, personIndex, stepping, topical, search);
-      bios = getBios();
+    bios = getBios();
     //GET PERSON JSON:
     person = bios[letterIndex][personIndex];
     bioURL =
         "/" + getHref(person.lastName, person.middleName, person.firstName);
     window.history.pushState({}, "New Title", bioURL);
-    console.log("onclickLetter:", bioURL)
-
+    console.log("onclickLetter:", bioURL);
 }
 /**
  * Creates the left sidebar with the alphabetical list of women
@@ -601,9 +597,9 @@ function makeSidebar(letterIndex, personIndex, stepping, topical, search) {
     //build each entry, clickable:
     if (!topical && !search) {
         for (i = 0; i < namesLists[letterIndex].length; i++) {
-            firstCommaLast = namesLists[letterIndex][i];
+            firstCommaLast = namesLists[letterIndex][i].replaceAll("'", " ");
 
-            html +=
+            toAdd =
                 "<tr><td class='name-link' id='name-" +
                 letterIndex +
                 "-" +
@@ -619,6 +615,7 @@ function makeSidebar(letterIndex, personIndex, stepping, topical, search) {
                 firstCommaLast +
                 "</a>" +
                 "</td></tr>";
+                html += toAdd;
         }
     }
     html += "</table>";
