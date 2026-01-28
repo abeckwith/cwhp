@@ -95,11 +95,11 @@ m_bios = [
             Veterans Services Department, City of Cambridge.<br>
             January 4, 2011 Massachusetts Assoc. of Women Veterans Honors<br>
             <a href="https://www.youtube.com/watch?v=MnTlRJ6UBpc" >https://www.youtube.com/watch?v=MnTlRJ6UBpc</a> <br>
-            St. Ansel Alumni Awards description
+            St. Ansel Alumni Awards description.
             <br>
-            <a href="https://www.ahernfoundation.org/">https://www.ahernfoundation.org/</a><Br>
-            <i>Cambridge City Directory</i>, 1961<Br>
-            <i>The Cambridge Chronicle</i>,  18 November 2010
+            <a href="https://www.ahernfoundation.org/">https://www.ahernfoundation.org/</a>.<Br>
+            <i>Cambridge City Directory</i>, 1961.<Br>
+            <i>The Cambridge Chronicle</i>,  18 November 2010.
 
         `,
         photos: ["images_bios/MajorsMJ_small.jpg"],
@@ -214,14 +214,14 @@ m_bios = [
         otherNotes: "",
         references: `
             <em>
-                Harvard Annual Reports</em>, 1952-1953<br>
+                Harvard Annual Reports</em>, 1952-1953.<br>
             Greep, Roy O.&#8220;Professor Helen Wendler (Deane) Markham, 1917-1966&#8221;
             <em>Journal of</em> <em>Histochemisty and Cytochemisty</em> v. 14, no. 12, pp.
             881-3, 1967.<br>
             Family records of James G. Deane.<br>
             Markham, Helen Deane.<em> Papers</em>,<em> 1941-1968</em>. Schlesinger Library,
             Hollis Library Catalog summary of archival collection.<br>
-            <i>Cambridge City Directory</i>, 1954
+            <i>Cambridge City Directory</i>, 1954.
         `,
         photos: ["images_bios/Markham_HWD.jpg"],
         photoTitles: [],
@@ -277,14 +277,14 @@ m_bios = [
         otherNotes: "",
         references: `
             Boston Globe obituary July 24, 2002; Lorna Marshall
-            notebooks 1943-1996, Peabody Museum, Harvard University<br>
+            notebooks 1943-1996, Peabody Museum, Harvard University.<br>
             Elizabeth Marshall
-            Thomas, <em>The Old Way, a Story of the First People</em> (2006)<br>
+            Thomas, <em>The Old Way, a Story of the First People</em> (2006).<br>
             Book cover from <a href="https://peacefulsocieties.uncg.edu/societies/juhoansi/">
-            https://peacefulsocieties.uncg.edu/societies/juhoansi/</a><Br>
-            <i>Cambridge City Directory</i>, 1941<Br>
-            U.S., Social Security Applications and Claims Index, 1936-2007<br>
-            Photo of Marshall from family tree of <i>janmc60_1</i> on ancestry.com 
+            https://peacefulsocieties.uncg.edu/societies/juhoansi/</a>.<Br>
+            <i>Cambridge City Directory</i>, 1941.<Br>
+            U.S., Social Security Applications and Claims Index, 1936-2007.<br>
+            Photo of Marshall from family tree of <i>janmc60_1</i> on ancestry.com:
             <A href="https://www.ancestry.com/mediaui-viewer/tree/47579690/person/322410618877/media/77b16f60-f4db-46fa-8f7f-7adfe79394d1">Link</a>
 
         `,
@@ -501,13 +501,13 @@ m_bios = [
         `,
         otherNotes: "",
         references: `
-            Interview with Gail Mazur March 30, 2025, by Anthony Beckwith<br>
-        <a href="https://en.wikipedia.org/wiki/Gail_Mazur" >Wikipedia entry on Gail Mazur</a><br>
-        <a href="https://www.poetryfoundation.org/poets/gail-mazur" >ThePoetryFoundation.org</a><br>
-        <a href="https://www.radcliffe.harvard.edu/people/gail-mazur" >Radcliffe profile of Gail Mazur</a><br>
-        <em>Boston Phoenix</em> article, July 1995<br>
+            Interview with Gail Mazur March 30, 2025, by Anthony Beckwith.<br>
+        <a href="https://en.wikipedia.org/wiki/Gail_Mazur" >Wikipedia entry on Gail Mazur</a>.<br>
+        <a href="https://www.poetryfoundation.org/poets/gail-mazur" >ThePoetryFoundation.org</a>.<br>
+        <a href="https://www.radcliffe.harvard.edu/people/gail-mazur" >Radcliffe profile of Gail Mazur</a>.<br>
+        <em>Boston Phoenix</em> article, July 1995.<br>
         <a href="https://www.poetryfoundation.org/poets/gail-mazur">https://www.poetryfoundation.org/poets/gail-mazur</a><br>
-        Photo by Elsa Dorfman, courtesy of Gail Mazur
+        Photo by Elsa Dorfman, courtesy of Gail Mazur.
 
         `,
         photos: ["images_bios/gail_mazur.jpg"],
@@ -575,7 +575,7 @@ m_bios = [
             <em>Blue Book of Cambridge</em>, Cambridge MA, 1904.<br>
             &#8221;Birth Insurance attacked&#8221;<em> New York Times</em>, May 11, 1906.
             <Br>Image from <a href="https://en.wikipedia.org/wiki/Estelle_M._H._Merrill" >https://en.wikipedia.org/wiki/Estelle_M._H._Merrill</a>
-        <br><i>Cambridge City Directory</i>, 1890
+        <br><i>Cambridge City Directory</i>, 1890.
             `,
         photos: ["images_bios/Estelle_Merrill.png"],
         photoTitles: [],
@@ -634,12 +634,12 @@ m_bios = [
         otherNotes: "",
         references: `
                 Biography of Agnes Mongan, Agnes Mongan papers,
-                Harvard Art Museum Archives<br>
+                Harvard Art Museum Archives.<br>
                 <em>Harvard University Gazette</em>, September19,
                 1996.
                 <br>Image from wikipedia.com:<br> 
                 <a class='indent' href="https://en.wikipedia.org/wiki/Agnes_Mongan" >https://en.wikipedia.org/wiki/Agnes_Mongan</a>
-        <br><i>The Cambridge Chronicle</i>, 7 April 1960
+        <br><i>The Cambridge Chronicle</i>, 7 April 1960.
                 `,
         photos: ["images_bios/AgnesMongan.png"],
         photoTitles: [],
@@ -699,14 +699,14 @@ m_bios = [
             in Cambridge. She died
             eleven years later, at 101.`,
         otherNotes: "",
-        references: `Schlesinger Library: Papers of Dorothea May Moore<br>
+        references: `Schlesinger Library: Papers of Dorothea May Moore.<br>
             Obituary (as Dorothea Moore Burkhard) <em>AAP</em> (American Academy of Pediatrics) <em>News</em> Vol.
             12 No.
             2 February 1996, p. 25.
-            <Br><i>The Cambridge Tribune</i>, 30 October 1915
-            <br>Photo from <a href="https://www.findagrave.com/memorial/148150327/dorothea_may_burkhard#view-photo=289204850">
+            <Br><i>The Cambridge Tribune</i>, 30 October 1915.
+            <br>Photo from findagrave.com: <br><a  class='indent'  href="https://www.findagrave.com/memorial/148150327/dorothea_may_burkhard#view-photo=289204850">
             https://www.findagrave.com/memorial/148150327/dorothea_may_burkhard#view-photo=289204850</a><br>
-            1965 Cambridge City Directory
+            <i>Cambridge City Directory</i>, 1950.
 
         `,
         photos: ["images_bios/moore.png"],
@@ -777,16 +777,16 @@ m_bios = [
              </blockquote>. `,
         otherNotes: "",
         references: `
-            <i>Cambridge Chronicle</i>, 14 May 1964 & 27 May, 1999<br>
+            <i>Cambridge Chronicle</i>, 14 May 1964 & 27 May, 1999.<br>
             Oral Interview
             with Maud Morgan, Archives of American Art, Smithsonian Institution; (Microfilm
-            of her scrapbooks are also held at the Smithsonian)<br>
+            of her scrapbooks are also held at the Smithsonian).<br>
             Maud Morgan, <em>Maud's
                 Journey: A Life From Art</em>.( Berkeley, New Earth Publications) 1995. <br>
            
-        <Br>Image from <a href="https://en.wikipedia.org/wiki/Maud_Morgan" >https://en.wikipedia.org/wiki/Maud_Morgan</a>
+        <Br>Image from wikipedia:<Br><a  class='indent'  href="https://en.wikipedia.org/wiki/Maud_Morgan" >https://en.wikipedia.org/wiki/Maud_Morgan</a>.<Br>
         <i>The Boston Globe</i> "Nevertheless, they persisted: standout New England women painters",
-by Cate McQuaid,, April 12, 2017    
+by Cate McQuaid,, April 12, 2017.    
         `,
         photos: ["images_bios/MaudCabot.png"],
         photoTitles: [],
@@ -929,10 +929,10 @@ by Cate McQuaid,, April 12, 2017
         otherNotes: "",
         references: `
             Dennis Overbye &#8220;Philip Morrison, 89, Builder
-            of First Atom Bomb, Dies&#8221; NY Times, April 26, 2005 <br>
+            of First Atom Bomb, Dies&#8221; NY Times, April 26, 2005. <br>
             <a
                 href="http://www.memoriesofmorrison.org/Aboutthissite.htm">www.memoriesofmorrison.org/Aboutthissite.htm</a>
-                <Br><i>Cambridge City Directory</i>, 1968
+                <Br><i>Cambridge City Directory</i>, 1968.
         `,
         photos: [""],
         photoTitles: [],
@@ -1044,12 +1044,13 @@ by Cate McQuaid,, April 12, 2017
         `,
         otherNotes: "",
         references: `
-          <a href="https://en.wikipedia.org/wiki/Rosario_Morales" >https://en.wikipedia.org/wiki/Rosario_Morales</a><Br>
-        <em>Cambridge Chronicle</em> articles from 1982-1990<Br>
-        <em>Boston Globe</em> March 4, 1982<Br>
-       Smith College interview at <a href="https://www.smith.edu/libraries/libs/ssc/vof/transcripts/Morales.pdf" >https://www.smith.edu/libraries/libs/ssc/vof/transcripts/Morales.pdf</a><Br>
-       Images source: Aurora Morales <Br>
-       1989 Cambridge Phone Book
+          Wikipedia profile:<br><a class='indent' href="https://en.wikipedia.org/wiki/Rosario_Morales" >https://en.wikipedia.org/wiki/Rosario_Morales</a>.
+          <Br>
+        <em>Cambridge Chronicle</em> articles from 1982-1990.<Br>
+        <em>Boston Globe</em> March 4, 1982.<Br>
+       Smith College interview:<br> <a class='indent'  href="https://www.smith.edu/libraries/libs/ssc/vof/transcripts/Morales.pdf" >https://www.smith.edu/libraries/libs/ssc/vof/transcripts/Morales.pdf</a>.<Br>
+       Images source: Aurora Morales. <Br>
+       1989 Cambridge Phone Book.
         `,
         photos: [
             "images_bios/rosario Sari-&-Lori-1986.jpg",
@@ -1102,7 +1103,7 @@ by Cate McQuaid,, April 12, 2017
 `,
         otherNotes: "",
         references: ` 
-          Image from GoogleMaps
+          Image from GoogleMaps.
         
              `,
         photos: ["images_bios/mckay.png"],

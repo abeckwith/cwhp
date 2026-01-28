@@ -78,16 +78,16 @@ r_bios = [
         otherNotes: "",
         references: `
             Dinitia Smith, &#8220;How Curious George Escaped the Nazis&#8221; NY Times September
-            13, 2005<br>
+            13, 2005.<br>
             Louise Borden, <em>The Journey That Saved Curious George: The True Wartime Escape
-                of Margret and H. A. Rey</em> (Houghton Mifflin. 2005)<br>
+                of Margret and H. A. Rey</em> (Houghton Mifflin. 2005).<br>
             Finding Aid to the H.A. and Margret Rey Papers, De Grummond Children's
             Literature Collection, University of Southern Mississppi, Hattiesburg<br>
-            Margret Rey biography, Greenville Public Library web site, Greenville, R.I.,
+            Margret Rey biography, Greenville Public Library web site, Greenville, R.I.
             <br>
             Amy Miller, &quot;Curious George moves into Harvard Square,&quot; <em>Cambridge
                 Chronicle</em>, July 25, 1996.<Br>
-            <Br><i>Cambridge City Directory</i>, 1965
+            <Br><i>Cambridge City Directory</i>, 1965.
         <Br><i>Christian Science Monitor</i> interview, May 23, 1996:<Br>
         <a class='indent' href="https://www.csmonitor.com/1996/0523/052396.feat.books.3.html">https://www.csmonitor.com/1996/0523/052396.feat.books.3.html</a>
                 <Br>Image from wikipedia.com:<br>
@@ -138,12 +138,12 @@ r_bios = [
             honorary degree. <Br><Br>Roe died in Tucson Arizona in 1991.`,
         otherNotes: "",
         references: `<em>
-                New York Times</em> Anne Roe obit June 4, 1991<br>
+                New York Times</em> Anne Roe obit June 4, 1991.<br>
             Super, Donald E., &#8220;Anne Roe 1904-1991&#8221;, <em>The Counseling Psychologist</em>,
-            Vol. 20, No. 4, 734-736 (1992)<br>
+            Vol. 20, No. 4, 734-736 (1992).<br>
             Wrenn, Robert L., &quot;The Evolution of Anne Roe,&quot; <em>J Counseling &amp;
                 Development</em> 63: 267-75, Jan 1985.<Br>
-                <I>Cambridge City Directory</i>, 1965<br>
+                <I>Cambridge City Directory</i>, 1965.<br>
                 Birth date from ancestry.com:<Br>
                 <a class='indent' href="https://www.ancestry.com/family-tree/person/tree/71942149/person/292480937875/facts?_phsrc=prV2552&_phstart=successSource">
                 https://www.ancestry.com/family-tree/person/tree/71942149/person/292480937875/facts?_phsrc=prV2552&_phstart=successSource</a>
@@ -226,7 +226,7 @@ r_bios = [
             Obituary, <em>Boston Traveler</em>, March 2, 1964.<br>
             Roorbach, Anne. &#8220;Harvard's Glass Flowers.&#8221; <em>American German
                 Review</em>, June 1937, 14-17.
-                <br><i>Cambridge City Directory</i>, 1921
+                <br><i>Cambridge City Directory</i>, 1921.
         `,
         photos: ["images_bios/Anne%20Roorbach%20small.jpeg"],
         photoTitles: [],
@@ -285,11 +285,11 @@ r_bios = [
             months before Orlov's own death. `,
         otherNotes: "",
         references: ` &#8220;Ann Orlov Rubinow,&#8221; obituary news
-            article by Bryan Marquard, <em>Boston Globe</em> January 25, 2007<br>
+            article by Bryan Marquard, <em>Boston Globe</em> January 25, 2007.<br>
             Obituary, <em>Cambridge Chronicle</em>
-            (under Betty A. Rubinow) January 22, 2007<Br>
-            <i>Cambridge City Directory</i>, 1961<Br>
-            <i>The Boston Globe</i>, Jan 25, 2007<Br>
+            (under Betty A. Rubinow) January 22, 2007.<Br>
+            <i>Cambridge City Directory</i>, 1961.<Br>
+            <i>The Boston Globe</i>, Jan 25, 2007.<Br>
             <br>Image from <i>Vermont Community Newspaper Group:<br>
             <A class='indent' href="https://www.vtcng.com/stowereporter/archives/betty-ann-orlov-rubinow/article_5b7f7b21-06cb-5708-ae30-d74b45d2059f.html" >
             https://www.vtcng.com/stowereporter/archives/betty-ann-orlov-rubinow/article_5b7f7b21-06cb-5708-ae30-d74b45d2059f.html</a>

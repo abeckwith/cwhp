@@ -36,7 +36,7 @@ v_bios = [
             `,
         otherNotes: "",
         references: `Nomination materials from Sylvia S. Keber.<Br>
-        <i>Cambridge Chronicle</i>, January 31 1985
+        <i>Cambridge Chronicle</i>, January 31 1985.
         `,
         photos: ["images_bios/JuliaV.jpg"],
         photoTitles: ["Photo Courtesy of Sylvia Saavedra-Keber"],
@@ -110,10 +110,10 @@ v_bios = [
 `,
         otherNotes: "",
         references: `
-        2004 learner.og profile<br>
-        2004 Kennedy Center artist detail 
-        <br> <i>The Boston Globe</i>, Apr 01, 2001, p.238<Br>
-        Birthdate from <i>U.S., Public Records Index</i>, 1950-1993, Volume 1`,
+        2004 learner.og profile.<br>
+        2004 Kennedy Center artist detail. 
+        <br> <i>The Boston Globe</i>, Apr 01, 2001, p.238.<Br>
+        Birthdate from <i>U.S., Public Records Index</i>, 1950-1993, Volume 1.`,
         photos: [""],
         photoTitles: [],
         dateCreated: "prior to 2009",

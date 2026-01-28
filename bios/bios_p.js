@@ -42,10 +42,10 @@ p_bios = [
             After her death, her father published her correspondence detailing her experiences
             as a war nurse, <em>Memoir of Emily Elizabeth Parsons </em>(1880). `,
         otherNotes: "",
-        references: `<em>Notable American Women</em> (1950)<Br>
+        references: `<em>Notable American Women</em> (1950).<Br>
         <em>Biographical
-                Dictionary of Women Scientists</em> (2000)
-            Image from wikipedia public domain entry for Emily Parsons
+                Dictionary of Women Scientists</em> (2000).<br>
+            Image from wikipedia public domain entry for Emily Parsons.
         `,
         photos: ["images_bios/emily_Parsons.jpg"],
         photoTitles: [],
@@ -107,10 +107,10 @@ p_bios = [
             and a peace activist, in his role as book editor of the <em>Scientific American</em>.
             She died in Cambridge at the age of ninety-five.`,
         otherNotes: "",
-        references: `Avi Steinberg in <em>The Boston Globe</em> July 19, 2005<Br>
+        references: `Avi Steinberg in <em>The Boston Globe</em> July 19, 2005.<Br>
             <em>Monthly Review</em>, December 1995.<Br>
-            <i>Cambridge City Directory</i>, 1968<Br>
-            Photo credit: Alabama Holocaust Education Center, received from Steven Rasmussen, son of Lore May Rasmussen, a colleague of Fritz Pappenheim at Talladega College.
+            <i>Cambridge City Directory</i>, 1968.<Br>
+            Photo credit: Alabama Holocaust Education Center, received from Steven Rasmussen, son of Lore May Rasmussen, a colleague of Fritz Pappenheim at Talladega College:
             <Br><a class='indent' href="https://ahecinfo.org/survivors/pappenheim-fritz/">
             https://ahecinfo.org/survivors/pappenheim-fritz/</a>
         `,
@@ -297,11 +297,11 @@ p_bios = [
         otherNotes: "",
         references: ` Oral interview by Sarah Boyer.<br>
             &quot;A Century of Shalom &#8211; History: A History of the Organized Jewish
-            Community in ambridge,&quot;<br>
+            Community in ambridge,&quot;.<br>
             Image from legacy.com<:Br>
             <a class='indent' href="https://www.legacy.com/us/obituaries/bostonglobe/name/sylvia-piltch-obituary?id=17084405">
             https://www.legacy.com/us/obituaries/bostonglobe/name/sylvia-piltch-obituary?id=17084405</a><Br>
-            <i>Cambridge City Directory</i>, 1931
+            <i>Cambridge City Directory</i>, 1931.
         `,
         photos: ["images_bios/piltch.jpeg"],
         photoTitles: [""],
@@ -386,12 +386,12 @@ p_bios = [
        </blockquote>
                 `,
         otherNotes: "",
-        references: ` Oral interview with Peters' son, Matthew Peters<Br>
-        Legacy.com written by Matthew Peters<Br>
+        references: ` Oral interview with Peters' son, Matthew Peters.<Br>
+        Legacy.com written by Matthew Peters:<Br>
          <a class='indent' href="https://www.legacy.com/us/obituaries/wickedlocal-cambridgechronicle/name/kaethe-peters-obituary?id=20281318">
         https://www.legacy.com/us/obituaries/wickedlocal-cambridgechronicle/name/kaethe-peters-obituary?id=20281318</a> <br>
-         <I>City Directory</i> 1965 <Br>
-        <i>The Cambridge Chronicle</i> 25 July 1985 &  8 December 1999
+         <I>City Directory</i> 1965. <Br>
+        <i>The Cambridge Chronicle</i> 25 July 1985 &  8 December 1999.
         <br><i>The Boston Globe</i> , November 22, 2012: <Br>
         <a class='indent' href="https://www.bostonglobe.com/metro/obituaries/2012/11/22/kaethe-peters-cambridge-longtime-social-worker-educator/y50M8As1eXlni67qqiTd3I/story.html">
         https://www.bostonglobe.com/metro/obituaries/2012/11/22/kaethe-peters-cambridge-longtime-social-worker-educator/y50M8As1eXlni67qqiTd3I/story.html</a>

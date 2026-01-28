@@ -27,11 +27,11 @@ d_bios = [
         otherNotes: "",
         references: ` 
             Finding aid, Elizabeth Ellery Dana Personal Papers,
-            Longfellow House archives. Cambridge<br>
+            Longfellow House archives. Cambridge.<br>
             Additional correspondence in the Dana
             papers in Houghton, Harvard University Library.<Br>
             Image courtesy of the National Park Service, Longfellow House-Washington's Headquarters National Historic Site
-            <br> (image ID 3004.002/001-#253)<br>
+            (image ID 3004.002/001-#253).<br>
             Birth and death dates frome FindaGrave.com:
             <Br><a class='indent' href="https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana">https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
         `,
@@ -78,7 +78,7 @@ d_bios = [
         otherNotes: "",
         references: `<em>Teaching Tolerance</em> magazine, Number
             24, Fall 2003.
-            <Br><i>Cambridge Chronicle</i> 30 Nov 1972
+            <Br><i>Cambridge Chronicle</i> 30 Nov 1972.
         `,
         photos: ["images_bios/dandelion.png"],
         photoTitles: ["November 28, 1985 Cambridge Chronicle ad"],
@@ -133,12 +133,12 @@ d_bios = [
         otherNotes: "",
         references: ` <em>
                 Notable American Women, Modern Period</em>
-            (1980)<br>
+            (1980).<br>
             Madeline Goss, <em>Modern Music-Makers: Contemporary American Composers</em>
-            New York, (1952)<br>
+            New York, (1952).<br>
             Biography, Finding Aid Mabel Wheeler Daniels Papers, Schlesinger
             Library, Radcliffe Institute.<Br>
-            <I>Cambridge City Directory</i>, 1968
+            <I>Cambridge City Directory</i>, 1968.
         `,
         photos: ["images_bios/mabel daniels.jpg"],
         photoTitles: [],
@@ -188,9 +188,9 @@ d_bios = [
             Tribute to Women Award in 1993. <br><br>
             `,
         otherNotes: "",
-        references: ` <em>Cambridge Chronicle</em>May 4, 1961, 4 February 1965, 10 January 1974, Jan 17, 2001
-        <Br>Image from <em>Boston Globe</em>Sept. 13, 1993
-        <Br><i>U.S., Social Security Applications and Claims Index</i>, 1936-2007
+        references: ` <em>Cambridge Chronicle</em>May 4, 1961, 4 February 1965, 10 January 1974, Jan 17, 2001.
+        <Br>Image from <em>Boston Globe</em>Sept. 13, 1993.
+        <Br><i>U.S., Social Security Applications and Claims Index</i>, 1936-2007.
         <Br>FindAGrave.com:<Br>
         <a class='indent' href="https://www.findagrave.com/memorial/210753844/sybil-noble-darbeloff">
         https://www.findagrave.com/memorial/210753844/sybil-noble-darbeloff</a>
@@ -262,13 +262,13 @@ d_bios = [
         otherNotes: "",
         references: ` 
 
-        <em>Cambridge Chronicle</em>  17 December 1953, 30 March 1967, 3 May 1977, 18 October 1979<br>
-        <em>The Boston Globe</em>, July 17 1995 <Br>
+        <em>Cambridge Chronicle</em>  17 December 1953, 30 March 1967, 3 May 1977, 18 October 1979.<br>
+        <em>The Boston Globe</em>, July 17 1995. <Br>
         Cambridge Police Department History:<br>
         <a class='indent' href="https://www.cambridgema.gov/Departments/cambridgepolice/aboutthedepartment/departmenthistory">https://www.cambridgema.gov/Departments/cambridgepolice/aboutthedepartment/departmenthistory</a><Br>
         <i>U.S. Census</i> 1930<Br>
-        <i>Cambridge City Directory</i> 1954, 1961<Br>
-        U.S. Dept. of Veteran Affairs <em>BIRLS Death File</em><Br>
+        <i>Cambridge City Directory</i> 1954, 1961.<Br>
+        U.S. Dept. of Veteran Affairs <em>BIRLS Death File</em>.<Br>
         <Br>
         Image from Cambridge Police Department Facebook page post: Mar. 7, 2019:<br>
         <a class='indent' href="https://www.facebook.com/CambridgePolice/posts/pfbid027e1x9n6tt7ptBYiYNwW71f3QFrYmrhohWCt2yB24pryzyq2rU6rLn8yqZe2mrxsJl">https://www.facebook.com/CambridgePolice/posts/pfbid027e1x9n6tt7ptBYiYNwW71f3QFrYmrhohWCt2yB24pryzyq2rU6rLn8yqZe2mrxsJl</a>
@@ -333,10 +333,10 @@ d_bios = [
         references: `Gallo, Marcia M. <em>Different Daughters: A history
                 of the Daughters of
                 Bilitis and the Birth of the Lesbian Rights Movement</em>, Carroll &amp; Graf, 2006.<br>
-                <i>Cambridge Day</i>, October 31, 2024 <Br>
+                <i>Cambridge Day</i>, October 31, 2024. <Br>
                 Interview with Sarah Boyer:<Br>
                 <a class='indent' href="https://www.cambridgeday.com/2024/03/31/sarah-boyers-coming-out-becoming-ourselves-takes-daughters-from-secret-society-to-acceptance/">https://www.cambridgeday.com/2024/03/31/sarah-boyers-coming-out-becoming-ourselves-takes-daughters-from-secret-society-to-acceptance/</a><br>
-                <i>Cambridge Chronicle</i> October 30, 1981, 5 April 1984, 11 November 1993
+                <i>Cambridge Chronicle</i> October 30, 1981, 5 April 1984, 11 November 1993.
 
 
         `,
@@ -407,12 +407,12 @@ d_bios = [
         `,
         otherNotes: "",
         references: `
-            Henrietta Davis website bio<br>
-            &nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.henriettadavis.org">http://www.henriettadavis.org</a> <br>
+            Henrietta Davis website bio:<br>
+            <a  class='indent'  href="http://www.henriettadavis.org">http://www.henriettadavis.org</a> <br>
             Oral history interview with Henrietta Davis:<Br>
             <a class='indent' href="https://infinitehistory.mit.edu/video/henrietta-davis">https://infinitehistory.mit.edu/video/henrietta-davis</a> <br>
-            Board Member Bio, ICLEI website<Br>
-                        Photo credit: Richard Bock
+            Board Member Bio, ICLEI website.<Br>
+                        Photo credit: Richard Bock.
 
         `,
         photos: ["images_bios/Henrietta Davis Bio Photo_small.jpg"],
@@ -576,9 +576,9 @@ de Paredon Records), circa 1964-2007</i>:<br><a class='indent' href="https://sir
             Fourteen months before her death she came back to Cambridge to live in the house
             of her brother Dr. R. R. Andrews, where she died.`,
         otherNotes: "",
-        references: `<em>American Women Writers</em> (1979)<br>
+        references: `<em>American Women Writers</em> (1979).<br>
             <em>Boston
-                Evening Transcript</em>, October 17, 1911
+                Evening Transcript</em>, October 17, 1911.
         `,
         photos: ["images_bios/Mary_A._Denison.png"],
         photoTitles: [],
@@ -641,15 +641,15 @@ de Paredon Records), circa 1964-2007</i>:<br><a class='indent' href="https://sir
         otherNotes: "",
         references: `
             Sally Cragin, &#8220;Worcester-born poet Diana Der-Hovanessian visits the old
-            neighborhood,&#8221<Br>
-            <em>The Worcester Phoenix</em>, November 12 - 19, 1999<br>
+            neighborhood,&#8221.<Br>
+            <em>The Worcester Phoenix</em>, November 12 - 19, 1999.<br>
             McIntire, D. <em>International Who's Who in Poetry and Poets' Encyclopedia</em>,
             Routledge, 2001, p. 139-40.<br>
             Červená Barva Press interview:<Br>
             <a class='indent' href="http://www.cervenabarvapress.com/der-hovanessianinterview.htm">
             http://www.cervenabarvapress.com/der-hovanessianinterview.htm</a><br>
-            <i>The Cambridge Chronicle</i>, 9 June 1988<br>
-            <i>Boston Globe</i> obit, March 4, 2018
+            <i>The Cambridge Chronicle</i>, 9 June 1988.<br>
+            <i>Boston Globe</i> obit, March 4, 2018.
         `,
         photos: ["images_bios/der_hovanessian.jpg"],
         photoTitles: [],
@@ -710,7 +710,7 @@ de Paredon Records), circa 1964-2007</i>:<br><a class='indent' href="https://sir
             Sayers, J. <em>Mothers of Psychoanalysis</em>.
             New York, 1991. <br>
             Roazen, Paul. <em>Helene Deutsch, A Psychoanalyst's Life</em>,
-            (Garden City, N.Y, 1985)<br>
+            (Garden City, N.Y, 1985).<br>
             <i>Finding aid</i>, Helene (Rosenbach) Deutsch papers, Schlesinger
             Library.<br>
             <i>Cambridge City Directory</i>, 1963.
@@ -794,14 +794,14 @@ de Paredon Records), circa 1964-2007</i>:<br><a class='indent' href="https://sir
             Cambridge.`,
         otherNotes: "",
         references: `Ogilvie, Marilyn and Joy Harvey. <em>Biographical
-                Dictionary of Women Scientists</em>. Routledge Press, 2000<br>
+                Dictionary of Women Scientists</em>. Routledge Press, 2000.<br>
             <em>Notable American
                 Women</em> (1950) Vol I.<Br>
     
             Photo of Dorothea Lynde Dix from wikipedia.com:<Br>
             <a class='indent' href="https://en.wikipedia.org/wiki/Dorothea_Dix#/media/File:Dorothea_Dix_1802%E2%80%931887.jpg">https://en.wikipedia.org/wiki/Dorothea_Dix#/media/File:Dorothea_Dix_1802%E2%80%931887.jpg</a>
         
-        <br><i>The Cambridge Chronicle</i>, 4 February 1860
+        <br><i>The Cambridge Chronicle</i>, 4 February 1860.
 
       
         `,
@@ -852,9 +852,9 @@ de Paredon Records), circa 1964-2007</i>:<br><a class='indent' href="https://sir
             including the Metropolitan Museum and Whitney Museum. `,
         otherNotes: "",
         references: `
-            Charles Hagen, &#8220;Review/Art<br>
-            When the Outside World Is Danger <em>New York Times</em> December 27, 1991<br>
-            Cambridge Arts Council website<br>
+            Charles Hagen, &#8220;Review/Art.<br>
+            When the Outside World Is Danger <em>New York Times</em> December 27, 1991.<br>
+            Cambridge Arts Council website.<br>
             Ellen Driscoll's website:<br>
             <a class='indent' href="http://www.ellendriscoll.net">http://www.ellendriscoll.net</a>
         `,
@@ -905,9 +905,9 @@ de Paredon Records), circa 1964-2007</i>:<br><a class='indent' href="https://sir
         otherNotes: "",
         references: `
             Ogilvie, Marilyn and Joy Harvey. Biographical Dictionary
-            of Women Scientists. Routledge Press, 2000<Br>
-            <i>Cambridge City Directory</i> 1968<Br>
-            <i>Massachusetts Death Index</i>, 1970-2003
+            of Women Scientists. Routledge Press, 2000.<Br>
+            <i>Cambridge City Directory</i> 1968.<Br>
+            <i>Massachusetts Death Index</i>, 1970-2003.
 
         `,
         photos: ["images_bios/Cora_Du_Bois_(cropped).jpg"],
@@ -973,13 +973,13 @@ de Paredon Records), circa 1964-2007</i>:<br><a class='indent' href="https://sir
             Nhat Hanh to link and support peacemakers. `,
         otherNotes: "",
         references: `
-            Information from Skip Schiel and Louise Dunlap<br>
+            Information from Skip Schiel and Louise Dunlap.<br>
             Louise Dunlap, &#8220;Hiroshima Flame Interfaith Pilgrimage&#8221; <em>Peacework</em>
-            December 2001<br>
+            December 2001.<br>
             &#8220;Hiroshima Flame at New York's Ground Zero&#8221; <em>PeaceWork</em>,
-            September 2002<br>
-            Vanessa E. Jones &quot;The way of oneness&quot;<br>
-            <em>Boston Globe</em> April 19, 2006<Br>
+            September 2002.<br>
+            Vanessa E. Jones &quot;The way of oneness&quot;.<br>
+            <em>Boston Globe</em> April 19, 2006.<Br>
             Undoing Silence website:<br>
             <a class='indent' href="http://www.undoingsilence.org">http://www.undoingsilence.org</a>
         `,
@@ -1039,7 +1039,7 @@ de Paredon Records), circa 1964-2007</i>:<br><a class='indent' href="https://sir
             The Scarecrow Press, Inc.<br>
             Metuchen, New Jersey, 1978.<br>
             Cambridge Historical
-            Society <em>Proceedings</em>, vol. III:12-17; VI:22; XDIV: 64<br>
+            Society <em>Proceedings</em>, vol. III:12-17; VI:22; XDIV: 64. <br>
             See also <em>History
                 of Printing
                 in America</em> (1878).

@@ -53,7 +53,7 @@ l_bios = [
             August 28, 2000:<br>
             <a class='indent' href="http://www.wellesley.edu/Anniversary/ladd.html" >http://www.wellesley.edu/Anniversary/ladd.html</a><br>
             Florence Cawthorne Ladd, personal communication.<br>
-            <i>Cambridge Chronicle</i> 11 September 1975
+            <i>Cambridge Chronicle</i> 11 September 1975.
         `,
         photos: ["images_bios/Florence%20Ladd%20small.jpeg"],
         photoTitles: [],
@@ -96,7 +96,8 @@ l_bios = [
         otherNotes: "",
         references: `
             Doug Holder &#8220;Farewell, to the editor of <em>Spare Change </em>Newspaper
-            in Cambridge, MA.&#8221; <em>Cambridge Chronicle</em> January 29, 2002<br>
+            in Cambridge, MA.&#8221;.<br>
+             <em>Cambridge Chronicle</em> January 29, 2002.<br>
           
        <br> Image from Doug Holder blogspot:<Br>
        <a class='indent' href="https://dougholder.blogspot.com/2012/01/linda-larson-poet-who-writes-what-she.html" >https://dougholder.blogspot.com/2012/01/linda-larson-poet-who-writes-what-she.html</a>`,
@@ -141,10 +142,10 @@ l_bios = [
         otherNotes: "",
         references: `
             Interview by Sandra Pullman, 2003.<Br>
-            <i>U.S. Census</i> 1950<br>
-            Correponsdence with Robert Layne<br>
-            Massachusetts, U.S., State and Federal Naturalization Records, 1798-1950 for Christol Louise Layne<Br>
-            <i>Cambridge City Directory</i> 1950
+            <i>U.S. Census</i> 1950.<br>
+            Correponsdence with Robert Layne.<br>
+            Massachusetts, U.S., State and Federal Naturalization Records, 1798-1950 for Christol Louise Layne.<Br>
+            <i>Cambridge City Directory</i> 1950.
 
         `,
         photos: [""],
@@ -188,9 +189,9 @@ l_bios = [
             `,
         otherNotes: "",
         references: ` <em>
-                Notable American Women</em>, Vol 2<br>
-            Ogilvie and Harvey, <em>Biographical Dictionary of Women in Science</em> (2000)<br>
-            <em>Boston Globe,</em> February 1, '05.<Br>
+                Notable American Women</em>, Vol 2.<br>
+            Ogilvie and Harvey, <em>Biographical Dictionary of Women in Science</em> (2000).<br>
+            <em>Boston Globe,</em> February 1, 2005.<Br>
             Image from wikipedia.com:<Br> <a class='indent' href="https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt" >https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt</a>
         `,
         photos: ["images_bios/Henrietta_Swan_Leavitt.jpg"],
@@ -230,10 +231,10 @@ l_bios = [
             `,
         otherNotes: "",
         references: ` The Lesbian Avengers archive is housed at The History Project.
-            <a href="www.historyproject.org" >www.historyproject.org</a><em><br>
+            <a href="www.historyproject.org" >www.historyproject.org</a><em>.<br>
             </em>Written by Kimm Topping, printed in <em>Mapping Feminist Cambridge</em> guidebook, 2019: <a
-                href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a>
-                <br>Image from https://www.wbur.org/news/2019/06/17/lesbian-avengers, with permission from the History Project at <a href="https://historyproject.org/" >https://historyproject.org/</a>
+                href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a>.
+                <br>Image from https://www.wbur.org/news/2019/06/17/lesbian-avengers, with permission from the History Project at <a href="https://historyproject.org/" >https://historyproject.org/</a>.
         `,
         photos: ["images_bios/lesbian_avengers.png"],
         photoTitles: [],
@@ -316,13 +317,13 @@ l_bios = [
             Publishing Inc., 1937, p. 751.<br>
             &quot;Edith Lesley Wolfard,&quot; <em>Who's Who in New England, vol. 3, 1938</em>,
             Chicago: A.N. Marquis Co., 1938, p. 1386.<br>
-            &#8220;Edith Lesley&#8221; Wikipedia online<br>
+            &#8220;Edith Lesley&#8221; Wikipedia online.<br>
             &#8220;Edith Lesley&#8221; Lesley University Archives on-line site, December
-            7, 2007<br>
+            7, 2007.<br>
             Editorial contributions from
             Lesley University faculty and staff: Cynthia Brown, Sharlene Cochrane, Patricia
-            Kramer, Alyssa Pacy, and Will Suter<br>
-            See also, Lesley University's Centennial web page
+            Kramer, Alyssa Pacy, and Will Suter.<br>
+            See also, Lesley University's Centennial web page.
         `,
         photos: ["images_bios/EdithLesley_small.jpeg"],
         photoTitles: [],
@@ -404,10 +405,10 @@ l_bios = [
         otherNotes: "",
         references: `
          
-            Nomination received from Mayor Kenneth Reeves' office<br>
-            <i>Cambridge Vital Records</i><br>
+            Nomination received from Mayor Kenneth Reeves' office.<br>
+            <i>Cambridge Vital Records</i>.<br>
             Information also provided by Florence Lewis, daughter of Emily Lewis.<br>
-            <i>Cambridge City Directory</i>, 1920
+            <i>Cambridge City Directory</i>, 1920.
         `,
         photos: [""],
         photoTitles: [],
@@ -542,12 +543,12 @@ l_bios = [
             in 1855. `,
         otherNotes: "",
         references: ` <em>
-                Notable American Women, Vol II</em>; Vernon, Hope Jillson<br>
+                Notable American Women, Vol II</em>; Vernon, Hope Jillson.<br>
             <em>The Poems of Maria Lowell</em>, with unpublished letters and a biography.
-            Providence, Rhode Island: Brown University Press, 1936; <br>
+            Providence, Rhode Island: Brown University Press, 1936. <br>
             Papers of James Russell Lowell, Houghton Library, Harvard University (includes
-            letters to and from Maria White Lowell)<br>
-            Image from <a href="https://en.wikipedia.org/wiki/Maria_White_Lowell" >https://en.wikipedia.org/wiki/Maria_White_Lowell</a>
+            letters to and from Maria White Lowell).<br>
+            Image from wikipedia:<Br><a  class='indent'  href="https://en.wikipedia.org/wiki/Maria_White_Lowell" >https://en.wikipedia.org/wiki/Maria_White_Lowell</a>
         `,
         photos: ["images_bios/maria_lowell.jpg"],
         photoTitles: [],
@@ -597,14 +598,14 @@ l_bios = [
         otherNotes: "",
         references: `
             &quot;Lowry, Lois.&quot; <em>Contemporary Authors</em>. Ed. Susan M. Trosky. Detroit: Gale
-            Research, Inc., 1994, pp..<br>
+            Research, Inc., 1994.<br>
             Smith, Amanda. &quot;PW Interviews: Lois Lowry.&quot; <em>Publisher Weekly</em>. 21
             February 1986: 152-153.<br>
             Zaidman, Laura M. &quot;Lois Lowry.&quot; <em>American Writers for Children
-                Since 1960. Dictionary of Literary Biography.</em> Vol 52<br>
+                Since 1960. Dictionary of Literary Biography.</em> Vol 52.<br>
             Lois Lowry Papers-1977-1993 Kerlan Collection, University of Minnesota. Includes
-            book manuscripts<Br>
-            Image from <a href="https://en.wikipedia.org/wiki/Lois_Lowry" >https://en.wikipedia.org/wiki/Lois_Lowry</a>
+            book manuscripts.<Br>
+            Image from wikipedia:<br> <a  class='indent' href="https://en.wikipedia.org/wiki/Lois_Lowry" >https://en.wikipedia.org/wiki/Lois_Lowry</a>.
         `,
         photos: ["images_bios/Lois_Lowry.jpg"],
         photoTitles: [],
@@ -723,9 +724,9 @@ l_bios = [
                 A Finding Aid</em>. Cambridge, Massachusetts, 2005.<br>
             Schlesginer Library.<em> Florence Luscomb Papers, 1856-1987: A Finding Aid</em>.
             Cambridge, Massachusetts, 1989.<Br>
-            <i>The Cambridge Tribune</i>, 28 March 1914
-<br><i>The Boston Globe</i>, May 03, 1914<Br>
-            <i>Cambridge City Directory</i>, 1946
+            <i>The Cambridge Tribune</i>, 28 March 1914.
+<br><i>The Boston Globe</i>, May 03, 1914.<Br>
+            <i>Cambridge City Directory</i>, 1946.
         `,
         photos: ["images_bios/Florence%20Luscombe%201977%20small.jpeg", "images_bios/luscomb2.png"],
         photoTitles: [],
@@ -793,13 +794,13 @@ l_bios = [
         `,
         otherNotes: "",
         references: `
-        CCTV Instagram post, <a href="https://www.instagram.com/p/DOTEMspDly9/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" >
-        Sept. 7, 2025</a><br><br>
-        Image from <a href="https://www.legacy.com/us/obituaries/legacyremembers/mary-leno-obituary?id=59453208" >
+        CCTV Instagram post:<Br><a  class='indent'  href="https://www.instagram.com/p/DOTEMspDly9/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" >
+        Sept. 7, 2025</a>.<br>
+        Image from legacy.com:<Br><a class='indent'  href="https://www.legacy.com/us/obituaries/legacyremembers/mary-leno-obituary?id=59453208" >
         https://www.legacy.com/us/obituaries/legacyremembers/mary-leno-obituary?id=59453208</a><br><br>
 
-        <i>Boston Globe</i>, September 10, 2000, April 26, 2018, November 16, 2008
-        <i>The Cambridge Chronicle</i>, 8 May 1997
+        <i>Boston Globe</i>, September 10, 2000, April 26, 2018, November 16, 2008.
+        <i>The Cambridge Chronicle</i>, 8 May 1997.
         `,
         photos: ["images_bios/leno_mary.jpeg"],
         photoTitles: [],

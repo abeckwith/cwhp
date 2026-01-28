@@ -21,11 +21,11 @@ w_bios = [
             in recognition of her life and achievements on April 2, 2001.<br>
             `,
         otherNotes: "",
-        references: ` <i>City Council resolution</i>, April 2, 2001<Br>
-        <i>Cambridge Chronicle</i> November 1 1924<Br>
-        <I>Boston Globe</i> May 30, 1946<Br>
-        <I>Cambridge City Directory</i>, 1965<Br>
-        Image from Regis College 1945 yearbook
+        references: ` <i>City Council resolution</i>, April 2, 2001.<Br>
+        <i>Cambridge Chronicle</i> November 1 1924.<Br>
+        <I>Boston Globe</i> May 30, 1946.<Br>
+        <I>Cambridge City Directory</i>, 1965.<Br>
+        Image from Regis College 1945 yearbook.
         `,
         photos: ["images_bios/mary_wadden.png"],
         photoTitles: [],
@@ -88,7 +88,7 @@ w_bios = [
         references: `
             Obituary <em>Boston Globe</em>, January 5, 2010.<br>
             Family information.<br>
-            <i>Cambridge City Directory</i>, 1972
+            <i>Cambridge City Directory</i>, 1972.
         `,
         photos: ["images_bios/Juliaquilt_cropped_small.jpg"],
         photoTitles: [
@@ -238,11 +238,11 @@ w_bios = [
         otherNotes: "",
         references: `
        
-            Personal Interview by Sandra Pullman, January 2003<br>
+            Personal Interview by Sandra Pullman, January 2003.<br>
             Betsy Warrior's work on battered women is cited in R Emerson Dobash, <em>Women,
                 Violence and Social Change</em>, Routledge 1992 and R. Amy Elman <em>Sexual
                 Subordination and State Intervention: Comparing Sweden and the United States</em>.
-            Berghahn Books. 1996<br>
+            Berghahn Books. 1996.<br>
             Her work with Cell 16 and the Women's
                 Center is discussed in Flora Davis, <em>Moving the Mountain: The Women's
                 Movement in America Since 1960</em>. Simon and Schuster, 1991.
@@ -307,9 +307,9 @@ w_bios = [
        `,
         otherNotes: "",
         references: `
-    Image frp, the Cambridge Tribune, March 31, 1923<br>
+    Image frp, the Cambridge Tribune, March 31, 1923.<br>
             St. Lawrence University website, 
-            pages from the Sesquicentennial celebration <br>
+            pages from the Sesquicentennial celebration. <br>
             &quot;Ghost Stories&quot
             <br>
             &quot;Hail to the Chiefs: A Brief Look at Many of SLU's Leaders&quot
@@ -318,7 +318,7 @@ w_bios = [
             23 June 2005.<br>
             &quot;League of Women Voters Meet In Third Conference,&quot; Cambridge <em>Tribune</em>,
             March 31, 1923.<br>
-            <i>The Cambridge Tribune</i>,  10 November 1923
+            <i>The Cambridge Tribune</i>,  10 November 1923.
 
         `,
         photos: ["images_bios/whitman_florence.jpg"],
@@ -380,15 +380,15 @@ w_bios = [
             `,
         otherNotes: "",
         references: ` <em>
-                Appleton's Encyclopedia</em><br>
+                Appleton's Encyclopedia</em>.<br>
             Reitzes, Lisa B. &#8220;The Political Voice of the Artist: Anne Whitney's &quot;Roma&quot;
             and &quot;Harriet Martineau&quot;. <em>American Art</em>, 8, (2) 44-65; (Spring,
-            1994); <em><br>
-                Notable American Women</em> vol. 3 (1950)<br>
-            Anne Whitney Papers, Wellesley College Archives<br>
+            1994). <em><br>
+                Notable American Women</em> vol. 3 (1950).<br>
+            Anne Whitney Papers, Wellesley College Archives.<br>
             Martin, Elizabeth and Vivan Meyer. <em>Female Gazes: Seventy-Five Women Artists</em>.
             Toronto: Second Story Press, 1997.<Br>
-            Whitney image from wikipedia<Br>
+            Whitney image from wikipedia:<Br>
             <a class=indent' href="https://en.wikipedia.org/wiki/Anne_Whitney" >https://en.wikipedia.org/wiki/Anne_Whitney</a> <Br>
              Statue image from wikipedia.com:<Br>
              <a class='indent' href="https://commons.wikimedia.org/wiki/File:Charles_Sumner_statue_%28Cambridge,_MA%29_-_Anne_Whitney_sculptor.JPG" >https://commons.wikimedia.org/wiki/File:Charles_Sumner_statue_%28Cambridge,_MA%29_-_Anne_Whitney_sculptor.JPG</a> from wikimedia commons 
@@ -445,7 +445,7 @@ w_bios = [
         references: `Photo courtesy of Toni Williams.<Br>
        
             <Br>Oral interview by Sarah Boyer.
-            <i>Cambridge City Directory</i>, 1926
+            <i>Cambridge City Directory</i>, 1926.
         `,
         photos: ["images_bios/Toni%20Williams%20small.jpg"],
         photoTitles: [],
@@ -515,8 +515,8 @@ w_bios = [
         references: ` Finding aid, The Window Shop Papers, Schlesinger
             Library, Radcliffe Institute<Br> Eleanor Roosevelt, &#8220;My Day&#8221;, May 30,
             1950; Ellen Miller, Ilse Heyman, Dorothy Dahl<em>The Window Shop: Safe Harbor
-                for Refugees, 1939-1972</em>, Diesel books, 2007<br>
-                Photo: <i>The Cambridge Book</i>, 1966
+                for Refugees, 1939-1972</em>, Diesel books, 2007.<br>
+                Photo: <i>The Cambridge Book</i>, 1966.
            
         `,
         photos: ["images_bios/windowshop.JPG"],
@@ -557,7 +557,7 @@ w_bios = [
             `,
         otherNotes: "",
         references: ` <em>An Historic Guide to Cambridge</em>, Appendix &#8220;Edward
-            Winship&#8221;<Br>
+            Winship&#8221;.<Br>
                Photo from findagrave.com:<Br>
                <a class='indent' href="https://www.findagrave.com/memorial/20848657/joanna-winship#view-photo=7093541">
             https://www.findagrave.com/memorial/20848657/joanna-winship#view-photo=7093541</a>
@@ -626,10 +626,10 @@ w_bios = [
             of her in her late thirties, painted
             by John Singleton Copley, is held in the Metropolitan Museum of New York.`,
         otherNotes: "",
-        references: ` Mercy Otis Warren letters, Mass Historical Society<Br>
+        references: ` Mercy Otis Warren letters, Mass Historical Society.<Br>
             Kate Davies., <em>Catharine Macaulay and Mercy Otis Warren: The Revolutionary
                 Atlantic and the Politics of Gender.</em> (New York: Oxford University Press,
-            2005)<br>
+            2005).<br>
             
                 Image from wikipedia.com:<Br>
                  <a class='indent' href="https://commons.wikimedia.org/wiki/File:Mrs._John_Winthrop.jpg" >https://commons.wikimedia.org/wiki/File:Mrs._John_Winthrop.jpg</a>
@@ -697,8 +697,8 @@ w_bios = [
         references: ` Ozeline (Pearson) Wise papers and biographical information, Schlesinger
             Library. <Br>Ozeline (Pearson) Wise interview, <em>Black Women Oral History Project</em> of
             Schlesinger Library.<br>
-            <i>Cambridge City Directory</i>, 1965<br>
-            <i>The Cambridge Chronicle</i>, 24 February 1983
+            <i>Cambridge City Directory</i>, 1965.<br>
+            <i>The Cambridge Chronicle</i>, 24 February 1983.
             <br>
             Image from wikipedia.com:<br>
             <a class='indent' href="https://en.wikipedia.org/wiki/Ozeline_Wise" >https://en.wikipedia.org/wiki/Ozeline_Wise</a>
@@ -758,12 +758,12 @@ w_bios = [
             retirement from the City Council, she worked at the Cambridge Housing Authority
             for many years. Her papers are held at Schlesinger Library, Radcliffe Institute.`,
         otherNotes: "",
-        references: ` <em>Cambridge Chronicle</em>, August 12,1999<br>Schlesinger
+        references: ` <em>Cambridge Chronicle</em>, August 12,1999.
+        <br>Schlesinger
             Library biography and guide to Pearl Katz Wise papers.<Br>
-            <i>Cambridge City Directory</i>, 1930 & 1965<Br>
+            <i>Cambridge City Directory</i>, 1930 & 1965.<Br>
             FindAGrave.com:<br>
-            <a class='indent' href="https://www.ancestry.com/search/collections/60525/records/146988896?tid=&pid=&queryId=408823c2-fecb-4a9d-af1a-db3e98971fa5&_phsrc=prV2532&_phstart=successSource">https://www.ancestry.com/search/collections/60525/records/146988896?tid=&pid=&queryId=408823c2-fecb-4a9d-af1a-db3e98971fa5&_phsrc=prV2532&_phstart=successSource
-            </a> 
+            <a class='indent' href="https://www.ancestry.com/search/collections/60525/records/146988896?tid=&pid=&queryId=408823c2-fecb-4a9d-af1a-db3e98971fa5&_phsrc=prV2532&_phstart=successSource">https://www.ancestry.com/search/collections/60525/records/146988896?tid=&pid=&queryId=408823c2-fecb-4a9d-af1a-db3e98971fa5&_phsrc=prV2532&_phstart=successSource</a> 
         `,
         photos: ["images_bios/wise.jpg"],
         photoTitles: [],
@@ -821,10 +821,10 @@ w_bios = [
             Commonwealth Coalition, and the 1993 Woman of Courage Award from the Massachusetts
             chapter of the National Organization of Women.<br><Br>Alice Wolf lived at 48 Huron Avenue for more than 40 years. `,
         otherNotes: "",
-        references: ` <I>Harvard Gazette</i> June 2, 2005<Br>
+        references: ` <I>Harvard Gazette</i> June 2, 2005.<Br>
                 Wikipedia.com entry:<Br>
                 <a class='indent' href="https://en.wikipedia.org/wiki/Alice_Wolf" >https://en.wikipedia.org/wiki/Alice_Wolf</a><Br><Br>
-            <i>The Cambridge Chronicle</i>,  9 May 1991
+            <i>The Cambridge Chronicle</i>,  9 May 1991.
 
                 `,
         photos: ["images_bios/Alice_Wolf.jpg"],
@@ -933,7 +933,7 @@ w_bios = [
             `,
         otherNotes: "",
         references: ` Dominique Tremblay, finding aid for the Women's
-            Coffeehouse Records, prepared October 2006. Northeastern University Library
+            Coffeehouse Records, prepared October 2006. Northeastern University Library.
            
             <br>Image from <i>Concordia University Press</i>:<br>
              <a class='indent' href="https://press.library.concordia.ca/read/ingredients-for-revolution" >
@@ -1057,7 +1057,7 @@ w_bios = [
             <a href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf" >
             https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a><br>
             <a href="www.nlgmass.org/nlg-mass-history" >www.nlgmass.org/nlg-mass-history</a><Br>
-            <i>The Cambridge Chronicle</i>, 21 February 1974
+            <i>The Cambridge Chronicle</i>, 21 February 1974.
 
         `,
         photos: ["images_bios/womenslaw.png"],
@@ -1101,10 +1101,10 @@ w_bios = [
             Northeastern University, Boston.`,
         otherNotes: "",
         references: `Special Collections, Northeastern University, Boston.
-            Online guide; <br>
-            The Women's History Tour of Cambridge<Br>
-            <i>The Cambridge Chronicle</i>, 29 May 1986
-            <Br><i>The Cambridge Chronicle</i>, 22 February 1979
+            Online guide.<br>
+            The Women's History Tour of Cambridge.<Br>
+            <i>The Cambridge Chronicle</i>, 29 May 1986.
+            <Br><i>The Cambridge Chronicle</i>, 22 February 1979.
 
         `,
         photos: ["images_bios/womenschool.png"],

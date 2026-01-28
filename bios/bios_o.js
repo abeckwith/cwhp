@@ -118,11 +118,12 @@ class='indent' href="https://repository.library.northeastern.edu/collections/neu
             buried in Mount Auburn Cemetery with the rest of her family. `,
         otherNotes: "",
         references: ` &quot;Friend of Longfellow: Playmate of Lowell,&quot;
-            obituary of Caroline F. Orne. <em>Cambridge Chronicle</em> February 11, 1905<Br>
+            obituary of Caroline F. Orne. <Br>
+            <em>Cambridge Chronicle</em> February 11, 1905.<Br>
             Orne family biographies and landmark
                 report for Orne's home at 107 Auburn Street, Cambridge Historical Commission.
-            <em>Who's Who in America</em> (1905)<br>
-            Image from Cambridge Public Library
+            <em>Who's Who in America</em> (1905).<br>
+            Image from Cambridge Public Library.
         `,
         photos: ["images_bios/caroline_orne.png"],
         photoTitles: [],

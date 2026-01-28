@@ -42,7 +42,7 @@ n_bios = [
             New Words Bookstore archive, describing its first years, has been deposited
             at Schlesinger Library, Radcliffe Institute.`,
         otherNotes: "",
-        references: ` Center for New Words site &#8220;History&#8221;
+        references: ` Center for New Words site &#8220;History&#8221;.
             <br>
             &#8220;From the Schlesinger Library&#8221; <em>Radcliffe Quarterly</em>, Winter
             2003.<br>

@@ -48,9 +48,9 @@ c_bios = [
         otherNotes: "",
         references: `<i>George Wright Collection</i> at the Cambridge Historical
             Society<Br>37th
-            Annual Report of Cambridge Social Union
-            <Br><em>4word</em>, October 2001<Br>
-            <i>Cambridge Chronicle</i>, 28 January 1971
+            Annual Report of Cambridge Social Union.
+            <Br><em>4word</em>, October 2001.<Br>
+            <i>Cambridge Chronicle</i>, 28 January 1971.
         `,
         photos: ["images_bios/neighborhood house on moore.jpg"],
         photoTitles: [],
@@ -124,9 +124,9 @@ c_bios = [
         otherNotes: "",
         references: ` Schlesinger Library Archive finding aids for the
             Cambridge Political Equality Association and for Grace A Johnson.<Br>
-               <i>The Cambridge Tribune</i>,  30 January 1909<br>
-           <i>The Cambridge Sentinel</i>,  26 May 1917<br>
-            Image from Ida M. Tarbell Collection, 1890-1944, Merrick Archives and Special Collections, Pelletier Library, Allegheny College
+               <i>The Cambridge Tribune</i>,  30 January 1909.<br>
+           <i>The Cambridge Sentinel</i>,  26 May 1917.<br>
+            Image from Ida M. Tarbell Collection, 1890-1944, Merrick Archives and Special Collections, Pelletier Library, Allegheny College.
         `,
         photos: ["", "images_bios/cpea.png"],
         photoTitles: [],
@@ -188,11 +188,11 @@ c_bios = [
                 Cambridge School</em>. Cambridge School of Architecture and Landscape Architecture
             records at Smith College 
             and in William Allan Neilsen's presidential archives at Smith College.<br>
-            Doris Cole, <em>Eleanor Raymond, Architect<Br>
+            Doris Cole, <em>Eleanor Raymond, Architect.<Br>
             </em> Philadelphia: The Art Alliance
-            Press, 1981<Br>
+            Press, 1981.<Br>
             Susana Torre, &quot;Women in American Architecture: A Historic
-            and Contemporary Perspective,&#8221; NY: Whitney Library of Design, 1977
+            and Contemporary Perspective,&#8221; NY: Whitney Library of Design, 1977.
             <Br> National
             Register of Historic Places Registration Form/National Historic Landmark Nomination
             Form.
@@ -261,8 +261,8 @@ c_bios = [
             Marilyn and Joy Harvey. <em>Biographical Dictionary of Women Scientists</em>,
             (2000).
               Annie Jump Cannon, head-and-shoulders
-            portrait, 1922<br>
-            New York World Telegram and the Sun Newspaper Photograph Collection, Library
+            portrait, 1922.<br>
+            New York World Telegram and the Sun Newspaper Photograph Collection, Library.
             of Congress.<br>Image from wikipedia.com:
             <Br><a class='indent' href="https://en.wikipedia.org/wiki/Annie_Jump_Cannon" >https://en.wikipedia.org/wiki/Annie_Jump_Cannon</a>
         `,
@@ -343,14 +343,14 @@ c_bios = [
           `,
         otherNotes: "",
         references: `Marion Cannon Schlesinger, <em>Snatched from Oblivion</em>,
-            Little Brown (1997)<br>
+            Little Brown (1997).<br>
             Cambridge Public Library &#8220;Penwomen of Cambridge Past: Biographies
-            of Our Literary Foremothers&#8221;<Br>
+            of Our Literary Foremothers&#8221;.<Br>
             Wikipedia entry:<br>
                 <a class='indent' href="https://en.wikipedia.org/wiki/Cornelia_James_Cannon" >https://en.wikipedia.org/wiki/Cornelia_James_Cannon</a>
-            <br><i>Cambridge City Directory</i>, 1968
-            <br><i>Cornelia James Cannon and the Future American Race Paperback</i>,  Maria I. Diedrich, University of Mass. Press, January, 2011
-        <Br><i>The Cambridge Chronicle</i>, 2 December 1922, 22 December 1938
+            <br><i>Cambridge City Directory</i>, 1968.
+            <br><i>Cornelia James Cannon and the Future American Race Paperback</i>,  Maria I. Diedrich, University of Mass. Press, January, 2011.
+        <Br><i>The Cambridge Chronicle</i>, 2 December 1922, 22 December 1938.
 
 
         `,
@@ -399,17 +399,18 @@ c_bios = [
         otherNotes: "",
         references: `
             <em>27th Annual report of Cambridge Social Union</em> October 31, 1889, p 12,
-            (see George Wright Collection at The Cambridge Historical Society).<br>
+            (see George Wright Collection at The Cambridge Historical Society).
+            <br>
             May Alden Ward.&#8221;The Influence of Women's Clubs in New England and in the
             Middle-Eastern States,&#8221; <em>Annals of the American Academy of Political
                 and Social Science</em>, Vol. 28 Woman's Work and Organizations (Sep., 1906),
-            pp. 7-28<br>
+            pp. 7-28.<br>
             Grace S. Rice &#8220;The Cantabrigia Club&#8221; in <em>Cambridge Sketches by
                 Cambridge Authors</em> edited by Estelle M. H. Merrill (Cambridge Young Women's
-            Christian Association, 1896)<br>
+            Christian Association, 1896).<br>
             Jennie Cunningham Croly, &#8220;The Cantabrigia Club&#8221; in <em>The History
-                of the Woman's Club Movement in America</em>, New York, 1898
-                <br>Photo from <i>The Cambridge Tribune</i>,  29 October 1892
+                of the Woman's Club Movement in America</em>, New York, 1898.
+                <br>Photo from <i>The Cambridge Tribune</i>,  29 October 1892.
 
         `,
         photos: ["images_bios/cantabrigia.png"],
@@ -563,10 +564,10 @@ c_bios = [
             Her final book, <em>The Academic Achievement Challenge: What Really Works in
                 Classrooms</em>, was published after her death in 2000.`,
         otherNotes: "",
-        references: `<em>Cambridge Chronicle</em>, December 2, 1999<br>
+        references: `<em>Cambridge Chronicle</em>, December 2, 1999.<br>
             <a
                 href="http://education.stateuniversity.com/pages/1819/Chall-Jeanne-1921-1999.html" >http://education.stateuniversity.com/pages/1819/Chall-Jeanne-1921-1999.html</a><br>
-            <em>Harvard Gazette</em> obituary December 2 1999
+            <em>Harvard Gazette</em> obituary December 2 1999.
         `,
         photos: ["images_bios/jeanne chall.jpeg"],
         photoTitles: [],
@@ -622,7 +623,7 @@ c_bios = [
             one four years after her death. Her three children continued her retail,
             cookware, and Chinese food businesses.`,
         otherNotes: "",
-        references: ` <em>Boston</em> <em>Globe</em>, May 19, 1994
+        references: ` <em>Boston</em> <em>Globe</em>, May 19, 1994.
             
         <Br>Wikipedia entry:<Br>
         <a class='indent' href="https://en.wikipedia.org/wiki/Joyce_Chen_(chef)">https://en.wikipedia.org/wiki/Joyce_Chen_(chef)</a>
@@ -726,8 +727,8 @@ c_bios = [
             History Cambridge article:<Br>
              <a class='indent' href="https://historycambridge.org/articles/julia-childs-kitchen/" >https://historycambridge.org/articles/julia-childs-kitchen/</a><br>
             <i>America's Master Chef Looks at the Highlights, Culinary and Otherwise, of the City and its Neighbor, Cambridge</i> by Barbara
-            Beckwith, USAir Magazine, March, 1996<br>
-            <i> he Cambridge Chronicle</i>, 11 March 1976<br>
+            Beckwith, USAir Magazine, March, 1996.<br>
+            <i>The Cambridge Chronicle</i>, 11 March 1976.<br>
             Goodbye, Julia Child"
             Nov.9, 2001, <i>All Things Considered</i>, NRP:<br>
             <a class='indent' href="https://www.npr.org/2001/11/09/1133015/goodbye-julia-child">https://www.npr.org/2001/11/09/1133015/goodbye-julia-child</a>
@@ -782,8 +783,8 @@ c_bios = [
             <a href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf" >
                 https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf
             </a><br>
-            <strong>Photo: </strong><i>Cambridge Chronicle</i>, 18 November 1971<br>
-            <i>Cambridge Chronicle</i>, 18 November 1971<Br>
+            Photo: <i>Cambridge Chronicle</i>, 18 November 1971.<br>
+            <i>Cambridge Chronicle</i>, 18 November 1971.<Br>
             The Child Care Resource Center archive is housed at Schlesinger
             Library, Radcliffe Institute.
 
@@ -958,17 +959,17 @@ c_bios = [
             Investment Co., Melrose Realty Co. Inc., and the Strathcona Realty Trust.`,
         otherNotes: "",
         references: `
-            Charles M. Sullivan, <em>Old Cambridge </em>manuscript. MIT press (forthcoming)<br>
-            Jacob Rader Marcus, The American Jewish Woman, 1654-1980 (1981) p. 117<br>
+            Charles M. Sullivan, <em>Old Cambridge </em>manuscript. MIT press.<br>
+            Jacob Rader Marcus, The American Jewish Woman, 1654-1980 (1981) p. 117.<br>
             Eric Von Scmidt and Jim Rooney, <em>Baby, Let Me Follow You Down: The illustrated
-                Story of the Cambridge Folk Years</em>, p. 15<br>
-            Obituary, <em>Harvard Crimson</em> Wednesday, February 03, 1965<br>
+                Story of the Cambridge Folk Years</em>, p. 15.<br>
+            Obituary, <em>Harvard Crimson</em> Wednesday, February 03, 1965.<br>
             James Cramer in <em>Harvard Crimson</em> &quot;Part I: The Rise of Eddie Crane.
-            Power in Cambridge.&quot; February 07, 1975 <br>
+            Power in Cambridge.&quot; February 07, 1975. <br>
             A list of her Real Estate holdings is held in the Harvard University Corporation
             archives (B.U.D. 81, Real Estate, March 6, 1967 &#8220;List of Properties in
             Bertha Cohen's Estate&#8221;), Harvard University archives.<Br>
-            Image from GoogleMaps
+            Image from GoogleMaps.
         `,
         photos: ["images_bios/cohen.png"],
         photoTitles: ["992 Memorial Drive"],
@@ -1036,10 +1037,10 @@ c_bios = [
             are held in the Radcliffe College archives in Schlesinger Library 
             `,
         otherNotes: "",
-        references: `<em>Notable American Women, Modern Period</em>;
+        references: `<em>Notable American Women, Modern Period</em><br>
             Ada Louise Comstock papers, Smith College.<br>Image from wikipedia.com:<br>
             <a class='indent' href="https://en.wikipedia.org/wiki/Ada_Comstock">https://en.wikipedia.org/wiki/Ada_Comstock</a>
-            <Br><i>Cambridge City Directory</i>, 1928
+            <Br><i>Cambridge City Directory</i>, 1928.
         `,
         photos: ["images_bios/Ada-Comstock-1905.jpg"],
         photoTitles: [],
@@ -1122,12 +1123,12 @@ c_bios = [
         otherNotes: "",
         references: ` 
             Vermont Women's History Project, Vermont Historical Society<br> The painted portrait is listed as &#8220;Lucy
-            Ainsworth Cooke.&#8221;<br>
+            Ainsworth Cooke.&#8221;.<br>
             Newkirk, McDonald, &quot;Sleeping Lucy.&quot; Published by the Author, 30 W.
             Chicago Avenue, Chicago, Illinois, 1973.<Br>
-            Image from Vermont Historical Society
-            <br><i>The Cambridge Tribune</i>, 1 June 1895, 19 October 1895, 23 November 1895<br>
-            <i>The Cambridge Chronicle</i>, 24 May 1973
+            Image from Vermont Historical Society.
+            <br><i>The Cambridge Tribune</i>, 1 June 1895, 19 October 1895, 23 November 1895.<br>
+            <i>The Cambridge Chronicle</i>, 24 May 1973.
         `,
         photos: ["images_bios/lucy cooke.webp"],
         photoTitles: [],
@@ -1181,19 +1182,19 @@ c_bios = [
             `,
         otherNotes: "",
         references: ` &#8220;Sister Rose Marie Cummins&#8221; Environmental
-            Quality Commission Earth Day, Earth Day 2006<br> 
-            &nbsp;&nbsp;&nbsp;&nbsp;<a
+            Quality Commission Earth Day, Earth Day 2006.<br> 
+            <a class='indent' 
                 href="http://www.eqc.ky.gov/eday/eday2006/Sister%2BRose%2BMarie%2BCummins.htm">http://www.eqc.ky.gov/eday/eday2006/Sister+Rose+Marie+Cummins.htm</a><br>
             &#8220;The evolution of the Latino Community in Cambridge Massachusetts&#8221;
             Professor Deborah Pacini-Hernandez In collaboration with Maira Prez and Melissa
             Lee, Spring, 2002. Department of Anthropology, Tufts University
-            <br>&nbsp;&nbsp;&nbsp;&nbsp;<a
+            <br><a class='indent' 
                 href="http://repository01.lib.tufts.edu:8080/fedora/get/tufts:MS083.001.001.00013/bdef:TuftsPDF/getPDF">http://repository01.lib.tufts.edu:8080/fedora/get/tufts:MS083.001.001.00013/bdef:TuftsPDF/getPDF</a>.
             Centro Presente's 25th Anniversary and Holiday Fiesta
-            <br>&nbsp;&nbsp;&nbsp;&nbsp; <a
+            <br><a class='indent' 
                 href="http://www.massjwj.net/node/653">http://www.massjwj.net/node/653</a>
             <br>
-            <i>Cambridge Chronicle</i> December 21, 2006
+            <i>Cambridge Chronicle</i> December 21, 2006.
         `,
         photos: [""],
         photoTitles: [],
@@ -1274,15 +1275,15 @@ c_bios = [
             `,
         otherNotes: "",
         references: `
-            <em>Cambridge Chronicle</em>. Sept 6, 2000<br>
-            hollywood.com<Br>
+            <em>Cambridge Chronicle</em>. Sept 6, 2000.<br>
+            hollywood.com.<Br>
             <br>Image from wikipedia.com:
             <Br><a class='indent' href="https://en.wikipedia.org/wiki/Jane_Curtin" >https://en.wikipedia.org/wiki/Jane_Curtin</a>
             <br><i>New Yorker</i>, "Jane Curtin Is Playing It Straight,
             The veteran actress on the Republican Party, the turbulence of “S.N.L.,” and the state of women in comedy."
             By Michael Schulman,
-            February 17, 2019<Br>
-            &nbsp;&nbsp;&nbsp;&nbsp; <A href="https://www.newyorker.com/culture/the-new-yorker-interview/jane-curtin-is-playing-it-straight">link</a>
+            February 17, 2019.<Br>
+            <A class='indent' href="https://www.newyorker.com/culture/the-new-yorker-interview/jane-curtin-is-playing-it-straight">link</a>
         
             `,
         photos: [

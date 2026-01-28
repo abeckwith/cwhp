@@ -62,8 +62,8 @@ e_bios = [
             <Br>Image from wikipedia.com:<br>
             <a class='indent' href="https://en.wikipedia.org/wiki/Martha_May_Eliot">https://en.wikipedia.org/wiki/Martha_May_Eliot</a>
              <br>
-             <i>The Cambridge Chronicle</i>, 8 October 1959 <Br>
-             <i>Cambridge City Directory</i>, 1972  `,
+             <i>The Cambridge Chronicle</i>, 8 October 1959. <Br>
+             <i>Cambridge City Directory</i>, 1972 . `,
         photos: ["images_bios/martha_may_eliot.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
@@ -113,11 +113,11 @@ e_bios = [
             and her late husband, Frank Louis Evelyn, on June 13, 2009. They had lived at 300 Walden Street
             for many years.`,
         otherNotes: "",
-        references: ` <em>Cambridge Chronicle, </em>January 20, 2005;
-            Cambridge Public Library <em>Annual Report</em> FY99
-            <br>Image from <em>Boston Globe</em>, Aug. 17, 2011<br>
-            <I>Cambridge City Directory</i>, 1972<Br>
-            <i>U.S., Social Security Death Index</i>, 1935-2014
+        references: ` <em>Cambridge Chronicle, </em>January 20, 2005.<Br>
+            Cambridge Public Library <em>Annual Report</em> FY99.
+            <br>Image from <em>Boston Globe</em>, Aug. 17, 2011.<br>
+            <I>Cambridge City Directory</i>, 1972.<Br>
+            <i>U.S., Social Security Death Index</i>, 1935-2014.
         `,
         photos: ["images_bios/ZelmaEvelyn.png"],
         photoTitles: [],
@@ -182,7 +182,7 @@ e_bios = [
         otherNotes: "",
         references: `
             Tess Ewing staff biography (autobiographical statement), College of Public and
-            Community Service, UMass Boston
+            Community Service, UMass Boston.
             <br>
             Fair Economy profile:<Br>
             <a class='indent' href="https://www.faireconomy.org/board_tess_ewing" >https://www.faireconomy.org/board_tess_ewing</a><br>
@@ -240,8 +240,8 @@ e_bios = [
            `,
         otherNotes: "",
         references: `
-        Obituary from <i>The Boston Globe</i>, June 1943<br>
-        Photo Source NIH US National Library of Medicine, Public Domain<br><br>
+        Obituary from <i>The Boston Globe</i>, June 1943.<br>
+        Photo Source NIH US National Library of Medicine, Public Domain.<br><br>
 
         "Deaths and Funerals: Dr. Ruth Easterling." <i>The Boston Globe</i>, June 17, 1943, Boston, Massachusetts, page 11. 
         <br>Retrieved from Newspapers.com on June 5, 2020: <a href="https://www.newspapers.com/clip/52830380/obituary-for-ruth-m-easterling/" >https://www.newspapers.com/clip/52830380/obituary-for-ruth-m-easterling/</a><br><br>
@@ -260,7 +260,7 @@ e_bios = [
 
         Find a Grave Online Memorial.
         <br>Retrieved by June 5, 2020: <a href="https://www.findagrave.com/memorial/139844089" >https://www.findagrave.com/memorial/139844089</a>
-<br><Br><b>NOTE: bio written July 2020 - added to site in 2025
+<br><Br><b>NOTE: bio written July 2020 - added to site in 2025.
         `,
         photos: ["images_bios/easterling.png", "images_bios/easterling2.png"],
         photoTitles: [],

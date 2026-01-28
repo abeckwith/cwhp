@@ -51,8 +51,8 @@ a_bios = [
         otherNotes: "",
         references: `The Political Graveyard: Index to Politicians:<Br>
         <a class='indent' href="https://politicalgraveyard.com/bio/acampora-adamowski.html#ACKERMANN">https://politicalgraveyard.com/bio/acampora-adamowski.html#ACKERMANN</a><Br>
-            "You the Mayor?: The Education of a City Politician", by Barbara Ackerman, Praeger Press, 1989<br>
-            <i>Cambridge Chronicle</i> Nov. 3, 1977
+            "You the Mayor?: The Education of a City Politician", by Barbara Ackerman, Praeger Press, 1989.<br>
+            <i>Cambridge Chronicle</i> Nov. 3, 1977.
         `,
         photos: ["images_bios/Barbara%20Ackermann%20small.jpeg"],
         photoTitles: [""],
@@ -118,10 +118,10 @@ a_bios = [
             Review of Abbott's autobiography in <em>Time Magazine</em>, Oct
             05, 1936.<Br>
             Image from wikipedia.com:<Br><a class='indent' href="https://en.wikipedia.org/wiki/Eleanor_Hallowell_Abbott#/media/File:Portrait_of_Eleanor_Hallowell_Abbott.jpg">https://en.wikipedia.org/wiki/Eleanor_Hallowell_Abbott#/media/File:Portrait_of_Eleanor_Hallowell_Abbott.jpg</a><br>
-            <i>Cambridge Tribune</i>, March 11, 1893<Br>
-            <i>Cambridge Tribune</i>, December 25, 1892<br>
-            <i>Cambridge Tribune</i>, October 21, 1905<br>
-            <i>The New York Times</i>, January 3, 1937<br>
+            <i>Cambridge Tribune</i>, March 11, 1893.<Br>
+            <i>Cambridge Tribune</i>, December 25, 1892.<br>
+            <i>Cambridge Tribune</i>, October 21, 1905.<br>
+            <i>The New York Times</i>, January 3, 1937.<br>
             "Being Little in Cambridge When Everyone Else Was Big", by Eleanor Hallowell Abbott, 
             New York ; D. Appleton-Century company, inc., 1936:<Br>
             <a class='indent' href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015059385941&seq=1">https://babel.hathitrust.org/cgi/pt?id=mdp.39015059385941&seq=1</a><br>
@@ -203,11 +203,11 @@ a_bios = [
 
             `,
         otherNotes: "",
-        references: ` <em>Boston Globe</em> Jun. 27, 1999<br><em>New York Times
-            </em>Jun. 27, 1999<br>
-            Samuel Beckett Collection, University of Texas, Austin
+        references: ` <em>Boston Globe</em> Jun. 27, 1999.
+        <br><em>New York Times</em> June 27, 1999.<br>
+            Samuel Beckett Collection, University of Texas, Austin.
             <Br>Susan
-            Howe collection, Geisel Library, University of California, San Diego
+            Howe collection, Geisel Library, University of California, San Diego.
             <br><i>Irish Times</i> July 8, 1999:<br>
             <a class='indent' href="https://www.irishtimes.com/opinion/mary-manning-howe-adams-1.204225">https://www.irishtimes.com/opinion/mary-manning-howe-adams-1.204225)</a>
             
@@ -284,8 +284,8 @@ a_bios = [
             `,
         otherNotes: "",
         references: ` <em>Notable American Women</em> (1609-1950) Vol
-            I <Br>
-            <em>Dictionary of American Biography</em>, (1928)
+            I. <Br>
+            <em>Dictionary of American Biography</em>, 1928.
             <Br>Image from wikipedia.com:<Br>
             <a class='indent' href="https://en.wikipedia.org/wiki/Elizabeth_Cabot_Agassiz">https://en.wikipedia.org/wiki/Elizabeth_Cabot_Agassiz</a><Br>
             <I>A Journey In Brazil</i>, 1868, Boston: Tucknor and Fields:<Br>
@@ -346,6 +346,7 @@ a_bios = [
         otherNotes: "",
         references: `Wikipedia entry for Carol Bonomo Albright:<Br>
        <a class='indent' href="https://en.wikipedia.org/wiki/Carol_Bonomo_Albright">https://en.wikipedia.org/wiki/Carol_Bonomo_Albright</a>
+
         <Br>Amazon.com biography for Carol Bonomo Albright:
        <Br><a class='indent' href="https://www.amazon.com/stores/Carol-Bonomo-Albright/author/B001JSDLOY">https://www.amazon.com/stores/Carol-Bonomo-Albright/author/B001JSDLOY</a><Br>
        Tough Poets Press:<Br>
@@ -353,7 +354,7 @@ a_bios = [
         <br>
        Image from Google Books:
         <Br><a class='indent' href="https://books.google.com/books?id=5R28DDgTAd4C&pg=PA38#v=onepage&q&f=false">https://books.google.com/books?id=5R28DDgTAd4C&pg=PA38#v=onepage&q&f=false</a>
-               <i>Cambridge Chronicle</i> January 22, 2009<br>
+               <i>Cambridge Chronicle</i> January 22, 2009.<br>
  `,
         photos: ["images_bios/carol albright.jpeg"],
         photoTitles: [],
@@ -400,11 +401,11 @@ a_bios = [
 
             `,
         otherNotes: "",
-        references: ` <em>Boston Globe</em> Mar. 11, 2001
+        references: ` <em>Boston Globe</em> Mar. 11, 2001.
         <Br><em>New York Times</em>,
-            (paid notice) Mar. 7, 2001<Br>
-            <i>U.S. Social Security Index</i><Br>
-            <i>Cambridge City Directory</i>: 1948, 1989
+            (paid notice) Mar. 7, 2001.<Br>
+            <i>U.S. Social Security Index</i>.<Br>
+            <i>Cambridge City Directory</i>: 1948, 1989.
         `,
         photos: [""],
         photoTitles: [],
@@ -444,10 +445,11 @@ a_bios = [
 
             `,
         otherNotes: "",
-        references: ` <em>Cambridge Chronicle</em> Feb. 18, 2000<Br>Paid death
+        references: ` <em>Cambridge Chronicle</em> Feb. 18, 2000.
+        <Br>Paid death
             notice of Judge Bailey Aldrich, September 29, 2002.
             <Br><em>New York Times</em>
-            Obituary of Bailey Aldrich, September 30, 2002
+            Obituary of Bailey Aldrich, September 30, 2002.
         `,
         photos: [""],
         photoTitles: [],
@@ -508,16 +510,16 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
         references: `
         <br>
         Judith Rosen, "Alice James Books at 30", <em>Publishers Weekly</em>,
-        May 19, 2003<br>
+        May 19, 2003.<br>
         <i>Bookwomen: 70 who have made a difference</i>, Women's National
-        Book Association <br>
+        Book Association. <br>
         Ali Kazam, "Beacon Voices: Jo Pitkin", Beacon Dispatch, Issue 28,
         December 2006, January 2007:<br>
         <a class='indent' href="http://www.alicejamesbooks.org">www.alicejamesbooks.org</a><br>
         <i>Down East: The Magazine of Maine</i>, June, 2006. "The People's Poet: Maine's New Poet Laureate, 
         Betsy Sholl, Finds Poetry in the Most Unlikely Places" by Michaela Cavallaro:<Br>
        <a class='indent' href=<"https://web.archive.org/web/20110707230938/http://www.betsysholl.com/news_file_bv.asp?key=34">https://web.archive.org/web/20110707230938/http://www.betsysholl.com/news_file_bv.asp?key=34</a><br>
-        Image courtesy of Alice James Books
+        Image courtesy of Alice James Books.
     `,
         photos: ["images_bios/alice james books.jpg"],
         photoTitles: [],
@@ -585,10 +587,10 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
 
             `,
         otherNotes: "",
-        references: `<em>Boston Globe</em>, Sept. 9, 2009
-        <Br>Image from <em>Boston Globe</em>, Sept. 9, 2009<br>
-            Massachusetts, Death Index, 1970-2003<Br>
-            <i>The Cambridge Chronicle</i>,  24 July 1986, 2 October 1986, 27 September 1990
+        references: `<em>Boston Globe</em>, Sept. 9, 2009.
+        <Br>Image from <em>Boston Globe</em>, Sept. 9, 2009.<br>
+            <i>Massachusetts, Death Index</i>, 1970-2003.<Br>
+            <i>The Cambridge Chronicle</i>,  24 July 1986, 2 October 1986, 27 September 1990.
 
         `,
         photos: ["images_bios/corinne2.png", "images_bios/corinne woodson alleyne.png"],
@@ -645,7 +647,7 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
 `,
         otherNotes: "",
         references: `
-            <i>Cambridge Chronicle</i> April 15, 1993,  Sept 10, 1998
+            <i>Cambridge Chronicle</i> April 15, 1993,  Sept 10, 1998.
 
         `,
         photos: [""],
@@ -701,8 +703,8 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
         references: `Cambridge Energy Alliance bio:<Br>
         <a class='indent' href="https://masspeaceaction.org/mapaef-board/">https://masspeaceaction.org/mapaef-board/</a>
             <br>
-            <i>The Cambridge Chronicle</i>, 22 April 1993<Br>
-                Photo courtesy of Rosalie Anders
+            <i>The Cambridge Chronicle</i>, 22 April 1993.<Br>
+                Photo courtesy of Rosalie Anders.
         `,
         photos: ["images_bios/rosalie anders.jpg"],
         photoTitles: [],
@@ -744,10 +746,10 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
     Dominga died at home in Cambridge after a brief illness at the age of 95.
             `,
         otherNotes: "",
-        references: ` <em>Cambridge Chronicle</em>, 11-17-99<br>
-    Ancestry.com Naturalization records<br>
-    <i>U.S. Census</i> records<Br>
-    <i>Cambridge City Directory</i> 1941, 1944 ,1972 
+        references: ` <em>Cambridge Chronicle</em>, Nov. 17, 1999.<br>
+    Ancestry.com Naturalization records.<br>
+    <i>U.S. Census</i> records.<Br>
+    <i>Cambridge City Directory</i> 1941, 1944 ,1972.
         `,
         photos: ["images_bios/andrade.png"],
         photoTitles: ["1940 U.S. Census for Cambridge showing Dominga as Presser at 41 Market St."],
@@ -800,15 +802,14 @@ July 9, 1999</i>
 
             `,
         otherNotes: "",
-        references: ` &#8220;Palliative Care&#8221;, <em>Religion and
-                Ethics Newsweekly</em>,
-            PBS Episode 245, July 9, 1999<Br>
-            &nbsp;&nbsp;&nbsp;&nbsp;<a
+        references: ` &#8220;Palliative Care&#8221;, <em>Religion and Ethics Newsweekly</em>,
+            PBS Episode 245, July 9, 1999.<Br>
+            <a class='indent'
                 href="http://www.pbs.org/wnet/religionandethics/week245/cover.html">http://www.pbs.org/wnet/religionandethics/week245/cover.html</a><br>
-            Sharon Stentiford, personal information<br>
-            <i>Cambridge City Directories</i>
+            Sharon Stentiford, personal information.<br>
+            <i>Cambridge City Directories.</i>
             <br>
-            <i>Massachusetts Death Index</i>, 1970-2003<Br>
+            <i>Massachusetts Death Index</i>, 1970-2003.<Br>
             Image from WNET: <Br>
             <a class='indent' href="http://www.pbs.org/wnet/religionandethics/week245/cover.html" >http://www.pbs.org/wnet/religionandethics/week245/cover.html</a>
         `,
@@ -903,7 +904,7 @@ July 9, 1999</i>
             <i>Searching for Life</i> review:<br>
             <a class='indent' href="https://www.ucpress.edu/books/searching-for-life/paper">https://www.ucpress.edu/books/searching-for-life/paper</a>
             <Br>
-            <i>Cambridge City Directory</i>, 1968
+            <i>Cambridge City Directory</i>, 1968.
         `,
         photos: ["images_bios/arditti.jpg"],
         photoTitles: [],
@@ -952,7 +953,7 @@ July 9, 1999</i>
             `,
         otherNotes: "",
         references: `Summary based on personal interview by Sandra Pullman,
-            2003<Br>
+            2003.<Br>
         `,
         photos: [""],
         photoTitles: [],
@@ -1032,11 +1033,11 @@ July 9, 1999</i>
             `,
         otherNotes: "",
         references: `Jefferson Park Tenant Task Force/Information
-            from Mary Russell<Br>
+            from Mary Russell.<Br>
             Cambridge City Council meeting notes<Br>
-            &nbsp; &nbsp;&nbsp;&nbsp;<a
+            <a class='indent'
                 href="http://www.rwinters.com/council/103105.htm">http://www.rwinters.com/council/103105.htm</a><Br>
-                 <i>U.S. Census</i> 1930 and 1950<Br>
+                 <i>U.S. Census</i> 1930 and 1950.<Br>
                 <i>Cambridge Chronicle:</i><Br>
                 31 July 1958<Br>
                 20 August 1959<Br>
@@ -1048,9 +1049,9 @@ July 9, 1999</i>
                 7 Jun 1984<br>
                 5 May 1977<br>
                 28 Jun 2000<br>
-                <i>U.S., Social Security Applications and Claims Index</i>, 1936-2007
+                <i>U.S., Social Security Applications and Claims Index</i>, 1936-2007.
             <br>
-            Image and fact-checking: Josie's granddaughter Tania Zayasbr>
+            Image and fact-checking: Josie's granddaughter Tania Zayasbr.
 
         `,
         photos: ["images_bios/avakian.jpeg"],
@@ -1091,8 +1092,8 @@ July 9, 1999</i>
 
             `,
         otherNotes: "",
-        references: `<em>Cambridge Chronicle</em>, June 7, 1973 & October 2, 2000 & May 4, 2006<Br>
-        <i>Cambridge City Directory</i>, 1972
+        references: `<em>Cambridge Chronicle</em>, June 7, 1973 & October 2, 2000 & May 4, 2006.<Br>
+        <i>Cambridge City Directory</i>, 1972.
         `,
         photos: [""],
         photoTitles: [],
@@ -1148,8 +1149,8 @@ July 9, 1999</i>
         `,
         otherNotes: "",
         references: `
-        <i>Boston Globe</i>, obituary, September 8, 2013, page B9<br>
-        <i>The Cambridge Chronicle</i>, 26 June 2002
+        <i>Boston Globe</i>, obituary, September 8, 2013, page B9.<br>
+        <i>The Cambridge Chronicle</i>, 26 June 2002.
         `,
         photos: ["images_bios/armstrong_barbara.png"],
         photoTitles: [],
@@ -1253,8 +1254,8 @@ July 9, 1999</i>
         `,
         otherNotes: "",
         references: `
-        Kendall Square weekly <i>Fax</i>, 10 November 1987, 11 April 1989<br>
-        <i>The Cambridge Chronicle</i>, 13 May 1999<br>
+        Kendall Square weekly <i>Fax</i>, 10 November 1987, 11 April 1989.<br>
+        <i>The Cambridge Chronicle</i>, 13 May 1999.<br>
         <i>Barnard Magazine</i>, Spring 2002:
         <br><a class='indent' href="https://barnard.edu/magazine/spring-2022/lifelong-activist">https://barnard.edu/magazine/spring-2022/lifelong-activist</a> <br>
         <i>the Boston Globe</i>, May 24, 2017</i>:<br>

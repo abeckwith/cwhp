@@ -34,7 +34,7 @@ g_bios = [
         references: ` Oral interview by Sarah Boyer.<Br>
         <i>City of Cambridge
             vital statistics</i>, Cambridge City Clerk's office.<br>
-            <i>Cambridge Chronicle</a>, February 6, 2002
+            <i>Cambridge Chronicle</a>, February 6, 2002.
         `,
         photos: [""],
         photoTitles: [],
@@ -94,9 +94,10 @@ g_bios = [
             `,
         otherNotes: "",
         references: `Moss, Elizabeth. <em>Domestic Novelists in the Old
-                South</em>. Louisiana: Louisiana State University Press, 1992<Br> Haberly, David.
+                South</em>. Louisiana: Louisiana State University Press, 1992.
+                <Br> Haberly, David.
             &#8220;Caroline Howard Gilman&#8221; for Unitarian Universalist Historical Society
-            (UUHS), 1999-2007, website includes portrait
+            (UUHS), 1999-2007, website includes portrait.
         `,
         photos: ["images_bios/gilman.jpg"],
         photoTitles: [],
@@ -257,7 +258,7 @@ g_bios = [
           
             Brief Biography, <a href="http://www.helical-library.net/gluck/bio.asp" >http://www.helical-library.net/gluck/bio.asp</a>. Date accessed:
             4/22/2013<Br>
-            <i>The Cambridge Chronicle</i>, 3 September 2003
+            <i>The Cambridge Chronicle</i>, 3 September 2003.
             <br>
             Image from <a href="https://en.wikipedia.org/wiki/Louise_Gl%C3%BCck" >ttps://en.wikipedia.org/wiki/Louise_Gl%C3%BCck</a>
         `,
@@ -352,16 +353,16 @@ g_bios = [
             `,
         otherNotes: "",
         references: `
-            Obituary, <em>The Boston Globe</em> , May 14, 2008 <br>
+            Obituary, <em>The Boston Globe</em> , May 14, 2008. <br>
             Bryan Marquard. &#8220;Miriam Goodman, 69; poet also nurtured others' art&#8221;
-            <em>The Boston Globe</em>, May 16, 2008
+            <em>The Boston Globe</em>, May 16, 2008.
            <br>
             Leslie Lawrence &#8220;Miriam Goodman, Poet, 1938-2008&#8221; We Remember, Jewish
-            Women's Archive website<br>
-            Miriam Goodman online web site<Br>
-            Press release, Griffin Museum of Photography, April 2, 2009<Br>
-            <i>The Cambridge Chronicle</i>,  9 April 1981
-            <br><i>Poetry Foundation</i Aug. 1993:<Br>
+            Women's Archive website.<br>
+            Miriam Goodman online web site.<Br>
+            Press release, Griffin Museum of Photography, April 2, 2009.<Br>
+            <i>The Cambridge Chronicle</i>,  9 April 1981.
+            <br><i>Poetry Foundation</i> Aug. 1993:<Br>
             <a class='indent' href="https://www.poetryfoundation.org/poetrymagazine/browse?volume=162&issue=5&page=27">
             https://www.poetryfoundation.org/poetrymagazine/browse?volume=162&issue=5&page=27</a>
         `,
@@ -434,7 +435,7 @@ g_bios = [
             of Alice Bache Gould for publication. `,
         otherNotes: "",
         references: ` Kathleen E. LeMieux; Massachusetts Historical Society,
-            Alice Bache Gould'papers Guidie to the Collection<br>
+            Alice Bache Gould'papers Guidie to the Collection.<br>
             &#8220;Alice in Seville&#8221; Time magazine July 7, 1952.<Br>
             Image from wikipedia.com:<br>
              <a class='indent' href="https://en.wikipedia.org/wiki/Alice_Bache_Gould">https://en.wikipedia.org/wiki/Alice_Bache_Gould</a>
@@ -539,9 +540,9 @@ g_bios = [
         otherNotes: "",
         references: `
             Graham and Parks Alternative School web site<br>
-            <em>Metropolis Magazine</em>, Harvard inc., 2001<br>
-            <i>Cambridge City Directory</i>, 1972<br>
-            <i>The Cambridge Chronicle</i>,  17 April 1980<Br>
+            <em>Metropolis Magazine</em>, Harvard inc., 2001.<br>
+            <i>Cambridge City Directory</i>, 1972.<br>
+            <i>The Cambridge Chronicle</i>,  17 April 1980.<Br>
             Photo from legacy.com:<br>
             <a class='indent' href="https://www.legacy.com/us/obituaries/bostonglobe/name/saundra-graham-obituary?id=52398590">https://www.legacy.com/us/obituaries/bostonglobe/name/saundra-graham-obituary?id=52398590/a>
 
@@ -717,12 +718,12 @@ g_bios = [
             99. `,
         otherNotes: "",
         references: `
-            Cambridge <em>Tab</em> 2-25-99<br>
+            Cambridge <em>Tab</em> 2-25-99.<br>
             <em>4word</em> article, November 2003, &quot;A Conversation with Suzanne Revaleon
-            Green&quot;<br>
-            Cambridge Historical Commission files<em><br>
-            </em>Salem State Alumni site <Br>
-                        Image credit: History Cambridge
+            Green&quot;.<br>
+            Cambridge Historical Commission files<em>.<br>
+            </em>Salem State Alumni site. <Br>
+                        Image credit: History Cambridge.
 
         `,
         photos: ["images_bios/suzanne_greene.jpg"],
@@ -931,7 +932,7 @@ g_bios = [
 `,
         otherNotes: "",
         references: ` 
-          Oral interview by Anthony Beckwith, December 8, 2025<br>
+          Oral interview by Anthony Beckwith, December 8, 2025.<br>
         MIT Black History article: <br>
         <a class='indent' href="https://www.blackhistory.mit.edu/archive/yvonne-harris-and-sherry-glanville-ca-1965" >"Yvonne Harris and Sherr Glanville, ca. 1965"</a><br>
         Upworthy.com:<Br>

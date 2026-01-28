@@ -54,7 +54,7 @@ s_bios = [
             to contribute to your society here.&#8221;</blockquote>
             `,
         otherNotes: "",
-        references: `Oral interview by Sarah Boyer<br>
+        references: `Oral interview by Sarah Boyer.<br>
         Image from <i>Community Training and Assistance Center</i>:<br>
         <a class='indent' href="https://ctacusa.com/about-us/staff/sylvia-saavedra-keber/" >https://ctacusa.com/about-us/staff/sylvia-saavedra-keber/</a>
         `,
@@ -148,10 +148,11 @@ s_bios = [
             Foundation. In 1996, a plaque commemorating her life and work, was erected on
             the grounds of the main branch of the Cambridge Public Library. `,
         otherNotes: "",
-        references: ` May Sarton, <em>I Knew a Phoenix</em>; <em>Plant
-                Dreaming Deep</em>; <br><br><em>A World of Light</em>. Constance Hunting <em>May Sarton:
-                Woman and Poet</em><Br><br>National Poetry Foundation, 1982; <em>Great Women Writers</em>.
-            <Br><Br>Henry Holt, 1994; Cambridge Historical Commission files<Br><Br>
+        references: ` May Sarton, <em>I Knew a Phoenix</em>,<em>Plant
+                Dreaming Deep</em>, <em>A World of Light</em>. <br>Constance Hunting <em>May Sarton:
+                Woman and Poet</em>.
+                <Br><br>National Poetry Foundation, 1982; <em>Great Women Writers</em>.
+            <Br>Henry Holt, 1994; Cambridge Historical Commission files.<Br>
             Image from wikipedia.com:<br>
             <a class='indent' href="https://en.wikipedia.org/wiki/May_Sarton" >https://en.wikipedia.org/wiki/May_Sarton</a>
         `,
@@ -215,10 +216,10 @@ s_bios = [
 `,
         otherNotes: "",
         references: `Marian Cannon Schlesinger, <em>Snatched from Oblivion</em>,
-            (Little Brown, 1979)<br>
+            (Little Brown, 1979).<br>
             Arthur Schlesinger, Jr. <em>A Life in the 20th Century: Innocent Beginnings,
-                1917-1950</em>. Houghton Mifflin, 2000<Br>
-                <i>Cambridge City Directory</i>, 1972<br>
+                1917-1950</em>. Houghton Mifflin, 2000.<Br>
+                <i>Cambridge City Directory</i>, 1972.<br>
                 Image from wikipedia.com:<br>
                 <a class='indent' href="https://en.wikipedia.org/wiki/Marian_Cannon_Schlesinger" >https://en.wikipedia.org/wiki/Marian_Cannon_Schlesinger</a>
         `,
@@ -417,21 +418,21 @@ s_bios = [
         `,
         otherNotes: "",
         references: `
-            MIT Oral history interview with Joe McMaster, video and transcript, Feb. 25, 2016<br>
+            MIT Oral history interview with Joe McMaster, video and transcript, Feb. 25, 2016:<br>
             <a class='indent'
                 href="https://infinitehistory.mit.edu/video/denise-simmons">https://infinitehistory.mit.edu/video/denise-simmons</a> <br>
             Ratigan, Evelyn<em>. </em>&quot;Cambridge Officials Unveil Monument to Prince Hall,&quot; <em>Cambridge
-                Chronicle</em>, 5/18/2010<br>
-            Cambridge City Council Resolution to Name Prince Hall a Founding Father, 10/20/2008, 
+                Chronicle</em>, 5/18/2010.<br>
+            Cambridge City Council Resolution to Name Prince Hall a Founding Father, 10/20/2008. 
             <br>
-            Denise Simmons Election Website and Bio <br>
+            Denise Simmons Election Website and Bio. <br>
             Monroe, Rev. Irene.&ldquo;Black Episcopal Congregation Celebrates Lesbian Marriage,&rdquo; <em>Huffington
-                Post</em>, 11/10/2009<Br> <a class='indent'
-                href="https://www.huffingtonpost.com/irene-monroe/black-episcopal-congregat_b_281261.html"
+                Post</em>, 11/10/2009:
+                <Br> <a class='indent'href="https://www.huffingtonpost.com/irene-monroe/black-episcopal-congregat_b_281261.html"
                 >https://www.huffingtonpost.com/irene-monroe/black-episcopal-congregat_b_281261.html</a>
             <br>
    
-            Photo Credit: Stephen Maclone
+            Photo Credit: Stephen Maclone.
         `,
         photos: ["images_bios/Simmons Blue Suit_small.jpg"],
         photoTitles: [],
@@ -493,10 +494,10 @@ s_bios = [
         `,
         otherNotes: "",
         references: `
-            Obituary, <em>Resonance</em> June 2006<br>
-            Oral interview in Schlesinger Library<br>
-            DMS<em>E News</em> (MIT). April 2001 <br>
-            <i>Cambridge City Directory</i>, 1972<br>
+            Obituary, <em>Resonance</em> June 2006.<br>
+            Oral interview in Schlesinger Library.<br>
+            DMS<em>E News</em> (MIT). April 2001. <br>
+            <i>Cambridge City Directory</i>, 1972.<br>
             Image from University of Chicago Photographic Archive, apf1-07690, Hanna Holborn Gray Special Collections Research Center, University of Chicago Library.
            `,
         photos: ["images_bios/Alice_Kimball_Smith.jpg"],
@@ -571,12 +572,12 @@ s_bios = [
         otherNotes: "",
         references: ` Finding aid, Joan Forrester Sprague papers, Schlesinger
             Library, Radcliffe Institute.<Br>
-            <I>Cambridge City Directory</i>, 1972<Br>
-            Birthdate from <i>U.S. Social Security Death Index</i>, 1935-2014<Br>
+            <I>Cambridge City Directory</i>, 1972.<Br>
+            Birthdate from <i>U.S. Social Security Death Index</i>, 1935-2014.<Br>
             Book cover from Common Crow Books:<br>
             <a class='indent' href="https://www.commoncrowbooks.com/pages/books/B59091/joan-forrester-sprague/more-than-housing-lifeboats-for-women-and-children-inscribed-by-sprague">https://www.commoncrowbooks.com/pages/books/B59091/joan-forrester-sprague/more-than-housing-lifeboats-for-women-and-children-inscribed-by-sprague</a>
          <Br>
-                <i>The Boston Globe</i>Sep 08, 1986, page 15
+                <i>The Boston Globe</i>Sep 08, 1986, page 15.
             `,
         photos: ["images_bios/sprague.png"],
         photoTitles: [],
@@ -624,7 +625,7 @@ s_bios = [
 `,
         otherNotes: "",
         references: ` 
-          <i>Cambridge City Directory</i>, 1903<Br>
+          <i>Cambridge City Directory</i>, 1903.<Br>
           Image from Harvard University Plate Stacks:<br>
           <a class='indent' href="https://platestacks.cfa.harvard.edu/women-at-hco/mabel-cushman-stevens">
           https://platestacks.cfa.harvard.edu/women-at-hco/mabel-cushman-stevens</a>
@@ -681,7 +682,8 @@ s_bios = [
         otherNotes: "",
         references: ` Benjamin Bussey Thatcher, <em>Indian Biography</em>.
             New York (1832); Lucius R. Paige. <em>History of Cambridge 1630-1877</em>, Boston
-            1877<Br>Menotomy Journal timeline
+            1877.
+            <Br>Menotomy Journal timeline.
             <Br> Frederick J Lund (compiler), &#8220;Brief
             History of Somerville,&#8221; Somerville Planning Board, 1996.<Br>
             Image from wikipedia.com:<Br>

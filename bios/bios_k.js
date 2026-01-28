@@ -43,8 +43,10 @@ k_bios = [
         otherNotes: "",
         references: `
             Cambridge Vital Records; City of Cambridge Annual
-            Reports; Federal Census; Kendall, Phebe Mitchell. <em>Maria Mitchell: Life,
-                Letters and Journals</em>, book online <Br>
+            Reports.<Br>
+            Federal Census.<Br>
+            Kendall, Phebe Mitchell. <em>Maria Mitchell: Life,
+                Letters and Journals</em>, book online. <Br>
             Harvard University Library Open Collections Program: <em>Women Working, 1870-1930</em>
             <Br> <a class='indent' 
                 href="http://ocp.hul.harvard.edu/ww/people_mitchell.html">http://ocp.hul.harvard.edu/ww/people_mitchell.html</a>
@@ -52,7 +54,7 @@ k_bios = [
             Gray, Christoper. &quot;Streetscapes/McKin, Mead &amp; White: A Skeptic's View
             of a Renowned Architectural Firm,&quot; <em>New York Times</em>, 2 June 2006,
             online archives.<br>
-            Image from Cambridge Historical Commission
+            Image from Cambridge Historical Commission.
         `,
         photos: ["images_bios/phebe_mitchell.png"],
         photoTitles: [],
@@ -114,8 +116,9 @@ k_bios = [
             MIT Library archives. `,
         otherNotes: "",
         references: `<em> Notable Women in the Physical Sciences</em>.
-            Benjamin F. Shearer and Barbara S. Shearer (eds). Westport, CN,. 1997; Interview,
-            Oral History Project, MIT archives; Vera Kistiakowsky Papers, MIT Library archives;
+            Benjamin F. Shearer and Barbara S. Shearer (eds). Westport, CN,. 1997<br>
+             Interview,
+            Oral History Project, MIT archives; Vera Kistiakowsky Papers, MIT Library archives.<Br>
             Carol Berczuk, &#8220;Choices and Successes: Honoring Women Pioneers &#8220;<em>
                 Annals of the New York Academy of Sciences</em> 869 (1), 22&#8211;33, 1999.
                 <Br>

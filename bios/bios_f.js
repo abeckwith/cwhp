@@ -40,13 +40,13 @@ f_bios = [
             Award in 2003, and CCTV recognized her with an award in 2008. <br>
             <br>`,
         otherNotes: "",
-        references: ` Personal information; biographical information 
+        references: ` Personal information, biographical information 
     in Susan Fleischmann, &#8220;TV Station: How To Create An Award-Winning Public 
-    Access Station&#8221;<Br> <em>Be the Media</em>, online book:
+    Access Station&#8221;.<Br> <em>Be the Media</em>, online book:
     <Br><a class='indent' href="http://www.bethemedia.com/tableofcontents.htm" >http://www.bethemedia.com/tableofcontents.htm</a><br>
 
     Photo by Sean Effel. <br>
-  Used with permission of Susan Fleischmann`,
+  Used with permission of Susan Fleischmann.`,
         photos: ["images_bios/Fleischmann_small.jpg"],
         photoTitles: [],
         dateCreated: "00.00.2018",
@@ -97,8 +97,8 @@ f_bios = [
   `,
         otherNotes: "",
         references: `Written by Kimm Topping, printed in <em>Mapping Feminist Cambridge</em> guidebook, 2019: <a href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf" >https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a><br>
-        <br>Ad listing:<i>The Cambridge Chronicle</i>, 21 March 1974<Br>
-        Photo of building: Cambridge Historical Commission
+        <br>Ad listing:<i>The Cambridge Chronicle</i>, 21 March 1974.<Br>
+        Photo of building: Cambridge Historical Commission.
 `,
         photos: ["images_bios/focus1.png", "images_bios/focus.png"],
         photoTitles: [
@@ -161,12 +161,12 @@ f_bios = [
     <br>`,
         otherNotes: "",
         references: ` Karma Kitaj <em>Women Who Could . . . and Did: 
-      Lives of 26 Exemplary Artists and Scientists</em>. (2002)<br>
+      Lives of 26 Exemplary Artists and Scientists</em>. (2002).<br>
       Cynthia R. Daniels, &#8221;Between Fathers and Fetuses: The Social Construction of Male Reproduction 
       and the Politics of Fetal Harm.&#8221; Signs, Vol. 22, No. 3 (Spring, 1997),
-      pp. 579-616<br>
+      pp. 579-616.<br>
       (reprinted in <em>Women, Science and Technology: A Reader in Feminist 
-      Science Studies Mary Wyer</em> (ed.) 312-331.(2001)<Br>
+      Science Studies Mary Wyer</em> (ed.) 312-331.(2001).<Br>
       Cynthia R Daniels. <em>Exposing 
       Men: The Science and Politics of Male Reproduction</em>. New York (2006).<Br>
       Woods Hole Museum profile:<Br>
@@ -235,8 +235,8 @@ f_bios = [
     Nomination by Robin Hein<Br>Source: Cambridge newspapers.<Br>
     Image from picyrl.com:<Br>
      <a class='indent' href="https://itoldya420.getarchive.net/amp/media/illustration-from-the-adventures-of-nils-by-mary-hamilton-frye-page-154-42ec0d">https://itoldya420.getarchive.net/amp/media/illustration-from-the-adventures-of-nils-by-mary-hamilton-frye-page-154-42ec0d</a>
-    <Br><i>The Boston Globe</i> Jun 17, 1921, page 11
-        <Br><i>The Houston Post</i>  Dec 07, 1913, page 56
+    <Br><i>The Boston Globe</i> Jun 17, 1921, page 11.
+        <Br><i>The Houston Post</i>  Dec 07, 1913, page 56.
     `    ,
         photos: ["images_bios/frye.jpg", "images_bios/frye2.png"],
         photoTitles: [
@@ -310,8 +310,8 @@ In
     <br>`,
         otherNotes: "",
         references: `<em>Notable American Women</em> (1607-1950) Vol 
-    I
-    <Br>Robert N Hudspeth, <em>The Letters of Margaret Fuller </em>Vol 1-V (1988)<Br>
+    I.
+    <Br>Robert N Hudspeth, <em>The Letters of Margaret Fuller </em>Vol 1-V (1988).<Br>
     Margaret Fuller Neighborhood House website:<br> 
     <a class='indent' href="http://www.margaretfullerhouse.org/index.html">http://www.margaretfullerhouse.org/index.html</a>
     <br>
@@ -377,12 +377,12 @@ In
         otherNotes: "",
         references: `
 
-        <i>The Cambridge Chronicle</i>, 5 March 1910<br>
-        <i>The Boston Globe</i> Sep 4 1906, Oct 16, 1908, Sep 24, 1909, Mar 22, 1916<Br>
-        <i>Massachusetts, U.S., Marriage Records</i>, 1840-1915<Br>
+        <i>The Cambridge Chronicle</i>, 5 March 1910.<br>
+        <i>The Boston Globe</i> Sep 4 1906, Oct 16, 1908, Sep 24, 1909, Mar 22, 1916.<Br>
+        <i>Massachusetts, U.S., Marriage Records</i>, 1840-1915.<Br>
         Schlesinger Library, Radcliffe Oral History Project:<br> 
         <a class='indent' href="https://iiif.lib.harvard.edu/manifests/view/drs:45177050$15i">https://iiif.lib.harvard.edu/manifests/view/drs:45177050$15i</a><Br>
-        <i>Cambridge High and Latin School yearbook</i> 1932
+        <i>Cambridge High and Latin School yearbook</i> 1932.
 `,
         photos: [ "images_bios/franks_sep_4_1906.png", "images_bios/franks.png"],
         photoTitles: ["Boton Globe, Sept. 4, 1906", "Goldie Franks' daughter Elsie May Franks, CHLS Yearbook, 1932"],

@@ -188,12 +188,15 @@ y_bios = [
         otherNotes: "",
         references: ` Sergio Parussa. <em>I Would Have Liked to Flee
             to Patagonia: Conversations with Anna Yona Bridges: A Jewish Feminist Journal</em>
-        Autumn 2005, Vol. 10, No. 2: Pages 10-27<Br> Alexander Stille. <em>Benevolence
-            and Betrayal: Five Italian Jewish Families under Fascism </em>(1991)<Br> Anna Yona
+        Autumn 2005, Vol. 10, No. 2: Pages 10-27.
+        <Br> Alexander Stille. <em>Benevolence
+            and Betrayal: Five Italian Jewish Families under Fascism </em>(1991).
+            <Br> Anna Yona
         Papers, Immigration History Research Center, College of Liberal Arts, University
         of Minnesota <br> Obituary, Gloria Negri &#8220;Anna Yona at 98; hosted Italian-Hour
-        radio show&#8221; <em>Boston Globe</em>, October 15, 2006
-        <Br><i>Cambridge City Directory</i>, 1972<Br>
+        radio show&#8221;.
+        <br> <em>Boston Globe</em>, October 15, 2006
+        <Br><i>Cambridge City Directory</i>, 1972,<Br>
         Image and quote from <i>Printed Matter</i>, Centro Primo Levi Online Monthly:
 
         <Br><a class='indent' href="https://primolevicenter.org/printed-matter/our-life-was-divided/">

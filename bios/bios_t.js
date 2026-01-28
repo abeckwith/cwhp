@@ -53,11 +53,11 @@ t_bios = [
             at the age of eighty-seven.`,
         otherNotes: "",
         references: ` Marilyn Ogilvie and Joy Harvey, <em>Biographical
-                Dictionary of Women Scientists</em>. Routledge, 2000
+                Dictionary of Women Scientists</em>. Routledge, 2000.
                 <Br> Phyllis J. Read and Bernard
             L. Witlieb,<em> The Book of Women's Firsts</em>, New York: Random House,
-            1992<br>
-            <i>Cambridge City Directory </i>, 1900
+            1992.<br>
+            <i>Cambridge City Directory </i>, 1900.
        <Br> Image from wikipedia.com:<Br>
        <a class='indent' href="https://en.wikipedia.org/wiki/Helen_B._Taussig" >https://en.wikipedia.org/wiki/Helen_B._Taussig </a>   
        <br><i>American Heart Assocation</i> article, March 28, 2024:<Br>
@@ -127,7 +127,7 @@ t_bios = [
             Massachusetts: Windflower Press, 1979.<br>
             May Sarton,<em> Recovering: A Journal, 1978-1979</em>,. New York: W.W. Norton
             pp 242-244.<br>
-            <i>Cambridge City Directory</i>, 1946
+            <i>Cambridge City Directory</i>, 1946.
             <br>Image used wth permission from Shady Hill School:
             <br><a class='indent' href="https://www.shs.org/" >https://www.shs.org/</a>
             
@@ -190,11 +190,11 @@ t_bios = [
         references: `
             Dorritt, Hoffleit, &#8220;In Memory of Helen Meriwether Lewis Thomas, August
             21 1905-August 6 1997.&#8221; <em>Journal of the Association of Variable Star
-                Observers ( JAAVSO)</em> 28: 40-46, 2000; <br>
+                Observers ( JAAVSO)</em> 28: 40-46, 2000;. <br>
             Hoffleit, Dorritt &#8220;Eloge: Helen Meriwether Lewis Thomas, 21 August 1905-6
             August 1997 [Obituary]&#8221; <em>Isis</em> 89: 316, 1998.<Br>
-            <i>The Cambridge Chronicle</i>, 10 June 1993
-            <Br><i>Cambridge City Directory</i>, 1963<br>
+            <i>The Cambridge Chronicle</i>, 10 June 1993.
+            <Br><i>Cambridge City Directory</i>, 1963.<br>
             Image from <i>University of Chicago Press Journals</i>:<Br>
             <a class='indent' href="https://www.journals.uchicago.edu/doi/abs/10.1086/384004?journalCode=isis">
             https://www.journals.uchicago.edu/doi/abs/10.1086/384004?journalCode=isis</a>
@@ -271,7 +271,7 @@ t_bios = [
             <a class='indent' href="https://www.flickr.com/photos/schlesinger_library/13270319163/">https://www.flickr.com/photos/schlesinger_library/13270319163/</a> <br>
             <em>Black Women in America, A Historical Encyclopedia</em> ed. Darlene Clark,
             Carlson Publishing, Inc.,1993.<Br>
-            <i>Cambridge Chronicle</i>, 21 November 1985<br>
+            <i>Cambridge Chronicle</i>, 21 November 1985.<br>
             Image from wikipedia.com:<Br>
              <a class='indent' href="https://commons.wikimedia.org/wiki/File:Mary_Crutchfield_Thompson_%2813270319163%29.jpg" >https://commons.wikimedia.org/wiki/File:Mary_Crutchfield_Thompson_%2813270319163%29.jpg</a>
            
@@ -332,9 +332,9 @@ t_bios = [
             and served as consultant to many scientific organizations. `,
         otherNotes: "",
         references: ` <em>
-                Harvard Gazette</em>, May 2001<br>
-            Obituary on sciencenetwork.com<br>
-            <i>Cambridge City Directory</i>, 1965<br>
+                Harvard Gazette</em>, May 2001.<br>
+            Obituary on sciencenetwork.com.<br>
+            <i>Cambridge City Directory</i>, 1965.<br>
                 Image from wikipedia.com:<br> 
                 <a class='indent' href="https://en.wikipedia.org/wiki/Ruth_Turner" >https://en.wikipedia.org/wiki/Ruth_Turner</a>
         `,

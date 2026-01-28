@@ -42,11 +42,11 @@ h_bios = [
             written by her mother. `,
         otherNotes: "",
         references: `
-            Charles Hopkinson collection, Smithsonian Archives of American Art<br>
-            Papers, 1797-1991 of the Curtis family, Schlesinger Library<em><br>
+            Charles Hopkinson collection, Smithsonian Archives of American Art.<br>
+            Papers, 1797-1991 of the Curtis family, Schlesinger Library<em>.<br>
                 Cambridge Chronicle</em> October 21, 1993.<br>
-            corrections and additions by her children<br>
-            <i>Cambridge City Directory</i>, 1961
+            Vorrections and additions by her children.<br>
+            <i>Cambridge City Directory</i>, 1961.
         `,
         photos: ["images_bios/Isabella%20Halsted%20small.jpeg"],
         photoTitles: ["Photo of Isabella Halsted by Nancy Scanlan"],
@@ -94,9 +94,11 @@ h_bios = [
             national and local groups and to support liberal causes. She was awarded many
             honorary degrees in her retirement years.`,
         otherNotes: "",
-        references: ` <em>Cambridge Chronicle</em> 09-20-00; Barbara
+        references: ` <em>Cambridge Chronicle</em> Sept. 20, 2000<Br>
+         Barbara
             Sicherman. <em>Alice Hamilton M.D.: A life in Letters</em>. Harvard University
-            Press, 1984; Ogilvie, Marilyn and Joy Harvey. <em>Biographical Dictionary of
+            Press, 1984.<br>
+             Ogilvie, Marilyn and Joy Harvey. <em>Biographical Dictionary of
                 Women Scientists</em> (2000).<Br>
                 Image from wikipedia.com:
                 <Br><a class='indent' href="https://en.wikipedia.org/wiki/Alice_Hamilton" >https://en.wikipedia.org/wiki/Alice_Hamilton</a>
@@ -150,7 +152,7 @@ h_bios = [
              now-famous photo, showing her next to a printout of her MIT team's Appolo code, began circulating online.</blockquote>  `,
         otherNotes: "",
         references: ` Earlham College press release March 4, 2005; NASA
-            Office of Logic Design &#8220;About Margaret Hamilton.&quot;<Br> 
+            Office of Logic Design &#8220;About Margaret Hamilton.&quot;.<Br> 
             <a class='indent'
                 href="http://klabs.org/home_page/hamilton.htm">http://klabs.org/home_page/hamilton.htm</a><br>
                 Image from wikipedia<Br>
@@ -198,7 +200,8 @@ h_bios = [
             of whom died tragically; 10 grandchildren, and 2 great-grandchildren.<br>
             `,
         otherNotes: "",
-        references: ` Oral interview by Sarah Boyer<Br><i>The Cambridge Chronicle</i>, 7 January 1999
+        references: ` Oral interview by Sarah Boyer.
+        <Br><i>The Cambridge Chronicle</i>, 7 January 1999.
 
         `,
         photos: ["images_bios/harvey.png"],
@@ -281,9 +284,9 @@ h_bios = [
         otherNotes: "",
         references: `
             Harry Kreisler, &quot;Conversations with History Interview with Judith Lewis
-            Herman,&quot; at Berkeley.edu<br>
-            Radcliffe alumni awards website<br>
-            Image from Judith Herman
+            Herman,&quot; at Berkeley.edu.<br>
+            Radcliffe alumni awards website.<br>
+            Image from Judith Herman.
         `,
         photos: ["images_bios/JudyHerman.jpg"],
         photoTitles: [],
@@ -340,14 +343,14 @@ h_bios = [
             Scholarship. `,
         otherNotes: "",
         references: ` <em>The Witness</em> magazine Monday, July 15,
-            2002<Br>
+            2002.<Br>
              <em>Cambridge Chronicle</em> June 5 2002. 
              <Br>Biographical note, Archive of
-            Women in Theological Scholarship by Leslie Reyman: (October 2000) <Br>
+            Women in Theological Scholarship by Leslie Reyman: (October 2000). <Br>
             &nbsp;&nbsp;&nbsp;&nbsp;<a
                 href="http://www.columbia.edu/cu/lweb/img/assets/6396/Hiatt_SFA51305PDF.pdf">http://www.columbia.edu/cu/lweb/img/assets/6396/Hiatt_SFA51305PDF.pdf</a>
-       <br>Image sources: Collection info, The Burke Library at Union Theological Seminary, Columbia University in the City of New York
-       <Br><i>Cambridge Telephone book</i>, 1989 
+       <br>Image sources: Collection info, The Burke Library at Union Theological Seminary, Columbia University in the City of New York.
+       <Br><i>Cambridge Telephone book</i>, 1989 .
                 `,
         photos: [
             "images_bios/suzanne_hiatt2.jpg",
@@ -407,7 +410,7 @@ h_bios = [
         otherNotes: "",
         references: ` Finding aid and list of archives, William Ernest Hocking papers, Houghton
             Library Harvard University.<Br>
-            Image used wth permission from Shady Hill School <Br>
+            Image used wth permission from Shady Hill School: <Br>
             <a class='indent' href="https://www.shs.org/" >https://www.shs.org/</a>
         `,
         photos: ["images_bios/agnes_hocking.jpeg"],
@@ -465,7 +468,7 @@ h_bios = [
         otherNotes: "",
         references: `Lucius R.Paige. <em>A History of Cambridge 1630
                 -1877 with a Genealogical Register</em> Boston, Cambridge 1877, 856-863.<br>
-                <i>The Cambridge Chronicle</i>, 7 October 1937
+                <i>The Cambridge Chronicle</i>, 7 October 1937.
 
         `,
         photos: ["images_bios/holman.png"],
@@ -549,14 +552,15 @@ h_bios = [
             `,
         otherNotes: "",
         references: `<em>The Unruly Voice: Rediscovering Pauline Elizabeth
-                Hopkins</em>. Ed. John C. Gruesser. Urbana: U of Illinois P, 1996. Cambridge
+                Hopkins</em>. Ed. John C. Gruesser. Urbana: U of Illinois P, 1996. <Br>
+                Cambridge
             Public Library website &#8220;Penwomen of Cambridge Past: Biographies of
-            Our Literary Foremothers&#8221;<br>
-                Image from wikiepedia<Br>
+            Our Literary Foremothers&#8221;.<br>
+                Image from wikipedia:<Br>
                 <a class='indent' href="https://en.wikipedia.org/wiki/Pauline_Hopkins" >https://en.wikipedia.org/wiki/Pauline_Hopkins</a>
-       <br><i>Cambridge City Directory</i>, 1928<br>
-       "Echoes from the Annual Convention of Northeastern Federation of Colored Women's Clubs," <i>Colored American Magazine</i> 6.10 (Oct. 1903): 709-713
-        <Br>"Pauline Elizabeth Hopkins: Black Daughter of the Revolution", by Lois Brown, 2008, Univeristy of North Carolina Press       `,
+       <br><i>Cambridge City Directory</i>, 1928.<br>
+       "Echoes from the Annual Convention of Northeastern Federation of Colored Women's Clubs," <i>Colored American Magazine</i> 6.10 (Oct. 1903): 709-713.
+        <Br>"Pauline Elizabeth Hopkins: Black Daughter of the Revolution", by Lois Brown, 2008, Univeristy of North Carolina Press.       `,
         photos: [ "images_bios/Hopkins2.png", "images_bios/Pauline_Elizabeth_Hopkins.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
@@ -611,11 +615,11 @@ h_bios = [
             Society Boas collection (Philadelphia).`,
         otherNotes: "",
         references: ` Horsford family papers, Rensselaer Polytechnic
-            Institute Library<Br>
+            Institute Library.<Br>
             <i>Cambridge Chronicle</i>, July 2, 1998.<Br>
             Image from wikipedia:<br>
             <a class='indent' href="https://en.wikipedia.org/wiki/Cornelia_Horsford" >https://en.wikipedia.org/wiki/Cornelia_Horsford</a>
-       <Br><i>Cambridge City Directory</i>, 1861
+       <Br><i>Cambridge City Directory</i>, 1861.
             `,
         photos: ["images_bios/Cornelia_Horsford.jpg"],
         photoTitles: [],
@@ -739,9 +743,9 @@ h_bios = [
             Abeel, Daphne. <em>Cambridge in the Twentieth Century</em>, Cambridge Historical
             Society: Cambridge, Massachusetts, 2007. <br>
             Allaback, Sarah. <em>The First American Women Architects</em>. Urbana and Chicago:
-            University of Illinois Press, 2007<br>
+            University of Illinois Press, 2007.<br>
             American Institute of Architects. <em>The A.I.A. Historical Directory of American
-                Architects</em>
+                Architects.</em>
             <br>
             &quot;An Alumna's Architectural Career,&quot; <em>Technology Review</em>, vol.
             66, no. 2 (December 1963), pp. 21, 38.<br>
@@ -754,14 +758,14 @@ h_bios = [
             Group: Cambridge, Massachusetts, November 2006. <br>
             Cambridge Historical Society. <em>Cambridge Historical Society Proceedings</em>.<br>
             Cole, Doris and Taylor, Karen Cord, The Lady Architects, Mid March Arts Press:
-            New York, 1990<br>
+            New York, 1990.<br>
             Howe, Lois L. and Constance Fuller<em> Details from Old New England Houses</em>.
             New York: Architectural Book Publishing Co., 1913. <br>
             Howe, Manning &amp; Almy Papers,1883-1972, MIT Archives and Special Collections.<br>
            
           
             Nathanson, Larry M.D., &#8220;Lois Lilly Howe: Pioneer Career Woman, Architect,
-            Cambridge Citizen.&#8221;<br>
+            Cambridge Citizen.&#8221;.<br>
             &quot;Serving Pantries in
             Small Houses.&quot; <em>Architectural Review</em>, vol. 14, no. 3 (March 1907).<br>
         `,
@@ -845,10 +849,10 @@ h_bios = [
         `,
         otherNotes: "",
         references: ` 
-        Interview with Audrey Huang, April 2, 2025<br>
-        <em>Belmont Voice</em> article, Oct. 13, 2024<br>
-        Alma Boudreau obit, <em>Cambridge Chronicle</em>, May 18, 1995<Br>
-        Photos courtesy of Audrey Huang
+        Interview with Audrey Huang, April 2, 2025.<br>
+        <em>Belmont Voice</em> article, Oct. 13, 2024.<br>
+        Alma Boudreau obit, <em>Cambridge Chronicle</em>, May 18, 1995.<Br>
+        Photos courtesy of Audrey Huang.
         `,
 
         photos: ["images_bios/audrey huang.jpeg", "images_bios/huang2.JPG"],
@@ -923,13 +927,13 @@ h_bios = [
         references: ` Benjamin F. Shearer and Barbara Smith Shearer <em>Notable
                 Women in the Life Sciences</em>. Westport CN 1996.; R. Hubbard and E. Wald.<Br>
             &#8220;George Wald Memorial Talk&#8221; in <em>Rhodopsin and Photransduction</em>,
-            pp. 5-20. Chichester: [Novartis Foundation Symposium 224]
+            pp. 5-20. Chichester: [Novartis Foundation Symposium 224].
             <br> Online conversation
-            with Frank Aqueno in 1993 <br>
+            with Frank Aqueno in 1993. <br>
                 Image from wikipedia:<Br> <a class='indent' href="https://en.wikipedia.org/wiki/Ruth_Hubbard" >https://en.wikipedia.org/wiki/Ruth_Hubbard</a>
-        <Br><i>Cambridge City Directory</i>, 1963<bR>
+        <Br><i>Cambridge City Directory</i>, 1963.<bR>
         <i>The Boston Globe</i>,"Ruth Hubbard, 92, First woman tenured in biology at Harvard, 9/4/2016.<Br>
-        <i>The New York Times</i>, "Scholars Face a Challenge by Feminists" by Edward B. Fiske, Nov. 23, 1981
+        <i>The New York Times</i>, "Scholars Face a Challenge by Feminists" by Edward B. Fiske, Nov. 23, 1981.
         `,
         photos: ["images_bios/Ruth_Wald.jpg"],  
         photoTitles: [],
@@ -993,11 +997,13 @@ h_bios = [
 `,
         otherNotes: "",
         references: `<em>Notable American Women, Modern Period</em>;
-            <em>Encyclopedia Britannica</em>, <em>Wikipedia</em><Br>
-            Image from wikipedia<Br>
+            <em>Encyclopedia Britannica</em>, <em>Wikipedia</em>.<Br>
+            Image from wikipedia:<Br>
              <a class='indent' href="https://en.wikipedia.org/wiki/Anna_Hyatt_Huntington" >https://en.wikipedia.org/wiki/Anna_Hyatt_Huntington</a>
-        <Br><i>Cambridge City Directory</i>, 1876<br>
-        <a class='indent' href="https://www.artnews.com/art-news/news/celebrating-anna-hyatt-huntington-2371/>Art News article, 2014</a>
+        <Br>
+        <i>Cambridge City Directory</i>, 1876.<br>
+        Art News article, 2014:<Br>
+        <a class='indent' href="https://www.artnews.com/art-news/news/celebrating-anna-hyatt-huntington-2371/></a>
             `,
         photos: ["images_bios/Anna_Vaughn_Hyatt.jpg"],
         photoTitles: [],
@@ -1101,7 +1107,7 @@ h_bios = [
             have known her.&#8221;`,
         otherNotes: "",
         references: ` 
-         Photo courtesy of the Hurd family
+         Photo courtesy of the Hurd family.
        <br>Marjorie Hurd Papers, Schlesinger Library, Radcliffe
             Institute for Advanced Study, Harvard University; Radcliffe College alumni files;
             Social Law Library files, Supreme Judicial Court; New England School of Law
@@ -1151,7 +1157,7 @@ h_bios = [
 `,
         otherNotes: "",
         references: ` 
-          <i>Cambridge City Directory</i>, 1894
+          <i>Cambridge City Directory</i>, 1894.
         
              `,
         photos: [""],

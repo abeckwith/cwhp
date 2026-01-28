@@ -54,13 +54,13 @@ j_bios = [
                 Herself </em>(London 1861) reprinted as <em>Harriet Jacobs, Incidents in the
                 Life of a
                 Slave Girl</em> (Simon &amp; Schuster
-            2003)<br>
-            Harriet Jacobs website by Julie Adams<br>
+            2003).<br>
+            Harriet Jacobs website by Julie Adams.<br>
            Video history of Harriet Jacobs' life produced by Mount Auburn Cemetery:<br>
             <a class='indent' href="https://youtu.be/wnyYNMZpmoU" >https://youtu.be/wnyYNMZpmoU</a><Br>
             Image from wikipedia.com:<br>
             <a class='indent' href="https://en.wikipedia.org/wiki/Harriet_Jacobs" >https://en.wikipedia.org/wiki/Harriet_Jacobs</a>
-        <br><i>Cambridge City Directory</i>, 1872
+        <br><i>Cambridge City Directory</i>, 1872.
             `,
         photos: ["images_bios/harriet_jacobs.jpg"],
         photoTitles: [],
@@ -145,10 +145,10 @@ j_bios = [
                 href="http://www.famousamericans.net/sarahspraguejacobs">http://www.famousamericans.net/sarahspraguejacobs</a><Br>
             <em>Appleton's Encylcopedia of American Biography</em> (1888)
             <Br><i>Cambridge
-            Vital Records</i> <br>
-            City of Cambridge <i>Annual Reports</i><br> 
-            Federal Census<Br>Prefaces to
-            the <em>Proprietors Records </em>and <em>Records of the Town of Cambridge</em>.
+            Vital Records</i>. <br>
+            City of Cambridge <i>Annual Reports</i>.<br> 
+            Federal Census.<Br>Prefaces to
+            the <em>Proprietors Records </em>and <em>Records of the Town of Cambridge.</em>.
         `,
         photos: [""],
         photoTitles: [],
@@ -224,11 +224,11 @@ j_bios = [
             Nations.`,
         otherNotes: "",
         references: ` Grace A Johnson papers, Schlesinger Library, Radcliffe
-            Institute. <a href="http://oasis.lib.harvard.edu/oasis/deliver/~sch01027" >http://oasis.lib.harvard.edu/oasis/deliver/~sch01027</a><Br>
+            Institute. <Br><a  class='indent'  href="http://oasis.lib.harvard.edu/oasis/deliver/~sch01027" >http://oasis.lib.harvard.edu/oasis/deliver/~sch01027</a><Br>
         
-            <i>Cambridge City Directory</i>, 1896
-            <Br>Image credit: History Cambridge
-            <i>The Cambridge Tribune</i>,  6 November 1915
+            <i>Cambridge City Directory</i>, 1896.
+            <Br>Image credit: History Cambridge.<br>
+            <i>The Cambridge Tribune</i>,  6 November 1915.
 
         `,
         photos: ["images_bios/grace_johnson.png"],
@@ -288,12 +288,12 @@ j_bios = [
             early life is in the Schlesinger Library in the Palache family papers.`,
         otherNotes: "",
         references: `
-            Palache family papers, Schlesinger Library, finding guide<br>
-            &#8220;A P. Jones&#8221; <em>New York Times</em> obituary June 13, 1989<br>
-            P hotograph of Alice Palache and Katharine Hepburn at Bryn Mawr in the 1920s,
-            Schlesinger Library collections
+            Palache family papers, Schlesinger Library, finding guide.<br>
+            &#8220;A P. Jones&#8221; <em>New York Times</em> obituary June 13, 1989.<br>
+            Photograph of Alice Palache and Katharine Hepburn at Bryn Mawr in the 1920s,
+            Schlesinger Library collections.
             <br>Image from <a href="https://en.wikipedia.org/wiki/Alice_Palache_Jones" >https://en.wikipedia.org/wiki/Alice_Palache_Jones</a>
-        <br><i>Cambridge City Directory</i>, 1950
+        <br><i>Cambridge City Directory</i>, 1950.
             `,
         photos: ["images_bios/AlicePalache.png"],
         photoTitles: [],
