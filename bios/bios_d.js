@@ -515,7 +515,7 @@ de Paredon Records), circa 1964-2007</i><br>&nbsp;&nbsp;&nbsp;&nbsp;<a  class='i
                  Photo
                 by Betsy Sowers<br>
                  Photo courtesy of Deborah Silverstein. <Br>
-                 <i>Cambridge Chronicle</i>, Volume 149, Number 44, 2 November 1995
+                 <i>Cambridge Chronicle</i>, 2 November 1995
         `,
         photos: [
             "images_bios/Marcia Deihl photo by Betsy Sowers_small.jpg",
@@ -801,7 +801,7 @@ de Paredon Records), circa 1964-2007</i><br>&nbsp;&nbsp;&nbsp;&nbsp;<a  class='i
             Photo of Dorothea Lynde Dix from wikipedia<Br>
             &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://en.wikipedia.org/wiki/Dorothea_Dix#/media/File:Dorothea_Dix_1802%E2%80%931887.jpg">https://en.wikipedia.org/wiki/Dorothea_Dix#/media/File:Dorothea_Dix_1802%E2%80%931887.jpg</a>
         
-        <br><i>The Cambridge Chronicle</i>, Volume XV, Number 5, 4 February 1860
+        <br><i>The Cambridge Chronicle</i>, 4 February 1860
 
       
         `,

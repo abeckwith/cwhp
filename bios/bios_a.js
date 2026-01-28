@@ -701,7 +701,7 @@ as a writer were recognized only after her death. <Br><Br>The founding members, 
         references: `Cambridge Energy Alliance bio<Br>
         &nbsp; &nbsp;&nbsp;&nbsp;<A href="https://masspeaceaction.org/mapaef-board/">https://masspeaceaction.org/mapaef-board/</a>
             <br>
-            <i>The Cambridge Chronicle</i>, Volume 147, Number 16, 22 April 1993<Br>
+            <i>The Cambridge Chronicle</i>, 22 April 1993<Br>
                 Photo courtesy of Rosalie Anders
         `,
         photos: ["images_bios/rosalie anders.jpg"],
@@ -1149,7 +1149,7 @@ July 9, 1999</i>
         otherNotes: "",
         references: `
         <i>Boston Globe</i>, obituary, September 8, 2013, page B9<br>
-        <i>The Cambridge Chronicle</i>, Volume 156, Number 35, 26 June 2002
+        <i>The Cambridge Chronicle</i>, 26 June 2002
         `,
         photos: ["images_bios/armstrong_barbara.png"],
         photoTitles: [],
@@ -1258,7 +1258,7 @@ July 9, 1999</i>
         otherNotes: "",
         references: `
         Kendall Square weekly <i>Fax</i>, 10 November 1987, 11 April 1989<br>
-        <i>The Cambridge Chronicle</i>, Volume 153, Number 19, 13 May 1999<br>
+        <i>The Cambridge Chronicle</i>, 13 May 1999<br>
         <i>Barnard Magazine</i>, Spring 2002
         <br>&nbsp; &nbsp;&nbsp;&nbsp;<A href="https://barnard.edu/magazine/spring-2022/lifelong-activist">https://barnard.edu/magazine/spring-2022/lifelong-activist</a> <br>
         <i>the Boston Globe</i>, May 24, 2017</i><br>

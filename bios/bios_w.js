@@ -318,7 +318,7 @@ w_bios = [
             23 June 2005.<br>
             &quot;League of Women Voters Meet In Third Conference,&quot; Cambridge <em>Tribune</em>,
             March 31, 1923.<br>
-            <i>The Cambridge Tribune</i>, Volume XLVI, Number 37, 10 November 1923
+            <i>The Cambridge Tribune</i>,  10 November 1923
 
         `,
         photos: ["images_bios/whitman_florence.jpg"],
@@ -697,7 +697,7 @@ w_bios = [
             Library. Ozeline (Pearson) Wise interview, <em>Black Women Oral History Project</em> of
             Schlesinger Library.<br>
             <i>Cambridge City Directory</i>, 1965<br>
-            <i>The Cambridge Chronicle</i>, Volume 137, Number 8, 24 February 1983
+            <i>The Cambridge Chronicle</i>, 24 February 1983
             <br>
             Image source: wikipedia<br>
             <a class='indent' href="https://en.wikipedia.org/wiki/Ozeline_Wise" >https://en.wikipedia.org/wiki/Ozeline_Wise</a>
@@ -823,7 +823,7 @@ w_bios = [
         references: ` Harvard Gazette June 2, 2005<Br>
                 Wikipedia entry<Br>
                 <a class='indent' href="https://en.wikipedia.org/wiki/Alice_Wolf" >https://en.wikipedia.org/wiki/Alice_Wolf</a><Br><Br>
-            <i>The Cambridge Chronicle</i>, Volume 145, Number 19, 9 May 1991
+            <i>The Cambridge Chronicle</i>,  9 May 1991
 
                 `,
         photos: ["images_bios/Alice_Wolf.jpg"],

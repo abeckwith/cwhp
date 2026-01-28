@@ -223,7 +223,7 @@ j_bios = [
         
             Cambridge City Directory, 1896
             <Br>Image credit: History Cambridge
-            <i>The Cambridge Tribune</i>, Volume XXXVIII, Number 36, 6 November 1915
+            <i>The Cambridge Tribune</i>,  6 November 1915
 
         `,
         photos: ["images_bios/grace_johnson.png"],

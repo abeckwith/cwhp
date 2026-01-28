@@ -124,8 +124,8 @@ c_bios = [
         otherNotes: "",
         references: ` Schlesinger Library Archive finding aids for the
             Cambridge Political Equality Association and for Grace A Johnson.<Br>
-               <i>The Cambridge Tribune</i>, Volume XXXI, Number 48, 30 January 1909<br>
-           <i>The Cambridge Sentinel</i>, Volume XIV, Number 27, 26 May 1917<br>
+               <i>The Cambridge Tribune</i>,  30 January 1909<br>
+           <i>The Cambridge Sentinel</i>,  26 May 1917<br>
             Image source: Ida M. Tarbell Collection, 1890-1944, Merrick Archives and Special Collections, Pelletier Library, Allegheny College
         `,
         photos: ["", "images_bios/cpea.png"],
@@ -409,7 +409,7 @@ c_bios = [
             Christian Association, 1896)<br>
             Jennie Cunningham Croly, &#8220;The Cantabrigia Club&#8221; in <em>The History
                 of the Woman's Club Movement in America</em>, New York, 1898
-                <br>Photo from <i>The Cambridge Tribune</i>, Volume XV, Number 34, 29 October 1892
+                <br>Photo from <i>The Cambridge Tribune</i>,  29 October 1892
 
         `,
         photos: ["images_bios/cantabrigia.png"],

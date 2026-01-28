@@ -193,7 +193,7 @@ t_bios = [
                 Observers ( JAAVSO)</em> 28: 40-46, 2000; <br>
             Hoffleit, Dorritt &#8220;Eloge: Helen Meriwether Lewis Thomas, 21 August 1905-6
             August 1997 [Obituary]&#8221; <em>Isis</em> 89: 316, 1998.<Br>
-            <i>The Cambridge Chronicle</i>, Volume 147, Number 23, 10 June 1993
+            <i>The Cambridge Chronicle</i>, 10 June 1993
             <Br>Cambridge City Directory, 1963<br>
             Photo source: <i>University of Chicago Press Journals</i><Br>
             <a class='indent' href="https://www.journals.uchicago.edu/doi/abs/10.1086/384004?journalCode=isis">

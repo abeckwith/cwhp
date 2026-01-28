@@ -721,7 +721,7 @@ l_bios = [
                 A Finding Aid</em>. Cambridge, Massachusetts, 2005.<br>
             Schlesginer Library.<em> Florence Luscomb Papers, 1856-1987: A Finding Aid</em>.
             Cambridge, Massachusetts, 1989.<Br>
-            <i>The Cambridge Tribune</i>, Volume XXXVII, Number 4, 28 March 1914
+            <i>The Cambridge Tribune</i>, 28 March 1914
 <br><i>The Boston Globe</i>, May 03, 1914<Br>
             Cambridge City Directory, 1946
         `,
@@ -797,7 +797,7 @@ l_bios = [
         https://www.legacy.com/us/obituaries/legacyremembers/mary-leno-obituary?id=59453208</a><br><br>
 
         <i>Boston Globe</i>, September 10, 2000, April 26, 2018, November 16, 2008
-        <i>The Cambridge Chronicle</i>, Volume 151, Number 19, 8 May 1997
+        <i>The Cambridge Chronicle</i>, 8 May 1997
         `,
         photos: ["images_bios/leno_mary.jpeg"],
         photoTitles: [],

@@ -99,7 +99,7 @@ m_bios = [
             <br>
             <a href="https://www.ahernfoundation.org/">https://www.ahernfoundation.org/</a><Br>
             Cambridge City Directory, 1961<Br>
-            <i>The Cambridge Chronicle</i>, Volume 166, Number 4, 18 November 2010
+            <i>The Cambridge Chronicle</i>,  18 November 2010
 
         `,
         photos: ["images_bios/MajorsMJ_small.jpg"],
@@ -702,7 +702,7 @@ m_bios = [
             Obituary (as Dorothea Moore Burkhard) <em>AAP</em> (American Academy of Pediatrics) <em>News</em> Vol.
             12 No.
             2 February 1996, p. 25.
-            <Br><i>The Cambridge Tribune</i>, Volume XXXVIII, Number 35, 30 October 1915
+            <Br><i>The Cambridge Tribune</i>, 30 October 1915
             <br>Photo from <a href="https://www.findagrave.com/memorial/148150327/dorothea_may_burkhard#view-photo=289204850">
             https://www.findagrave.com/memorial/148150327/dorothea_may_burkhard#view-photo=289204850</a><br>
             1965 Cambridge City Directory

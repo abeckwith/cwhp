@@ -155,7 +155,7 @@ h_bios = [
                 href="http://klabs.org/home_page/hamilton.htm">http://klabs.org/home_page/hamilton.htm</a><br>
                 Image source: wikipedia<Br>
                 &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://en.wikipedia.org/wiki/Margaret_Hamilton_%28software_engineer%29" >https://en.wikipedia.org/wiki/Margaret_Hamilton_%28software_engineer%29</a>
-                <Br>Second image and quotest from: <i>The Cambridge Chronicle</i>, Volume 170, Number 55, 24 November 2016
+                <Br>Second image and quotest from: <i>The Cambridge Chronicle</i>,  24 November 2016
 
         `,
         photos: ["images_bios/Margaret_Hamilton_1995.jpg", "images_bios/hamilton_margaret2.png"],
@@ -198,7 +198,7 @@ h_bios = [
             of whom died tragically; 10 grandchildren, and 2 great-grandchildren.<br>
             `,
         otherNotes: "",
-        references: ` Oral interview by Sarah Boyer<Br><i>The Cambridge Chronicle</i>, Volume 153, Number 1, 7 January 1999
+        references: ` Oral interview by Sarah Boyer<Br><i>The Cambridge Chronicle</i>, 7 January 1999
 
         `,
         photos: ["images_bios/harvey.png"],

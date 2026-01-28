@@ -242,7 +242,7 @@ b_bios = [
         &nbsp; &nbsp;&nbsp;&nbsp;<a href="https://baldwin.cpsd.us/">https://baldwin.cpsd.us/</a>
             <Br>Photo source: wikipedia<Br>
             <i>Cambridge City Directory</i>, 1899<Br>
-            <i>The Cambridge Chronicle</i>, Volume XLVIII, Number 41, 14 October 1893
+            <i>The Cambridge Chronicle</i>, 14 October 1893
             <br><i>The Crisis, August 1915
             <Br>&nbsp; &nbsp;&nbsp;&nbsp;<A href="https://www.marxists.org/history/usa/workers/civil-rights/crisis/0800-crisis-v10n04-w058.pdf">https://www.marxists.org/history/usa/workers/civil-rights/crisis/0800-crisis-v10n04-w058.pdf</a>
 
@@ -350,7 +350,7 @@ b_bios = [
             `,
         otherNotes: "",
         references: ` <em>The Boston Globe</em> June 25, 1999<br>
-        <em>The Cambridge Chronicle</em>, Volume 153, Number 24, 17 June 1999
+        <em>The Cambridge Chronicle</em>,  17 June 1999
         <br><i>Cambridge City Directory</i>, 1965<Br>
         <i>The Boston Globe</i> Sep 12, 1945
 
@@ -1330,7 +1330,7 @@ b_bios = [
         otherNotes: "",
         references: ` <em>Boston Globe </em>September 3, 2007, obituary<br>
             <i>Cambridge Chronicle</i> obituary, August 23, 2007<Br>
-            <i>The Cambridge Chronicle</i>, Volume 149, Number 16, 20 April 1995<br>
+            <i>The Cambridge Chronicle</i>, 20 April 1995<br>
                <i>The Boston Globe</i>, Oct 08, 1989, Page 443
 
         `,
@@ -1384,7 +1384,7 @@ b_bios = [
             `,
         otherNotes: "",
         references: ` <em>Cambridge Chronicle</em> 6-13-01<br>
-        <i>The Cambridge Chronicle</i>, Volume 137, Number 22, 2 June 1983<br>
+        <i>The Cambridge Chronicle</i>, 2 June 1983<br>
         <i>Cambridge City Director</i>y, 1968
 
         `,
@@ -2436,7 +2436,7 @@ Thu, Sep 30, 1999, page 77
         otherNotes: "",
         references: `<em>Cambridge Chronicle</em> 2 February, 2000
         <br>Cambridge City Directory, 1972<br>
-        <i>The Cambridge Tribune</i>, Volume XLI, Number 39, 23 November 1918<br>
+        <i>The Cambridge Tribune</i>, 23 November 1918<br>
         <i>U.S. Census</i> 1910, 1920, 1930<Br>
         Birthdate from ancestry.com<Br> &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://www.ancestry.com/family-tree/person/tree/119672567/person/230193076280/facts">https://www.ancestry.com/family-tree/person/tree/119672567/person/230193076280/facts</a>
 

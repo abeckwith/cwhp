@@ -360,7 +360,7 @@ g_bios = [
             Women's Archive website<br>
             Miriam Goodman online web site<Br>
             Press release, Griffin Museum of Photography, April 2, 2009<Br>
-            <i>The Cambridge Chronicle</i>, Volume 135, Number 15, 9 April 1981
+            <i>The Cambridge Chronicle</i>,  9 April 1981
             <br><i>Poetry Foundation</i Aug. 1993<Br>
             &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://www.poetryfoundation.org/poetrymagazine/browse?volume=162&issue=5&page=27">
             https://www.poetryfoundation.org/poetrymagazine/browse?volume=162&issue=5&page=27</a>
@@ -541,7 +541,7 @@ g_bios = [
             Graham and Parks Alternative School web site<br>
             <em>Metropolis Magazine</em>, Harvard inc., 2001<br>
             Cambridge City Directory, 1972<br>
-            <i>The Cambridge Chronicle</i>, Volume 134, Number 16, 17 April 1980<Br>
+            <i>The Cambridge Chronicle</i>,  17 April 1980<Br>
             Photo from legacy.com<br>
             &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://www.legacy.com/us/obituaries/bostonglobe/name/saundra-graham-obituary?id=52398590">https://www.legacy.com/us/obituaries/bostonglobe/name/saundra-graham-obituary?id=52398590/a>
 
@@ -627,7 +627,7 @@ g_bios = [
                 post, 4/21/2017,</span> <span>
                 <a href="https://www.facebook.com/pg/YWCACambMA/photos/?tab=album&amp;album_id=10155047494801125" >https://www.facebook.com/pg/YWCACambMA/photos/?tab=album&amp;album_id=10155047494801125</a></span><br>
             <br>
-          <i>The Cambridge Chronicle</i>, Volume 157, Number 36, 25 June 2003
+          <i>The Cambridge Chronicle</i>,  25 June 2003
 
         `,
         photos: ["images_bios/MicheleScottRenaeGray.jpg"],
