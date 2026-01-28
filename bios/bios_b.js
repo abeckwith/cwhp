@@ -1835,7 +1835,7 @@ b_bios = [
               Beazley, 2005.<br>Bill Brett, Kerry Brett, Carol Beggy.&nbsp;<em>Boston, Inspirational Women&nbsp;
               </em>Boston, MA: Three Bean Press, 2011.<br>The Brass Sisters&apos; s website: 
               <a href="http://www.thebrasssisters.com/" >www.thebrasssisters.com</a><Br>
-        The Boston Globe, Sept. 12, 2022</p>
+        <i>The Boston Globe</i>, Sept. 12, 2022</p>
      
 
         `,

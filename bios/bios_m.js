@@ -430,7 +430,7 @@ m_bios = [
         references: `
             Desrosiers, Marian. Nomination to the Cambridge Women's Heritage Proect.<br>
             Farragher, Thomas. &#8220;Genevieve M. Mathison, 93; pioneering scientist helped
-            improve radar,&#8221; <em>The Boston Globe</em>, May25, 2004.`,
+            improve radar,&#8221; <em>The Boston Globe</em>, May 25, 2004.`,
         photos: ["images_bios/Genevieve%20McGlinchey%20Mathison%20small.jpeg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
@@ -637,7 +637,8 @@ m_bios = [
                 Harvard Art Museum Archives<br>
                 <em>Harvard University Gazette</em>, September19,
                 1996.
-                <br>Photo source: <a href="https://en.wikipedia.org/wiki/Agnes_Mongan" >https://en.wikipedia.org/wiki/Agnes_Mongan</a>
+                <br>Photo source: wikipedia<br> 
+                <a class='indent' href="https://en.wikipedia.org/wiki/Agnes_Mongan" >https://en.wikipedia.org/wiki/Agnes_Mongan</a>
         <br><i>The Cambridge Chronicle</i>, 7 April 1960
                 `,
         photos: ["images_bios/AgnesMongan.png"],
@@ -1172,10 +1173,13 @@ by Cate McQuaid,, April 12, 2017
         `,
         otherNotes: "",
         references: ` 
-          Interview with Robin McCree found at the Cambridge Black History Project: <a href="https://vimeo.com/725359798">https://vimeo.com/725359798</a><Br>
-            <a href="https://www.linkedin.com/in/robin-mccree-51768623/">https://www.linkedin.com/in/robin-mccree-51768623/</a><Br>
+          Interview with Robin McCree found at the Cambridge Black History Project<Br> 
+          <a class='indent' href="https://vimeo.com/725359798">https://vimeo.com/725359798</a><Br>
+            LinkedIn profile<Br>
+            <a class='indent' href="https://www.linkedin.com/in/robin-mccree-51768623/">https://www.linkedin.com/in/robin-mccree-51768623/</a><Br>
             Photos from BB&N yearbook 1975, Tufts yearbook 1979<Br>
-            <a href="http://rwinters.com/council/120423.htm">Cambridge City Council Meeting December 4, 2023 </a><br>
+            <I>Cambridge City Council Meeting minutes</i> December 4, 2023<Br>
+             <a class='indent' href="http://rwinters.com/council/120423.htm">http://rwinters.com/council/120423.htm</a><br>
             Interview with Robin McCree, conducted by Anthony Beckwith, Jan. 9 and Jan. 13, 2026
         
              `,

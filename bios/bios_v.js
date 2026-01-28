@@ -35,7 +35,8 @@ v_bios = [
             a resolution was passed in her honor by the Cambridge City Council.
             `,
         otherNotes: "",
-        references: `Nomination materials from Sylvia S. Keber.<Br>Cambridge Chronicle, January 31 1985
+        references: `Nomination materials from Sylvia S. Keber.<Br>
+        <i>Cambridge Chronicle</i>, January 31 1985
         `,
         photos: ["images_bios/JuliaV.jpg"],
         photoTitles: ["Photo Courtesy of Sylvia Saavedra-Keber"],

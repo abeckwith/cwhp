@@ -64,7 +64,7 @@ i_bios = [
             Records of the First Class of the First State Normal School of Lexington Boston,
             1903 pp; 204-208; Files of the Historical Commission, Cambridge MA<Br>150th commemoration
             of Framingham State College website<Br>
-            Cambridge City Directories 1848, 1904<br>
+            <i>Cambridge City Directory</i> 1848, 1904<br>
             <i>Boston Evening Transcript</i>
                 Wed, Jun 15, 1892, Page 1
         `,

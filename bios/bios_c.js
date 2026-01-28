@@ -1191,7 +1191,7 @@ c_bios = [
                 href="http://repository01.lib.tufts.edu:8080/fedora/get/tufts:MS083.001.001.00013/bdef:TuftsPDF/getPDF">http://repository01.lib.tufts.edu:8080/fedora/get/tufts:MS083.001.001.00013/bdef:TuftsPDF/getPDF</a>.
             Centro Presente's 25th Anniversary and Holiday Fiesta
             <br>&nbsp;&nbsp;&nbsp;&nbsp; <a
-                href="http://www.massjwj.net/node/653">http://www.massjwj.net/node/653</a
+                href="http://www.massjwj.net/node/653">http://www.massjwj.net/node/653</a>
             <br>
             <i>Cambridge Chronicle</i> December 21, 2006
         `,

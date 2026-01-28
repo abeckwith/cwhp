@@ -90,7 +90,7 @@ r_bios = [
             <Br><i>Cambridge City Directory</i>, 1965
         <Br><i>Christian Science Monitor</i> interview, May 23, 1996<Br>
         <a class='indent' href="https://www.csmonitor.com/1996/0523/052396.feat.books.3.html">https://www.csmonitor.com/1996/0523/052396.feat.books.3.html</a>
-                Image source: wikipedia<br>
+                <Br>Image source: wikipedia<br>
                 <a class='indent' href="https://en.wikipedia.org/wiki/Margret_Rey" >https://en.wikipedia.org/wiki/Margret_Rey</a>
                 `,
         photos: ["images_bios/reys.jpg"],

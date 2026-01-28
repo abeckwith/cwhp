@@ -21,10 +21,10 @@ w_bios = [
             in recognition of her life and achievements on April 2, 2001.<br>
             `,
         otherNotes: "",
-        references: ` City Council resolution, April 2, 2001<Br>
-        Cambridge Chronicle November 1 1924<Br>
-        Boston Globe May 30, 1946<Br>
-        Cambridge City Directory, 1965<Br>
+        references: ` <i>City Council resolution</i>, April 2, 2001<Br>
+        <i>Cambridge Chronicle</i> November 1 1924<Br>
+        <I>Boston Globe</i> May 30, 1946<Br>
+        <I>Cambridge City Directory</i>, 1965<Br>
         Image source: Regis College 1945 yearbook
         `,
         photos: ["images_bios/mary_wadden.png"],
@@ -388,9 +388,10 @@ w_bios = [
             Anne Whitney Papers, Wellesley College Archives<br>
             Martin, Elizabeth and Vivan Meyer. <em>Female Gazes: Seventy-Five Women Artists</em>.
             Toronto: Second Story Press, 1997.<Br>
-            Whitney <a href="https://en.wikipedia.org/wiki/Anne_Whitney" >image</a> 
-             and statue <a href="https://commons.wikimedia.org/wiki/File:Charles_Sumner_statue_%28Cambridge,_MA%29_-_Anne_Whitney_sculptor.JPG" >
-        image</a> from wikimedia commons 
+            Whitney image from wikipedia<Br>
+            <a class=indent' href="https://en.wikipedia.org/wiki/Anne_Whitney" >https://en.wikipedia.org/wiki/Anne_Whitney</a> <Br>
+             Statue image from wikipedia<Br>
+             <a class='indent' href="https://commons.wikimedia.org/wiki/File:Charles_Sumner_statue_%28Cambridge,_MA%29_-_Anne_Whitney_sculptor.JPG" >https://commons.wikimedia.org/wiki/File:Charles_Sumner_statue_%28Cambridge,_MA%29_-_Anne_Whitney_sculptor.JPG</a> from wikimedia commons 
         `,
         photos: [
             "images_bios/Anne_Whitney.jpg",
@@ -556,7 +557,7 @@ w_bios = [
             `,
         otherNotes: "",
         references: ` <em>An Historic Guide to Cambridge</em>, Appendix &#8220;Edward
-            Winship&#8221;
+            Winship&#8221;<Br>
                Photo from findagrave.com<Br>
                <a class='indent' href="https://www.findagrave.com/memorial/20848657/joanna-winship#view-photo=7093541">
             https://www.findagrave.com/memorial/20848657/joanna-winship#view-photo=7093541</a>
@@ -694,7 +695,7 @@ w_bios = [
             to Schlesinger Library.`,
         otherNotes: "",
         references: ` Ozeline (Pearson) Wise papers and biographical information, Schlesinger
-            Library. Ozeline (Pearson) Wise interview, <em>Black Women Oral History Project</em> of
+            Library. <Br>Ozeline (Pearson) Wise interview, <em>Black Women Oral History Project</em> of
             Schlesinger Library.<br>
             <i>Cambridge City Directory</i>, 1965<br>
             <i>The Cambridge Chronicle</i>, 24 February 1983
@@ -820,7 +821,7 @@ w_bios = [
             Commonwealth Coalition, and the 1993 Woman of Courage Award from the Massachusetts
             chapter of the National Organization of Women.<br><Br>Alice Wolf lived at 48 Huron Avenue for more than 40 years. `,
         otherNotes: "",
-        references: ` Harvard Gazette June 2, 2005<Br>
+        references: ` <I>Harvard Gazette</i> June 2, 2005<Br>
                 Wikipedia entry<Br>
                 <a class='indent' href="https://en.wikipedia.org/wiki/Alice_Wolf" >https://en.wikipedia.org/wiki/Alice_Wolf</a><Br><Br>
             <i>The Cambridge Chronicle</i>,  9 May 1991

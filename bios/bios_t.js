@@ -129,7 +129,7 @@ t_bios = [
             pp 242-244.<br>
             <i>Cambridge City Directory</i>, 1946
             <br>Image used wth permission from Shady Hill School
-            <br><a class='indent' href="https://www.shs.org/" >https://www.shs.org/</a>)
+            <br><a class='indent' href="https://www.shs.org/" >https://www.shs.org/</a>
             
         `,
         photos: ["images_bios/katharine_taylor.jpeg"],

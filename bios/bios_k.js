@@ -45,8 +45,8 @@ k_bios = [
             Cambridge Vital Records; City of Cambridge Annual
             Reports; Federal Census; Kendall, Phebe Mitchell. <em>Maria Mitchell: Life,
                 Letters and Journals</em>, book online <Br>
-            Harvard University Library Open Collections Program: <em>Women Working, 1870-1930</em>,
-            online at <a
+            Harvard University Library Open Collections Program: <em>Women Working, 1870-1930</em>
+            <Br> <a class='indent' 
                 href="http://ocp.hul.harvard.edu/ww/people_mitchell.html">http://ocp.hul.harvard.edu/ww/people_mitchell.html</a>
            <Br>
             Gray, Christoper. &quot;Streetscapes/McKin, Mead &amp; White: A Skeptic's View

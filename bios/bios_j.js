@@ -56,9 +56,10 @@ j_bios = [
                 Slave Girl</em> (Simon &amp; Schuster
             2003)<br>
             Harriet Jacobs website by Julie Adams<br>
-            View a <a href="https://youtu.be/wnyYNMZpmoU" >video history of Harriet Jacobs' life</a> produced by Mount
-            Auburn Cemetery.<br>
-            Image source: <a href="https://en.wikipedia.org/wiki/Harriet_Jacobs" >https://en.wikipedia.org/wiki/Harriet_Jacobs</a>
+           Video history of Harriet Jacobs' life produced by Mount Auburn Cemetery<br>
+            <a class='indent' href="https://youtu.be/wnyYNMZpmoU" >https://youtu.be/wnyYNMZpmoU</a><Br>
+            Image source: wikipedia<br>
+            <a class='indent' href="https://en.wikipedia.org/wiki/Harriet_Jacobs" >https://en.wikipedia.org/wiki/Harriet_Jacobs</a>
         <br>Cambridge City Directory, 1872
             `,
         photos: ["images_bios/harriet_jacobs.jpg"],
@@ -139,10 +140,14 @@ j_bios = [
             published. <br><br>She died at home on 14 May 1902 age 89 years and was buried at Mount
             Auburn Cemetery. `,
         otherNotes: "",
-        references: `<em>Virtual American Biographies</em> <a
-                href="http://www.famousamericans.net/sarahspraguejacobs">http://www.famousamericans.net/sarahspraguejacobs</a>;
-            <em>Appleton's Encylcopedia of American Biography</em> (1888); Cambridge
-            Vital Records; City of Cambridge Annual Reports; Federal Census; prefaces to
+        references: `<em>Virtual American Biographies</em> <Br>
+        <a class='indent'
+                href="http://www.famousamericans.net/sarahspraguejacobs">http://www.famousamericans.net/sarahspraguejacobs</a><Br>
+            <em>Appleton's Encylcopedia of American Biography</em> (1888)
+            <Br><i>Cambridge
+            Vital Records</i> <br>
+            City of Cambridge <i>Annual Reports</i><br> 
+            Federal Census<Br>Prefaces to
             the <em>Proprietors Records </em>and <em>Records of the Town of Cambridge</em>.
         `,
         photos: [""],

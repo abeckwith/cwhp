@@ -614,7 +614,7 @@ h_bios = [
             Institute Library; Cambridge Chronicle, July 2, 1998.<Br>
             Image source: wikipedia<br>
             <a class='indent' href="https://en.wikipedia.org/wiki/Cornelia_Horsford" >https://en.wikipedia.org/wiki/Cornelia_Horsford</a>
-       <Br>Cambridge City Directory, 1861
+       <Br><i>Cambridge City Directory</i>, 1861
             `,
         photos: ["images_bios/Cornelia_Horsford.jpg"],
         photoTitles: [],
@@ -1150,7 +1150,7 @@ h_bios = [
 `,
         otherNotes: "",
         references: ` 
-          Cambridge City Directory, 1894
+          <i>Cambridge City Directory</i>, 1894
         
              `,
         photos: [""],

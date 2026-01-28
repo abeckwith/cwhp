@@ -51,7 +51,7 @@ l_bios = [
         references: `
             Wilma Slaight, &#8220;Florence Ladd&#8221; <em>Wellesley 125th anniversary</em>,
             August 28, 2000<br>
-            <a href="http://www.wellesley.edu/Anniversary/ladd.html" >http://www.wellesley.edu/Anniversary/ladd.html</a><br>
+            <a class='indent' href="http://www.wellesley.edu/Anniversary/ladd.html" >http://www.wellesley.edu/Anniversary/ladd.html</a><br>
             Florence Cawthorne Ladd, personal communication.<br>
             <i>Cambridge Chronicle</i> 11 September 1975
         `,
@@ -98,7 +98,8 @@ l_bios = [
             Doug Holder &#8220;Farewell, to the editor of <em>Spare Change </em>Newspaper
             in Cambridge, MA.&#8221; <em>Cambridge Chronicle</em> January 29, 2002<br>
           
-       <br> Image source: <a href="https://dougholder.blogspot.com/2012/01/linda-larson-poet-who-writes-what-she.html" >https://dougholder.blogspot.com/2012/01/linda-larson-poet-who-writes-what-she.html</a>`,
+       <br> Image source: Doug Holder blogspot<Br>
+       <a class='indent' href="https://dougholder.blogspot.com/2012/01/linda-larson-poet-who-writes-what-she.html" >https://dougholder.blogspot.com/2012/01/linda-larson-poet-who-writes-what-she.html</a>`,
         photos: ["images_bios/LindaLarson.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
@@ -190,7 +191,7 @@ l_bios = [
                 Notable American Women</em>, Vol 2<br>
             Ogilvie and Harvey, <em>Biographical Dictionary of Women in Science</em> (2000)<br>
             <em>Boston Globe,</em> February 1, '05.<Br>
-            Photo source: <a href="https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt" >https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt</a>
+            Photo source: wikipedia<Br> <a class='indent' href="https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt" >https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt</a>
         `,
         photos: ["images_bios/Henrietta_Swan_Leavitt.jpg"],
         photoTitles: [],
@@ -404,9 +405,9 @@ l_bios = [
         references: `
          
             Nomination received from Mayor Kenneth Reeves' office<br>
-            Cambridge Vital Records<br>
+            <i>Cambridge Vital Records</i><br>
             Information also provided by Florence Lewis, daughter of Emily Lewis.<br>
-            Cambridge City Directory, 1920
+            <i>Cambridge City Directory</i>, 1920
         `,
         photos: [""],
         photoTitles: [],
@@ -488,7 +489,8 @@ l_bios = [
             <br>
             Alice m. Longfellow Papers, Longfellow National Historic Site. <br>
             <em>Biography of Alice M Longfellow</em>, Longfellow National Historic Site.<Br>
-            Image source: <a href="https://en.wikipedia.org/wiki/Alice_Mary_Longfellow" >https://en.wikipedia.org/wiki/Alice_Mary_Longfellow</a>
+            Image source: wikipedia<Br>
+            <a class='indent' href="https://en.wikipedia.org/wiki/Alice_Mary_Longfellow" >https://en.wikipedia.org/wiki/Alice_Mary_Longfellow</a>
         `,
         photos: ["images_bios/Alice_Longfellow.jpg"],
         photoTitles: [],

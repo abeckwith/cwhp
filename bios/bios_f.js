@@ -42,10 +42,9 @@ f_bios = [
         otherNotes: "",
         references: ` Personal information; biographical information 
     in Susan Fleischmann, &#8220;TV Station: How To Create An Award-Winning Public 
-    Access Station&#8221;. <em>Be the Media</em>, Online book, 
-    <a href="http://www.bethemedia.com/tableofcontents.htm" >http://www.bethemedia.com/tableofcontents.htm</a>.<br>
-    <br>
-    <br>
+    Access Station&#8221;<Br> <em>Be the Media</em>, online book 
+    <Br><a class='indent' href="http://www.bethemedia.com/tableofcontents.htm" >http://www.bethemedia.com/tableofcontents.htm</a><br>
+
     Photo by Sean Effel. <br>
   Used with permission of Susan Fleischmann`,
         photos: ["images_bios/Fleischmann_small.jpg"],
@@ -382,8 +381,7 @@ In
         <i>The Boston Globe</i> Sep 4 1906, Oct 16, 1908, Sep 24, 1909, Mar 22, 1916<Br>
         <i>Massachusetts, U.S., Marriage Records</i>, 1840-1915<Br>
         Schlesinger Library, Radcliffe Oral History Project<br> 
-        &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://iiif.lib.harvard.edu/manifests/view/drs:45177050$15i">
-        https://iiif.lib.harvard.edu/manifests/view/drs:45177050$15i</a><Br>
+        &nbsp;&nbsp;&nbsp;&nbsp;<a  class='indent' href="https://iiif.lib.harvard.edu/manifests/view/drs:45177050$15i">https://iiif.lib.harvard.edu/manifests/view/drs:45177050$15i</a><Br>
         <i>Cambridge High and Latin School yearbook</i> 1932
 `,
         photos: [ "images_bios/franks_sep_4_1906.png", "images_bios/franks.png"],
