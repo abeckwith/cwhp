@@ -796,7 +796,7 @@ c_bios = [
 
         photoHeights: [],
         editors: "Anthony Beckwith",
-        authors: "CWHP volunteers",
+        authors: "Kimm Topping",
         categories: [
             "Childcare Provider",
             "Business or Service Provider (Women-Owned, Feminist)",
@@ -859,7 +859,7 @@ c_bios = [
 
         photoHeights: [],
         editors: "Anthony Beckwith",
-        authors: "CWHP volunteers",
+        authors: "Kimm Topping",
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
     },
     {
@@ -910,7 +910,7 @@ c_bios = [
 
         photoHeights: [],
         editors: "",
-        authors: "CWHP volunteers",
+        authors: "Kimm Topping",
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
     },
     {

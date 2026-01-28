@@ -111,7 +111,7 @@ f_bios = [
         photoPos: ["4"],
         photoHeights: ["250", "550"],
         editors: "",
-        authors: "CWHP volunteers",
+        authors: "Kimm Topping",
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
     },
     {

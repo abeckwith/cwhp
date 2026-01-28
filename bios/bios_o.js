@@ -66,7 +66,7 @@ class='indent' href="https://repository.library.northeastern.edu/collections/neu
 
         photoHeights: ["250"],
         editors: "Anthony Beckwith",
-        authors: "CWHP volunteers",
+        authors: "Kimm Topping",
         categories: ["Historian/History Project"],
     },
 

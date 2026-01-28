@@ -2046,7 +2046,7 @@ b_bios = [
 
         photoHeights: [],
         editors: "",
-        authors: "CWHP volunteers",
+        authors: "Kimm Topping",
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
     },
     {

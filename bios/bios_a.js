@@ -1249,10 +1249,6 @@ July 9, 1999</i>
         “She believed in the power of democratic institutions to make people's lives better. The idea of 
         free and open access, available to everyone, really appealed to someone egalitarian like Janet.”</blockquote>
        
-
-
-
-
     
         `,
         otherNotes: "",
@@ -1268,7 +1264,7 @@ July 9, 1999</i>
         <i>The Boston Globe</i> Sun, Mar 16, 1975, "Radical Foundations? This Pillsbury Says it Best", by Arnie Reisman<br>
 
 
-      Images from Tim Plenk
+      Images from Eli Plenk
         `,
         photos: ["images_bios/janet_2001.jpg", "images_bios/janet_flower.jpg" ],
         photoTitles: [],
@@ -1277,7 +1273,7 @@ July 9, 1999</i>
 
         photoHeights: [],
         editors:"",
-        authors: "Anthony Beckwith",
+        authors: "Anthony Beckwith, Eli Plenk",
         categories: ["Activist", "Philanthropist", "Executive", "Volunteer"],
     },
 ];

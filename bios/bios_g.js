@@ -182,7 +182,7 @@ g_bios = [
 
         photoHeights: [],
         editors: "",
-        authors: "CWHP volunteers",
+        authors: "Kimm Topping",
         categories: ["Educational Institution/School", "School/Institution"],
     },
     {
@@ -772,7 +772,7 @@ g_bios = [
 
         photoHeights: [],
         editors: "",
-        authors: "CWHP volunteers",
+        authors: "Kimm Topping",
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
     },
     {

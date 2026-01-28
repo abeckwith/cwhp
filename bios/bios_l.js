@@ -242,7 +242,7 @@ l_bios = [
 
         photoHeights: [],
         editors: "",
-        authors: "CWHP volunteers",
+        authors: "Kimm Topping",
         categories: ["Feminist Organization"],
     },
     {

@@ -403,7 +403,7 @@ p_bios = [
 
         photoHeights: [""],
         editors:"",
-        authors: "Anthony Beckwith",
+        authors: "Anthony Beckwith, Matthew Peters",
         categories: ["Social worker", "Volunteer", "Teacher/Educator"],
     },
 ];
