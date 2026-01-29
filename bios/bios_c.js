@@ -779,7 +779,7 @@ c_bios = [
                 and became independent with a Rockefeller Foundation grant.<br>
             `,
         otherNotes: "",
-        references: `Written by Kimm Topping, printed in Mapping Feminist Cambridge guidebook, 2019<br>
+        references: `Written by Kimm Topping, printed in Mapping Feminist Cambridge guidebook, 2019:<br>
             <a href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf" >
                 https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf
             </a><br>
@@ -840,13 +840,14 @@ c_bios = [
         references: `Written by Kimm Topping, printed in <em>Mapping Feminist Cambridge</em>
             guidebook, 2019: <a
                 href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">
-                https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a><Br>
-                <a href="https://historycambridge.org/articles/businesses-well-lived-city-girl-cafe/">
-                History Cambridge article on City Girl Cafe</a><Br>
-                THE HISTORY PROJECT: Documenting Documenting LGBTQ Boston Facebook post:
+                https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a>
+                <Br>
+                History Cambridge article on City Girl Cafe:
+                <Br><a class='indent' href="https://historycambridge.org/articles/businesses-well-lived-city-girl-cafe/">https://historycambridge.org/articles/businesses-well-lived-city-girl-cafe/</a><Br>
+                THE HISTORY PROJECT - Documenting Documenting LGBTQ Boston Facebook post:
                 <br><a class='indent' href="https://www.facebook.com/watch/?v=10154900501831931">
                 https://www.facebook.com/watch/?v=10154900501831931</a><br>
-                Image from <a href="https://www.instagram.com/p/B_LqhOsgWer/">https://www.instagram.com/p/B_LqhOsgWer/</a>                
+                Image from <a href="https://www.instagram.com/p/B_LqhOsgWer/">https://www.instagram.com/p/B_LqhOsgWer/</a>.                
 
 
         `,
@@ -902,7 +903,7 @@ c_bios = [
         references: `Written by Kimm Topping, printed in <em>Mapping Feminist Cambridge</em>
             guidebook, 2019: <a
                 href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a>
-<br>Photo: Cambridge Chronicle 24 October 1989
+<br>Photo: Cambridge Chronicle 24 October 1989.
         `,
         photos: ["images_bios/clayground.png"],
         photoTitles: [],

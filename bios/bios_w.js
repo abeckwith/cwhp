@@ -999,7 +999,7 @@ w_bios = [
             center.`,
         otherNotes: "",
         references: `
-            The Women&rsquo;s Community Health Center archive is housed at Schlesinger Library, Radcliffe Institute.<br>
+            NOTE: The Women&rsquo;s Community Health Center archive is housed at Schlesinger Library, Radcliffe Institute.<br>
             Written by Kimm Topping, printed in <em>Mapping Feminist Cambridge</em> guidebook, 2019: <a
                 href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a>
         `,

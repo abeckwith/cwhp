@@ -169,12 +169,12 @@ g_bios = [
             published national bi-monthly newsletters.`,
         otherNotes: "",
         references: `Written by Kimm Topping, printed in <em>Mapping Feminist Cambridge</em>
-            guidebook, 2019<Br>
-            &nbsp;&nbsp;&nbsp;&nbsp;<a
+            guidebook, 2019:<Br>
+           <a class='indent'
                 href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a>
             <br>
-            The Goddard-Cambridge Graduate Program in Social Change archive has been deposited at the University of
-            Massachusetts, Boston
+            NOTE: The Goddard-Cambridge Graduate Program in Social Change archive has been deposited at the University of
+            Massachusetts, Boston.
         `,
         photos: [""],
         photoTitles: [],

@@ -343,7 +343,7 @@ m_bios = [
             Written by Kimm Topping, printed in <em>Mapping Feminist Cambridge</em> guidebook, 2019: <a
                 href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">
                 https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a><br>
-                <i>The Cambridge Chronicle</i>, 29 May 1975
+                <i>The Cambridge Chronicle</i>, 29 May 1975.
 
 
         `,

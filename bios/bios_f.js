@@ -96,7 +96,8 @@ f_bios = [
           
   `,
         otherNotes: "",
-        references: `Written by Kimm Topping, printed in <em>Mapping Feminist Cambridge</em> guidebook, 2019: <a href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf" >https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a><br>
+        references: `Written by Kimm Topping, printed in <em>Mapping Feminist Cambridge</em> guidebook, 2019: 
+        <a href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf" >https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a><br>
         <br>Ad listing:<i>The Cambridge Chronicle</i>, 21 March 1974.<Br>
         Photo of building: Cambridge Historical Commission.
 `,

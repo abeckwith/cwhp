@@ -230,8 +230,8 @@ l_bios = [
             weekly sponsored by the Cambridge Somerville Elder Services. 
             `,
         otherNotes: "",
-        references: ` The Lesbian Avengers archive is housed at The History Project.
-            <a href="www.historyproject.org" >www.historyproject.org</a><em>.<br>
+        references: `NOTE: The Lesbian Avengers archive is housed at The History Project:<Br>
+            <a class='indent' href="www.historyproject.org" >www.historyproject.org</a><em>.<br>
             </em>Written by Kimm Topping, printed in <em>Mapping Feminist Cambridge</em> guidebook, 2019: <a
                 href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a>.
                 <br>Image from https://www.wbur.org/news/2019/06/17/lesbian-avengers, with permission from the History Project at <a href="https://historyproject.org/" >https://historyproject.org/</a>.
