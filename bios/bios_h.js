@@ -49,7 +49,7 @@ h_bios = [
             Charles Hopkinson collection, Smithsonian Archives of American Art.<br>
             Papers, 1797-1991 of the Curtis family, Schlesinger Library<em>.<br>
                 Cambridge Chronicle</em> October 21, 1993.<br>
-            Vorrections and additions by her children.<br>
+            Corrections and additions by her children.<br>
             <i>Cambridge City Directory</i>, 1961.
         `,
         photos: ["images_bios/Isabella%20Halsted%20small.jpeg"],
