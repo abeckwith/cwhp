@@ -693,7 +693,7 @@ l_bios = [
             while not personally conspicuous in any way, adds to the splendid effect of numbers and quality, 
             while she gains for herself the satisfying realization of solidarity."
             </blockquote>
-            
+
             The march that May was a resounding success (see image below).<br><br>
 
             In 1918, Luscomb left architecture to become executive
@@ -843,9 +843,9 @@ l_bios = [
         CCTV Instagram post:<br><a  class='indent'  href="https://www.instagram.com/p/DOTEMspDly9/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" >
         Sept. 7, 2025</a>.<br>
         Image from legacy.com:<br><a class='indent'  href="https://www.legacy.com/us/obituaries/legacyremembers/mary-leno-obituary?id=59453208" >
-        https://www.legacy.com/us/obituaries/legacyremembers/mary-leno-obituary?id=59453208</a><br><br>
+        https://www.legacy.com/us/obituaries/legacyremembers/mary-leno-obituary?id=59453208</a><br>
 
-        <i>Boston Globe</i>, September 10, 2000, April 26, 2018, November 16, 2008.
+        <i>Boston Globe</i>, Sept. 10, 2000, April 26, 2018, Nov. 16, 2008.<Br>
         <i>The Cambridge Chronicle</i>, 8 May 1997.
         `,
         photos: ["images_bios/leno_mary.jpeg"],

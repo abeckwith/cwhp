@@ -156,7 +156,7 @@ r_bios = [
                 Birth date from ancestry.com:<br>
                 <a class='indent' href="https://www.ancestry.com/family-tree/person/tree/71942149/person/292480937875/facts?_phsrc=prV2552&_phstart=successSource">
                 https://www.ancestry.com/family-tree/person/tree/71942149/person/292480937875/facts?_phsrc=prV2552&_phstart=successSource</a>
-                Image from wikipedia.com:<br>
+                <br>Image from wikipedia.com:<br>
                  <a class='indent' href="https://en.wikipedia.org/wiki/Anne_Roe">https://en.wikipedia.org/wiki/Anne_Roe</a>
         `,
         photos: ["images_bios/Anne_Roe.jpg"],

@@ -535,11 +535,15 @@ m_bios = [
         otherNotes: "",
         references: `
             Interview with Gail Mazur March 30, 2025, by Anthony Beckwith.<br>
-        <a href="https://en.wikipedia.org/wiki/Gail_Mazur" >Wikipedia entry on Gail Mazur</a>.<br>
-        <a href="https://www.poetryfoundation.org/poets/gail-mazur" >ThePoetryFoundation.org</a>.<br>
-        <a href="https://www.radcliffe.harvard.edu/people/gail-mazur" >Radcliffe profile of Gail Mazur</a>.<br>
-        <em>Boston Phoenix</em> article, July 1995.<br>
-        <a href="https://www.poetryfoundation.org/poets/gail-mazur">https://www.poetryfoundation.org/poets/gail-mazur</a><br>
+        Wikipedia entry on Gail Mazur:<Br>
+        <a class='indent' href="https://en.wikipedia.org/wiki/Gail_Mazur">https://en.wikipedia.org/wiki/Gail_Mazur</a>
+        <br>
+        ThePoetryFoundation.org:<br>
+        <a  class='indent' href="https://www.poetryfoundation.org/poets/gail-mazur" >https://www.poetryfoundation.org/poets/gail-mazur</a><br>
+        Radcliffe profile of Gail Mazur:<Br>
+        <a  class='indent' href="https://www.radcliffe.harvard.edu/people/gail-mazur" >https://www.radcliffe.harvard.edu/people/gail-mazur</a><br>
+        The Poetry Foundation:<Br>
+        <a class='indent' href="https://www.poetryfoundation.org/poets/gail-mazur">https://www.poetryfoundation.org/poets/gail-mazur</a><br>
         Photo by Elsa Dorfman, courtesy of Gail Mazur.
 
         `,

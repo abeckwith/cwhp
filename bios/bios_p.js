@@ -422,7 +422,7 @@ p_bios = [
         https://www.legacy.com/us/obituaries/wickedlocal-cambridgechronicle/name/kaethe-peters-obituary?id=20281318</a> <br>
          <I>City Directory</i> 1965. <br>
         <i>The Cambridge Chronicle</i> 25 July 1985 &  8 December 1999.
-        <br><i>The Boston Globe</i> , November 22, 2012: <br>
+        <br><i>The Boston Globe</i>, November 22, 2012: <br>
         <a class='indent' href="https://www.bostonglobe.com/metro/obituaries/2012/11/22/kaethe-peters-cambridge-longtime-social-worker-educator/y50M8As1eXlni67qqiTd3I/story.html">
         https://www.bostonglobe.com/metro/obituaries/2012/11/22/kaethe-peters-cambridge-longtime-social-worker-educator/y50M8As1eXlni67qqiTd3I/story.html</a>
         `,

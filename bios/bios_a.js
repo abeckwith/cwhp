@@ -138,9 +138,7 @@ a_bios = [
             biographical note<br>
             Review of Abbott's autobiography in <em>Time Magazine</em>, Oct 05, 1936.<br>
             Image from wikipedia.com:<br><a class='indent' href="https://en.wikipedia.org/wiki/Eleanor_Hallowell_Abbott#/media/File:Portrait_of_Eleanor_Hallowell_Abbott.jpg">https://en.wikipedia.org/wiki/Eleanor_Hallowell_Abbott#/media/File:Portrait_of_Eleanor_Hallowell_Abbott.jpg</a><br>
-            <i>Cambridge Tribune</i>, March 11, 1893.<br>
-            <i>Cambridge Tribune</i>, December 25, 1892.<br>
-            <i>Cambridge Tribune</i>, October 21, 1905.<br>
+            <i>Cambridge Tribune</i>, March 11, 1893, December 25, 1892, October 21, 1905.<br>
             <i>The New York Times</i>, January 3, 1937.<br>
             "Being Little in Cambridge When Everyone Else Was Big", by Eleanor Hallowell Abbott, 
             New York ; D. Appleton-Century company, inc., 1936:<br>
@@ -1426,7 +1424,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         <i>The Cambridge Chronicle</i>, 13 May 1999.<br>
         <i>Barnard Magazine</i>, Spring 2002:
         <br><a class='indent' href="https://barnard.edu/magazine/spring-2022/lifelong-activist">https://barnard.edu/magazine/spring-2022/lifelong-activist</a> <br>
-        <i>the Boston Globe</i>, May 24, 2017</i>:<br>
+        <i>The Boston Globe</i>, May 24, 2017</i>:<br>
         <a class='indent' href="https://www.boston.com/culture/music/2017/05/24/long-before-boston-calling-amandla-festival-brought-bob-marley-and-social-justice-to-harvard/">https://www.boston.com/culture/music/2017/05/24/long-before-boston-calling-amandla-festival-brought-bob-marley-and-social-justice-to-harvard/</a><br>
 
 

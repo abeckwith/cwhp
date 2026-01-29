@@ -726,7 +726,7 @@ h_bios = [
             In 1888, Howe entered MIT's School of Architecture
             and took the two-year &#8220;Partial Architecture&#8221; course. During this
             time, she was a founding member of MIT's first woman student's group,
-            Eta Sigma Mu (later known as Cleofan.) <br><br>
+            Eta Sigma Mu (later known as Cleofan). <br><br>
 
             Upon graduating from MIT in 1890, Howe worked
             as a drafter, artist and librarian in the Department of Architecture at MIT

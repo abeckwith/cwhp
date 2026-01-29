@@ -198,7 +198,7 @@ d_bios = [
         Tribute to Women Award in 1993. 
             `,
         otherNotes: "",
-        references: ` <em>Cambridge Chronicle</em>May 4, 1961, 4 February 1965, 10 January 1974, Jan 17, 2001.
+        references: ` <em>Cambridge Chronicle</em> May 4, 1961, 4 February 1965, 10 January 1974, Jan 17, 2001.
         <br>Image from <em>Boston Globe</em>Sept. 13, 1993.
         <br><i>U.S., Social Security Applications and Claims Index</i>, 1936-2007.
         <br>FindAGrave.com:<br>

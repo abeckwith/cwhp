@@ -391,8 +391,6 @@ b_bios = [
             
             Mary West was married to William S. Barnes, a former professor at the Fletcher School of Law and Diplomacy 
             and they had a daughter and a son.<br>
-            
-            She was 79 when she died.
 
             `,
         otherNotes: "",
@@ -546,7 +544,6 @@ b_bios = [
             Ruth Barron Hispanic Scholarship, and participated in the Barron
             Family Fund of Judaica at Widener Library, Harvard University.
             
-            <br><br> She was 85 when she died.
 
             `,
         otherNotes: "",
@@ -2360,41 +2357,46 @@ b_bios = [
         organization: false,
         lastName: "Brunt",
         firstName: "Ruth",
-        middleName: "G.",
+        middleName: "Gillespie",
         familyName: "",
 
         title: `Educator and volunteer`,
-        birthDate: "ca.1899",
+        birthDate: "06.04.1900",
         birthLocation: "",
-        deathDate: "10.00.1999",
+        deathDate: "07.26.1999",
         deathLocation: "",
         narrative: `
 
-            Ruth G. Brunt was a life-long resident of Cambridge.<br><br>
+            Ruth Brunt was a life-long resident of Cambridge, one of five daughters of a carriage painter with Irish
+            roots and a mother who was born in Canada.<br><br>
 
-            She attended the Russell School and Cambridge High and Latin. After graduating
+            She attended the Russell School and Cambridge High and Latin, growing up at 168 Lakeview Avenue. After graduating
             from Lesley College, she taught in Hamilton for a year and then worked at the
             Industrial School for Crippled Children for 45 years. She was a member of the
             Harvard Epworth Church where she was a committed member of the United Methodist
             Women's Society. Throughout her life, she devoted her time volunteering
-            at Morgan Memorial, knitting hundreds of mittens and hats. 
+            at Morgan Memorial, running bake sales and knitting hundreds of mittens and hats, the proceeds of which went
+             to support
+            handicapped people. 
             
-            <br><br>In 1954, she was living at 26 Concord Avenue.
-            <br><br> She was 100 when
-            she died.
+            <br><br>In 1954, she was living at 26 Concord Avenue and had previously lived at 28 Irving Street.
+            She was 99 when
+            she died  and at the time was the oldest living member of the Harvard Epworth Church.
 
             `,
         otherNotes: "",
-        references: ` <em>Cambridge Chronicle</em> 10-20-99
-        <br><I>Cambridge City Directory</i>, 1954
+        references: ` <em>Cambridge Chronicle</em> Oct. 20, 1999, 4 December 1975
+        <br><I>Cambridge City Directory</i>, 1954<br>
+        <i>Cambridge High and Latin yearbook</i>, 1917<br>
+        <i>Massachusetts Birth Records</i>, 1840-1915
         `,
         photos: ["images_bios/brunt ruth 1917 chls.png"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "",
+        dateUpdated: "01.29.2026",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony BEckwith",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Volunteer"],
     },
@@ -2617,8 +2619,6 @@ b_bios = [
             and events. Her family lived for many years at 220 Western Avenue and she later lived at 89 Brookline 
             Street with her husband (Stanley Jones Burrell) and two children.
             
-            <br><br>She was 84 when she died. 
-
             `,
         otherNotes: "",
         references: ` <em>Cambridge Chronicle</em>  16 April 1953, 12 August 1999.
@@ -2663,9 +2663,8 @@ b_bios = [
             to CASCAP on the development of affordable assisted living units at Harvard
             Place in Cambridge. 
             
-            <br><br>She was 69 when she died
-            .<br><br>
-            By 2002, Cambridge had created a Jeanne V. Burton Community Service Award, to be awarded annually.
+            <br><br>
+            She died in 1999 and by 2002, Cambridge had created a Jeanne V. Burton Community Service Award, to be awarded annually.
 
             `,
         otherNotes: "",
@@ -2714,8 +2713,7 @@ b_bios = [
             initially and continually voted in Cambridge following women's suffrage.
             She continued to vote right up to the last election in November before she died.
             
-            
-            <br><br>She was 102 when she died. 
+            <br><br>She was 102 yeras old when she died. 
 
             `,
         otherNotes: "",

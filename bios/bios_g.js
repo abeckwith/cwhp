@@ -764,7 +764,7 @@ g_bios = [
             99. `,
         otherNotes: "",
         references: `
-            Cambridge <em>Tab</em> 2-25-99.<br>
+            Cambridge <em>Tab</em> Feb. 25, 1999.<br>
             <em>4word</em> article, November 2003, &quot;A Conversation with Suzanne Revaleon
             Green&quot;.<br>
             Cambridge Historical Commission files<em>.<br>

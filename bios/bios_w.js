@@ -401,18 +401,19 @@ w_bios = [
             `,
         otherNotes: "",
         references: ` <em>
-                Appleton's Encyclopedia</em>.<br>
+            Appleton's Encyclopedia</em>.
+            <br>
             Reitzes, Lisa B. &#8220;The Political Voice of the Artist: Anne Whitney's &quot;Roma&quot;
             and &quot;Harriet Martineau&quot;. <em>American Art</em>, 8, (2) 44-65; (Spring,
             1994). <em><br>
-                Notable American Women</em> vol. 3 (1950).<br>
+            Notable American Women</em> vol. 3 (1950).<br>
             Anne Whitney Papers, Wellesley College Archives.<br>
             Martin, Elizabeth and Vivan Meyer. <em>Female Gazes: Seventy-Five Women Artists</em>.
             Toronto: Second Story Press, 1997.<br>
             Whitney image from wikipedia:<br>
             <a class=indent' href="https://en.wikipedia.org/wiki/Anne_Whitney" >https://en.wikipedia.org/wiki/Anne_Whitney</a> <br>
-             Statue image from wikipedia.com:<br>
-             <a class='indent' href="https://commons.wikimedia.org/wiki/File:Charles_Sumner_statue_%28Cambridge,_MA%29_-_Anne_Whitney_sculptor.JPG" >https://commons.wikimedia.org/wiki/File:Charles_Sumner_statue_%28Cambridge,_MA%29_-_Anne_Whitney_sculptor.JPG</a> from wikimedia commons 
+             Statue image from wikipedia:<br>
+             <a class='indent' href="https://commons.wikimedia.org/wiki/File:Charles_Sumner_statue_%28Cambridge,_MA%29_-_Anne_Whitney_sculptor.JPG" >https://commons.wikimedia.org/wiki/File:Charles_Sumner_statue_%28Cambridge,_MA%29_-_Anne_Whitney_sculptor.JPG</a>
         `,
         photos: [
             "images_bios/Anne_Whitney.jpg",
@@ -464,9 +465,9 @@ w_bios = [
             house was dedicated to Toni and Irvin Williams.<br>
             `,
         otherNotes: "",
-        references: `Photo courtesy of Toni Williams.<br>
+        references: `Photo courtesy of Toni Williams.
        
-            <br>Oral interview by Sarah Boyer.
+            <br>Oral interview by Sarah Boyer.<Br>
             <i>Cambridge City Directory</i>, 1926.
         `,
         photos: ["images_bios/Toni%20Williams%20small.jpg"],
@@ -846,7 +847,7 @@ w_bios = [
             "With this key and with the goodwill of the people of Cambridge, we hope many doors 
             will continue to be opened to you and to your people."
             </blockquote>
-            
+
             Among her many honors and awards were: the 2002
             Legislative Leadership Award from the Massachusetts Alliance for Arts Education,
             the 2002 Margot P. Koberg Award from the Cambridge Fair Housing Committee, the
