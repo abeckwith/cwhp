@@ -19,7 +19,7 @@ j_bios = [
             of the Norcom family. In order to avoid the sexual attentions of her new owner &#8220;Dr
             Flint&#8221;, she formed a liason with a white man and bore him two children
             but became fearful of their future when her lover &#8220;Mr. Sands&#8221; (a
-            future congressman) failed to free her children.<Br><br>
+            future congressman) failed to free her children.<br><br>
             
             She escaped from her lover's
             house in 1835 and spent the next seven years hiding in an attic above the storeroom
@@ -43,10 +43,12 @@ j_bios = [
             her manuscript, and it was finally published in 1861. After the civil war, she
             lived in Cambridge for five years, renting a house at 10 Trowbridge street that
             she ran as a boarding house for two years for Harvard students from 1870 to 1872.
-            <br><br>She then spent three additional years in a house on the corner of Story and Mount
+            <br><br>
+            
+            She then spent three additional years in a house on the corner of Story and Mount
             Auburn streets before moving to Washington D.C., where she spent the rest of
             her
-            life. She is buried in Mount Auburn Cemetery.<br>
+            life. She is buried in Mount Auburn Cemetery.
             `,
         otherNotes: "",
         references: ` <em>Incidents in the Life of a Slave Girl, Written
@@ -57,7 +59,7 @@ j_bios = [
             2003).<br>
             Harriet Jacobs website by Julie Adams.<br>
            Video history of Harriet Jacobs' life produced by Mount Auburn Cemetery:<br>
-            <a class='indent' href="https://youtu.be/wnyYNMZpmoU" >https://youtu.be/wnyYNMZpmoU</a><Br>
+            <a class='indent' href="https://youtu.be/wnyYNMZpmoU" >https://youtu.be/wnyYNMZpmoU</a><br>
             Image from wikipedia.com:<br>
             <a class='indent' href="https://en.wikipedia.org/wiki/Harriet_Jacobs" >https://en.wikipedia.org/wiki/Harriet_Jacobs</a>
         <br><i>Cambridge City Directory</i>, 1872.
@@ -95,7 +97,7 @@ j_bios = [
             Born in Cranston, Rhode Island, Sarah Sprague
             Jacobs was the eldest child of the Reverend Bela Jacobs and Sarah (&#8220;Sally&#8221;)
             Sprague Jacobs. Rev. Jacobs was the first pastor of the First Baptist Church
-            at 5 Magazine Street; he occupied the pulpit there from 1818 to 1833. <br><Br>
+            at 5 Magazine Street; he occupied the pulpit there from 1818 to 1833. <br><br>
             
             In 1835,
             her father became pastor of the new Second Baptist Church, but died tragically in May
@@ -113,6 +115,7 @@ j_bios = [
             York, Rhode Island, and Nova Scotia. It is not known when she left the city,
             nor the year she returned, but she was again residing in Cambridge by 1870.
             <br><br>
+
             The 1870 federal census records Sarah living with
             her mother, Sarah, and sister Annie in the household of her brother, Justin
             Allen Jacobs. Also residing in the house were Sarah's sister-in-law, also Sarah,
@@ -123,11 +126,13 @@ j_bios = [
             was an attorney and warden at St. Peter's Episcopal Church. A niece, Isabel,
             was an assistant at the Cambridge Public Library; her nephew, Allen, became
             the assistant pastor at Christ Church. <br><br>
+
             In 1879, the Massachusetts Legislature passed
             a law allowing women to vote in school committee elections. That same year,
             Sarah Sprague Jacobs (at about age 66) and Phebe
                 Mitchell Kendall became the first two women elected to the Cambridge School
             Committee. Miss Jacobs served until 1885, when she resigned. <br><br>
+
             Jacobs transcribed Cambridge's earliest public
             records and prepared the copy manuscripts for publication in two volumes. The
             first was <em>The Register Book of the Lands and Houses in the &quot;New Towne&quot;
@@ -137,17 +142,19 @@ j_bios = [
                 Newtowne) Massachusetts 1630-1703</em>(1901). This laborious undertaking no
             doubt consumed many years of her time. She was 83 years old at the time of the
             publication of the first volume and 88 years old when the second volume was
-            published. <br><br>She died at home on 14 May 1902 age 89 years and was buried at Mount
+            published. 
+            
+            <br><br>She died at home on 14 May 1902 age 89 years and was buried at Mount
             Auburn Cemetery. `,
         otherNotes: "",
-        references: `<em>Virtual American Biographies</em> <Br>
+        references: `<em>Virtual American Biographies</em> <br>
         <a class='indent'
-                href="http://www.famousamericans.net/sarahspraguejacobs">http://www.famousamericans.net/sarahspraguejacobs</a><Br>
+                href="http://www.famousamericans.net/sarahspraguejacobs">http://www.famousamericans.net/sarahspraguejacobs</a><br>
             <em>Appleton's Encylcopedia of American Biography</em> (1888)
-            <Br><i>Cambridge
+            <br><i>Cambridge
             Vital Records</i>. <br>
             City of Cambridge <i>Annual Reports</i>.<br> 
-            Federal Census.<Br>Prefaces to
+            Federal Census.<br>Prefaces to
             the <em>Proprietors Records </em>and <em>Records of the Town of Cambridge.</em>.
         `,
         photos: [""],
@@ -184,29 +191,34 @@ j_bios = [
             Pratt Institute Library School in Brooklyn, where she worked as assistant reference
             librarian for a year after her graduation in 1891. She met her future husband,
             Lewis Jerome Johnson, a Harvard graduate, while studying botany at Harvard Summer
-            School, marrying him in 1893. <br><br>In 1894, the couple moved to Cambridge (100 Avon Hill Road) where
+            School, marrying him in 1893. 
+            
+            <br><br>In 1894, the couple moved to Cambridge (100 Avon Hill Road) where
             her husband joined the Harvard Engineering Department. She had two sons. She
             became interested in woman suffrage and served as president of the Cambridge
                 Political Equality Association. In 1912, she was one of three Massachusetts
             women delegates to the Progressive Party national convention. In 1912 to 1914,
-            she was president of the Cambridge Public Schools Association.<Br><Br>
+            she was president of the Cambridge Public Schools Association.<br><br>
             
 
             In a 1915 letter to the Cambridge Tribune, after a defeat of a ballot question on suffrage, Johnson wrote:
 
             <blockquote>"Working together has developed a fine, permanent, and wholesome comradeship between men 
-            and women of all conditions and creeds.<Br>
+            and women of all conditions and creeds.<br><br>
+
             "Though woman suffrage is delayed in Massachusetts, it is surely coming. Justice demands it. The 
             spirit of the century claims the help of women in the government as well as in the home. Those
              women who are awake to the capacity of their patriotic duty do not wish to shirk, but are ready
              to co-operate as soon as the ballot is placed in their hands."
             </blockquote>
+            
             After working
             with the Massachusetts Woman Suffrage Association, Johnson became a member of the national
             council of the National American Woman Suffrage Association and by 1917, she
             was chairwoman of the Massachusetts branch. In 1919-1920, with Mary P. Sleeper,
             she edited <em>A Citizen's Guide</em> for the Boston Equal Suffrage Association
             for Good Government. <br><br>
+
             Grace Johnson became interested in the League
             of Nations and in 1925 she was a member of the board of the Massachusetts League
             of Nations Association and in September of 1926, she went to Geneva to attend
@@ -219,22 +231,24 @@ j_bios = [
             Herbert Ames) <em>The Case of China and Japan before the League of Nations:
                 A Dramatization of the Events of 1931-1933</em> (1933). She worked for proportional
             representation in Cambridge (Plan E) and testified on prohibition before the
-            U.S. Congress. <br><br>In 1940, she represented Massachusetts before the Woman's
+            U.S. Congress. 
+            
+            <br><br>In 1940, she represented Massachusetts before the Woman's
             Centennial Congress and after the Second World War, she supported the United
             Nations.`,
         otherNotes: "",
         references: ` Grace A Johnson papers, Schlesinger Library, Radcliffe
-            Institute. <Br><a  class='indent'  href="http://oasis.lib.harvard.edu/oasis/deliver/~sch01027" >http://oasis.lib.harvard.edu/oasis/deliver/~sch01027</a><Br>
+            Institute. <br><a  class='indent'  href="http://oasis.lib.harvard.edu/oasis/deliver/~sch01027" >http://oasis.lib.harvard.edu/oasis/deliver/~sch01027</a><br>
         
             <i>Cambridge City Directory</i>, 1896.
-            <Br>Image credit: History Cambridge.<br>
+            <br>Image credit: History Cambridge.<br>
             <i>The Cambridge Tribune</i>,  6 November 1915.
 
         `,
         photos: ["images_bios/grace_johnson.png"],
         photoTitles: [],
-        dateCreated: "prior to 2009",dateUpdated:
- "04.08.2025",
+        dateCreated: "prior to 2009",
+        dateUpdated: "04.08.2025",
         
         photoHeights: [],
         editors:"",
@@ -265,6 +279,7 @@ j_bios = [
             taught at the Buckingham girl's school in Cambridge, which was organized
             by her sister, Jeannette (Markham) Scudder. Palache's early life was spent on
             Appleton Street in Cambridge. <br><br>
+
              She attended Bryn Mawr College, graduating in 1928.
             In the summer of 1927, she took a trip through Europe with her fellow classmate
             Katharine Hepburn, whose financial advisor she would later become. On graduation,
@@ -274,13 +289,17 @@ j_bios = [
             in 1929 to fight the federal Comstock laws against birth control. The society
             disbanded in 1936, after Judge August Hand ruled that birth control information
             was not &#8220;obscene&#8221;. <br><br>
+
             Palache then joined the Fiduciary Trust Company
             of New York as a trainee in 1933, where she remained until 1974, rising to the
             position of senior vice president. She was also a director of the Dreyfus Third
             Century Fund, an investment fund. Before her retirement, she oversaw the move
-            of the Fiduciary Trust to the World Trade Center. <br><Br>
+            of the Fiduciary Trust to the World Trade Center. <br><br>
+
             Palache married Russell Kennedy Jones, an advertising
-            executive and co-author of <em>The Cruising Cookbook</em>, on December 21, 1954 (she was living at 100 Appleton Street at the time).
+            executive and co-author of <em>The Cruising Cookbook</em>, on December 21, 1954 (she was living at
+             100 Appleton Street at the time).
+            
             <br><br>She and her husband lived in the town of North Salem, New York, where she served
             as a trustee of the North Salem Free Library and as a member and the chair of
             the North Salem Planning Board. She also served on the Bryn Mawr College board

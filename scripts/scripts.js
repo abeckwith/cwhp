@@ -205,7 +205,7 @@ function showRecents(num) {
         });
     });
     html2 =
-        "<Br><Br><Center><span>These " +
+        "<br><br><Center><span>These " +
         recentUpdatesCount +
         " bios have had <b>edits or updates</b> made to them in the last " +
         RECENT_MONTHS_LIMIT2 +
@@ -316,9 +316,9 @@ function openWin() {
         divText = divText.replaceAll("Printable Version", "");
         divText = divText.replaceAll("🖨 ", "");
 
-        //<Br><a onclick='openWin()'><u><b>Printable Version</b></u>
+        //<br><a onclick='openWin()'><u><b>Printable Version</b></u>
         divText =
-            "Cambridge Women's Heritage Project (https://cwhp.cambridgema.gov/)<Br><Br>" +
+            "Cambridge Women's Heritage Project (https://cwhp.cambridgema.gov/)<br><br>" +
             divText;
         popup = window.open("", "", "width=800,height=700");
         var doc = popup.document;
@@ -358,7 +358,7 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
     if (person.lastName !== " ") html += person.lastName + " ";
     if (person.familyName !== "")
         html +=
-            "</span><Br><span id='born'>(born " +
+            "</span><br><span id='born'>(born " +
             person.firstName +
             " " +
             person.middleName +
@@ -466,11 +466,11 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
 
     //references & date updated:
     if (person.references.trim() !== "")
-        html += "<br><br><strong>References:</strong><Br>" + person.references;
+        html += "<br><br><strong>References:</strong><br>" + person.references;
 
     //link to open printable version:
     html +=
-        "<br><Br><span id='printy'><a onclick='openWin()'><u><b>&#x1F5A8; Printable Version</b></u></a></span>";
+        "<br><br><span id='printy'><a onclick='openWin()'><u><b>&#x1F5A8; Printable Version</b></u></a></span>";
 
     //date created, last updated, author, editor:
     dt =
@@ -491,11 +491,11 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
     html +=
         "</div><br>" +
         dt +
-        "<Br>" +
+        "<br>" +
         atr +
-        "<Br>" +
+        "<br>" +
         lu +
-        "<Br>" +
+        "<br>" +
         edtr +
         "<br><img src='images_util/logo_xsm.jpg' style='width:10vw'><br>" +
         "<br><br><br><br><br><br><br>";
@@ -1178,7 +1178,7 @@ function init(topical, search) {
             "RANDOM ENTRY</button>" +
             "<button onclick='next()' class='random-button-sm'>NEXT</button>";
 
-    if (!topical && !search) html += "<BR></center>" + "</div>";
+    if (!topical && !search) html += "<br></center>" + "</div>";
     else html += "</center></div>";
 
     document.getElementById("intro-HTML").innerHTML = html;

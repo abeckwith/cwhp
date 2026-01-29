@@ -19,7 +19,9 @@ p_bios = [
             High School. She began to study nursing only at the beginning of the Civil War,
             when she was in her mid thirties. In spite of impaired vision, some deafness
             from scarlet fever, and lameness, she entered the nursing school at Massachusetts
-            General Hospital. <Br><Br>Following her training, she was placed in charge of a ward
+            General Hospital. 
+            
+            <br><br>Following her training, she was placed in charge of a ward
             attending fifty wounded soldiers at Fort Schuyler Military Hospital on Long
             Island. Her health deteriorated further, but in spite of this she was given
             a position with the Western Sanitary Commission in Saint Louis, Missouri. There
@@ -27,7 +29,8 @@ p_bios = [
             <em>City of Alton</em>. During this period, she contracted malaria. She was
             made supervisor of nurses at the Barracks Hospital, near St. Louis, the largest
             hospital in the area, where she reduced the death rate remarkably. After the
-            war, the hospital began to serve freed slaves. <br><Br>
+            war, the hospital began to serve freed slaves. <br><br>
+            
             Recurrent malarial fevers sent her back to Massachusetts,
             where she raised money to establish her own charity hospital for women and children,
             which she opened in 1867 in a house on Prospect Street in Cambridgeport. After
@@ -35,14 +38,16 @@ p_bios = [
             Hospital for Women and Children, operating from a rented house (with two wards)
             on the corner of Hampshire and Prospect streets. It closed in 1871 for lack
             of funds. Parsons died in 1880 from stroke, but efforts to raise funds for a
-            hospital continued in her memory. <Br><Br>In 1883, Dr. Morrill Wyman purchased a nine-acre
+            hospital continued in her memory. 
+            
+            <br><br>In 1883, Dr. Morrill Wyman purchased a nine-acre
             plot on the Charles River near Gerry's Landing, and the building of Mount
             Auburn Hospital began. The first hospital structure, still extant, was completed
             in 1886 and named the Parsons Building in honor of Emily Elizabeth Parsons.
             After her death, her father published her correspondence detailing her experiences
             as a war nurse, <em>Memoir of Emily Elizabeth Parsons </em>(1880). `,
         otherNotes: "",
-        references: `<em>Notable American Women</em> (1950).<Br>
+        references: `<em>Notable American Women</em> (1950).<br>
         <em>Biographical
                 Dictionary of Women Scientists</em> (2000).<br>
             Image from wikipedia public domain entry for Emily Parsons.
@@ -78,7 +83,9 @@ p_bios = [
             Refugee Service. During World War II, she trained as a nurse's aide and
             worked at Bellevue Hospital. After the war, she earned a master's degree
             in social work from the University of Pennsylvania and was a professional social
-            worker for the next fifteen years. <br><Br>
+            worker for the next fifteen years.
+            
+            <br><br>
             She married Fritz Pappenheim, a German refugee, who was a political activist
             and professor of economics. The couple moved to Alabama when Fritz accepted
             a position at a black school, Talladega College; he taught there from 1944 to
@@ -87,7 +94,8 @@ p_bios = [
             recounted the experiences of Jewish refugees teaching at black colleges in the
             South. The couple moved to Cambridge in 1952, where Fritz Pappenheim wrote a
             groundbreaking study, <em>The Alienation of Modern Man</em> (1959), and continued
-            to teach and lecture. <br><Br>
+            to teach and lecture. <br><br>
+
             After her husband's death in 1964, Yvonne
             threw herself into working for social justice. During the late 1960s and early
             1970s, when she was living at 7 Linnean Street in Cambridge, she ran the Massachusetts Friends of the Southern Conference Education
@@ -99,7 +107,9 @@ p_bios = [
             named in her honor. Other awards included the &#8220;Fighting for Women's
             Voices Award&#8221; from the Coalition for Basic Human Needs in 1994 and the
             Cambridge Peace Commission's &#8220;Peace and Justice Award&#8221; in
-            1995. <Br><Br>For twenty years before her death, she was a member of &#8220;Writers
+            1995. 
+            
+            <br><br>For twenty years before her death, she was a member of &#8220;Writers
             In Action,&#8221; a group that met weekly at her home to send letters to public
             officials and news outlets on various social and economic issues. Her last letter
             to the <em>Boston Globe</em> was sent only two weeks before her death. Over
@@ -107,11 +117,11 @@ p_bios = [
             and a peace activist, in his role as book editor of the <em>Scientific American</em>.
             She died in Cambridge at the age of ninety-five.`,
         otherNotes: "",
-        references: `Avi Steinberg in <em>The Boston Globe</em> July 19, 2005.<Br>
-            <em>Monthly Review</em>, December 1995.<Br>
-            <i>Cambridge City Directory</i>, 1968.<Br>
+        references: `Avi Steinberg in <em>The Boston Globe</em> July 19, 2005.<br>
+            <em>Monthly Review</em>, December 1995.<br>
+            <i>Cambridge City Directory</i>, 1968.<br>
             Photo credit: Alabama Holocaust Education Center, received from Steven Rasmussen, son of Lore May Rasmussen, a colleague of Fritz Pappenheim at Talladega College:
-            <Br><a class='indent' href="https://ahecinfo.org/survivors/pappenheim-fritz/">
+            <br><a class='indent' href="https://ahecinfo.org/survivors/pappenheim-fritz/">
             https://ahecinfo.org/survivors/pappenheim-fritz/</a>
         `,
         photos: ["images_bios/Pappenheim.jpg"],
@@ -141,13 +151,17 @@ p_bios = [
             Cecelia Helena Payne was born in England at the
             turn of the century to Elena (Pertz) and Edward John Payne. She attended St.
             Paul's Girls School and then studied for her undergraduate degree at Newnham
-            College, University of Cambridge, England. <Br><Br>In 1923, the year she finished, she
+            College, University of Cambridge, England. 
+            
+            <br><br>In 1923, the year she finished, she
             joined the Harvard College Observatory. In 1925 she earned a Ph.D. in astronomy
             at Radcliffe College, the first person to obtain a Ph.D. in this subject from
             either Harvard or Radcliffe; she became part of the permanent staff of the observatory
             and began to pursue her interest in stars of high luminosity, about which she
             wrote an important book. She agreed to pursue the rather tedious work of photographic
-            stellar photometry, but this led to her classic work on variable stars. <br><Br>
+            stellar photometry, but this led to her classic work on variable stars. 
+            
+            <br><br>
             In 1934 she married the Russian astronomer, Sergei
             Gaposchkin, with whom she had three children. The two published a classic work,
             <em>Variable Stars</em>, in 1938. Although husband and wife worked together,
@@ -158,7 +172,9 @@ p_bios = [
             (In 1965, Harvard Observatory became part of the Smithsonian Astrophysical Observatory.)
             The most distinguished honor of the American Astronomical Society, the Russell
             Lectureship, was presented to her in 1977, in recognition of her role as one
-            of the international leaders in astronomy.<br><Br>
+            of the international leaders in astronomy.
+            
+            <br><br>
             In addition to establishing a place for women
             in science, Payne-Gaposchkin is noted for discovering the exploded nova of Hercules
             and devising new techniques for determining stellar magnitudes from photographic
@@ -172,7 +188,7 @@ p_bios = [
             <em>Women's Book of Records and Achievement</em>, 1979. Phyllis J, Read
             and Bernard L. Wilieb. <em>The Book of Women's Firsts</em>, New York,
             1992. Marilyn Ogilvie and Joy Harvey (eds.) <em>Biographical Dictionary of Women
-                Scientists</em>. Routledge, 2000.<Br>
+                Scientists</em>. Routledge, 2000.<br>
                 Image from wikipedia.com:<br>
                 <a class='indent' href="https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin" >https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin</a>
         `,
@@ -207,18 +223,24 @@ p_bios = [
             Historical Commission plaque marks the location of the house. Melusina was a
             friend of Alice James and the Norton family, all of whom lived close by. During
             this period, she explored the establishment of innovative cooperative kitchens
-            and laundries with a small group of other Cambridge women. <Br><Br>In a series of articles
+            and laundries with a small group of other Cambridge women. 
+            
+            <br><br>In a series of articles
             in the <em>Atlantic Monthly</em> (1868-1869), she suggested cooperative housekeeping
             as a prelude to cooperative retail selling by women, and recommended that the
             women who joined the cooperatives should be paid salaries to manage the business
             of obtaining goods, preparing meals, and hiring domestic help. She formed the
             Cooperative Housekeeping Association in 1870, but the experiment was short lived,
-            following the objection of some of the members' husbands. <br><Br>
+            following the objection of some of the members' husbands. 
+            
+            <br><br>
              The marriage of Melusina and Charles Peirce was strained.
             This has been attributed to his temper and infidelity. Although she accompanied
             her husband to Europe in 1875, Melusina separated from him later that year and
             returned home to the U.S. He began to live openly with another woman, Juliette
-            Froissy, and the Peirces divorced in 1883. <br><Br>
+            Froissy, and the Peirces divorced in 1883. 
+            
+            <br><br>
              Melusina published on various topics, emphasizing different
             aspects of cooperative living. Her first book, <em>Co-operation</em> (1876),
             envisaged wider communities that would include communal work areas. In 1884
@@ -226,7 +248,9 @@ p_bios = [
                 do it and how to do it: a study in sociology</em>. She had originally presented
             this material as a paper at the Illinois Social Science meeting in 1880, still
             promoting her ideas of the 1860s and 1870s. By 1903, she had patented a design
-            for a cooperative apartment building with communal kitchens. <Br><Br>She died in Cambridge
+            for a cooperative apartment building with communal kitchens. 
+            
+            <br><br>She died in Cambridge
             in 1923 at the age of 87.`,
         otherNotes: "",
         references: `
@@ -240,7 +264,7 @@ p_bios = [
           
             <br>
             Ancestry.com genealogy records including family trees, vital records, U.S. Census
-            reports, and city directory entries.<Br>
+            reports, and city directory entries.<br>
             Image from wikipedia.com:<br>
             <a class='indent' href="https://en.wikipedia.org/wiki/Melusina_Fay_Peirce" >https://en.wikipedia.org/wiki/Melusina_Fay_Peirce</a>
         `,
@@ -274,7 +298,9 @@ p_bios = [
             Rebecca (Andelman) from Romania. The family lived at 167 Willow Streetin Cambridge. As a youngster, she took on unusual jobs for
             a girl of her day, shining shoes and delivering newspapers, a mind set to which
             she attributes her later successes. 
-            <Br><Br>As soon as the Second World War was declared,
+            <br><br>
+            
+            As soon as the Second World War was declared,
             Sylvia responded by becoming an air raid warden. During the war, she attended
             Boston University's Sargent College for Physical Therapy. While in college,
             she joined the USO, entertaining the troops stationed at Camp Devens. Sylvia
@@ -286,12 +312,15 @@ p_bios = [
             including the Chelsea Naval and Brighton Marine hospitals. In 1947, Sylvia was
             named president of the Cambridge auxiliary; and at the age of 25, in 1950, she
             was named state president. In 1958, she was elected national president of the
-            Jewish War Veterans Ladies Auxiliary. <br><Br>
+            Jewish War Veterans Ladies Auxiliary. <br><br>
+
             Throughout her professional career, Sylvia Piltch pursued an extensive, pioneering
             career in physical therapy, founding the physical therapy department at Cambridge
             Hospital. She continued to be involved in many community activities, leading
             exercise classes for seniors at the Citywide Senior Center, the North Cambridge
-            Senior Center, and the Cambridge Public Library. <Br><Br>In 1999, she was recognized
+            Senior Center, and the Cambridge Public Library. 
+            
+            <br><br>In 1999, she was recognized
             by the Senior Volunteer Clearinghouse with an award in recognition of her volunteer
             work at the library.`,
         otherNotes: "",
@@ -300,7 +329,7 @@ p_bios = [
             Community in ambridge,&quot;.<br>
             Image from legacy.com<:Br>
             <a class='indent' href="https://www.legacy.com/us/obituaries/bostonglobe/name/sylvia-piltch-obituary?id=17084405">
-            https://www.legacy.com/us/obituaries/bostonglobe/name/sylvia-piltch-obituary?id=17084405</a><Br>
+            https://www.legacy.com/us/obituaries/bostonglobe/name/sylvia-piltch-obituary?id=17084405</a><br>
             <i>Cambridge City Directory</i>, 1931.
         `,
         photos: ["images_bios/piltch.jpeg"],
@@ -327,7 +356,7 @@ p_bios = [
         deathDate: "10.21.2012",
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
-        The following is excerpted, with permission, from a 2012 obituary for Kaethe Peters written by Matthew Peters:<Br><Br>
+        The following is excerpted, with permission, from a 2012 obituary for Kaethe Peters written by Matthew Peters:<br><br>
       <blockquote>  Kaethe Peters once wrote,         <blockquote>
 
         "I found from my experiences that it is essential to enrich one's own personality 
@@ -335,64 +364,65 @@ p_bios = [
         </blockquote>
 
         Possessing a beautiful smile and utilizing her compassion for others, Katya worked for 80 years to improve 
-        her community and the lives of other people. <Br><Br>
+        her community and the lives of other people. <br><br>
 
         Katya was born in Germany and left for England [according to lore] two days before the start of World War
          II, during which she lost both her parents and younger sister in the concentration camps. Shortly after 
          arriving in England, she was arrested for being an enemy alien and detained on the Isle of Man with 4,000 
-         other Germans, Jews and Nazis alike. <Br><Br>
+         other Germans, Jews and Nazis alike. <br><br>
 
         Upon her release six months later, Katya began studying to be a social worker at the University of London
          while working full time. In 1949 she traveled to Israel to work with Arab families to improve their health,
           nutrition, and housing...Katya earned a Fulbright Scholarship to pursue her Masters degree at Columbia University,
            arriving in New York with $5 in her pocket. After marrying Stefan Peters, a mathematician, and earning her
-            Masters degree, she moved to Cambridge in 1953.<Br><Br> 
+            Masters degree, she moved to Cambridge in 1953.<br><br> 
 
         Katyas 60-year career in the Boston/Cambridge area was dedicated to the support of mentally challenged 
         children and their families. For many years she worked at Boston Children's Service, and was later the 
         Director of Social Services in the Shriver Center at the Water E. Fernald State School. In 1981 Katya 
         founded Integrated Foster Care, an agency that focused on placing developmentally challenged children 
-        in foster homes and created programs to address their medical, educational, and recreational needs. <Br><Br>
+        in foster homes and created programs to address their medical, educational, and recreational needs. <br><br>
 
         At the age of 83, Katya created a program in a special needs class in the Cambridge Rindge and Latin
          High School based on the Orff method of music therapy, and she went faithfully to oversee the program 
-         up to the time of her death. <Br><Br>
+         up to the time of her death. <br><br>
 
         Katya also worked tirelessly to develop educational and community programs in Cambridge. She was a 
         founding member of both the Community Schools Program and the Enrichment Program, the Commissioner
          of the Cambridge Human Rights Commission for two years, a member of the Cambridge Community Foundation, 
-         and once an active member of the PTA.<Br><Br> 
+         and once an active member of the PTA.<br><br> 
 
         She received the Jeanne V. Burton Award for Community Service in 2001. In addition, she received 
         numerous other forms of recognition from the City of Cambridge, the Commonwealth of Massachusetts, 
-        and the American Association of Mental Retardation for her work over the years. <Br><Br>
+        and the American Association of Mental Retardation for her work over the years. <br><br>
 
         Katya was happiest sitting on her sunny porch in Vinalhaven, Maine, with her husband, or when frequenting 
         one of her favorite restaurants, enjoying good food, drink, and conversation.</blockquote>
         <hr>
-        Kaethe Peters lived at 93 Upland Road in Cambridge for several decades. <br><Br>
+        Kaethe Peters lived at 93 Upland Road in Cambridge for several decades. <br><br>
         In a 1999 interview in the Cambridge Chronicle, Peters discussed the Orff Project that she had initiated at the high school, 
         where developmentally delayed students learned to use percussive, yet melodic, instruments (like the xylophone) in order to improve their
         capacity for learning in all subject areas: 
-       <blockquote>"The most outstanding feature of these instruments is that anybody, however disabled or emotionally
+       
+        <blockquote>"The most outstanding feature of these instruments is that anybody, however disabled or emotionally
        disturbed, can produce a beautiful tone. The element of failure, so prevalent in the teaching of disabled people,
        is thereby eliminated."
-
        </blockquote>
        In the <i>Boston Globe's</i> obituary, State Representative Alice Wolf was quoted as saying of Peters:
+       
        <blockquote>
         "Kathy was a very active member of the Cambridge community. Children were really her area of interest. 
         She was very outgoing and very feisty, an activist and an advocate, and she always had a smile on her face."
        </blockquote>
                 `,
         otherNotes: "",
-        references: ` Oral interview with Peters' son, Matthew Peters.<Br>
-        Legacy.com written by Matthew Peters:<Br>
+        references: ` Oral interview with Peters' son, Matthew Peters.<br>
+        Legacy.com written by Matthew Peters:<br>
          <a class='indent' href="https://www.legacy.com/us/obituaries/wickedlocal-cambridgechronicle/name/kaethe-peters-obituary?id=20281318">
         https://www.legacy.com/us/obituaries/wickedlocal-cambridgechronicle/name/kaethe-peters-obituary?id=20281318</a> <br>
-         <I>City Directory</i> 1965. <Br>
+         <I>City Directory</i> 1965. <br>
         <i>The Cambridge Chronicle</i> 25 July 1985 &  8 December 1999.
-        <br><i>The Boston Globe</i> , November 22, 2012: <Br>
+        <br><i>The Boston Globe</i> , November 22, 2012: <br>
         <a class='indent' href="https://www.bostonglobe.com/metro/obituaries/2012/11/22/kaethe-peters-cambridge-longtime-social-worker-educator/y50M8As1eXlni67qqiTd3I/story.html">
         https://www.bostonglobe.com/metro/obituaries/2012/11/22/kaethe-peters-cambridge-longtime-social-worker-educator/y50M8As1eXlni67qqiTd3I/story.html</a>
         `,

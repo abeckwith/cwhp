@@ -17,10 +17,13 @@ l_bios = [
             Ladd grew up in Washington, D.C. Her father was clerk of the local board of
             education. She became interested in psychology as a teenager, when she typed
             papers for her mother, who was preparing herself to be a teacher in special
-            education. <Br><Br>Florence attended Howard University, graduating in 1953 with a major
+            education. <br><br>
+            
+            Florence attended Howard University, graduating in 1953 with a major
             in psychology. She spent a semester in France and Switzerland studying psychological
             testing procedures. She went on to do graduate work in social psychology at
             the University of Rochester, receiving a Ph.D. in 1958. <br><br>
+
             Ladd taught psychology at Simmons College, and
             did research at a hospital for the elderly in Framingham, Massachusetts When her husband
             received a Fulbright Scholarship, Ladd went with him to Turkey. She taught at
@@ -29,6 +32,7 @@ l_bios = [
             received a certificate in community psychiatry in 1965 and taught related courses
             at Harvard University's Graduate School of Education and Graduate School of
             Design between 1965 and 1977 (she and her family had moved to Cambridge by the mid-1970s).<br><br>
+
             Her gifts as an administrator were recognized,
             and she began to serve as a dean at the MIT School of Architecture. She moved
             to Wellesley College in 1979 as Dean of Students, remaining there until 1984,
@@ -38,6 +42,7 @@ l_bios = [
             International Education's South African Education Program. In 1989, she became
             the director of the Bunting Institute at Radcliffe College, a post she held
             until 1997. <br><br>
+
             Surrounded by creative women, Ladd was inspired
             to write her first novel, <i>Sarah's Psalm</i>, which was published in 1996. This received
             the Best Fiction Award from the Black Caucus of the American Library Association
@@ -83,14 +88,18 @@ l_bios = [
             received a master's degree in the Writing Seminars in 1970 at John Hopkins
             University. Because of developing schizophrenia and substance abuse, she became
             homeless, but learned to manage her problems, becoming a leader in the mental
-            health community. <br><br>In 1993, she began to write for <em>Spare Change News</em>,
+            health community. 
+            
+            <br><br>In 1993, she began to write for <em>Spare Change News</em>,
             the street newspaper dedicated to homelessness, poverty, housing and other social
             issues; and then became the editor-in chief for some years until 2002. Her personal
             experience of homelessness gave her the knowledge, experience and sensitivity
             to lead and encourage those involved in producing <em>Spare Change</em>. She
             has participated in events discussing journalism for the homeless. She was a
             presenter at a panel on homelessness for the Harvard Extension School alumni
-            in December 1997. <br><br>In 2002, she interviewed Philip Mangano, Bush's &#8220;homelessness
+            in December 1997.
+            
+            <br><br>In 2002, she interviewed Philip Mangano, Bush's &#8220;homelessness
             czar&#8221; for the paper. A poet as well as a journalist, she has
             read her poetry at Stone Soup in Cambridge.`,
         otherNotes: "",
@@ -99,7 +108,7 @@ l_bios = [
             in Cambridge, MA.&#8221;.<br>
              <em>Cambridge Chronicle</em> January 29, 2002.<br>
           
-       <br> Image from Doug Holder blogspot:<Br>
+       <br> Image from Doug Holder blogspot:<br>
        <a class='indent' href="https://dougholder.blogspot.com/2012/01/linda-larson-poet-who-writes-what-she.html" >https://dougholder.blogspot.com/2012/01/linda-larson-poet-who-writes-what-she.html</a>`,
         photos: ["images_bios/LindaLarson.jpg"],
         photoTitles: [],
@@ -133,6 +142,7 @@ l_bios = [
             in the church, teaching in the Sunday school and serving on various church boards. In 1930, the faimily 
             was living at 31 Grigg Street, which is today Callendar Street, and in 1950, they were at 43 Magee Street.
             <br><br>
+
             One of her daughters, Audrey (Layne) Ince continued as a trustee and clerk
             of that church. The family was honored as the Family of the Year by St. Paul
             AME Church in 1973, with a special honor designating Christol Layne as &#8220;Mother&#8221;
@@ -141,10 +151,10 @@ l_bios = [
             children who went on to hold responsible positions in the community.`,
         otherNotes: "",
         references: `
-            Interview by Sandra Pullman, 2003.<Br>
+            Interview by Sandra Pullman, 2003.<br>
             <i>U.S. Census</i> 1950.<br>
             Correponsdence with Robert Layne.<br>
-            Massachusetts, U.S., State and Federal Naturalization Records, 1798-1950 for Christol Louise Layne.<Br>
+            Massachusetts, U.S., State and Federal Naturalization Records, 1798-1950 for Christol Louise Layne.<br>
             <i>Cambridge City Directory</i> 1950.
 
         `,
@@ -176,7 +186,9 @@ l_bios = [
             Leavitt and his wife, Henrietta (Kendrick), Henrietta Swan Leavitt was brought
             up in Cambridge at 9 Warland Street (today's Kelley Road) and attended the public schools. 
             She attended Oberlin College from
-            1885 to 1888. <br><br>In 1892, she finished her undergraduate work at Radcliffe College
+            1885 to 1888. <br><br>
+            
+            In 1892, she finished her undergraduate work at Radcliffe College
             and began to work at the Harvard Observatory in 1895 under Professor Edward
             Pickering, who employed women with mathematical skills as &#8220;computers&#8221;.
             Made part of the permanent staff in 1902, she was named chief of the photographic
@@ -185,14 +197,14 @@ l_bios = [
             by studying how rapidly they varied in brightness. This proved to be the method
             that later astronomers used to measure the size of the universe and laid the
             foundation for the theory of the &#8220;big bang&#8221; origin of the universe.
-            She worked at the observatory until her death from cancer at fifty-two. <br>
+            She worked at the observatory until her death from cancer at fifty-two. 
             `,
         otherNotes: "",
         references: ` <em>
                 Notable American Women</em>, Vol 2.<br>
             Ogilvie and Harvey, <em>Biographical Dictionary of Women in Science</em> (2000).<br>
-            <em>Boston Globe,</em> February 1, 2005.<Br>
-            Image from wikipedia.com:<Br> <a class='indent' href="https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt" >https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt</a>
+            <em>Boston Globe,</em> February 1, 2005.<br>
+            Image from wikipedia.com:<br> <a class='indent' href="https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt" >https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt</a>
         `,
         photos: ["images_bios/Henrietta_Swan_Leavitt.jpg"],
         photoTitles: [],
@@ -219,18 +231,23 @@ l_bios = [
         deathLocation: "",
         narrative: `
             In the late 90s, the Lesbian Avengers had weekly poetry slams and other events at
-            Ryle&rsquo;s Jazz Club, which had been the oldest jazz club in Cambridge and the second oldest in the Greater Boston area. <br><br>
+            Ryle&rsquo;s Jazz Club, 
+            which had been the oldest jazz club in Cambridge and the second oldest in the Greater 
+            Boston area. <br><br>
             The group was focused on lesbian visibility and they were known for their spontaneous
             public skits such as passing out Hershey Kisses on the subway for Valentine&rsquo;s Day while wearing
-            Lesbian Avengers shirts. In 1998 they moved on from Ryles to renting meeting space at Boston GLASS, an organization that still
+            Lesbian Avengers shirts. In 1998 they moved on from Ryles to renting meeting space at Boston GLASS, an organization
+             that still
             provides mentorship programs to LGBTQ+ youth of color. 
-            <Br><Br>Lesbian Avengers was involved in the founding of Dyke
-            March in Boston beginning in 1996 which (as of 2018) still happens every year on the Friday before Boston&rsquo;s pride
+            
+            <br><br>Lesbian Avengers was involved in the founding of Dyke
+            March in Boston beginning in 1996 which (as of 2018) still happens every year on the Friday before Boston&rsquo;s 
+            pride
             parade. Across the street at S&amp;S, another Cambridge restaurant staple, an LGBTQ+ seniors group meets
             weekly sponsored by the Cambridge Somerville Elder Services. 
             `,
         otherNotes: "",
-        references: `NOTE: The Lesbian Avengers archive is housed at The History Project:<Br>
+        references: `NOTE: The Lesbian Avengers archive is housed at The History Project:<br>
             <a class='indent' href="www.historyproject.org" >www.historyproject.org</a><em>.<br>
             </em>Written by Kimm Topping, printed in <em>Mapping Feminist Cambridge</em> guidebook, 2019: <a
                 href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a>.
@@ -269,6 +286,7 @@ l_bios = [
             her father worked as a shoemaker and her mother took in boarders. She attended
             Bangor public schools and studied privately in lieu of high school. When she
             was eighteen, the family moved to Boston and later settled in Cambridge.<br><br>
+
              Edith
             Lesley studied to be a teacher at the Anne L. Page Kindergarten School in Boston,
             which followed the principles of kindergarten founder Friedrich Froebel. By
@@ -277,6 +295,7 @@ l_bios = [
             the principal kindergarten teacher. Between 1904 and 1908, Edith Lesley studied
             philosophy as a special student at Radcliffe College, likely in preparation
             for opening her own school.<br><br>
+
              In
             1909, Edith Lesley founded The Lesley School, known also as the Lesley Normal
             School in its early years. The primary purpose of the school was to train young
@@ -288,13 +307,16 @@ l_bios = [
             job at the Cambridge schools to run The Lesley School full-time, adding a program
             in primary teacher training. In 1915, Edith Lesley purchased the house her family
             had long rented at 29 Everett Street. Merl Wolfard, who served as an advisor
-            and investor, later purchased additional nearby houses to serve as dormitories.<br><Br>
+            and investor, later purchased additional nearby houses to serve as dormitories.<br><br>
+
              Edith
             Lesley hired Boston kindergarten teacher Gertrude Malloch in 1914 as a part-time
             instructor. Malloch soon became a valued friend, administrator and the first
             principal of the School. Enrollment grew rapidly in the 1920s and the School
             gained a solid reputation in teacher training, expanding its curriculum to include
-            liberal arts courses and a program in household arts. <br><br>By 1928, the School had
+            liberal arts courses and a program in household arts. 
+            
+            <br><br>By 1928, the School had
             grown to include a campus quadrangle, extending between Everett and Mellen Streets.
             Though the School struggled to maintain enrollment during the Depression, Edith
             Lesley's achievements were recognized in 1938 when she was awarded an
@@ -304,6 +326,7 @@ l_bios = [
             in 1943, Lesley College became a four-year, not-for-profit educational institution
             authorized to confer bachelor's degrees. Edith Lesley continued to live
             at 29 Everett Street until her death in 1953.<br><br>
+
              After
             her death, Lesley College continued to flourish, establishing graduate schools
             of education, management, arts and social sciences, and incorporating the Art
@@ -357,6 +380,7 @@ l_bios = [
             died on May 20, 1997 at the age of 89. She is survived by her daughter, Florence,
             of Cambridge and her son, William Lewis, Jr., who resides in Whitinsville,
             MA.<br><br>
+            
             Emily
             was employed as a nurse. The opportunity arose during World War II when the
             call went out from the Red Cross for Nurses' Aides. Emily applied and
@@ -366,7 +390,7 @@ l_bios = [
             Aides. She completed the class work and upon entering the next phase of the
             course, she was assigned to cleaning the supply closets. She, supported by the
             members of her class, objected and she was subsequently assigned to the patient
-            care work for which she had been trained. <br><Br>
+            care work for which she had been trained. <br><br>
             
             Emily took every opportunity for training
             and to increase her knowledge and eventually joined the staff of the Allerton
@@ -438,7 +462,9 @@ l_bios = [
             Longfellow was the oldest daughter of the poet Henry Wadsworth Longfellow and
             his wife, Fanny Appleton. She grew up in the family home at 105 Brattle Street
             (now the Longfellow National Historic Site) and was inspired to devote herself
-            to preservation of historic homes and to education for women. <br><br>As a young woman
+            to preservation of historic homes and to education for women. 
+            
+            <br><br>As a young woman
             in the 1870s, Alice helped to form the first community theater group in Cambridge.
             She joined the organizing committee with Elizabeth Cary Agassiz for the Harvard
             Annex or the Society for the Collegiate Instruction for Women (which later became
@@ -449,7 +475,6 @@ l_bios = [
             of her work as a benefactor of the college, Longfellow Hall was named in her
             honor. <br><br>
 
-         
             As a preservationist, Alice was a member of the
             Mount Vernon Ladies Association, the Society for the Preservation of New England
             Antiquities, and the Cambridge Historical Society. She led her family in the
@@ -465,6 +490,7 @@ l_bios = [
                She had traveled with a delegation to gather with the
              tribe and she
              wrote about this visit in the introduction to the 1901 edition of the book:
+            
              <blockquote>
             "After sunset, when the fire was lighted on the rocks near by, the Indians assembled
              together, and Kabaoosa as the spokesman announced that they wished to have the pleasure
@@ -472,11 +498,12 @@ l_bios = [
               their father had turned the Ojibway legends into verse...The names, which were 
               valued names in the tribe, were all chosen with care, and given as proofs of high
                regard; the men of the party were honored as well as the women.
+
             <br><bR>
             "Odenewasenoquay - the first flash of lightning; Osahgahgushkodawaquay - the lady 
             of the open plains; Daguagonay - the man whom people like to camp near...
             
-            <br><Br>
+            <br><br>
             "The ceremonies were followed by much singing and dancing, of which the Indians 
             never tire, and the following day came the farewells - farewells to the broad, 
             beautiful lake, the islands, the sweet fragrance of the forest, and the kind and devoted hosts."
@@ -484,13 +511,13 @@ l_bios = [
             `,
         otherNotes: "",
         references: `
-            Alice M. Longfellow. <em>An account of a visit to Hiawatha's people </em>(1901): <Br>
+            Alice M. Longfellow. <em>An account of a visit to Hiawatha's people </em>(1901): <br>
             
             &nbsp&nbsp&nbsp&nbsp&nbsp;<a href="https://archive.org/details/songofhiawathawi0000henr/page/n13/mode/2up">https://archive.org/details/songofhiawathawi0000henr/page/n13/mode/2up</a>.
             <br>
             Alice m. Longfellow Papers, Longfellow National Historic Site. <br>
-            <em>Biography of Alice M Longfellow</em>, Longfellow National Historic Site.<Br>
-            Image from wikipedia.com:<Br>
+            <em>Biography of Alice M Longfellow</em>, Longfellow National Historic Site.<br>
+            Image from wikipedia.com:<br>
             <a class='indent' href="https://en.wikipedia.org/wiki/Alice_Mary_Longfellow" >https://en.wikipedia.org/wiki/Alice_Mary_Longfellow</a>
         `,
         photos: ["images_bios/Alice_Longfellow.jpg"],
@@ -527,6 +554,7 @@ l_bios = [
             also a member of the &#8220;Band,&#8221; a club for Harvard students and their
             sisters. An ardent abolitionist, she worked to raise money for that cause and
             contributed poems to the abolitionist periodical, the Liberty Bell. <br><br>
+
             On December 26, 1844, Maria married the poet James
             Russell Lowell, whose first book of poetry was dedicated to her. The couple
             lived in Cambridge where their first child, Blanche, was born. Sadly, Blanche
@@ -535,6 +563,7 @@ l_bios = [
             the family went to Italy in hopes of restoring Maria's failing health;
             where Walter died in 1852. Only one child, Mabel, survived into adulthood, outliving
             both her parents. <br><br>
+
             Maria's poetry was published in Rufus Griswald's
             <em>Female Poets of America</em> and <em>Putnam's Magazine</em>. In 1853,
             one year after she returned from Italy, Maria died of tuberculosis at the Lowells'
@@ -548,7 +577,7 @@ l_bios = [
             Providence, Rhode Island: Brown University Press, 1936. <br>
             Papers of James Russell Lowell, Houghton Library, Harvard University (includes
             letters to and from Maria White Lowell).<br>
-            Image from wikipedia:<Br><a  class='indent'  href="https://en.wikipedia.org/wiki/Maria_White_Lowell" >https://en.wikipedia.org/wiki/Maria_White_Lowell</a>
+            Image from wikipedia:<br><a  class='indent'  href="https://en.wikipedia.org/wiki/Maria_White_Lowell" >https://en.wikipedia.org/wiki/Maria_White_Lowell</a>
         `,
         photos: ["images_bios/maria_lowell.jpg"],
         photoTitles: [],
@@ -580,10 +609,12 @@ l_bios = [
             the States, she attended a private school in Brooklyn and then went to Brown
             University for two years. She left after her sophomore year to marry Donald
             Grey Lowry in 1956. They settled in Maine, where they raised four children. <br><br>
+
             She worked part-time as a professional photographer while her husband studied
             for his law degree. Eventually, she returned to college in the late 60s and
             earned her degree from the University of Southern Maine in 1972 in the writing
             program. <br><br>
+
             Lois Lowry began by writing textbooks on Black American Literature and on
             American
             Revolutionary Literature in the mid-1970's. In the late 1970s, she began to
@@ -604,7 +635,7 @@ l_bios = [
             Zaidman, Laura M. &quot;Lois Lowry.&quot; <em>American Writers for Children
                 Since 1960. Dictionary of Literary Biography.</em> Vol 52.<br>
             Lois Lowry Papers-1977-1993 Kerlan Collection, University of Minnesota. Includes
-            book manuscripts.<Br>
+            book manuscripts.<br>
             Image from wikipedia:<br> <a  class='indent' href="https://en.wikipedia.org/wiki/Lois_Lowry" >https://en.wikipedia.org/wiki/Lois_Lowry</a>.
         `,
         photos: ["images_bios/Lois_Lowry.jpg"],
@@ -635,12 +666,14 @@ l_bios = [
             Luscomb was a committed believer in world peace, women's liberation, and
             workers' unions, and a familiar figure at protest marches and rallies
             throughout her long life.<br><br>
+
             Born in Lowell, Massachusetts, to Hannah (Knox)
             and Otis Luscomb, her parents separated when she was a baby. Her maternal grandfather
             was a Republican Congressman from St. Louis, and her mother shared his love
             of politics. Her mother was active in the early women's suffrage movement,
             and Florence recalled being taken by her mother to hear Susan B. Anthony when
             Florence was five. <br><br>
+
 
             She attended Chauncy Hall, a private secondary
             school, and then went on to MIT, graduating in 1909 with a B.S. in Architecture,
@@ -649,8 +682,10 @@ l_bios = [
             After graduation she practiced architecture with Ida A. Ryan, a fellow graduate,
             in Watertown until the First World War, when a building slump ended the demand
             for new residential housing. <br><br>
+
             Luscomb spoke at a 1914 meeting of the Women's Suffrage Party of 
             Cambridge about protest marches. A reporter indicated that:
+           
             <blockquote>
             "She urged all, in a graceful and charming manner, to march in the big suffrage parade to be 
             held in Boston on May 2. She offered herself as a survivor of two suffrage parades, in other 
@@ -658,7 +693,8 @@ l_bios = [
             while not personally conspicuous in any way, adds to the splendid effect of numbers and quality, 
             while she gains for herself the satisfying realization of solidarity."
             </blockquote>
-            The march that May was a resounding success (see image below).<Br><Br>
+            
+            The march that May was a resounding success (see image below).<br><br>
 
             In 1918, Luscomb left architecture to become executive
             secretary for the Boston Equal Suffrage Association, and began to sell copies
@@ -688,12 +724,15 @@ l_bios = [
             nineties when illness compelled her to give up independent living. In the late
             1930s, she bought land in Tamworth, New Hampshire, where she designed and built a rustic
             cabin. Each year until she became almost blind, she spent the entire summer
-            working in a carefully designed garden and climbing in the White Mountains.<br>
+            working in a carefully designed garden and climbing in the White Mountains.<br><Br>
+
             Luscomb ran for public office at least four times,
             first for Boston City Council in 1922, losing by less than one percent of the
             vote. She was a candidate for the US House of Representatives on the People's
             Labor Party. Most notably, when the Massachusetts state chair of the Progressive
-            Party, she ran for governor in 1952. <br><br>At the age of 71, she turned out for a
+            Party, she ran for governor in 1952. 
+            
+            <br><br>At the age of 71, she turned out for a
             &#8220;March for Peace&#8221; in 1958 to the United Nations, walking from New
             Haven to Manhattan to appeal for an end to nuclear weapons testing. In the early
             1960s, she traveled to Cuba, attended a peace conference in Moscow, and then
@@ -702,16 +741,22 @@ l_bios = [
             she was rediscovered by the women's movement as one of its &#8220;foremothers&#8221;
             and began a new lecture career, speaking throughout the country. She also was
             active in the anti-Vietnam War movement, joining marches and speaking out on
-            behalf of the peace movement. <br><br>During this period, she continued to work for
+            behalf of the peace movement. 
+            
+            <br><br>During this period, she continued to work for
             improved racial relations and on behalf of school busing. She reminded her fellow
             feminists that women included poor and minority women, and served as a consultant
             to the young women organizing the professional labor union, Nine to Five. At
             a celebration of her ninetieth birthday in 1976, she was feted by leaders of
             all the organizations with whom she had worked. On this occasion, she urged
             her listeners to think about social justice with the words: &#8220;It's
-            time for a second American revolution.&#8221; <br><br>
+            time for a second American revolution.&#8221; 
+            
+            <br><br>
              In her mid-nineties, ill health forced her into a nursing
-            home in Watertown, where she died at the age of ninety-eight.<Br><Br>
+            home in Watertown, where she died at the age of ninety-eight.
+            
+            <br><br>
             <i>The May 2, 1914 Suffragist Parade that Luscomb helped inspire participation in:</i>`,
         otherNotes: "",
         references: `
@@ -723,9 +768,9 @@ l_bios = [
             Schlesinger Library. <em>Papers in the Woman's Rights Collection, 1904-1959:
                 A Finding Aid</em>. Cambridge, Massachusetts, 2005.<br>
             Schlesginer Library.<em> Florence Luscomb Papers, 1856-1987: A Finding Aid</em>.
-            Cambridge, Massachusetts, 1989.<Br>
+            Cambridge, Massachusetts, 1989.<br>
             <i>The Cambridge Tribune</i>, 28 March 1914.
-<br><i>The Boston Globe</i>, May 03, 1914.<Br>
+<br><i>The Boston Globe</i>, May 03, 1914.<br>
             <i>Cambridge City Directory</i>, 1946.
         `,
         photos: ["images_bios/Florence%20Luscombe%201977%20small.jpeg", "images_bios/luscomb2.png"],
@@ -755,13 +800,13 @@ l_bios = [
         Mary Leno lived and breathed social activism. She was a tireless advocate for LGBTQ+ rights and housing justice. Her 
         Cambridge-based advocacy was channeled through personal action, committee membership, and creative initiatives and
          through various media, including film and photography.
-         <br><Br>
+         <br><br>
 
         Mary was born and grew up in Ipswich, Massachusetts, with her parents Vera Funchion and Harry Leno, moving to Cambridge 
         after high school. By the 1980s, she had become the "cornerstone" of the Cambridge Women in Cable collective, which produced 
         programs with a focus on women's experiences and perspectives. She was involved with Cambridge Community Television (CCTV) 
         since its inception.
-         <br><Br>
+         <br><br>
 
         Mary volunteered for the Cambridge Women's Center, the Women's School, Food for Free, the Cambridge Commission on the 
         Status of Women, the Cambridge Women's Heritage Project (as one of the initial organizers of the program), and the 
@@ -772,20 +817,21 @@ l_bios = [
         Leno was part of several women's empowerment and self-defense programs.  
         In 1997, Leno had helped with the LEAP project (Lifetime Empowerment and 
         Awareness program) and described the works as:
+       
         <blockquote> "Usually self-defense courses focus on what is going on in a woman's 
         environment.  But here girls are taught how to feel comfortable defending themselves. 
         This program bridge the gap between the external and internal."
         </blockquote>
 
         She was also involved (in 2001) in organizing a mother-daughter self-defense class, funded by the Cambridge Police Department.
-        <br><Br>
+        <br><br>
 
 
 
         In 2008, Mary received the Cambridge Peace and Justice Award for her efforts, which included advocating for housing for 
         low income Cambridge residents.  In addition to her work in local cable TV, she was a photographer and "chronicler of 
         social movements." 
-         <br><Br>
+         <br><br>
 
         Mary's was a lifelong activist: she continued to be passionate about causes that were close to her heart well into her 80s. 
         Just weeks before her death, she was in the CCTV studios for an interview for Cambridge Mosaic Project/Cambridge Museum
@@ -794,9 +840,9 @@ l_bios = [
         `,
         otherNotes: "",
         references: `
-        CCTV Instagram post:<Br><a  class='indent'  href="https://www.instagram.com/p/DOTEMspDly9/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" >
+        CCTV Instagram post:<br><a  class='indent'  href="https://www.instagram.com/p/DOTEMspDly9/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" >
         Sept. 7, 2025</a>.<br>
-        Image from legacy.com:<Br><a class='indent'  href="https://www.legacy.com/us/obituaries/legacyremembers/mary-leno-obituary?id=59453208" >
+        Image from legacy.com:<br><a class='indent'  href="https://www.legacy.com/us/obituaries/legacyremembers/mary-leno-obituary?id=59453208" >
         https://www.legacy.com/us/obituaries/legacyremembers/mary-leno-obituary?id=59453208</a><br><br>
 
         <i>Boston Globe</i>, September 10, 2000, April 26, 2018, November 16, 2008.

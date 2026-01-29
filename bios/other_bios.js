@@ -37,10 +37,10 @@
         Education in London, she had come in this country to take a course in
         anthropometry, the measurement of the human body. The demonstration
         took place while she was attending a women's physical education course at
-        Harvard.<Br><Br>
+        Harvard.<br><br>
         Through her energy and enthusiasm, field hockey soon became very
         popular in women's colleges such as Vassar, Smith, Wellesley, Mount
-        Holyoke, and Radcliffe.<Br><Br>
+        Holyoke, and Radcliffe.<br><br>
         "The Apple," as she was known, was hired in 1904 as athletic director at
         Bryn Mawr College in Pennsylvania, a position she held through 1928. In
         1901, she founded the American Field Hockey Association and headed it
@@ -48,7 +48,7 @@
         Association in 1922 and the following year created a field hockey camp in
         Mount Pocono, Pennsylvania. She was for 10 years the editor and
         publisher of Sportswoman, a magazine for women athletes, the first
-        magazine of its kind in America.<Br><Br>
+        magazine of its kind in America.<br><br>
         Throughout her life, Applebee commuted between England and the United
         States, coaching young woman in field hockey and the importance of
         sportsmanship. She did not retire until she was 94.
@@ -59,7 +59,7 @@
                 Book of Women's Firsts</em>, 1992.<br>
             Wikipedia (online encyclopedia) <a
                 href="http://en.wikipedia.org/wiki/Constance_M._K._Applebee" >http://en.wikipedia.org/wiki/Constance_M._K._Applebee</a>;<br>
-            <em>Encyclopedia Britannica </em>(2006)<Br>
+            <em>Encyclopedia Britannica </em>(2006)<br>
             <a href="https://www.britannica.com/biography/Constance-M-K-Applebee" >https://www.britannica.com/biography/Constance-M-K-Applebee</a><br>
             January 5, 1959 Sports Illustrated<br>
             Image from wikipedia
@@ -94,21 +94,21 @@
             Gaffney conducted a study of violent music lyrics that advocated harm to women,
             analyzing the verses of rap and heavy metal. At the end of the semester, her
             professor, Diane Rosenfeld, suggested an independent study to prepare the work
-            for publication. <Br><Br>
+            for publication. <br><br>
             She assisted Rosenfeld in researching the prosecution of a
             case in which domestic violence led to the death of a pregnant woman. As co-director
             of Peer Relations and Date Rape Education, sponsored by Harvard's University
             Health Services, she dealt with recruiting and advertising for this student-run
             group. Megan helped to foster a dialogue between the university and her fellow
             students on the issues of sexuality, which opened the group to some criticism
-            for promoting too open a forum on this topic. <Br><Br>
+            for promoting too open a forum on this topic. <br><br>
             
             Megan interned in the business
             department of <em>Harvard Magazine</em> as a work-study student. She also starred
             in many Harvard theater productions while at college, most notably as the Acid
             Queen in a student production of The Who's <em>Tommy</em>. She sang in
             the <em>a capella</em> singing group &#8220;The Callbacks&#8221;, often counseling
-            apprehensive performers at auditions. <br><Br>After leaving Harvard, she took a job
+            apprehensive performers at auditions. <br><br>After leaving Harvard, she took a job
             as spokesperson for the US attorney's office in Manhattan, appearing regularly
             in New York press reports.<br>
             <br>As of 2025, Megan was working for the U.S. Attorney's Office for the Southern District of Ohio `,
@@ -155,7 +155,7 @@
             influence on her contemporaries and was among the first persons to be buried
             at Mount Auburn Cemetery. An autobiographical memoir of her life appeared the
             year after her death, written partly to provide financial support for her younger
-            sister.<Br><Br>
+            sister.<br><br>
             In her 1799 work "A Summary History of New-England: from the first settlement at Plymouth, to the acceptance of the federal Constitution",
             Adams wrote about the "Rise of the controversy between Great Britain and New England":
             <blockquote>
@@ -167,7 +167,7 @@
             `,
         otherNotes: "",
         references: `<em>Notable American Women</em>; <em>Cambridge
-                Chronicle</em> 12-13-00<Br>Image from wikipedia
+                Chronicle</em> 12-13-00<br>Image from wikipedia
                 <br>"A summary history of New-England: from the first settlement at Plymouth, to the acceptance of the federal Constitution", Hannah Adams, 1799. Access 
                 this book online here: <a href="https://archive.org/details/summaryhistoryof00adamrich/mode/2up">
                 https://archive.org/details/summaryhistoryof00adamrich/mode/2up</a>
@@ -223,8 +223,8 @@
             Auburn Cemetery, Cambridge. `,
         otherNotes: "",
         references: `<em> American Women: 1500 Hundred Biographies</em>,
-            Frances E. Willard and Mary A. Livermore (eds.), Volume I, (1897)<Br><em>Notable
-                American Women</em> (1950)<Br><em>Encyclopedia Americana</em>, 1995<Br>
+            Frances E. Willard and Mary A. Livermore (eds.), Volume I, (1897)<br><em>Notable
+                American Women</em> (1950)<br><em>Encyclopedia Americana</em>, 1995<br>
 Image from <a href="https://en.wikipedia.org/wiki/Charlotte_Cushman" >https://en.wikipedia.org/wiki/Charlotte_Cushman</a>
         `,
         photos: ["images_bios/Charlotte_Cushman_(Sully,_1843).jpg"],
@@ -270,7 +270,7 @@ Image from <a href="https://en.wikipedia.org/wiki/Charlotte_Cushman" >https://en
         references: `
             Phyllis J. Read and Bernard L. Witlieb <em>The
                 Book of Women's Firsts,</em> 1992.<br>
-            Carolyn Warner,<em>Treasury of Women's Quotations,</em> 1992<Br>New York
+            Carolyn Warner,<em>Treasury of Women's Quotations,</em> 1992<br>New York
             International Ballet Competition/retrieved on May 19, 2006
         `,
         photos: ["images_bios/dantuono.png"],
@@ -300,7 +300,7 @@ Image from <a href="https://en.wikipedia.org/wiki/Charlotte_Cushman" >https://en
             Sophia Hayden was born in Chile and was raised by her grandparents in Jamaica Plain in Boston.
             She was the first woman to graduate
             in architecture from MIT in Cambridge in 1890. After graduation, she taught
-            mechanical drawing at a high school in Jamaica Plain. <Br><Br> Hayden won the competition
+            mechanical drawing at a high school in Jamaica Plain. <br><br> Hayden won the competition
             to design the Woman's Building at the World's Columbian Exposition
             in Chicago in 1893 commemorating the 400th anniversary of Christopher Columbus's
             discovery of America. <br><br>In an effort to draw attention to women's progress
@@ -329,11 +329,11 @@ Image from <a href="https://en.wikipedia.org/wiki/Charlotte_Cushman" >https://en
             Illinois Press, 2008 <br>
             <a
                 href="http://web.mit.edu/museum/chicago/bennett29.html">http://web.mit.edu/museum/chicago/bennett29.html</a>
-            <em>Encyclopedia Britannia</em><Br>
+            <em>Encyclopedia Britannia</em><br>
             <a href="https://www.ancestry.com/family-tree/person/tree/4314195/person/132430538456">
-            https://www.ancestry.com/family-tree/person/tree/4314195/person/132430538456</a>/<Br>
+            https://www.ancestry.com/family-tree/person/tree/4314195/person/132430538456</a>/<br>
 
-            U.S. Census, 1880<Br>
+            U.S. Census, 1880<br>
             Image from <a href="https://en.wikipedia.org/wiki/Sophia_Hayden" >https://en.wikipedia.org/wiki/Sophia_Hayden</a>
         `,
         photos: ["images_bios/Sophia_Bennett.jpg"],
@@ -370,7 +370,7 @@ Image from <a href="https://en.wikipedia.org/wiki/Charlotte_Cushman" >https://en
             a master's degree from Vassar. She continued to study at MIT and to work
             under John Nichols on practical problems, such as water safety for the state.
             In 1873 she married Robert Hallowell Richards, a professor of mining engineering
-            at MIT. <br><Br>
+            at MIT. <br><br>
             With the help of the Women's Education Association
             of Boston, Ellen Richards established a Woman's Laboratory at MIT in 1876
             under the directorship of John M. Ordway, which offered training to women in
@@ -380,7 +380,7 @@ Image from <a href="https://en.wikipedia.org/wiki/Charlotte_Cushman" >https://en
             in sanitary chemistry and continued to work in the field of sanitation and home
             economics (a field she helped establish) until her death. She also created a
             Center for Right Living in her home in Jamaica Plain, testing foods and promoting
-            sanitation. <Br><Br>She published two widely cited books, <em>The Chemistry of Cooking
+            sanitation. <br><br>She published two widely cited books, <em>The Chemistry of Cooking
                 and Cleaning</em> (1882) and <em>Air Water and Food from a Sanitary Point of
                 View</em> (1900). `,
         otherNotes: "",

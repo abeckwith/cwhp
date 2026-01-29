@@ -17,7 +17,9 @@ d_bios = [
             and Sarah (Watson) Dana, she was a life long resident of Boston and Cambridge
             living for most of her life at 152 Brattle St. A graduate of Cambridge Latin
             School, she developed a strong interest in the Colonial and Revolutionary history
-            of Cambridge from the time she was nineteen. <br><br>She contributed to <em>A Historic
+            of Cambridge from the time she was nineteen. 
+            
+            <br><br>She contributed to <em>A Historic
                 Guide to Cambridge</em> in 1907, and served on the board of the Cambridge Historical
             Society. She is responsible for collecting the correspondence, notes, legal
             records and photographs of the family preserved at the Longfellow House archives.Her
@@ -29,11 +31,11 @@ d_bios = [
             Finding aid, Elizabeth Ellery Dana Personal Papers,
             Longfellow House archives. Cambridge.<br>
             Additional correspondence in the Dana
-            papers in Houghton, Harvard University Library.<Br>
+            papers in Houghton, Harvard University Library.<br>
             Image courtesy of the National Park Service, Longfellow House-Washington's Headquarters National Historic Site
             (image ID 3004.002/001-#253).<br>
             Birth and death dates frome FindaGrave.com:
-            <Br><a class='indent' href="https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana">https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
+            <br><a class='indent' href="https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana">https://www.findagrave.com/memorial/58495296/elizabeth-ellery-dana</a>
         `,
         photos: ["images_bios/elizabeth_dana.jpg"],
         photoTitles: [],
@@ -67,6 +69,7 @@ d_bios = [
             Americans to achieve social, political and economic equality in the United States.
             The most prominent example of Freedom Schools was in Mississippi in the August
             of 1964.<br><br>
+
             Kathy Roberts remained as the director from 1971
             to 2002. She envisioned the school as a place where the young children could
             escape the media barrage of
@@ -78,7 +81,7 @@ d_bios = [
         otherNotes: "",
         references: `<em>Teaching Tolerance</em> magazine, Number
             24, Fall 2003.
-            <Br><i>Cambridge Chronicle</i> 30 Nov 1972.
+            <br><i>Cambridge Chronicle</i> 30 Nov 1972.
         `,
         photos: ["images_bios/dandelion.png"],
         photoTitles: ["November 28, 1985 Cambridge Chronicle ad"],
@@ -112,9 +115,10 @@ d_bios = [
             to music at a young age as had both her grandfathers who were church organists.
             She attended Girls Latin School in Boston and then went to Radcliffe College
             where she sang in the Glee Club and directed operettas. She also studied composition
-            and began to compose choral music. <br><br>After graduating in 1900, she studied for
+            and began to compose choral music. <br><br>
+            
+            After graduating in 1900, she studied for
             two years at the New England Conservatory of Music and then went to Germany
-
             to study in the Royal Conservatory of Munich. On returning to America, she published
             a book on her experiences in Munich (<em>An American Girl in Munich</em>) in,
             1905 and proceeded to direct the Radcliffe Glee Club and music director at Simmons
@@ -122,14 +126,18 @@ d_bios = [
             her composition. Marion MacDowell produced the first performance of her cantata,<em>The
                 Desolate City</em> (1913) at the MacDowell Colony following which she was regularly
             invited to use the studios of the colony in Petersborough New Hampshire to create her musical
-            compositions. <br><br>Although her first compositions were more conventional, she became
+            compositions. 
+            
+            <br><br>Although her first compositions were more conventional, she became
             interested in modern music while preparing a piece for soprano, chorus and orchestra
             based on a poem The <em>Song of Jael</em> (1940) by her friend Edwin Arlington
             Robinson. Her pieces began to be played by major artists, by the Boston Symphony
             Orchestra, and in programs of significant American music in Carnegie Hall, and
             for NBC radio. She made important gifts to women's colleges to support
             young women musicians and served as an alumnae trustee of Radcliffe College
-            from 1940-1951. She was living at 29 Garden Street a few years before her death in 1971.<br><br>Her papers are held at Schlesinger Library, Radcliffe Institute.`,
+            from 1940-1951. She was living at 29 Garden Street a few years before her death in 1971.
+            
+            <br><br>Her papers are held at Schlesinger Library, Radcliffe Institute.`,
         otherNotes: "",
         references: ` <em>
                 Notable American Women, Modern Period</em>
@@ -137,7 +145,7 @@ d_bios = [
             Madeline Goss, <em>Modern Music-Makers: Contemporary American Composers</em>
             New York, (1952).<br>
             Biography, Finding Aid Mabel Wheeler Daniels Papers, Schlesinger
-            Library, Radcliffe Institute.<Br>
+            Library, Radcliffe Institute.<br>
             <I>Cambridge City Directory</i>, 1968.
         `,
         photos: ["images_bios/mabel daniels.jpg"],
@@ -169,29 +177,31 @@ d_bios = [
          to Cambridge from Waterbury, Connecticut.
         She was involved in artistic pursuits, exhibiting some of her works at the Boston YWCA in the early 1960s.
         The couple lived at 46 Foster Street in Cambridge in 1961 and by 1964 was living at 130 Brattle Street. 
-        <br><Br>
+        <br><br>
+
         d'Arbeloff was on the first Board of Trustees when the Browne & Nichols school combined with
         the Buckingham School in 1974.
-            In 1992, she was the first
-            woman to be elected chairman of the board of a Harvard Teaching Hospital and served
-            as the director of development of Mount Auburn Hospital. A trustee of the hospital
-            since 1986, she continually demonstrated her commitment to the hospital and
-            community service. 
-            <br><br>
-            In addition to her contributions to Mount
-            Auburn Hospital, she served as a member of Cambridge Community Foundation, volunteered on behalf of Wheaton College, 
-           
-            was a member of the Board of Overseers at the Museum of Science and at WGBH, and
-            was an associate of the Museum of Fine Arts. She was recognized by many organizations
-            for her community service including Women in Philanthropy and the New England
-            Association for Hospital Philanthropy. She was awarded the Cambridge YWCA's
-            Tribute to Women Award in 1993. <br><br>
+        In 1992, she was the first
+        woman to be elected chairman of the board of a Harvard Teaching Hospital and served
+        as the director of development of Mount Auburn Hospital. A trustee of the hospital
+        since 1986, she continually demonstrated her commitment to the hospital and
+        community service. 
+        <br><br>
+
+        In addition to her contributions to Mount
+        Auburn Hospital, she served as a member of Cambridge Community Foundation, volunteered on behalf of Wheaton College, 
+        
+        was a member of the Board of Overseers at the Museum of Science and at WGBH, and
+        was an associate of the Museum of Fine Arts. She was recognized by many organizations
+        for her community service including Women in Philanthropy and the New England
+        Association for Hospital Philanthropy. She was awarded the Cambridge YWCA's
+        Tribute to Women Award in 1993. 
             `,
         otherNotes: "",
         references: ` <em>Cambridge Chronicle</em>May 4, 1961, 4 February 1965, 10 January 1974, Jan 17, 2001.
-        <Br>Image from <em>Boston Globe</em>Sept. 13, 1993.
-        <Br><i>U.S., Social Security Applications and Claims Index</i>, 1936-2007.
-        <Br>FindAGrave.com:<Br>
+        <br>Image from <em>Boston Globe</em>Sept. 13, 1993.
+        <br><i>U.S., Social Security Applications and Claims Index</i>, 1936-2007.
+        <br>FindAGrave.com:<br>
         <a class='indent' href="https://www.findagrave.com/memorial/210753844/sybil-noble-darbeloff">
         https://www.findagrave.com/memorial/210753844/sybil-noble-darbeloff</a>
 
@@ -227,13 +237,15 @@ d_bios = [
         Louise grew up first at 131B Thorndike Street (1920), then in East Cambridge on 75 Otis Street (1928).  At the age of 34, 
         in the midst of World War II (August 5, 1943), she enlisted in the
         Women's Army Corps (WACS) and served in New Guinea and Manila. 
-        She was on active duty until the end of the war.  <Br><br>
+        She was on active duty until the end of the war.  <br><br>
 
         Louise Nelson married Ralph John Darling and they had two children, 
         making their home on Inman St.  In 1950, Louise was appointed to the 
         Cambridge Police Department as the second female officer ever hired for such a
         position at the CPD.  As part of her work, she specialized in the difficult job 
-        of rape cases and served on the vice squad.<Br><br> A 1953 article discusses the city's 9:30pm curfew,
+        of rape cases and served on the vice squad.
+        
+        <br><br> A 1953 article discusses the city's 9:30pm curfew,
          which had been reinstated after several decades to deal with an increase in criminal activity
           by youths. Darling, who was at the time a member of the Cambridge Crime Prevention Bureau, was quoted as saying:
 
@@ -243,9 +255,10 @@ d_bios = [
         [Five of them] were given a warning about curfew observance and then sent home. The sixth, a 
         more difficult case, was taken to court..."
         </blockquote>
- In the 1960s, Darling was one of three 
+
+         In the 1960s, Darling was one of three 
         officers that made the original arrest of the Boston Strangler, Albert DeSalvo. She was living at 
-        78 Dana Street in Cambridge at the time.<Br><br>
+        78 Dana Street in Cambridge at the time.<br><br>
 
         In a 1967 letter to the editor, State Representative Thomas Doherty commended the 
         work of six CPD detectives and officers and Darling was one of them.  In 1977, 
@@ -253,7 +266,7 @@ d_bios = [
         Massachusetts - she had served for 27 years at that point.   In 1979, she 
         was quoted in the <em>Cambridge Chronicle</em> lamenting the closing of the feminist 
         Boston Area Rape Crisis Center (located in Cambridge) saying that the center
-        was a good resource and that there are "very nice, very capable, and very dedicated" people there. <Br><br>
+        was a good resource and that there are "very nice, very capable, and very dedicated" people there. <br><br>
 
         After retirement from the police force, she and her husband moved to Wells, 
         Maine, where she died at age 76.  Darling is still celebrated today by the 
@@ -263,13 +276,13 @@ d_bios = [
         references: ` 
 
         <em>Cambridge Chronicle</em>  17 December 1953, 30 March 1967, 3 May 1977, 18 October 1979.<br>
-        <em>The Boston Globe</em>, July 17 1995. <Br>
+        <em>The Boston Globe</em>, July 17 1995. <br>
         Cambridge Police Department History:<br>
-        <a class='indent' href="https://www.cambridgema.gov/Departments/cambridgepolice/aboutthedepartment/departmenthistory">https://www.cambridgema.gov/Departments/cambridgepolice/aboutthedepartment/departmenthistory</a><Br>
-        <i>U.S. Census</i> 1930<Br>
-        <i>Cambridge City Directory</i> 1954, 1961.<Br>
-        U.S. Dept. of Veteran Affairs <em>BIRLS Death File</em>.<Br>
-        <Br>
+        <a class='indent' href="https://www.cambridgema.gov/Departments/cambridgepolice/aboutthedepartment/departmenthistory">https://www.cambridgema.gov/Departments/cambridgepolice/aboutthedepartment/departmenthistory</a><br>
+        <i>U.S. Census</i> 1930<br>
+        <i>Cambridge City Directory</i> 1954, 1961.<br>
+        U.S. Dept. of Veteran Affairs <em>BIRLS Death File</em>.<br>
+        <br>
         Image from Cambridge Police Department Facebook page post: Mar. 7, 2019:<br>
         <a class='indent' href="https://www.facebook.com/CambridgePolice/posts/pfbid027e1x9n6tt7ptBYiYNwW71f3QFrYmrhohWCt2yB24pryzyq2rU6rLn8yqZe2mrxsJl">https://www.facebook.com/CambridgePolice/posts/pfbid027e1x9n6tt7ptBYiYNwW71f3QFrYmrhohWCt2yB24pryzyq2rU6rLn8yqZe2mrxsJl</a>
         `,
@@ -291,7 +304,7 @@ d_bios = [
         middleName: "",
         familyName: "",
 
-        title: `Feminist and lesbian rights organization<Br>Formed in the late 1950s`,
+        title: `Feminist and lesbian rights organization<br>Formed in the late 1950s`,
         birthDate: "",
         birthLocation: "",
         deathDate: "",
@@ -301,18 +314,22 @@ d_bios = [
             chapter of one of the first lesbian rights organizations formed in
             San Francisco by Del Martin, Phyllis
             Lyon, and six other women. <br><br>
+
             It was created initially to provide an alternative
             to the gay bar scene. Bilitis was the fictional lesbian lover of Sappho as described
             in the poetry of Pierre Lou&yuml;s in <em>Songs of Bilitis</em> (1894). The &#8220;Daughters
             of Bilitis&#8221; name was intended as a sly reference to conservative organizations
-            like the Daughters of the American Revolution and other similar groups. <Br><Br>The DOB
+            like the Daughters of the American Revolution and other similar groups. <br><br>
+            
+            The DOB
             achieved national prominence during the 1950s and 1960s, but split over disagreements
             in the 1970s about whether it should support gay rights or feminism. During its
             heyday, it had chapters throughout the US and Australia. Between 1959 and 1972,
             the DOB
             published a national newsletter, <em>The Ladder</em>. The Cambridge chapter of DOB held meetings at
             the Old Cambridge Baptist Church at 1151 Massachusetts Avenue well in to the 1990s.
-            <Br><blockquote>
+            
+            <blockquote>
             "The heart of the organization was supporting lesbians in a safe place, 
             and ultimately they saw that lesbians from different groups needed 
             different kinds of support, so they started these discussion groups - lesbians over 35, 
@@ -321,8 +338,10 @@ d_bios = [
             knowing what to do if there were any problems within the groups, and these went on for
              as long as the Daughters of Bilitis Boston-Cambridge chapter existed, which was about
               30 years."<br><br>
+
               <i>- Sarah Boyer, author of “Coming Out, Becoming Ourselves: Lesbian Stories from the Boston Daughters of Bilitis, 1969-1999.”</i>
               </blockquote>
+
               <br>Among the notable women
             who joined the organization were the playwright, Lorraine Hansberry, and the
             activist,
@@ -333,8 +352,8 @@ d_bios = [
         references: `Gallo, Marcia M. <em>Different Daughters: A history
                 of the Daughters of
                 Bilitis and the Birth of the Lesbian Rights Movement</em>, Carroll &amp; Graf, 2006.<br>
-                <i>Cambridge Day</i>, October 31, 2024. <Br>
-                Interview with Sarah Boyer:<Br>
+                <i>Cambridge Day</i>, October 31, 2024. <br>
+                Interview with Sarah Boyer:<br>
                 <a class='indent' href="https://www.cambridgeday.com/2024/03/31/sarah-boyers-coming-out-becoming-ourselves-takes-daughters-from-secret-society-to-acceptance/">https://www.cambridgeday.com/2024/03/31/sarah-boyers-coming-out-becoming-ourselves-takes-daughters-from-secret-society-to-acceptance/</a><br>
                 <i>Cambridge Chronicle</i> October 30, 1981, 5 April 1984, 11 November 1993.
 
@@ -383,6 +402,7 @@ d_bios = [
             Children&rsquo;s Task Force, that promotes healthy eating, increased physical activity for kids, gardens in
             all elementary schools and school wellness policies. The Task Force was an early and successful initiative
             for its time. <br><br>
+
              In 1994, Davis was elected to the Cambridge City Council, and served eight terms,
             including two as the City&rsquo;s Vice Mayor. Davis worked on a wide range of issues, especially city
             livability and environmental sustainability. Her efforts resulted in Cambridge&rsquo;s adoption of a Green
@@ -391,6 +411,7 @@ d_bios = [
             (NLC), as Chair of the NLC Energy, Environment and Natural Resources Committee and the NLC University
             Community Council, and as Board member for the International Council for Local Environmental Initiatives
             (ICLEI). <br><br>
+
              Davis was elected the Mayor of the City of Cambridge in 2012, serving for two
             years. During her term, Davis focused on pedestrian and bicycling safety, neighborhood preservation, housing
             and issues especially important to children and seniors. Continuing her work from her early years on the
@@ -399,7 +420,9 @@ d_bios = [
             from city government, Davis continues to be an advocate for environmental issues, as a board member for the
             Mass Climate Action Network, the USGBC-MA, the green building council, and the Institute for Market
             Transformation, a national organization promoting energy efficiency in buildings. Davis also attended the
-            Paris Climate Talks in 2015. <br><br>Davis divides her time between sustainability and artistic ventures, including
+            Paris Climate Talks in 2015. <br><br>
+            
+            Davis divides her time between sustainability and artistic ventures, including
             drawing, watercolor painting and printmaking.
         </p>
        
@@ -409,9 +432,9 @@ d_bios = [
         references: `
             Henrietta Davis website bio:<br>
             <a  class='indent'  href="http://www.henriettadavis.org">http://www.henriettadavis.org</a> <br>
-            Oral history interview with Henrietta Davis:<Br>
+            Oral history interview with Henrietta Davis:<br>
             <a class='indent' href="https://infinitehistory.mit.edu/video/henrietta-davis">https://infinitehistory.mit.edu/video/henrietta-davis</a> <br>
-            Board Member Bio, ICLEI website.<Br>
+            Board Member Bio, ICLEI website.<br>
                         Photo credit: Richard Bock.
 
         `,
@@ -444,13 +467,16 @@ d_bios = [
                 New Harmony Sisterhood Band, a feminist folk five-member string band. Deihl was born in Asheville, North
                 Carolina to Martha &ldquo;Polly&rdquo; Deihl and Rev. R. Irving Deihl, and spent her childhood in New
                 York state. Both her parents were singers and performers, and Deihl&rsquo;s mother received numerous
-                awards recognizing her service to her community. <br><br>Deihl moved to Boston to study music history and
+                awards recognizing her service to her community. 
+                
+                <br><br>Deihl moved to Boston to study music history and
                 education at Boston University, where she earned a bachelor&rsquo;s degree. She received a
                 master&rsquo;s degree in feminism and folk music from Cambridge-Goddard School for Social Change and a
                 certificate in publishing and communications from Harvard University.
                 Deihl worked for 30 years at Harvard&rsquo;s Tozzer Library. She died tragically in a bike accident in
                 Cambridge, just as she began her retirement. Her brother David Deihl survives her, as well as nieces and
                 nephews and cousins. <br><br>
+
                  Deihl wrote songs, essays, parodies and poems, transcribed folk music,
                 contributed frequently to the Boston Globe&rsquo;s letters to the editor, was published on WBUR&rsquo;s
                 Cognoscenti and kept a daily diary. Her publications, as writer, co-author and editor, include All Our
@@ -461,6 +487,7 @@ d_bios = [
                 Library on the the History of Women in America at the Radcliffe Institute for Advanced Study. Her
                 writings for the Bisexual Resource Center are now part of the Northeastern University Libraries Archives
                 and Special Col-lections. <br><br>
+
                  In 1973, Deihl co-founded The New Harmony Sisterhood Band with Deborah
                 Silverstein while students at Goddard-Cambridge Graduate School for Social Change. The group produced
                 several records and regularly performed at gay and lesbian marches and rallies, women&rsquo;s
@@ -472,19 +499,21 @@ d_bios = [
                 Songs on that album include &ldquo;Union Maid&rdquo;, &ldquo;Cotton Mill Girls&rdquo; and
                 &ldquo;Ballad&rdquo;. &ldquo;Union Maid&rdquo; appeared on HBO&rsquo;s 8th episode of the show
                 &ldquo;Enlightened&rdquo; featuring Laura Dern. <br><br>
+
                  Deihl loved folk music, gospel and union hymns. She sang in the choir of
                 the Old Cambridge Baptist Church and she performed on guitar and mandolin and sang in several other
                 bands, including the Bunker Mountain Fiddlers, Otis Grove, Cowfolks&rsquo; Dream, the Oxymorons and the
                 Raisinettes. Deihl also taught music in history workshops, such as &ldquo;Songs of Social Justice&rdquo;
                 and &ldquo;Women&rsquo;s History Through Song,&rdquo; and was known locally for hosting &ldquo;Bizarre
                 Song Parties&rdquo; at her home. She lived on Jefferson Street in Cambridge.<br><br>
+
                  Deihl was a longtime member and supporter of many social justice and
                 community organizations, including the Harvard Union of Clerical and Technical Workers, the Old
                 Cambridge Baptist Church&rsquo;s racial justice committee, the Cambridge Peace Commission, the Bisexual
                 Resource Center, the People&rsquo;s Music Network and an early member of the Cambridge Women&rsquo;s
                 Heritage Project. She co-founded the Boston Bisexual Women&rsquo;s Network and was a volunteer and
                 supporter of the Theater Offensive, a LGBTQ theater company. Additionally, she performed for many
-                Cambridge organizations throughout her career. <br><br>
+                Cambridge organizations throughout her career.
                 `,
         otherNotes: "",
         references: `
@@ -494,7 +523,7 @@ d_bios = [
                 <br>
                 Deihl, Marcia. Papers of Marcia Deihl, 1965-2011 (inclusive). Schlesinger Library on the History of
                 Women in America, Radcliffe Institute for Advanced Study, 2009-M153, 2016-M80. Web. 31 March 2019:
-               <Br><a class='indent' href="http://id.lib.harvard.edu/alma/990120776210203941/catalog"
+               <br><a class='indent' href="http://id.lib.harvard.edu/alma/990120776210203941/catalog"
                     >http://id.lib.harvard.edu/alma/990120776210203941/catalog</a>. <br>
                 Ely, Elissa. &ldquo;Marcia Deihl.&rdquo; The Remembrance Project. WBUR. Boston, Massachusetts. July 7,
                 2015. Radio: <br><a class='indent'
@@ -506,15 +535,15 @@ d_bios = [
                 Center for Folklife and Cultural Heritage. Web. 31 March. 2019:<br><a class='indent'
                     href="https://folkways.si.edu/new-harmony-sisterhood-band/and-aint-i-a-woman/african-american-music-folk-struggle-protest/album/smithsonian"
                     >https://folkways.si.edu/new-harmony-sisterhood-band/and-aint-i-a-woman/african-american-music-folk-struggle-protest/album/smithsonian</a>.
-                <Br>Smithsonian Center for Folklife and Heritage, <i>Paredon Records collection (Archivo
-de Paredon Records), circa 1964-2007</i>:<br><a class='indent' href="https://sirismm.si.edu/EADpdfs/CFCH.PARE.pdf"
+                <br>Smithsonian Center for Folklife and Heritage, <i>Paredon Records collection (Archivo
+                de Paredon Records), circa 1964-2007</i>:<br><a class='indent' href="https://sirismm.si.edu/EADpdfs/CFCH.PARE.pdf"
                     >https://sirismm.si.edu/EADpdfs/CFCH.PARE.pdf</a>. <br>
                 Seligson, Susan. &ldquo;The Good Life of Marcia Deihl.&rdquo; <em>Bostonia</em>. Winter Spring, 2016:
                <br><a class='indent' href="http://www.bu.edu/bostonia/winter-spring16/marcia-deihl-cambridge/"
                     >http://www.bu.edu/bostonia/winter-spring16/marcia-deihl-cambridge/</a>.</span><br>
                  Photo
                 by Betsy Sowers<br>
-                 Photo courtesy of Deborah Silverstein. <Br>
+                 Photo courtesy of Deborah Silverstein. <br>
                  <i>Cambridge Chronicle</i>, 2 November 1995
         `,
         photos: [
@@ -552,12 +581,12 @@ de Paredon Records), circa 1964-2007</i>:<br><a class='indent' href="https://sir
             schools and in 1846, married a Baptist Minister Rev. Charles Wheeler Denison,
             editor of the <em>Emancipator</em>, the first antislavery journal in New York.
             When her husband became an assistant editor to the <em>Boston Olive Branch</em>,
-            the journal published her first written piece. <br><br>In 1847, she published her first
+            the journal published her first written piece. 
+            
+            <br><br>In 1847, she published her first
             novel, <em>Edna Etheril, The Boston Seamstress</em>, which was a success. During
             her lifetime, she was prolific, publishing over eighty novels, writing under the pen names
             of N. I. Edson and Clara Vance. She also crusaded against alcohol in her book,
-            
-
             <em>Gertrude Russel</em> (1849), published by the American Baptist Publication
             Society. Her novels, written in a lively style with colorful dialogue often
             depicted poor and struggling individuals overcoming temptations, concluding
@@ -566,13 +595,17 @@ de Paredon Records), circa 1964-2007</i>:<br><a class='indent' href="https://sir
                 Wife of Mine</em> (1877) and <em>Cracker Joe</em> (1889) she endorsed conservative
             religious and social ideas, but did so with humor. Denison also contributed
             on a continuous basis to a number of popular periodicals, principally <em>Frank
-                Leslie's Monthly</em>, <em>Harper's Weekly</em>, the <em>People's
-                Home Journal</em>, and <em>Youth's Companion</em>. <br><br>During the last two
+            Leslie's Monthly</em>, <em>Harper's Weekly</em>, the <em>People's
+            Home Journal</em>, and <em>Youth's Companion</em>. 
+            
+            <br><br>During the last two
             years of the Civil War, her husband was a hospital chaplain in Washington D.
             C. and Mary served as a volunteer nurse. Soon after, the couple went to England
             where he wrote articles in defense of the Northern cause and later edited an
             American newspaper. In 1867 they returned to Washington where they lived for
-            many years. <br><br>After his death in 1881, she remained at her home in Baltimore.
+            many years. 
+            
+            <br><br>After his death in 1881, she remained at her home in Baltimore.
             Fourteen months before her death she came back to Cambridge to live in the house
             of her brother Dr. R. R. Andrews, where she died.`,
         otherNotes: "",
@@ -619,7 +652,7 @@ de Paredon Records), circa 1964-2007</i>:<br><a class='indent' href="https://sir
             with Robert Lowell. She first worked as a journalist on the <em>Medford Mercury</em>
             and then in New York City. She married James Dalley, with whom she had two daughters. By 1988, she was living in Cambridge.
 
-            <br><Br>
+            <br><br>
             Diana Der-Hovanessian is the author of twenty-three books of poetry and translations
             and has received numerous awards from the National Endowment for the Arts, the
             Poetry Society of America, the National Writers Union, and PEN-Columbia Translation
@@ -627,7 +660,7 @@ de Paredon Records), circa 1964-2007</i>:<br><a class='indent' href="https://sir
                 Review</em>, <em>Nation</em>, <em>Partisan Review</em>, <em>American Scholar</em>,
             <em>New York Times</em>, <em>Poetry</em>, and <em>AGNI Magazine</em>. Recently,
             Garrison Keillor has read poems from her books on the radio on his 'Writer's
-            Almanac' on National Public Radio. <br><Br>
+            Almanac' on National Public Radio. <br><br>
 
             She taught workshops in translation, poetry of
             human rights, at various universities and at the Boston Globe Book Festival.
@@ -637,15 +670,17 @@ de Paredon Records), circa 1964-2007</i>:<br><a class='indent' href="https://sir
             started the summer poetry reading festivals at the Longfellow house on Brattle
             Street. She received awards from the PEN International and Writers Union of America,
             NEA, National Writers Union, Paterson Poetry Center, Prairie Schooner, American Scholar,
-            the Armenian Scholar, and the Armenian Ministry of Culture.<br><br>She died in Cambridge, Massachusetts in 2018.`,
+            the Armenian Scholar, and the Armenian Ministry of Culture.<br><br>
+            
+            She died in Cambridge, Massachusetts in 2018.`,
         otherNotes: "",
         references: `
             Sally Cragin, &#8220;Worcester-born poet Diana Der-Hovanessian visits the old
-            neighborhood,&#8221.<Br>
+            neighborhood,&#8221.<br>
             <em>The Worcester Phoenix</em>, November 12 - 19, 1999.<br>
             McIntire, D. <em>International Who's Who in Poetry and Poets' Encyclopedia</em>,
             Routledge, 2001, p. 139-40.<br>
-            Červená Barva Press interview:<Br>
+            Červená Barva Press interview:<br>
             <a class='indent' href="http://www.cervenabarvapress.com/der-hovanessianinterview.htm">
             http://www.cervenabarvapress.com/der-hovanessianinterview.htm</a><br>
             <i>The Cambridge Chronicle</i>, 9 June 1988.<br>
@@ -678,31 +713,38 @@ de Paredon Records), circa 1964-2007</i>:<br><a class='indent' href="https://sir
             Helene (Rosenbach) Deutsch was born in Przemysl,
             Poland to Wilhelm and Regina Rosenbach. As a young girl she wrote for the local
             newspaper and planned to attend university against the wishes of her family.
+            
             <br><br>In 1910, she went to study medicine in Munich, graduating with a Doctorate in
             Medicine in 1912. That same year, she married a physician, Felix Deutsch. Soon
             after, she began to work at the Vienna Psychiatric Clinic under Julius Wagner-Jauregg,
             and then went to Munich to study with Emil Kraepelin. After a series of miscarriages,
             she had one son, Martin in 1917. During her studies in Munich, she had read
             Sigmund Freud's <em>Interpretation of Dreams</em> which determined her
-            to become a psychoanalyst.<br><br>In 1916, she began to work with Freud, first attending
+            to become a psychoanalyst.
+            
+            <br><br>In 1916, she began to work with Freud, first attending
             his Wednesday night meetings, then joining his Vienna Psychoanalytic Society
             two years later. She was one of the first women to join and one of the first
             women to be analyzed by Freud. 
-            
-
             From 1925 to 1933, Deutsch was director of Freud's
             Vienna Psychoanalytic Clinic that trained psychoanalysts. She published her
             first book, <em>The Psychology of Women's Sexual Functions</em>, the first psychoanalytic
-            study of women by a woman. <br><br>With the rise of Hitler in 1934 and the take-over
+            study of women by a woman. 
+            
+            <br><br>With the rise of Hitler in 1934 and the take-over
             of Austria the following year, Helene Deutsch, with her son, fled Austria for
             the United States. When her husband joined her the next year, they settled in
             Cambridge, Massachusetts where she lived for the rest of her life (in 1963, she was living at 44 Larchwood 
             Drive across from Fresh Pond). She became
             an Associate Psychiatrist at the Massachusetts General Hospital and an active
             member of the Boston Psychoanalytic Society, publishing a two volume book on
-            women's psychology, <em>The Psychology of Women</em> (1944-45). <br><br>In 1964, Deutsch's
+            women's psychology, <em>The Psychology of Women</em> (1944-45). 
+            
+            <br><br>In 1964, Deutsch's
             husband, Felix, died . She continued to live an active professional life, publishing
-            an interesting memoir <em>Confrontations with Myself.</em> (1972). <br><br>She died
+            an interesting memoir <em>Confrontations with Myself.</em> (1972). 
+            
+            <br><br>She died
             in 1982 in Cambridge at the age of 97. Her papers, including some correspondence
             with Freud, are deposited at Schlesinger Library.`,
         otherNotes: "",
@@ -757,8 +799,7 @@ de Paredon Records), circa 1964-2007</i>:<br><a class='indent' href="https://sir
             returned to America to live quietly on the income left to her upon the death
             of her grandmother. Three years later, when a Harvard Divinity student asked
             her to teach Sunday school classes for women at the East Cambridge House of
-            Correction she discovered that some women were incarcerated simply
-    because they were mentally
+            Correction she discovered that some women were incarcerated simply because they were mentally
             ill. Dix began to publicly expose the deplorable conditions in which both prisoners
             and the mentally ill were housed. With the support
             of Boston social reformers, such as Senator Charles Sumner and his close friends
@@ -775,30 +816,33 @@ de Paredon Records), circa 1964-2007</i>:<br><a class='indent' href="https://sir
             describing the appalling conditions. Altogether, Dix inspired the establishment
             of 32 state hospitals and 120 private and county hospitals. She expanded her
             survey to the prisons and published a book <em>Remarks on Prisons and Prison
-                Discipline in the United States</em> (1845). 
-                <br><br>
-                Dix was mentioned in an 1860 Dowse Institute lecture on "Modern Infidelity"
-                <blockquote>
-                "Men like Martin Luther, and John Howard, women like Dorothea Dix, who 
-                every where fight against the sins that eat out the heart of the world, who care 
-                for the orphan, the abandoned, the wretched, and they fallen -- they are religious, 
-                they are Christians."
-                </blockquote>
-                
+            Discipline in the United States</em> (1845). 
+            
+            <br><br>
+            Dix was mentioned in an 1860 Dowse Institute lecture on "Modern Infidelity"
+
+            <blockquote>
+            "Men like Martin Luther, and John Howard, women like Dorothea Dix, who 
+            every where fight against the sins that eat out the heart of the world, who care 
+            for the orphan, the abandoned, the wretched, and they fallen -- they are religious, 
+            they are Christians."
+            </blockquote>
                 
                 During the Civil War, she was named
             superintendent of army nurses and caused controversy when she excluded those
             attached to religious orders or anyone under thirty. After the war, she continued
-            to visit hospitals, expanding her surveys to the South. <br><br>She died in New Jersey,
+            to visit hospitals, expanding her surveys to the South. 
+            
+            <br><br>She died in New Jersey,
             at the age of eighty-five and was buried in Mount Auburn Cemetery,
             Cambridge.`,
         otherNotes: "",
         references: `Ogilvie, Marilyn and Joy Harvey. <em>Biographical
                 Dictionary of Women Scientists</em>. Routledge Press, 2000.<br>
             <em>Notable American
-                Women</em> (1950) Vol I.<Br>
+                Women</em> (1950) Vol I.<br>
     
-            Photo of Dorothea Lynde Dix from wikipedia.com:<Br>
+            Photo of Dorothea Lynde Dix from wikipedia.com:<br>
             <a class='indent' href="https://en.wikipedia.org/wiki/Dorothea_Dix#/media/File:Dorothea_Dix_1802%E2%80%931887.jpg">https://en.wikipedia.org/wiki/Dorothea_Dix#/media/File:Dorothea_Dix_1802%E2%80%931887.jpg</a>
         
         <br><i>The Cambridge Chronicle</i>, 4 February 1860.
@@ -835,20 +879,26 @@ de Paredon Records), circa 1964-2007</i>:<br><a class='indent' href="https://sir
             She is a professor of sculpture at the Rhode Island School of Design. Driscoll
             is known for elaborate projects including, in SoHo, Manhatten, a huge installation
             of mechanized sculptures inspired by the 19th-century medical conception of
-            hysteria, &quot;Passionate Attitudes,&quot; (1995).<br><br> She has designed a prize-winning
+            hysteria, &quot;Passionate Attitudes,&quot; (1995).
+            
+            <br><br> She has designed a prize-winning
             public art work, &#8220;Filament/ Firmament,&#8221; scheduled to be installed
             in the new Cambridge Public Library and designed to be two stories high. It
             will honor the contributions of women to the life of the city and explores the
             theme of weaving, a universal activity that links together women of every culture.
             She lived in Cambridge for a number of years but moved in 2007 and now resides
-            in Brooklyn, New York. <br><br>
+            in Brooklyn, New York. 
+            
+            <br><br>
             Her other public art has included a suite of glass
             and mosaic murals for the New York City subway system and a glass work titled
             &quot;As Above, So Below&quot; for Grand Central Terminal, intended to express
             cosmological theories, the movement of the sun, moon, and stars as drawn from
             beliefs of various cultures. She has held fellowships from the Guggenheim, National
             Endowment for the Arts, the Massachusetts Cultural Council, and Radcliffe Bunting
-            Institute, among others. <br><br>Her work is included in a variety of museum collections
+            Institute, among others. 
+            
+            <br><br>Her work is included in a variety of museum collections
             including the Metropolitan Museum and Whitney Museum. `,
         otherNotes: "",
         references: `
@@ -890,23 +940,22 @@ de Paredon Records), circa 1964-2007</i>:<br><a class='indent' href="https://sir
             War II, she worked with the Office of Strategic Services as research chief
             of the Indonesia Section.and then with the State Department (1943-1949). 
             
-            <br><br>In
-            
-
-            1954, she was offered the Radcliffe College Zemurray Professorship and taught
+            <br><br>In 1954, she was offered the Radcliffe College Zemurray Professorship and taught
             in the Department of Anthropology and the Department of Social Relations at
             Harvard until 1970, becoming the second woman to be tenured at Harvard. She lived at 20 Coolidge Hill Road,
             across from the Mt. Auburn Cemetery. Her
             field work continued in both Indonesia and India, where she studied sociocultural
             change at an Indian temple city and supervised a number of Harvard doctoral
             theses. In 1970, she retired from Harvard and went to Cornell where she remained
-            for five years as Professor-at-large. <br><br>She returned to Brookline at the end of
+            for five years as Professor-at-large. 
+            
+            <br><br>She returned to Brookline at the end of
             her life where she died at the age of 88.`,
         otherNotes: "",
         references: `
             Ogilvie, Marilyn and Joy Harvey. Biographical Dictionary
-            of Women Scientists. Routledge Press, 2000.<Br>
-            <i>Cambridge City Directory</i> 1968.<Br>
+            of Women Scientists. Routledge Press, 2000.<br>
+            <i>Cambridge City Directory</i> 1968.<br>
             <i>Massachusetts Death Index</i>, 1970-2003.
 
         `,
@@ -939,7 +988,9 @@ de Paredon Records), circa 1964-2007</i>:<br><a class='indent' href="https://sir
             of California, Berkeley where she studied literature to the level of the PhD.
             During the 1964 Free Speech movement on the Berkeley campus, she first taught
             writing on behalf of the cause of social justice. She came to Cambridge in 1967.
-            She was married for ten years, divorcing in 1977. <br><br>After teaching for ten years
+            She was married for ten years, divorcing in 1977. 
+            
+            <br><br>After teaching for ten years
             at UMass Boston, she began, in 1980, to teach writing as a lecturer in the Urban
             and Planning Department at MIT. In 1990, she encouraged Cambridge residents
             to join in the Bigfoot Memorial Ride in commemoration of the centennial of the
@@ -947,12 +998,15 @@ de Paredon Records), circa 1964-2007</i>:<br><a class='indent' href="https://sir
             to teach at the Department of Urban and Environmental Policy and Planning at
             Tufts where she has continued to introduce students to her writing techniques.
             <br><br>
+
             Dedicated to Buddhist peace missions, Louise was
             a key organizer for the Interfaith Pilgrimage of the Middle Passage when it
             came to Boston and Cambridge in 1998. She participated in the pilgrimage, for
             which she walked about one thousand miles. In the same spirit she helped organize
             local routes for the justice and peace Buddhist sponsored Walks for a New Spring.
-            <br><br>She has written for many periodicals including the American Friends Service
+            <br><br>
+            
+            She has written for many periodicals including the American Friends Service
             Committee's <em>PeaceWork</em> and the Buddhist Peace Fellowship's, <em>Turning
                 Wheel</em>. Her book on writing for social change: <em>Undoing the Silence:
                 Six Tools for Social Change Writing</em> was published in November 2007 by New
@@ -979,7 +1033,7 @@ de Paredon Records), circa 1964-2007</i>:<br><a class='indent' href="https://sir
             &#8220;Hiroshima Flame at New York's Ground Zero&#8221; <em>PeaceWork</em>,
             September 2002.<br>
             Vanessa E. Jones &quot;The way of oneness&quot;.<br>
-            <em>Boston Globe</em> April 19, 2006.<Br>
+            <em>Boston Globe</em> April 19, 2006.<br>
             Undoing Silence website:<br>
             <a class='indent' href="http://www.undoingsilence.org">http://www.undoingsilence.org</a>
         `,
@@ -1015,10 +1069,14 @@ de Paredon Records), circa 1964-2007</i>:<br><a class='indent' href="https://sir
             Boston as a member of the Massachusetts Bay Company, through which he obtained
             a two hundred acre farm near Boston. He returned to England in 1638 to bring
             over his family, which included Elizabeth, their three children, and another
-            two children from his previous marriage. <br><br>The family brought with them a printing
+            two children from his previous marriage.
+            
+            <br><br>The family brought with them a printing
             press and other supplies. Also on board was Stephen Daye, a locksmith by trade
             who was contracted to Glover, and Daye's family. Unfortunately, Joseph Glover
-            died on their ocean voyage of a fever in 1638. <br><br>
+            died on their ocean voyage of a fever in 1638. 
+            
+            <br><br>
             Elizabeth.Glover, with the approval of local magistrates and elders, set up
             the
             printing press in Cambridge and settled in a house in close proximity to Harvard
@@ -1027,7 +1085,9 @@ de Paredon Records), circa 1964-2007</i>:<br><a class='indent' href="https://sir
             books in the colonies, <em>The Whole Book of Psalmes</em>, <em>The Liberties
                 of the Massachusetts
                 Colonies in New England</em> (now in the Boston Athenaeum), and the <em>Almanack</em> for the
-            Years of <em>1639</em>, <em>1640</em>, and <em>4161</em>. <br><Br>
+            Years of <em>1639</em>, <em>1640</em>, and <em>4161</em>.
+            
+            <br><br>
             In 1641, Elizabeth Glover married Henry Dunster, president of Harvard from
             1640-1654,
             who took over the supervision of the printing business upon her death in 1643.

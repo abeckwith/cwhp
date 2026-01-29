@@ -21,7 +21,7 @@ m_bios = [
             able to study for her BS degree in Nursing at St. Anselm's College in
             Manchester, New Hampshire. 
             
-            <Br><Br>After graduation in 1969, she was assigned to the
+            <br><br>After graduation in 1969, she was assigned to the
             naval hospital in Memphis Tennessee where she cared for injured servicemen returning
             from Vietnam. From there, she was assigned to a hospital in Naples, Italy until
             her release from active service in 1973. <br><br>
@@ -43,6 +43,7 @@ m_bios = [
             medical reservists. From 1997-98, she was assigned to the office of an Assistant
             Secretary of Defense in the Pentagon, where she worked to improve medical and
             dental benefits for military service reservists and retirees. <br><br>
+
             Captain Majors retired from the Navy in March
             2011 and now serves as a volunteer as the Command Ombudsman for the Naval Operations
             Support Center in Quincy, MA. She served as a mentor to countless young
@@ -53,33 +54,42 @@ m_bios = [
             Information Officer for the US Naval Academy to assist the admissions office
             with prospective high school and college students; and as an advisor and support
             staff to the medical department staff and crew of the USS Constitution.<br><br>
+
             Her military awards include the Meritorious Service Medal, the Joint Service
             Commendation Medal, the Navy and Marine Corps Commendation Medal, the Joint
             Service Achievement Medal, Meritorious Unit Commendation, National Defense Service
             Medal, Global War on Terrorism Medal, and the Armed Forces Service Medal.<br><br>
+
             She continued an active civilian life working
             at the South Cove Community Health Center in Boston, an organization that serves
             over 25,000 primarily Asian patients with limited income and resources. Here
             she took on the task of Director of Clinical Operations/Director of Nursing/Emergency
             Preparedness Coordinator, Quality Assurance and Quality Improvement Coordinator,
             and is the Coordinator of the bone density program.<br><br>
+
             Captain Mary Jo Majors was honored in November
             2010 as the &#8220;Outstanding Woman Veteran of the Year&#8221; by the Massachusetts
             Department of Veterans' Services at the State House where Cambridge Mayor
-            David Maher presented her with a City Council resolution and a key to the city.<Br><Br>
+            David Maher presented her with a City Council resolution and a key to the city.<br><br>
+
             In a 2010 interview, Majors talked about her service:
+            
             <blockquote>
             "[W]hy am I so proud to be a veteran? Because I live in Massachusets, a state that believes
              and demonstrates that women veterans are special and unique veterans and we deserve to be 
-             appreciated for our service to our country. <Br><Br>
+             appreciated for our service to our country. <br><br>
+
             "Because I live in the city of Cambridge - North Cambridge particularly - a city that honors
              and pays tribute to all of its veterans by holding an annual ceremony on Veterans Day.<br><br>
+
             "Because I'm the daughter of a veteran, my Irish immigrant father willingly served his country
              in the Army during World War II.
-            <br><Br>
+            <br><br>
+
             "Because I'm in the U.S. Navy and I'm one of the 4,000 Navy nurses that are serving in active
              duty or in the reserves, in the United States or in Iraq or Afghanistan or other  countries."
             </blockquote>
+
             Captain majors was recognized as the &quot;2012 Alumni Humanitarian of the Year&quot;
             by St. Anselm College in Manchester, New Hampshire and by the Boston Red Sox
             as an outstanding military service member in June of 2012. The Massachusetts
@@ -97,8 +107,8 @@ m_bios = [
             <a href="https://www.youtube.com/watch?v=MnTlRJ6UBpc" >https://www.youtube.com/watch?v=MnTlRJ6UBpc</a> <br>
             St. Ansel Alumni Awards description.
             <br>
-            <a href="https://www.ahernfoundation.org/">https://www.ahernfoundation.org/</a>.<Br>
-            <i>Cambridge City Directory</i>, 1961.<Br>
+            <a href="https://www.ahernfoundation.org/">https://www.ahernfoundation.org/</a>.<br>
+            <i>Cambridge City Directory</i>, 1961.<br>
             <i>The Cambridge Chronicle</i>,  18 November 2010.
 
         `,
@@ -121,7 +131,7 @@ m_bios = [
         familyName: "",
 
         title: `History project/feminist walking tour group 
-                <Br>Founded 1970s`,
+                <br>Founded 1970s`,
         birthDate: "",
         birthLocation: "",
         deathDate: "",
@@ -136,10 +146,12 @@ m_bios = [
             Memorial Drive, Cambridge activists were demanding changes locally that were similar to the national
             movement&rsquo;s call for greater access to health and child care, ending the Vietnam War, and condemning
             sexual violence. <br><br>
+
             In Inman Square, a feminist-owned bookstore, a credit union, restaurants, and
             shops became some of the new, essential meeting spaces of the movement. Women who had lived for years in
             different Cambridge neighborhoods were joined in the movement by an influx of women who found Cambridge to
             be a welcoming community.<br><br>
+
             From 2018 to 2020, Kimm Topping, Feminist and Queer History Scholar and Youth
             Educator, researched Cambridge history, conducted interviews with Cambridge feminists, and wrote and
             produced the <em>Mapping Feminist History</em> guidebook. Kimm also organized and led Walking Tours. The
@@ -187,7 +199,9 @@ m_bios = [
             Helen Deane Markham was brought up in Springfield,
             Massachusetts, where she attended the public schools. She graduated from Wellesley College,
             then attended Brown University to pursue a graduate degree in biology, and took
-            her Ph.D. in 1943. <Br><Br>She spent the following year as a lecturer at McGill University
+            her Ph.D. in 1943. 
+            
+            <br><br>She spent the following year as a lecturer at McGill University
             and came to live in Cambridge in 1944 and work in the Department of Anatomy
             at Harvard Medical School. Helen was the first female instructor and later the
             first female professor in the department. She did notable tissue research while
@@ -198,13 +212,17 @@ m_bios = [
             involved in various humanitarian endeavors. While an assistant professor at
             Harvard, her husband was the Progressive Party candidate for state representative.
             <br><br>
+
             Dr. Markham became the victim of McCarthy red-baiting
-            at Harvard in 1953, when she was called before the Jenner Committee, but refused to answer most of the committee's questions. She was
+            at Harvard in 1953, when she was called before the Jenner Committee, but refused to answer 
+            most of the committee's questions. She was
             then denied tenure at Harvard and her position was terminated. She returned
             to Harvard later to work with Professor Alexander Forbes on visual mechanismas
             at the Biological Laboratories. <br><br>
+
             In 1957, Dr. Markham went to the Albert Einstein School
-            of Medicine, where she rose to the rank of full professor (she lived at 387 Harvard Street at the time). She became recognized
+            of Medicine, where she rose to the rank of full professor (she lived at 387 Harvard Street
+             at the time). She became recognized
             as a distinguished histochemist, doing significant work on the adrenal glands
             and ovaries, and publishing 147 journal articles. (Histochemistry is a biological
             science that uses various methods to identify certain cell or tissue structures
@@ -253,10 +271,13 @@ m_bios = [
             1920s, she married Laurence Marshall, a co-founder of Raytheon Corporation,
             and settled in Cambridge, where they lived for many years. While her husband
             worked on magneton tubes used in radar for US and Allied ships during World
-            War II, she helped integrate the Raytheon production lines. <br><br>In 1949, nearing the
+            War II, she helped integrate the Raytheon production lines. 
+            
+            <br><br>In 1949, nearing the
             retirement of her husband from the company, the couple with their two children
             went to study the !Kung, a hunter-gatherer tribe in the Kalahari desert in southern
-            Africa, the trip being sponsored by Harvard's Peabody Museum (they were living at 4 Bryant Street in Cambridge at the time). Lorna began
+            Africa, the trip being sponsored by Harvard's Peabody Museum (they were living at 4 Bryant 
+            Street in Cambridge at the time). Lorna began
             to seriously study anthropology and produce scholarly papers. Lorna's
             teenage son, John, began to film her interviews and eventually became an acclaimed
             anthropological documentary filmmaker. Over a period of two decades, Lorna Marshall
@@ -268,7 +289,9 @@ m_bios = [
             Lorna Marshall spent the last years of her life
             near her daughter in Peterborough, New Hampshire. Schlesinger holds a diary
             of Lorna Marshall that includes planning for dinners, including a manuscript
-            cookbook. Her expedition diaries are held at Peabody Museum, Harvard University.<br>
+            cookbook. Her expedition diaries are held at Peabody Museum, Harvard University.
+            
+            <br>
             <br>Her daughter Elizabeth Marshall Thomas
             also became a serious student of anthropology. Only nineteen when she first
             went with her mother to Africa, Thomas continued her mother's work. As
@@ -281,8 +304,8 @@ m_bios = [
             Elizabeth Marshall
             Thomas, <em>The Old Way, a Story of the First People</em> (2006).<br>
             Book cover from <a href="https://peacefulsocieties.uncg.edu/societies/juhoansi/">
-            https://peacefulsocieties.uncg.edu/societies/juhoansi/</a>.<Br>
-            <i>Cambridge City Directory</i>, 1941.<Br>
+            https://peacefulsocieties.uncg.edu/societies/juhoansi/</a>.<br>
+            <i>Cambridge City Directory</i>, 1941.<br>
             U.S., Social Security Applications and Claims Index, 1936-2007.<br>
             Photo of Marshall from family tree of <i>janmc60_1</i> on ancestry.com:
             <A href="https://www.ancestry.com/mediaui-viewer/tree/47579690/person/322410618877/media/77b16f60-f4db-46fa-8f7f-7adfe79394d1">Link</a>
@@ -306,7 +329,7 @@ m_bios = [
         middleName: "",
         familyName: "",
 
-        title: `One of Seventeen National Feminist Credit Unions<Br>1975`,
+        title: `One of Seventeen National Feminist Credit Unions<br>1975`,
         birthDate: "",
         birthLocation: "",
         deathDate: "",
@@ -319,13 +342,16 @@ m_bios = [
             1980. Loans were made to members based on their need and ability to repay, and members had to be involved
             with one of five selected women&rsquo;s organizations in the area. Deposits to MFFCU were insured for up to
             $40,000 by the National Credit Union Administration.<br><br>
+
             In 1975, the feminist credit unions met to found the Feminist Economic Network
             and the Feminist Economic Alliance, which represented thousands of credit union members across the country.
             Contention among the groups which reflected issues of the feminist movement at the time; while some groups
             wanted to make decisions based on leadership, others wanted full consensus from every member of the group.
             <br><br>
+
             By 1976, MFFCU had 850 local members and had granted $258,000. The credit
             union eventually disbanded (date not available.)<br><br>
+
             Economic Independence: Groups like the Massachusetts Feminist Federal Credit Union
             helped women to obtain loans and financial education. The Boston Women&rsquo;s Fund, which still provides
             grants to community-based organizations, started at 186 Hampshire and supported many local feminists. In
@@ -336,7 +362,7 @@ m_bios = [
             it is hard to run a business built on consensus, especially when the process takes so much time. But many
             white middle class feminists did have time to devote to the process, which was as important as results in
             many of their organizations. Working-class women and mothers could resent the assumption that everyone had
-            free time.&rdquo; (Spain, 2011)<br><br>
+            free time.&rdquo; (Spain, 2011)
             `,
         otherNotes: "",
         references: `
@@ -388,7 +414,9 @@ m_bios = [
             Buck urged Genevieve to run for the Cambridge School Committee after her graduation
             from Radcliffe in 1932. At the age of 21, she ran a campaign in the 1933 primary
             garnering her 11th place in the race with a total of 2,808 votes out of nearly
-            16,000 cast. <br>
+            16,000 cast.
+            
+            <br>
             <br>
             Genevieve was the sole support for her mother, aunt and two sisters. Her income
             financed the Radcliffe education of her sisters Grace and Anne. Due to the Depression,
@@ -406,7 +434,8 @@ m_bios = [
             in 1965. From 1943-1945, she contributed to the study of K-band radar at the
             Radiation Laboratory of M.I.T., working with Edward M. Purcell, who earned the
             Nobel Prize in Physics in 1952.</p>
-        <p>For a brief time after her marriage
+        
+            <p>For a brief time after her marriage
             to fellow physicist William Wallace Mathison (1913-1988), the couple lived in
             California where she worked as a physicist at the Naval Ordnance Test Station
             to improve the guidance system for the Sidewinder missile. She and Mathison
@@ -415,7 +444,8 @@ m_bios = [
             to the east coast to live in Newport, Rhode Island. Genevieve and William both
             worked at the Naval Underwater Ordnance Station. She became the station's
             first female engineer and worked on testing and improving torpedoes.</p>
-        <p>She was the first woman science department
+       
+            <p>She was the first woman science department
             chair at Rogers High School in Newport. When she was in her seventies she was
             elected to the Newport School Committee, a position in which she served from
             1981-1982 and again from 1986-1994. As Secretary of the Newport Engineering
@@ -488,9 +518,12 @@ m_bios = [
         Mazur has shared her passion for poetry and writing in myriad ways.  She was a visiting professor at 
         the graduate writing programs of the University of Houston and the University of California at Irvine.  
         She has also taught creative writing in Boston University's MFA program and was the senior distinguished 
-        writer-in-residence at Emerson College.  In addition, she was chair of the writing committee at the Fine Arts Work Center in Provincetown.<br><br>
+        writer-in-residence at Emerson College.  In addition, she was chair of the writing committee at the Fine Arts
+         Work Center in Provincetown.<br><br>
 
-        Mazur sees Cambridge as having been essential to the direction her life took:<blockquote> "I always say I could start 
+        Mazur sees Cambridge as having been essential to the direction her life took:
+        
+        <blockquote> "I always say I could start 
         an autobiography with '...and then I moved to Cambridge.'  I was just so liking what I was doing. I met lots 
         of poets. And something about that store [Grolier] - it was sort of like a club that you could join by simply
         going in.  I could sit and listen to people talk, or sometimes I might say something, or laugh."  </blockquote>
@@ -542,11 +575,14 @@ m_bios = [
             for three years and established a business training course there. She decided
             to study botany which had always interested her, and attended courses at Radcliffe
             College (then called the &#8220;Harvard Annex&#8221;) and also studied privately
-            in hopes of teaching botany in a woman's college. <br><Br>She also began to publish
+            in hopes of teaching botany in a woman's college. 
+            
+            <br><br>She also began to publish
             articles in the Boston <em>Transcript</em> under the name of &#8220;Jean Kinkaid&#8221;.
             After a bout of illness, she had to drop out of public school teaching but continued
             to write newspaper articles for both the <em>Transcript</em> and the Boston<em>
                 Globe</em> which soon accepted her as a regular journalist. <br><br>
+                
             In October 1887, she married Samuel Merrill, an
             editor at the <em>Globe</em>, and the couple moved to Cambridge (45 Bellevue Avenue) where she continued
             to write for the paper and to participate in community affairs. She was a founding
@@ -554,13 +590,15 @@ m_bios = [
             before the organization. She also served as an officer of the Associated Charities
             of Cambridge and other associations. She was a charter member of the New England
             Women's Press Association for which she was the first secretary and in
-            1891 served as its president. <br><Br>
+            1891 served as its president. <br><br>
+
             In 1894, she started a magazine to further the
             New England kitchen movement in a magazine entitled <em>The New-England Kitchen</em>
             sponsored by the Household Economic Association. She co-edited a new magazine,
             <em>American Motherhood</em> with Dr Mary Wood-Allen that emphasized home-making
             and advice to women in the late 1890s that continued until 1909 or later. 
-            <br><Br>
+            <br><br>
+
             In 1905, she established an insurance company
             in Boston, the American Birth Insurance Company, the first insurance company
             to cover births. She organized the company with other women with the intent
@@ -574,7 +612,7 @@ m_bios = [
                 in America</em>, 1898.<br>
             <em>Blue Book of Cambridge</em>, Cambridge MA, 1904.<br>
             &#8221;Birth Insurance attacked&#8221;<em> New York Times</em>, May 11, 1906.
-            <Br>Image from <a href="https://en.wikipedia.org/wiki/Estelle_M._H._Merrill" >https://en.wikipedia.org/wiki/Estelle_M._H._Merrill</a>
+            <br>Image from <a href="https://en.wikipedia.org/wiki/Estelle_M._H._Merrill" >https://en.wikipedia.org/wiki/Estelle_M._H._Merrill</a>
         <br><i>Cambridge City Directory</i>, 1890.
             `,
         photos: ["images_bios/Estelle_Merrill.png"],
@@ -606,30 +644,38 @@ m_bios = [
                 and then went to Bryn Mawr College, where she studied art history and
                 English literature, graduating in 1927. The following year she studied Italian
                 art in a Smith College seminar that studied in Florence, Northern Italy, Paris,
-                and Central Europe. <br><br>She returned to Cambridge, where she lived for the rest
+                and Central Europe.
+                
+                <br><br>She returned to Cambridge, where she lived for the rest
                 of her life, earning her master's degree from Smith College in 1929. That year
                 she began to work at the Fogg Art Museum as a research assistant under Paul
                 Sachs, preparing a catalogue of his collection of drawings. She soon became
                 an important part of the museum and from 1937 to 1947 her title was Keeper of
                 Drawings.
-                <Br><Br> By 1947 she was named Curator of Drawings, the first woman to be named
+
+                <br><br> By 1947 she was named Curator of Drawings, the first woman to be named
                 curator at the Fogg, retaining this title until her retirement in 1975. She
                 was also an important administrator of the museum. Between 1951 and 1968 (when she was living at
                 1558 Mass. Ave.), she
                 rose from Assistant Director of the Fogg, to Associate Director, then Acting
                 Director. From 1969 to 1971 she served as Director of the Fogg Museum, retiring
                 in 1971, but retaining her position as Curator of Drawings for a further four
-                years. <br><br>She produced a number of important catalogues, including: <em>Drawings
-                    in the Fogg Museum of Art </em>(1940), <em>The Ingres Centennial Exhibition,
-                    1867-1967 </em>(1967), <em>One Hundred Master Drawings, presented in honor of
-                    Paul J. Sachs </em>(1949), and <em>David to Corot: French Drawings in the Fogg
-                    Museum of Art </em>(1996). 
-                    <br><br>
-                Agnes Mongan was visiting professor and visiting
+                years. 
+                
+                <br><br>She produced a number of important catalogues, including: <em>Drawings
+                in the Fogg Museum of Art </em>(1940), <em>The Ingres Centennial Exhibition,
+                1867-1967 </em>(1967), <em>One Hundred Master Drawings, presented in honor of
+                Paul J. Sachs </em>(1949), and <em>David to Corot: French Drawings in the Fogg
+                Museum of Art </em>(1996). 
+                <br><br>
+
+            Agnes Mongan was visiting professor and visiting
                 curator at a number of universities and museums, and was awarded honorary degrees
                 from Smith, Wheaton, Colby, University of Notre Dame, and Boston College. Harvard
                 honored her by opening the Agnes Mongan Center for the Study of Prints, Drawings,
-                and Photographs. She died in Cambridge at the age of ninety-one. <br><br>Her papers
+                and Photographs. She died in Cambridge at the age of ninety-one. 
+                
+                <br><br>Her papers
                 are held in the Harvard Art Museum archives, Harvard University.`,
         otherNotes: "",
         references: `
@@ -677,6 +723,7 @@ m_bios = [
             working during World War I as a laboratory technician in bacteriology
             at an American
             Red Cross hospital in France. <br><br>
+
             Moore interned at Bellevue Hospital and worked
             in the clinics of the obstetrical department of New York State Department of
             Maternity, Infancy and Child Hygiene.
@@ -686,6 +733,7 @@ m_bios = [
             in Rochester. She then taught for a year at Yale Medical School, and then held
             a research position at Cornell Medical School before returning to Cambridge to
             practice. <br><br>
+
             In 1934, she established a successful thirty-year
             private practice in Cambridge and became an active member of the Child Care Association,
             the Head Start Program,
@@ -703,7 +751,7 @@ m_bios = [
             Obituary (as Dorothea Moore Burkhard) <em>AAP</em> (American Academy of Pediatrics) <em>News</em> Vol.
             12 No.
             2 February 1996, p. 25.
-            <Br><i>The Cambridge Tribune</i>, 30 October 1915.
+            <br><i>The Cambridge Tribune</i>, 30 October 1915.
             <br>Photo from findagrave.com: <br><a  class='indent'  href="https://www.findagrave.com/memorial/148150327/dorothea_may_burkhard#view-photo=289204850">
             https://www.findagrave.com/memorial/148150327/dorothea_may_burkhard#view-photo=289204850</a><br>
             <i>Cambridge City Directory</i>, 1950.
@@ -742,6 +790,7 @@ m_bios = [
             York. In 1938 she had a successful show at the Julian Levy Gallery, during which
             some of her paintings sold to the Whitney Museum, the Metropolitan Museum of
             Art, and the Museum of Modern Art. 
+            
             <br><br>In 1940 she and her husband moved to Andover,
             Massachusetts, where he taught art at Phillips Academy, and she began to teach at the nearby
             girls' boarding school, Abbot Academy. The couple had two children. In
@@ -754,6 +803,7 @@ m_bios = [
             Gallery of American Art. In 1970, after her divorce was final, she spent six
             months in Africa. She returned to Cambridge and lectured on art at Harvard and
             MIT and taught at Lesley College's Institute for the Arts and Human Development.
+            
             <br><br>
             In 1980 a film about Morgan's art, &#8220;Light
             Coming Through,&#8221; was produced by Rickie Leacock, the head of the MIT film
@@ -764,11 +814,15 @@ m_bios = [
             Art. Since 1993 the Museum of Fine Arts, Boston, which holds a number of her
             significant paintings, has awarded the Maud Morgan prize yearly to a mid-career
             woman artist. In 1995, at the age of ninety-two, she published an autobiography,
-            <em>Maud's Journey: A Life From Art</em>. <br><br>She died four years later in
+            <em>Maud's Journey: A Life From Art</em>. 
+            
+            <br><br>She died four years later in
             Cambridge. Plans have been made to create an art museum and gallery in her honor
             in the carriage house behind the Agassiz Community Center at 20 Sacramento Street,
-            Cambridge.<Br><br>
+            Cambridge.<br><br>
+
             In a 2017 review of a deCordova Scuplture Park and Museum show, Cate McQuaid says of Morgan:
+            
             <blockquote>
             "Morgan's first piece in the show, the large, yellow, pixelated 'Gold Coast II,' dates to 
             the early 1970s and demonstrates her incisive color sense. Slight variations in tone make 
@@ -784,7 +838,7 @@ m_bios = [
             Maud Morgan, <em>Maud's
                 Journey: A Life From Art</em>.( Berkeley, New Earth Publications) 1995. <br>
            
-        <Br>Image from wikipedia:<Br><a  class='indent'  href="https://en.wikipedia.org/wiki/Maud_Morgan" >https://en.wikipedia.org/wiki/Maud_Morgan</a>.<Br>
+        <br>Image from wikipedia:<br><a  class='indent'  href="https://en.wikipedia.org/wiki/Maud_Morgan" >https://en.wikipedia.org/wiki/Maud_Morgan</a>.<br>
         <i>The Boston Globe</i> "Nevertheless, they persisted: standout New England women painters",
 by Cate McQuaid,, April 12, 2017.    
         `,
@@ -817,34 +871,41 @@ by Cate McQuaid,, April 12, 2017.
             school. She did her undergraduate work at Bryn-Mawr College where she was editor
             and chief of the student paper. She met Robert Frost in 1918 at the college and
             invited him to lecture there when she was a senior in 1920. <br><br>
+
             After
             college Kay married Theodore (Ted) Morrison who was an English and Creative Writing
             professor at Harvard University from 1931 to 1963. The Morrisons originally
             lived on Mason Street in Cambridge. (Parini, p. 303.) In approximately 1939,
             they moved to a house on Walker Street in Cambridge. (Parini p. 328.)<br><br>
+
             Kay
             again met Robert Frost when a colleague of Ted's, Bernard DeVoto,
             brought Frost into the Harvard circle and the Cambridge area. Robert Frost
             and the Morrisons became close friends. Kay, Ted and Robert Frost continued
             their friendship throughout their lifetime. It is said they &#8220;made up
             a family of sorts.&#8221; (Parini, 315).<br><br>
+
             In
-            1938, Robert Frost engaged Kay as his secretary, business manager and typist (Morrison lived at 9 Avon Street in Cambridge at the time).
+            1938, Robert Frost engaged Kay as his secretary, business manager and typist (Morrison lived at 
+            9 Avon Street in Cambridge at the time).
             Kay found working for Frost to be a full-time job and she quit her part-time
             job as a reader at the Atlantic Monthly Press. Frost comments that Kay was
             one of four essential connections in his life. (Parini, p. 353.)<br><br>
+
             Ted
             Morrison was Director of the Bread Loaf Writers' conference at Middlebury
             College from 1932 &#8211; 1955. In the summer of 1939, Frost purchased the
             Homer Nobel Farm in Ripton, Vermont close to the College. During the summers,
             Robert Frost would reside in the cabin on the farm and the Morrison's
             would stay in the farm's main house.<br><br>
+
             Robert
             Frost held Kay in special regard. &#8220;The Silken Tent&#8221; is
             believed by many to have been written for her. It has been documented that &#8220;Never
             Again would Birds' Songs Be the Same&#8221; was written for her. The
             book of poems, A Witness Tree, which won Robert Frost the Pulitzer Prize in
             1943, is dedicated to &#8220;K.M. for her part in it.''<br><br>
+
             The
             Morrison's lost their son, Robert, in a car accident in 1955. (Books
             and Writers, 2002.) Kay's husband Theodore passed away in Amherst, Massachusetts
@@ -880,10 +941,10 @@ by Cate McQuaid,, April 12, 2017.
             <em>Robert Frost Encyclopedia</em>. Westport,
             Conn.: Greenwood Press, 2001. Found 
             <a href="http://books.google.com/books?id=RjZuWeTJpAkC&amp;pg=PA466&amp;lpg=PA466&amp;dq=Robert+Frost+Encyclopedia+Tuten+Zubizarreta" >
-            here</a><br><br>Image courtesty of Middlebury College Special Collections, Middlebury, Vermont<Br><br>
+            here</a><br><br>Image courtesty of Middlebury College Special Collections, Middlebury, Vermont<br><br>
             <i>Cambridge City Directory</i>, 1939<br>
             Birth and death dates from <a href="https://www.findagrave.com/memorial/36546026/kathleen-morrison">
-            https://www.findagrave.com/memorial/36546026/kathleen-morrison</a><Br>
+            https://www.findagrave.com/memorial/36546026/kathleen-morrison</a><br>
 
         `,
         photos: ["images_bios/kay_morrison.png"],
@@ -917,13 +978,17 @@ by Cate McQuaid,, April 12, 2017.
             Holden for the Science Study series. In 1965 she met the distinguished physicist
             and peace activist Philip Morrison at an education program connected with MIT (she was living at 10 Bowdoin Street in 
             Cambridge at the time).
-            The two married and became an inseparable couple. <br><br>When he began to serve <em>Scientific
+            The two married and became an inseparable couple. 
+            
+            <br><br>When he began to serve <em>Scientific
                 American</em> as book editor, Phylis joined him in reviewing children's
             science books for thirty-five years. She also worked with him on the NOVA series
             &#8220;Powers of Ten&#8221; for PBS, and worked on the book that arose from
             that series. The two also collaborated on a later NOVA series &#8220;The Ring
             of Truth&#8221; that aired in 1987, also published as a book. She received the
-            Wheeler prize with her husband from the Boston Museum of Science. <br><br>She died of
+            Wheeler prize with her husband from the Boston Museum of Science. 
+            
+            <br><br>She died of
             cancer in 2002. After Philip Morrison's death in 2005, a website was set
             up to bring together recollections of the couple.`,
         otherNotes: "",
@@ -932,7 +997,7 @@ by Cate McQuaid,, April 12, 2017.
             of First Atom Bomb, Dies&#8221; NY Times, April 26, 2005. <br>
             <a
                 href="http://www.memoriesofmorrison.org/Aboutthissite.htm">www.memoriesofmorrison.org/Aboutthissite.htm</a>
-                <Br><i>Cambridge City Directory</i>, 1968.
+                <br><i>Cambridge City Directory</i>, 1968.
         `,
         photos: [""],
         photoTitles: [],
@@ -962,13 +1027,14 @@ by Cate McQuaid,, April 12, 2017.
       Rosario Morales was an activist, feminist poet, visual artist, and major contemporary
        Puerto Rican author, with an interest in anthropology and radical social science.
 
-            <Br><BR>
+            <br><br>
 
             Morales grew up in New York City speaking Spanish at home with her Puerto Rican immigrant
             parents and her siblings.  She transitioned to English as her primary language while
             attending New York City schools.  She joined the communist party in 1949, where she met Richard 
             (Dick) Levins. 
-            <Br><Br>They married in 1950, and facing the blacklist and Dick's possible drafting
+
+            <br><br>They married in 1950, and facing the blacklist and Dick's possible drafting
             into the Korean War, moved to Puerto Rico in 1951, where they farmed and had two children.
                 In 1956 they returned to New York where Rosario was a visual artist and studied at City
                 College in New York. They returned to Puerto Rico in 1961, where Rosario did oil painting,
@@ -976,7 +1042,7 @@ by Cate McQuaid,, April 12, 2017.
                 and drawing bromeliads, and began studying anthropology in summer programs at the 
                 University of Michigan.
 
-            <Br><BR>
+            <br><br>
 
             The family moved to Chicago in 1967, where Rosario entered the Masters program in 
             Anthropology at the University of Chicago and she and daughter Aurora were active 
@@ -989,20 +1055,20 @@ by Cate McQuaid,, April 12, 2017.
             movements, including the Take Back the Night marches, and did poetry readings 
             and was part of several local writing groups.
 
-            <Br><BR>
+            <br><br>
 
             In 1981, Rosario and Aurora both contributed pieces to <em>This Bridge Called My Back: 
             Writings by Radical Women of Color</em>, edited by Cher'rie Moraga and Gloria Anzald&#250;a, 
             and Morales would soon become a well-known figure among Cambridge feminists and poets.  
 
             
-            <Br><BR>
+            <br><br>
             In the early 1980s, Morales gave regular poetry readings at the feminist bookstore
             New Words in Inman Square as well as at the Jefferson Park Writing Center, 
             Cambridge Poets in the Park, The Art of Black Music and Dance, and at the Strand
             Theatre in Dorchester.  She also did a reading live on WGBH radio for International Women's Day.   
 
-            <Br><BR>
+            <br><br>
 
             In 1986, when Morales was living at 107A Amory Street, she published <i>Getting Home Alive</i> with her daughter Aurora, a groundbreaking 
             collection of multi-genre writing about being Puerto Rican women in
@@ -1010,13 +1076,13 @@ by Cate McQuaid,, April 12, 2017.
             Puerto Rico and the United States. Excerpts have been widely anthologized and 
             are used in textbooks from primary schools to graduate courses.  
 
-            <Br><BR>
+            <br><br>
 
             In 1987, she was one of 18 Massachusetts poets and writers whose work was inscribed
             in granite and installed along the new Orange Line MBTA stations.  In 1990, she 
             was part of the Community Writers series.
 
-            <Br><BR>
+            <br><br>
 
             In the late 1990s she became part of the Women's Community Cancer Project, 
             formed by feminist cancer activists in Cambridge, Boston and Lexington. 
@@ -1029,7 +1095,7 @@ by Cate McQuaid,, April 12, 2017.
             that year, and in 2014 published a collection of her own and Rosario's prose writing,
             <em>Cosecha and Other Stories</em>.   
 
-            <Br><BR>
+            <br><br>
 
             In 2005, Smith College's <em>Voices of Feminism Oral History Project</em> published an 
             extensive interview with Morales, reflecting on all parts of her life and her 
@@ -1045,11 +1111,11 @@ by Cate McQuaid,, April 12, 2017.
         otherNotes: "",
         references: `
           Wikipedia profile:<br><a class='indent' href="https://en.wikipedia.org/wiki/Rosario_Morales" >https://en.wikipedia.org/wiki/Rosario_Morales</a>.
-          <Br>
-        <em>Cambridge Chronicle</em> articles from 1982-1990.<Br>
-        <em>Boston Globe</em> March 4, 1982.<Br>
-       Smith College interview:<br> <a class='indent'  href="https://www.smith.edu/libraries/libs/ssc/vof/transcripts/Morales.pdf" >https://www.smith.edu/libraries/libs/ssc/vof/transcripts/Morales.pdf</a>.<Br>
-       Images source: Aurora Morales. <Br>
+          <br>
+        <em>Cambridge Chronicle</em> articles from 1982-1990.<br>
+        <em>Boston Globe</em> March 4, 1982.<br>
+       Smith College interview:<br> <a class='indent'  href="https://www.smith.edu/libraries/libs/ssc/vof/transcripts/Morales.pdf" >https://www.smith.edu/libraries/libs/ssc/vof/transcripts/Morales.pdf</a>.<br>
+       Images source: Aurora Morales. <br>
        1989 Cambridge Phone Book.
         `,
         photos: [
@@ -1087,8 +1153,11 @@ by Cate McQuaid,, April 12, 2017.
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
            <i>Amy McKay was born and attended school in Cambridge. 
-             <br>After training to be a teacher, Amy worked as a "Computer" and Assistant at the Harvard College Observatory from 1891-1906 .</i>
-             <br><br>Details on Amy's life are outlined in the <b>Women Astronomical Computers at the Harvard College Observatory</b> project:
+             <br>After training to be a teacher, Amy worked as a "Computer" and Assistant at the Harvard 
+             College Observatory from 1891-1906 .</i>
+             <br><br>
+             Details on Amy's life are outlined in the <b>Women Astronomical Computers at the Harvard College 
+             Observatory</b> project:
             <center>
              <h1>
                 <a href="https://platestacks.cfa.harvard.edu/women-at-hco/amy-jackson-mckay" >Amy McKay's story</a>
@@ -1096,7 +1165,7 @@ by Cate McQuaid,, April 12, 2017.
       </center>
         The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" >Women Astronomical Computers at the Harvard College Observatory</a> project is 
         dedicated to highlighting the lives and work of women who spent time studying and caring 
-        for the observatory's glass plate photograph collection.<Br>
+        for the observatory's glass plate photograph collection.<br>
         <center>       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" > <img src="images_bios/harvard-astronomers.png" width='350'></a>
         
         </center>
@@ -1135,27 +1204,28 @@ by Cate McQuaid,, April 12, 2017.
           the Russel elementary school in Cambridge and then Cambridge's Buckingham, Browne and Nichols High 
           School. McCree says that she was hired as the first Black female probation officer to work at the Cambridge District
            Court, Middlesex County, in 1984 and after that the first Black female Assistant Clerk Magistrate
-            at the Cambridge District Court, where she worked for 37 years.<Br><Br>
+        at the Cambridge District Court, where she worked for 37 years.<br><br>
 
             Her father, Ramon McCree, was a World War II and Korean War veteran who was born and raised in 
             Cambridge and attended Cambridge High and Latin School, Tufts University, and MIT Sloan School
-             of Management. Her mother, Corrine Green, who was also born and raised in Cambridge [and] also
-              attended CHLS, and was a devoted mother of five children.<Br><Br>
+            of Management. Her mother, Corrine Green, who was also born and raised in Cambridge [and] also
+            attended CHLS, and was a devoted mother of five children.<br><br>
 
             Robin attended college at Tufts University, where during her first year she interned at the 
             Cambridge District Court Juvenile Probation Department. After getting her degree in Social 
             Psychology and Spanish from Tufts, she attended the MBA program at Boston University, but was
-             unsatisfied with the program and decided to enter the Masters in Management program at Lesley 
-             College. She then returned to court work, accepting a position as an adult probation officer in Cambridge.<Br><Br>
+            unsatisfied with the program and decided to enter the Masters in Management program at Lesley 
+            College. She then returned to court work, accepting a position as an adult probation officer in Cambridge.<br><br>
 
             Her work in the court system was complex. She provided all kinds of legal support to judges, 
              lawyers, police and the public, including issuing search warrants, conducting probable cause 
              hearings, dealing with bail issues, conducting preliminary hearings and dealing with traffic 
              violations. She also served as a bail bondsman. McCree faced many obstacles and barriers as
-              a Black female working in the Cambridge District Court. Still, McCree says it felt good that 
-              she was able to help a lot of people in her position at the court and that she "...came to 
-              understand the concept of mercy and extended mercy to many"
-            <Br><Br>
+            a Black female working in the Cambridge District Court. Still, McCree says it felt good that 
+            she was able to help a lot of people in her position at the court and that she "...came to 
+            understand the concept of mercy and extended mercy to many"
+            <br><br>
+
             Robin has a long history of supporting Cambridge in various volunteer efforts, 
             from running a Tobin School youth group to working for the Election Commission 
             to leading a women's bible study group in her church and serving on the Cambridge 
@@ -1163,7 +1233,9 @@ by Cate McQuaid,, April 12, 2017.
             for the City of Cambridge, was involved in prison ministry work at a Massachusetts 
             women's prison, and ran (with another Cambridge resident), a non-profit holiday shop 
             for kids at the Tobin School that allowed kids to be able to buy gifts for their family members.
-             She recalls that:<blockquote>
+             She recalls that:
+             
+             <blockquote>
             "We wanted kids to experience the joy of being a giver and to bless other people. It was so
              beautiful seeing the kids getting excited about buying things for their family and friends."
              </blockquote>
@@ -1174,12 +1246,12 @@ by Cate McQuaid,, April 12, 2017.
         `,
         otherNotes: "",
         references: ` 
-          Interview with Robin McCree found at the Cambridge Black History Project:<Br> 
-          <a class='indent' href="https://vimeo.com/725359798">https://vimeo.com/725359798</a><Br>
-            LinkedIn profile:<Br>
-            <a class='indent' href="https://www.linkedin.com/in/robin-mccree-51768623/">https://www.linkedin.com/in/robin-mccree-51768623/</a><Br>
-            Photos from BB&N yearbook 1975, Tufts yearbook 1979<Br>
-            <I>Cambridge City Council Meeting minutes</i> December 4, 2023:<Br>
+          Interview with Robin McCree found at the Cambridge Black History Project:<br> 
+          <a class='indent' href="https://vimeo.com/725359798">https://vimeo.com/725359798</a><br>
+            LinkedIn profile:<br>
+            <a class='indent' href="https://www.linkedin.com/in/robin-mccree-51768623/">https://www.linkedin.com/in/robin-mccree-51768623/</a><br>
+            Photos from BB&N yearbook 1975, Tufts yearbook 1979<br>
+            <I>Cambridge City Council Meeting minutes</i> December 4, 2023:<br>
              <a class='indent' href="http://rwinters.com/council/120423.htm">http://rwinters.com/council/120423.htm</a><br>
             Interview with Robin McCree, conducted by Anthony Beckwith, Jan. 9 and Jan. 13, 2026
         

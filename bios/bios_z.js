@@ -20,7 +20,8 @@ z_bios = [
             the organization with the result that he directed the SAC from the 1970s until his death in 1990.
              Dolores took on the roles of instructor, creative director (from 1980), manager, and finally 
              president of Blessed Sacrament Color Guards over a forty year period.
-             <Br><Br>
+             <br><br>
+
             SAC traces its origin back to the 1930's when a local parish, all-female drill team formed in the 
             Cambridgeport area of Cambridge, Massachusetts as a summer activity for young girls. The color guards 
             remained the only surviving all-female color guard in the world until 2001. The youngest groups 
@@ -32,20 +33,21 @@ z_bios = [
                 1989 and 1996 and the World Class Gold Medal and WGI World Championship in 1990. From 1999 though
                 2001, the SAC Juniors won three consecutive Eastern Massachusetts Titles. They placed among the 
                 top ten of the international color guard association, the Winter Guard International (WGI) World Championships.
-            <br><BR>
+            <br><br>
+
                 Dolores Zappala served as President of the Board of Directors of the Winter Guard International 
             for more than a decade, guiding the organization through critical years. She continued as a member
             of the steering committee of the Winter Guard International as well as directing and influencing
             the Cambridge organization.
-References:
+        References:
         `,
         otherNotes: "",
-        references: `From a Sarah Boyer oral interview.<Br>
-        Blessed Sacrament Color Guards:<Br> <a class='indent' href="https://blessedsaccg.com/history/" >https://blessedsaccg.com/history/</a> 
-        (this includes a photograph of the Zappala family)<Br>
+        references: `From a Sarah Boyer oral interview.<br>
+        Blessed Sacrament Color Guards:<br> <a class='indent' href="https://blessedsaccg.com/history/" >https://blessedsaccg.com/history/</a> 
+        (this includes a photograph of the Zappala family)<br>
         World Guard International:
-        <Br> <a class='indent' href="https://www.wgi.org/about-wgi/what-is-wgi/hall-of-fame/" >https://www.wgi.org/about-wgi/what-is-wgi/hall-of-fame/</a>
-        <br><Br>Photo from <i>Cambridge Chronicle</i>, April 11, 1968  .
+        <br> <a class='indent' href="https://www.wgi.org/about-wgi/what-is-wgi/hall-of-fame/" >https://www.wgi.org/about-wgi/what-is-wgi/hall-of-fame/</a>
+        <br><br>Photo from <i>Cambridge Chronicle</i>, April 11, 1968  .
 `,
         photos: ["images_bios/zappala_dolores.png"],
         photoTitles: [],

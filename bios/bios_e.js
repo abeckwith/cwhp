@@ -28,6 +28,7 @@ e_bios = [
             Children's Bureau on a part-time basis while she continued to teach and
             practice at Yale, but moved to Washington when she was appointed to the full
             time position of assistant chief at the bureau. <br><br>
+
             During the Second World War, she studied the effects
             of moving children out of the cities to the countryside in England and published
             a book on the subject. She also headed a federal program, Emergency Maternity
@@ -46,23 +47,25 @@ e_bios = [
             she left the Bureau in 1956, she became chair of the School of Public Health
             at Harvard Medical School until her retirement in 1960, when she was living at 21 Francis Avenue
             in Cambrige, near the Harvard Divinity School. She introduced the use
-            of social workers into public health programs. <br><br>In 1964 the American Public Health
+            of social workers into public health programs. 
+            
+            <br><br>In 1964 the American Public Health
             Association established an annual award in her name to recognize her achievements
             in maternal and child health. In 1972, she was awarded the prestigious Howland
             prize by that organization, the first woman to receive it (at the time, she was living
-            at 21 Francis Avenue in Cambridge). <br><Br>
+            at 21 Francis Avenue in Cambridge). 
            
             `,
         otherNotes: "",
         references: ` Phyllis J. Read and Bernard L. Witlieb, <em>The
                 Book of Women's Firsts</em> (1992); &#8220;Changing the Face of Medicine&#8221;
-            National Library of Medicine web site. <Br>
+            National Library of Medicine web site. <br>
             &nbsp;&nbsp;&nbsp;&nbsp;<a
                 href="http://www.nlm.nih.gov/changingthefaceofmedicine/physicians/biography_99.html" >http://www.nlm.nih.gov/changingthefaceofmedicine/physicians/biography_99.html</a>
-            <Br>Image from wikipedia.com:<br>
+            <br>Image from wikipedia.com:<br>
             <a class='indent' href="https://en.wikipedia.org/wiki/Martha_May_Eliot">https://en.wikipedia.org/wiki/Martha_May_Eliot</a>
              <br>
-             <i>The Cambridge Chronicle</i>, 8 October 1959. <Br>
+             <i>The Cambridge Chronicle</i>, 8 October 1959. <br>
              <i>Cambridge City Directory</i>, 1972 . `,
         photos: ["images_bios/martha_may_eliot.jpg"],
         photoTitles: [],
@@ -113,10 +116,10 @@ e_bios = [
             and her late husband, Frank Louis Evelyn, on June 13, 2009. They had lived at 300 Walden Street
             for many years.`,
         otherNotes: "",
-        references: ` <em>Cambridge Chronicle, </em>January 20, 2005.<Br>
+        references: ` <em>Cambridge Chronicle, </em>January 20, 2005.<br>
             Cambridge Public Library <em>Annual Report</em> FY99.
             <br>Image from <em>Boston Globe</em>, Aug. 17, 2011.<br>
-            <I>Cambridge City Directory</i>, 1972.<Br>
+            <I>Cambridge City Directory</i>, 1972.<br>
             <i>U.S., Social Security Death Index</i>, 1935-2014.
         `,
         photos: ["images_bios/ZelmaEvelyn.png"],
@@ -149,11 +152,14 @@ e_bios = [
             including the demand for a women's center, affordable housing, and child care.
             The event later resulted in a donation of money that was used as down payment
             for a building at 46 Pleasant Street, and the Cambridge
-                Women's Center was founded in 1972. <br><br>Ewing was one of the founders
+                Women's Center was founded in 1972. 
+                
+                <br><br>Ewing was one of the founders
             of the Cambridge Women's Center, and of the Cambridge
                 Women's School that operated for several years out of the Center.
             Before the building takeover, she was active in Bread
-                and Roses, a Boston area women's liberation organization.<br>
+                and Roses, a Boston area women's liberation organization.<br><Br>
+
             Ewing
             has been a labor activist since the mid 1970's, when she was one of the
             organizers of the Boston School Bus Drivers Union (USWA Local 8751). She was
@@ -161,6 +167,7 @@ e_bios = [
             local union president. Following that, she worked for the laundry workers'
             union (LDCIU Local 66), as business agent. She also served as president of that
             local for two years.<br><br>
+
             During the 1980s, Ewing became involved in training
             and educating union members, mostly through the Women's Institute for Leadership
             Development (WILD) an organization whose mission is to give working women, especially
@@ -173,10 +180,12 @@ e_bios = [
             United Association for Labor Education (UALE), the professional association
             of labor educators, and treasurer of the Gay and Lesbian Labor Activists Network
             (GALLAN), and is a member of the Board of WILD. <br><br>
+
             Ewing retired from UMass/Boston in 2012 and lives in Cambridge with her partner of many decades, 
             Louise Rice. Together they have raised two sons: Jethro Rice, who
             is currently living in Vietnam with his wife Kanako Matsumoto; and Dan Rice, 
-            who lives in Maryland with his wife Thulie and two children, Kali and Avery.<br><Br>
+            who lives in Maryland with his wife Thulie and two children, Kali and Avery.<br><br>
+
             After retirement, Ewing hosted a monthly community access TV program on women and work, 
             and has been a part of the Cambridge Committee to Raise the Minimum Wage.`,
         otherNotes: "",
@@ -184,7 +193,7 @@ e_bios = [
             Tess Ewing staff biography (autobiographical statement), College of Public and
             Community Service, UMass Boston.
             <br>
-            Fair Economy profile:<Br>
+            Fair Economy profile:<br>
             <a class='indent' href="https://www.faireconomy.org/board_tess_ewing" >https://www.faireconomy.org/board_tess_ewing</a><br>
             Tess Ewing, personal communication.<br>
         `,
@@ -218,10 +227,10 @@ e_bios = [
         and her father worked as a railroad porter. Dr. Easterling attended the Ellis Grammar School at 
         40 Norris Street and graduated from Cambridge High and Latin High School with honors. 
         
-        <br><Br>Easterling attended
+        <br><br>Easterling attended
         Jackson College for Women, a "coordinate" college of Tufts University, studying pre-medicine. 
         In 1917, she was the first African American woman to be admitted to Tufts University School of 
-        Medicine, and she graduated in 1921.<Br><Br>
+        Medicine, and she graduated in 1921.<br><br>
 
         Dr. Easterling moved to New York to begin her internship at Metropolitan Hospital on Welfare Island, 
         where she received training from New York Medical College faculty. Dr. Easterling began her career 
@@ -229,10 +238,13 @@ e_bios = [
         Dr. Augustus Hinton (a son of freed slaves), helping him with the Hinton test for syphilis. She 
         later worked on tuberculosis research with Dr. John B. West, and their findings were published in
         1939. Dr. Easterling also worked for a time at the Tuskegee Veterans Administration Hospital in
-        Alabama. <Br><Br>
+        Alabama. 
+        
+        <br><br>
         She later returned to Cambridge and was named Director of Laboratories at the Cambridge 
          City Hospital. In 1943, at the age of 45, she was diagnosed with breast cancer. 
-        <Br><Br>Upon her death that same year, she was recognized by the Massachusetts House of Representatives 
+        
+         <br><br>Upon her death that same year, she was recognized by the Massachusetts House of Representatives 
         and the City of Cambridge for her enormous contributions to the community and science. Tufts 
         University School of Medicine continues to celebrate her legacy with a portrait in the Sackler 
         School of Graduate Biomedical Sciences and a scholarship in her name.
@@ -260,7 +272,7 @@ e_bios = [
 
         Find a Grave Online Memorial.
         <br>Retrieved by June 5, 2020: <a href="https://www.findagrave.com/memorial/139844089" >https://www.findagrave.com/memorial/139844089</a>
-<br><Br><b>NOTE: bio written July 2020 - added to site in 2025.
+<br><br><b>NOTE: bio written July 2020 - added to site in 2025.
         `,
         photos: ["images_bios/easterling.png", "images_bios/easterling2.png"],
         photoTitles: [],

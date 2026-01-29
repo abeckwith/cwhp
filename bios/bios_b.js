@@ -15,8 +15,11 @@ b_bios = [
         narrative: `
             In 1985, The Back Porch Dance Company was founded
             as an interracial, intergenerational dance company with members whose ages
-            ranged
-            from over three generations. <br><br>The directors, Joan Green and Vicki Solomon brought
+            ranged from over three generations. 
+            
+            <br><br>
+            
+            The directors, Joan Green and Vicki Solomon brought
             together a group of women and girls for a six-week workshop that evolved into
             the company. During its lifespan, the company included both professional and
             amateur dancers, including Ann Allen, Carol Strickland, Pat Zeigler, Lise
@@ -27,8 +30,11 @@ b_bios = [
             Evelyn Tyner, Rhea Dunn, Sara Reese, Aislinn Macmaster, Dorothy Elizabeth Tucker,
             Euridece Spinola, Carol Ryser, Amy Gerson Stephanie Hope, Jen Schoonover,
             Sally
-            DeAngelis, and Mariah Pisha. They had a space at 41 Second Street in Cambridge.<br><br>
-             In May 2000, the company performed a piece of
+            DeAngelis, and Mariah Pisha. They had a space at 41 Second Street in Cambridge.
+            
+            <br><br>
+            
+            In May 2000, the company performed a piece of
             narrated dance theater at Kresge Auditorium, MIT, &#8220;Celebrating Cambridge
             Women and Work&#8221; honoring the diverse lives of eight working Cambridge
             women that included a curtain folder, biologist, homeless advocate, funeral
@@ -36,28 +42,32 @@ b_bios = [
             home director, welder, library worker, MIT laboratory assistant, and psychiatrist.
             The oldest member of the company , World War II welder, Evelyn Tyner, eighty-two
 
-            years old at the time, was one of the narrators. <br><br>Though the company had built
-            a solid reputation and performed throughout New England, it dissolved in
-            2001,
+            years old at the time, was one of the narrators.
+            
+            <br><br>
+            
+            Though the company had built
+            a solid reputation and performed throughout New England, it dissolved in 2001,
             owing to changes in the lives of the directors. One of the directors, Joan
             Green, went on to teach elders and adults and to dance with the Elder Ensemble
             of Prometheus
             Dance Company, while the other director, Vicki Solomon, completed a Masters
-            Degree in Library Science and began working full time in the Children's
-            Room
-            of the main branch of the Cambridge Public Library.<blockquote>
+            Degree in Library Science and began working full time in the Children's Room
+            of the main branch of the Cambridge Public Library.
+            
+            <blockquote>
 
             "We use the arts as a way for people to express the things they're thinking about,
              or that they're dealing with in their lives...[we present things] based on personal 
-             experiences but brought to a level where everyone can relate to them."<Br>
+             experiences but brought to a level where everyone can relate to them."<br><Br>
             - <i>Executive Director Pat Dixon, October 1993</i></blockquote>
             
             `,
         otherNotes: "",
-        references: ` <em>MIT Tech Talk</em>, May 17 2000. <Br>
+        references: ` <em>MIT Tech Talk</em>, May 17 2000. <br>
         Iris Fanger,
-            &#8220;Women's Work Informs Back Porch Project&#8221<Br> <em>Dance Magazine</em>,
-            May 2000.<Br>
+            &#8220;Women's Work Informs Back Porch Project&#8221<br> <em>Dance Magazine</em>,
+            May 2000.<br>
             <i>Cambridge Chornicle</i> 29 January 1991, 21 October 1993, 17 April 1997.
 
 
@@ -96,25 +106,28 @@ b_bios = [
             to Bryn Mawr College, graduating in its first senior class in 1889. She went
             on to study sociology and went to Paris on a Bryn Mawr fellowship in 1890-1891
             to study economics with Emile Levasseur. As a result, she published her first
-            book, <em>Public Assistance of the Poor in France</em> (1893).<br><br> 
+            book, <em>Public Assistance of the Poor in France</em> (1893).
+            
+            <br><br> 
             
             Balch returned
             to the U.S. to take courses at Harvard and the University of Chicago and spent
             a year studying economics in Berlin from 1895 to 1896. In 1896, she began to
             teach economics and sociology at Wellesley College and was named professor in
-            1913. <br><Br>
+            1913. 
+            
+            <br><br>
             
             The February 10, 1900 Cambridge Chronicle highlighted her talk on "The Economics of Consumption."
             In 1913, the Cambridge Political Equality Association hosted a talk by Balch on "Brief 
             Jottings on Suffrage", where she told them:
+
             <blockquote>
             "The fact that woman does not count politically for a vote has a subtle and deep-reaching 
             effect on her economic status. The working woman and the poor woman need the vote for moral 
             as well as political reasons...The anti-suffragists admit equal suffrage is coming. It is 
             manifest destiny and is but the external evidence of a thing that is gradually accomplishing itself."
             </blockquote>
-
-            
             
             She also was a member of state and municipal commissions studying immigration
             and education. Active in the women's suffrage movement, she also worked
@@ -123,7 +136,10 @@ b_bios = [
             Empire to areas from which they had migrated for a book on the topic that was
             
             published in 1910. Opposed to the First World War, she was fired from Wellesley
-            at the beginning of that war for &#8220;teaching pacifism not economics.&#8221;<br><br>
+            at the beginning of that war for &#8220;teaching pacifism not economics.&#8221;
+            
+            <br><br>
+            
             Balch began to serve as an editor of the liberal
             journal, the <em>Nation</em>, and attended the second International Congress
             of Women in 1919, held in Zurich. There she was designated secretary of the
@@ -136,19 +152,25 @@ b_bios = [
             and edited and was the primary contributor for the report published as <em>Occupied
                 Haiti </em>(1926) that was significant in causing the U.S. to withdraw.
                 
-                <br><br> In the
+                <br><br> 
+                
+                In the
             1930s, with the rise of facism and Nazism, she began to write about the victims
             of persecution. During the Second World War, she published a book of poetry
             and began to write on the need for future internationalization of aviation and
-            waterways. <br><br>
+            waterways.
+            
+            <br><br>
+            
             In 1946, Balch was awarded the Nobel Peace Prize
             for her work for peace and international cooperation. At seventy-nine and in
             frail health, she contributed the prize money awarded to her to WILPF, continuing
             to work with the organization in an honorary capacity. As late as 1949, she
             served as chair of a committee that honored the centenary of the sociologist
             Jane Addams, who had been awarded the Nobel Peace Prize in 1931. 
-            <Br>
-            <Br>In 1957, on her 90th birthday, Balch was living at 8 Dana Street in Cambridge and was honored by the Cambridge Branch 
+            <br>
+            <br>In 1957, on her 90th birthday, Balch was living at 8 Dana Street in Cambridge and was
+             honored by the Cambridge Branch 
             of the Women's International League for Peace and Freedom.
             
 
@@ -156,14 +178,14 @@ b_bios = [
         otherNotes: "",
         references: ` 
             <em>Notable American Women: The Modern Period</em> (1980).<br>
-            NobelPrize.org:<Br>
+            NobelPrize.org:<br>
             <a class='indent' href="http://nobelprize.org/nobel_prizes/peace/laureates/1946/balch-bio.html">http://nobelprize.org/nobel_prizes/peace/laureates/1946/balch-bio.html</a>
             <br>
             Mercedes M. Randall, <em>Improper Bostonian: Emily Greene Balch, Nobel Peace
-                Laureate</em>, 1946, (Twayne Publishers, 1964).<br>
-                Image from wikipedia.com: <Br>
-                <a class='indent' href="https://en.wikipedia.org/wiki/Emily_Greene_Balch">https://en.wikipedia.org/wiki/Emily_Greene_Balch</a><Br>
-                <i>The Cambridge Chronicle</i>, Feb. 10, 1900, May 10 1913, Jan. 3 1957.
+            Laureate</em>, 1946, (Twayne Publishers, 1964).<br>
+            Image from wikipedia.com: <br>
+            <a class='indent' href="https://en.wikipedia.org/wiki/Emily_Greene_Balch">https://en.wikipedia.org/wiki/Emily_Greene_Balch</a><br>
+            <i>The Cambridge Chronicle</i>, Feb. 10, 1900, May 10 1913, Jan. 3 1957.
 
         `,
         photos: ["images_bios/EmilyGreeneBalch.jpg"],
@@ -197,7 +219,11 @@ b_bios = [
             
 
             from Cambridge High School in 1874. She graduated from Cambridge Teachers'
-            Training School the following year.<br><br> When she was unable to find a position in
+            Training School the following year.
+            
+            <br><br> 
+            
+            When she was unable to find a position in
             the Boston area, Baldwin began a teaching career in Charlestown, Maryland. In 1882,
             pressure from the Cambridge African American community resulted in the hiring
 
@@ -205,8 +231,12 @@ b_bios = [
             Street. Seven years later, she was appointed principal of that school, the first
             black woman to be appointed as a principal in Massachusetts. In 1899, she was living at 
             196 Prospect Street. 
-            <Br><br>
-            In August of 1915, The Crisis magazine ran an essay by her, where she stated:<blockquote>
+
+            <br><br>
+            
+            In August of 1915, The Crisis magazine ran an essay by her, where she stated:
+            
+            <blockquote>
             "The profession of teaching has a rich inheritance. These convictions were bequeathed 
             to it, to have and to hold: that the dearest interests of life are in its keeping; that 
             its peculiar service to society is to nourish and perpetuate those noblest aspirations 
@@ -215,6 +245,7 @@ b_bios = [
             </blockquote>
             In 1916,
             when a new, larger school building was built, she was appointed master of the Aggasiz.
+            
             <br><br>
             
             Always interested in new learning, she took many courses at Harvard and other
@@ -224,27 +255,28 @@ b_bios = [
             school in Cambridge was rebuilt in 1995 and on May 21st, 2002, the Cambridge
             School Committee unanimously voted to rename the Agassiz School to the Maria
             L. Baldwin School in her honor. 
-        <Blockquote>
+
+         <Blockquote>
             "...[H]as not each one of us some precious poetical possession, dear from long and 
             tender association? Some lines that perfectly express the intimate experiences of 
             our own souls? Some beautiful verse that springs to our lips in moments of
             spiritual exaltation, or some tender poem of consolation that sends its blessed 
             ministration to our despair? No, it cannot be that the mission of poetry is to 
-            the chosen few."<Br>
+            the chosen few."<br>
 
-        - <i>Excerpt from Baldwin's "The Real Hold of the Poet upon the People", as read to  the Cantabrigia Club, October, 1893</i>
-        </blockquote>
+         - <i>Excerpt from Baldwin's "The Real Hold of the Poet upon the People", as read to  the Cantabrigia Club, October, 1893</i>
+         </blockquote>
 
             `,
         otherNotes: "",
         references: ` <em>Notable American Women</em> (1609-1950) Vol I.<br> 
-        Baldwin school<Br>
+        Baldwin school<br>
         <a class='indent' href="https://baldwin.cpsd.us/">https://baldwin.cpsd.us/</a>
-            <Br>Image from wikipedia<Br>
-            <i>Cambridge City Directory</i>, 1899.<Br>
+            <br>Image from wikipedia<br>
+            <i>Cambridge City Directory</i>, 1899.<br>
             <i>The Cambridge Chronicle</i>, 14 October 1893.
             <br><i>The Crisis</i>, August 1915:
-            <Br><a class='indent' href="https://www.marxists.org/history/usa/workers/civil-rights/crisis/0800-crisis-v10n04-w058.pdf">https://www.marxists.org/history/usa/workers/civil-rights/crisis/0800-crisis-v10n04-w058.pdf</a>
+            <br><a class='indent' href="https://www.marxists.org/history/usa/workers/civil-rights/crisis/0800-crisis-v10n04-w058.pdf">https://www.marxists.org/history/usa/workers/civil-rights/crisis/0800-crisis-v10n04-w058.pdf</a>
 
         `,
         photos: ["images_bios/mary louise baldwin.jpeg"],
@@ -280,7 +312,11 @@ b_bios = [
             she changed to Louisa Jones when she fled to freedom. As a child, she grew up
             in a household in Hampton, Virginia, but was sold as a child to Captain Chapman
             who ran a steamboat line in that state. She was moved to Norfolk and then, as
-            a young woman, bounded out to learn dressmaking until she was twenty-four. <br><br>In
+            a young woman, bounded out to learn dressmaking until she was twenty-four. 
+            
+            <br><br>
+            
+            In
             1857, being suspected of aiding slaves to escape to Philadelphia, she fled by
             traveling on a steamboat, disguised as a wealthy young Southerner. 
             When she reached Philadelphia, she found a reward
@@ -289,7 +325,11 @@ b_bios = [
             her escape became known, and she was found a position as a dressmaker. Louisa
             continued to actively aid the abolitionist movement and abolitionists including
             Wendell Phillips and Charles Sumner. She knew from her first-hand experience
-            the successful methods for escape. <br><br>In 1864, she married Archer H. Barlow, also
+            the successful methods for escape. 
+            
+            <br><br>
+            
+            In 1864, she married Archer H. Barlow, also
             an escaped slave. The couple moved to Cambridge around 1870 and set up house
             at 168 Elm Street in Cambridgeport. An active member of the Twelfth Street Baptist
             Church in Boston and various women's benevolent organizations, she died
@@ -329,19 +369,26 @@ b_bios = [
         narrative: `
 
             Mary Barnes was a 35-year resident of Cambridge (121 Brattle St)
-            who attended Beaver Country Day School and graduated from St. Timothy's.<br><Br>
+            who attended Beaver Country Day School and graduated from St. Timothy's.
+            
+            <br><br>
+            
             Barnes was one of the first women to serve with the
             Women's Auxiliary Service PILOTS (WASP) during WWII. Woomen in this role served as United States federal civil 
             service employees. Barnes was a trained pilot, like all WASP members. The WASP tested and ferried planes
              and trained 
             other pilots as a way to free up male pilots serving in combat postitions. 
-            <br><Br>
+            
+            <br><br>
+            
             She was a former board member of the
             Hospice of Cambridge and also past president of the Cambridge Visiting Nurses
             Association. Mary Barnes was a member of the Board of Trustees of the Fernald
             School in Waltham and the Christ Church in Cambridge. 
             She was also active with the <i>Cambridge Home for the Aged</i> and <i>Delta House Respite</i>
-            <br><Br>
+            
+            <br><br>
+            
             Mary West was married to William S. Barnes, a former professor at the Fletcher School of Law and Diplomacy 
             and they had a daughter and a son.<br>
             
@@ -351,7 +398,7 @@ b_bios = [
         otherNotes: "",
         references: ` <em>The Boston Globe</em> June 25, 1999.<br>
         <em>The Cambridge Chronicle</em>,  17 June 1999.
-        <br><i>Cambridge City Directory</i>, 1965.<Br>
+        <br><i>Cambridge City Directory</i>, 1965.<br>
         <i>The Boston Globe</i> Sep 12, 1945.
 
         `,
@@ -389,7 +436,10 @@ b_bios = [
             and soon after married Sherwin Badger, figure skating champion, who had graduated
             from Harvard College and then took a position with the United Fruit Company.
             The young couple spent a year in Cuba. They had three children: two sons, one
-            who died in infancy, and a daughter. The couple divorced in 1932. <br><br>
+            who died in infancy, and a daughter. The couple divorced in 1932. 
+            
+            <br><br>
+            
             In 1935, she married Jean Rufenacht, a Swiss businessman,
             and later moved to Zurich, where she was analyzed by and studied with C.G. Jung.
             Psychology became one of her life-long interests. With this background and her
@@ -403,17 +453,22 @@ b_bios = [
             the war, she divorced her Swiss husband in 1947, and then worked as a freelance
             journalist and translator. She returned to America in 1953, settling in New
             York City, where she lectured professionally and wrote novels, including <em>Upside
-                Down in the Magnolia Tree</em> (1952), and <em>The Inseparables</em> (1958).
-                <blockquote>
-                "This is a deliciously nostalgic book about a little girl, Kathy (Mrs. Bancroft),
-                 growing up in Cambridge in the early 1900's. It was the days of the late Victorian
-                  houses, or the iron deer on the lawn, the buttons and bows and the long ribbed 
-                  stockings, and the time of the Sunday breakfast and fishballs, based beans and 
-                  doughnuts."<Br>
+            Down in the Magnolia Tree</em> (1952), and <em>The Inseparables</em> (1958).
+
+            <blockquote>
+            "This is a deliciously nostalgic book about a little girl, Kathy (Mrs. Bancroft),
+            growing up in Cambridge in the early 1900's. It was the days of the late Victorian
+            houses, or the iron deer on the lawn, the buttons and bows and the long ribbed 
+            stockings, and the time of the Sunday breakfast and fishballs, based beans and 
+            doughnuts."<br>
             - <i>May 1952 review in the Cambridge Chronicle of Bancroft's new book "Upside Down in the Magnolia Tree."</i>
             </blockquote>
+
             She continued to work as a translator and publish book reviews. In 1983, she
-            published a memoir, <em>Autobiography of a Spy</em>. <br><br>
+            published a memoir, <em>Autobiography of a Spy</em>. 
+            
+            <br><br>
+            
             Bancroft became involved in Democratic politics,
             working on various campaigns. She continued her interest in Jungian psychology
             through her correspondence and membership in the Analytical Psychology Club
@@ -424,7 +479,7 @@ b_bios = [
             `,
         otherNotes: "",
         references: ` Biographical article, Mary Bancroft papers, Schlesinger
-            Library, Radcliffe Institute.<Br>
+            Library, Radcliffe Institute.<br>
             <i>Cambridge City Directory</i>, 1905.<br>
             <i>The Cambridge Chronicle</i>, 1 May 1952.
         `,
@@ -461,32 +516,42 @@ b_bios = [
             Business Association) and was a partner with him of the Real estate and development
             business, CARU Associates.
             
-            <br><br>In the 1960s, Barron and her husband conducted tours through their
+            <br><br>
+            
+            In the 1960s, Barron and her husband conducted tours through their
             furniture store for CHLS students and offered prizes of U.S. Savings Bonds for students who wrote the best essays
             about their experience.
             
-            <br><Br>Barron received numerous honors including Women of
-
+            <br><br>
+            
+            Barron received numerous honors including Women of
             the Year-Cambridge YWCA, 1999, and (with her husband) the Joint Medal of Honor
             Histradut Memorial Award, April 1987. She sat on the Board at Mt. Auburn Hospital.
-            <Br><br>
-            In June of 1995, the YWCA honored the couple:<blockquote>"In the historically restored main lobby of the Cambridge YMCA, the YMCA 
+            
+            <br><br>
+
+            In June of 1995, the YWCA honored the couple:
+            
+            <blockquote>"In the historically restored main lobby of 
+            the Cambridge YMCA, the YMCA 
             dedicated a portion of its Central Square facilities in the names of Carl F. and Ruth L. 
             Barron...in a tribute to the Barrons' 'distinguished YMCA leadership and generous philanthropy'...Carl 
             and Ruth Barron have been active in Cambridge civic affairs for the past 50 years."
             </blockquote>
+
             She was a lifetime member of Hadassah, member of Beth El Temple Center, the
             Cambridge Chamber of Commerce, and the Rental Housing Association of Greater
             Boston Real Estate Board. She established four annual scholarships at Cambridge
             Rindge and Latin School jointly with her husband, including the Ruth Barron Hatian Scholarship and the
             Ruth Barron Hispanic Scholarship, and participated in the Barron
-            Family Fund of Judaica at Widener Library, Harvard University.<br><br> She was 85 when
-            she died.
+            Family Fund of Judaica at Widener Library, Harvard University.
+            
+            <br><br> She was 85 when she died.
 
             `,
         otherNotes: "",
-        references: `<em>Cambridge Chronicle:</em><Br>
-        Jun. 16, 1966<Br>Jan. 12, 1967<br>
+        references: `<em>Cambridge Chronicle:</em><br>
+        Jun. 16, 1966<br>Jan. 12, 1967<br>
         June 8, 1995<br>June 12, 1997<br>
         April 25, 2001<br>
         Images from <em>Boston Globe</em>  Apr 24, 2001, March 3, 2014.
@@ -518,7 +583,11 @@ b_bios = [
             Charlotte Fiske Bates was born in New York City.
             Her father, Harvey Bates, died in her infancy, and from the time she was nine
             she lived in Cambridge, Massachusetts. She was educated in the public schools
-            of Cambridge and began to write poetry when quite young.<br><br> For the first twenty-five
+            of Cambridge and began to write poetry when quite young.
+            
+            <br><br>
+            
+            For the first twenty-five
             years of her life she taught in private schools. She offered private instruction
             from her own home at 10 Ellery Street in the 1860s. Bates corresponded with
             Henry Wadsworth Longfellow from 1866 to 1882 and assisted Longfellow in compiling
@@ -529,20 +598,27 @@ b_bios = [
             She is best known for <em>The Seven Voices of Sympathy</em> (1881) a compilation
             of Longfellow's prose and poetry. She issued a selection of poems from English
             and American authors in the <em>Cambridge Book of Poetry and Song</em> (1882).
-            <br><br>In the late 1880s, she began to publish her poetry in <em>Lippincott</em> magazine
+            
+            <br><br>
+            
+            In the late 1880s, she began to publish her poetry in <em>Lippincott</em> magazine
             and <em>Century</em> magazine on a regular basis and moved to New York City
             although she kept her ties to Cambridge. In 1891 she married a Frenchman, Adolphe
             Rog&eacute;, who died five years later. She organized and read at a Longfellow
             memorial meeting at Sanders theater that raised money for the Longfellow fund.
-            Some of her poetry was set to music by different American composers. <br><br>Bates continued
+            Some of her poetry was set to music by different American composers. 
+            
+            <br><br>
+            
+            Bates continued
             to publish and to participate in public readings until a few years before her
             death in 1916. 
 
             `,
         otherNotes: "",
         references: ` Houghton Library archives under Rog&eacute; (Henry
-            Wadsworth Longfellow collection)<Br>
-            <em>Appleton encyclopedia</em><Br>
+            Wadsworth Longfellow collection)<br>
+            <em>Appleton encyclopedia</em><br>
              Frances E
             Willard and Mary A. Livermore, <em>American Women: Fifteen Hundred Biographies</em>
             (1897).
@@ -580,12 +656,18 @@ b_bios = [
             and mentor which enabled her to study, perform and then teach with the Covanettes
             Dance Company. From the age of 14, De Ama acted as choreographer, arranged the
             childrens' performances at their yearly recital at John Hancock Hall,
-            Boston. <br><br>
+            Boston. 
+            
+            <br><br>
+
             She pursued further study of dance at the Elma Lewis School of Fine Arts and
             with Chuck Davis, director of the African American Dance Ensemble. Beginning
             in 1972, Battle began a series of trips to West Africa, Brazil, and Jamaica
             to study, lecture and perform. She helped found one of the first Pan African
-            dance companies.<br><br>
+            dance companies.
+            
+            <br><br>
+            
             She has taught African-rooted dance forms at Tufts
             University, Wellesley College and the Boston Conservatory and has run a performance
             group for teens. In 1975, De Ama Battle founded the Art of Black Dance &amp;
@@ -595,7 +677,9 @@ b_bios = [
             the philosophy and goals of arts education as an essential part of school curricula,
             she has performed in Cambridge schools through the artist-in-residency program.
             She also holds a Masters' degree in Education from Cambridge College.
+            
             <br><br>
+
             De Ama Battle has received a series of awards
             and recognition including the Elliot Norton award in 1992 for &#8220;bringing
             the heartbeat of Africa and the Carribean Islands to Boston.&#8221; In 1995,
@@ -639,7 +723,11 @@ b_bios = [
             &#8220;Banks Brigade&#8221; (in honor of the Civil War general Nathaniel Banks
             of Massachusetts), was a social and philanthropic group of young women from
             Cambridge formed for the purpose of sewing bandages, shirts, and knitting socks
-            for the Union troops during the Civil War.<br><br> Alice James was one of the early
+            for the Union troops during the Civil War.
+            
+            <br><br> 
+            
+            Alice James was one of the early
             members. The organization was re-formed to sew bandages and uniforms for soldiers
             during the Spanish-American War and World War I. In 1918, they participated
             in a patriotic parade through the streets of Cambridge to help raise money for
@@ -687,27 +775,40 @@ b_bios = [
             Mabel went to Germany in her teens to study
             chemistry and the German language and then returned to Cambridge at the age of sixteen. 
             By then she had learned to both lip-read and to speak (despite her deafness), one of the 
-            first deaf childen in America to be able to do so (she also learned to lip-read and speak in multiple languages).<Br><Br>
+            first deaf childen in America to be able to do so (she also learned to lip-read and speak in multiple languages).
+            
+            <br><br>
+
             Alexander Graham Bell had taught at the Clarke School and later became a private tutor to Mabel, leading to 
             Mabel and Alexander becaming
             romantically involved. At first her parents opposed the marriage objecting
             to the age disparity (she was 19, he 29) and fearing that their children would be deaf (since Bell's
             mother was congenitally deaf), but the two were engaged in 1875 and married in 1877. 
             They had two sons who died in infancy and two daughters who
-            lived into adulthood. <br><br>
-            Around 1885, Mabel Bell helped establish the Young Ladies Club of Baddeck, one of the first Canadian women's clubs, after
+            lived into adulthood.
+            
+            <br><br>
+            
+            Around 1885, Mabel Bell helped establish the Young Ladies Club of Baddeck, one of the first Canadian women's 
+            clubs, after
             visiting and falling in love with the Nova Scotia landscape.
             Bell was apparently known for her ability to make people comfortable with her deafness, helped by the fact that
-            she was a master lipreader. <blockquote>“Mabel would host dinner 
+            she was a master lipreader.
+            
+            <blockquote>“Mabel would host dinner 
             parties and situate herself at a spot around the table where she knew the light would shine better 
             on the faces of her guests, allowing her to better read their lips as they spoke.”</blockquote>
+
             In 1910, Mabel
             became a strong supporter of women's rights and marched in the women's
             suffrage national convention in Washington in 1910. During World War I, she
             sponsored benefits to raise money for the Red Cross and fund lifeboats for the
             US Navy. She later founded the Montessori Education Association and became its
-            president. She also opened a school in Washington, D.C. and started the magazine of the Montessori Education Association,
-            <em>Freedom for the Child</em>.<br><br>
+            president. She also opened a school in Washington, D.C. and started the magazine of the Montessori Education 
+            Association,
+            <em>Freedom for the Child</em>.
+            
+            <br><br>
             
             After her husband's death in 1922, she began to go blind and 
             died on January 3, 1923 in Washington D.C. and was buried on Cape Breton Island,
@@ -718,18 +819,18 @@ b_bios = [
         otherNotes: "",
         references: `
             Bell Family Papers, Library of Congress, Washington DC, Lilias M Toward.
-            <Br><em>Mabel Bell: Alexander's Silent Partner</em> (Methuen, 1984).
+            <br><em>Mabel Bell: Alexander's Silent Partner</em> (Methuen, 1984).
             <br>
             Ann J. Bishundayal, <em>Mabel Hubbard Bell</em> Protea Publishing Company, 2002.<br>
             Waite, Helen <em>Make a Joyful Sound Romance of Mabel Hubbard and Alexander
-                Graham Bell</em>, Philadelphia: Mcrae Smith 1961.
-                <br>Image from wikimedia commons.
-                <br>Street address from 1873 Hopkins Map, Cambridge Historical Commission.<Br>
-                <i>Mabel Bell, the Driving Force Behind Alexander Graham Bell</i>, Assoc. for the Deaf and Hard of Hearing:
-                <a class='indent' href="https://agbell.org/2021/03/02/mabel-bell-the-driving-force-behind-alexander-graham-bell/">https://agbell.org/2021/03/02/mabel-bell-the-driving-force-behind-alexander-graham-bell/</a>
-        
-                <br>Wikipedia entry:<br>
-                <a class='indent' href="https://en.wikipedia.org/wiki/Mabel_Gardiner_Hubbard">https://en.wikipedia.org/wiki/Mabel_Gardiner_Hubbard</a>
+            Graham Bell</em>, Philadelphia: Mcrae Smith 1961.
+            <br>Image from wikimedia commons.
+            <br>Street address from 1873 Hopkins Map, Cambridge Historical Commission.<br>
+            <i>Mabel Bell, the Driving Force Behind Alexander Graham Bell</i>, Assoc. for the Deaf and Hard of Hearing:
+            <a class='indent' href="https://agbell.org/2021/03/02/mabel-bell-the-driving-force-behind-alexander-graham-bell/">https://agbell.org/2021/03/02/mabel-bell-the-driving-force-behind-alexander-graham-bell/</a>
+    
+            <br>Wikipedia entry:<br>
+            <a class='indent' href="https://en.wikipedia.org/wiki/Mabel_Gardiner_Hubbard">https://en.wikipedia.org/wiki/Mabel_Gardiner_Hubbard</a>
                 `,
         photos: ["images_bios/Mabel_Hubbard_Bell.jpg"],
         photoTitles: [],
@@ -757,23 +858,24 @@ b_bios = [
         narrative: `
 
             Satyra (Pearson) Bennett was one of four children
-            of Frances Lavina (Gale) and
-            William
-            B.
+            of Frances Lavina (Gale) and William B.
             Pearson; their father was for many years pastor of St. Paul African Methodist
-            Episcopal
-            Church
-            in Cambridge.<br><br>
+            Episcopal Church in Cambridge.
+            
+            <br><br>
+            
             Satyra was born in 1892 in Rock Hill, Jamaica, and arrived in Worcester,
             Massachusetts, in 1903. After the family moved to Cambridge, she graduated from
             Cambridge Latin
             School, and in 1913 from Wilberforce University in Ohio. Satyra then taught at
             McKinley Institute in Lynchburg, Virginia, before her marriage in 1919 to Cyril
-            George
-            Bennett.
+            George Bennett.
             Their son, George Barrett Bennett, was born a year later. She returned to Massachusetts
             and for more than thirty years worked as a linotype operator for a number of
-            newspapers in the Boston area, living at 26 Mead Street in Cambridge.<br><br>
+            newspapers in the Boston area, living at 26 Mead Street in Cambridge.
+            
+            <br><br>
+            
             A member of St. Paul AME Church for over seventy
             years, Satyra served as treasurer, trustee, superintendent of the Sunday School,
             and member of the Board of Christian
@@ -790,8 +892,8 @@ b_bios = [
             Schlesinger Library. An oral biography is included in the <em>Black Women Oral
                 History
                 Project</em>of Schlesinger Library.
-                <Br>
-                <i>The Cambridge Chronicle</i>, 23 July 1921.<Br>
+                <br>
+                <i>The Cambridge Chronicle</i>, 23 July 1921.<br>
                 <i>The Cambridge Chronicle</i>, 15 June 1967.<br>
                 <i>U.S., Social Security Death Index</i>, 1935-2014.
 
@@ -826,43 +928,54 @@ b_bios = [
             New Hampshire, Sara Mae was the eldest of five children. She married Larry Berman in 1955
             and attended the Rhode Island School of Design, graduating in 1958 with a BFA
             in Interior Design. The couple moved to Cambridge in 1958, following her graduation,
-            and had three children. They currently have six grandchildren.<br><br>
+            and had three children. They currently have six grandchildren.
+            
+            <br><br>
+
             Sara Mae and Larry founded the Cambridge Sports
             Union in 1962, the first competitive sports club in New England for men and
             women. The club includes
             competitive running, cross-country skiing, orienteering (a sport which combines
             cross country running or cross country skiing and land navigation), also, recently,
-            race-walking.<br><br>
-            By
-            1964, under Larry's coaching, she had become a serious athlete in both running
-            and cross country skiing and was living at 23 Fayette Street in Cambridge. (In 1968-69, she was named to the first U.S. Women's
+            race-walking.
+            
+            <br><br>
+
+            By 1964, under Larry's coaching, she had become a serious athlete in both running
+            and cross country skiing and was living at 23 Fayette Street in Cambridge. (In 1968-69, she 
+            was named to the first U.S. Women's
             National Nordic Team.) To build up her long distance, she ran, often unofficially,
             in men's road races. (The male runners welcomed her.) She and Larry decided
             to prepare her for running the Boston Marathon, although entry was still unofficial
-            for women. In 1969, 1970, and 1971, she was the first woman to compete, unofficially.<br><br>
+            for women. In 1969, 1970, and 1971, she was the first woman to compete, unofficially.
+            
+            <br><br>
+            
             In the winter of 1970, after failing to win a
             place on the first U.S. National Women's Nordic team to compete overseas, she
             began her marathon training early, often training on Harvard's indoor wooden
             track. That April, on a cold, rainy day, she ran the Boston Marathon in 3 hours,
             5 minutes and 7 seconds, 16 minutes better than any previous women racers, with
             a time not bettered untill 1974. In 1972, she and other women were finally able
-            to run the Boston Marathon officially.<br><br>
+            to run the Boston Marathon officially.
+            
+            <br><br>
+
             From 1976 to 1984, Sara Mae served four terms
             on the Cambridge School Committee, a period that oversaw the renovation and
             merging of the two Cambridge High Schools, approved a city-wide plan to avoid
             racial imbalance, and struggled to maintain educational quality in the face
-            of Proposition 2-1/2.<br><br>
+            of Proposition 2-1/2.
             
-            Between
-            1985 and 1999, she and Larry published <em>Orienteering North America</em>,
+            <br><br>
+            
+            Between 1985 and 1999, she and Larry published <em>Orienteering North America</em>,
             a national magazine about the sport. In 1997, they began operating Berman's
-            Orienteering Supply, a mail order business.<br>
+            Orienteering Supply, a mail order business.
             
-        </p>
-       
-        <p>
-            Since
-            1968, she has served as president of the Saul O Sidore Memorial Foundation,
+            <br><br>
+            
+            Since 1968, she has served as president of the Saul O Sidore Memorial Foundation,
             which honors her father. A main effort of the foundation has been to match grants
             with the University of New Hampshire for a series of annual lectures to raise
             critical and controversial issues facing society. The lectureships now extend
@@ -878,7 +991,7 @@ b_bios = [
             wins&#8221; <em>Boston Globe</em>, April 16, 2006.<br>
             Hal Higdon, <em>Boston: A Century of Running</em> (1995).<br>
             Sara Mae Berman, personal communication.<br>
-            Photograph by Jaye R. Phillips, from the personal collection of Sara Mae Berman.<Br>
+            Photograph by Jaye R. Phillips, from the personal collection of Sara Mae Berman.<br>
 
         <i>Cambridge City Directory</i>, 1965
         `,
@@ -957,25 +1070,34 @@ b_bios = [
 
             Daughter of Doris E Fleischman and Edward Bernays,
             Anne Bernays grew up on the Upper East Side of Manhattan in the household of
-            
-
             a well-to-do Jewish family of some note. Her father was the &#8220;father of
             public relations&#8221; and a nephew of Sigmund Freud. As a child, she went
-
             to the prestigious girl's school, Brearley School and then went on to
             Wellesley College for two years (1948-1950), finishing her education as an English
-            major at Barnard College graduating in 1952.<br><br> She entered publishing until, in
+            major at Barnard College graduating in 1952.
+            
+            <br><br> 
+
+            She entered publishing until, in
             1954, she met and married Justin Kaplan. The couple moved to Cambridge in 1959
-            where she wrote the first of her novels while raising her family.<br><br> Among the
+            where she wrote the first of her novels while raising her family.
+            
+            <br><br>
+            
+            Among the
             best known of her novels are <em>Growing up Rich</em> (1975) and <em>Professor
                 Romeo</em> (1989). 
                 
                 In a 1968 talk to Radcliffe Phi Beta Kappa, Bernays reflected on life and work and writing:
-            <blockquote>
+           
+                <blockquote>
             "in order to pursue your work you must be willing to let other things go, things generally
             associated with 'wife' and 'mother'...You cannot have it both ways. YOu cannot be all things 
             to all people. If you can create in one area with enough skill, passion, and compassion to 
-            satisfy yourself, then you must be satisfied with partial success in other places...<Br><BR>
+            satisfy yourself, then you must be satisfied with partial success in other places...
+            
+            <br><br>
+
             "A woman writer does not want to let on that she is capable of the kind of emotional excess 
             that good strong fictional characters generally exhibit."
             </blockquote>
@@ -986,23 +1108,27 @@ b_bios = [
             books, one on the manner in which names have changed, <em>The Language of Names</em>
             (1997) and another, a double memoir, <em>Back Then: Two Lives in 1950s New York
             </em>(2002). She published a new novel <em>Trophy House</em> in 2005 and is
-            currently teaching at the Nieman Foundation, Harvard University. <br><br>She has three
+            currently teaching at the Nieman Foundation, Harvard University. 
+            
+            <br><br>
+            
+            She has three
             daughters and six grandchildren. 
 
             `,
         otherNotes: "",
         references: ` David Walton, &#8220;Gotham when they were Young&#8221;
 
-            <em>New York Times</em> June 9, 2002.<Br>
+            <em>New York Times</em> June 9, 2002.<br>
             Christopher Lehmann-Haupt. &#8220;Whats
             in a Name: Ima Hogg Knew&#8221;
-            <em> NY Times</em>, January 1997.<Br>
+            <em> NY Times</em>, January 1997.<br>
             Anne Bernays
             &#8220;Remembering Mrs McIntosh &#8220; <em>Chronicle of Higher Education</em>,
-            Feb 9, 2002<Br>&#8220;Meet the Writers: Anne Bernays&#8221; (includes interview)
-            Barnes and Noble website.<Br>
+            Feb 9, 2002<br>&#8220;Meet the Writers: Anne Bernays&#8221; (includes interview)
+            Barnes and Noble website.<br>
             <i>The Cambridge Chronicle</i> 2 May 1968.<br>
-            2024 Interview with Anne Bernays on <i>Aging and the Creative Process</i> WordPress site:<Br>
+            2024 Interview with Anne Bernays on <i>Aging and the Creative Process</i> WordPress site:<br>
             <a class='indent' href="https://patlc.wordpress.com/interview-with-anne-bernays/">https://patlc.wordpress.com/interview-with-anne-bernays/</a>
           
 
@@ -1031,14 +1157,14 @@ b_bios = [
         deathDate: "08.10.1977",
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
-
-
             Grete Lehner Bibring obtained her degree in medicine
-            
-
             from the University of Vienna in 1924. She went on to train in psychoanalysis
             in Vienna with the Freudian psychoanalyst Helena Deutsch who later also came
-            to live in Cambridge. <br><br>She served as assistant director of the Viennese Psychoanalytic
+            to live in Cambridge. 
+            
+            <br><br>
+            
+            She served as assistant director of the Viennese Psychoanalytic
             Clinic (1926-1938). Forced to flee Austria in 1938, she moved first to London
             where she worked with the British Psycho-analytic Clinic and then moved to the
             United States. From the start of World War II, she lived in Cambridge in the
@@ -1085,14 +1211,21 @@ b_bios = [
             by maternal grandparents in Great Village, Nova Scotia. As a child she suffered
             from various physical and nervous ailments that made it difficult for her to
             walk and limited her early schooling. She went to boarding schools in Swampscott,
-            and Natick where she contributed to the school newspapers. <br><Br>She attended Vassar
+            and Natick where she contributed to the school newspapers. 
+            
+            <br><br>
+            
+            She attended Vassar
             College where, in addition to working for<em> The Vassar Miscellany</em>, the
             school newspaper, she was one of the founders of the Vassar literary magazine
             <em>Con Spirito</em> which endorsed socially conscious and avant-garde writing.
             Elizabeth's earliest work influenced by George Herbert and Gerard Manley Hopkins,
             appeared in the literary magazine she had founded. During this time, Bishop
             met the poet Marianne Moore, who became a close friend, and mentor, and who
-            pointed her in the direction of poetry as a vocation. <br><br>
+            pointed her in the direction of poetry as a vocation. 
+            
+            <br><br>
+
             Following her graduation, Bishop's first manuscript<em>
                 North and South </em>was chosen for publication in August 1946. During this
             period, she met Robert Lowell who helped her secure the post of poetry consultant
@@ -1101,7 +1234,9 @@ b_bios = [
             New York and Key West. She traveled to Brazil in 1951, but forced to remain
             in Brazil because of illness, she met and fell in love with Lota de Macedo Soares,
             who became her friend and companion. During this period, she came under the
-            spell of the landscapes and cultures of Brazil. <br><br>
+            spell of the landscapes and cultures of Brazil. 
+            
+            <br><br>
             
 
             In 1954 Bishop published her second book <em>A
@@ -1112,7 +1247,10 @@ b_bios = [
             the National Book Award in 1970. That year Bishop began to teach at Harvard
             University where she remained for seven years, also spending short stints at
             the University of Washington, New York University.
-            <br><Br> Shortly before her death,
+            
+            <br><br> 
+            
+            Shortly before her death,
             she also taught at Massachusetts Institute for Technology. In 1976, Bishop became
             the first American and the first woman to be awarded the Books Abroad/Neustadt
             International Prize for Literature. That same year, Bishop published her final
@@ -1123,10 +1261,10 @@ b_bios = [
             `,
         otherNotes: "",
         references: ` &quot;Elizabeth Bishop&quot;. The Academy of American
-            Poets &#8211; Elizabeth Bishop. Date accessed 30 November 2005<Br>
+            Poets &#8211; Elizabeth Bishop. Date accessed 30 November 2005<br>
             <a class='indent'
                 href="http://www.poets.org/poet.php/prmPID/7" >http://www.poets.org/poet.php/prmPID/7</a><br>
-            Lensing, George S. and Colwell, Anne Agnes. &quot;About Elizabeth Bishop&quot;.<Br>
+            Lensing, George S. and Colwell, Anne Agnes. &quot;About Elizabeth Bishop&quot;.<br>
             Robert Dale Parker, University of Illinois at Urbana-Champaign. Date accessed,
             30 November 2005.<br>
             Page, Barbara. &quot;Elizabeth Bishop: American Poet&quot;.
@@ -1157,24 +1295,23 @@ b_bios = [
         narrative: `
 
 
-             Beginning in the 1970s in Cambridge, oral histories became a community organizing
+            Beginning in the 1970s in Cambridge, oral histories became a community organizing
             tool.
             
-
             The Black Women&rsquo;s Oral History Project, like the Oral History Center, highlighted the importance of
             communicating across identities and documenting everyday people. The Black Women&rsquo;s Oral History
-            Project
-            included interviews with 72 African American women from Cambridge.<br><br> The project was supported by the
+            Project included interviews with 72 African American women from Cambridge.
+            
+            <br><br>
+            
+            The project was supported by the
             Schlesinger
             Library and aimed to record the stories of women who had wide ranging impact in early 20th century America.
-            Some
-            women were professionals in education, government, the arts, business, medicine and law, and other women
-            worked
-            at home and volunteered locally, regionally and nationally. The interviews cover childhood, education,
+            Some women were professionals in education, government, the arts, business, medicine and law, and other women
+            worked at home and volunteered locally, regionally and nationally. The interviews cover childhood, education,
             families,
             career and volunteer accomplishments and their experience as black women in society. The archive, housed at
-            the
-            Schlesinger Library, includes transcripts, biographies and photographs, all accessible online. 
+            the Schlesinger Library, includes transcripts, biographies and photographs, all accessible online. 
 
             `,
         otherNotes: "",
@@ -1213,7 +1350,11 @@ b_bios = [
             of local schools, graduating from Boston University in 1881. She immediately
             began to work in the offices of the
             paper established by her mother, the <em>Woman's Journal</em> with which
-            she was connected until the beginning of World War I.<br><br> From 1887-1905, she edited
+            she was connected until the beginning of World War I.
+            
+            <br><br> 
+            
+            From 1887-1905, she edited
             and distributed the <em>Woman's Column</em>, a periodical collection of
             suffrage news articles. She was also a founder of the Massachusetts League of
             Women Voters. She was a champion of women's rights for many years as well
@@ -1227,21 +1368,29 @@ b_bios = [
             of the verses of Armenian, Yiddish, Russian, Hungarian, and Mexican poets. .She
             was active in the protests surrounding the case of Sacco and Vanzetti in the
             1920s. In 1930, she published a biography of her mother entitled: <em>Lucy Stone,
-                Pioneer in Women's Rights. </em><br><br>Although she spent much of her life in
+                Pioneer in Women's Rights. </em>
+                
+                <br><br>
+                
+                Although she spent much of her life in
             Dorchester, she moved to 1010 Massachusetts Avenue in Cambridge in 
-            1936, where she lived until her death fourteen years later.<Br><Br>
+            1936, where she lived until her death fourteen years later.
+            
+            <br><br>
+
             In a 1935 <i>Cambridge Chronicle</i>, was introduced this way:
+            
             <blockquote>
             "Miss Alice Stone Blackwell, the most distinguished woman in this state, was the guest
              of the Cambridge League of Women Voters Tuesday afternoon at the home of Mrs. Charles 
-             Peabody, 197 Brattle Street.<Br><br>
+             Peabody, 197 Brattle Street.
+             
+             <br><br>
+
             "'Pioneer Women I Have Known' was the subject upon which Miss Blackwell spoke. More 
             than any living woman, she herself symbolizes the terrific struggle which women have 
             undergone for two generations in order to wrest a respected status...."
             </blockquote>
-
-
-
             `,
         otherNotes: "",
         references: `
@@ -1249,8 +1398,8 @@ b_bios = [
             <em>Notable American Women</em> (1607-1950) Vol I.
             <br>
             George Grantham Bain Collection, Library of Congress.
-            <Br><i>Cambridge City Directory<i>, 1944.<br>
-                        <i>The Cambridge Chronicle</i>, 6 June 1935.
+            <br><i>Cambridge City Directory<i>, 1944.<br>
+            <i>The Cambridge Chronicle</i>, 6 June 1935.
 
 
         `,
@@ -1291,13 +1440,20 @@ b_bios = [
             later married a Danish writer, Neils Mogens Bodecker who was then living in
             Paris. The couple moved to Manhattan, New York, and had three sons. In 1962,
             she divorced her husband and ten years later, moved to Massachusetts. She lived
-            in Concord for more than a decade, then moved to Cambridge.<br><br>
+            in Concord for more than a decade, then moved to Cambridge.
+            
+            <br><br>
+
             At the age of fifty one, she returned to graduate
             school to work towards a clinical social work master's degree at Boston
             University School of Social Work, which she completed in 1981. She did not cease
             her studies then, but, as a long time practitioner of Buddhist meditation, she
             went on to complete a certificate in advanced theological studies from the Episcopal
-            Divinity School in Cambridge in 2001. <br><br>
+            Divinity School in Cambridge in 2001. 
+            
+            <br><br>
+
+            
             Mary Anne Bodecker was motivated to work with
             women with AIDS by the illness of her middle son, Torsten, who contracted the
             disease in the early 1980s, and then dedicated himself to work on behalf of
@@ -1305,9 +1461,12 @@ b_bios = [
             in the country to work with incarcerated women with AIDS at the Massachusetts
             State Prison for Women at Framingham and then helped to found a home for formerly
             homeless women with HIV/AIDS in 1990 at Rush House.
-            <br><Br>
+            
+            <br><br>
+
             Bodecker's caring and compassion come through in a 1989 article about the Women and AIDS Project:
-             <blockquote>
+            
+            <blockquote>
             "The prison sends most women out with no after-care plans," says Bodecker, and the project 
             is working to change that. Bodecker worked closely with Maria Lopez during her last eight
              months in prison, and as the date of her parole approached, she collaborated on postrelease
@@ -1319,7 +1478,10 @@ b_bios = [
             For more than five years,
             she was a social worker in the AIDS Clinic at Cambridge Hospital.
             To understand the world wide impact of the disease, she traveled to AIDS clinics
-            in Nepal and India and then to South Africa.<br><br>
+            in Nepal and India and then to South Africa.
+            
+            <br><br>
+
             Her travels began to include nature treks as well,
             to Quebec to see baby seals and then to Labrador and Newfoundland to study polar
             bears and snowy owls, She also traveled to Antarctica to view the penguin colonies.
@@ -1331,7 +1493,7 @@ b_bios = [
             `,
         otherNotes: "",
         references: ` <em>Boston Globe </em>September 3, 2007, obituary.<br>
-            <i>Cambridge Chronicle</i> obituary, August 23, 2007.<Br>
+            <i>Cambridge Chronicle</i> obituary, August 23, 2007.<br>
             <i>The Cambridge Chronicle</i>, 20 April 1995.<br>
                <i>The Boston Globe</i>, Oct 08, 1989, Page 443.
 
@@ -1367,10 +1529,13 @@ b_bios = [
 
             Ann Keefe was born in Boston on December 3, 1939,
             the daughter of Irish immigrants. She grew up in Cambridge and graduated from
-            Matignon High School. She married Frank Bolger ca. 1960. <br><br>She worked as parent
+            Matignon High School. She married Frank Bolger ca. 1960. 
             
-
-            liaison at the Graham and Parks Alternative Public School for 27 years (she lived at 10 Saint Paul Street, near City Hall). The
+            <br><br>
+            
+            She worked as parent
+            liaison at the Graham and Parks Alternative Public School for 27 years (she lived at 10 Saint 
+            Paul Street, near City Hall). The
             Parent Liason positions, now a universal feature of Cambridge schools, are based
             on the job she created. Her work is nationally recognized as a model for family
             involvement in schools. She developed a system for forming well-balanced classrooms,
@@ -1378,7 +1543,9 @@ b_bios = [
             gender, and income. She served 21 years on the board of Cambridge School Volunteers.
             For 5 years she was a member of the School Health Task Force, successfully lobbying
             for additional school nurses and for a comprehensive health policy for the schools.
-<br><Br>
+            
+            <br><br>
+
             In an 1983 article about the Central Square area, Ann was quoted as saying <blockquote>
             "All of us in the bordering neighborhoods should think about including Central Square as part of our communities."
             </blockquote>
@@ -1419,7 +1586,9 @@ b_bios = [
 
             Alice Boring was born to Elizabeth and Edwin Boring
             and educated at Bryn Mawr where she obtained both undergraduate (B. A. 1904)
-            and graduate degrees (M.A. 1905, Ph.D. 1910). <br><br>
+            and graduate degrees (M.A. 1905, Ph.D. 1910). 
+            
+            <br><br>
             
             She studied genetics with Thomas
             Hunt Morgan and Nettie Stevens and in the summers, regularly worked at the Oceanographic
@@ -1428,12 +1597,19 @@ b_bios = [
             she went to the University of Maine where she rose from instructor to associate
             professor by 1913 where she remained until 1918, teaching and publishing on
             genetics. In that year, she went as a visiting professor to the Peking Union
-            Medical College in China. This was to have a major impact on her life. <Br><Br>She briefly returned
+            Medical College in China. This was to have a major impact on her life. 
+            
+            <br><br>
+            
+            She briefly returned
             to the United States where she taught biology for three years at Wellesley College,
             but chose to return to China in 1923. She remained there for the rest of her
             professional life as professor of biology at Yenching University, educating
             the next generation of Chinese scientists during difficult political times.
-            <br><br>She retired to 44 Martin Street in Cambridge in 1950, near the home of her brother, the
+            
+            <br><br>
+            
+            She retired to 44 Martin Street in Cambridge in 1950, near the home of her brother, the
             noted Harvard psychologist and professor, Edwin Boring. During her last years,
             she became active in Cambridge civic affairs.
 
@@ -1479,16 +1655,24 @@ b_bios = [
             she felt overshadowed by her younger sister Lili, who at an early age won the
             Grand Prix de Rome (the first woman to do so). Lili died at the age of 24. Nadia
             then made the choice to be a teacher of composition for which she is best known
-            today. <br><br>She was celebrated as a teacher at the American Conservatory at Fontainebleau,
+            today. 
+            
+            <br><br>
+            
+            She was celebrated as a teacher at the American Conservatory at Fontainebleau,
             France. In her lifetime she taught such twentieth-century American composers
             as Leonard Bernstein, Elliot Carter, Aaron Copeland, Irving Fine, Philip Glass,
             Roy Harris, Daniel Pinkham, Walter Piston, Douglas Moore and Virgil Thomson,
             as well as many other performing musicians. As a teacher of twentieth-century
             composers, she was particularly inspired by the work of Stravinsky, and she conducted
-            several premiers of his works in this country and Europe. <br><br>
+            several premiers of his works in this country and Europe. 
+            
+            <br><br>
+
             When the Second World War broke out in 1938, Boulanger joined
             Cambridge's
-            Longy School of Music where she remained until 1945 (she was living at Gerry's Landing Road). In Cambridge and Boston
+            Longy School of Music where she remained until 1945 (she was living at Gerry's Landing Road).
+             In Cambridge and Boston
             she lectured on Beethoven string quartets and Bach cantatas. While teaching or
             conducting in Massachusetts, she resided at 30 Gerry's Landing on Coolidge
             Hill as the guest of J. Malcolm Forbes. In addition she stayed with her friend,
@@ -1496,12 +1680,20 @@ b_bios = [
             to conduct symphony orchestras in New York, Boston and Philadelphia. When she
             was not conducting workshops throughout the United States, she taught classes
             at Longy and also at Harvard University in harmony, score reading, counterpoint
-            and solfege, until she returned to France. <br><br>As a musician, she possessed a perfect
+            and solfege, until she returned to France. 
+            
+            <br><br>
+            
+            As a musician, she possessed a perfect
             ear and a phenomenal memory. As a teacher, she is remembered for pushing her
             students to their limits. After she left the United States, Boulanger continued
             to demand utter dedication to music from those Americans who made the pilgrimage
             to the American Conservatory at Fontainebleau where she was named director in
-            1950. <br><br>She died in Paris at the age of ninety-two in 1979.
+            1950. 
+            
+            <br><br>
+            
+            She died in Paris at the age of ninety-two in 1979.
 
             `,
         otherNotes: "",
@@ -1515,8 +1707,8 @@ b_bios = [
             UK: Carcanet, 1985.<br>
             Rosenstiel, Leonie <em>A Life in Music NY</em>: WW Norton
             1982.
-            <Br><i>Cambridge City Directory</i>, 1941.<br>
-            Image from wikipedia:<Br> <a class='indent' href="https://en.wikipedia.org/wiki/Nadia_Boulanger#/media/File:Nadia_Boulanger_1925.jpg">
+            <br><i>Cambridge City Directory</i>, 1941.<br>
+            Image from wikipedia:<br> <a class='indent' href="https://en.wikipedia.org/wiki/Nadia_Boulanger#/media/File:Nadia_Boulanger_1925.jpg">
             https://en.wikipedia.org/wiki/Nadia_Boulanger#/media/File:Nadia_Boulanger_1925.jpg</a>
 
         `,
@@ -1552,7 +1744,11 @@ b_bios = [
             up. Anne became fluent in Latin, and learned poetry, religion and natural science.
             She married Simon Bradstreet in 1628 at the age of sixteen. Her husband was
             assistant of the Massachusetts Bay Company which planned the emigration to New
-            England. <br><br>Along with her parents, they joined the colonists headed by John Winthrop,
+            England. 
+            
+            <br><br>
+            
+            Along with her parents, they joined the colonists headed by John Winthrop,
             future governor of the colony, they arrived in New England on Winthrop's
             flagship <em>Arabella</em>. Upon arrival, her father was named deputy governor
             of the Massachusetts Bay Colony. The positions of her husband and father gave
@@ -1560,7 +1756,10 @@ b_bios = [
             to Cambridge around 1631, near what is now 1384 Massachusetts Avenue in the
             heart of Harvard Square. Her first child, Samuel, was born in Cambridge in 1633.
             They lived there for about five years before moving to Ipswich and later Andover.
-           <br><br>Bradstreet reared eight children in all. Her procreative
+            
+            <br><br>
+            
+            Bradstreet reared eight children in all. Her procreative
             years were also a period of great poetic energy. Her most popular work included
             poems to and about family members, although she also wrote some formal elegies.
             One collection, <em>The Tenth Muse Lately Sprung up in America</em>, was published
@@ -1576,7 +1775,7 @@ b_bios = [
         references: `Hannah Winthrop, <em>Historic Guide to Cambridge</em>,
             1907<br><em>The Oxford Companion to Women's Writing in the United States</em>
             (1995).
-            <br><em> Notable American Women</em> (1607-1950) Vol I.<Br>
+            <br><em> Notable American Women</em> (1607-1950) Vol I.<br>
             Photo from <a href="https://en.wikipedia.org/wiki/Anne_Bradstreet#/media/File:Frontispiece_for_An_Account_of_Anne_Bradstreet_The_Puritan_Poetess,_and_Kindred_Topics,_edited_by_Colonel_Luther_Caldwell_(Boston,_1898)_(cropped).jpg">
             https://en.wikipedia.org/wiki/Anne_Bradstreet#/media/File:Frontispiece_for_An_Account_of_Anne_Bradstreet_The_Puritan_Poetess,_and_Kindred_Topics,_edited_by_Colonel_Luther_Caldwell_(Boston,_1898)_(cropped).jpg</a>
         `,
@@ -1611,29 +1810,25 @@ b_bios = [
             the Boston area. She and her husband worked in the foreign language bookstore,
             Schoenhof's from 1940 to 1961. The couple then spent two years running
             a bookstore in Israel. They then moved to Cambridge upon their return to the
-            United States.<br><br>
+            United States.
+            
+            <br><br>
+            
             Hermine Brand joined the Harvard University Museum of Comparative Zoology library
-            staff
-            as
-            a reference librarian, where she worked full time for seven years (1967-1974),
-            and then served as a part time librarian from 1974 to 1988. Her husband died
-            in
-            1971. She lived at 335 Harvard Street at the time.
-            Even
-            after her retirement, she was active in the community, especially as a tutor
-            to
-            new
-            immigrants.
+            staff as a reference librarian, where she worked full time for seven years (1967-1974),
+            and then served as a part time librarian from 1974 to 1988. Her husband died in
+            1971. She lived at 335 Harvard Street at the time. Even
+            after her retirement, she was active in the community, especially as a tutor to new immigrants.
             She entered an assisted living facility towards the end of her life.
 
 
             `,
         otherNotes: "",
         references: `<em>Boston Globe </em>July 17, 2005.
-        <br><i>Cambridge City Directory</i>, 1971.<Br>
-        Legacy.com obituary:<Br>
+        <br><i>Cambridge City Directory</i>, 1971.<br>
+        Legacy.com obituary:<br>
         <a class='indent' href="https://www.legacy.com/us/obituaries/bostonglobe/name/hermine-brand-obituary?id=26471657">
-        https://www.legacy.com/us/obituaries/bostonglobe/name/hermine-brand-obituary?id=26471657</a><Br>
+        https://www.legacy.com/us/obituaries/bostonglobe/name/hermine-brand-obituary?id=26471657</a><br>
         <i>U.S., Social Security Death Index</i>, 1935-2014.
         `,
         photos: [""],
@@ -1666,12 +1861,18 @@ b_bios = [
             Massachusetts, she was influenced by the enthusiastic cooking of her mother and grandmother.
             As a young woman, she attended Northeastern University where she studied English
             and Journalism, graduating with a Bachelor of Arts degree <em>cum laude</em>
-            and with Departmental Honors in English in 1964. <br><br>She went on to study English
+            and with Departmental Honors in English in 1964. 
+            
+            <br><br>
+            
+            She went on to study English
             on a fellowship at Northeastern, receiving her Master of Arts degree in 1966.
             Moving to Cambridge the following year, she lived at the Cambridge YWCA where
             she served as a floor councilor and later became a member of the Y Personnel
             Committee. While there, she assisted in the planning and implementation of a
-            Racism Workshop during the turbulent era of the Civil Rights movement. <br><br>
+            Racism Workshop during the turbulent era of the Civil Rights movement. 
+            
+            <br><br>
             
             When
             first in Cambridge, she worked at the Instrumentation Laboratory at MIT during
@@ -1683,20 +1884,28 @@ b_bios = [
              More recently, she has worked as a consultant and employee
             for WGBH, within its How-Tos unit that produced programs including &#8220;This
             Old House,&#8221; &#8220;The Victory Garden,&#8221; and &#8220;The New Yankee
-            Workshop.&#8221;<br><br>
+            Workshop.&#8221;
+            
+            <br><br>
 
             With her older sister, Sheila
                     Brass, she owns and runs Shelmar Antiques, which the sisters started
             when they left their jobs in 1975 to care for their ailing father. They have
-            been licensed antique dealers for more than 40 years.<br><Br>
+            been licensed antique dealers for more than 40 years.
+            
+            <br><br>
+            
             The sisters were the North American Consultants
             for Miller's Publications, in London, for 11 years. They were responsible
             for research, photo shoots, and marketing information for several of Miller's
             books on antiques and collectibles. Marilynn wrote the introduction to the first
             section on rare and collectible cookbooks for Miller's Publications, and
             with her sister, Sheila, were principals in writing and producing a comprehensive
-            guide to kitchenware and culinary antiques.<br><br>
-             The sisters have always been interested in old cookbooks,
+            guide to kitchenware and culinary antiques.
+            
+            <br><br>
+            
+            The sisters have always been interested in old cookbooks,
             which gave them an insight into the history of domestic cooking. They began
             to collect both handwritten manuscript and printed cookbooks, culinary advertising
             and culinary antiques, menus, and food molds from all over the world, some dating
@@ -1707,23 +1916,35 @@ b_bios = [
             on manuscript cookbooks, creating a new category of cookbook that translates
             heirloom recipes for the modern kitchen. This book, <em>Heirloom Baking with
                 the Brass Sisters</em>, was one of three nominees for a James Beard Foundation
-            Award in the Baking and Dessert category in 2007.<br><br>
-             Their second book, <em>Heirloom Cooking with the Brass
-                Sisters, Recipes You Remember and Love</em>, appeared in October 2008. Both
-            this and the previous volume were selected by <em>Food &amp; Wine Magazine</em>
-            to be noted among the 25 best cookbooks published in 2007 and 2009, and were
-            included in the magazine's volumes <em>The Best of the Best 25 Cookbooks 2007
-                and The Best of the Best 25 Cookbooks 2009</em>.<br><br>
-             In 2008, the sisters appeared in their own television
+            Award in the Baking and Dessert category in 2007.
+            
+            <br><br>
+            
+          Their second book, <em>Heirloom Cooking with the Brass
+            Sisters, Recipes You Remember and Love</em>, appeared in October 2008. Both
+         this and the previous volume were selected by <em>Food &amp; Wine Magazine</em>
+           to be noted among the 25 best cookbooks published in 2007 and 2009, and were
+          included in the magazine's volumes <em>The Best of the Best 25 Cookbooks 2007
+            and The Best of the Best 25 Cookbooks 2009</em>.
+            
+            <br><br>
+            
+            In 2008, the sisters appeared in their own television
             show, &#8220;The Brass Sisters: Queens of Comfort Food,&#8221; which was broadcast
             on WGBH, the Public Television Station in Boston. In 2011, they presented their
             one-hour special, The Brass Sisters Celebrate the Holidays, on the Cooking Channel.
             They were part of a select group to win a &#8220;Throwdown&#8221; with Chef
             Bobby Flay on the Food Network by baking their mother's recipe for Pineapple
-            Upside-Down Cake.<br><br>
-             With her sister, Sheila, she was honored by the City
-            of Cambridge in 2016 when they were named &#8220;Cambridge Food Heroes.&#8221;<br><br>
-             The Brass Sisters are presently working on a television
+            Upside-Down Cake.
+            
+            <br><br>
+            
+            With her sister, Sheila, she was honored by the City
+            of Cambridge in 2016 when they were named &#8220;Cambridge Food Heroes.&#8221;
+            
+            <br><br>
+            
+            The Brass Sisters are presently working on a television
             series. They publish a blog offering memories of Cambridge along with delightful
             recipes.<br>
             `,
@@ -1734,10 +1955,10 @@ b_bios = [
             New York, NY: Black Dog &amp; Leventhal Publishers, 2006.<br><br>
             Marilynn Brass, Sheila Brass. <em>Heirloom Cooking With The Brass Sisters: Recipes
                 You Remember and Love</em>. New York, NY: Black Dog &amp; Leventhal Publishers,
-            2008.<br><Br>
+            2008.<br><br>
             Marilynn Brass, Sheila Brass. <em>Baking With The Brass Sisters: Over 125 Recipes
                 for Classic Cakes, Pies, Cookies, Breads, Desserts, and Savories from America's
-                Favorite Home Bakers</em>. New York, NY: St. Martin's Griffin, 2015.<br><Br>
+                Favorite Home Bakers</em>. New York, NY: St. Martin's Griffin, 2015.<br><br>
             <em>Miller's Buyer's Guide: Kitchenware: What To Look for And What
                 to Pay For Kitchenware For Over 2000 Items Of Kitchenware</em>. London: Mitchell
             Beazley, 2005.<br><br>
@@ -1794,51 +2015,73 @@ b_bios = [
         <p>She attended Massachusetts College of Art and Design, majoring in Fashion Design and Illustration. 
         She graduated in 1958 with a Bachelor of Fine Arts degree in the top 10 percent of her class.&nbsp;<br>
         She was a fashion designer for ten years in New York and Boston. Her designs were featured in&nbsp;<em>
-        Women&apos;s Wear Daily&nbsp;</em>and sold in specialty shops.<br><br>She moved to Cambridge in 1972 and 
+        Women&apos;s Wear Daily&nbsp;</em>and sold in specialty shops.
+        
+        <br><br>
+        
+        She moved to Cambridge in 1972 and 
         became the Director of Marketing for Associates for International Research where she developed cost of 
         living surveys for United States nationals living and working abroad.<br>In 1984, she joined the WGBH 
         Educational Foundation in Boston as the Executive Assistant to the Vice President of National Programming
-         for 25 years.<br><br>The sisters, licensed antique dealers for more than 40 years, owned and operated 
+         for 25 years.
+         
+         <br><br>
+         
+         The sisters, licensed antique dealers for more than 40 years, owned and operated 
          Shelmar Antiques.</p>
         <p>The sisters were the North American Consultants for Miller&apos;s Publications, located in London, 
         for 11 years. They were responsible for research, photo shoots, and marketing information for several of
          Miller&apos;s books on antiques and collectibles. Together, they were responsible for the first section
           on rare and collectible cookbooks for Miller&apos;s Publications, and were principals in writing and producing
-           a comprehensive guide to kitchenware and culinary antiques.<br><br>The sisters have always been interested in 
-           old cookbooks, which gave them an insight into the history of domestic cooking. They collected published and 
-           unpublished cookbooks, culinary advertising and culinary antiques, menus, and food molds from all over the world, 
-           some dating from the seventeenth century. Their collections and knowledge of culinary history led to frequent 
-           speaking engagements at museums, libraries, and educational institutions throughout the country.<br><br>In 2006, 
-           they launched their first publication based on unpublished cookbooks, creating a new category of cookbook that
-            translates heirloom recipes for the modern kitchen. This book,&nbsp;<em>Heirloom Baking with the Brass Sisters</em>, 
-            was one of three nominees for a James Beard Foundation Award in the Baking and Dessert category.<br><br>Their 
-            second book, <em>Heirloom Cooking with the Brass Sisters</em>, appeared in October 2008. Both this and the previous
-             volume were selected by <em>Food &amp; Wine Magazine</em> as among the 25 best cookbooks of the year, and were 
-             included in the magazine&apos;s volumes of&nbsp;<em>The Best of the Best Cookbooks</em>.<br><br>In 2008, the
-              sisters appeared on their own television show, &ldquo;The Brass Sisters: Queens of Comfort Food,&rdquo; which
-               was broadcast on WGBH, the public television station in Boston. In 2011, they presented their one-hour special,
-               &nbsp;&ldquo;The Brass Sisters Celebrate the Holidays&rdquo;&nbsp;on the Cooking Channel. They were part of a 
-               select group to win a &ldquo;Throwdown&rdquo; with Chef Bobby Flay on the Food Network by baking their 
-               mother&apos;s recipe for Pineapple Upside-Down Cake.</p>
+        a comprehensive guide to kitchenware and culinary antiques.
+        
+        <br><br>
+        
+        The sisters have always been interested in 
+        old cookbooks, which gave them an insight into the history of domestic cooking. They collected published and 
+        unpublished cookbooks, culinary advertising and culinary antiques, menus, and food molds from all over the world, 
+        some dating from the seventeenth century. Their collections and knowledge of culinary history led to frequent 
+        speaking engagements at museums, libraries, and educational institutions throughout the country.
+        
+        <br><br>
+        
+        In 2006, 
+        they launched their first publication based on unpublished cookbooks, creating a new category of cookbook that
+        translates heirloom recipes for the modern kitchen. This book,&nbsp;<em>Heirloom Baking with the Brass Sisters</em>, 
+        was one of three nominees for a James Beard Foundation Award in the Baking and Dessert category.
+        
+        <br><br>Their 
+        second book, <em>Heirloom Cooking with the Brass Sisters</em>, appeared in October 2008. Both this and the previous
+        volume were selected by <em>Food &amp; Wine Magazine</em> as among the 25 best cookbooks of the year, and were 
+        included in the magazine&apos;s volumes of&nbsp;<em>The Best of the Best Cookbooks</em>.
+       
+        <br><br>In 2008, the
+        sisters appeared on their own television show, &ldquo;The Brass Sisters: Queens of Comfort Food,&rdquo; which
+        was broadcast on WGBH, the public television station in Boston. In 2011, they presented their one-hour special,
+        &nbsp;&ldquo;The Brass Sisters Celebrate the Holidays&rdquo;&nbsp;on the Cooking Channel. They were part of a 
+        select group to win a &ldquo;Throwdown&rdquo; with Chef Bobby Flay on the Food Network by baking their 
+        mother&apos;s recipe for Pineapple Upside-Down Cake.</p>
         <p>In 2015, they published&nbsp;<em>Baking with the Brass Sisters: Over 125 Recipes for Classic Cakes, Pies,
-         Cookies, Breads, Desserts, and Savories from America&apos;s Favorite Home Bakers.</em><br><br>With her sister,
+         Cookies, Breads, Desserts, and Savories from America&apos;s Favorite Home Bakers.</em>
+         
+         <br><br>With her sister,
           Marilynn, Sheila was honored by the City of Cambridge in 2016 when they were named &ldquo;Cambridge 
           Food Heroes.&rdquo;
 
             `,
         otherNotes: "",
         references: `Marilynn Brass, Sheila Brass.
-          <em>&nbsp;Heirloom Baking with the Brass Sisters: more than 100 years of recipes discovered from family 
-          cookbooks, original journals, scraps of paper, and grandmother&apos;s kitchen</em>. New York, NY: Black
-           Dog &amp; Leventhal Publishers, 2006.<br>Marilynn Brass, Sheila Brass.&nbsp;<em>Heirloom Cooking with 
-           the Brass Sisters: Recipes You Remember and Love</em>. New York, NY: Black Dog &amp; Leventhal Publishers,
-            2008<br>Marilynn Brass, Sheila Brass.&nbsp;<em>Baking with the Brass Sisters: Over 125 Recipes for 
-            Classic Cakes, Pies, Cookies, Breads, Desserts, and Savories from America&apos;s Favorite Home Bakers</em>.
-             New York, NY: St. Martin&apos;s Griffin, 2015.<br><em>Miller&apos;s Buyer&apos;s Guide: Kitchenware: 
-             What to Look for and What to Pay for Kitchenware for Over 2000 Items of Kitchenware</em>. London: Mitchell
-              Beazley, 2005.<br>Bill Brett, Kerry Brett, Carol Beggy.&nbsp;<em>Boston, Inspirational Women&nbsp;
-              </em>Boston, MA: Three Bean Press, 2011.<br>The Brass Sisters&apos; s website: 
-              <a href="http://www.thebrasssisters.com/" >www.thebrasssisters.com</a>.<Br>
+        <em>&nbsp;Heirloom Baking with the Brass Sisters: more than 100 years of recipes discovered from family 
+        cookbooks, original journals, scraps of paper, and grandmother&apos;s kitchen</em>. New York, NY: Black
+        Dog &amp; Leventhal Publishers, 2006.<br>Marilynn Brass, Sheila Brass.&nbsp;<em>Heirloom Cooking with 
+        the Brass Sisters: Recipes You Remember and Love</em>. New York, NY: Black Dog &amp; Leventhal Publishers,
+        2008<br>Marilynn Brass, Sheila Brass.&nbsp;<em>Baking with the Brass Sisters: Over 125 Recipes for 
+        Classic Cakes, Pies, Cookies, Breads, Desserts, and Savories from America&apos;s Favorite Home Bakers</em>.
+        New York, NY: St. Martin&apos;s Griffin, 2015.<br><em>Miller&apos;s Buyer&apos;s Guide: Kitchenware: 
+        What to Look for and What to Pay for Kitchenware for Over 2000 Items of Kitchenware</em>. London: Mitchell
+        Beazley, 2005.<br>Bill Brett, Kerry Brett, Carol Beggy.&nbsp;<em>Boston, Inspirational Women&nbsp;
+        </em>Boston, MA: Three Bean Press, 2011.<br>The Brass Sisters&apos; s website: 
+        <a href="http://www.thebrasssisters.com/" >www.thebrasssisters.com</a>.<br>
         <i>The Boston Globe</i>, Sept. 12, 2022</p>
      
 
@@ -1877,7 +2120,8 @@ b_bios = [
             Born in England, Mary Agnes Burniston was educated
             at Bedford College, University of London. Soon after she married Leslie J Brazier
             in 1928, she finished her Ph.D. degree in physiology at the University of London
-            in 1929. <br><br>
+            in 1929. 
+            <br><br>
             
             When the bombing of London began at the beginning of the Second World
             War in 1939, she decided to bring her young son to the United States to ensure
@@ -1890,14 +2134,16 @@ b_bios = [
             Institute soon after it was created and was named Professor of Anatomy. Besides
             numerous scientific articles in her field, she published a number of books on
             the history of neurophysiology from the 17th through the 19th century. She became a U.S. 
-            citizen while in California, in 1961.<br><br>At the
+            citizen while in California, in 1961.
+            
+            <br><br>At the
             end of her life she retired to Massachusetts, dying at the age of 91.
 
             `,
         otherNotes: "",
         references: `Ogilvie, Marilyn and Joy Harvey. <em>Biographical
-                Dictionary of Women Scientists</em>. Routledge Press, 2000.<Br>
-                <i>Massachusetts, Death Index</i>, 1970-2003.<Br>
+                Dictionary of Women Scientists</em>. Routledge Press, 2000.<br>
+                <i>Massachusetts, Death Index</i>, 1970-2003.<br>
                 <i>U.S. Naturalization Record Indexes</i>, 1791-1992.
 
 
@@ -1928,33 +2174,34 @@ b_bios = [
         narrative: `
 
 
-            Bread and Roses was a feminist group that seized
-            an unoccupied building owned by Harvard University in 1971. The women held the
-            
+        Bread and Roses was a feminist group that seized
+        an unoccupied building owned by Harvard University in 1971. The women held the
+        
 
-            building for ten days, offering free classes and childcare before they were
-            forced out. Sympathetic individuals donated $5,000, and Bread and Roses bought
-            a house at 46 Pleasant Street in Cambridge. 
-            <Br><Br>
-            In an interview, Tess Ewing explained:
+        building for ten days, offering free classes and childcare before they were
+        forced out. Sympathetic individuals donated $5,000, and Bread and Roses bought
+        a house at 46 Pleasant Street in Cambridge. 
+        <br><br>
 
-            <blockquote>
+        In an interview, Tess Ewing explained:
+
+        <blockquote>
        " We defined Bread and Roses as a 'Revolutionary Autonomous Women's Liberation
-        Organization.<Br>
+        Organization.<br>
         1. Revolutionary meant that we supported liberation struggles around the
         world and at home. We saw the Panthers and the black liberation
         movement as part of the 3d world liberation struggle. So we were antiImperialist and anti-racist.
-        <Br>2. It also meant we were anti-reformist: we didn't want equal rights; we
+        <br>2. It also meant we were anti-reformist: we didn't want equal rights; we
         wanted liberation [...]
-        <Br>3. Autonomous meant that we worked on our own, but were always part of
+        <br>3. Autonomous meant that we worked on our own, but were always part of
         the larger left."
-            </blockquote>
-            
-            Bread and Roses opened the Women's
-                Center in 1972, which ended up being the longest running women's center in the US. Annie
-            Popkin, who wrote her doctoral dissertation on this group, has deposited her reference
-            materials at Schlesinger library.
-            See also <a href="bios.html?ln=WomensCenter&mN=&fN=">Women's Educational Center</a>
+        </blockquote>
+        
+        Bread and Roses opened the Women's
+            Center in 1972, which ended up being the longest running women's center in the US. Annie
+        Popkin, who wrote her doctoral dissertation on this group, has deposited her reference
+        materials at Schlesinger library.
+        See also <a href="bios.html?ln=WomensCenter&mN=&fN=">Women's Educational Center</a>
             `,
         otherNotes: "",
         references: `Annie Popkin (doctoral dissertation on Bread and
@@ -1963,11 +2210,11 @@ b_bios = [
             of Socialist Feminism&#8221; (Brandeis, PhD dissertation 1978).<br>
             Annie Popkin Papers, Schlesinger Library, Radcliffe Institute. Includes materials
             from the affiliated organization, Cell 16.<br>
-            Mass Moments posting<Br>&nbsp;&nbsp;&nbsp;&nbsp;<a
-                href="http://www.massmoments.org/moment.cfm?mid=16">http://www.massmoments.org/moment.cfm?mid=16</a>
-                <Br>
-                Tess Ewing interview: <br>
-                <a class='indent' href="https://www.bu.edu/wgs/files/2013/10/Ewing-Bread-and-Roses.pdf">https://www.bu.edu/wgs/files/2013/10/Ewing-Bread-and-Roses.pdf</a>
+            Mass Moments posting<br>&nbsp;&nbsp;&nbsp;&nbsp;<a
+            href="http://www.massmoments.org/moment.cfm?mid=16">http://www.massmoments.org/moment.cfm?mid=16</a>
+            <br>
+            Tess Ewing interview: <br>
+            <a class='indent' href="https://www.bu.edu/wgs/files/2013/10/Ewing-Bread-and-Roses.pdf">https://www.bu.edu/wgs/files/2013/10/Ewing-Bread-and-Roses.pdf</a>
 
         `,
         photos: [""],
@@ -2009,24 +2256,21 @@ b_bios = [
             statement
             was a reflection that the goal of the strike was to ensure that workers could do more than meet basic needs
             .<br><br>
+
             The project was launched by selling shares of stock to 100 women investors, with the
             Women&rsquo;s Law Collective providing legal support. Instead of tips, Bread and Roses paid above minimum
-            wage
-            and chose to donate to a feminist cause each week, such as Rosie&rsquo;s Place, the first shelter in the
-            country
-            specifically for poor and homeless women. Every Sunday evening, leftover meals were given to the newly
-            opened
-            domestic violence shelter in Cambridge, Transition House. <br><br>
-            Twice a month, individual women artists, many who had never shown their art
-            publicly,
-            were invited to exhibit their artwork. Radical feminist speakers and performers, like Andrea Dworkin and
-            Mary
-            Daly, novelists Tillie Olsen and Alice Walker, musicians Alix Dobkin and Willie Tyson electrified the space,
-            as
-            did scientists, and athletes. Once, a woman rushed in, saying, &ldquo;I just arrived from Ireland, and this
-            is
+            wage and chose to donate to a feminist cause each week, such as Rosie&rsquo;s Place, the first shelter in the
+            country specifically for poor and homeless women. Every Sunday evening, leftover meals were given to the newly
+            opened domestic violence shelter in Cambridge, Transition House. <br><br>
+
+            Twice a month, individual women artists, many who had never shown their art publicly,
+            were invited to exhibit their artwork. Radical feminist speakers and performers, like Andrea Dworkin and Mary
+            Daly, novelists Tillie Olsen and Alice Walker, musicians Alix Dobkin and Willie Tyson electrified the space, as
+            did scientists, and athletes. Once, a woman rushed in, saying, &ldquo;I just arrived from Ireland, and this is
             the first place I wanted to visit!&rdquo;
-           <br><br> In 1978 the restaurant sold to young feminists who in turn
+           <br><br> 
+           
+           In 1978 the restaurant sold to young feminists who in turn
             opened another one named, Amaranth, which when sold again became Daddio&rsquo;s restaurant (to which a
             Cambridge
             city councilwoman quipped, &ldquo;Given its history, do you have to name it Daddio&rsquo;s?&rdquo;). The
@@ -2074,14 +2318,18 @@ b_bios = [
             in 1890 when she was seven, where she was raised and educated (55 Essex Street).
 
             Charlotte attended public schools in Cambridge, including the Cambridge English High School. 
-            She then attended Massachusetts State Normal School. <br><br>In 1902, after a year in North
+            She then attended Massachusetts State Normal School. 
+            
+            <br><br>In 1902, after a year in North
             Carolina, she founded the Palmer Memorial Institute there. This began as a rural
             county school but gradually developed into a private preparatory school for
             middle-class African American children, named after the Wellesley College president
             Alice Freeman Palmer who had funded her education. Although originally intended
             to educate all county children, she soon began to emphasize secondary and junior
             college education. She met and married a Harvard graduate, Edward S. Brown,
-            but the marriage lasted only five years.<br><br> Attracting funding and students throughout
+            but the marriage lasted only five years.
+            
+            <br><br> Attracting funding and students throughout
             the country, Charlotte Hawkins Brown continued to return to Cambridge each summer
             to raise money for the Institute and to continue her studies at Harvard, Wellesley
             and Simmons colleges. As the Institute grew more famous, she traveled throughout
@@ -2091,10 +2339,10 @@ b_bios = [
             `,
         otherNotes: "",
         references: ` <em>Notable American Women, Modern Period</em> (Belnap
-            Press: 1980).<Br>
-            Photo from wikipedia.com:<Br>
-            <a class='indent' href="https://en.wikipedia.org/wiki/Charlotte_Hawkins_Brown#/media/File:Charlotte_Eugenia_Hawkins_Brown.jpg">https://en.wikipedia.org/wiki/Charlotte_Hawkins_Brown#/media/File:Charlotte_Eugenia_Hawkins_Brown.jpg</a><Br>
-            <br>Wikipedia entry:<Br>
+            Press: 1980).<br>
+            Photo from wikipedia.com:<br>
+            <a class='indent' href="https://en.wikipedia.org/wiki/Charlotte_Hawkins_Brown#/media/File:Charlotte_Eugenia_Hawkins_Brown.jpg">https://en.wikipedia.org/wiki/Charlotte_Hawkins_Brown#/media/File:Charlotte_Eugenia_Hawkins_Brown.jpg</a><br>
+            <br>Wikipedia entry:<br>
             <a class='indent' href="https://en.wikipedia.org/wiki/Charlotte_Hawkins_Brown">https://en.wikipedia.org/wiki/Charlotte_Hawkins_Brown</a>
         `,
         photos: ["images_bios/brown_charlotte.jpg"],
@@ -2129,7 +2377,9 @@ b_bios = [
             Industrial School for Crippled Children for 45 years. She was a member of the
             Harvard Epworth Church where she was a committed member of the United Methodist
             Women's Society. Throughout her life, she devoted her time volunteering
-            at Morgan Memorial, knitting hundreds of mittens and hats. <br><br>In 1954, she was living at 26 Concord Avenue.
+            at Morgan Memorial, knitting hundreds of mittens and hats. 
+            
+            <br><br>In 1954, she was living at 26 Concord Avenue.
             <br><br> She was 100 when
             she died.
 
@@ -2169,9 +2419,9 @@ b_bios = [
             when he was sixty years old and she only twenty. The marriage took place over
             the objections of her father but with approval of her mother. A daughter, Olea,
             was born a year later and for a few years they lived in Madison in a house her
-            father built for them. <br><br>Sara took an active role in Ole Bull's complicated
+            father built for them.
             
-
+            <br><br>Sara took an active role in Ole Bull's complicated
             financial affairs. The family moved to Cambridge and rented James Russell Lowell's
             house while they had a house built for them at 168 Brattle Street. After Ole's
             death, Sara wrote his biography, <em>Ole Bull: A Memoir</em>, which was published
@@ -2179,7 +2429,9 @@ b_bios = [
             of Boston and Cambridge, and became a close companion of important figures including
             Julia Ward Howe, Annie Allegra Longfellow Thorp, daughter of the poet Henry
             Wadsworth Longfellow, who married her brother Joseph Gilbert Thorp, Alice Longfellow,
-            and Sara Orne Jewett. <br><br>Sara Bull's most notable project was initiating
+            and Sara Orne Jewett. 
+            
+            <br><br>Sara Bull's most notable project was initiating
             and sponsoring the Cambridge Conferences. These were held at her home on Brattle
             Street, bringing together leading intellectual, artistic, and philosophical
             figures for a series of lectures offered each spring and fall from 1896 through
@@ -2189,7 +2441,7 @@ b_bios = [
 
             `,
         otherNotes: "",
-        references: ` <em>Dictionary of Wisconsin History (Ole Bull)</em>.<Br>
+        references: ` <em>Dictionary of Wisconsin History (Ole Bull)</em>.<br>
             Sara C. Bull, <em>Ole Bull: A Memoir</em> (1883)<br>&#8220The Bull-Curtis Collection
             Guide,&#8221; Cambridge Historical Society Library.
         `,
@@ -2222,22 +2474,29 @@ b_bios = [
             Born to Mary (Shotwell) and Henry A. Ingraham
             in Brooklyn, Mary was educated as a scientist, graduating from Vassar in 1931
             with a degree in physics and obtaining her Ph.D. from University of Wisconsin
-            in 1934. <br><br>Her early papers on color variations in the bacterium <em>Serratia
+            in 1934. <br><br>
+            
+            Her early papers on color variations in the bacterium <em>Serratia
                 marcescens</em> were significant studies in microbial genetics. In 1937 she
             married Henry Bunting. She taught biology at a number of colleges, including
             Bennington, Gaucher, Yale, and Wellesley. After the death of her husband in
             1954, she took an administrative position at Douglass College for Women, Rutgers
             University in 1955. She was named president of Radcliffe College in Cambridge in 1960 and
-            held that position until 1973 (in 1963, she was living at 6 Brattle Street). As president, she made a number of significant
+            held that position until 1973 (in 1963, she was living at 6 Brattle Street). As president,
+             she made a number of significant
             changes at Radcliffe. During her tenure, Radcliffe students first received Harvard
             degrees, women were admitted to the graduate and business schools, and the Radcliffe
             Graduate School merged with Harvard's Graduate School of Arts and Sciences.
-            <br><br>Bunting established the Radcliffe Institute for Independent Study, initially
+            <br><br>
+            
+            Bunting established the Radcliffe Institute for Independent Study, initially
             designed to encourage the furthering of the careers of talented women who taken
             off time to raise a family. In 1972, she left the presidency of Radcliffe and
             took a position as special assistant to the president of Princeton University,
             where she remained until 1975, guiding the university through its first years
-            as a co-educational institution. <br><br>In 1979, she married for the second time to
+            as a co-educational institution. 
+            
+            <br><br>In 1979, she married for the second time to
             a Harvard Medical School pediatrician, Dr. Clement A. Smith. After his death
             in 1988, she spent the remainder of her life in a continuing care facility in
             New Hampshire. 
@@ -2245,9 +2504,9 @@ b_bios = [
             `,
         otherNotes: "",
         references: ` Ogilvie, Marilyn and Joy Harvey. <em>Biographical
-                Dictionary of Women Scientists.</em> Routledge Press, 2000. <Br>Obituary in <em>Harvard
+                Dictionary of Women Scientists.</em> Routledge Press, 2000. <br>Obituary in <em>Harvard
                 Gazette</em>, 1998.
-                <br><i>Cambridge City Directory</i>, 1963.<Br>
+                <br><i>Cambridge City Directory</i>, 1963.<br>
                 Photo from wikipedia.com:
                 <br><a class='indent' href="https://en.wikipedia.org/wiki/Mary_Bunting#/media/File:Mary_Bunting.jpg">https://en.wikipedia.org/wiki/Mary_Bunting#/media/File:Mary_Bunting.jpg</a>
         `,
@@ -2278,13 +2537,16 @@ b_bios = [
 
 
             Antonia Neves Burke graduated from East Boston
-            High School in 1945 (where she was an avid dancer, winning jitterbug contests) and later became a longtime resident of Cambridge.<br><br>
+            High School in 1945 (where she was an avid dancer, winning jitterbug contests) and later
+             became a longtime resident of Cambridge.<br><br>
             
             She worked as
-            a teaching aide at the Centre School in Newton and eventually got her bachelor's degree in special education from the University of Massachusetts,
+            a teaching aide at the Centre School in Newton and eventually got her bachelor's degree
+             in special education from the University of Massachusetts,
             to be able to work with children with severe learning disabilities. She also worked in
             the Cambridge Public School system, taught at the Boston University Mini
-            School (when she was living at 46 Walden Street in Cambridge), and worked with handicapped children at Boston City Hospital. 
+            School (when she was living at 46 Walden Street in Cambridge), and worked with handicapped
+             children at Boston City Hospital. 
             Burke occupied the position of Director 
             of Public Relation and Recruitment
             for the Cambridge School Volunteers. She received the Tuskegee Airmen's
@@ -2293,7 +2555,8 @@ b_bios = [
             pursuit of individual goals. 
             
             <br><br> She participated
-            as a member of the <a href="bios.html?lNm=BackPorchDanceCompany&mNm=&fNm=">Back Porch Dance Company</a>.
+            as a member of the <a href="bios.html?lNm=BackPorchDanceCompany&mNm=&fNm=">Back Porch Dance 
+            Company</a>.
             Burke was quoted in a January 1991 <i>Cambridge Chronicle</i> article describing her very 
             musical Cape Verdean family and that they would celebrate 
             the holidays by dancing the mazurka:
@@ -2303,6 +2566,7 @@ b_bios = [
             house and the grown-ups would end up at my mother's house. 
             I would sit on the edge of the bed and listen to them play."
             </blockquote>
+
             She was also involved with the Cambridge Peace
             Commission and the First Parish Unitarian Universalist Church.
             
@@ -2310,8 +2574,8 @@ b_bios = [
             `,
         otherNotes: "",
         references: `<em>Cambridge Chronicle</em> May 7, 1959, January 29, 1991, September 30, 1999.
-        <Br><i>The Boston Globe</i>
-Thu, Sep 30, 1999, page 77.
+        <br><i>The Boston Globe</i>
+        Thu, Sep 30, 1999, page 77.
         `,
         photos: [""],
         photoTitles: [],
@@ -2345,11 +2609,15 @@ Thu, Sep 30, 1999, page 77.
              Harvard Square, a consignment shop created by a group of women who wished to help refugees fleeing Europees and 
              one of the few businesses in Cambridge to hire African Americans leaving the South. 
              She also served with the Cambridge Election
-            Commission. <br><br>She was an active member on the board of directors at the Cambridge
+            Commission. 
+            
+            <br><br>She was an active member on the board of directors at the Cambridge
             Community Center on Callendar Street, from 1985 to 1993. In 1993 she was named honorary member and
             continued her service to the center and community by supporting their activities
             and events. Her family lived for many years at 220 Western Avenue and she later lived at 89 Brookline 
-            Street with her husband (Stanley Jones Burrell) and two children.<br><br>She was 84 when she died. 
+            Street with her husband (Stanley Jones Burrell) and two children.
+            
+            <br><br>She was 84 when she died. 
 
             `,
         otherNotes: "",
@@ -2384,19 +2652,24 @@ Thu, Sep 30, 1999, page 77.
             directors of the Cambridge Council on Aging. She was elected vice president
             in 1996 and president in 1997. She also served as vice president of the American
             Association of Retired Persons (AARP) and in the 1970s was a "Mother's March Captain,"
-            helping to raise money for causes like the March of Dimes. <br><br>
+            helping to raise money for causes like the March of Dimes. 
+            
+            <br><br>
             She served on the city's advisory
             group during the development of the accessible taxi services, and also has served
             on the board of the Alzheimer's Association, the YWCA, CEOC, the Vision
             Foundation, the Cambridge Commission for Persons with Disabilities, and the
             school's panel to interview school principals. She offered consultation
             to CASCAP on the development of affordable assisted living units at Harvard
-            Place in Cambridge. <br><br>She was 69 when she died.<br><Br>
+            Place in Cambridge. 
+            
+            <br><br>She was 69 when she died
+            .<br><br>
             By 2002, Cambridge had created a Jeanne V. Burton Community Service Award, to be awarded annually.
 
             `,
         otherNotes: "",
-        references: `<em>Cambridge Chronicle</em> July 22, 1999, April 3, 2002.<Br>
+        references: `<em>Cambridge Chronicle</em> July 22, 1999, April 3, 2002.<br>
         <i>The Cambridge Chronicle</i>, 8 January 1970.
 
         `,
@@ -2428,14 +2701,20 @@ Thu, Sep 30, 1999, page 77.
 
             Caroline B. Butler was a life-long resident of
             Cambridge, growing up at 275 Prospect Street with her parents Matthew (a baker at a factory) and Elizabeth Butler,
-            both of whose parents were Irish immigrants. <Br><Br>She attended St. Mary's High School and the University of Lowell
-            Normal School. <br><br>She taught at the Thorndike School while continuing her education
+            both of whose parents were Irish immigrants. 
+            
+            <br><br>She attended St. Mary's High School and the University of Lowell
+            Normal School. 
+            
+            <br><br>She taught at the Thorndike School while continuing her education
             at the evening school of Boston College. She was a 4th grade teacher at the
             Thorndike School in East Cambridge for 50 years. She was feted at her 100th
             birthday by the Cambridge City Council and a presentation by the mayor of Cambridge,
             Sheila Russell. A few years earlier she was honored as one of the 14 women who
             initially and continually voted in Cambridge following women's suffrage.
             She continued to vote right up to the last election in November before she died.
+            
+            
             <br><br>She was 102 when she died. 
 
             `,
@@ -2443,8 +2722,8 @@ Thu, Sep 30, 1999, page 77.
         references: `<em>Cambridge Chronicle</em> 2 February, 2000.
         <br><i>Cambridge City Directory</i>, 1972.<br>
         <i>The Cambridge Tribune</i>, 23 November 1918.<br>
-        <i>U.S. Census</i> 1910, 1920, 1930.<Br>
-        Birthdate from ancestry.com<Br> <a class='indent' href="https://www.ancestry.com/family-tree/person/tree/119672567/person/230193076280/facts">https://www.ancestry.com/family-tree/person/tree/119672567/person/230193076280/facts</a>
+        <i>U.S. Census</i> 1910, 1920, 1930.<br>
+        Birthdate from ancestry.com<br> <a class='indent' href="https://www.ancestry.com/family-tree/person/tree/119672567/person/230193076280/facts">https://www.ancestry.com/family-tree/person/tree/119672567/person/230193076280/facts</a>
 
         `,
         photos: ["images_bios/butler.png"],
@@ -2478,12 +2757,12 @@ Thu, Sep 30, 1999, page 77.
 
         Gladys Marion Canada's father was Ambrose Canada, who was born 1882 in Tennessee.  Her mother was
          Ellen Louise Harvey (born in Virginia).  Gladys' grandfather Anthony Canada was born in 1851 in Virginia and being an
-        African American, this likely means he was born into slavery.  <Br><Br>
+        African American, this likely means he was born into slavery.  <br><br>
 
         By the early 1900s, Gladys' grandfather Anthony had moved to Cambridge and the
         family lived on Harvey St. in North Cambridge.  They later moved to North Woburn,
         where Gladys had her early schooling and she went on to attend the Boston Industrial
-        Trade School in the early 1920s, where she excelled in sewing (the school in the North End still exists today). <Br><Br>
+        Trade School in the early 1920s, where she excelled in sewing (the school in the North End still exists today). <br><br>
 
         In 1926, she married Frank R. Butler, who worked as a porter, and by 1941 they had
         moved into a house on Hubbard Avenue in North Cambridge. Gladys was a dedicated mother 
@@ -2495,8 +2774,8 @@ Thu, Sep 30, 1999, page 77.
 
             `,
         otherNotes: "",
-        references: ` <em>Cambridge Chronicle</em> Sept. 16, 1999.<Br>
-        <i>US Census</i> 1910, 1941.<Br>
+        references: ` <em>Cambridge Chronicle</em> Sept. 16, 1999.<br>
+        <i>US Census</i> 1910, 1941.<br>
         King Institute at Stanford University:
         <br>
         <a class='indent' href="https://kinginstitute.stanford.edu/king-preaches-cambridges-union-baptist-church">https://kinginstitute.stanford.edu/king-preaches-cambridges-union-baptist-church</a>
@@ -2532,7 +2811,8 @@ Thu, Sep 30, 1999, page 77.
     area in Roxbury.  She attributed her love of outdoor adventures to vacations spent in the Maine woods 
     during her childhood. Butcher studied to become a veterinary technician at Colorado State University. 
     She moved to Alaska in 1975, to pursue her passion for dogsled racing and to train for the Iditarod 
-    Trail Sled Dog Race.<Br><Br>
+    Trail Sled Dog Race.<br><br>
+
     Butcher, who raced in her first Iditarod, a grueling 1,100 mile race from Anchorage to
     Nome, in 1978, finished in the top five from 1980 to 1984. In 1985, she was leading in the early
     stages of the race when a sick and dying moose blundered into her path on the trail. A few
@@ -2540,14 +2820,16 @@ Thu, Sep 30, 1999, page 77.
     the race. In 1986, she became the second woman to win the race. She added victories in 1987,
     1988, and 1990, and finished in the top four through 1993. Butcher finished in the top five in 12
     of her 17 attempts at the Iditarod from 1978 to 1994. Her success brought unprecedented
-    attention to the race.<Br><Br>
+    attention to the race.<br><br>
+
     Butcher's careful training and treatment of her dogs revolutionized the sport. She raised
     and trained dogs with her husband at Trail Breakers Kennel near Fairbanks, Alaska. In a 1990
     interview with <i>The Boston Globe</i>, Butcher commented on her relationship with her sled dogs,
     "They used to say this race was one-third dog, one-third musher, and one-third luck, but I think
     I changed that. I am meticulous about training and caring for my dogs. They're everything - my
     friends, family, and co-workers. They are the athletes and are trained and chosen for
-    competition just like any athlete."<Br><Br>
+    competition just like any athlete."<br><br>
+
     In 1994, Butcher ran her last Iditarod, when she decided to have children. She had two
     daughters, Tekla and Chisana, with her husband, lawyer and musher, David Monson. She
     passed away in 2006, at age 51, in Seattle, WA, from leukemia. In 2008, the Alaska state
@@ -2559,20 +2841,20 @@ Thu, Sep 30, 1999, page 77.
             `,
         otherNotes: "",
         references: ` Bernstein, V. Susan Butcher, Pioneer in Sled Dog Racing. (August 17, 2006). New York
-        Times. <Br>Retrieved 7/4/2020 from
+        Times. <br>Retrieved 7/4/2020 from
         <a href="https://www.nytimes.com/2006/08/07/sports/07butcher.html" >
-        https://www.nytimes.com/2006/08/07/sports/07butcher.html</a>.<Br>
+        https://www.nytimes.com/2006/08/07/sports/07butcher.html</a>.<br>
         Academy of Achievement (n.d). Interview with Susan Butcher, Champion Dog Sled Racer.
-        <Br>Retrieved 7/4/2020 from <a href="https://achievement.org/achiever/susan-butcher/#interview/" >
-        https://achievement.org/achiever/susan-butcher/#interview/</a>.<Br>
+        <br>Retrieved 7/4/2020 from <a href="https://achievement.org/achiever/susan-butcher/#interview/" >
+        https://achievement.org/achiever/susan-butcher/#interview/</a>.<br>
 
-        Alaska Sports Hall of Fame (n.d.). Susan Butcher: Hard-nosed Competitor. <Br>Retrieved 7/4/2020
+        Alaska Sports Hall of Fame (n.d.). Susan Butcher: Hard-nosed Competitor. <br>Retrieved 7/4/2020
         from <a href=" http://alaskasports.wpengine.com/inductee/susan-butcher/" > http://alaskasports.wpengine.com/inductee/susan-butcher/</a>.
-        <Br><br><a href="https://www.thecrimson.com/article/1974/5/24/the-warehouse-school-one-alternative-pthe/" >
-        https://www.thecrimson.com/article/1974/5/24/the-warehouse-school-one-alternative-pthe/</a>.<Br><Br>
+        <br><br><a href="https://www.thecrimson.com/article/1974/5/24/the-warehouse-school-one-alternative-pthe/" >
+        https://www.thecrimson.com/article/1974/5/24/the-warehouse-school-one-alternative-pthe/</a>.<br><br>
         Image from <a href="https://commons.wikimedia.org/wiki/File:Fairbanks_-_Susan_Butcher_and_Dogs.jpg" >
         https://commons.wikimedia.org/wiki/File:Fairbanks_-_Susan_Butcher_and_Dogs.jpg</a>.
-<br><Br><b>NOTE: bio written July 2020 - added to site in 2025</b>
+        <br><br><b>NOTE: bio written July 2020 - added to site in 2025</b>
         `,
         photos: ["images_bios/susan_butcher.jpg"],
         photoTitles: [],
@@ -2602,42 +2884,42 @@ Thu, Sep 30, 1999, page 77.
 
         Barbara Beckwith grew up in New York, Pennsylvania and New Jersey, moving to 
         Cambridge in 1965 where she enthusiastically took on the roles of activist, journalist, 
-        teacher, and essayist.<br><Br>
+        teacher, and essayist.<br><br>
 
         In the 1970s and 1980s, Barbara was involved in local fights for rent control, educational 
         access, withdrawal from the Vietnam War, women's liberation, ending the nuclear arms race, 
-        social responsibility in science, and writers' rights.<br><Br>
+        social responsibility in science, and writers' rights.<br><br>
 
         In the 1970s, she went door-to-door to advocate for rent control, and then to end the 
         Vietnam War. In the 1980s, alarmed by the nuclear arms buildup during President Reagan's 
         presidency, she and other Cambridge women formed an affinity group and participated in civil 
         disobedience at various sites, including at an arms marketing event at the Colonnade Hotel in
-        Cambridge. Arrested twice for trespassing, she did community service, per a judge's orders.<br><Br>
+        Cambridge. Arrested twice for trespassing, she did community service, per a judge's orders.<br><br>
 
         Barbara was committed to Cambridge's public schools, which her two sons attended. 
         She helped launch the Cambridge School Volunteers Program (museum kits and speakers programs) 
         and the city's after-school program. As education chair of the Civic Unity Committee, 
         she pressed for more Black teachers, library books, curriculum, and participated in the 
         hiring of Cambridge's first African American Superintendent of Schools, Alfonso Cheatham.
-        As Clerk of the Cambridge Civic Association, she worked on progressive platforms.<br><Br>
+        As Clerk of the Cambridge Civic Association, she worked on progressive platforms.<br><br>
 
         Starting in the 1970s, Barbara taught English for 12 years at Pilot School in Cambridge and Home Base in 
         Watertown, both alternative public high schools. She developed courses on subjects such 
-        as <i>Real People</i> (interviewing), <i>Language and Power</i>, and <i>Assertiveness</i>.<br><Br>
+        as <i>Real People</i> (interviewing), <i>Language and Power</i>, and <i>Assertiveness</i>.<br><br>
 
         She worked with Cambridge-based non-profit FairTest to co-author <i>Standing Up to the SAT</i> 
         (ARCO, 1989), a critique of standardized tests. In the 1990s, she was active in Cambridge-based
         Educators for Social Responsibility, where she and other teachers developed teaching guides 
         on nuclear issues and concepts of peace. She served on the editorial board of Science for 
         the People, based in Central Square, and with her husband Jon, was active in its sociobiology
-         study group.<br><Br>
+         study group.<br><br>
 
         Barbara returned to college in her 40s to get a journalism degree, worked at the Middlesex 
         News and Brookline Chronicle, and then became a freelance writer (the Cambridge Chronicle published 
         her first feature article on Huron Ave women business owners.) She published articles and 
         essays in local, regional, national and movement/feminist newspapers, magazines, anthologies, 
         and radio. She was for many years a news editor and contributor to the Cambridge-based feminist
-        journal, <i>Sojourner: the Women's Forum</i>.<br><Br>
+        journal, <i>Sojourner: the Women's Forum</i>.<br><br>
 
         In the 1990s, she taught journalism as an adjunct professor at Framingham State College, 
         Suffolk University, and Emerson College, and led journalism, travel and essay writing workshops
@@ -2646,49 +2928,54 @@ Thu, Sep 30, 1999, page 77.
         board. In 1991, PEN New England awarded her their "Friend to Writers" award for organizing
             biennial "For Love AND Money" writers' conferences held at the John F Kennedy School of
             Government. She was also the union's Series Advisor for the <i>Writers Life</i> monthly speaker
-            series at the Cambridge Center for Adult Education.<br><Br>
+            series at the Cambridge Center for Adult Education.<br><br>
 
         As a member of the NWU national and local diversity committees, Barbara worked to prioritize 
         issues vital to writers of color, LGBTQ writers, and writers with disabilities. She built a 
         "Publishers and Editors Who Work with Writers of Color" database. She also worked with 100 
-        writers to produce the union's <i>Building Strength Through Diversity</i> handbook (2002).<br><Br>
+        writers to produce the union's <i>Building Strength Through Diversity</i> handbook (2002).<br><br>
 
         The more Barbara became aware of the complexity of anti-Black racism, she determined to take 
         action in every sphere (institutional, interpersonal, individual) of her life. She joined 
         Community Change Inc's anti-racism library committee, and volunteered as a Gustavus Meyers 
-        Awards book reviewer.<br><Br>
+        Awards book reviewer.<br><br>
 
         In the 1990s, she worked to challenge institutional, cultural, and individual racism. In 2001,
         She became a co-facilitator of <i>"White People Challenging Racism: Moving from Talk to Action"</i> 
         workshops at the Cambridge Center for Adult Education, and co-led workshops or spoke at White
         Privilege conferences, at racial justice conferences in Connecticut, Pennsylvania, and at
-        Cambridge's Women's Explore lecture/discussion series.<br><Br>
+        Cambridge's Women's Explore lecture/discussion series.<br><br>
 
         She compiled her personal essays that pondered racism and white privilege (including her own) 
         into a booklet series: <i>What Was I Thinking? Reflecting on Everyday Racism</i> (2009), <i>Digging Deeper
         into Everyday Racism</i> (2013) and <i>Questions and Quandaries</i> (2015).
-        <br><Br>
+        <br><br>
         Beckwith's 2013 essay, "Why Read Slave Narratives?" exemplifies her reflective and honest style of writing.
          She relates her past avoidance of narratives written about the horrors of slavery and of the Holocaust and 
          then writes:
+        
          <blockquote>
 
         "...In both cases, I feared that they'd be solely about bondsmen and bondswomen stripped of dignity, agency,
-         and humanity.<br><Br>
+         and humanity.<br><br>
 
         "My change of heart and mind started with a plaque I noticed in front of a house in my neighborhood in 
         Cambridge. Installed as part of my city's new African American Heritage Trail, it marked the home of
          Harriett Jacobs, who, more than 150 years ago, self-published under the pseudonym Linda Brent, a memoir 
          of her enslavement, escape, and life as an emancipated woman.
-        <br><Br>
+        <br><br>
+
         "As a fellow writer, I was intrigued. So I put my qualms aside, and read Jacobs' "Incidents in the Life 
         of a Slave Girl Written by Herself", and then a dozen other books penned by men and women who had endured
          bondage.
-            <br><Br>
+            <br><br>
+
         "I found that yes, they describe the horror of forced labor, rape, hunger, thirst, 16-hour workdays, 
         illiteracy, and brutality. But they're also a testament to endurance and resistance."
         </blockquote>
+        
         The essay concludes with:
+        
         <blockquote>
         "...We need these stories to balance our images of victims with counter images of resilience and
          resistance. And to know what forms of resistance we, too, are capable of, when humanity requires 
@@ -2697,7 +2984,7 @@ Thu, Sep 30, 1999, page 77.
 
         In her 80s, Barbara coached a Women's Writing Workshop for older women who live in Mission 
         Hill, Fenway, Jamaica Plain, Roxbury and Dorchester. The free workshop culminated in <i>From
-         Our Notebooks: Essays, Stories, and Reflections booklets </i>(2017, 2019).<br><Br>
+         Our Notebooks: Essays, Stories, and Reflections booklets </i>(2017, 2019).<br><br>
 
         When her husband was diagnosed with Alzheimer's disease in 2020, she wrote essays to explore her
         perspective on their experience, freely sharing her "Learning to Care" series with others facing
@@ -2707,7 +2994,7 @@ Thu, Sep 30, 1999, page 77.
             `,
         otherNotes: "",
         references: `Source: in-person interview and email exchange with Anthony Beckwith
-        <Br>Slave Narrative Essay at BarbaraBeckwith.net:<br>
+        <br>Slave Narrative Essay at BarbaraBeckwith.net:<br>
         <a class='indent' href="https://www.barbarabeckwith.net/2013/10/01/why-read-slave-narratives-2/">https://www.barbarabeckwith.net/2013/10/01/why-read-slave-narratives-2/</a>
 
         `,
@@ -2742,10 +3029,10 @@ Thu, Sep 30, 1999, page 77.
              <h1>
                 <a href="https://platestacks.cfa.harvard.edu/women-at-hco/florence-c-bibber" >Florence Bibber's story</a>
              </h1>
-</center>
+        </center>
         The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" >Women Astronomical Computers at the Harvard College Observatory</a> project is 
         dedicated to highlighting the lives and work of women who spent time studying and caring 
-        for the observatory's glass plate photograph collection.<Br>
+        for the observatory's glass plate photograph collection.<br>
         <center>       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" > <img src="images_bios/harvard-astronomers.png" width='350'></a>
         
         </center>
@@ -2785,25 +3072,28 @@ Thu, Sep 30, 1999, page 77.
          for her alma mater. By 1971, that fundraiser had become a nonprofit seller of used and rare books, located 
          at 373 Huron Avenue in West Cambridge. The store remains at that address more than 50 years later (Betty 
          and another volunteer bought the building, which was then purchased in the 1980s by the bookstore with an 
-         interest-free loan).<br><Br>
+         interest-free loan).<br><br>
+
         Through Betty's leadership, all of the books for the Bryn Mawr Book Store are donated, the staff is volunteer, and
         the profits fund scholarships at Bryn Mawr. Betty, who would volunteer at the store about 20 hours each week and 
         loved books and book-selling, once remarked on "the pleased reactions of gluttonous customers." Her daughter, 
         Hester Butterfield, remembers reading aloud at the dinner table excerpts from the day's best donations.
         Betty's husband, Lyman H. Butterfield, a historian knowledgeable about rare books, helped with the sorting and 
-        pricing of books in the basement of their home in Cambridge.<br><Br>
+        pricing of books in the basement of their home in Cambridge.<br><br>
+
         Over the years the store has donated more than $2 million for scholarships. The scholarships had special meaning 
         for Betty: her father lost everything in the Depression and Bryn Mawr allowed her to enroll even when she couldn't
-        afford tuition.<br><Br>
+        afford tuition.<br><br>
+
         Betty worked full-time at Harvard University for 19 years, including as assistant to the dean of Radcliffe College, 
         assistant registrar of the faculty, and secretary of the Social Studies Department. She was known for her efficiency 
         and was well-liked, especially by undergraduates, for helping them navigate the bureaucracy. Unhappy with how much 
-        the department was spending on food for the senior-faculty dinner, she made all the food herself.<br><Br>
+        the department was spending on food for the senior-faculty dinner, she made all the food herself.<br><br>
 
         Betty was also involved in social activism. At a 1970 rally against the Vietnam War, her endorsement to the crowd 
         of a university-wide strike at Harvard to protest the invasion of Cambodia and the killing of four students at 
         Kent State University was met with "thunderous applause," according to <i>The Harvard Crimson</i> (in 1972, she was living
-        at 5 Berkeley Place in Cambridge).<br><Br>
+        at 5 Berkeley Place in Cambridge).<br><br>
 
         There were once nine Bryn Mawr bookstores across the Northeast, but the Cambridge store and The Lantern in 
         Washington, D.C., are the only survivors. In 2024, the store received a Cambridge Business Award, recognizing
@@ -2815,32 +3105,32 @@ Thu, Sep 30, 1999, page 77.
             `,
         otherNotes: "",
         references: `
-            "Elizabeth Eaton Butterfield, 65, Founder of Bryn Mawr Book Sale" (July 14,
-            1978)
-            <i>The New York Times</i>:<br>
-            <a class='indent' href="https://www.nytimes.com/1978/07/14/archives/elizabeth-eaton-butterfield-65-founder-of-bryn-mawr-book-sale.html" >https://www.nytimes.com/1978/07/14/archives/elizabeth-eaton-butterfield-
-            65-founder-of-bryn-mawr-book-sale.html</a>.
-            <br> <br>
-            “The First Fifty Years: A History of the Bryn Mawr Book Store in Cambridge
-            with a Nod to its Sister Stores” by Jan Gardner, 2023<br>
-            <a class='indent' href="https://brynmawrbookstore.com/bookstore-history-for-sale/" >https://brynmawrbookstore.com/bookstore-history-for-sale/</a>.
-            <br> <br>
-            "Long-Time Administrator Elizabeth Butterfield Dies" (July 18, 1978) <i>Harvard
-            Crimson</i>:<Br>
-            <a class='indent' href="https://www.thecrimson.com/article/1978/7/18/long-time-administrator-elizabeth-butterfield-dies-pmrs/" >https://www.thecrimson.com/article/1978/7/18/long-time-administrator-
-            elizabeth-butterfield-dies-pmrs/</a>
-            <br> <br>
-            "Elizabeth Butterfield (1913 - 1978)" by Dan Swanson (July 18, 1978)
-            <i>Harvard Crimson</i>:<br>
-            <a class='indent' href="https://www.thecrimson.com/article/1978/7/18/elizabeth-butterfield-1913-1978-pbsbome/" >https://www.thecrimson.com/article/1978/7/18/elizabeth-butterfield-1913-
-            1978-pbsbome/</a>
-            <br><Br>
-            City of Cambridge announcement:<Br>
-            <a class='indent' href="https://www.cambridgema.gov/CDD/News/2024/5/cambridgebusinesseshonoredat2024legacyluncheonawards">https://www.cambridgema.gov/CDD/News/2024/5/cambridgebusinesseshonoredat2024legacyluncheonawards</a><br><Br>
-            Image from findagrave.com:<br>
-             <a class='indent' href="https://www.findagrave.com/memorial/214077114/elizabeth-anne-butterfield">https://www.findagrave.com/memorial/214077114/elizabeth-anne-butterfield</a><Br>
-            <i>Cambridge City Directory</i>, 1972.<Br>
-            <i>U.S., Social Security Death Index</i>, 1935-2014.
+        "Elizabeth Eaton Butterfield, 65, Founder of Bryn Mawr Book Sale" (July 14,
+        1978)
+        <i>The New York Times</i>:<br>
+        <a class='indent' href="https://www.nytimes.com/1978/07/14/archives/elizabeth-eaton-butterfield-65-founder-of-bryn-mawr-book-sale.html" >https://www.nytimes.com/1978/07/14/archives/elizabeth-eaton-butterfield-
+        65-founder-of-bryn-mawr-book-sale.html</a>.
+        <br> <br>
+        “The First Fifty Years: A History of the Bryn Mawr Book Store in Cambridge
+        with a Nod to its Sister Stores” by Jan Gardner, 2023<br>
+        <a class='indent' href="https://brynmawrbookstore.com/bookstore-history-for-sale/" >https://brynmawrbookstore.com/bookstore-history-for-sale/</a>.
+        <br> <br>
+        "Long-Time Administrator Elizabeth Butterfield Dies" (July 18, 1978) <i>Harvard
+        Crimson</i>:<br>
+        <a class='indent' href="https://www.thecrimson.com/article/1978/7/18/long-time-administrator-elizabeth-butterfield-dies-pmrs/" >https://www.thecrimson.com/article/1978/7/18/long-time-administrator-
+        elizabeth-butterfield-dies-pmrs/</a>
+        <br> <br>
+        "Elizabeth Butterfield (1913 - 1978)" by Dan Swanson (July 18, 1978)
+        <i>Harvard Crimson</i>:<br>
+        <a class='indent' href="https://www.thecrimson.com/article/1978/7/18/elizabeth-butterfield-1913-1978-pbsbome/" >https://www.thecrimson.com/article/1978/7/18/elizabeth-butterfield-1913-
+        1978-pbsbome/</a>
+        <br><br>
+        City of Cambridge announcement:<br>
+        <a class='indent' href="https://www.cambridgema.gov/CDD/News/2024/5/cambridgebusinesseshonoredat2024legacyluncheonawards">https://www.cambridgema.gov/CDD/News/2024/5/cambridgebusinesseshonoredat2024legacyluncheonawards</a><br><br>
+        Image from findagrave.com:<br>
+            <a class='indent' href="https://www.findagrave.com/memorial/214077114/elizabeth-anne-butterfield">https://www.findagrave.com/memorial/214077114/elizabeth-anne-butterfield</a><br>
+        <i>Cambridge City Directory</i>, 1972.<br>
+        <i>U.S., Social Security Death Index</i>, 1935-2014.
         `,
         photos: ["images_bios/butterfield.png"],
         photoTitles: [""],
@@ -2870,44 +3160,47 @@ Thu, Sep 30, 1999, page 77.
        Alma Boudreau was a book lover (in the 1970s, she stated
        that every 2-3 weeks she would check out close to ten books from her local library) 
        and a dedicated patron of the Cambridge Public Library system, 
-       serving on its Board of Trustees for 57 years, from the 1930s into the 1980s.<Br><Br>
+       serving on its Board of Trustees for 57 years, from the 1930s into the 1980s.<br><br>
 
         Alma grew up in Cambridge, the youngest of seven children, with her mother Jane and her
          father (a carpenter) John C. Boudreau. Both of her parents were originally from 
          French-speaking Nova Scotia. The family initially lived on Walden Street and Alma 
-         later resided on Lakeview Avenue.<Br><Br>
+         later resided on Lakeview Avenue.<br><br>
 
-    Alma attended the Russell Elementary School on Larch Road, acted in Cambridge-based musical comedies 
-    in her teens, and attended Marycliffe Academy in Arlington, which was founded in the early
-     1900s by nuns from France, specifically to serve the children of French-speaking immigrants.<Br><Br>
+        Alma attended the Russell Elementary School on Larch Road, acted in Cambridge-based musical comedies 
+        in her teens, and attended Marycliffe Academy in Arlington, which was founded in the early
+        1900s by nuns from France, specifically to serve the children of French-speaking immigrants.<br><br>
 
-    Alma became a clerk for the New England Telephone Company in the late 1920s, working at the
-     Temple Street office in Cambridge. She remained with the company for 47 years. In addition 
-     to her work with the telephone company, Alma became a member of the Board of Trustees for 
-     the Cambridge Public Library in the 1930s and remained in that position for 57 years. Alma 
-     was for decades part of fundraisers for Cambridge's Holy Ghost Hospital Guild, which later
-      became Youville Hospital, where she served as a trustee for seven years. By the 1950, 
-      Alma was living at 20 Langdon Street in Cambridge<Br><Br>
+        Alma became a clerk for the New England Telephone Company in the late 1920s, working at the
+        Temple Street office in Cambridge. She remained with the company for 47 years. In addition 
+        to her work with the telephone company, Alma became a member of the Board of Trustees for 
+        the Cambridge Public Library in the 1930s and remained in that position for 57 years. Alma 
+        was for decades part of fundraisers for Cambridge's Holy Ghost Hospital Guild, which later
+        became Youville Hospital, where she served as a trustee for seven years. By the 1950, 
+        Alma was living at 20 Langdon Street in Cambridge<br><br>
 
-    For most of her life, Alma was a close friend of Marion Hurley, the wife of the governer 
-    of Massachusetts. At a June 1979 celebration in honor of Alma's 41 years work for the 
-    Cambridge Public Library, the Cambridge Chronicle ran an article entitled “Alma Boudreau doesn't 
-    know what all the fuss is about." A retired New England Telephone Company manager and congressional aide
-     to House Speaker Tip O'Neill described Alma as a "perfectionist, who knew every fact of her job" 
-     and "has a lively sense of humor." The same article quoted Alma as saying<blockquote>
-      "You might have thought 
-     I put every brick in every branch library building. Well, I didn't. Now let's go have some tea!”
-     </blockquote>
-     In 1989, the Observatory 
-       Hill Branch of the Cambridge Public Library, located at 245 Concord Avenue, was named in Alma's honor, for her 
-       dedication and decades of service. 
+        For most of her life, Alma was a close friend of Marion Hurley, the wife of the governer 
+        of Massachusetts. At a June 1979 celebration in honor of Alma's 41 years work for the 
+        Cambridge Public Library, the Cambridge Chronicle ran an article entitled “Alma Boudreau doesn't 
+        know what all the fuss is about." A retired New England Telephone Company manager and congressional aide
+        to House Speaker Tip O'Neill described Alma as a "perfectionist, who knew every fact of her job" 
+        and "has a lively sense of humor." The same article quoted Alma as saying
+        
+        <blockquote>
+        "You might have thought 
+        I put every brick in every branch library building. Well, I didn't. Now let's go have some tea!”
+        </blockquote>
+
+        In 1989, the Observatory 
+        Hill Branch of the Cambridge Public Library, located at 245 Concord Avenue, was named in Alma's honor, for her 
+        dedication and decades of service. 
 
        
             `,
         otherNotes: "",
         references: `
             <i>Cambridge Chronicle</i>:<br>30 July 1910<br>9 May 1925<br>24 September 1927<br>22 August 1930
-            <br>9 February 1950<br>24 May 1962<br>14 June 1979<br>5 October 1989<Br>
+            <br>9 February 1950<br>24 May 1962<br>14 June 1979<br>5 October 1989<br>
             <i>Cambridge City Directory</i> 1954, 1961.
         `,
         photos: ["images_bios/boudreau_alma2.png"],

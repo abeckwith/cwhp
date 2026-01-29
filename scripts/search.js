@@ -78,8 +78,8 @@ function search() {
                     text = text.replaceAll("<blockquote>", "");
                     text = text.replaceAll("<\\blockquote>", "");
                     // text = text.replaceAll("<br>", "");
-                    // text = text.replaceAll("<Br>", "");
-                    // text = text.replaceAll("<BR>", "");
+                    // text = text.replaceAll("<br>", "");
+                    // text = text.replaceAll("<br>", "");
 
                     //get rid of any images:
                     text = removeElements(text, "img");
@@ -105,7 +105,7 @@ function search() {
                         person.firstName +
                         " " +
                         person.lastName +
-                        "</a></span><Br>";
+                        "</a></span><br>";
                     //number of times keywords occurs in this narrative:
                     count = (
                         text
@@ -128,7 +128,7 @@ function search() {
                             text.substring(
                                 loc + keyword.length,
                                 loc + keyword.length + 100
-                            ) + "...<br><Br><br>";
+                            ) + "...<br><br><br>";
                         loc++;
                     }
                     result += "</center>";
@@ -137,18 +137,18 @@ function search() {
         }
         if (total >= 2000)
             msg =
-                "==> SEARCH RESULTS TRUNCATED: TOO MANY RESULTS. PLEASE REFINE YOUR SEARCH <==<Br><BR>";
+                "==> SEARCH RESULTS TRUNCATED: TOO MANY RESULTS. PLEASE REFINE YOUR SEARCH <==<br><br>";
         else msg = "";
 
         if (totalPeople > 1) word = "results";
         else word = "result";
 
         result =
-            "<Br>" +
+            "<br>" +
             totalPeople +
             " " +
             word +
-            "...<Br><Br>(NOTE: links will open a new tab)<Br><br>" +
+            "...<br><br>(NOTE: links will open a new tab)<br><br>" +
             "<span style='color:red'><B>" +
             msg +
             "</b></span>" +

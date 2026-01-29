@@ -19,37 +19,35 @@ c_bios = [
             kindergarten movement, realized that working mothers needed a safe space for
             their children during working hours. She rented and then bought a building at
             the corner of Harvard and Moore streets in which she established a day nursery
-            and
-            a kindergarten.
-            In 1879 she opened a library and reading room and held sewing classes,
-            and
-            in
+            and a kindergarten.
+            In 1879 she opened a library and reading room and held sewing classes, and  in
             1883 she began a club for mothers, a playground, and dressmaking
-            and woodworking classes for children. The kindergarten that was established was
-            taken
-            over in
-            1889 by the Cambridge Public Schools.<br><br> By 1900, Shaw had established classes in
-            music, drawing, and painting. In 1914, a Health Committee was organized. Eventually,
-            the
+            and woodworking classes for children. The kindergarten that was established was   taken  over in
+            1889 by the Cambridge Public Schools.
+            
+            <br><br> By 1900, Shaw had established classes in
+            music, drawing, and painting. In 1914, a Health Committee was organized. Eventually,  the
             neighborhood house expanded to offer industrial training and economics classes.
             As a result of lectures on hygiene and health, the Mothers' Club was organized
-            in 1896. The club was renamed in 1902 as the
-            Neighborhood
-            Women's Club. <br><Br>
+            in 1896. The club was renamed in 1902 as the  Neighborhood  Women's Club. 
+           
+            <br><br>
             The Cambridge Neighborhood House began to involve a
             broader group of women,  catering to   working
             class women of any ethnic background or religion. It served as an educational,
             social, and recreational center for nearly a hundred years. The house at 79 Moore Street, which
             had been listed on the National Register of Historic Places to commemorate
-            Shaw's work, burned in 1973 and had to be torn down. <br><br>The activities of
+            Shaw's work, burned in 1973 and had to be torn down.
+            
+            <br><br>The activities of
             the organization were
             relocated to the Margaret Fuller House at 71 Cherry Street.
             `,
         otherNotes: "",
         references: `<i>George Wright Collection</i> at the Cambridge Historical
-            Society<Br>37th
+            Society<br>37th
             Annual Report of Cambridge Social Union.
-            <Br><em>4word</em>, October 2001.<Br>
+            <br><em>4word</em>, October 2001.<br>
             <i>Cambridge Chronicle</i>, 28 January 1971.
         `,
         photos: ["images_bios/neighborhood house on moore.jpg"],
@@ -83,34 +81,37 @@ c_bios = [
             equality for American citizens.&quot; Although the main focus was suffrage for
             women, CPEA also studied and supported African American suffrage and proportional
             representation. Its leading officer and president was Grace
-                A. (Fitch) Johnson, who served as its president until 1916.<br><br>
+                A. (Fitch) Johnson, who served as its president until 1916.
+                
+            <br><br>
             Although it began by sponsoring meetings and lectures,
             after 1900 CPEA helped organize suffrage rallies and parades, and raised money
             for woman suffrage through bazaars and rummage sales. By 1901, the organization
             was affiliated with the Massachusetts Woman Suffrage Association. It also worked
             with the Cambridge Woman Suffrage Party and other organizations like the Cambridge
             Public School Association (in which Johnson was also an officer). It encouraged
-            women to register and to vote in school committee elections. <br><br>
-            
-         
-
+            women to register and to vote in school committee elections. 
+            <br><br>
 
             In January, 1909, eleven years before women earned the right to vote in the U.S., the Cambridge 
             Chronicle reported on a meeting at which Mary Page of Brookline spoke to the Association: 
+            
             <blockquote>
             "The Cambridge Political Equality Association held a meeting on Saturday afternoon, at the 
             residence of Mrs. John Brooks, 5 Ash Street...Mrs. Page's subject for the afternoon was 
             'The Miltant Suffrage Movement in England.' She spoke simply, but with much force, explaining 
             the conditions in England that caused the Suffragette movement. [The English woman] has not 
             the social equality with man which has so helped American women...
-            <Br><Br>
+            <br><br>
             "As the ladies listened to Mrs. Page, they heard the war cry of the little mill girl, 
             the Jeanne d'Arc, of England, echoing in their ears; they felt the force of the spirit of
              the times which has roused all England 'Women, this is War.'"
+
             </blockquote>
 
             During World War I, the CPEA also did work for the war effort. In a May 1917 CPEA meeting, the subject was...
             <blockquote>
+
             "...the increase and conservation of the food supply, this being the special patriotic 
             task to which the suffragists of the vicinity are devoting themselves[...]the work of 
             arranging for the permission to cultivate vacant lots [and] about 400 persons had thus 
@@ -123,7 +124,7 @@ c_bios = [
             of Women Voters, formed after women's votes were secured nationally.`,
         otherNotes: "",
         references: ` Schlesinger Library Archive finding aids for the
-            Cambridge Political Equality Association and for Grace A Johnson.<Br>
+            Cambridge Political Equality Association and for Grace A Johnson.<br>
                <i>The Cambridge Tribune</i>,  30 January 1909.<br>
            <i>The Cambridge Sentinel</i>,  26 May 1917.<br>
             Image from Ida M. Tarbell Collection, 1890-1944, Merrick Archives and Special Collections, Pelletier Library, Allegheny College.
@@ -159,17 +160,24 @@ c_bios = [
             Frost, professor of architectural design at Harvard University, with only nine
             to twelve students, all women. One of its earliest graduates was Eleanor A.
             Raymond (1887-1989), who went on to make a name for herself as a distinguished
-            architect specializing in domestic buildings. <br><br>The school could not be incorporated
+            architect specializing in domestic buildings. 
+
+            <br><br>
+            The school could not be incorporated
             under Harvard proper since that remained an all-male institution. In 1924 it
             was incorporated under Massachusetts law as a separate educational institution.
             After several short term locations, the school settled into a building at 53
             Church Street, the Torrey Hancock House of 1827. A large addition was built
-            by the school in 1928 in the International Style.<br><br>
+            by the school in 1928 in the International Style.
+            
+            <br><br>
             In 1934, Smith College became affiliated with
             the school. The School of Architecture and Landscape Architecture retained its
             own name and independent organization, but had the privilege of recommending
             its students to Smith for the graduate degrees of Master in Architecture and
-            Master in Landscape Architecture.<br><br>
+            Master in Landscape Architecture.
+            
+            <br><br>
             Two years later, the graduate degrees of Bachelor of Architecture and Bachelor
             of Landscape Architecture were introduced, preceding the Master's degrees, which
             were later added as well. By 1938, the School became an actual part of Smith
@@ -188,12 +196,12 @@ c_bios = [
                 Cambridge School</em>. Cambridge School of Architecture and Landscape Architecture
             records at Smith College 
             and in William Allan Neilsen's presidential archives at Smith College.<br>
-            Doris Cole, <em>Eleanor Raymond, Architect.<Br>
+            Doris Cole, <em>Eleanor Raymond, Architect.<br>
             </em> Philadelphia: The Art Alliance
-            Press, 1981.<Br>
+            Press, 1981.<br>
             Susana Torre, &quot;Women in American Architecture: A Historic
             and Contemporary Perspective,&#8221; NY: Whitney Library of Design, 1977.
-            <Br> National
+            <br> National
             Register of Historic Places Registration Form/National Historic Landmark Nomination
             Form.
         `,
@@ -231,15 +239,17 @@ c_bios = [
             in 1884, but was shocked out of a more traditional life by the death of her
             mother in 1893. She returned to Wellesley for postgraduate study and as an assistant
             to Professor Whiting and then enrolled as a special student at Radcliffe (1895-1897).
-            <br> <br>
+
+            <br><br>
             Cannon was hired by Professor Edward Pickering
             at the Harvard College Observatory as a staff assistant beginning in 1896, joining
             Williaminia Fleming in studying stellar spectra on photographic plates. She
             was awarded a Master's degree from Wellesley in 1907, and after the death
             of Fleming, she succeeded her as curator of astronomical photographs (1911-38)
-            at the Harvard College Observatory.  <br> <br>Classifying
-       
-       stellar bodies according
+            at the Harvard College Observatory.  
+            
+            <br><br>
+            Classifying stellar bodies according
             to their temperatures, she published the <em>Henry Draper Catalogue</em> in
             nine volumes (1918-1924), which listed the faintest to the brightest spectra
             of stars from the North to South Poles and the <em>Henry Draper Extension</em>
@@ -250,7 +260,10 @@ c_bios = [
             the American Philosophical Society (1925). She was honored with honorary degrees
             from Oxford and the University of Groningen. In 1938, she was made William Cranch
             Bond Astronomer at Harvard, one of the first appointments to a named chair made
-            by Harvard.  <br> <br>She entertained children as well as colleagues at her home at 4
+            by Harvard.  
+            
+            <br><br>
+            She entertained children as well as colleagues at her home at 4
             Bond Street in Cambridge next to the Observatory, and sponsored egg-rolling
             contests at Easter for children on the hill. She was an advocate of women's
             suffrage and a member of the National Women's Party and a popular lecturer
@@ -264,7 +277,7 @@ c_bios = [
             portrait, 1922.<br>
             New York World Telegram and the Sun Newspaper Photograph Collection, Library.
             of Congress.<br>Image from wikipedia.com:
-            <Br><a class='indent' href="https://en.wikipedia.org/wiki/Annie_Jump_Cannon" >https://en.wikipedia.org/wiki/Annie_Jump_Cannon</a>
+            <br><a class='indent' href="https://en.wikipedia.org/wiki/Annie_Jump_Cannon" >https://en.wikipedia.org/wiki/Annie_Jump_Cannon</a>
         `,
         photos: ["images_bios/annie cannon.jpg"],
         photoTitles: [],
@@ -297,24 +310,31 @@ c_bios = [
             the couple climbed to the summit of a peak at the head of Lake McDonald on their
             honeymoon in what is now Glacier National Park (this was later named Mount 
             Cannon). 
-            <br> <br> With her husband, Cornelia settled in Cambridge where she raised four
+            <br> <br> 
+
+            With her husband, Cornelia settled in Cambridge where she raised four
             daughters and one son. In spite of her family responsibilities, running an academic
             household and raising five children, she became an important writer, contributing
             articles on social and economic subjects to <i>Harper's</i>, <i>Atlantic Monthly</i>, and
             <I>North American Review</i>. In 1928 she published a novel, <i>Red Rust</i>, that became
             a best-seller. In it, she described the Swedish immigrant farmers of rural
             Minnesota from the area in which she had been raised.  
-            <br> <br>In order to have privacy
+            <br> <br>
+            
+            In order to have privacy
             for her writing, she had the habit of hiding in the bathroom or in her car,
             as vividly described by her daughter Marion Cannon Schlesinger
             in the memoir, <em>Snatched from Oblivion</em>.
             Cannon wrote about women's rights, birth control, and public 
             education and published a total of eight novels. She was also involved with Planned 
-             Parenthood and the League of Women Voters.<Br><br>
+             Parenthood and the League of Women Voters.<br><br>
              
-             Cannon was a frequent and prolific writer of "Letters to the Editor" to the Cambridge Chornicle (writing from her home at 23 Willard Street in Cambridge),
-             thoughout the 1920s and 1930s, often writing in support of funds for the public schools and in support of teachers,
-             as well as railing against corruption in city government. Her letters were lengthy and regularly took up the full height of the page.
+             Cannon was a frequent and prolific writer of "Letters to the Editor" to the Cambridge Chornicle
+              (writing from her home at 23 Willard Street in Cambridge),
+             thoughout the 1920s and 1930s, often writing in support of funds for the public schools and in 
+             support of teachers,
+             as well as railing against corruption in city government. Her letters were lengthy and regularly 
+             took up the full height of the page.
              She certainly had strong opinions, like this one, excerpted from a 1938 letter to the editor:
              
              <blockquote>
@@ -327,7 +347,8 @@ c_bios = [
             of the lower grades to take part? Did they expect the older thousands to walk from distant parts of the city, 
             miles for such a march? Did they remember that closing the schools for half a day deprived half of the 
             high school pupils of an entire day's school attendance? 
-            <br><Br>
+
+            <br><br>
             "The panoply of death is something from which 
             parents of feeling try to protect their young children. The funeral ceremonial is neither the time nor 
             place to inspire patriotic fervor in children, which I assume was the purpose of the misguided act of 
@@ -345,12 +366,12 @@ c_bios = [
         references: `Marion Cannon Schlesinger, <em>Snatched from Oblivion</em>,
             Little Brown (1997).<br>
             Cambridge Public Library &#8220;Penwomen of Cambridge Past: Biographies
-            of Our Literary Foremothers&#8221;.<Br>
+            of Our Literary Foremothers&#8221;.<br>
             Wikipedia entry:<br>
                 <a class='indent' href="https://en.wikipedia.org/wiki/Cornelia_James_Cannon" >https://en.wikipedia.org/wiki/Cornelia_James_Cannon</a>
             <br><i>Cambridge City Directory</i>, 1968.
             <br><i>Cornelia James Cannon and the Future American Race Paperback</i>,  Maria I. Diedrich, University of Mass. Press, January, 2011.
-        <Br><i>The Cambridge Chronicle</i>, 2 December 1922, 22 December 1938.
+        <br><i>The Cambridge Chronicle</i>, 2 December 1922, 22 December 1938.
 
 
         `,
@@ -385,7 +406,9 @@ c_bios = [
             of the club's first president, Estelle M. H. Merrill, a newspaper woman
             who published a column under the name &#8220;Jean Kincaid.&#8221; After discussing
             the evils of sweatshops, the women decided to form a club with the aim of &#8220;encouraging
-            mental and moral development.&#8221; <br> <br> The first meeting was held on October 28,
+            mental and moral development.&#8221; <br> <br> 
+            
+            The first meeting was held on October 28,
             1892 at 20 Quincy Street in Cambridge and the club's headquarters were
             later constructed at 100 Mount Auburn Street. According to Jane Croly, the historian
             of women's clubs, Merrill organized the club to present regular lectures
@@ -393,7 +416,9 @@ c_bios = [
             organization joined the General Federation of Women's Clubs, and in 1893,
             joined the State Federation. By 1896, the Cantabrigia Club became involved in
             education, instituting a Radcliffe Scholarship Fund to benefit a Cambridge student.
-             <br> <br>The club extended to philanthropy and for a time maintained a settlement house
+            
+            
+            <br> <br>The club extended to philanthropy and for a time maintained a settlement house
             in the city and contributed a &#8220;Cantabrigia free bed&#8221; to the Cambridge
             Hospital.`,
         otherNotes: "",
@@ -445,7 +470,9 @@ c_bios = [
             
 
             in 1969. The women broke up into smaller groups, one of which met afterwards
-            informally for a year.  <br> <br>In May 1969, the group took the name &#8216;Cell 16&#8221;
+            informally for a year.  
+            
+            <br> <br>In May 1969, the group took the name &#8216;Cell 16&#8221;
             to emphasize that they were only one cell of an organic movement and in reference
 
             its original meeting address, 16 Lexington Avenue. The group began to publish
@@ -454,7 +481,9 @@ c_bios = [
             was its publication of the magazine <em>The Second Wave Magazine: A Magazine
                 for the New Feminism</em> in 1971 that continued until 1983 even after its parent
             organization was dissolved. It included news stories, poetry, fiction, graphics,
-            and articles that expressed a wide range of feminist viewpoints. <br> <br> In February
+            and articles that expressed a wide range of feminist viewpoints. 
+            
+            <br> <br> In February
             1974, Female Liberation disbanded as a result of conflicts between members who
             belonged to the Socialist Workers Party and the majority who did not. `,
         otherNotes: "",
@@ -503,8 +532,8 @@ c_bios = [
     //        `,
     //     otherNotes: "",
     //     references: `Un Encuentro con Centro Presente (A discussion
-    //         at Cambridge Community Television) <Br>
-    //         Centro Presente's 25th Anniversary and Holiday Fiesta <Br>
+    //         at Cambridge Community Television) <br>
+    //         Centro Presente's 25th Anniversary and Holiday Fiesta <br>
     //         Centro Presente's home page: <a href="http://www.cpresente.org" >http://www.cpresente.org</a>
 
     //     `,
@@ -541,7 +570,9 @@ c_bios = [
             the New York public schools and graduated with honors from the City College
             
 
-            of New York at the age of twenty. <br><br>Her first position was as an assistant to
+            of New York at the age of twenty. 
+            
+            <br><br>Her first position was as an assistant to
             Irving Lorge, who directed educational research at Teachers College, Columbia
             University. She went on to do graduate work with Edgar Dale at Ohio State University,
             where she received an A.M. degree in 1947 and her Ph.D. in 1952. She became
@@ -549,13 +580,17 @@ c_bios = [
                 An Appraisal of Research and Application</em> (1958). She returned to City College
             as lecturer, rising to professor by 1965. She collaborated throughout her life
             with Florence Roswell, director of the reading clinic at the college, on the
-            diagnosis and treatment of reading difficulties.<br><br>
+            diagnosis and treatment of reading difficulties.
+            
+            <br><br>
             In 1965, she moved to Harvard University as full
             professor to create and direct graduate programs in reading instruction. She
             founded the Harvard Reading Laboratory in 1967 (now named after her) and directed
             it until her retirement in 1991. She was a member of numerous scholarly organizations,
             editorial boards, and state and national commissions. Among her many professional
-            awards was that given by the International Dyslexia Association in 1996.<br><br>
+            awards was that given by the International Dyslexia Association in 1996.
+            
+            <br><br>
             She served as a consultant for encyclopedias for
             children and children's television programs including &quot;Sesame Street,&quot;
             &quot;The Electric Company,&quot; and &quot;Between the Lions.&quot; She was
@@ -606,7 +641,7 @@ c_bios = [
             items (pumpkin cookies and egg rolls) immediately sold out at the Buckingham Brown and Nichols school bake sale 
             in the mid-1950s. 
             
-            <br><Br>By the 1960's, \"Joyce Chen's\" had become a famous restaurant, visited by patrons
+            <br><br>By the 1960's, \"Joyce Chen's\" had become a famous restaurant, visited by patrons
             that ranged from celebrities to ordinary restaurant-goers. She began to teach
             Chinese cooking at both the Cambridge and Boston Adult Education Centers and,
             in 1962, she published a widely-praised cookbook,<em> Joyce Chen Cook Book</em>.
@@ -625,7 +660,7 @@ c_bios = [
         otherNotes: "",
         references: ` <em>Boston</em> <em>Globe</em>, May 19, 1994.
             
-        <Br>Wikipedia entry:<Br>
+        <br>Wikipedia entry:<br>
         <a class='indent' href="https://en.wikipedia.org/wiki/Joyce_Chen_(chef)">https://en.wikipedia.org/wiki/Joyce_Chen_(chef)</a>
         `,
         photos: ["images_bios/joycechen.jpg"],
@@ -656,7 +691,9 @@ c_bios = [
             Julia Child was born in Pasadena California. She
             graduated from Smith College in 1934. After taking a variety of positions in
             advertising and journalism, she served with the Office of Strategic Services
-            during World War II. <br><br>After the war, she married Paul Cushing Child who was a
+            during World War II. 
+            
+            <br><br>After the war, she married Paul Cushing Child who was a
             diplomat with the Foreign Service .The couple lived for some years in Paris
             while Paul was assigned to the exhibit wing of the U.S. Information Agency.
             
@@ -680,12 +717,11 @@ c_bios = [
 
             In 1976, the Boston YWCA honored five Cambridge women who contributed to "improving and expanding 
             opportunities for all women," including Julia Child, because of her 
+
             <blockquote>
             "...pilot program on French cooking for the deaf and hard of hearing [and for] elevating the 
             traditional art of cooking into an unprecedented national pastime with style, humor, and grace."
             </blockquote>
-
-
             
             In the 1990s, she hosted four more series with
             arious celebrity chefs. 
@@ -693,12 +729,14 @@ c_bios = [
              "Cooking with Master Chefs," "In Julia's Kitchen with Master Chefs," "Baking with Julia" and
               "Julia and Jacques Cooking at Home" were all filmed in Julia's  
               Cambridge kitchen at 103 Irving Street, just north of the Cambridge 
-              Rindge and Latin School. A replica of that Cambridge kitchen is now in Smithsonian's National Museum of American History.
-
+              Rindge and Latin School. A replica of that Cambridge kitchen is now in Smithsonian's National Museum of 
+              American History.
             Much of the interesting cookware she used in that kitchen 
             was provided by Design Research, located in Harvard Square. She often shopped at 
             Savenor's Market, just a few blocks from her home. In the 1990s, she recommended (in an interview)
-            Cambridge's Charles Hotel Restaurant, the Inn at Harvard, and Chez Henri.<br><Br>
+            Cambridge's Charles Hotel Restaurant, the Inn at Harvard, and Chez Henri.
+            
+            <br><br>
             Julia Child founded the educational American Institute of
             Wine and Food in Napa, California in 1978. Among her many honors, she was awarded
             the Legion of Honor by the French government in 2001, the U.S. Presidential
@@ -706,7 +744,9 @@ c_bios = [
             to a Santa Barbara California retirement home in 2001, gifting her Cambridge
             home to Smith College and her kitchen to the Smithsonian. <br><br>
 
-            For an 2001 NPR interview, as she was preparing to move to California, in which she said she never expected to grow attached to her adopted city, she said:
+            For an 2001 NPR interview, as she was preparing to move to California, in which she said she never expected 
+            to grow attached to her adopted city, she said:
+
             <blockquote> 
             "Cambridge, which is such a nice place, I thought it was going to be very stuffy and as they say, cold, 
             Boston, but I didn't realize that it's such a  nice warm place to be in. And then what's nice about 
@@ -719,12 +759,12 @@ c_bios = [
         otherNotes: "",
         references: ` Schlesinger Library, Julia Child collection guide<br>
             <em>Treasury of Women's Quotations</em> by Carolyn Warner, Prentice Hall,
-            Englewood Cliffs, NJ, 1992.<Br>
+            Englewood Cliffs, NJ, 1992.<br>
             Schlesinger Papers:<br>
             <a class='indent' href="https://guides.library.harvard.edu/schlesinger_julia_child">https://guides.library.harvard.edu/schlesinger_julia_child</a><br>
             Image from wikipedia.com:<br>
-            <a class='indent' href="https://commons.wikimedia.org/wiki/File:Julia_Child_restore.jpg">https://commons.wikimedia.org/wiki/File:Julia_Child_restore.jpg</a><Br>
-            History Cambridge article:<Br>
+            <a class='indent' href="https://commons.wikimedia.org/wiki/File:Julia_Child_restore.jpg">https://commons.wikimedia.org/wiki/File:Julia_Child_restore.jpg</a><br>
+            History Cambridge article:<br>
              <a class='indent' href="https://historycambridge.org/articles/julia-childs-kitchen/" >https://historycambridge.org/articles/julia-childs-kitchen/</a><br>
             <i>America's Master Chef Looks at the Highlights, Culinary and Otherwise, of the City and its Neighbor, Cambridge</i> by Barbara
             Beckwith, USAir Magazine, March, 1996.<br>
@@ -759,24 +799,24 @@ c_bios = [
         deathLocation: "",
         narrative: `
 
-   In 1971, Quaker
-                Case, Mav Pardee, Maggie Sears, and Heidi Urich founded the Child Care Resource Center (CCRC) because
-                they recognized that access to quality, affordable child care was essential to women&rsquo;s pursuit of
-                equality in the workplace and beyond.<br><br>
+            In 1971, Quaker
+            Case, Mav Pardee, Maggie Sears, and Heidi Urich founded the Child Care Resource Center (CCRC) because
+            they recognized that access to quality, affordable child care was essential to women&rsquo;s pursuit of
+            equality in the workplace and beyond.<br><br>
+    
+            CCRC was one of
+            the first child care resource and referral centers in the country. The need for this service was so
+            great that over 400 similar organizations were established nationwide in the following years. CCRC
+            worked to increase the supply of parent and worker controlled, non-sexist, and nonracist child care; to
+            improve quality by offering staff training, recruitment and consultations; and to help parents find and
+            select child care by offering comprehensive information and counseling.<br><br>
         
-           CCRC was one of
-                the first child care resource and referral centers in the country. The need for this service was so
-                great that over 400 similar organizations were established nationwide in the following years. CCRC
-                worked to increase the supply of parent and worker controlled, non-sexist, and nonracist child care; to
-                improve quality by offering staff training, recruitment and consultations; and to help parents find and
-                select child care by offering comprehensive information and counseling.<br><br>
-         
-          Their services
-                expanded across Greater Boston with support from the Ford Foundation and public and private grants and
-                contacts. It was a leader in advocating for more public and private resources for child care, including
-                state funded vouchers for low income families and employer-sponsored child care and services for
-                employees. Its Multicultural Project promoted non-discriminatory practices in early childhood settings
-                and became independent with a Rockefeller Foundation grant.<br>
+             Their services
+            expanded across Greater Boston with support from the Ford Foundation and public and private grants and
+            contacts. It was a leader in advocating for more public and private resources for child care, including
+            state funded vouchers for low income families and employer-sponsored child care and services for
+            employees. Its Multicultural Project promoted non-discriminatory practices in early childhood settings
+            and became independent with a Rockefeller Foundation grant.<br>
             `,
         otherNotes: "",
         references: `Written by Kimm Topping, printed in Mapping Feminist Cambridge guidebook, 2019:<br>
@@ -784,7 +824,7 @@ c_bios = [
                 https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf
             </a><br>
             Photo: <i>Cambridge Chronicle</i>, 18 November 1971.<br>
-            <i>Cambridge Chronicle</i>, 18 November 1971.<Br>
+            <i>Cambridge Chronicle</i>, 18 November 1971.<br>
             The Child Care Resource Center archive is housed at Schlesinger
             Library, Radcliffe Institute.
 
@@ -818,16 +858,18 @@ c_bios = [
         deathLocation: "",
         narrative: `
 
-            City Girl Cafe was a favorite gathering place for local feminists and gay rights activists. <Br><Br>
+            City Girl Cafe was a favorite gathering place for local feminists and gay rights activists. <br><br>
             Located at 204 Hampshire Street in Inman Square in 1997, the
             restaurant offered lunch, dinner, and catering. Merry Moscato
             and Cheryl Schwartz started it as a catering service in 1993. Moscato had been 
             nicknamed &ldquo;city girl&rdquo; by her brothers and was a graduate of the Cambridge School of Culinary
             Arts in North Cambridge.
+
             <br><br>The social and activist 
             nature of the cafe was inspired by The Saints Collective, which Moscato and Schwartz had previously been members of.
             The Saints Collective was a group started in 1972 and assocated with The Saints Bar in Boston,
-            where women would gather to socialize and to organize demonstrations. They also helped educate the local LGBTQ community about
+            where women would gather to socialize and to organize demonstrations. They also helped educate the local LGBTQ
+             community about
             their legal rights after government attempts to infiltrate lesbian organizations and 
            the FBI's arrest of Brandeis student and lesbian activit Susan Saxe.
             
@@ -841,9 +883,9 @@ c_bios = [
             guidebook, 2019: <a
                 href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">
                 https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a>
-                <Br>
+                <br>
                 History Cambridge article on City Girl Cafe:
-                <Br><a class='indent' href="https://historycambridge.org/articles/businesses-well-lived-city-girl-cafe/">https://historycambridge.org/articles/businesses-well-lived-city-girl-cafe/</a><Br>
+                <br><a class='indent' href="https://historycambridge.org/articles/businesses-well-lived-city-girl-cafe/">https://historycambridge.org/articles/businesses-well-lived-city-girl-cafe/</a><br>
                 THE HISTORY PROJECT - Documenting Documenting LGBTQ Boston Facebook post:
                 <br><a class='indent' href="https://www.facebook.com/watch/?v=10154900501831931">
                 https://www.facebook.com/watch/?v=10154900501831931</a><br>
@@ -872,7 +914,7 @@ c_bios = [
         middleName: "",
         familyName: "",
 
-        title: `Women-owned pottery business and collective<Br>Founded 1976`,
+        title: `Women-owned pottery business and collective<br>Founded 1976`,
         birthDate: "",
         birthLocation: "",
         deathDate: "",
@@ -880,7 +922,9 @@ c_bios = [
         narrative: `
 
             Clayground was co-owned and created by Annie Hoffman and Carole Ann Fer as a
-            &ldquo;socialistic&rdquo; pottery business on Hampshire Street. <Br><Br>The collective offered pottery at lower prices, had flexible
+            &ldquo;socialistic&rdquo; pottery business on Hampshire Street. 
+            
+            <br><br>The collective offered pottery at lower prices, had flexible
             hours, and connected with other women&rsquo;s organizations in the neighborhood by creating commemorative
             platters and pottery, like anniversary pottery for New Words Bookstore. It also offered workshops and
             apprenticeships to women and became involved in the wider Cambridge community by creating banners for the
@@ -891,6 +935,7 @@ c_bios = [
             In 1976, they rented 97 Hampshire Street until they purchased their permanent home at 91 Hampshire Street in
             1991. Women did all of the renovations, including electrical and plumbing. Now a yoga instructor, Annie
             Hoffman, reflects on the experience as deeply formative. 
+
             <blockquote>"We were making vessels. The body is a
             vessel, and a house is an outer vessel, so learning how to renovate a space was essential and empowering for
             us as women."</blockquote>
@@ -933,7 +978,9 @@ c_bios = [
             Boston at the age of twenty-two. She worked as a milliner in the old Chandler
             department store in Boston, living so frugally that she would eventually be
             able to purchase an apartment building, 992 Memorial Drive in Cambridge,
-            where she also resided. <br><br>The income from this property enabled her to continue
+            where she also resided. 
+            
+            <br><br>The income from this property enabled her to continue
             to invest in real estate, wisely choosing to purchase commercial properties
             in Harvard Square. She still maintained her frugal life-style, appearing throughout
             her life, according to the president of Cambridge Trust, as though she &#8220;did
@@ -941,17 +988,22 @@ c_bios = [
             house which various observers described as very small and poorly lit. Nevertheless,
             she continued to manage all her properties herself with the aid of one secretary.
             <br><br>
+
             She was said to have delighted in being a &#8220;thorn in the side of Harvard
             University,&#8221; refusing to sell properties to its corporation. One of the
             former Harvard deans claimed that when the then president, Pusey, sent him to
             inquire about her willingness to will a small piece of land on Mount Auburn
             Street to Harvard in order to establish a Bertha E. Cohen Park after her death,
-            she scolded him, saying she had no desire to have a park named after her. <br><br>
+            she scolded him, saying she had no desire to have a park named after her. 
+            
+            <br><br>
             Although she appeared at first glance to be a
             &#8220;scary old lady,&#8221; she was kind to young people, agreeing to rent
             one of her properties to the young founders of the 47 Mount Auburn jazz coffee
             house in 1957 that would soon make Harvard Square a haven for renowned folk
-            singers. (Now Club Passim at 47 Palmer Street).<br><br>
+            singers. (Now Club Passim at 47 Palmer Street).
+            
+            <br><br>
             By the time of her death at age sixty-seven in
             1965, she owned twenty-seven properties in Cambridge and about fifteen more
             in the Boston area and was referred to as the &#8220;owner of Harvard Square.&#8221;
@@ -969,7 +1021,7 @@ c_bios = [
             Power in Cambridge.&quot; February 07, 1975. <br>
             A list of her Real Estate holdings is held in the Harvard University Corporation
             archives (B.U.D. 81, Real Estate, March 6, 1967 &#8220;List of Properties in
-            Bertha Cohen's Estate&#8221;), Harvard University archives.<Br>
+            Bertha Cohen's Estate&#8221;), Harvard University archives.<br>
             Image from GoogleMaps.
         `,
         photos: ["images_bios/cohen.png"],
@@ -1000,7 +1052,9 @@ c_bios = [
             a successful lawyer and politician, Ada Comstock was the eldest of three children.
             She completed her high school education at the young age of fifteen and then
             went on to college at the University of Minnesota. After two years, she transferred
-            to Smith College. <br><br>After graduating from Smith in 1897, Ada attended the Moorhead
+            to Smith College. 
+            
+            <br><br>After graduating from Smith in 1897, Ada attended the Moorhead
             State Normal School for a teaching certificate and then entered Columbia University
             for graduate work in English, History, and Education. She returned to the University
             of Minnesota in 1899 to teach rhetoric and in 1907, she was appointed the University's
@@ -1009,7 +1063,9 @@ c_bios = [
 
             college. In 1912, Comstock went to Smith College as professor of English and
             as the first Dean of the College. Comstock believed in the power of a college
-            education in inspiring women to take on leadership roles. <br><br>
+            education in inspiring women to take on leadership roles.
+            
+            <br><br>
             In 1917, during World War I, the presidency of Smith College became vacant and
             Ada Comstock directed the operation of the college for six months without the
             title of acting President. She was a founding member of the Association of Collegiate
@@ -1019,14 +1075,18 @@ c_bios = [
             1920 and at the second in Paris in 1922. Amongst her other activities, she served
             as president of the American Academy of Arts and Sciences, Vice Chairman of
             the American Council of Institute of Pacific Relations and sat on the National
-            Committee for Planned Parenthood.<br><br>
+            Committee for Planned Parenthood.
+            
+            <br><br>
             In 1923, Radcliffe College offered her the position
             of the first full-time President of the college. Throughout most of her administration,
             Ada Comstock worked to keep a balance between Radcliffe's association with Harvard
             and its establishment as an independent women's college, since Radcliffe had
             no faculty of its own. Under her guidance, the college opened a nationwide admission
             program, built new student housing and classroom buildings and expanded its
-            graduate program. She lived at 76 Brattle Street at the time.<br><br>
+            graduate program. She lived at 76 Brattle Street at the time.
+            
+            <br><br>
             In 1943, Comstock retired from her position at
             the age of sixty-seven, and shortly after, she married Wallace Notestein, a
             retired professor of history at Yale University whom she had known as a young
@@ -1041,7 +1101,7 @@ c_bios = [
         references: `<em>Notable American Women, Modern Period</em><br>
             Ada Louise Comstock papers, Smith College.<br>Image from wikipedia.com:<br>
             <a class='indent' href="https://en.wikipedia.org/wiki/Ada_Comstock">https://en.wikipedia.org/wiki/Ada_Comstock</a>
-            <Br><i>Cambridge City Directory</i>, 1928.
+            <br><i>Cambridge City Directory</i>, 1928.
         `,
         photos: ["images_bios/Ada-Comstock-1905.jpg"],
         photoTitles: [],
@@ -1096,10 +1156,14 @@ c_bios = [
             couple, through mismanagement by Raddin or lack of clients, fell into debt while
             Lucy became estranged from her only daughter. In the late 1880s and reputedly
             abused by her husband, Lucy moved to North Cambridge, living at 9 Forrest Street, where
-            she continued to practice her healing. <br><br>She became seriously ill
+            she continued to practice her healing. 
+            
+            <br><br>She became seriously ill
             and eventually died of what appears to have been colon cancer in 1895. An oil
             painting of Lucy Ainsworth as a young married woman is in the collections of
-            the Vermont Historical Society.<br><Br>
+            the Vermont Historical Society.
+            
+            <br><br>
 
             Rev. Frank Hyatt Smith officiated her funeral. He spoke of <blockquote>
 
@@ -1115,18 +1179,13 @@ c_bios = [
              several of the members of his church he had disagreements with. In November, 
              Smith submitted a plea of insanity and was committed to an asylum in lieu of a prison sentence.)</i>
 
-        
-
-
-
-
             `,
         otherNotes: "",
         references: ` 
             Vermont Women's History Project, Vermont Historical Society<br> The painted portrait is listed as &#8220;Lucy
             Ainsworth Cooke.&#8221;.<br>
             Newkirk, McDonald, &quot;Sleeping Lucy.&quot; Published by the Author, 30 W.
-            Chicago Avenue, Chicago, Illinois, 1973.<Br>
+            Chicago Avenue, Chicago, Illinois, 1973.<br>
             Image from Vermont Historical Society.
             <br><i>The Cambridge Tribune</i>, 1 June 1895, 19 October 1895, 23 November 1895.<br>
             <i>The Cambridge Chronicle</i>, 24 May 1973.
@@ -1157,7 +1216,9 @@ c_bios = [
         narrative: `
             <br>Originally from Louisville, Kentucky, Sister Rose Marie Cummings
             joined the Dominican Order soon after graduation. Sister Rose visited Puerto
-            Rico from 1966 to 1971 and fell in love with the island. <br><br>She worked in Massachusetts
+            Rico from 1966 to 1971 and fell in love with the island. 
+            
+            <br><br>She worked in Massachusetts
             from 1972 to 1999. In the mid 1970s, she worked in Framingham, Massachusetts as a bilingual
             counselor in the public school system. She was very active in the Sanctuary
             movement in the 1980s and was one of the co-founders of Centro
@@ -1169,13 +1230,17 @@ c_bios = [
             Earth Center in Springfield (founded in 1997), a ministry of the Dominicans
             of St. Catharine, Kentucky that encourages a philosophy and lifestyle of sustainable
             living that benefits our environment and those who inhabit it. 
-            <br><Br>
-            Sister Rose commented on the origins of the name Centro Present in 2006: <blockquote>
+
+            <br><br>
+            Sister Rose commented on the origins of the name Centro Present in 2006: 
+            
+            <blockquote>
             "I had heard the story about when people were gathered together for prayer, 
             and they would say the name of a person who had been very instrumental and showing 
             a lot of courage and leading people forward, and when they said the person's name 
             then everybody would answer 'Presente' which meant that the spirit of that person was
              there, present, with them and giving them courage to keep on and so it felt like a very apt name."</blockquote>
+
             She was presented
             an Earth Day award in 2006 by the Environmental Quality Commissioner of Kentucky
             and was celebrated in Cambridge at the twenty-fifth anniversary of Centro Presente
@@ -1229,9 +1294,10 @@ c_bios = [
             Jane Curtin returned to Boston to study drama at Northeastern University, but left in
             1968 when she landed a $40 a week acting job with &#8220;The Proposition,&#8221;
             a topical, politically-oriented comedy show in Cambridge that included a number
-            of other talented comedians. <Br><Br>
+            of other talented comedians. <br><br>
             
             In a 2019 interivew, Curtin recalled an event in her life in Inman Square in Cambridge:
+            
             <blockquote>
             "My senior year of high school, I went and did summer stock and met a woman, Amy, who said, 
             'I'm auditioning for an improv group. Will you come with me?' I had no idea what improv was. 
@@ -1241,18 +1307,19 @@ c_bios = [
             because we were all broke. Amy auditioned, and, at the end, there was nobody else there, 
             and they said, 'Does anybody else want to audition?' I thought, I'm going to give it a
              shot. And I got the job."</blockquote>
+
             She married Patrick Lynch in 1975 and has one daughter. In the fall of 1975, she had an opportunity to
             become a charter member of the Not Ready For Prime Time Players on NBC's &#8220;Saturday
             Night Live.&#8221; Curtin remained on the show for five seasons, creating a
             number of memorable characters, including Prymaat Conehead. She became widely
             known as the co-anchor of &#8220;Weekend Update.&#8221; When Dan Ackroyd and
             John Belushi moved to Hollywood to make movies, Curtin made one movie &quot;How
-            
-
             to Beat the High Cost of Living&quot; (1980) with a future television sitcom
             partner, Susan Saint James, but for some years, Curtin preferred the stage.
             She performed in the Broadway production of George Bernard Shaw's &#8220;Candida&#8221;
-            with Joanne Woodward in 1981, which was adapted for television two years later.<br><br>
+            with Joanne Woodward in 1981, which was adapted for television two years later.
+            
+            <br><br>
             She returned to television to appear in the sitcom
             &#8220;Kate and Allie&#8221; opposite Susan Saint James in a story about divorced
             mothers in Greenwich Village. This lasted for five years and won her Emmy awards
@@ -1260,6 +1327,7 @@ c_bios = [
             of Alfred Hitchcock's &#8220;Suspicion&#8221; but returned to the stage
             to play in &#8220;Love Letters&#8221; and Michael Frayne's popular farce,
             &#8220;Noises Off.&#8221;<br><br>
+
             In 1990 she appeared in a miniseries about desegregation in Boston called &#8220;Common
             Ground.&#8221; From the 1996 until 2001, she performed an important role in
             the television sci-fi comedy series &#8220;Third Rock from the Sun,&#8221; with
@@ -1269,6 +1337,7 @@ c_bios = [
             which signaled Newman's return to the stage and was made into a miniseries
             on television. She has continued to appear in a variety of television roles
             to the present.<br><br>
+
             Curtin also worked for UNICEF for several decades,
             appointed as an official UNICEF ambassador in 1990 on behalf of international
             children's health and childcare initiatives. In 1991, she received the
@@ -1277,13 +1346,13 @@ c_bios = [
         otherNotes: "",
         references: `
             <em>Cambridge Chronicle</em>. Sept 6, 2000.<br>
-            hollywood.com.<Br>
+            hollywood.com.<br>
             <br>Image from wikipedia.com:
-            <Br><a class='indent' href="https://en.wikipedia.org/wiki/Jane_Curtin" >https://en.wikipedia.org/wiki/Jane_Curtin</a>
+            <br><a class='indent' href="https://en.wikipedia.org/wiki/Jane_Curtin" >https://en.wikipedia.org/wiki/Jane_Curtin</a>
             <br><i>New Yorker</i>, "Jane Curtin Is Playing It Straight,
             The veteran actress on the Republican Party, the turbulence of “S.N.L.,” and the state of women in comedy."
             By Michael Schulman,
-            February 17, 2019.<Br>
+            February 17, 2019.<br>
             <A class='indent' href="https://www.newyorker.com/culture/the-new-yorker-interview/jane-curtin-is-playing-it-straight">link</a>
         
             `,

@@ -22,7 +22,7 @@ cards = [
         sentence: "Boudreau grew up in Cambridge and worked at the Temple Street office of the New England "+
         "Telephone Company <B>for 47 years</b>. As a <B>trustee of the Cambridge Public Library </b>for decades, "+
          "she was honored in 1989 by having the Concord Avenue CPL branch named after her. At a celebration honoring"+
-         " her work, she retorted:<Br> <i>\"You might have thought I put every brick in every branch library building. Well, I"+
+         " her work, she retorted:<br> <i>\"You might have thought I put every brick in every branch library building. Well, I"+
           " didn't. Now let's go have some tea!\"</i>",
     },
     {
@@ -220,7 +220,7 @@ cards = [
         sentence: "Clayground was a <b>women-owned pottery business and collective, "+
                 "founded in 1976</b> by Annie Hoffman and Carole Ann Fer. Women did all"+
                 " of the renovations of the Hampshire Street location, including electrical and plumbing."+
-                "<Br><Br> Annie recalls: \"We were making vessels. The body is a vessel, and a house is an outer "+
+                "<br><br> Annie recalls: \"We were making vessels. The body is a vessel, and a house is an outer "+
                 "vessel, so <b>learning how to renovate a space was essential and empowering for us as women.\"</b>",
     },
      {
@@ -293,7 +293,7 @@ function displayCards() {
                 '" alt="Avatar"' +
                 'class="w3-left w3-circle w3-margin-right" style="width:60px"><p>' +
                 element.sentence +
-                "</p><br></div></div></div></a><Br>";
+                "</p><br></div></div></div></a><br>";
         }
     });
     document.getElementById("cards").innerHTML = html;

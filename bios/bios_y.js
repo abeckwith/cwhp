@@ -18,10 +18,10 @@ y_bios = [
         <br>Susan Yanow was born in 1952 in Oregon and grew up in San Francisco,
             California. She graduated from Galileo High School and attended the University of California Santa Cruz,
             graduating with a B.A. in Psychology in 1970. Yanow moved to the East Coast to attend Boston College&rsquo;s
-            School of Social Work, graduating with an M.S.W. in 1975. <br><Br>
+            School of Social Work, graduating with an M.S.W. in 1975. <br><br>
 
              Her 25-year career as a clinical social worker focused on working in inpatient,
-            outpatient and private practice with survivors of violence and sexual abuse. <br><Br>
+            outpatient and private practice with survivors of violence and sexual abuse. <br><br>
 
              Yanow was active with the Boston chapter of the Reproductive Rights National
             Network (R2N2), which was founded in 1978 amidst a national debate about abortion that had intensified since
@@ -29,27 +29,32 @@ y_bios = [
             groups, including Act Up and the National Organization for Women, to sponsor protests, forums, speak outs
             and, starting in the late 1980&rsquo;s, to provide clinic defense when anti abortion activists began
             blockading clinics in the greater Boston area. <br><br>
+
              In 1992, Boston R2N2 launched the Abortion Access Project (AAP), which focused on
             expanding access by training new providers and breaking through abortion stigma. The AAP slogan was
             &ldquo;Abortion may be legal, but who can get one?&rdquo; AAP began to grow after the Brookline clinic
             shootings in 1994, and Yanow coordinated that project while continuing her clinical social work practice. In
             2000, Yanow became the full time Executive Director of AAP, which had projects in 17 states to expand
             abortion access. In 2006 Yanow left AAP, which in 2012 changed its name to Provide and shifted its focus to
-            improving referrals and changing social service attitudes in the Southeast. <br><Br>
+            improving referrals and changing social service attitudes in the Southeast. <br><br>
 
              Since 2006, Yanow has consulted for a number of U.S. organizations that work to
             expand access to abortion, including the Byllye Avery Institute, Sister Song, the Reproductive Health Access
             Project (RHAP), and Planned Parenthood New York City. She also worked with the International Consortium on
-            Medical Abortion and Women on Waves/Women on Web. <br><Br>
+            Medical Abortion and Women on Waves/Women on Web. <br><br>
+
              Yanow has also co-founded several organizations that directly support abortion
             access initiatives, including Women Help Women (WHW), Creating a Clinician Corps (C3), the Later Abortion
             Initiative (LAI; now at Ibis Reproductive Health) and EASE Project Expanding Abortion Services in the South.
             <br><br>
+
              WHW is an international, multi-lingual online organization that Yanow co-founded on
             September 28, 2014 to provide information about medical abortion and abortion services. WHW&rsquo;s staff
             answers thousands of emails from women seeking guidance on contraception, reproductive healthcare and
             abortion. In other countries, WHW helps provide access to abortion pills (misoprostol and mifepristone) and
-            guidance on self-managed abortions.<Br><Br>In April 2017, WHW launched SASS (Self-managed Abortion; Safe and
+            guidance on self-managed abortions.
+            
+            <br><br>In April 2017, WHW launched SASS (Self-managed Abortion; Safe and
             Supported) to address dwindling access to abortion in many parts of the United States, and especially for
             women in rural and low-income communities. SASS provides direct, secure counseling to women who are
             self-managing an abortion with pills at home. SASS also guides women on information and options for
@@ -57,6 +62,7 @@ y_bios = [
             is a secure smartphone app that tracks women&rsquo;s menstrual cycles, provides links, resources and
             information about sex, consent, pregnancy options and reproductive health. Euki is unique in its commitment
             to user privacy and not storing or sharing user data. <br><br>
+
              In 2009, Yanow co-founded the Later Abortion Initiative (LAI) at Advancing New
             Standards in Reproductive Health. The project was moved to Ibis Reproductive Health in 2014. Ibis was
             founded in 2002 in Cambridge, Massachusetts to support clinical and social science research on abortion
@@ -65,10 +71,12 @@ y_bios = [
             LAI is to protect and expand access to abortion later in pregnancy by developing innovative research models
             to inform advocacy and practice, coordinating with key advocacy, legal, clinical and activist leaders to
             promote later abortion access. <br><br>
+
              Clinician Corps (C3) was founded in 2016 to address the dearth of abortion
             providers in some areas of the United States and Canada and match these clinics with skilled providers who
             are willing to travel. In 2018 this project was integrated into the work of the National Abortion
             Federation, where the project continues. <br><br>
+
              Yanow is also a prolific writer, having written numerous articles and contributed
             to publications on abortion access and reproductive rights. She contributed to the &ldquo;Abortion&rdquo;
             and &ldquo;The Politics of Women&rsquo;s Health&rdquo; chapters for the 2011 edition of Our Bodies, Our
@@ -78,12 +86,15 @@ y_bios = [
             heard in NPR radio interviews and news reports about abortion rights, speaking both from her long- time
             activism and also as the spokesperson for SASS. Yanow has been a panelist at numerous conferences, and also
             leads training workshops for those interested in learning about self-managed abortion. <br><br>
+
              Yanow notes that one of the greatest ongoing challenges with abortion rights is the
             pernicious stigma associated with abortion. Stigma continues be a major obstacle to providing safe access to
             abortion, to providers offering the service, and for people understanding what abortion entails and why the
-            numerous restrictions which purport to increase safety are unnecessary and present barriers to care. <br>
+            numerous restrictions which purport to increase safety are unnecessary and present barriers to care. <br><br>
+
              Yanow&rsquo;s past Board service includes: Cambridge Women&rsquo;s Center, Chennai
-            Children Foundation, NARAL ProChoice Massachusetts, and Social Workers for Reproductive Justice. <br><Br>
+            Children Foundation, NARAL ProChoice Massachusetts, and Social Workers for Reproductive Justice. <br><br>
+
              She currently serves on the Boards of the American Civil Liberties Union of
             Massachusetts, the Cambridge Commission on the Status of Women (CCSW) and Nurses for Sexual and Reproductive
             Health (NSRH). In 2016, NARAL Massachusetts honored Yanow and Dr. Bigby at the annual Champions for Choice
@@ -93,41 +104,41 @@ y_bios = [
         otherNotes: "",
         references: `
             Arvind Dilawar, &ldquo;Advocates For Self-managed Abortions Are Preparing For a Post-Roe World&rdquo;,
-            <em>Pacific Standard</em>, 7/12/2019,<Br> <a
+            <em>Pacific Standard</em>, 7/12/2019,<br> <a
                 href="https://psmag.com/social-justice/advocates-for-self-managed-abortions-are-preparing-for-a-post-roe-world" >Link</a>
             <br> <br>
             Baker, Carrie. &ldquo;We Heart: The Period Tracking App Resisting Anti-abortion Government
-            Surveillance,&rdquo; <em>Ms. Magazine</em>, 1/27/2020,<Br> <a
+            Surveillance,&rdquo; <em>Ms. Magazine</em>, 1/27/2020,<br> <a
                 href="https://msmagazine.com/2020/01/27/we-heart-the-period-tracking-app-resisting-anti-abortion-government-surveillance/" >Link</a>
             <br> <br>
-            Harvard Library Hollis Catalogue of Susan Yanow publications, accessed 6/2/2020: <Br><a
+            Harvard Library Hollis Catalogue of Susan Yanow publications, accessed 6/2/2020: <br><a
                 href="https://hollis.harvard.edu/primo-explore/search?query=creator,exact,Yanow%20Susan,AND&amp;pfilter=pfilter,exact,articles,AND&amp;tab=everything&amp;search_scope=everything&amp;vid=HVD2&amp;mode=advanced&amp;offset=0" >Link</a>
-            Later Abortion, History of the Initiative:<Br> <a
+            Later Abortion, History of the Initiative:<br> <a
                 href="https://laterabortion.org/history-initiative">https://laterabortion.org/history-initiative</a>
             <br> <br>
-            NARAL Pro Choice Massachusetts 2016 Annual Champions For Choice Awardees: <Br><a
+            NARAL Pro Choice Massachusetts 2016 Annual Champions For Choice Awardees: <br><a
                 href="https://prochoicemass.org/2016/10/21/naral-honors-dr-judyann-bigby-susan-yanow-work-toward-advancement-reproductive-freedom-annual-champions-choice-event/" >Link</a>
             <br> <br>
-            NPR Radio interviews:<Br> <a
-                href="https://www.npr.org/transcripts/9213707">https://www.npr.org/transcripts/9213707</a>,<Br><a
+            NPR Radio interviews:<br> <a
+                href="https://www.npr.org/transcripts/9213707">https://www.npr.org/transcripts/9213707</a>,<br><a
                 href="https://www.wbur.org/hereandnow/2017/05/04/women-help-women-website-pregnancies" >https://www.wbur.org/hereandnow/2017/05/04/women-help-women-website-pregnancies</a>,
             <a
                 href="https://www.wbur.org/commonhealth/2018/05/22/abortion-battle-health-information" >https://www.wbur.org/commonhealth/2018/05/22/abortion-battle-health-information</a>
             <br> <br>
-            Nurses for Sexual and Reproductive Health: <Br><a
+            Nurses for Sexual and Reproductive Health: <br><a
                 href="https://www.nsrh.org/susan-yanow--msw" >https://www.nsrh.org/susan-yanow--msw</a> <br>
-            Our Bodies, Ourselves:<Br> <a
+            Our Bodies, Ourselves:<br> <a
                 href="https://www.ourbodiesourselves.org/our-story/contributors/susan-yanow/" >https://www.ourbodiesourselves.org/our-story/contributors/susan-yanow/</a>
             <br> <br>
             Redden, Molly. &ldquo;New website offers US women help to perform their own abortions,&rdquo; <em>The
-                Guardian</em>, 4/27/2017,<Br> <a
+                Guardian</em>, 4/27/2017,<br> <a
                 href="https://www.theguardian.com/world/2017/apr/27/abortion-website-women-help-women" >https://www.theguardian.com/world/2017/apr/27/abortion-website-women-help-women</a>
             <br> <br>
-            <em>Rewire.News</em> articles by Susan Yanow, accessed 6/2/1010:<Br> <a
+            <em>Rewire.News</em> articles by Susan Yanow, accessed 6/2/1010:<br> <a
                 href="https://rewire.news/author/susan-yanow/" >https://rewire.news/author/susan-yanow/</a> <br>
             Self-Managed Abortion Podcast, Part 1: <a href="https://www.smapodcast.org" >https://www.smapodcast.org</a>
             <br> <br>
-            Women Help Women: Euki App.<Br> <a
+            Women Help Women: Euki App.<br> <a
                 href="https://womenhelp.org/en/page/1082/euki-app" >https://womenhelp.org/en/page/1082/euki-app</a> <br>
             Yanow, Susan. &ldquo;It is time to integrate abortion into primary care.&rdquo; <em>American journal of
                 public health</em> vol. 103,1 (2013): 14-6. doi:10.2105/AJPH.2012.3011196
@@ -163,12 +174,14 @@ y_bios = [
         daughters. Anna began to teach Italian and during the Second World War hosted
         the &#8220;Italian Hour&#8221; radio show that included information on relatives
         in Italy. She also served as a translator. 
+
         <br><br>For many years, Anna Yona also taught
         Italian at the New England Conservatory of Music. After the war, her cousin,
         Primo Levi, sent her a manuscript; she translated a chapter of what would later
         be published as <em>Survival in Auschwitz</em>. (She submitted the manuscript
         to Little, Brown, which chose not to publish the book; forty years later, the
         book would make Levi famous in America.) In 1972, Yona was living at 159 Upload Road in Cambridge.<br><br>
+
         In her old age, she provided information and material
         about the Foa family for a book on the experiences of five Italian Jewish families
         under Mussolini, which was published in 1991. Her papers and those of her husband,
@@ -176,7 +189,8 @@ y_bios = [
         History Research Center at the University of Minnesota. She died in a Newton
         nursing home at the age of 98.
 
-        <Br><Br>In a 2014 piece about the struggles of Italian-Americans in America in the interwar years, Stefano Luconi writes: 
+        <br><br>In a 2014 piece about the struggles of Italian-Americans in America in the interwar years, Stefano Luconi writes: 
+        
         <blockquote>
         "...after the exiles had settled in their adoptive land, anti-Fascist militancy had to coexist 
         with the necessity to provide for themselves and their own families. As Anna Yona would 
@@ -189,17 +203,17 @@ y_bios = [
         references: ` Sergio Parussa. <em>I Would Have Liked to Flee
             to Patagonia: Conversations with Anna Yona Bridges: A Jewish Feminist Journal</em>
         Autumn 2005, Vol. 10, No. 2: Pages 10-27.
-        <Br> Alexander Stille. <em>Benevolence
+        <br> Alexander Stille. <em>Benevolence
             and Betrayal: Five Italian Jewish Families under Fascism </em>(1991).
-            <Br> Anna Yona
+            <br> Anna Yona
         Papers, Immigration History Research Center, College of Liberal Arts, University
         of Minnesota <br> Obituary, Gloria Negri &#8220;Anna Yona at 98; hosted Italian-Hour
         radio show&#8221;.
         <br> <em>Boston Globe</em>, October 15, 2006
-        <Br><i>Cambridge City Directory</i>, 1972,<Br>
+        <br><i>Cambridge City Directory</i>, 1972,<br>
         Image and quote from <i>Printed Matter</i>, Centro Primo Levi Online Monthly:
 
-        <Br><a class='indent' href="https://primolevicenter.org/printed-matter/our-life-was-divided/">
+        <br><a class='indent' href="https://primolevicenter.org/printed-matter/our-life-was-divided/">
         https://primolevicenter.org/printed-matter/our-life-was-divided/</a><br>
 
     `,
@@ -238,6 +252,7 @@ y_bios = [
         senior citizens&#8217; activities, recreational facilities, and study groups
         on public affairs. Currently, it is the largest residential facility for women
         in the city. <br><br>
+
         The YWCA of Cambridge is self-governing and administered
         by a volunteer Board of Directors and a small professional staff. Originally
         funded by membership fees, benefits, lectures, and bazaars, since the late 1930s,
@@ -250,7 +265,7 @@ y_bios = [
     `,
         otherNotes: "",
         references: `YWCA
-        papers, Schlesinger Library, Radcliffe Institute<Br><i>YWCA of Cambridge</i> website:<Br>
+        papers, Schlesinger Library, Radcliffe Institute<br><i>YWCA of Cambridge</i> website:<br>
         <a class='indent' href="https://ywcacam.org/">https://ywcacam.org/</a>
         `,
         photos: ["images_bios/YWCA%201916%20girls%20basketball%20team.jpeg"],

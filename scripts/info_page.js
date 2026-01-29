@@ -46,9 +46,9 @@ function showBirthdays() {
     bDayCount = 0;
 
     //used in console:
-    noQuote = "<Br><b>Need QUOTE:</b><br>";
-    noImage = "<br><B>Need IMAGE:</b><Br>";
-    nobirthDate = "<Br><b>Need BIRTHDATE:</b><Br>";
+    noQuote = "<br><b>Need QUOTE:</b><br>";
+    noImage = "<br><B>Need IMAGE:</b><br>";
+    nobirthDate = "<br><b>Need BIRTHDATE:</b><br>";
 
     womanCount = 0;
     orgcount = 0;
@@ -80,7 +80,7 @@ function showBirthdays() {
     });
     console.log(pocList);
     topDisplay = "TOTAL in database: " + (orgcount + womanCount) + "<br>";
-    topDisplay += "# of Women: " + womanCount + "<Br>";
+    topDisplay += "# of Women: " + womanCount + "<br>";
     topDisplay += "# of Organizations: " + orgcount + "<br>";
 
     all_bios.forEach((bioLetterList) => {
@@ -106,15 +106,15 @@ function showBirthdays() {
                 thename.firstName != "" &&
                 thename.birthDate.slice(-4) < 1930
             ) {
-                nobirthDate += theLink + "<Br>";
+                nobirthDate += theLink + "<br>";
                 nbdct++;
             }
             if (thename.narrative.indexOf("blockquote") == -1) {
-                noQuote += theLink + "<Br>";
+                noQuote += theLink + "<br>";
                 noqtct++;
             }
             if (thename.photos[0] == "") {
-                noImage += theLink + "<Br>";
+                noImage += theLink + "<br>";
                 noimgct++;
             }
 
@@ -201,15 +201,15 @@ function showBirthdays() {
         nobirthDate +
         "(" +
         nbdct +
-        ")<Br>" +
+        ")<br>" +
         noImage +
         "(" +
         noimgct +
-        ")<Br>" +
+        ")<br>" +
         noQuote +
         "(" +
         noqtct +
-        ")<Br>";
+        ")<br>";
     document.getElementById("other-display").innerHTML = disp;
     //SORT ALGORITHM: first by year, then month, then day:
     recentsSorted = recentObjects.sort((a, b) => {
@@ -301,9 +301,9 @@ function showBirthdays() {
     document.getElementById("summary-numbers").innerHTML = topDisplay;
     document.getElementById("birthday-display").innerHTML =
         bDisplay + "<br>TOTAL:" + bDayCount;
-    document.getElementById("alive-display").innerHTML = aliveDisplay + "<Br>";
+    document.getElementById("alive-display").innerHTML = aliveDisplay + "<br>";
     document.getElementById("all-display").innerHTML = allNames;
     document.getElementById("birth-display").innerHTML = birthDisplay;
-    // + "<br><span id='allnames'><Br><Br><Br><Br></span><b>All Names:</b><Br>" + allNames;
+    // + "<br><span id='allnames'><br><br><br><br></span><b>All Names:</b><br>" + allNames;
     //SORT ALGORITHM: first name:
 }

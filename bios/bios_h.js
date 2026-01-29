@@ -20,7 +20,9 @@ h_bios = [
             Although her home was in Manchester, Isabella also stayed in Cambridge while
             attending the Buckingham and Winsor schools. She attended Bryn Mawr College
             for two years in the mid-1920s and then studied at the Art Students League in
-            New York City for two more years.<br><br> In 1930, she married James Halsted, a physician,
+            New York City for two more years.<br><br>
+            
+            In 1930, she married James Halsted, a physician,
             after which she lived in Boston, Cleveland, Dedham, and Los Angeles, CA. After
             the marriage ended in divorce in 1951, Isabella Halsted returned to Cambridge
             and decided to learn typing and stenography. Isabella worked as secretary to
@@ -30,10 +32,12 @@ h_bios = [
             There she hosted foreign guests of the State Department,
             welcoming them into her home in Cambridge and learning about their cultures.
             <br><br>
+
             Isabella Halsted also initiated and led a campaign
             to close Memorial Drive to automobile traffic on Sundays during the summer months
             (Riverbend Park) for which she was celebrated with a memorial stone bench in
             Longfellow Park, between Memorial Drive and Mt. Auburn Street. <br><br>
+
             She
             was the author of <em>The Aunts</em>, a 1992 memoir of the four Curtis sisters
             of Beacon Hill and Manchester. Some of her letters from her father are held
@@ -76,32 +80,38 @@ h_bios = [
             and Montgomery Hamilton, Alice was educated first at Miss Porter's School
             in Connecticut and then attended the University of Michigan Medical School,
             graduating in 1893 and interned at the Hospital for Women and Children in Minneapolis
-            and at the New England Hospital for Women and Children in Boston. <br><br>In 1897, she
+            and at the New England Hospital for Women and Children in Boston. <br><br>
+            
+            In 1897, she
             was named the first woman professor at the Women's Medical School of Northwestern
             University as professor of pathology. During this period, she lived at the famous
             settlement house, Hull House, founded by Jane Addams. She noticed the numbers
             of immigrants sickened by toxins produced by Chicago factories, and began to
             study occupational hazards from various chemicals. She served on the Occupational
             Disease Commission in Illinois and then joined the staff of the U.S. Department
-            of Labor. <br><br>In 1919, she joined the new Department of Industrial Medicine at Harvard
+            of Labor. <br><br>
+            
+            In 1919, she joined the new Department of Industrial Medicine at Harvard
             Medical School as an assistant professor, the first woman to be appointed to
             the medical faculty. She remained there for sixteen years without a promotion,
             excluded as a member of the Harvard Faculty Club. She went on to publish a number
             of important books, most notably <em>Industrial Toxicology</em> (1934) and including
             an autobiography, <em>Exploring the Dangerous Trades: The Autobiography of Alice
                 Hamilton</em> (1943). She was the only member of the League of Nations Health
-            Committee (1924-1930). <br><br>After her retirement, she continued to be active in both
+            Committee (1924-1930). <br><br>
+            
+            After her retirement, she continued to be active in both
             national and local groups and to support liberal causes. She was awarded many
             honorary degrees in her retirement years.`,
         otherNotes: "",
-        references: ` <em>Cambridge Chronicle</em> Sept. 20, 2000<Br>
+        references: ` <em>Cambridge Chronicle</em> Sept. 20, 2000<br>
          Barbara
             Sicherman. <em>Alice Hamilton M.D.: A life in Letters</em>. Harvard University
             Press, 1984.<br>
              Ogilvie, Marilyn and Joy Harvey. <em>Biographical Dictionary of
-                Women Scientists</em> (2000).<Br>
+                Women Scientists</em> (2000).<br>
                 Image from wikipedia.com:
-                <Br><a class='indent' href="https://en.wikipedia.org/wiki/Alice_Hamilton" >https://en.wikipedia.org/wiki/Alice_Hamilton</a>
+                <br><a class='indent' href="https://en.wikipedia.org/wiki/Alice_Hamilton" >https://en.wikipedia.org/wiki/Alice_Hamilton</a>
         `,
         photos: ["images_bios/Alice_Hamilton.jpg"],
         photoTitles: [],
@@ -129,7 +139,9 @@ h_bios = [
         narrative: `
             Margaret Hamilton graduated from
             Hancock High School in 1954 and then attended Earlham College in Richmond, Indiana,
-            graduating in 1958 as a major in mathematics. <br><br>She moved to Massachusetts with
+            graduating in 1958 as a major in mathematics. <br><br>
+            
+            She moved to Massachusetts with
             the intention of doing graduate study at Brandeis but instead took a position
             at MIT where she learned to write software for computers. She postponed her
             graduate work for a chance to work on software for the Apollo program and eventually
@@ -137,27 +149,34 @@ h_bios = [
             for the Apollo and Skylab NASA missions, overseeing the moon flights. She produced
             over 130 papers, proceeding and reports. Hamilton's work in the software field was extensive and has
             been credited with coining the term "Software Engineering."<br><br>
+
+
             In 1986, she founded and became CEO of Hamilton Technologies, in Cambridge,
             a software company. She has been recognized with the Augusta Ada Lovelace Award
             by the Association of Women in Computing in 1986 and the NASA Exceptional Space
             Act Award, in 2003 for her contributions to the Apollo Program and to the field
             of software engineering.
             
-            <Br><Br>In 2016, Barack Obama awarded her the Presidential Medal of Freedom.
-            In a Cambridge Chronicle article at the time, MIT professor Jaime Paraire said:<blockquote>
+            <br><br>In 2016, Barack Obama awarded her the Presidential Medal of Freedom.
+            In a Cambridge Chronicle article at the time, MIT professor Jaime Paraire said:
+            
+            <blockquote>
             "She was a true software engineering pioneer, and it's not hyperbole to say that she, and the instrumentation
              Lab's Software Engineering Division that she led, put us on the moon."</blockquote>
-             In the same article, the MIT News author stated:<blockquote>
+
+             In the same article, the MIT News author stated:
+             
+             <blockquote>
              "Hamilton had become an icon for women in science and technology, especially in the few years since a 
              now-famous photo, showing her next to a printout of her MIT team's Appolo code, began circulating online.</blockquote>  `,
         otherNotes: "",
         references: ` Earlham College press release March 4, 2005; NASA
-            Office of Logic Design &#8220;About Margaret Hamilton.&quot;.<Br> 
+            Office of Logic Design &#8220;About Margaret Hamilton.&quot;.<br> 
             <a class='indent'
                 href="http://klabs.org/home_page/hamilton.htm">http://klabs.org/home_page/hamilton.htm</a><br>
-                Image from wikipedia<Br>
+                Image from wikipedia<br>
                 <a class='indent' href="https://en.wikipedia.org/wiki/Margaret_Hamilton_%28software_engineer%29" >https://en.wikipedia.org/wiki/Margaret_Hamilton_%28software_engineer%29</a>
-                <Br>Second image and quotest from: <i>The Cambridge Chronicle</i>,  24 November 2016
+                <br>Second image and quotest from: <i>The Cambridge Chronicle</i>,  24 November 2016
 
         `,
         photos: ["images_bios/Margaret_Hamilton_1995.jpg", "images_bios/hamilton_margaret2.png"],
@@ -187,7 +206,9 @@ h_bios = [
             Bea Harvey grew up in East Cambridge during the
             Depression. Her father died when he was 50, and her mother was left with 13
             children. Because of family circumstances, she and her siblings were split up,
-            and she went to live with her aunt and uncle in West Bridgewater. <br><br>When she was
+            and she went to live with her aunt and uncle in West Bridgewater. <br><br>
+            
+            When she was
             21, she came back to Cambridge and worked at various jobs in Central Square,
             including Woolworth's and Gorin's. During World War II, she became
             a welder at the Quincy shipyard. Later on, she worked at Necco and Fanny Farmer
@@ -195,13 +216,14 @@ h_bios = [
             on children's slippers. After her husband died in 1996, Bea became tenant
             president of Manning Apartments, where she had been a strong advocate for tenants'
             rights, as well as a member of the crime watch group. <br><br>
+
             She worked part time as
             a school lunch cashier in the city's schools. Bea had six children, three
             of whom died tragically; 10 grandchildren, and 2 great-grandchildren.<br>
             `,
         otherNotes: "",
         references: ` Oral interview by Sarah Boyer.
-        <Br><i>The Cambridge Chronicle</i>, 7 January 1999.
+        <br><i>The Cambridge Chronicle</i>, 7 January 1999.
 
         `,
         photos: ["images_bios/harvey.png"],
@@ -233,7 +255,9 @@ h_bios = [
         narrative: `
             A Cambridge resident, Judith Lewis Herman has
             done ground breaking research on post-traumatic disorders and sexual violence
-            against women and children. <br><br>She grew up in the New York area, daughter of secular
+            against women and children. 
+            
+            <br><br>She grew up in the New York area, daughter of secular
             Jews. Her father, Naphtali Lewis, was a professor of classics at Brooklyn College
             and her mother, Helen Block Lewis, trained as a clinical psychologist and later
             became a Yale professor. Both parents were involved in social activism and both
@@ -273,7 +297,7 @@ h_bios = [
             recognition award in June 2006.  She received a Guggenheim fellowship in 1984 and the 1996 Lifetime
             Achievement Award from the International Society for Traumatic Stress Studies. 
             
-            <Br><Br>In 2007
+            <br><br>In 2007
             Herman was named a Distinguished Life Fellow of the American Psychiatric Association.
                 She is currently a Senior Lecturer in Psychiatry (part time) at
             Harvard Medical School. She is
@@ -317,7 +341,9 @@ h_bios = [
             high school in Edina MN. She started college at Wellesley and graduated from
             Radcliffe College in 1958. After graduating as Master of Divinity from Episcopal
             Theological School in 1964, she went on to study for her master&#8216;s degree
-            in social work from Boston University in 1965. <br><br>For a while, she worked for a
+            in social work from Boston University in 1965. 
+            
+            <br><br>For a while, she worked for a
             Presbyterian church in Minnesota helping the ghetto poor. She moved to Philadelphia
             where she organized a group to represent the poor (Welfare Rights Organization).
             She then worked with the Episcopal Diocese in Philadelphia and began to advocate
@@ -325,8 +351,7 @@ h_bios = [
             in the first women's ordination in July 29 1974, though they did not then
             have the permission of their bishops or the church government at that time.
             After the Episcopal Church's General Convention in 1976, where ordination of
-            women was approved, she was then regularly ordained in 1977. <br><br
-
+            women was approved, she was then regularly ordained in 1977. <br><br>
             
             Hiatt returned to Cambridge in 1975 and joined
             the Episcopal Divinity School where she eventually rose to full professor as
@@ -337,20 +362,22 @@ h_bios = [
             <em>Women Priests, Yes or No?</em> She contributed extensive book chapters and
             articles on a variety of topics. She presented a woman for ordination of the
             Diocese of London's first ordination of women in St Paul's Cathedral
-            in 1994. Hiatt received an Honorary LLD from Regis College in 1988. <br><br>Suzanne
+            in 1994. Hiatt received an Honorary LLD from Regis College in 1988. <br><br>
+            
+            Suzanne
             Hiatt died of cancer at Chilton Hospice , Cambridge. Her papers are held at
             Columbia University, Union Theological Seminary, Archive of Women in Theological
             Scholarship. `,
         otherNotes: "",
         references: ` <em>The Witness</em> magazine Monday, July 15,
-            2002.<Br>
+            2002.<br>
              <em>Cambridge Chronicle</em> June 5 2002. 
-             <Br>Biographical note, Archive of
-            Women in Theological Scholarship by Leslie Reyman: (October 2000). <Br>
+             <br>Biographical note, Archive of
+            Women in Theological Scholarship by Leslie Reyman: (October 2000). <br>
             &nbsp;&nbsp;&nbsp;&nbsp;<a
                 href="http://www.columbia.edu/cu/lweb/img/assets/6396/Hiatt_SFA51305PDF.pdf">http://www.columbia.edu/cu/lweb/img/assets/6396/Hiatt_SFA51305PDF.pdf</a>
        <br>Image sources: Collection info, The Burke Library at Union Theological Seminary, Columbia University in the City of New York.
-       <Br><i>Cambridge Telephone book</i>, 1989 .
+       <br><i>Cambridge Telephone book</i>, 1989 .
                 `,
         photos: [
             "images_bios/suzanne_hiatt2.jpg",
@@ -387,7 +414,9 @@ h_bios = [
             Campbell (b. 1909), and Joan Kracke (b.1911). The couple moved to Berkeley, California,
             then to New Haven, Connecticut, and finally back to Cambridge in 1914, when William
             obtained positions in the philosophy departments of UC, Yale, and Harvard respectively.
-            He was named Alford Professor of Natural Religion and Moral Philosophy in 1920. <br><br>
+            He was named Alford Professor of Natural Religion and Moral Philosophy in 1920.
+            
+            <br><br>
             William and Agnes Hocking founded the Cooperative Open-Air School in the
             spring
             of 1915 located at their home at 16 Quincy Street in Cambridge. Parents shared
@@ -397,7 +426,9 @@ h_bios = [
             near Shady Hill Square at the corner of Holden and Scott streets and adopted
             the name Shady Hill School around 1917-18. In October 1926, the school relocated
             to Coolidge Hill in Cambridge. The couple continued their strong interest in
-            the project and correspondence with the directors until their deaths. <br><br>
+            the project and correspondence with the directors until their deaths. 
+            
+            <br><br>
             The correspondence of Agnes and her husband, and
             multiple letters from others concerning Shady Hill School and many other topics
             is to
@@ -406,11 +437,11 @@ h_bios = [
             (about Shady Hill) in the Katherine Taylor Papers in Schlesinger Library. There
             is also a folder in the WEH papers from Cambridge Historical Society (Massachusetts), &#8220; Correspondence
             with WEH, 1950&#8221; with a letter from Agnes Hocking concerning the history
-            of the Shady Hill School. <br>`,
+            of the Shady Hill School.`,
         otherNotes: "",
         references: ` Finding aid and list of archives, William Ernest Hocking papers, Houghton
-            Library Harvard University.<Br>
-            Image used wth permission from Shady Hill School: <Br>
+            Library Harvard University.<br>
+            Image used wth permission from Shady Hill School: <br>
             <a class='indent' href="https://www.shs.org/" >https://www.shs.org/</a>
         `,
         photos: ["images_bios/agnes_hocking.jpeg"],
@@ -445,17 +476,20 @@ h_bios = [
             Mrs. Holman and her daughter were witches. Her parents became alarmed and sought
             an explanation. 
             
-            <br><Br>In an indictment they prepared, the Gibsons claimed that Winifred
+            <br><br>In an indictment they prepared, the Gibsons claimed that Winifred
             Holman had offered herbs to their daughter during a previous fit and noticed
             that the daughter, Rebecca, seemed worse whenever she saw the Holmans. They
             also cited some assistance by the Holmans to their daughter's child after
-            the child had fallen ill that did not result in any improvement. <br><br>The indictment
+            the child had fallen ill that did not result in any improvement. 
+            
+            <br><br>The indictment
             included observations on the behavior of Winifred Holman and her poultry, which
             the Gibsons considered peculiar, attributing the death of some of their own
             hens to witchcraft. This indictment could have had serious consequences since
             an unfortunate woman, Goody Kendal had been executed as a witch in Cambridge
             because of a claim by the nurse of a child that she had &#8220;made much of&#8221;
             a child and caused its sudden death.<br><br>
+
             In defense of her character as a &#8220;good Christian woman,&#8221; Mrs. Holman
             submitted certificates signed by two deacons and her neighbors that said she
             was diligent in attending church and had never been perceived to do or say anything
@@ -463,7 +497,7 @@ h_bios = [
             hysteria that engulfed similar cases in Salem thirty years later, the case was
             dismissed. Mary and Winifred Holman then brought two suits in the county courts
             at the end of March 1660 against John Gibson and his daughter Rebecca Stearns
-            for defamation. <br>
+            for defamation. 
             `,
         otherNotes: "",
         references: `Lucius R.Paige. <em>A History of Cambridge 1630
@@ -502,7 +536,9 @@ h_bios = [
             Boston as a young girl where she attended Girls High School. After winning a
             writing competition at the age of fifteen sponsored by the African American
             playwright, novelist, essayist, historian, and abolitionist, William Wells Brown
-            (1814-1884), she began to write seriously. <br><br>At the age of twenty, she wrote a
+            (1814-1884), she began to write seriously. 
+            
+            <br><br>At the age of twenty, she wrote a
             musical drama &#8220;Slaves Escape or the Underground Railroad&#8221;. She both
             produced the play and performed a central role. In order to support herself,
             she worked as a stenographer with the Massachusetts Bureau of Statistics, beginning
@@ -517,50 +553,58 @@ h_bios = [
             <blockquote>"Is it not true that the fate of the Negro is the romance of American History?"
             </blockquote>
             
-            In 1903, in <i>Colored American Magazine</i>, Hopkins wrote of the complexities of racial issues at the time:<blockquote>
+            In 1903, in <i>Colored American Magazine</i>, Hopkins wrote of the complexities of racial issues at the time:
+            
+            <blockquote>
             "We grant that the Southern woman has given us a terrible blow, and in a vital part, because woman 
             is the natural social leader; she is responsible in great measure for society's deeds; but we
-             have known for years where to seek our enemy; it is not the man so much as the environments of
-              his social system. Granted that the conditions are hard for a certain class of Southern white
-               women; but the results of profligacy are the same in any case, no matter whether white or 
-               black are the partners. Certainly the rapid life of society everywhere at present, among 
-               white and black, is not suggestive of absolute purity, and the black is no worse than his 
-               environment; he follows the fashions as set by his white superior. <Br><br>
+            have known for years where to seek our enemy; it is not the man so much as the environments of
+            his social system. Granted that the conditions are hard for a certain class of Southern white
+            women; but the results of profligacy are the same in any case, no matter whether white or 
+            black are the partners. Certainly the rapid life of society everywhere at present, among 
+            white and black, is not suggestive of absolute purity, and the black is no worse than his 
+            environment; he follows the fashions as set by his white superior. 
+            <br><br>
                
-               "But if this thing be true, 
-               and pity 'tis, 'tis true, it is but the result of conditions forced upon a helpless people, 
-               and not their choice; we reap the whirlwind from sowing the wind. Meanwhile, tears and sorrow and
-                heart-burning are the Southern white woman's portion, and like Sarah of old she wreaks her 
-                vengeance on helpless Hagar. Club life has but rendered her disposition more intolerable toward
-                 the victims of her husband's and son's evil passions.<Br><BR>
+            "But if this thing be true, 
+            and pity 'tis, 'tis true, it is but the result of conditions forced upon a helpless people, 
+            and not their choice; we reap the whirlwind from sowing the wind. Meanwhile, tears and sorrow and
+            heart-burning are the Southern white woman's portion, and like Sarah of old she wreaks her 
+            vengeance on helpless Hagar. Club life has but rendered her disposition more intolerable toward
+            the victims of her husband's and son's evil passions.<br><br>
+
             "Spite of these sad short-comings, let us hope. Never until we welcome the Negro, the foreigner, 
             all races, as equals, and welded together in a common nationality, shall we deserve prosperity 
             and peace. We hope the time is not far distant when the women of African descent will meet in a 
             General Federation, and pray, with unwavering trust in the Fatherhood of God and the brotherhood of
-             man: <Br><Br>'Lord, from the four corners of the world we have come to this convention, as representing the
-              homes of the world. It is to these homes the effects of this meeting, for good or for evil, will 
-              go. May many homes be made stronger and sweeter, may many crooked ways be made straight, by what
-               we shall do and say here.'"
-                </blockquote>
+            man: <br><br>
+            
+            'Lord, from the four corners of the world we have come to this convention, as representing the
+            homes of the world. It is to these homes the effects of this meeting, for good or for evil, will 
+            go. May many homes be made stronger and sweeter, may many crooked ways be made straight, by what
+            we shall do and say here.'"
+            </blockquote>
                
                In 1905, ill health forced Hopkins to return to work as a stenographer
              at Massachusetts Institute of Technology. Her final literary work was a series
             of articles entitled, &quot;Dark Races of the Twentieth Century,&quot; published
             during 1904-1905 in The Voice of the Negro. Mainly interested in the problems
             of the black middle class, she was one of the first black women writers in America. 
-            <br><Br>She was living at 19 Jay Street in Cambridge at the time of her death.
+            <br><br>
+            
+            She was living at 19 Jay Street in Cambridge at the time of her death.
             `,
         otherNotes: "",
         references: `<em>The Unruly Voice: Rediscovering Pauline Elizabeth
-                Hopkins</em>. Ed. John C. Gruesser. Urbana: U of Illinois P, 1996. <Br>
+                Hopkins</em>. Ed. John C. Gruesser. Urbana: U of Illinois P, 1996. <br>
                 Cambridge
             Public Library website &#8220;Penwomen of Cambridge Past: Biographies of
             Our Literary Foremothers&#8221;.<br>
-                Image from wikipedia:<Br>
+                Image from wikipedia:<br>
                 <a class='indent' href="https://en.wikipedia.org/wiki/Pauline_Hopkins" >https://en.wikipedia.org/wiki/Pauline_Hopkins</a>
        <br><i>Cambridge City Directory</i>, 1928.<br>
        "Echoes from the Annual Convention of Northeastern Federation of Colored Women's Clubs," <i>Colored American Magazine</i> 6.10 (Oct. 1903): 709-713.
-        <Br>"Pauline Elizabeth Hopkins: Black Daughter of the Revolution", by Lois Brown, 2008, Univeristy of North Carolina Press.       `,
+        <br>"Pauline Elizabeth Hopkins: Black Daughter of the Revolution", by Lois Brown, 2008, Univeristy of North Carolina Press.       `,
         photos: [ "images_bios/Hopkins2.png", "images_bios/Pauline_Elizabeth_Hopkins.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
@@ -593,7 +637,9 @@ h_bios = [
             convinced that Leif Erikson had landed in North America and resided along the
             Charles River. He purchased land and erected a tower and monument to this theory
             in Weston, Massachusetts, at the junction of the Charles and Stony Brook Rivers. Just before
-            his death in 1893, he asked his daughter to carry on his work. <br><br>
+            his death in 1893, he asked his daughter to carry on his work. 
+            
+            <br><br>
             In subsequent years, Cornelia Horsford published his unfinished writings along
             with her own studies. In her essay &#8220;Graves of the Northmen,&#8221; published
             with her father's writings in 1893, Miss Horsford gave an interesting
@@ -607,6 +653,7 @@ h_bios = [
             work was devoted mainly to the discovery of other similar ruins and her attempts
             to show that similar North American ruins were identical with those to be found
             in Iceland and Greenland. <br><br>
+
             Horsford was also a member of the Massachusetts Horticultural
             Society; Colonial Dames of Massachusetts; and the Icelandic Antiquarian Society.
             She lived in her family home at 27 Craigie Street, Cambridge and summered on
@@ -615,11 +662,11 @@ h_bios = [
             Society Boas collection (Philadelphia).`,
         otherNotes: "",
         references: ` Horsford family papers, Rensselaer Polytechnic
-            Institute Library.<Br>
-            <i>Cambridge Chronicle</i>, July 2, 1998.<Br>
+            Institute Library.<br>
+            <i>Cambridge Chronicle</i>, July 2, 1998.<br>
             Image from wikipedia:<br>
             <a class='indent' href="https://en.wikipedia.org/wiki/Cornelia_Horsford" >https://en.wikipedia.org/wiki/Cornelia_Horsford</a>
-       <Br><i>Cambridge City Directory</i>, 1861.
+       <br><i>Cambridge City Directory</i>, 1861.
             `,
         photos: ["images_bios/Cornelia_Horsford.jpg"],
         photoTitles: [],
@@ -649,7 +696,9 @@ h_bios = [
             Lilley Howe was born on September 25, 1864 in Cambridge, Massachusetts. She
             was the eldest of four children of Dr. Estes and Lois Lilly (White) Howe. The
             family originally lived at 1 Oxford Street in Cambridge where they owned an
-            acre of land and a few farm animals. <br><Br>Howe attended Miss Olmsted's and
+            acre of land and a few farm animals. 
+            
+            <br><br>Howe attended Miss Olmsted's and
             then Miss Page's elementary schools from 1868 &#8211; 1877 and graduated
             from the Cambridge public high school in 1882. From a young age, Howe showed
             an interest in architecture. The workers building the Sanders Theatre at Harvard
@@ -665,7 +714,7 @@ h_bios = [
             She joined
             the Council of the School of the Museum of Fine Arts in 1897; later the Museum
             School named her an annual &quot;Visitor to the School.&quot; She also served
-            as director of the Boston Society of Arts and Crafts from 1916 to 1919.<br><Br>
+            as director of the Boston Society of Arts and Crafts from 1916 to 1919.<br><br>
 
             Howe's father passed away in 1887. Shortly after
             his death, the family sold the house on Oxford Street and moved to 2 Appleton
@@ -673,10 +722,12 @@ h_bios = [
             home, which had been purchased by Reverend Francis G. Peabody, she gained the
             admiration of his brother and architect, Robert Swain Peabody, who became her
             mentor. <br><br>
+
             In 1888, Howe entered MIT's School of Architecture
             and took the two-year &#8220;Partial Architecture&#8221; course. During this
             time, she was a founding member of MIT's first woman student's group,
             Eta Sigma Mu (later known as Cleofan.) <br><br>
+
             Upon graduating from MIT in 1890, Howe worked
             as a drafter, artist and librarian in the Department of Architecture at MIT
             and for herself at the Boston architectural firm of Allen and Kenway. In 1893
@@ -684,7 +735,7 @@ h_bios = [
             from Robert Peabody, to build the Woman's Building at the 1893 Chicago
             World's Fair. Her former MIT classmate Sophia
                 Hayden also entered the competition. Hayden won and Howe placed second.
-            Howe used the prize money for a long awaited trip to Europe.<br><br>
+            Howe used the prize money for a long awaited trip to Europe.
           
         </p>
         <p>After
@@ -692,9 +743,11 @@ h_bios = [
             Tremont Street in Boston. She received her first commission to build a house
             in 1894, and worked alone and with various partners until 1900. She established
             her own firm in 1901 at 101 Tremont Street, Boston. <br><br>
+
             Also in 1901, Howe, sponsored again by Robert
             Peabody, became the second woman elected to the A.I.A. (American Institute of
             Architects). She was the first woman elected to the Boston Society of Architects.<br><br>
+
             Howe concentrated on domestic architecture from
             the beginning of her architectural career with an emphasis on history and detail.
             Noted projects of Howe's at this time were her 1901 and 1904 renovations
@@ -703,11 +756,13 @@ h_bios = [
             <em>Architectural Review </em>and<em> Architectural Record</em>. In a 1907 issue
             of <em>Architectural Revew</em>, she gave advice about designing serving pantries
             for small houses. <br><br>
+
             In 1913 Howe co-published, with MIT graduate Constance
             Fuller, <em>Details of Old New England Houses</em>. Howe became known for her
             &#8220;ability to create simple, efficient floor plans; and her effort to minimize
             expense.&#8221; &#8220;Howe used to see the house being torn down and would
             run quickly and take the mantels and doors.&#8221;(Allaback).<br><br>
+
             Howe branched out in 1913 when she became partners
             with Eleanor Manning. Manning brought a concern for public housing and urban
             renewal to the firm. In the early 1920's Howe and Manning participated
@@ -715,10 +770,12 @@ h_bios = [
             the principles of John Nolan and the English garden city as a model. They were
             also asked to submit designs by <em>McCall's </em>magazine for its small
             house series.<br><br>
+
             Howe and Manning further expanded in 1926 when
             they acquired a third partner, Mary Almy, like Howe, a native of Cambridge.
             This same year, the firm won first prize for The Charles Almy House in a Cape
             Code competition sponsored by <em>House Beautiful</em>.<br><br>
+
             Howe was active on several housing planning commissions
             throughout her life, but organizations concerned with housing problems represented
             only part of her activities. She supported women's educational opportunities
@@ -727,13 +784,15 @@ h_bios = [
             the Association to Aid Scientific Research by Women. Perhaps Howe's greatest
             honor came in 1931, when she became the first woman to achieve the status of
             Fellowship, an honor bestowed to some members of the A.I.A.<br><br>
+
             At the age of 73, Howe retired from Howe, Manning
             &amp; Almy in 1937, after practicing for more than forty years. After retirement,
             she occasionally worked on commissions for Eleanor O'Connor's private practice
             and was active in a number of Cambridge social clubs. <br><br>
+
             Lois Lilley Howe passed away in Cambridge on September
             13, 1964 just twelve days short of her hundredth birthday. She is buried at
-            Mount Auburn Cemetery, Cambridge.<br>
+            Mount Auburn Cemetery, Cambridge.
             `,
         otherNotes: "",
         references: `
@@ -797,13 +856,13 @@ h_bios = [
         Audrey I-Wei Huang's parents, Ho-Chung and Hedy Huang, were born in China and grew up quite poor in Taiwan.  
         Yet they were both able to attend college in the United States on academic scholarships in the early 1960s, 
         following the lifting of eight decades of Chinese exclusion laws in this country. They both achieved advanced
-         degrees in the U.S. and lived for a time in Ithaca, New York, where Audrey was born in 1967. <Br><br>
+         degrees in the U.S. and lived for a time in Ithaca, New York, where Audrey was born in 1967. <br><br>
 
         Huang came to the Boston area to attend Boston University in the mid-1980s and in 1991 moved to West Cambridge,
          where she has lived ever since.  She found her first employment at the Addison-Wesley Publishing Company in Reading, 
          but felt the pull of public service and switched gears to attend Northeastern University School of Law, known
           for their public service focus and co-op programs.  Huang received her J.D. in 1994 and started practicing
-          law in the Attorney General's office under AG Scott Harshbarger.  <Br><br>
+          law in the Attorney General's office under AG Scott Harshbarger.  <br><br>
         
         While at the AG's Office, she was an Assistant Attorney General, first focusing on family 
         and community crimes, doing victim compensation law. Soon thereafter, she became a Special 
@@ -812,7 +871,9 @@ h_bios = [
          ground. She also worked in the Public Integrity Division, working on public corruption cases. 
          Later, she worked for the Middlesex and Suffolk District Attorney's Offices, as an Assistant
          District Attorney, focusing on crimes of domestic violence.  She also worked for the Middlesex 
-         and Suffolk County DA's offices.  <Br><Br>Huang felt a call to make a difference in the communities she was 
+         and Suffolk County DA's offices.  
+         
+         <br><br>Huang felt a call to make a difference in the communities she was 
          serving and enjoyed working with her like-minded and driven colleagues.  Huang says of her decision 
          to eschew private practice for lower-paying jobs in the public sector: "I'd always wanted to be 
          public service-oriented, community-oriented...it's overall a mission-driven career.  The mission 
@@ -823,7 +884,8 @@ h_bios = [
          for Greater Boston Legal Services, which provides free legal assistance and representation to residents 
          in Greater Boston.  At GBLS, she worked in the Asian Outreach Project, utilizing her Mandarin Chinese 
          abilities - a language she learned as a child from her parents - to help non-native speakers access the legal help they needed.
-        <Br><br>
+        <br><br>
+
         After time off from work in the mid-2010s, Huang decided it was time for another major life change. 
          In late 2016, she followed her passion for reading to join the team that was soon to open Belmont 
          Books, a bookshop and cafe just a three-mile bike ride from her West Cambridge home.  
@@ -832,13 +894,13 @@ h_bios = [
          because overall within publishing, just like in Hollywood, it was a very whitewashed industry 
          where it was very difficult for authors of color and queer authors to essentially make it...what 
          I've done since I've been here is intersectional reading, but focused on BIPOC authors. And that's
-          who I read and that's who I champion because they don't get as much recognition.”<Br><br>
+          who I read and that's who I champion because they don't get as much recognition.”<br><br>
         
         Huang's work has also included serving with the American Booksellers Association's (ABA) <i>Diversity 
         Equity and Inclusion Committee</i> (2021-present) and the NEIBA <i>Windows and Mirrors Committee</i> (2020-2021). 
          She was also the New England Independent Booksellers Association (NEIBA) <i>Handseller of the Year</i> (2024), 
          a Duende-Word <i>BIPOC Bookseller Award</i> Honoree (2024), an Andrew Carnegie <i>Medals of Excellence for Fiction 
-         and Non-Fiction</i> Committee Member (2023), and an NEIBA Awards Committee Member (2020, 2022).<Br><br>
+         and Non-Fiction</i> Committee Member (2023), and an NEIBA Awards Committee Member (2020, 2022).<br><br>
         
         Huang is an enthusiastic supporter and fan of the Cambridge Public Library system, including the 
         tiny Boudreau branch (named after Alma Boudreau, a member of the Cambridge Public Library board of 
@@ -851,7 +913,7 @@ h_bios = [
         references: ` 
         Interview with Audrey Huang, April 2, 2025.<br>
         <em>Belmont Voice</em> article, Oct. 13, 2024.<br>
-        Alma Boudreau obit, <em>Cambridge Chronicle</em>, May 18, 1995.<Br>
+        Alma Boudreau obit, <em>Cambridge Chronicle</em>, May 18, 1995.<br>
         Photos courtesy of Audrey Huang.
         `,
 
@@ -879,60 +941,67 @@ h_bios = [
         deathDate: "09.01.2016",
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
-        Ruth Hubbard was a Harvard professor, scientist, and long time social activist.<blockquote>
+        Ruth Hubbard was a Harvard professor, scientist, and long time social activist.
+        
+        <blockquote>
         “Women and nonwhite, working-class and poor men have largely been outside the process of science-making.
         Though we have been described by scientists, by and 
         large we have not been the describers and definers of scientific reality. We have not formulated 
         the questions scientists ask, nor have we answered them. This undoubtedly has affected the content 
         of science, but it has also affected the social context and the ambience in which science is done.”
-        <Br>- Ruth Hubbard, 1981
+        <br>- Ruth Hubbard, 1981
         </blockquote>
-            Ruth Hubbard was born in Vienna, Austria and escaped
-            the Nazi regime with her family when she thirteen. The family moved to the Boston
-            area. Ruth attended Radcliffe College, graduating in 1945. She went on to study
-            biochemistry and biology at Harvard. Entering George Wald's laboratory
-            at Harvard, she did important work on the biochemistry of the visual system,
-            working out the enzymatic interconversion of retinal and retinol for her PhD
-            in 1950. <br><br>After receiving fellowships that took her to London and Copenhagen,
-            she returned to Harvard. She married Wald in 1958 with whom she had a daughter
-            and a son (they lived at 21 Lake View Avenue). The couple was awarded the Paul Karrer Medal from the University
-            of Zurich for studies of biochemistry of vertebrates and invertebrates in 1967.
-            After George Wald was awarded the Nobel prize in 1967, he became deeply concerned
-            with issues of peace, in which Ruth joined him.<br><br>
 
-            She was tenured as professor of biology at Harvard
-            in 1974, the first woman tenured in the department. 
-            
-             Hubbard was an outspoken activist, insisting on questioning science's relationship to society, 
-             protesting against U.S. involvement in foreign wars, and joining many other antinuclear activist
-             in the fight for disarmament; she was once arrested on charges of civil disobedience.<br><Br>
-            In the late seventies and
-            early eighties, she created innovative courses on biology and politics from
-            a feminist perspective. She began to publish studies of the politics of women's
-            health, on the position of women in academia and research and
-            on the ethics of gene therapy and genetic testing including, <em>The Politics
-                of Women's Biology</em> (1990); <em>Profitable Promises: Essays on Women
-                Science and Health</em> (1994); and <em>Exploding the Gene Myth,</em> with her
-            son Elijah Wald, (1993). She was a board member of Science for the People in
-            the 1970s and 1980s, along with geneticists Richard Lewontin and Jonathan Beckwith.
-            She is a founding board member of The Council for Responsible Genetics.
-            <Br><Br> Retiring
-            in 1990, she became professor <em>emerita</em> in the Department of Molecular
-            and Cellular Biology at Harvard. In 2003, she was awarded an honorary Doctorate
-            of Science by Clark University. In May 2005, the Massachusetts American Civil
-            Liberties Union presented her with the Luther Knight Macnair award for her work
-            on bioethics.
+        Ruth Hubbard was born in Vienna, Austria and escaped
+        the Nazi regime with her family when she thirteen. The family moved to the Boston
+        area. Ruth attended Radcliffe College, graduating in 1945. She went on to study
+        biochemistry and biology at Harvard. Entering George Wald's laboratory
+        at Harvard, she did important work on the biochemistry of the visual system,
+        working out the enzymatic interconversion of retinal and retinol for her PhD
+        in 1950. 
+        
+        <br><br>After receiving fellowships that took her to London and Copenhagen,
+        she returned to Harvard. She married Wald in 1958 with whom she had a daughter
+        and a son (they lived at 21 Lake View Avenue). The couple was awarded the Paul Karrer Medal from the University
+        of Zurich for studies of biochemistry of vertebrates and invertebrates in 1967.
+        After George Wald was awarded the Nobel prize in 1967, he became deeply concerned
+        with issues of peace, in which Ruth joined him.<br><br>
+
+        She was tenured as professor of biology at Harvard
+        in 1974, the first woman tenured in the department.         
+        Hubbard was an outspoken activist, insisting on questioning science's relationship to society, 
+        protesting against U.S. involvement in foreign wars, and joining many other antinuclear activist
+        in the fight for disarmament; she was once arrested on charges of civil disobedience.<br><br>
+
+        In the late seventies and
+        early eighties, she created innovative courses on biology and politics from
+        a feminist perspective. She began to publish studies of the politics of women's
+        health, on the position of women in academia and research and
+        on the ethics of gene therapy and genetic testing including, <em>The Politics
+            of Women's Biology</em> (1990); <em>Profitable Promises: Essays on Women
+            Science and Health</em> (1994); and <em>Exploding the Gene Myth,</em> with her
+        son Elijah Wald, (1993). She was a board member of Science for the People in
+        the 1970s and 1980s, along with geneticists Richard Lewontin and Jonathan Beckwith.
+        She is a founding board member of The Council for Responsible Genetics.
+        <br><br>
+        
+        Retiring
+        in 1990, she became professor <em>emerita</em> in the Department of Molecular
+        and Cellular Biology at Harvard. In 2003, she was awarded an honorary Doctorate
+        of Science by Clark University. In May 2005, the Massachusetts American Civil
+        Liberties Union presented her with the Luther Knight Macnair award for her work
+        on bioethics.
             `,
         otherNotes: "",
         references: ` Benjamin F. Shearer and Barbara Smith Shearer <em>Notable
-                Women in the Life Sciences</em>. Westport CN 1996.; R. Hubbard and E. Wald.<Br>
+                Women in the Life Sciences</em>. Westport CN 1996.; R. Hubbard and E. Wald.<br>
             &#8220;George Wald Memorial Talk&#8221; in <em>Rhodopsin and Photransduction</em>,
             pp. 5-20. Chichester: [Novartis Foundation Symposium 224].
             <br> Online conversation
             with Frank Aqueno in 1993. <br>
-                Image from wikipedia:<Br> <a class='indent' href="https://en.wikipedia.org/wiki/Ruth_Hubbard" >https://en.wikipedia.org/wiki/Ruth_Hubbard</a>
-        <Br><i>Cambridge City Directory</i>, 1963.<bR>
-        <i>The Boston Globe</i>,"Ruth Hubbard, 92, First woman tenured in biology at Harvard, 9/4/2016.<Br>
+                Image from wikipedia:<br> <a class='indent' href="https://en.wikipedia.org/wiki/Ruth_Hubbard" >https://en.wikipedia.org/wiki/Ruth_Hubbard</a>
+        <br><i>Cambridge City Directory</i>, 1963.<bR>
+        <i>The Boston Globe</i>,"Ruth Hubbard, 92, First woman tenured in biology at Harvard, 9/4/2016.<br>
         <i>The New York Times</i>, "Scholars Face a Challenge by Feminists" by Edward B. Fiske, Nov. 23, 1981.
         `,
         photos: ["images_bios/Ruth_Wald.jpg"],  
@@ -964,7 +1033,9 @@ h_bios = [
             invertebrates at Museum of Comparative Zoology, Harvard, professor of paleontology
             and zoology at MIT and a founder of Woods Hole Marine Biological Laboratories.
             Through her father, she developed an interest in animals and animal anatomy.
-            She was educated in private schools in Cambridge. <br><br>She began to study sculpture
+            She was educated in private schools in Cambridge. 
+            
+            <br><br>She began to study sculpture
             in Boston and then went to New York to study at the Arts Students League in
             the early 1900s. She began to observe animals at zoos and circuses. Her first
             exhibition was at the Boston Arts Club in 1900 and she soon became nationally
@@ -976,17 +1047,22 @@ h_bios = [
             time on supported her work. The couple joined in philanthropic projects for
             museums and in the preservation of wildlife, funding more than fourteen museums
             and setting up an outdoor sculpture museum for American sculpture at Brookgreen
-            Gardens, South Carolina. <br><br>
+            Gardens, South Carolina. 
+            
+            <br><br>
             In 1940, she and her husband moved to an estate, Stenerigg,
             in Redding Ridge Connecticut where she continued set up a large studio. There
             both husband and wife practiced organic farming and founded a bird sanctuary.
             After the death of her husband in 1955, she began a large number animal studies
             as well as monumental equestrian statues, the last completed when she was ninety.
             She died at the age of ninety seven at her estate, which is now the Collis P.
-            Huntington State Park. <br><br>
+            Huntington State Park. 
+            
+            <br><br>
            <i> Art News</i> ran a 2014 article on the Columbia University's Wallach Art Gallery's exhhhibit “Goddess, 
             Heroine, Beast: Anna Hyatt Huntington's New York Sculpture, 1902-1936,” which helped to reintroduce 
             her art to the public:
+           
             <blockquote>
             "During her lifetime, the artist made a name for herself depicting fierce creatures, strong leaders, 
             and legendary heroines. Nearly a century later, this exhibition identifies Huntington as a powerful 
@@ -997,12 +1073,12 @@ h_bios = [
 `,
         otherNotes: "",
         references: `<em>Notable American Women, Modern Period</em>;
-            <em>Encyclopedia Britannica</em>, <em>Wikipedia</em>.<Br>
-            Image from wikipedia:<Br>
+            <em>Encyclopedia Britannica</em>, <em>Wikipedia</em>.<br>
+            Image from wikipedia:<br>
              <a class='indent' href="https://en.wikipedia.org/wiki/Anna_Hyatt_Huntington" >https://en.wikipedia.org/wiki/Anna_Hyatt_Huntington</a>
-        <Br>
+        <br>
         <i>Cambridge City Directory</i>, 1876.<br>
-        Art News article, 2014:<Br>
+        Art News article, 2014:<br>
         <a class='indent' href="https://www.artnews.com/art-news/news/celebrating-anna-hyatt-huntington-2371/></a>
             `,
         photos: ["images_bios/Anna_Vaughn_Hyatt.jpg"],
@@ -1038,7 +1114,8 @@ h_bios = [
             today's Houghton Mifflin Company; her maternal grandfather, Horace Hopkins
             Coolidge, a leading Boston attorney and president of the Massachusetts Senate;
             and her uncle William Williamson Coolidge, an attorney and mountain climber.
-           <br><Br> As a girl, Marjorie attended the school kept by Bertha Hazard and Elizabeth
+           
+            <br><br> As a girl, Marjorie attended the school kept by Bertha Hazard and Elizabeth
             J. Woodward in Boston's Back Bay, &#8220;Miss B. M. Howe's&#8221;
             Hamilton Hall School on Salem's Chestnut Street, and Salem High School.
 
@@ -1074,8 +1151,8 @@ h_bios = [
             the staff of the Boston Legal Aid Society (BLAS) as its first female attorney.
             She remained there for 35 years. That same year, the family moved to 4 Mercer
             Circle, Cambridge, just off Brattle Street.
-   <br><br>
-       Along
+           <br><br>
+           Along
             with her distinguished law career, Marjorie was an avid mountain climber, rock
             climber, camper, canoeist, swimmer and snowshoe-r. She traveled all over the
             world, climbing the Matterhorn, Mont Blanc, and the more difficult Dolomites;
@@ -1089,13 +1166,17 @@ h_bios = [
             of Women Lawyers (serving as vice president and president), Business Women's
             Club, Cambridge Civic Association, Cambridge League of Women Voters (which met
             in her home at 4 Mercer Circle), and, late in life, the Mount Auburn Hospital
-            Coffee Shop. <br><br>She was an active Radcliffe alumna and a member of the First Parish
+            Coffee Shop. 
+            
+            <br><br>She was an active Radcliffe alumna and a member of the First Parish
             in Cambridge, Unitarian. Marjorie never married, but she was devoted to her
             brother Jack's three sons and one daughter, Lydia, in whose education
             Marjorie took a special interest. Marjorie made it possible for Lydia to attend
             Buckingham School, Radcliffe College (for two degrees), and the Harvard School
             of Education. Lydia Hurd earned an Ed.D. from Harvard and went on to found the
-            Master of Arts in Teaching (MAT) program at Simmons College in Boston.<br><br>
+            Master of Arts in Teaching (MAT) program at Simmons College in Boston.
+            
+            <br><br>
             Marjorie died in 1977 at the age of 90 and was
             buried at Mount Auburn Cemetery. During the memorial service held for her at
             First Parish, Marjorie's friend Christine Reid noted, &#8220;her infectious
@@ -1139,8 +1220,10 @@ h_bios = [
         deathLocation: "Framingham, Massachusetts",
         narrative: `
            <i>Marian Henry was born in Cambridge, lived on Broadway, and attended Cambridge Latin School. 
-             <br>She became an astronomer and worked at the Harvard Observatory for seven years.</i>
-             <br><br>Marian's life and work are outlined in the <b>Women Astronomical Computers at the
+             She became an astronomer and worked at the Harvard Observatory for seven years.</i>
+             <br><br>
+             
+             Marian's life and work are outlined in the <b>Women Astronomical Computers at the
               Harvard College Observatory</b> project:
             <center>
              <h1>
@@ -1150,7 +1233,7 @@ h_bios = [
         The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" >Women Astronomical 
         Computers at the Harvard College Observatory</a> project is 
         dedicated to highlighting the lives and work of women who spent time studying and caring 
-        for the observatory's glass plate photograph collection.<Br>
+        for the observatory's glass plate photograph collection.<br>
         <center>       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" > <img src="images_bios/harvard-astronomers.png" width='350'></a>
         
         </center>

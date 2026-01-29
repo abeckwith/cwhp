@@ -17,7 +17,7 @@ s_bios = [
             the first three years of college, and then planned to work in southern Chile
             with the poor and disenfranchised. When Salvadore Allende's socialist
             government was overthrown, Sylvia's parents were concerned for her safety,
-            and she emigrated from Chile to the United States in 1970. <br><Br>
+            and she emigrated from Chile to the United States in 1970. <br><br>
 
             After arriving in Watertown, Massachusetts, she worked at
             factory jobs: first, she spent a year at Fenton Shoe in Cambridgeport, gluing
@@ -26,7 +26,7 @@ s_bios = [
             health, she left the company and was trained for professional work through the
             Comprehensive Employment and Training Act (CETA) programs. After CETA, she taught
             at Bunker Hill Community College and was later the head of affirmative action
-            for the Massachusetts Department of Employment and Training. <br><Br>
+            for the Massachusetts Department of Employment and Training. <br><br>
 
             In the late 1970s, Sylvia began her career in
             Cambridge as a bilingual youth employment counselor at the city's Economic
@@ -37,16 +37,20 @@ s_bios = [
             president. Around 1997, a member of the board recruited her to become the executive
             director. Sylvia also helped create the Commission of Latino Affairs for the
             City of Cambridge. In September 2000, she received the Beryl H. Bunker Award.
-            <br><Br>
+            <br><br>
 
-            Sylvia Saavedra-Keber describes the purpose of Concilio:<blockquote> &#8220;As Latinos at
+            Sylvia Saavedra-Keber describes the purpose of Concilio:
+            
+            <blockquote> &#8220;As Latinos at
             Concilio, we are trying to build human beings [who are] independent from the
             system, from welfare, from anyone, because we might not be here tomorrow. We
             have to create independence rather than dependency around our service.&#8221;</blockquote>
             
             <br>
-            Sylvia has spoken about her feelings about being
-            an immigrant: <blockquote>&#8220;The pain that you always carry as an immigrant about not
+            Sylvia spoke of her feelings about being
+            an immigrant: 
+            
+            <blockquote>&#8220;The pain that you always carry as an immigrant about not
             being born here, you will always carry it...You will always miss that comfort
             that you have about being born in your own country. You are never going to feel
             one hundred percent part of it...I think at some point you have to let go. That
@@ -85,7 +89,7 @@ s_bios = [
             May Sarton was born Eleanore Marie Sarton, the
             daughter of George Sarton, a historian of science, and his Welsh wife, Eleanor
             Mabel Elwes. In 1915, at the beginning of the World War I, the Sarton family
-            fled from Belgium to England. <Br><Br>
+            fled from Belgium to England. <br><br>
             
             After a few peripatetic years in the States, George
             Sarton accepted an appointment at Harvard University, which led the family to
@@ -93,7 +97,8 @@ s_bios = [
             writing poetry. When her family moved back to Belgium for a few years, May attended
             the Institute Belge de Culture Fran&ccedil;aise in Brussels. On returning to
             Cambridge and settling with her parents on Channing Place, May attended Cambridge
-            High and Latin School. <br><Br>
+            High and Latin School. <br><br>
+
             After graduating from high school in 1929, May
             studied in New York at the Civic Repertory Theater. She returned to Boston,
             where she taught creative writing and choral speaking, and directed plays at
@@ -104,7 +109,8 @@ s_bios = [
             the New York Civic Repertory Theater and in Paris. When she proved unsuccessful
             as an actress, she turned to writing fiction. Her first short stories did not
             sell, and in 1936 she moved to London where she met the poet Elizabeth Bowen,
-            who was to become a passionate friend and lover for the next decades. <br><Br>
+            who was to become a passionate friend and lover for the next decades. <br><br>
+
             May Sarton began to write poetry seriously and
             in 1939 returned to the United States. Her collection of poems, <em>Inner Landscape</em>,
             was published that year, and she began to earn her living lecturing and giving
@@ -119,7 +125,8 @@ s_bios = [
             and others. She supported herself by teaching in universities from 1950 to 1955,
             serving as Briggs-Copeland instructor in composition at Harvard from 1950 to
             1952. In 1954 he wrote a biography of her father, <em>I Knew a Phoenix</em>,
-            depicting Cambridge and the academic world in which she grew up. <br><Br>
+            depicting Cambridge and the academic world in which she grew up. <br><br>
+
             After 1958, when both her parents died, she sold
             her family home in Cambridge and moved to Nelson, New Hampshire, where she wrote
             <em>The Small Room</em> and <em>Mrs. Stevens Hears the Mermaids Singing</em>.
@@ -134,16 +141,18 @@ s_bios = [
             Bland Memorial Prize from Poetry Magazine, the Reynolds Lyric Award of the Poetry
             Society of America, the Alexandrine Medal of the College of St. Catherine, and
             the Perkins Memorial Award of Eastern Connecticut's Thoreau School of
-            Holistic Education. <br><Br>
+            Holistic Education. <br><br>
+
             In 1973, Sarton moved to New York. Later, she
             published two autobiographies, <em>Plant Dreaming Deep</em> and <em>A World
                 of Light</em>, published in 1968 and 1976, respectively. In the 1980s, she suffered
             a stroke, which left her unable to write for over nine months; later she published,
             <em>After the Stroke</em> (1988). A year before her death, May published a last
             volume of poems, <em>Coming into Eighty</em> (1994). She died of breast cancer
-            on Sunday, July 17, 1993, in York Hospital, Maine. <br>
+            on Sunday, July 17, 1993, in York Hospital, Maine. 
+
             Sarton published more than fifty books of poetry, memoirs, novels, and essays.
-            <Br><Br>In 1982, the first comprehensive scholarly look at her work, <em>May Sarton:
+            <br><br>In 1982, the first comprehensive scholarly look at her work, <em>May Sarton:
                 Woman and Poet</em> by Constance Hunting, was published by the National Poetry
             Foundation. In 1996, a plaque commemorating her life and work, was erected on
             the grounds of the main branch of the Cambridge Public Library. `,
@@ -151,8 +160,8 @@ s_bios = [
         references: ` May Sarton, <em>I Knew a Phoenix</em>,<em>Plant
                 Dreaming Deep</em>, <em>A World of Light</em>. <br>Constance Hunting <em>May Sarton:
                 Woman and Poet</em>.
-                <Br><br>National Poetry Foundation, 1982; <em>Great Women Writers</em>.
-            <Br>Henry Holt, 1994; Cambridge Historical Commission files.<Br>
+                <br><br>National Poetry Foundation, 1982; <em>Great Women Writers</em>.
+            <br>Henry Holt, 1994; Cambridge Historical Commission files.<br>
             Image from wikipedia.com:<br>
             <a class='indent' href="https://en.wikipedia.org/wiki/May_Sarton" >https://en.wikipedia.org/wiki/May_Sarton</a>
         `,
@@ -187,7 +196,7 @@ s_bios = [
             James Cannon. After graduating from Radcliffe College in 1934, Marian spent
             a year traveling in China and studying Chinese painting in Peking. On her return
             home, she wrote and illustrated <em>San Bao and His Adventures in Peking</em>,
-            a classic children's book of the 1930s. <Br><Br>
+            a classic children's book of the 1930s. <br><br>
             
             In 1940 she married the historian Arthur
             Schlesinger, Jr., whom she had met during his junior year at Harvard; they had
@@ -198,16 +207,17 @@ s_bios = [
             In this book she also depicted an assortment of Cambridge characters of the
             1920s and 1930s, the politics of the time, and town-gown confrontations.
             In describing her teen years at Cambridge High anad Latin School, Schlesinger wrote:
+            
             <blockquote>
             "The high school kids were contemptuous of the parochial school kids; the parochial school kids
-            despised the high school kids; and they both combined to abominate the private school 'sissies.'<br><Br>
-            
+            despised the high school kids; and they both combined to abominate the private school 'sissies.'<br><br>
             
             "It was a jolly mix, but seemed not to have affected the general tone of our high school life.
             We were all outsiders thrown together higgledy-piggledy and the rich melange of personality and cultures
             was an education in itself. We did not think much in ethnic terms in those days. Differences in background and even
             in religion were remaked upon but taken for granted, by them and by us."
             </blockquote>
+
             Schlesinger wrote four books in all, including
             <I>San Bao and his Adventures in Peking</i> (1939), <i>Children of the Fiery Mountain</i> (1940),
             and <i>I Remember: A Life of Politics, Painting and People</i> (2012), the 2012 work including many additional 
@@ -218,7 +228,7 @@ s_bios = [
         references: `Marian Cannon Schlesinger, <em>Snatched from Oblivion</em>,
             (Little Brown, 1979).<br>
             Arthur Schlesinger, Jr. <em>A Life in the 20th Century: Innocent Beginnings,
-                1917-1950</em>. Houghton Mifflin, 2000.<Br>
+                1917-1950</em>. Houghton Mifflin, 2000.<br>
                 <i>Cambridge City Directory</i>, 1972.<br>
                 Image from wikipedia.com:<br>
                 <a class='indent' href="https://en.wikipedia.org/wiki/Marian_Cannon_Schlesinger" >https://en.wikipedia.org/wiki/Marian_Cannon_Schlesinger</a>
@@ -248,7 +258,7 @@ s_bios = [
         deathDate: "04.11.1983",
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
-           Helen Federer lived in Cambridge for more than four decades. <Br><br>She worked with the Harvard College Observatory for 21 years and co-founded the magazine
+           Helen Federer lived in Cambridge for more than four decades. <br><br>She worked with the Harvard College Observatory for 21 years and co-founded the magazine
            <i>Sky & Telescope</i>
            
              <br><br>More information about Helen's life and work are outlined in the <b>Women Astronomical Computers at the Harvard College Observatory</b> project:
@@ -259,7 +269,7 @@ s_bios = [
       </center>
         The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" >Women Astronomical Computers at the Harvard College Observatory</a> project is 
         dedicated to highlighting the lives and work of women who spent time studying and caring 
-        for the observatory's glass plate photograph collection.<Br>
+        for the observatory's glass plate photograph collection.<br>
         <center>       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" > <img src="images_bios/harvard-astronomers.png" width='350'></a>
         
         </center>
@@ -295,22 +305,27 @@ s_bios = [
         narrative: `
             Mary Shea was a wife, mother, and grandmother,
             as well as a childcare teacher and tireless activist for affordable housing
-            and tenants' rights. <br><Br>
+            and tenants' rights. <br><br>
+
             When Mary Shea joined the Simplex Steering Committee,
             which pressured MIT to include affordable housing and parks in the development
             of the former Simplex site, she had a personal stake in the fight. Her father
             had worked at the Simplex Wire &amp; Cable Company for twenty years and contracted
             silicosis (chalk on the lungs) on the job. 
             
-            <Br><Br>In 1946 Mary had married, and she
+            <br><br>In 1946 Mary had married, and she
             and her husband moved to her father's house, where Mary cared for him.
-            She said, <blockquote>&#8220;That's when I decided if there was anything I had to
+            She said, 
+            
+            <blockquote>&#8220;That's when I decided if there was anything I had to
             do in my life, it was going to be helping people have a better life, rather
             than seeing someone come out of a garage all full of chalk and ready to die.&#8221;</blockquote>
-            In 1954, she was living at 27 Acorn Street in Cambridge.<Br><Br>
+
+            In 1954, she was living at 27 Acorn Street in Cambridge.<br><br>
+
             After her father passed away and her children grew up, Mary organized with people
             in her community and joined the Cambridgeport Homeowner and Tenant Association,
-            which helped people who had fallen on hard times.<br><Br>
+            which helped people who had fallen on hard times.<br><br>
 
             Mary explained that everyone in the Cambridgeport
             neighborhood was affiliated with the fight against the conflicting plans developed
@@ -319,22 +334,26 @@ s_bios = [
             Committee obtained some affordable housing concessions from M.I.T., when the
             City of Cambridge approved MIT's proposals in 1988, many activists, including
             Mary, agreed that this was not enough after 18 years of protests.<br><br>
+
             She cared for her neighbors, shopping and doing errands, giving money to homeless people,
             and being a force for positive action in her community.
+           
             <blockquote>
-            "She was sort of the Mayor of Cambridgeport...She really kept her eyes and ears on waht was happening in the neighborhood."<Br>
+            "She was sort of the Mayor of Cambridgeport...She really kept her eyes and ears on waht 
+            was happening in the neighborhood."<br>
             - E. Denise Simmons, 2005, City Councilor at the time
-            <Br><Br>
-            "To be near Mary was to have a web of community wound around you. [She was] a really beautiful person."<Br>
+            <br><br>
+
+            "To be near Mary was to have a web of community wound around you. [She was] a really beautiful person."<br>
             - Vice Mayor Marjorie Decker, 2005, Vice Mayor of Cambridge at the time,
             </blockquote>`,
         otherNotes: "",
-        references: `Oral interview by Sarah Boyer. <Br>For information
+        references: `Oral interview by Sarah Boyer. <br>For information
             on the Simplex Steering Committee, see <em>The Tech</em>, 1990.<br>
             Christopher
             Montgomery, &#8220;Boston project creates new niche,&#8221; <em>Cleveland Plain
                 Dealer</em>, November 28, 2005.<br>
-                <i>Cambridge City Directory</i>, 1954.<Br>
+                <i>Cambridge City Directory</i>, 1954.<br>
                 <i>The Cambridge Chronicle</i>, 13 January 2005.
 
         `,
@@ -371,6 +390,7 @@ s_bios = [
             Latin in 1971. Simmons went on to receive a Bachelor of Arts in Sociology from the University of
             Massachusetts Boston, followed by a Master&rsquo;s Degree in Psychotherapy from Antioch College. In 2009,
             she earned her honorary PhD from the Episcopal Divinity School. <br><br>
+
              In the early 1980s, Simmons was hired as the executive director of the Cambridge
             Civic Unity Committee, an organization formed in 1945 to help WWII veterans facing racial discrimination
             after returning from service. The Committee&rsquo;s ongoing mission was to promote equality and unity across
@@ -378,6 +398,7 @@ s_bios = [
             education and housing. In 1982, concerned about job stability and providing for her children, Simmons
             started her own small business, the Cambridgeport Insurance Agency, which has operated for over thirty five
             years.  In 2018, that agency became affiliated with Allstate Insurance Company. <br><br>
+
              Passionate about her civic work, Simmons decided that she could affect more change
             in municipal governance and ran for local office in the early 1990s, losing two times before winning a seat
             on the School Committee in 1991. Simmons was a strong advocate for minority representation in Cambridge,
@@ -385,6 +406,7 @@ s_bios = [
             the city and helping non-English speaking families. She worked to institute the family engagement policy,
             which mandated that the Cambridge Schools administrators promote, increase, and implement family involvement
             in their children&rsquo;s educational experience. The policy is still in effect. <br><br>
+
              In 2001, Simmons successfully ran for a seat on the Cambridge City Council, and in
             2008, she was unanimously elected Mayor by fellow Council members, making national headlines as the the
             first African American openly lesbian mayor in the country (and the first African American female mayor in
@@ -400,6 +422,7 @@ s_bios = [
             City Hall, which throughout more than 130 years had previously only featured portraits of prominent men who
             had contributed to the community. Simmons is deeply invested in the ongoing development of this project.
             <br><br>
+
              Simmons describes herself as her family historian and archivist and has spent time
             in Georgia and Alabama researching her family roots. Her political activism on behalf of racial equality and
             her historical research led her to successfully push for the creation of a memorial to Prince Hall on the
@@ -408,7 +431,9 @@ s_bios = [
             citizens of African descent. In 2008, Simmons introduced a resolution, R-20, in the City Council to
             recognize Prince Hall as a Founding Father of the United States, which passed. She sees the memorial as a
             monument to all civil rights activists that followed in Hall&rsquo;s footsteps. Simmons is also behind an
-            effort to create a Cambridge museum, which would document the city&rsquo;s rich and diverse history. <br><br>
+            effort to create a Cambridge museum, which would document the city&rsquo;s rich and diverse history. 
+            
+            <br><br>
              Simmons is a mother to four children, Jada, Nadene, Atieno, and Anthony (deceased),
             and a grandmother to five. In August 2009, she married her longtime partner Mattie B. Hayes of Brooklyn, New York.
             They became the first same-sex couple to marry at St. Bartholomew&rsquo;s Episcopal Church, one of the
@@ -428,7 +453,7 @@ s_bios = [
             Denise Simmons Election Website and Bio. <br>
             Monroe, Rev. Irene.&ldquo;Black Episcopal Congregation Celebrates Lesbian Marriage,&rdquo; <em>Huffington
                 Post</em>, 11/10/2009:
-                <Br> <a class='indent'href="https://www.huffingtonpost.com/irene-monroe/black-episcopal-congregat_b_281261.html"
+                <br> <a class='indent'href="https://www.huffingtonpost.com/irene-monroe/black-episcopal-congregat_b_281261.html"
                 >https://www.huffingtonpost.com/irene-monroe/black-episcopal-congregat_b_281261.html</a>
             <br>
    
@@ -467,19 +492,23 @@ s_bios = [
             Mount Holyoke College, graduating in 1928. She continued her education, studying
             English social history at Yale, where she met and married the physicist and
             metallurgist Cyril Stanley Smith in 1931. Marriage did not prevent her from
-            completing her PhD in 1936. <Br><Br> The couples' two children then accompanied
+            completing her PhD in 1936. <br><br> 
+            
+            The couples' two children then accompanied
             Cyril to Los Alamos, New Mexico in the early forties where he worked on the
             creation of the first atomic bomb as part of the famous &#8220;Manhattan Project,&#8221;
             under the direction of J. Robert Oppenheimer. While in New Mexico, Alice Smith
             taught at the Los Alamos High School from 1943 to 1945. Her acquaintance with
             the excitement of the scientific community at Los Alamos led her to edit the
             letters of Oppenheimer many years later. <br><br>
+
             After the war, the family moved to Chicago while her husband taught at the University
             of Chicago. There she served as assistant editor of the renowned Bulletin of
             the Atomic Scientists, a journal that opposed the future use of atomic weapons.
             In 1961, she and her husband moved to Cambridge where her husband was named
             Professor of Metallurgy at MIT, jointly holding a position in Humanities where
             he taught the history of his subject. <br><br>
+
             Alice Kimball Smith became one of the first Radcliffe
             Institute (Bunting) Fellows in 1963 and later became director of the Institute
             from 1971 to 1973 (at the time, she was living at 31 Madison Avenue in Cambridge). She also served as director of the Radcliffe Seminars from
@@ -488,7 +517,9 @@ s_bios = [
             reactions to the creation of the atomic bomb, A Peril and a Hope: the Scientists'
             Movement in America 1945-1947 (Chicago: University of Chicago Press, 1965),
             and (with Charles Weiner), J. Robert Oppenheimer: Letters and Recollections.
-            (Harvard University Press, 1980). <br><br>For the last six years of her life, she moved
+            (Harvard University Press, 1980). <br><br>
+            
+            For the last six years of her life, she moved
             to the state of Washington to be near her daughter.
         
         `,
@@ -547,23 +578,21 @@ s_bios = [
             Foundation, Save the Children, and the Women's Housing Coalition in Albuquerque.<br><br>
 
             Sprague wrote two manuals,<em> A Development Primer:
-                Starting Housing or Business Ventures by and/or for Women</em> (1984), and <em>A
-                Manual on Transitional Housing</em> (1986). 
-                In a 1986 letter to <i>The Boston Globe</i>, Sprague wrote to set the record straight about transitional housing:
-                <blockquote>
-                "Some residents choose transitional housing after leaving a battered-women's shelter because they 
-                need time and services to become self-supporting...Many divorced or widowed women and young parents 
-                are homeless because they have no place to live and no way to support themselves. Without transitional
-                 housing and its services these women enter the cycle of homelessness..."
-                </blockquote>
+            Starting Housing or Business Ventures by and/or for Women</em> (1984), and <em>A
+            Manual on Transitional Housing</em> (1986). 
+            In a 1986 letter to <i>The Boston Globe</i>, Sprague wrote to set the record straight about transitional housing:
+            
+            <blockquote>
+            "Some residents choose transitional housing after leaving a battered-women's shelter because they 
+            need time and services to become self-supporting...Many divorced or widowed women and young parents 
+            are homeless because they have no place to live and no way to support themselves. Without transitional
+                housing and its services these women enter the cycle of homelessness..."
+            </blockquote>
 
-              
-
-
-                She also wrote two major books,
+            She also wrote two major books,
             <em>Taking Action: A Comprehensive Approach to Housing Women and Children in
-                Massachusetts </em>(1988), and <em>More than Housing: Lifeboats for Women and
-                Children</em> (1991). She lectured at Columbia, MIT, Arizona State University,
+            Massachusetts </em>(1988), and <em>More than Housing: Lifeboats for Women and
+            Children</em> (1991). She lectured at Columbia, MIT, Arizona State University,
             and in the Netherlands, Canada, the People's Republic of China, and the
             former Soviet Union and traveled the United States speaking about issues of homelessness for women and children.
              She won the Massachusetts Women's Political Caucus's
@@ -571,12 +600,12 @@ s_bios = [
             are held at Schlesinger Library, Radcliffe Institute.`,
         otherNotes: "",
         references: ` Finding aid, Joan Forrester Sprague papers, Schlesinger
-            Library, Radcliffe Institute.<Br>
-            <I>Cambridge City Directory</i>, 1972.<Br>
-            Birthdate from <i>U.S. Social Security Death Index</i>, 1935-2014.<Br>
+            Library, Radcliffe Institute.<br>
+            <I>Cambridge City Directory</i>, 1972.<br>
+            Birthdate from <i>U.S. Social Security Death Index</i>, 1935-2014.<br>
             Book cover from Common Crow Books:<br>
             <a class='indent' href="https://www.commoncrowbooks.com/pages/books/B59091/joan-forrester-sprague/more-than-housing-lifeboats-for-women-and-children-inscribed-by-sprague">https://www.commoncrowbooks.com/pages/books/B59091/joan-forrester-sprague/more-than-housing-lifeboats-for-women-and-children-inscribed-by-sprague</a>
-         <Br>
+         <br>
                 <i>The Boston Globe</i>Sep 08, 1986, page 15.
             `,
         photos: ["images_bios/sprague.png"],
@@ -617,7 +646,7 @@ s_bios = [
         The <a href="https://platestacks.cfa.harvard.edu/women-at-hco" >Women Astronomical
          Computers at the Harvard College Observatory</a> project is 
         dedicated to highlighting the lives and work of women who spent time studying and caring 
-        for the observatory's glass plate photograph collection.<Br>
+        for the observatory's glass plate photograph collection.<br>
         <center>       <a href="https://platestacks.cfa.harvard.edu/women-at-hco" > 
         <img src="images_bios/harvard-astronomers.png" width='350'></a>
         
@@ -625,7 +654,7 @@ s_bios = [
 `,
         otherNotes: "",
         references: ` 
-          <i>Cambridge City Directory</i>, 1903.<Br>
+          <i>Cambridge City Directory</i>, 1903.<br>
           Image from Harvard University Plate Stacks:<br>
           <a class='indent' href="https://platestacks.cfa.harvard.edu/women-at-hco/mabel-cushman-stevens">
           https://platestacks.cfa.harvard.edu/women-at-hco/mabel-cushman-stevens</a>
@@ -661,7 +690,9 @@ s_bios = [
             1600 and 1608, during which time her first son was born. She had three living
             sons and a daughter, born over the next ten years. Her husband was killed in
             a devastating raid by the Micmac Indians in 1619, following which she was named
-            Squaw Sachem with four tribes still loyal to her. <br><br>Her territory extended from
+            Squaw Sachem with four tribes still loyal to her. 
+            
+            <br><br>Her territory extended from
             Charlestown (including areas that are now Cambridge, Somerville, Medford, and
             Arlington) to Concord and up to Marblehead. Sometime in the 1620s she married
             her husband's medicine man, Webcowit, but retained her power. She placed
@@ -669,7 +700,9 @@ s_bios = [
             (called by the English Sagamore John), gave the English the right to settle
             in the area of Charlestown along the Charles River in 1627. He was to die a
             few years later from smallpox, as was one of her other sons, while the youngest
-            (called by the English, Sagamore James) was badly disfigured. <br><br>In 1639, Squaw
+            (called by the English, Sagamore James) was badly disfigured.
+            
+            <br><br>In 1639, Squaw
             Sachem and Webcowit signed over to the English a large tract of land &#8220;within
             the bounds of Watertowne (sic) Cambridge and Boston&#8221; for the sum of 21
             coats, 19 fathom of wampum, and 3 bushels of corn. She reserved a large parcel
@@ -683,10 +716,10 @@ s_bios = [
         references: ` Benjamin Bussey Thatcher, <em>Indian Biography</em>.
             New York (1832); Lucius R. Paige. <em>History of Cambridge 1630-1877</em>, Boston
             1877.
-            <Br>Menotomy Journal timeline.
-            <Br> Frederick J Lund (compiler), &#8220;Brief
-            History of Somerville,&#8221; Somerville Planning Board, 1996.<Br>
-            Image from wikipedia.com:<Br>
+            <br>Menotomy Journal timeline.
+            <br> Frederick J Lund (compiler), &#8220;Brief
+            History of Somerville,&#8221; Somerville Planning Board, 1996.<br>
+            Image from wikipedia.com:<br>
             <a class='indent' href="https://en.wikipedia.org/wiki/Saunkskwa_of_Missitekw#/media/File:Squaw_Sachem_-_Robbins_Memorial_Flagstaff_-_Arlington,_MA_-_DSC02798.jpg">https://en.wikipedia.org/wiki/Saunkskwa_of_Missitekw#/media/File:Squaw_Sachem_-_Robbins_Memorial_Flagstaff_-_Arlington,_MA_-_DSC02798.jpg</a>
         `,
         photos: ["images_bios/misticke.jpg"],

@@ -15,16 +15,19 @@ w_bios = [
         narrative: `
             Mary Wadden was the daughter of Dr. Joseph M. Wadden and Mary F. (McBride)
             Wadden.  Her mother died before she Mary reached her first birthday.
-            <Br><Br>Wadden got her B.A. from Regis College in Weston in 1946 and was a lifelong resident of 
+            <br><br>
+            
+            Wadden got her B.A. from Regis College in Weston in 1946 and was a lifelong resident of 
             Cambridge, living on Concord Avenue She taught in the Cambridge Public
-            schools for thirty-eight years, including at the Harrington School She lived at 159 Concord Avenue in Cambridge. The Cambridge City Council passed a resolution
+            schools for thirty-eight years, including at the Harrington School She lived at 159 Concord
+             Avenue in Cambridge. The Cambridge City Council passed a resolution
             in recognition of her life and achievements on April 2, 2001.<br>
             `,
         otherNotes: "",
-        references: ` <i>City Council resolution</i>, April 2, 2001.<Br>
-        <i>Cambridge Chronicle</i> November 1 1924.<Br>
-        <I>Boston Globe</i> May 30, 1946.<Br>
-        <I>Cambridge City Directory</i>, 1965.<Br>
+        references: ` <i>City Council resolution</i>, April 2, 2001.<br>
+        <i>Cambridge Chronicle</i> November 1 1924.<br>
+        <I>Boston Globe</i> May 30, 1946.<br>
+        <I>Cambridge City Directory</i>, 1965.<br>
         Image from Regis College 1945 yearbook.
         `,
         photos: ["images_bios/mary_wadden.png"],
@@ -61,6 +64,7 @@ w_bios = [
             New York, where Julia received a Masters degree in education. After they moved
             to Cambridge (59 Sacaramento Street), she obtained a second Masters as a reading specialist and then
             taught remedial reading for many years in the Cambridge public schools. <br><br>
+
             Both Julia and Jim were active in the Old Cambridge
             Baptist Church, In the early 1970s, they became founding members of the cooperative,
             Commonplace, on Oxford Street in Cambridge where she lived for the rest of her
@@ -72,6 +76,7 @@ w_bios = [
             sat on the Cambridge-San Jos&eacute; las Flores sister city committee (1986
             &#8211; 2009), often traveling to San Salvador to encourage democratic development
             and cultural exchange. <br><br>
+
             Toward the end of her life, stricken with Alzheimers,
             she continued to work to the best of her ability with different disadvantaged
             communities. She was awarded the Msgr. Romero Peace Award by Centro Presente
@@ -128,6 +133,7 @@ w_bios = [
             in the workforce and in intimate relationships and they trained women in karate
             for self-protection. She was an author and editor of the Journals of Female
             Liberation. </p>
+
         <p>Often, in the late sixties, Warrior
             could be found disseminating feminist literature written by Cell 16 on the streets
             of Cambridge in Harvard Square. At that time, promoting the ideas of female
@@ -139,6 +145,7 @@ w_bios = [
             and women, as usual, lacked the financial resources to compete with the male
             propaganda machines. Distributing literature on the street was one way to foil
             male suppression of this female insurrection.</p>
+
         <p>In 1969 Warrior's economic
             analysis of women's unpaid labor: Housework: Slavery or a Labor of Love
             and The Source of Leisure Time was published. In Housework, she posited that
@@ -153,6 +160,7 @@ w_bios = [
             is this economic disenfranchisement that creates a breeding ground for abuse.
             How much are employers willing to pay workers who characteristically work for
             free? Three editions of the Handbook were published.</p>
+
         <p>On International Women's Day,
             1971 Betsy marched from Boston to Cambridge in a demonstration to demand a center
             for women. Some of the demonstrators took over a Harvard building until they
@@ -166,6 +174,7 @@ w_bios = [
             a compendium of resources, analyses of male-pattern violence and templates for
             shelter procedures so she undertook a decade long effort to provide a network
             to knit the shelter movement together by sharing resources and knowledge. </p>
+
         <p>As a result, Warrior wrote, edited
             and published Working on Wife Abuse (later called Battered Women's Directory),
             which was the first international directory of individuals and programs advocating
@@ -180,6 +189,7 @@ w_bios = [
             contains some of her correspondence with people setting up shelters and services
             in the early years (<a href="http://oasis.lib.harvard.edu/oasis/deliver/~sch00439">
             http://oasis.lib.harvard.edu/oasis/deliver/~sch00439</a>)</p>
+
         <p>Warrior was born in Boston's
             South End in 1940, the child of Canadian immigrants. Married at 17, she endured
             years of abuse (as is the case for millions of women even today) by her husband
@@ -191,6 +201,7 @@ w_bios = [
             worked at the Women's Center for nearly 40 years providing advocacy and
             support for battered women and training for other women and agencies to facilitate
             such groups.</p>
+
         <p>In 1985, Betsy and other
             activists attempted to place an anti-pornography Human Rights Ordinance on the
             ballot in a Cambridge election. When the city refused, the women sued the city
@@ -200,6 +211,7 @@ w_bios = [
             protect women and children who are subjected to pornography as a &#8220;seasoning&#8221;
             tool to inure them to sexual abuse and trafficking, and for men who become unwittingly
             addicted to pornography.</p>
+
         <p>In 1987 Warrior won an award from
             Boston Woman's magazine for bettering the lives of women in the Greater
             Boston area. In 1991 she received recognition for her work with Finex House
@@ -210,6 +222,7 @@ w_bios = [
             Alliance for a decade helping design layout for their newsletter &#8220;Mela,&#8221;
             editing and fielding articles as well as designing a logo for the Ethiopian
             Alliance's Sheba enterprise.</p>
+
         <p>During her years as a human rights
             activist, Warrior also designed some iconic posters for the feminist movement
             including &#8220;Strike While the Iron is Hot: Wages for Housework,&#8221; &#8220;Disarm
@@ -222,6 +235,7 @@ w_bios = [
             Many of Betsy's books and articles are now out of print. In the future,
             she is hoping to post them on the web for ready access by feminists and others
             working to end male violence against women.</p>
+
         <p><blockquote>&#8220;Betsy Warrior was
             more than an inspiration to the early battered women's movement. She provided
             critical analysis of &#8220;male-pattern violence,&#8221; offered support to
@@ -284,15 +298,18 @@ w_bios = [
             haunted the house. In fact, Florence was a graduate of St. Lawrence and later
             a member of its board of trustees. Whitman Hall on the campus is named for her
             and her husband.<br><br>
+
              On 27 June 1895 in Canton, New York, Florence married Edmund
             Allen Whitman, who was born in 1860 in KS. By 1896, the couple was living at
             23 Everett Street in Cambridge. The house is now occupied by Harvard Law School.
             Edmund Whitman was an 1881 graduate of Harvard College. He practised law in
             Boston. He was a supporter of the environmental movement as well as an outspoken
             proponent of prohibition enforcement. He died in 1952.<br><br>
+
             The Whitmans' three children were born in Cambridge:
             Allen Lee Whitman in June 1897, Frederic Bennett Whitman in September 1898,
             and Eleanor Whitman in 1902.<br><br>
+
             Florence Whitman was a clubwoman and frequent
             public speaker at the Cantabrigia Club, League of Women Voters, and area churches.
             She would speak on topics such as woman suffrage, Americanization, and temperance.
@@ -349,7 +366,9 @@ w_bios = [
             Nathaniel Whitney and his wife Sarah (Stone). Her family moved from Watertown
             to East Cambridge in 1833, where her father was a justice of the peace. She
             was educated by private tutors and attended a girls' school in Bucksport, Maine.
-            <br><br>Soon after, at the age of twenty-five, she opened a school in Salem which she
+            <br><br>
+            
+            Soon after, at the age of twenty-five, she opened a school in Salem which she
             ran for two years. She began to publish her poetry in the <em>Atlantic Monthly</em>
             and <em>Harpers' Magazine</em>, collected in a volume entitled simply,
             <em>Poems</em> (New York, 1859), but her interest turned to sculpture. She studied
@@ -359,6 +378,7 @@ w_bios = [
             studied for four years, producing two of her best works during that time. She
             became acquainted there with the American women sculptors, Harriet Hosmer and
             Edmonia Lewis. <br><br>
+
             On her return from Europe in 1873, she established
             a studio in Boston. There she executed busts, medallions, and statues, including
             a statue of Samuel Adams (for which she traveled to Paris to study), of which
@@ -371,6 +391,7 @@ w_bios = [
             first selected and then disqualified by the judges when they learned it had
             been designed by a woman. With the support of friends, she completed the statue
             in 1902, and it was installed in Cambridge rather than Boston. <br><br>
+
              She
             was an active member of the woman suffrage movement and was a close friend as
             well as a cousin of the Activist, Lucy Stone. She lived in Boston and summered
@@ -387,10 +408,10 @@ w_bios = [
                 Notable American Women</em> vol. 3 (1950).<br>
             Anne Whitney Papers, Wellesley College Archives.<br>
             Martin, Elizabeth and Vivan Meyer. <em>Female Gazes: Seventy-Five Women Artists</em>.
-            Toronto: Second Story Press, 1997.<Br>
-            Whitney image from wikipedia:<Br>
-            <a class=indent' href="https://en.wikipedia.org/wiki/Anne_Whitney" >https://en.wikipedia.org/wiki/Anne_Whitney</a> <Br>
-             Statue image from wikipedia.com:<Br>
+            Toronto: Second Story Press, 1997.<br>
+            Whitney image from wikipedia:<br>
+            <a class=indent' href="https://en.wikipedia.org/wiki/Anne_Whitney" >https://en.wikipedia.org/wiki/Anne_Whitney</a> <br>
+             Statue image from wikipedia.com:<br>
              <a class='indent' href="https://commons.wikimedia.org/wiki/File:Charles_Sumner_statue_%28Cambridge,_MA%29_-_Anne_Whitney_sculptor.JPG" >https://commons.wikimedia.org/wiki/File:Charles_Sumner_statue_%28Cambridge,_MA%29_-_Anne_Whitney_sculptor.JPG</a> from wikimedia commons 
         `,
         photos: [
@@ -431,6 +452,7 @@ w_bios = [
             and Almy Chemical Co. in Cambridge, making and inspecting target practice balloons.
             She also worked at American Science &amp; Engineering, Honeywell, and Bentley
             and Babson colleges until her retirement in 1964.<br><br>
+
             Toni was president of the Ellis and Fitzgerald
             schools PTA.'s in the 1950s, and she was president of the American Legion
             Auxiliary to Post 27, from 1963-64 and 1978-1987. Her other activities included
@@ -442,9 +464,9 @@ w_bios = [
             house was dedicated to Toni and Irvin Williams.<br>
             `,
         otherNotes: "",
-        references: `Photo courtesy of Toni Williams.<Br>
+        references: `Photo courtesy of Toni Williams.<br>
        
-            <Br>Oral interview by Sarah Boyer.
+            <br>Oral interview by Sarah Boyer.
             <i>Cambridge City Directory</i>, 1926.
         `,
         photos: ["images_bios/Toni%20Williams%20small.jpg"],
@@ -477,7 +499,9 @@ w_bios = [
             fleeing Europe. Although many of the refugees were professionals and scholars,
             they often were unable to obtain positions in their own fields. The Window Shop
             offered a way to earn a living within the community, hiring hundreds of individuals
-            over the years. <br><br>It survived for almost half a century, developing into a profitable
+            over the years. 
+            
+            <br><br>It survived for almost half a century, developing into a profitable
             dress and gift shop that included a restaurant and bakery. First located on
             the second floor of 37 Church Street in Cambridge, it soon outgrew that location.
             In November of 1939, it moved to 102 Mt. Auburn Street and opened a tea room
@@ -489,6 +513,7 @@ w_bios = [
             a favorite haunt of many, including the architect Walter Gropius. Eleanor Roosevelt
             even wrote about the delightful food and atmosphere at the Window Shop in her
             newspaper column &#8220;My Day&#8221;.<br><br>
+
             Among the women who were significant in organizing
             and running the Window Shop in those early days were Elsa Br&auml;ndstr&ouml;m
             Ulich, a founding board member from Sweden, who was president of the Window
@@ -499,6 +524,7 @@ w_bios = [
             for refugees, but this need soon diminished. An assistance fund for the employees
             that also provided scholarships for their children, was created in 1943, named
             after Ulich in 1948.<br><br>
+
             For many years, the Window Shop was a profitable
             and attractive restaurant and gift shop until the 1960s, when its revenues declined.
             In early1972, the board decided to sell the building to Cambridge Center for
@@ -513,7 +539,7 @@ w_bios = [
             in 2007 by iUniverse. It is available in bookstores.`,
         otherNotes: "",
         references: ` Finding aid, The Window Shop Papers, Schlesinger
-            Library, Radcliffe Institute<Br> Eleanor Roosevelt, &#8220;My Day&#8221;, May 30,
+            Library, Radcliffe Institute<br> Eleanor Roosevelt, &#8220;My Day&#8221;, May 30,
             1950; Ellen Miller, Ilse Heyman, Dorothy Dahl<em>The Window Shop: Safe Harbor
                 for Refugees, 1939-1972</em>, Diesel books, 2007.<br>
                 Photo: <i>The Cambridge Book</i>, 1966.
@@ -545,9 +571,15 @@ w_bios = [
         narrative: `
             Joanna Winship was the fourth daughter of Edward Winship, lieutenant of the
             Cambridge militia and his first wife, Jane (Wilkinson) Winship. Her father
-            had arrived in the Massachusetts Bay Colony with John Winthrop. <br><br>She was the
-            first schoolmistress in Cambridge. <Br><Br>The epitaph on her tombstone in the Old
-            Burying Ground in Cambridge reads:<blockquote>
+            had arrived in the Massachusetts Bay Colony with John Winthrop. <br><br>
+            
+            She was the
+            first schoolmistress in Cambridge. <br><br>
+            
+            The epitaph on her tombstone in the Old
+            Burying Ground in Cambridge reads:
+            
+            <blockquote>
             "Here lies ye body of Mrs. Joanna Winship. Aged 62 years who
              departed this life November ye 19th 1707. This good School Dame 
              No longer School must keep Which gives us cause For Children's sake to weep."
@@ -557,8 +589,8 @@ w_bios = [
             `,
         otherNotes: "",
         references: ` <em>An Historic Guide to Cambridge</em>, Appendix &#8220;Edward
-            Winship&#8221;.<Br>
-               Photo from findagrave.com:<Br>
+            Winship&#8221;.<br>
+               Photo from findagrave.com:<br>
                <a class='indent' href="https://www.findagrave.com/memorial/20848657/joanna-winship#view-photo=7093541">
             https://www.findagrave.com/memorial/20848657/joanna-winship#view-photo=7093541</a>
         `,
@@ -599,18 +631,9 @@ w_bios = [
             at Harvard University and a noted astronomer. Their house was located at
             the northwest corner of Mount Auburn and John F. Kennedy streets facing the
             market square, now called Winthrop Square. <br><br>
-             Hannah provided a lively account of
-            her life
-            in Cambridge
-            in
-            a series
-            of letters
-            to
-            Mercy Otis
-            Warren
-            and Abigail
 
-            Adams. During the Revolutionary war, she described the flight of women and
+             Hannah provided a lively account of her life in Cambridge in a series of letters to Mercy Otis
+            Warren and Abigail Adams. During the Revolutionary war, she described the flight of women and
             children from the center of Cambridge as the English advanced. &#8220;We were
             directed to a place called Fresh Pond, about a mile from the town, but what
             a distressed
@@ -626,12 +649,12 @@ w_bios = [
             of her in her late thirties, painted
             by John Singleton Copley, is held in the Metropolitan Museum of New York.`,
         otherNotes: "",
-        references: ` Mercy Otis Warren letters, Mass Historical Society.<Br>
+        references: ` Mercy Otis Warren letters, Mass Historical Society.<br>
             Kate Davies., <em>Catharine Macaulay and Mercy Otis Warren: The Revolutionary
                 Atlantic and the Politics of Gender.</em> (New York: Oxford University Press,
             2005).<br>
             
-                Image from wikipedia.com:<Br>
+                Image from wikipedia.com:<br>
                  <a class='indent' href="https://commons.wikimedia.org/wiki/File:Mrs._John_Winthrop.jpg" >https://commons.wikimedia.org/wiki/File:Mrs._John_Winthrop.jpg</a>
         `,
         photos: ["images_bios/HANNAH_Winthrop.jpg"],
@@ -664,8 +687,10 @@ w_bios = [
             birth of his first daughter, Satya (Pearson) Barrett. Soon after Ozeline's
             birth, the family moved to Cambridge where for many years he was pastor of St.
             Paul African Methodist Episcopal Church.<br><br>
+
             Ozeline attended Cambridge public schools and graduated from Cambridge High
             School.
+           
             <blockquote>
             "...I hoped to go into medicine....I [later] took the Civil Service exam - 
             the postal exam - and received a nice mark, 92.6, on my exam and I thought 
@@ -673,14 +698,16 @@ w_bios = [
             the postmaster general didn't believe that women were all sufficient to 
             their jobs, and I didn't get it. My mother was persistent, though. She even
              wrote the attorney general in Washington, but to no avail."
-            <Br>
+            <br>
             - <i>Ozeline Wise, Feb. 1893</i>
             </blockquote>
+
             She held clerical jobs until she married John Wise in 1931. The couple adopted
             a son, Hubert Smith, in 1961. Ozeline Wise worked for the Navy during World War
             II, and after the war, she was the first black woman employed by the banking
             department of the Commonwealth of Massachusetts, where she worked for nearly
             twenty years.<br><br>
+
             During the 1950s, the Wises lived in Billerica, Massachusetts, in a house which they
             ran as an inn that they named Galehurst. Some time after her husband's
             death in 1963, she returned to Cambridge to live with her sister, Satya Barrett, at 26 Mead Street.
@@ -688,6 +715,7 @@ w_bios = [
             teacher, trustee, and chair of the building fund. She worked with her older sister
             Satya in many of the same community organizations, and was a charter member of
             the Citizens' Charitable Health Association.<br><br>
+
             From 1965, Wise lived with her sister, who had suffered a series of strokes,
             caring for her sister until her death in 1977. She contributed an oral interview
             to the <em>Black Women Oral History Project</em> of Schlesinger Library. Ozeline Wise
@@ -695,7 +723,7 @@ w_bios = [
             to Schlesinger Library.`,
         otherNotes: "",
         references: ` Ozeline (Pearson) Wise papers and biographical information, Schlesinger
-            Library. <Br>Ozeline (Pearson) Wise interview, <em>Black Women Oral History Project</em> of
+            Library. <br>Ozeline (Pearson) Wise interview, <em>Black Women Oral History Project</em> of
             Schlesinger Library.<br>
             <i>Cambridge City Directory</i>, 1965.<br>
             <i>The Cambridge Chronicle</i>, 24 February 1983.
@@ -736,6 +764,7 @@ w_bios = [
             (two daughters and a son) who attended Cambridge schools. Beginning in 1942,
             Wise became involved in public affairs. She served first as president of the
             League of Women Voters of Cambridge (1942-1945).<br><br>
+
              In 1945, she organized the
             Parent-Teachers Association at Cambridge High and Latin School and was its first
             president in 1947, working successfully to obtain federally funded hot lunches
@@ -754,14 +783,16 @@ w_bios = [
             project in East Cambridge, which would have razed about 150 homes. Her husband,
             Henry Wise, had a long career in labor law and was a major proponent of public
             housing and legislation to restrict urban renewal in Massachusetts. 
-            <br><br>After Wise's
+            <br><br>
+            
+            After Wise's
             retirement from the City Council, she worked at the Cambridge Housing Authority
             for many years. Her papers are held at Schlesinger Library, Radcliffe Institute.`,
         otherNotes: "",
         references: ` <em>Cambridge Chronicle</em>, August 12,1999.
         <br>Schlesinger
-            Library biography and guide to Pearl Katz Wise papers.<Br>
-            <i>Cambridge City Directory</i>, 1930 & 1965.<Br>
+            Library biography and guide to Pearl Katz Wise papers.<br>
+            <i>Cambridge City Directory</i>, 1930 & 1965.<br>
             FindAGrave.com:<br>
             <a class='indent' href="https://www.ancestry.com/search/collections/60525/records/146988896?tid=&pid=&queryId=408823c2-fecb-4a9d-af1a-db3e98971fa5&_phsrc=prV2532&_phstart=successSource">https://www.ancestry.com/search/collections/60525/records/146988896?tid=&pid=&queryId=408823c2-fecb-4a9d-af1a-db3e98971fa5&_phsrc=prV2532&_phstart=successSource</a> 
         `,
@@ -802,16 +833,20 @@ w_bios = [
             School Committee member. She continued to serve in the House until 2013, when she chose not
             to seek re-election.
             
-            <Br><Br>Beginning her political career in 1971, Wolf had been
+            <br><br>Beginning her political career in 1971, Wolf had been
             active in working for early childhood education, public education, affordable
             housing, health care, and has been consistently a strong advocate for women's
             rights.<br><br>
+
             In 1991, the city received a delegation from Port-au-Prince, Haiti, with its mayor Evans
              Paul, who had been previously tortured while in prison and treated at Cambridge Hospital. 
-             Alice Wolf was mayor at time, who welcomed him warmly and said: <blockquote>
+             Alice Wolf was mayor at time, who welcomed him warmly and said: 
+             
+             <blockquote>
             "With this key and with the goodwill of the people of Cambridge, we hope many doors 
             will continue to be opened to you and to your people."
             </blockquote>
+            
             Among her many honors and awards were: the 2002
             Legislative Leadership Award from the Massachusetts Alliance for Arts Education,
             the 2002 Margot P. Koberg Award from the Cambridge Fair Housing Committee, the
@@ -819,11 +854,13 @@ w_bios = [
             Refugee Advocacy Center), Legislator of the Year Award from the JCRC (Jewish
             Community Relations Council), the 1996 Progressive Leadership Award from the
             Commonwealth Coalition, and the 1993 Woman of Courage Award from the Massachusetts
-            chapter of the National Organization of Women.<br><Br>Alice Wolf lived at 48 Huron Avenue for more than 40 years. `,
+            chapter of the National Organization of Women.
+            
+            <br><br>Alice Wolf lived at 48 Huron Avenue for more than 40 years. `,
         otherNotes: "",
-        references: ` <I>Harvard Gazette</i> June 2, 2005.<Br>
-                Wikipedia.com entry:<Br>
-                <a class='indent' href="https://en.wikipedia.org/wiki/Alice_Wolf" >https://en.wikipedia.org/wiki/Alice_Wolf</a><Br><Br>
+        references: ` <I>Harvard Gazette</i> June 2, 2005.<br>
+                Wikipedia.com entry:<br>
+                <a class='indent' href="https://en.wikipedia.org/wiki/Alice_Wolf" >https://en.wikipedia.org/wiki/Alice_Wolf</a><br><br>
             <i>The Cambridge Chronicle</i>,  9 May 1991.
 
                 `,
@@ -859,12 +896,15 @@ w_bios = [
             women in Cambridge. On March 6, 1971, the women marched and took over a former
             industrial building at 888 Memorial Drive, which was then owned by Harvard.
             While occupying the building, the women offered free child care and classes
-            for women. <br><br>After ten days they were forced out, but the protest sparked community
+            for women. <br><br>
+            
+            After ten days they were forced out, but the protest sparked community
             interest that led to the purchase of a house at 46 Pleasant Street in Cambridge.
             The Women's Center (later incorporated as the Women's Educational Center) opened
             in January 1972 in the house at 46 Pleasant Street. It was committed to the
             philosophy that empowered women could help themselves and effect change in their
             communities. <br><br>
+
              Staffed mostly by volunteers, the Women's Center
             provides women with referrals to outside community resources, including doctors,
             therapists, lawyers, clinics, housing and job opportunities. Its newest project,
@@ -879,7 +919,7 @@ w_bios = [
         references: `Finding
             Aid, Northeastern University Library Archives; Annie Popkin Papers, Schlesinger
             Library; Central Square Women's Walking Tour.
-            <br>Logo image from Aug. 15, 2025 Facebook post:<Br>
+            <br>Logo image from Aug. 15, 2025 Facebook post:<br>
              <a class='indent' href="https://www.facebook.com/photo/?fbid=1182736037215446&set=pb.100064371836450.-2207520000/">https://www.facebook.com/photo/?fbid=1182736037215446&set=pb.100064371836450.-2207520000/</a>`,
         photos: ["images_bios/womensctr.png", "images_bios/888MemDr.jpg"],
         photoTitles: ["Women's Center Logo", "Plaque ready to be placed on Memorial Drive"],
@@ -913,11 +953,14 @@ w_bios = [
             by and for women. The stated objective of the Women's Coffeehouse was to provide
             &quot;an active, participative, grass roots environment&quot; (The Women's Coffeehouse,
             Event Schedule, February-April 1989) where local women to develop their own
-            community despite their personal political affiliations. <br><br>Weekly performances
+            community despite their personal political affiliations. 
+            
+            <br><br>Weekly performances
             were intended to spark discourse among women in the community about their shared
             issues and concerns. They realized that women of all ages, nationalities, body
             types, economic status, and disabilities lacked a space to safely enjoy cultural
             activities together. <br><br>
+
             The first Coffeehouse event was held in December
             1979 and featured Marjorie Parsons as the guest speaker. For the next ten years
             the Coffeehouse remained open, sponsoring performances that included local musicians,
@@ -968,7 +1011,9 @@ w_bios = [
             Cookie Avrin, Jennifer Burgess, and Terry Plumb, along with many others. In 1974, WCHC acquired a physical
             space at 137 Hampshire Street and incorporated as a non-profit. The goal was to offer a woman controlled and
             owned health center for education, prevention, and health services. For seven years, WCHC gave women tools
-            to gain control of their health, health care, and lives. <br><br>Though Roe v. Wade affirmed the legal right to
+            to gain control of their health, health care, and lives.
+            
+            <br><br>Though Roe v. Wade affirmed the legal right to
             abortion, the decision did not create widespread access to abortion. Many of the abortion services were
             developed at women-owned clinics created to provide holistic women&rsquo;s health care. The Women&rsquo;s
             Community Health Center in Cambridge, the Vermont Women&rsquo;s Health Center, and New Hampshire
@@ -980,16 +1025,19 @@ w_bios = [
             cervical exam, health workers first demonstrated on themselves. Patients, in front of the health worker,
             could practice what they learned to make sure they got it right. They could opt to have a doctor perform the
             exam.<br><br>
+
             The organizers believed that health care should not be provided for a profit.
             Rather than a predetermined sliding scale, there was a suggested fee system. Funding came from community
             support, including performances with local poets and singers, a $5000 grant from the Boston Women&rsquo;s
             Health Book Collective (which authored Our Bodies, Ourselves), and the sale of speculums to the general
             public. <br><br>
+
             WCHC translated all literature into Spanish and Portuguese and offered
             Spanish-speaking and lesbian self-help and groups. From 1975-76, members of the collective instructed
             Harvard Medical School students on the pelvic exam after &ldquo;local women medical students requested the
             program to change the inadequate and oppressive methods usually employed in pelvic instruction.&rdquo;
             (Women&rsquo;s Community Health Center Second Annual Report).<br><br>
+
             WCHC provided essential services to women, including abortions and gynecological
             care. It operated with a physician&rsquo;s license and employed women doctors. In March of 1975, the center
             began a frustrating process of applying for a clinic license, which wouldn&rsquo;t be granted until January
@@ -1033,15 +1081,18 @@ w_bios = [
             Law,&rdquo; with law students as founding members. Their goal was to raise women&rsquo;s awareness about
             laws related to their everyday lives. They provided representation for cases such as divorce, abortion,
             workers&rsquo; rights, and welfare.<br><br>
+
             While several iterations of the group existed over the years, Holly Ladd led
             the Hampshire Street collective in the early 1980s. The Women&rsquo;s Law Collective&rsquo;s work addressed
             legal issues which impact women and families today. Notably, it co-drafted the Abuse Prevention Act, which
             allows domestic violence survivors access to restraining orders and other supports. Lawyers in the
             collective represented Our Bodies Ourselves, workers&rsquo; unions, and same-gender couples before the
             marriage equality act. <br><br>
+
             The collective contributed to the revival of the National Lawyers Guild in
             Massachusetts, which now supports local activists and works to eradicate racism and other forms of
             discrimination. The Women&rsquo;s Law Collective eventually dissolved (date not available).<br><br>
+
              A history of 1970s law collectives from the National Lawyers Guild Massachusetts
             Chapter describes law communes as, &ldquo;These communes practiced law in a new way, involving themselves
             directly in anti-war and community work as participants on the front lines. They rejected all hierarchy
@@ -1056,7 +1107,7 @@ w_bios = [
             Cambridge guidebook, 2019:
             <a href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf" >
             https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a><br>
-            <a href="www.nlgmass.org/nlg-mass-history" >www.nlgmass.org/nlg-mass-history</a><Br>
+            <a href="www.nlgmass.org/nlg-mass-history" >www.nlgmass.org/nlg-mass-history</a><br>
             <i>The Cambridge Chronicle</i>, 21 February 1974.
 
         `,
@@ -1078,7 +1129,7 @@ w_bios = [
         middleName: "",
         familyName: "",
 
-        title: `Alternative feminist education center<Br>1971-1992`,
+        title: `Alternative feminist education center<br>1971-1992`,
         birthDate: "",
         birthLocation: "",
         deathDate: "",
@@ -1090,7 +1141,9 @@ w_bios = [
             source of feminist education, and its ideologies were based on socialist feminism.
             It was operated as a collective with classes taught by volunteer teachers. All
             collective members, students, and teachers were women. Registration fees were
-            kept low so that all women would be able to participate. <br><br>In 1973, the collective
+            kept low so that all women would be able to participate. 
+            
+            <br><br>In 1973, the collective
             developed a formal administrative structure. Committees were created to select
             courses, develop special projects, and handle office work and finances. Classes
             were offered on anti-racism, auto mechanics, growing up female, international
@@ -1102,9 +1155,9 @@ w_bios = [
         otherNotes: "",
         references: `Special Collections, Northeastern University, Boston.
             Online guide.<br>
-            The Women's History Tour of Cambridge.<Br>
+            The Women's History Tour of Cambridge.<br>
             <i>The Cambridge Chronicle</i>, 29 May 1986.
-            <Br><i>The Cambridge Chronicle</i>, 22 February 1979.
+            <br><i>The Cambridge Chronicle</i>, 22 February 1979.
 
         `,
         photos: ["images_bios/womenschool.png"],

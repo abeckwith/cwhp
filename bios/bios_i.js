@@ -22,7 +22,7 @@ i_bios = [
             other young women in 1840. Their principal and teacher was a Unitarian minister,
             Rev. Cyrus Peirce, who was supported by his wife, Harriet Peirce.
             
-            <br><Br>A model school
+            <br><br>A model school
             for children was set up in Lexington and the young teachers took turns teaching
             in the school. They were examined at the end of their training by Horace Mann
             (then actively working for the initiation of teacher training schools and public
@@ -48,7 +48,8 @@ i_bios = [
             held at Sanders Theater July 1, 1892. Among the tributes was a letter from the
             governor of the Commonwealth, William Russell, who had been one of her pupils
             as was his son, and another letter was sent from Alice Freeman Palmer. 
-            <Br><Br>Ireson
+            
+            <br><br>Ireson
             was also awarded a yearly sum of $129, subscribed to by one hundred of her neighbors
             and former pupils including the mayor of the city and the Harvard University
             president. She was still alive (although ill and bedridden) in 1902 
@@ -63,8 +64,8 @@ i_bios = [
         references: ` &#8221;Miss Ireson's Fifty Years of Service&#8221;.
             Records of the First Class of the First State Normal School of Lexington Boston,
             1903 pp; 204-208; Files of the Historical Commission, Cambridge MA.
-            <Br>150th commemoration
-            of Framingham State College website.<Br>
+            <br>150th commemoration
+            of Framingham State College website.<br>
             <i>Cambridge City Directory</i> 1848, 1904.<br>
             <i>Boston Evening Transcript</i>
                 Wed, Jun 15, 1892, Page 1.

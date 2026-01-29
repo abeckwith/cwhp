@@ -20,13 +20,16 @@ t_bios = [
             and then returned to her family home in Cambridge to study at Harvard Medical
             School. She conducted research on the heart, but could not receive a degree
             since the school did not formally admit women at that time. (Women were not
-            admitted to the Medical School until 1948.) <br><br>After taking courses in anatomy
+            admitted to the Medical School until 1948.) 
+            
+            <br><br>After taking courses in anatomy
             at Boston University, she moved to Baltimore to attend John Hopkins University
             School of Medicine, earning her MD degree in 1927. Obtaining a fellowship in
             cardiology, she combined her interest in the heart with work in pediatrics.
             She remained at Johns Hopkins for the rest of her career, becoming one of the
             first women to attain the rank of full professor at the University by 1959.
             <br><br>
+
             Taussig is best known as the founder of pediatric
             cardiology. She suffered from partial deafness and was unable to use a stethoscope,
             which forced her to rely on other means of physical examination to diagnose
@@ -39,13 +42,16 @@ t_bios = [
             traveled to Germany to examine children born with phocomelia (severely shortened
             limbs) as a result of their mothers' use of the anti-nausea drug, thalidomide.
             Her testimony before the Food and Drug Administration successfully kept this
-            drug out of the United States. <br><br>
-            Dr. Laura Olivieri, who served on the AHA's Young Hearts Congenital Heart Defects Committee, in 2024 said of Taussig:
+            drug out of the United States. 
+            <br><br>
+            Dr. Laura Olivieri, who served on the AHA's Young Hearts Congenital Heart Defects Committee, in 
+            2024 said of Taussig:
 
-        <blockquote>
-                    "Most of us in the field are in awe of her. I love thinking about what she had to do 
-             to get people on board with her vision. She really moved the needle both for children 
-             with congenital heart disease and for women in academic medicine."</blockquote>
+         <blockquote>
+            "Most of us in the field are in awe of her. I love thinking about what she had to do 
+            to get people on board with her vision. She really moved the needle both for children 
+            with congenital heart disease and for women in academic medicine."</blockquote>
+
             She was awarded the Presidential Medal of Freedom
             in 1964 and became the first woman president of the American Heart Association
             in 1965. Along with many other honors, she was elected a member of the National
@@ -54,13 +60,13 @@ t_bios = [
         otherNotes: "",
         references: ` Marilyn Ogilvie and Joy Harvey, <em>Biographical
                 Dictionary of Women Scientists</em>. Routledge, 2000.
-                <Br> Phyllis J. Read and Bernard
+                <br> Phyllis J. Read and Bernard
             L. Witlieb,<em> The Book of Women's Firsts</em>, New York: Random House,
             1992.<br>
             <i>Cambridge City Directory </i>, 1900.
-       <Br> Image from wikipedia.com:<Br>
+       <br> Image from wikipedia.com:<br>
        <a class='indent' href="https://en.wikipedia.org/wiki/Helen_B._Taussig" >https://en.wikipedia.org/wiki/Helen_B._Taussig </a>   
-       <br><i>American Heart Assocation</i> article, March 28, 2024:<Br>
+       <br><i>American Heart Assocation</i> article, March 28, 2024:<br>
        <a class='indent' href="https://www.heart.org/en/news/2024/03/28/dr-helen-taussigs-work-saved-blue-babies">
        https://www.heart.org/en/news/2024/03/28/dr-helen-taussigs-work-saved-blue-babies</a>    `,
        
@@ -92,7 +98,8 @@ t_bios = [
             Katharine was the daughter of Graham Taylor and Leah (Demarest) Taylor. She
             attended local Hartford elementary schools and then the Francis W. Parker School
             in Chicago, while her father was involved with the establishment of the settlement
-            house, Chicago Commons. <Br><Br>
+            house, Chicago Commons. <br><br>
+
             She went to Vassar College, graduating with an A.B in
             1910. She received her Masters degree from the University of Michigan in 1911.
             After traveling to Europe on an academic scholarship, she returned to her Vassar
@@ -110,12 +117,14 @@ t_bios = [
             her experiences in one of her journals. Taylor also developed a teacher's training
             course that was highly successful, inspiring one of the graduates, Carmelita
             Hinton, to found Putney School in Vermont in 1934. <br><br>
+
             Retiring from Shady Hill in 1949, Taylor was made chair of the Education and
             Child Care Project in Germany under the auspices of the Unitarian Service Committee,
             a position she held until 1953 (she was living at 41 Hawthorne Street in Cambridge at the time). She went on to serve as consultant to the New
             World Foundation from 1955 to 1976 and as consultant to the International Schools
             Foundation from 1959 to-1960. Taylor sat on the board of Vassar College, Francis
             W. Parker School, Children to Palestine, and the New World Foundation.<br><br>
+
             Taylor died in Cambridge in 1979. After her death,
             her papers were given to the Schlesinger Library which included her correspondence
             with Agnes and William Ernest Hocking. 
@@ -162,6 +171,7 @@ t_bios = [
             her <em>A.B.</em> from Radcliffe College in 1928 in government, but her interest
             in astronomy was stimulated by undergraduate work at the Harvard Observatory,
             where she assisted Professor Willem Luyten in identifying white dwarf stars.
+            
             <br><br>She married Frederick M. Thomas shortly after her graduation from college and
             they had one son. The marriage ended and she found employment in many organizations.
             She worked for three years as secretary to Leon Campbell, who headed the American
@@ -174,6 +184,7 @@ t_bios = [
             to the nineteenth century A.D. For this, she studied both Latin and Arabic texts.
             At the beginning of World War II, her graduate work was interrupted by war work,
             and her degree was not awarded until 1948. <br><br>
+
             Helen Lewis Thomas was &#8220;drafted&#8221; first
             into the Harvard Radio Research Laboratory and, shortly after, into the MIT
             Radiation Laboratory, where she worked with the historian of science, Henry
@@ -181,7 +192,8 @@ t_bios = [
             engineer at Raytheon Manufacturing Company, where she remained until 1954, working
             on guidance systems. In 1963, she was living at 55 Langdon Street in Cambridge. She returned to MIT as an editor and head of publications
             at the MIT Research Laboratory of Electronics until her retirement in 1971.
-           <br><br>In 1986, she was awarded a $50,000 prize by TWA for accurately predicting, thirty
+         
+            <br><br>In 1986, she was awarded a $50,000 prize by TWA for accurately predicting, thirty
             years before, the range, cruising speed, passenger capacity, and use of jet
             engines by commercial airlines (earning a listing in the <em>Guinness Book of
                 World Records</em>). She died shortly before her ninety-second birthday, and
@@ -192,10 +204,10 @@ t_bios = [
             21 1905-August 6 1997.&#8221; <em>Journal of the Association of Variable Star
                 Observers ( JAAVSO)</em> 28: 40-46, 2000;. <br>
             Hoffleit, Dorritt &#8220;Eloge: Helen Meriwether Lewis Thomas, 21 August 1905-6
-            August 1997 [Obituary]&#8221; <em>Isis</em> 89: 316, 1998.<Br>
+            August 1997 [Obituary]&#8221; <em>Isis</em> 89: 316, 1998.<br>
             <i>The Cambridge Chronicle</i>, 10 June 1993.
-            <Br><i>Cambridge City Directory</i>, 1963.<br>
-            Image from <i>University of Chicago Press Journals</i>:<Br>
+            <br><i>Cambridge City Directory</i>, 1963.<br>
+            Image from <i>University of Chicago Press Journals</i>:<br>
             <a class='indent' href="https://www.journals.uchicago.edu/doi/abs/10.1086/384004?journalCode=isis">
             https://www.journals.uchicago.edu/doi/abs/10.1086/384004?journalCode=isis</a>
 
@@ -236,26 +248,36 @@ t_bios = [
             Street. She was awarded a certificate in recognition of her contribution to
             the community for this clinic in 1938. She also worked as a dentist in the Cambridge
             Public Schools. <br><br>
+
              For a number of summers in the late 1930s, she
             worked with the Alpha Kappa Alpha Sorority's Mississippi Health Project,
             a project initiated by this sorority founded by college trained African American
             women. She later served as the AKA chapter president. <br><br>
+
              She married Oscar Thompson in 1948. The couple,
             who later moved to Natick, Massachusetts, believed in bringing races together and founded
             one of the first Fair Housing committees in America. The NAACP presented her
             with an outstanding achievement award for humanitarian services in 1973. In
             1976 Alpha Kappa Alpha honored her by establishing in her name a scholarship
-            at Tufts Dental School for female African American students.<Br><Br>
-            In an August 1977 interivew Thompson recalled how she became interested in dentistry:<blockquote>
+            at Tufts Dental School for female African American students.<br><br>
 
+            In an August 1977 interivew Thompson recalled how she became interested in dentistry:
+            
+            <blockquote>
             "I went to Roberts Elementary...first the Boardman School. They used to have the Boardman School right
             across from where the Newtowne Court housing project is. And we had one black teacher there. Her name was 
             Goldie Lane; her father was a physician in Cambridge. And then I think it was either two, three, or four grades,
             and then you went up to Roberts School, which is on the corner of Harvard and Broadway. And then from there
-            you went to Cambridge High and Latin. The Roberts School is where they'd send the kids from class to Forsyth for their dental
-            checkups. They didn't have the clinics in the schools that they did when I worked there.<br><Br>
-            "That's where I got the idea I wanted to be a dentist. Because I saw the girls all dressed up in white, but everybody else 
-                wanted me to be a nurse, a teacher, or anything else besides that...<Br><Br>
+            you went to Cambridge High and Latin. The Roberts School is where they'd send the kids from class to Forsyth for
+             their dental
+            checkups. They didn't have the clinics in the schools that they did when I worked there.
+            
+            <br><br>
+            "That's where I got the idea I wanted to be a dentist. Because I saw the girls all dressed up in white, but 
+            everybody else 
+                wanted me to be a nurse, a teacher, or anything else besides that...
+            
+            <br><br>
             "After I came back with the bright idea that this is what I wanted, my mother said, "You can do it if you want to.
             So this is what I did."
             </blockquote>`,
@@ -263,16 +285,16 @@ t_bios = [
         references: `
             Oral history of Mary Crutchfield Thompson in Black Women Oral History Project,
             conducted by Schlesinger Library, Radcliffe and in the Sophia Smith Collection,
-            Smith College Northampton Mass.:<Br>
+            Smith College Northampton Mass.:<br>
             <A class='indent' href="https://iiif.lib.harvard.edu/manifests/view/drs:45177050$15i">
             https://iiif.lib.harvard.edu/manifests/view/drs:45177050$15i</a>
             <br>
-            Schlesinger Library, online Flickr photo album, link viewed February 23, 2015:<Br>
+            Schlesinger Library, online Flickr photo album, link viewed February 23, 2015:<br>
             <a class='indent' href="https://www.flickr.com/photos/schlesinger_library/13270319163/">https://www.flickr.com/photos/schlesinger_library/13270319163/</a> <br>
             <em>Black Women in America, A Historical Encyclopedia</em> ed. Darlene Clark,
-            Carlson Publishing, Inc.,1993.<Br>
+            Carlson Publishing, Inc.,1993.<br>
             <i>Cambridge Chronicle</i>, 21 November 1985.<br>
-            Image from wikipedia.com:<Br>
+            Image from wikipedia.com:<br>
              <a class='indent' href="https://commons.wikimedia.org/wiki/File:Mary_Crutchfield_Thompson_%2813270319163%29.jpg" >https://commons.wikimedia.org/wiki/File:Mary_Crutchfield_Thompson_%2813270319163%29.jpg</a>
            
         `,
@@ -322,7 +344,8 @@ t_bios = [
 
             Turner was the first female scientist in the world
             to utilize the deep submergence research vehicle known as ALVIN for oceanographic
-            research. She lived at 1 Frost Street in Cambridge in 1965 and was an avid scuba diver well in to her 70's. She was one of the
+            research. She lived at 1 Frost Street in Cambridge in 1965 and was an avid scuba diver well in 
+            to her 70's. She was one of the
             first female members of the prestigious Boston Sea Rovers and was honored with
             their Diver of the Year Award in 1972. She mentored hundreds of young biologists
             and readily provided free room and board at her Cambridge home to needy graduate

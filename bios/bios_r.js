@@ -17,14 +17,14 @@ r_bios = [
             in Germany. She studied at the Klosterschule in Hamburg where she graduated
             in 1925. She continued her studies in art at several schools including the Bauhaus
             in Dessau, Germany. She had a one-woman show of her watercolor paintings in
-            Berlin. <Br><Br>
+            Berlin. <br><br>
             
             In 1929, she began working as a copywriter in for an English advertising
             company in Berlin. Also trained as a photographer, she took writing, advertising,
             and photography jobs in Germany and England. She traveled to Rio de Janerio,
             Brazil, in 1935, where she became reaquainted with the German-born Hans A. Reysenbach
             (later shortened to Rey), who was a family friend. Hans A. Rey had been working
-            in Brazil since the mid 1920s in a family import business.<br><Br>
+            in Brazil since the mid 1920s in a family import business.<br><br>
 
 
              The couple married in 1935, and moved to Paris where
@@ -32,12 +32,13 @@ r_bios = [
             interested in Hans' drawings and commissioned him to write a children's
             book, published as <em>Rafi and the Nine Monkeys</em> which included a curious
             monkey that was the inspiration of the future children's book <em>Curious
-                George</em>. <Br><Br>
-                
-                In 1940, the Reys fled Paris before the advancing Nazi army invaded.<Br><Br>
-                She spoke about this in a 1996 <i>Christian Science Monitor</i> interview, 
-                after Rey had turned 90 years old and several months before her death:
-                <blockquote>
+            George</em>. <br><br>
+            
+            In 1940, the Reys fled Paris before the advancing Nazi army invaded.<br><br>
+            She spoke about this in a 1996 <i>Christian Science Monitor</i> interview, 
+            after Rey had turned 90 years old and several months before her death:
+              
+            <blockquote>
             "We left Paris very early the next morning. That was the only sad moment I remember. Nobody was in the streets,
              and it was gray and dark. After we left, it was fine. We bicycled. We were lucky.
 
@@ -45,8 +46,8 @@ r_bios = [
             broke down, it was terrible. But bicycles could always get by. We kept going south, and we slept 
             in barns. You know, when you're in action you're not scared. When you're sitting and waiting for 
             something, that's the unpleasant situation."
-
                             </blockquote>
+
             The couple traveled to via Spain and Portugal, then back to Brazil and from there
             to New York City, taking the illustrated manuscript of the new book they had
             just written. <em>Curious George</em> was published by Houghton Mifflin in 1941.
@@ -56,14 +57,16 @@ r_bios = [
             for the first several
             years, but this was corrected in later editions. They published other children's
             stories including <em>Pretzel</em> in 1944, which was the first book to list
-            Margret as author.<br><Br>
+            Margret as author.<br><br>
 
             In 1963, Margret Rey and her husband moved to
             Cambridge and settled in a home near Harvard Square at 14 Hilliard Street. Hans died in in 1977. Soon
             after, Margret was approached by Alan Shallek who persuaded her to collaborate
             on a series of short films for television that began to appear on the Disney
             Channel in 1980. Margret contined to write and teach. In 1979, she was appointed
-            at Brandeis University as a professor of Creative Writing.<Br><Br> In 1989, she established
+            at Brandeis University as a professor of Creative Writing.
+            
+            <br><br> In 1989, she established
             the Curious George Foundation to benefit children's creativity and animal and
             environmental welfare. Rey was also a long-time supporter of Longy School of
             Music and founded a center of alternative medicine at Beth Israel Hospital.
@@ -72,7 +75,9 @@ r_bios = [
             Stavis opened the Curious George Goes to Wordsworth store at the corner of Brattle
             and J.F.K. streets in the summer of 1996. Rey visited the store and was apparently
             pleased with the idea for the Curious George themed store, which sells children's
-            books and toys. <Br><Br>The de Grummond Children's Literature Collection at the
+            books and toys. 
+            
+            <br><br>The de Grummond Children's Literature Collection at the
             University of Southern Mississppi, Hattiesburg holds the H. A. and Margret Rey
             Papers.`,
         otherNotes: "",
@@ -86,11 +91,11 @@ r_bios = [
             Margret Rey biography, Greenville Public Library web site, Greenville, R.I.
             <br>
             Amy Miller, &quot;Curious George moves into Harvard Square,&quot; <em>Cambridge
-                Chronicle</em>, July 25, 1996.<Br>
-            <Br><i>Cambridge City Directory</i>, 1965.
-        <Br><i>Christian Science Monitor</i> interview, May 23, 1996:<Br>
+                Chronicle</em>, July 25, 1996.<br>
+            <br><i>Cambridge City Directory</i>, 1965.
+        <br><i>Christian Science Monitor</i> interview, May 23, 1996:<br>
         <a class='indent' href="https://www.csmonitor.com/1996/0523/052396.feat.books.3.html">https://www.csmonitor.com/1996/0523/052396.feat.books.3.html</a>
-                <Br>Image from wikipedia.com:<br>
+                <br>Image from wikipedia.com:<br>
                 <a class='indent' href="https://en.wikipedia.org/wiki/Margret_Rey" >https://en.wikipedia.org/wiki/Margret_Rey</a>
                 `,
         photos: ["images_bios/reys.jpg"],
@@ -126,7 +131,9 @@ r_bios = [
             to collect mammals for the American Museum of Natural History. When they moved
             to Cambridge and her husband took up a position at Harvard's Museum of Comparative
             Zoology in 1959, she was appointed research director and lecturer at the Harvard
-            University Graduate School of Education, and was named professor in 1963. <Br><Br>She
+            University Graduate School of Education, and was named professor in 1963.
+            
+            <br><br>She
             founded a Center for Research on Careers at Harvard and served as its director
             from 1963 to 1966, retiring as <em>emerita</em> professor in 1966. During this
             period, she spent her winters in her home in Cambridge at 86 Buckingham Street and her summers in New
@@ -135,19 +142,21 @@ r_bios = [
             professor of psychology at the University of Arizona. During her lifetime, she
             wrote more than 100 books and articles, including <em>The Making of a Scientist</em>
             (1952) which examined creativity in science. She was awarded a Lesley College
-            honorary degree. <Br><Br>Roe died in Tucson Arizona in 1991.`,
+            honorary degree. <br><br>
+            
+            Roe died in Tucson Arizona in 1991.`,
         otherNotes: "",
         references: `<em>
                 New York Times</em> Anne Roe obit June 4, 1991.<br>
             Super, Donald E., &#8220;Anne Roe 1904-1991&#8221;, <em>The Counseling Psychologist</em>,
             Vol. 20, No. 4, 734-736 (1992).<br>
             Wrenn, Robert L., &quot;The Evolution of Anne Roe,&quot; <em>J Counseling &amp;
-                Development</em> 63: 267-75, Jan 1985.<Br>
+                Development</em> 63: 267-75, Jan 1985.<br>
                 <I>Cambridge City Directory</i>, 1965.<br>
-                Birth date from ancestry.com:<Br>
+                Birth date from ancestry.com:<br>
                 <a class='indent' href="https://www.ancestry.com/family-tree/person/tree/71942149/person/292480937875/facts?_phsrc=prV2552&_phstart=successSource">
                 https://www.ancestry.com/family-tree/person/tree/71942149/person/292480937875/facts?_phsrc=prV2552&_phstart=successSource</a>
-                Image from wikipedia.com:<Br>
+                Image from wikipedia.com:<br>
                  <a class='indent' href="https://en.wikipedia.org/wiki/Anne_Roe">https://en.wikipedia.org/wiki/Anne_Roe</a>
         `,
         photos: ["images_bios/Anne_Roe.jpg"],
@@ -180,7 +189,7 @@ r_bios = [
             Anne attended Syracuse University on a scholarship, graduating cum laude in
             1903 with a Bachelor of Philosophy degree. She taught English at several high
             schools in upstate New York and afterwards moved to Philadelphia where she taught
-            at William Penn High School.<br><Br>
+            at William Penn High School.<br><br>
 
              Anne Hubble pursued graduate studies at Radcliffe College
             in 1910-11, and in 1912 she married George Byron Roorbach, an instructor at
@@ -191,7 +200,8 @@ r_bios = [
             Professor of Trade at the Harvard Business School. In 1919, the family moved
             to 16 Kirkland Street in Cambridge, where another son and daughter were born. George
             Roorbach died suddenly from a heart attack on May 23, 1934, while in Washington,
-            D.C.<br><Br>
+            D.C.<br><br>
+
              While
             living in Cambridge, Anne Roorbach became very active in civic affairs. By 1930,
             she was an officer in the Cambridge League of Women Voters and subsequently
@@ -203,7 +213,8 @@ r_bios = [
             continued challenges to Plan E, the association became the Cambridge Civic Association,
             within which, as an active member, Roorbach served as a mentor to young women,
             among them Pearl Wise, who went on to play
-            a significant role in city government. <br><Br>
+            a significant role in city government. <br><br>
+
              In addition to her political work, Anne Roorbach served
             as a director of the Cambridge YWCA, and was
             instrumental in the installation of a swimming pool in the facility. She was
@@ -211,7 +222,8 @@ r_bios = [
             church, the First Unitarian Church (now the First Parish Church, Unitarian Universalist),
             as deacon and as the chair of various committees. She was interested in the
             Harvard museums, and published a short article on the glass flower collection
-            in 1937.<br><Br>
+            in 1937.<br><br>
+
              Throughout
             her life, Anne Roorbach was an ardent believer in women's rights and conveyed
             those beliefs to her six children, E. Howard, Elizabeth H., Carolyn R. (Dunbar),
@@ -260,20 +272,23 @@ r_bios = [
             and Racial Unity. She went to Selma, Alabama, to march with Martin Luther King, Jr.
             Her home in Cambridge at 1 Potter Park became a center for educational and welfare reform.
             
-            <Br><Br>In 2007, Reverend Constance Parvey of Cambridge, who had known her since the 1950's,
+            <br><br>In 2007, Reverend Constance Parvey of Cambridge, who had known her since the 1950's,
              described Ann's involvement in civil rights activities in the late 1950s and 1960s:
-            <blockQuote>
+            
+             <blockquote>
             "Ann [was always] making sure people got to know each other. Not just 'This is so-and-so', but 
             'What are we going to do about this?' Ann was not someone who started with the weather. She started 
             out with what was absolutely on her mind. It was a heady time. It was a time when we were remapping 
             the theological and social landscape."
-            </blockquote> From
+            </blockquote>
+             From
             1968 to 1975, she left graduate work to become an editor for behavioral studies
             at the Harvard University Press. In 1974 she and Stephan Thernstrom developed
             the idea of creating the<em> Harvard Encyclopedia of American Ethnic Groups </em>(1980), of which she became
             managing editor. She started her own press,
             Langdon Press, after leaving Harvard University Press, and worked as a free-lance
-            author and consultant. <br><Br>
+            author and consultant. <br><br>
+
             In 1980, she moved to Stowe, Vermont, and opened a
             bed and breakfast. Soon after, she was diagnosed with a benign brain tumor that
             left her with a slight limp. There in Vermont, she worked with the Episcopal
@@ -281,15 +296,17 @@ r_bios = [
             and completed at the Jesuit Faculty of Theology at Regis College in Toronto;
             she received her M. Div. there in 1996. In 2002, she reconnected with an old
             boyfriend from her adolescence, Dr. Merrill Rubinow; they married soon after.
-            The couple moved to Tucson, Arizona. <Br><Br>Dr. Rubinow died there four years later, seven
+            The couple moved to Tucson, Arizona. 
+            
+            <br><br>Dr. Rubinow died there four years later, seven
             months before Orlov's own death. `,
         otherNotes: "",
         references: ` &#8220;Ann Orlov Rubinow,&#8221; obituary news
             article by Bryan Marquard, <em>Boston Globe</em> January 25, 2007.<br>
             Obituary, <em>Cambridge Chronicle</em>
-            (under Betty A. Rubinow) January 22, 2007.<Br>
-            <i>Cambridge City Directory</i>, 1961.<Br>
-            <i>The Boston Globe</i>, Jan 25, 2007.<Br>
+            (under Betty A. Rubinow) January 22, 2007.<br>
+            <i>Cambridge City Directory</i>, 1961.<br>
+            <i>The Boston Globe</i>, Jan 25, 2007.<br>
             <br>Image from <i>Vermont Community Newspaper Group:<br>
             <A class='indent' href="https://www.vtcng.com/stowereporter/archives/betty-ann-orlov-rubinow/article_5b7f7b21-06cb-5708-ae30-d74b45d2059f.html" >
             https://www.vtcng.com/stowereporter/archives/betty-ann-orlov-rubinow/article_5b7f7b21-06cb-5708-ae30-d74b45d2059f.html</a>
