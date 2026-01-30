@@ -1448,7 +1448,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         organization: false,
         lastName: "Antupit",
         firstName: "Frances",
-        middleName: "V.",
+        middleName: "Vivian",
         familyName: "",
         
         title: `Photographer, businesswoman`,
@@ -1457,8 +1457,11 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         deathDate: "12.12.2025",
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
-        The photographer Frances V. Antupit was born and raised in Hartford, Connecticut. 
-        She graduated from the Rhode Island School of Design (RISD) in 1957 with a Bachelor's 
+        The photographer Frances V. Antupit was born and raised in Hartford, Connecticut. Her mother, Sylvia
+        (Feinberg) Antupit, had studied concert piano and attended the Emil Hartman School of Design in New York.
+        <Br><Br>
+        
+        Frances Antupit graduated from the Rhode Island School of Design (RISD) in 1957 with a Bachelor's 
         in Fine Arts. Frances took only one photography course (taught, she recalls, by a recent
          RISD graduate, who knew little about the subject). Fortunately, her roommate had keys to 
          the night school building, and she and Frances would sneak into the darkroom late at night 
@@ -1553,7 +1556,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         `,
         otherNotes: "",
         references: `
-        
+        <i>The Hartford Courant</i>, 19 Oct 1934<Br>
         <i>The Cambridge Chronicle</i>, 15 May 1986, 25 February 1999, 25 March 1999, 29 July 2004.<br>
 
         Interview with Frances Antupit by Emily Gonzalez and Meta Partenheimer, February 2018.<br>
