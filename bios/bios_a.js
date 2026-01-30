@@ -1443,6 +1443,136 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         authors: "Anthony Beckwith, Eli Plenk",
         categories: ["Activist", "Philanthropist", "Executive", "Volunteer"],
     },
+       {
+        poc: true,
+        organization: false,
+        lastName: "Antupit",
+        firstName: "Frances",
+        middleName: "V.",
+        familyName: "",
+        
+        title: `Photographer, businesswoman`,
+        birthDate: "10.05.1934",
+        birthLocation: "Hartford, Connecticut",
+        deathDate: "12.12.2025",
+        deathLocation: "Cambridge, Massachusetts",
+        narrative: `
+        The photographer Frances V. Antupit was born and raised in Hartford, Connecticut. 
+        She graduated from the Rhode Island School of Design (RISD) in 1957 with a Bachelor's 
+        in Fine Arts. Frances took only one photography course (taught, she recalls, by a recent
+         RISD graduate, who knew little about the subject). Fortunately, her roommate had keys to 
+         the night school building, and she and Frances would sneak into the darkroom late at night 
+         to develop film and make prints. Frances looked back at her work from that time humorously,
+          which she described as mostly odd compositions of doorways and objects. She called it the
+           “Ashcan School of Photography.” 
+        <br><br>
+
+        Antupit moved to Boston in the fall of 1957, intending to pursue a career in graphic design, 
+        not photography, but quickly discovered there were few positions available in that field. She
+         was interviewed by a forthright art director in Copley Square. After reviewing her portfolio,
+          he told her that her graphic design work was “typically RISD, but that I had a good eye for 
+          photography” and suggested she apprentice to an established photographer. “I took his advice…It
+           is to him I owe my professional career,” she said. 
+        <br><br>
+
+        Antupit and a friend looked through the Yellow Pages and found an advertisement for Paul Koby's 
+        photography studio in Harvard Square at 8 Boylston Street (now JFK Street). They both were impressed 
+        by the design, so Frances applied for a job there. Paul Koby had escaped Germany during WWII, fleeing 
+        first to Cuba, then moving to Boston in 1946.  
+        <br><br>
+
+        Koby at first dismissed Antupit's application, calling her a “greenhorn.” Frances convinced him of 
+        her abilities, and she began her training under Koby and his assistant, Merle. The pair taught her 
+        essential lighting skills and other darkroom techniques. Antupit noted that she began her prolific
+         career in photography by retouching prints. Merle instructed her thoroughly, but Antupit learned 
+         best by observing and executing. 
+        <br><br>
+
+        Paul Koby decided to leave Boston and in 1978, despite no formal business training, Antupit decided
+         to purchase the business from him. Along with the studio, Antupit inherited a large collection of Koby's
+          negatives and prints, including a headshot of the young Anthony Perkins taken in the 1950s when he was 
+          a student at Cambridge's Browne & Nichols School (People Magazine purchased the portrait in the 1990s).
+           The studio became the Koby-Antupit Studios.
+        <br><br>
+
+        In 1997, the Cambridge Savings Bank bought the building that housed Antupit's studio, and all 
+        tenants were given a notice to vacate. Antupit became a vocal advocate for small local businesses 
+        in Cambridge. After clearing the studio and giving much of the equipment to her assistant, Antupit
+        
+        opened a new studio in Porter Square. Despite her reputation as a creative photographer, the new
+         location proved difficult for returning customers and walk-ins alike, which greatly affected her 
+         business. Antupit closed that studio and began afresh in neighboring Belmont before finally retiring.
+          The Antupit and the Koby-Antupit studios had a lasting impact on both the citizens and business
+           community in Cambridge.
+        <br><br>
+
+        Her obituary in 2025 described her work and involvement in the city this way:
+        <blockquote>
+        "Her renown as a portrait photographer and that of the Studio spanned over six decades, serving 
+        the diverse clientele of the greater Cambridge and Harvard communities. Frances was active in the
+         local community and resided in the Harvard Square, Commons and East Cambridge/Charles River neighborhoods.
+          " [Antupit lived in an apartment building on Cambridge Parkway.]
+        </blockquote>
+        After retirement, Antupit stayed involved in the life of the city, writing letters to the editor 
+        calling for a fiscally responsible government and advocating for small businesses in Cambridge 
+        and against the rising prominence of chain stores, and especially in Harvard Square.
+        <br><br>
+
+        In a 1999 letter to the editor of the Cambridge Chronicle, John Bovey of Chauncy Street included
+        a story that gave a window into Antupit's artistry and personality:
+        <blockquote>
+        "Not long ago while I was shopping in the Evergood Grocery, another customer turned suddenly from
+         the dairy counter and held out her hand. "You don't remember me,” she said. Smiling at my startled 
+         reaction, she told me that 20 years ago she had done my portrait! “It was for the cover of your 
+         first collection of stories,” she said. 
+
+
+        <br><Br>
+        And then I warmed to the memory of a most agreeable session in the Koby studio at the top of 
+        the narrow flight of stairs next to the Tasty lunch counter. Ms. Antupit had taken time to talk 
+        with me about my life and what I had wanted to project in my fiction. Then fixing me in an appropriate 
+        pose before Mr. Koby's antique camera, she leaned down to adjust my beret.
+
+
+        <br><Br>
+        My publisher had already issued a stern caveat about headgear: "We do not want our authors to appear 
+        on book jackets with their heads concealed by hats.” When I told her this, Frances Antupit smiled. 
+        “They will have to make an exception,” she said, “Your beret conceals nothing. It's part of you, 
+        like John Gielgud's fedora. Just send the photo on. You will see.” Sure enough, the publisher 
+        acknowledged that the beret struck the right note for stories that dealt with life in the Foreign Service. 
+
+
+        <br><Br>
+        Ms. Antupit's portraits remain jewels in the crown of black and white photography. This kind of 
+        artistry finds little room amid the bustle and roar of the computerized commerce the flash bulb and
+         the quick fix that are rapidly eroding the serenity and the charm of a happier Harvard Square."
+        </blockquote>
+
+
+    
+        `,
+        otherNotes: "",
+        references: `
+        
+        <i>The Cambridge Chronicle</i>, 15 May 1986, 25 February 1999, 25 March 1999, 29 July 2004.<br>
+
+        Interview with Frances Antupit by Emily Gonzalez and Meta Partenheimer, February 2018.<br>
+
+
+        Legacy.com obituary:<Br>
+        <a class='indent' href="https://www.legacy.com/us/obituaries/bostonglobe/name/frances-antupit-obituary?id=60412431">https://www.legacy.com/us/obituaries/bostonglobe/name/frances-antupit-obituary?id=60412431</a>
+
+        `,
+        photos: ["images_bios/Antupit_Frances002.jpg" , "images_bios/Antupit_Frances003.jpg" ],
+        photoTitles: [],
+        dateCreated: "01.30.2026",
+        dateUpdated: "",
+
+        photoHeights: ["", "450"],
+        editors:"",
+        authors: "Meta Partenheimer, Anthony Beckwith",
+        categories: ["Photographer", "Businesswoman"],
+    },
 ];
 
 
