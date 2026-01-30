@@ -1316,7 +1316,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         organization: false,
         lastName: "Axelrod",
         firstName: "Janet",
-        middleName: "",
+        middleName: "Suzann",
         familyName: "",
         
         title: `Feminist activist, funder of social movements, tech VP`,
@@ -1421,6 +1421,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         otherNotes: "",
         references: `
         Kendall Square weekly <i>Fax</i>, 10 November 1987, 11 April 1989.<br>
+        <i>Barnard College Yearbook</i>, 1973<br>
         <i>The Cambridge Chronicle</i>, 13 May 1999.<br>
         <i>Barnard Magazine</i>, Spring 2002:
         <br><a class='indent' href="https://barnard.edu/magazine/spring-2022/lifelong-activist">https://barnard.edu/magazine/spring-2022/lifelong-activist</a> <br>
@@ -1514,7 +1515,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         "Her renown as a portrait photographer and that of the Studio spanned over six decades, serving 
         the diverse clientele of the greater Cambridge and Harvard communities. Frances was active in the
          local community and resided in the Harvard Square, Commons and East Cambridge/Charles River neighborhoods.
-          " [Antupit lived in an apartment building on Cambridge Parkway.]
+          " [Antupit lived in an apartment building at 75 Cambridge Parkway.]
         </blockquote>
         After retirement, Antupit stayed involved in the life of the city, writing letters to the editor 
         calling for a fiscally responsible government and advocating for small businesses in Cambridge 

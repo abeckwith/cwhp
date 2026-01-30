@@ -1,3 +1,4 @@
+/** for opening page carousel of photos */
 photoList = [
     "bios.html?lNm=CityGirlCafe&mNm=&fNm=",
     "bios.html?lNm=Comstock&mNm=Louise&fNm=Ada",
@@ -101,5 +102,7 @@ photoList = [
     "bios.html?lNm=Cannon&mNm=Jump&fNm=Annie",
     "bios.html?lNm=Cell16&mNm=&fNm=",
     "bios.html?lNm=Chall&mNm=Sternlicht&fNm=Jeanne",
-    "bios.html?lNm=Chen&mNm=&fNm=Joyce"
+    "bios.html?lNm=Chen&mNm=&fNm=Joyce",
+    "bios.html?last=Antupit&middle=Vivian&first=Frances",
+    "bios.html?last=Axelrod&middle=&first=Janet"
 ];
