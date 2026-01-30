@@ -302,7 +302,7 @@ r_bios = [
             months before Orlov's own death. `,
         otherNotes: "",
         references: ` &#8220;Ann Orlov Rubinow,&#8221; obituary news
-            article by Bryan Marquard, <i>Boston Globe</i> January 25, 2007.<br>
+            article by Bryan Marquard, <i>Boston Globe</i>, January 25, 2007.<br>
             Obituary, <i>Cambridge Chronicle</i>
             (under Betty A. Rubinow) January 22, 2007.<br>
             <i>Cambridge City Directory</i>, 1961.<br>

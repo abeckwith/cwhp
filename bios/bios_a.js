@@ -62,7 +62,7 @@ a_bios = [
         <br>
             "You the Mayor?: The Education of a City Politician", by Barbara Ackerman, Praeger Press, 1989.
             <br>
-            <i>Cambridge Chronicle</i> Nov. 3, 1977.
+            <i>Cambridge Chronicle</i>, Nov. 3, 1977.
         `,
         photos: ["images_bios/Barbara%20Ackermann%20small.jpeg"],
         photoTitles: [""],
@@ -231,7 +231,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
 
             `,
         otherNotes: "",
-        references: ` <i>The Boston Globe</i> Jun. 27, 1999.
+        references: ` <i>The Boston Globe</i>, Jun. 27, 1999.
         <br><i>New York Times</i> June 27, 1999.<br>
             Samuel Beckett Collection, University of Texas, Austin.
             <br>Susan
@@ -395,7 +395,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         Image from Google Books:
         <br>
         <a class='indent' href="https://books.google.com/books?id=5R28DDgTAd4C&pg=PA38#v=onepage&q&f=false">https://books.google.com/books?id=5R28DDgTAd4C&pg=PA38#v=onepage&q&f=false</a>
-        <i>Cambridge Chronicle</i> January 22, 2009.<br>
+        <i>Cambridge Chronicle</i>, January 22, 2009.<br>
  `,
         photos: ["images_bios/carol albright.jpeg"],
         photoTitles: [],
@@ -449,7 +449,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
 
             `,
         otherNotes: "",
-        references: ` <i>The Boston Globe</i> Mar. 11, 2001.
+        references: ` <i>The Boston Globe</i>, Mar. 11, 2001.
         <br><i>New York Times</i>,
             (paid notice) Mar. 7, 2001.<br>
             <i>U.S. Social Security Index</i>.<br>
@@ -500,7 +500,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
 
             `,
         otherNotes: "",
-        references: ` <i>Cambridge Chronicle</i> Feb. 18, 2000.
+        references: ` <i>Cambridge Chronicle</i>, Feb. 18, 2000.
         <br>Paid death
             notice of Judge Bailey Aldrich, September 29, 2002.
             <br><i>New York Times</i>
@@ -717,7 +717,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
 `,
         otherNotes: "",
         references: `
-            <i>Cambridge Chronicle</i> April 15, 1993,  Sept 10, 1998.
+            <i>Cambridge Chronicle</i>, April 15, 1993,  Sept 10, 1998.
 
         `,
         photos: [""],
@@ -1429,7 +1429,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         <a class='indent' href="https://www.boston.com/culture/music/2017/05/24/long-before-boston-calling-amandla-festival-brought-bob-marley-and-social-justice-to-harvard/">https://www.boston.com/culture/music/2017/05/24/long-before-boston-calling-amandla-festival-brought-bob-marley-and-social-justice-to-harvard/</a><br>
 
 
-        <i>The Boston Globe</i> Sun, Mar 16, 1975, "Radical Foundations? This Pillsbury Says it Best", by Arnie Reisman<br>
+        <i>The Boston Globe</i>, Sun, Mar 16, 1975, "Radical Foundations? This Pillsbury Says it Best", by Arnie Reisman<br>
 
 
       Images from Eli Plenk

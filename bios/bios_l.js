@@ -58,7 +58,7 @@ l_bios = [
             August 28, 2000:<br>
             <a class='indent' href="http://www.wellesley.edu/Anniversary/ladd.html" >http://www.wellesley.edu/Anniversary/ladd.html</a><br>
             Florence Cawthorne Ladd, personal communication.<br>
-            <i>Cambridge Chronicle</i> 11 September 1975.
+            <i>Cambridge Chronicle</i>, 11 September 1975.
         `,
         photos: ["images_bios/Florence%20Ladd%20small.jpeg"],
         photoTitles: [],
@@ -106,7 +106,7 @@ l_bios = [
         references: `
             Doug Holder &#8220;Farewell, to the editor of <i>Spare Change </i>Newspaper
             in Cambridge, MA.&#8221;.<br>
-             <i>Cambridge Chronicle</i> January 29, 2002.<br>
+             <i>Cambridge Chronicle</i>, January 29, 2002.<br>
           
        <br> Image from Doug Holder blogspot:<br>
        <a class='indent' href="https://dougholder.blogspot.com/2012/01/linda-larson-poet-who-writes-what-she.html" >https://dougholder.blogspot.com/2012/01/linda-larson-poet-who-writes-what-she.html</a>`,

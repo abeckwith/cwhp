@@ -129,7 +129,7 @@ o_bios = [
         otherNotes: "",
         references: ` &quot;Friend of Longfellow: Playmate of Lowell,&quot;
             obituary of Caroline F. Orne. <br>
-            <i>Cambridge Chronicle</i> February 11, 1905.<br>
+            <i>Cambridge Chronicle</i>, February 11, 1905.<br>
             Orne family biographies and landmark
                 report for Orne's home at 107 Auburn Street, Cambridge Historical Commission.
             <i>Who's Who in America</i> (1905).<br>

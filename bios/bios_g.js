@@ -373,7 +373,7 @@ g_bios = [
             `,
         otherNotes: "",
         references: `
-            Obituary, <i>The Boston Globe</i> , May 14, 2008. <br>
+            Obituary, <i>The Boston Globe</i>, , May 14, 2008. <br>
             Bryan Marquard. &#8220;Miriam Goodman, 69; poet also nurtured others' art&#8221;
             <i>The Boston Globe</i>, May 16, 2008.
            <br>

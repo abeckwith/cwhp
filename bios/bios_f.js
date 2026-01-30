@@ -249,7 +249,7 @@ f_bios = [
     Nomination by Robin Hein<br>Source: Cambridge newspapers.<br>
     Image from picyrl.com:<br>
      <a class='indent' href="https://itoldya420.getarchive.net/amp/media/illustration-from-the-adventures-of-nils-by-mary-hamilton-frye-page-154-42ec0d">https://itoldya420.getarchive.net/amp/media/illustration-from-the-adventures-of-nils-by-mary-hamilton-frye-page-154-42ec0d</a>
-    <br><i>The Boston Globe</i> Jun 17, 1921, page 11.
+    <br><i>The Boston Globe</i>, Jun 17, 1921, page 11.
         <br><i>The Houston Post</i>  Dec 07, 1913, page 56.
     `    ,
         photos: ["images_bios/frye.jpg", "images_bios/frye2.png"],
@@ -401,7 +401,7 @@ In
         references: `
 
         <i>The Cambridge Chronicle</i>, 5 March 1910.<br>
-        <i>The Boston Globe</i> Sep 4 1906, Oct 16, 1908, Sep 24, 1909, Mar 22, 1916.<br>
+        <i>The Boston Globe</i>, Sep 4 1906, Oct 16, 1908, Sep 24, 1909, Mar 22, 1916.<br>
         <i>Massachusetts, U.S., Marriage Records</i>, 1840-1915.<br>
         Schlesinger Library, Radcliffe Oral History Project:<br> 
         <a class='indent' href="https://iiif.lib.harvard.edu/manifests/view/drs:45177050$15i">https://iiif.lib.harvard.edu/manifests/view/drs:45177050$15i</a><br>

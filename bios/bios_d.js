@@ -81,7 +81,7 @@ d_bios = [
         otherNotes: "",
         references: `<i>Teaching Tolerance</i> magazine, Number
             24, Fall 2003.
-            <br><i>Cambridge Chronicle</i> 30 Nov 1972.
+            <br><i>Cambridge Chronicle</i>, 30 Nov 1972.
         `,
         photos: ["images_bios/dandelion.png"],
         photoTitles: ["November 28, 1985 Cambridge Chronicle ad"],
@@ -198,7 +198,7 @@ d_bios = [
         Tribute to Women Award in 1993. 
             `,
         otherNotes: "",
-        references: ` <i>Cambridge Chronicle</i> May 4, 1961, 4 February 1965, 10 January 1974, Jan 17, 2001.
+        references: ` <i>Cambridge Chronicle</i>, May 4, 1961, 4 February 1965, 10 January 1974, Jan 17, 2001.
         <br>Image from <i>The Boston Globe</i>Sept. 13, 1993.
         <br><i>U.S., Social Security Applications and Claims Index</i>, 1936-2007.
         <br>FindAGrave.com:<br>
@@ -264,7 +264,7 @@ d_bios = [
         work of six CPD detectives and officers and Darling was one of them.  In 1977, 
         at age 57, Darling was selected as the top police officer of the year for 
         Massachusetts - she had served for 27 years at that point.   In 1979, she 
-        was quoted in the <i>Cambridge Chronicle</i> lamenting the closing of the feminist 
+        was quoted in the <i>Cambridge Chronicle</i>, lamenting the closing of the feminist 
         Boston Area Rape Crisis Center (located in Cambridge) saying that the center
         was a good resource and that there are "very nice, very capable, and very dedicated" people there. <br><br>
 
@@ -275,7 +275,7 @@ d_bios = [
         otherNotes: "",
         references: ` 
 
-        <i>Cambridge Chronicle</i>  17 December 1953, 30 March 1967, 3 May 1977, 18 October 1979.<br>
+        <i>Cambridge Chronicle</i>,  17 December 1953, 30 March 1967, 3 May 1977, 18 October 1979.<br>
         <i>The Boston Globe</i>, July 17 1995. <br>
         Cambridge Police Department History:<br>
         <a class='indent' href="https://www.cambridgema.gov/Departments/cambridgepolice/aboutthedepartment/departmenthistory">https://www.cambridgema.gov/Departments/cambridgepolice/aboutthedepartment/departmenthistory</a><br>
@@ -355,7 +355,7 @@ d_bios = [
                 <i>Cambridge Day</i>, October 31, 2024. <br>
                 Interview with Sarah Boyer:<br>
                 <a class='indent' href="https://www.cambridgeday.com/2024/03/31/sarah-boyers-coming-out-becoming-ourselves-takes-daughters-from-secret-society-to-acceptance/">https://www.cambridgeday.com/2024/03/31/sarah-boyers-coming-out-becoming-ourselves-takes-daughters-from-secret-society-to-acceptance/</a><br>
-                <i>Cambridge Chronicle</i> October 30, 1981, 5 April 1984, 11 November 1993.
+                <i>Cambridge Chronicle</i>, October 30, 1981, 5 April 1984, 11 November 1993.
 
 
         `,
@@ -684,7 +684,7 @@ d_bios = [
             <a class='indent' href="http://www.cervenabarvapress.com/der-hovanessianinterview.htm">
             http://www.cervenabarvapress.com/der-hovanessianinterview.htm</a><br>
             <i>The Cambridge Chronicle</i>, 9 June 1988.<br>
-            <i>The Boston Globe</i> obit, March 4, 2018.
+            <i>The Boston Globe</i>, obit, March 4, 2018.
         `,
         photos: ["images_bios/der_hovanessian.jpg"],
         photoTitles: [],
@@ -1033,7 +1033,7 @@ d_bios = [
             &#8220;Hiroshima Flame at New York's Ground Zero&#8221; <i>PeaceWork</i>,
             September 2002.<br>
             Vanessa E. Jones &quot;The way of oneness&quot;.<br>
-            <i>The Boston Globe</i> April 19, 2006.<br>
+            <i>The Boston Globe</i>, April 19, 2006.<br>
             Undoing Silence website:<br>
             <a class='indent' href="http://www.undoingsilence.org">http://www.undoingsilence.org</a>
         `,

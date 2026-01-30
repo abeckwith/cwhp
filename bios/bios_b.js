@@ -344,7 +344,7 @@ b_bios = [
         The Cambridge Chronicle</i>, November 9, 1901.
         `,
         photos: ["images_bios/BarlowNov91901.png"],
-        photoTitles: ["Cambridge Chronicle November 9, 1901"],
+        photoTitles: ["Cambridge Chronicle,November 9, 1901"],
         dateCreated: "prior to 2009",
         dateUpdated: "11.14.2025",
 
@@ -394,10 +394,10 @@ b_bios = [
 
             `,
         otherNotes: "",
-        references: ` <i>The Boston Globe</i> June 25, 1999.<br>
+        references: ` <i>The Boston Globe</i>, June 25, 1999.<br>
         <i>The Cambridge Chronicle</i>,  17 June 1999.
         <br><i>Cambridge City Directory</i>, 1965.<br>
-        <i>The Boston Globe</i> Sep 12, 1945.
+        <i>The Boston Globe</i>, Sep 12, 1945.
 
         `,
         photos: ["images_bios/barnes.png"],
@@ -551,7 +551,7 @@ b_bios = [
         Jun. 16, 1966<br>Jan. 12, 1967<br>
         June 8, 1995<br>June 12, 1997<br>
         April 25, 2001<br>
-        Images from <i>The Boston Globe</i>  Apr 24, 2001, March 3, 2014.
+        Images from <i>The Boston Globe</i>,  Apr 24, 2001, March 3, 2014.
         `,
         photos: ["images_bios/barron3.png", "images_bios/barron2.png"],
         photoTitles: ["", "The Cambridge Chronicle, 12 January 1967"],
@@ -1124,7 +1124,7 @@ b_bios = [
             &#8220;Remembering Mrs McIntosh &#8220; <i>Chronicle of Higher Education</i>,
             Feb 9, 2002<br>&#8220;Meet the Writers: Anne Bernays&#8221; (includes interview)
             Barnes and Noble website.<br>
-            <i>The Cambridge Chronicle</i> 2 May 1968.<br>
+            <i>The Cambridge Chronicle</i>, 2 May 1968.<br>
             2024 Interview with Anne Bernays on <i>Aging and the Creative Process</i> WordPress site:<br>
             <a class='indent' href="https://patlc.wordpress.com/interview-with-anne-bernays/">https://patlc.wordpress.com/interview-with-anne-bernays/</a>
           
@@ -1490,7 +1490,7 @@ b_bios = [
             `,
         otherNotes: "",
         references: ` <i>The Boston Globe </i>September 3, 2007, obituary.<br>
-            <i>Cambridge Chronicle</i> obituary, August 23, 2007.<br>
+            <i>Cambridge Chronicle</i>, obituary, August 23, 2007.<br>
             <i>The Cambridge Chronicle</i>, 20 April 1995.<br>
                <i>The Boston Globe</i>, Oct 08, 1989, Page 443.
 
@@ -1549,7 +1549,7 @@ b_bios = [
 
             `,
         otherNotes: "",
-        references: ` <i>Cambridge Chronicle</i> June 13, 2001.<br>
+        references: ` <i>Cambridge Chronicle</i>, June 13, 2001.<br>
         <i>Cambridge Chronicle</i>, 2 June 1983.<br>
         <i>Cambridge City Directory</i>, 1968.
 
@@ -2385,7 +2385,7 @@ b_bios = [
 
             `,
         otherNotes: "",
-        references: ` <i>Cambridge Chronicle</i> Oct. 20, 1999, 4 December 1975
+        references: ` <i>Cambridge Chronicle</i>, Oct. 20, 1999, 4 December 1975
         <br><I>Cambridge City Directory</i>, 1954<br>
         <i>Cambridge High and Latin yearbook</i>, 1917<br>
         <i>Massachusetts Birth Records</i>, 1840-1915
@@ -2559,7 +2559,7 @@ b_bios = [
             <br><br> She participated
             as a member of the <a href="bios.html?lNm=BackPorchDanceCompany&mNm=&fNm=">Back Porch Dance 
             Company</a>.
-            Burke was quoted in a January 1991 <i>Cambridge Chronicle</i> article describing her very 
+            Burke was quoted in a January 1991 <i>Cambridge Chronicle</i>, article describing her very 
             musical Cape Verdean family and that they would celebrate 
             the holidays by dancing the mazurka:
             
@@ -2575,7 +2575,7 @@ b_bios = [
 
             `,
         otherNotes: "",
-        references: `<i>Cambridge Chronicle</i> May 7, 1959, January 29, 1991, September 30, 1999.
+        references: `<i>Cambridge Chronicle</i>, May 7, 1959, January 29, 1991, September 30, 1999.
         <br><i>The Boston Globe</i>
         Thu, Sep 30, 1999, page 77.
         `,
@@ -2621,7 +2621,7 @@ b_bios = [
             
             `,
         otherNotes: "",
-        references: ` <i>Cambridge Chronicle</i>  16 April 1953, 12 August 1999.
+        references: ` <i>Cambridge Chronicle</i>,  16 April 1953, 12 August 1999.
 
         `,
         photos: [""],
@@ -2668,7 +2668,7 @@ b_bios = [
 
             `,
         otherNotes: "",
-        references: `<i>Cambridge Chronicle</i> July 22, 1999, April 3, 2002.<br>
+        references: `<i>Cambridge Chronicle</i>, July 22, 1999, April 3, 2002.<br>
         <i>The Cambridge Chronicle</i>, 8 January 1970.
 
         `,
@@ -2717,7 +2717,7 @@ b_bios = [
 
             `,
         otherNotes: "",
-        references: `<i>Cambridge Chronicle</i> 2 February, 2000.
+        references: `<i>Cambridge Chronicle</i>, 2 February, 2000.
         <br><i>Cambridge City Directory</i>, 1972.<br>
         <i>The Cambridge Tribune</i>, 23 November 1918.<br>
         <i>U.S. Census</i> 1910, 1920, 1930.<br>
@@ -2772,7 +2772,7 @@ b_bios = [
 
             `,
         otherNotes: "",
-        references: ` <i>Cambridge Chronicle</i> Sept. 16, 1999.<br>
+        references: ` <i>Cambridge Chronicle</i>, Sept. 16, 1999.<br>
         <i>US Census</i> 1910, 1941.<br>
         King Institute at Stanford University:
         <br>

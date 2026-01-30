@@ -117,7 +117,7 @@ p_bios = [
             and a peace activist, in his role as book editor of the <i>Scientific American</i>.
             She died in Cambridge at the age of ninety-five.`,
         otherNotes: "",
-        references: `Avi Steinberg in <i>The Boston Globe</i> July 19, 2005.<br>
+        references: `Avi Steinberg in <i>The Boston Globe</i>, July 19, 2005.<br>
             <i>Monthly Review</i>, December 1995.<br>
             <i>Cambridge City Directory</i>, 1968.<br>
             Photo credit: Alabama Holocaust Education Center, received from Steven Rasmussen, son of Lore May Rasmussen, a colleague of Fritz Pappenheim at Talladega College:
@@ -421,7 +421,7 @@ p_bios = [
          <a class='indent' href="https://www.legacy.com/us/obituaries/wickedlocal-cambridgechronicle/name/kaethe-peters-obituary?id=20281318">
         https://www.legacy.com/us/obituaries/wickedlocal-cambridgechronicle/name/kaethe-peters-obituary?id=20281318</a> <br>
          <I>City Directory</i> 1965. <br>
-        <i>The Cambridge Chronicle</i> 25 July 1985 &  8 December 1999.
+        <i>The Cambridge Chronicle</i>, 25 July 1985 &  8 December 1999.
         <br><i>The Boston Globe</i>, November 22, 2012: <br>
         <a class='indent' href="https://www.bostonglobe.com/metro/obituaries/2012/11/22/kaethe-peters-cambridge-longtime-social-worker-educator/y50M8As1eXlni67qqiTd3I/story.html">
         https://www.bostonglobe.com/metro/obituaries/2012/11/22/kaethe-peters-cambridge-longtime-social-worker-educator/y50M8As1eXlni67qqiTd3I/story.html</a>

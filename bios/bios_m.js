@@ -843,7 +843,7 @@ m_bios = [
                 Journey: A Life From Art</i>.( Berkeley, New Earth Publications) 1995. <br>
            
         <br>Image from wikipedia:<br><a  class='indent'  href="https://en.wikipedia.org/wiki/Maud_Morgan" >https://en.wikipedia.org/wiki/Maud_Morgan</a>.<br>
-        <i>The Boston Globe</i> "Nevertheless, they persisted: standout New England women painters",
+        <i>The Boston Globe</i>, "Nevertheless, they persisted: standout New England women painters",
 by Cate McQuaid,, April 12, 2017.    
         `,
         photos: ["images_bios/MaudCabot.png"],
@@ -1116,8 +1116,8 @@ by Cate McQuaid,, April 12, 2017.
         references: `
           Wikipedia profile:<br><a class='indent' href="https://en.wikipedia.org/wiki/Rosario_Morales" >https://en.wikipedia.org/wiki/Rosario_Morales</a>.
           <br>
-        <i>Cambridge Chronicle</i> articles from 1982-1990.<br>
-        <i>The Boston Globe</i> March 4, 1982.<br>
+        <i>Cambridge Chronicle</i>, articles from 1982-1990.<br>
+        <i>The Boston Globe</i>, March 4, 1982.<br>
        Smith College interview:<br> <a class='indent'  href="https://www.smith.edu/libraries/libs/ssc/vof/transcripts/Morales.pdf" >https://www.smith.edu/libraries/libs/ssc/vof/transcripts/Morales.pdf</a>.<br>
        Images source: Aurora Morales. <br>
        1989 Cambridge Phone Book.

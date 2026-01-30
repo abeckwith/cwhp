@@ -48,7 +48,7 @@ h_bios = [
         references: `
             Charles Hopkinson collection, Smithsonian Archives of American Art.<br>
             Papers, 1797-1991 of the Curtis family, Schlesinger Library<i>.<br>
-                Cambridge Chronicle</i> October 21, 1993.<br>
+                Cambridge Chronicle</i>, October 21, 1993.<br>
             Corrections and additions by her children.<br>
             <i>Cambridge City Directory</i>, 1961.
         `,
@@ -104,7 +104,7 @@ h_bios = [
             national and local groups and to support liberal causes. She was awarded many
             honorary degrees in her retirement years.`,
         otherNotes: "",
-        references: ` <i>Cambridge Chronicle</i> Sept. 20, 2000<br>
+        references: ` <i>Cambridge Chronicle</i>, Sept. 20, 2000<br>
          Barbara
             Sicherman. <i>Alice Hamilton M.D.: A life in Letters</i>. Harvard University
             Press, 1984.<br>
@@ -371,7 +371,7 @@ h_bios = [
         otherNotes: "",
         references: ` <i>The Witness</i> magazine Monday, July 15,
             2002.<br>
-             <i>Cambridge Chronicle</i> June 5 2002. 
+             <i>Cambridge Chronicle</i>, June 5 2002. 
              <br>Biographical note, Archive of
             Women in Theological Scholarship by Leslie Reyman: (October 2000). <br>
             &nbsp;&nbsp;&nbsp;&nbsp;<a

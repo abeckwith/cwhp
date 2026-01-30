@@ -948,7 +948,7 @@ c_bios = [
         references: `Written by Kimm Topping, printed in <i>Mapping Feminist Cambridge</i>
             guidebook, 2019: <a
                 href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a>
-<br>Photo: Cambridge Chronicle 24 October 1989.
+<br>Photo: Cambridge Chronicle,24 October 1989.
         `,
         photos: ["images_bios/clayground.png"],
         photoTitles: [],
@@ -1260,7 +1260,7 @@ c_bios = [
             <br><a class='indent' 
                 href="http://www.massjwj.net/node/653">http://www.massjwj.net/node/653</a>
             <br>
-            <i>Cambridge Chronicle</i> December 21, 2006.
+            <i>Cambridge Chronicle</i>, December 21, 2006.
         `,
         photos: [""],
         photoTitles: [],
