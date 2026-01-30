@@ -648,15 +648,24 @@ c_bios = [
             By 1968, she was asked to present a television cooking show for WGBH (PBS) &#8220;Joyce
             Chen Cooks&#8221;. In time, she opened restaurants in various locations in Cambridge,
             including ones in Central Square, on Memorial Drive, on Rindge Avenue, and in Boston. 
-            
-            Chen also
-            introduced a line of cookware. <br><br>
+             Chen also introduced her own line of cookware. <br><br>
             
             She had been a very popular local. figure, often welcoming
             guests to her restaurant. In the 1980s she developed Alzheimer's disease and when she died in
              1994, her restaurants began to close, the last
             one four years after her death. Her three children continued her retail,
-            cookware, and Chinese food businesses.`,
+            cookware, and Chinese food businesses.<br><br>
+            
+            The Boston Globe ran a remembrance of Chen after her death, in which they wrote
+            of her restaurant:
+            
+            <blockquote>
+            In the 1960s, Joyce Chen was the most famous Chinese restauran in America.
+            Her food captured the fancy of blue-collar workers and academics and even food
+            critics. Nathan Pusey, then president of Harvard, dine at Joyce Chen, as did John
+            Kenneth Galbraith, James Beard, Julia Child, and Henry Kissinger."
+            </blockquote>
+            `,
         otherNotes: "",
         references: ` <i>Boston</i> <i>Globe</i>, May 19, 1994.
             
@@ -666,7 +675,7 @@ c_bios = [
         photos: ["images_bios/joycechen.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "01.10.2026",
+        dateUpdated: "01.30.2026",
 
         photoHeights: [],
         editors: "Anthony Beckwith",

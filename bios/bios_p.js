@@ -295,10 +295,37 @@ p_bios = [
  
             Sylvia Piltch was born in Cambridge March 8, 1925,
             the youngest of six children. Her father, Hyman, came from Poland, her mother,
-            Rebecca (Andelman) from Romania. The family lived at 167 Willow Streetin Cambridge. As a youngster, she took on unusual jobs for
+            Rebecca (Andelman) from Romania. The family lived at 167 Willow Streetin Cambridge. 
+            As a youngster, she took on unusual jobs for
             a girl of her day, shining shoes and delivering newspapers, a mind set to which
-            she attributes her later successes. 
+            she attributes her later successes. She attended the Longfellow school and Cambridge High and Latin.
             <br><br>
+
+            In a 1977 Cambridge Chronicle article, entitled, "Valiant Miss Piltch...", Dan McLaughlin wrote that...
+           
+            <blockquote>
+            "Long before Women's Lib, Sylvia Piltch, of Dana St., Cambridge, chief physical therapist at
+             Cambridge Hospital, was fighting for girls' rights. 
+             More than 30 years ago, when she was eight 
+             years old, she sold newspapers on the streets of East Cambridge to help support six younger
+              children in the family, after her father's death. 
+              
+              <br><Br>
+              "She grew up during an era when male chauvanism was a rugged 
+              way of life for boys—and girls didn't have a chance. Sylvia, however, didn't run 
+              from the bullies—she fought and won. 
+              "One day as she was selling her papers, some neighborhood 
+              toughs robbed her of $6.34. Police visited the boys' parents, explained the situation, and the 
+              money was returned. That was the end of the matter as far as police were concerned, but Sylvia's
+               pride was hurt, and she didn't forget that. She waited 
+            until she could confront each of the three boys separately and gave each a thrashing. 
+            
+            <br><Br>
+            "The boys didn't 
+            complain to police. How could they tell that a girl beat them up? “We solved our problems in the
+             neighborhood in those days,” Sylvia recalled. The little skirmishes paid off. She became 
+             a basketball star at Cambridge High and Latin School, and was named the best girl athlete in 1942."
+            </blockquote>
             
             As soon as the Second World War was declared,
             Sylvia responded by becoming an air raid warden. During the war, she attended
@@ -309,16 +336,19 @@ p_bios = [
             Post 35 or the Ladies Auxiliary so it is not surprising that perhaps Sylvia's
             greatest contribution to the war effort was as a member of the Jewish War Veterans
             Auxiliary, visiting and entertaining &#8220;the boys&#8221; at many area hospitals,
-            including the Chelsea Naval and Brighton Marine hospitals. In 1947, Sylvia was
-            named president of the Cambridge auxiliary; and at the age of 25, in 1950, she
-            was named state president. In 1958, she was elected national president of the
-            Jewish War Veterans Ladies Auxiliary. <br><br>
+            including the Chelsea Naval and Brighton Marine hospitals.<Br><Br>
+            
+            In 1946, she won a scholarship under the National Foundation for Infantile Paralysis and in 1947 (at age 22) was
+            named president of the Cambridge Jewish War Veterans auxiliary.  In 1950, she
+            was named state president and she continnued in that position at least until 1958. In
+            1950, Cambridge branch set aside May 11, 1950 as "Sylvia Plitch Night" to honor her service. <br><br>
 
             Throughout her professional career, Sylvia Piltch pursued an extensive, pioneering
             career in physical therapy, founding the physical therapy department at Cambridge
             Hospital. She continued to be involved in many community activities, leading
             exercise classes for seniors at the Citywide Senior Center, the North Cambridge
-            Senior Center, and the Cambridge Public Library. 
+            Senior Center, and the Cambridge Public Library. In 1970, she was the chief Physical Therapist
+            at Cambridge Hospital.
             
             <br><br>In 1999, she was recognized
             by the Senior Volunteer Clearinghouse with an award in recognition of her volunteer
@@ -326,19 +356,22 @@ p_bios = [
         otherNotes: "",
         references: ` Oral interview by Sarah Boyer.<br>
             &quot;A Century of Shalom &#8211; History: A History of the Organized Jewish
-            Community in ambridge,&quot;.<br>
-            Image from legacy.com<:Br>
+            Community in Cambridge,&quot;.<br>
+            Image from legacy.com<br>
             <a class='indent' href="https://www.legacy.com/us/obituaries/bostonglobe/name/sylvia-piltch-obituary?id=17084405">
             https://www.legacy.com/us/obituaries/bostonglobe/name/sylvia-piltch-obituary?id=17084405</a><br>
             <i>Cambridge City Directory</i>, 1931.
+            <i>Cambridge Chronicle</a>, 13 June 1946, 4 May 1950, 29 October 1970.
+            <i>Boston Herald American's Cambridge Rambler</i>, 24 September 1977.
+
         `,
         photos: ["images_bios/piltch.jpeg"],
         photoTitles: [""],
         dateCreated: "prior to 2009",
-        dateUpdated: "04.12.2025",
+        dateUpdated: "01.30.2026",
 
         photoHeights: ["200"],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Physical Therapist ", "Volunteer"],
     },
