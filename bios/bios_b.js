@@ -64,9 +64,9 @@ b_bios = [
             
             `,
         otherNotes: "",
-        references: ` <em>MIT Tech Talk</em>, May 17 2000. <br>
+        references: ` <i>MIT Tech Talk</i>, May 17 2000. <br>
         Iris Fanger,
-            &#8220;Women's Work Informs Back Porch Project&#8221<br> <em>Dance Magazine</em>,
+            &#8220;Women's Work Informs Back Porch Project&#8221<br> <i>Dance Magazine</i>,
             May 2000.<br>
             <i>Cambridge Chornicle</i> 29 January 1991, 21 October 1993, 17 April 1997.
 
@@ -106,7 +106,7 @@ b_bios = [
             to Bryn Mawr College, graduating in its first senior class in 1889. She went
             on to study sociology and went to Paris on a Bryn Mawr fellowship in 1890-1891
             to study economics with Emile Levasseur. As a result, she published her first
-            book, <em>Public Assistance of the Poor in France</em> (1893).
+            book, <i>Public Assistance of the Poor in France</i> (1893).
             
             <br><br> 
             
@@ -141,7 +141,7 @@ b_bios = [
             <br><br>
             
             Balch began to serve as an editor of the liberal
-            journal, the <em>Nation</em>, and attended the second International Congress
+            journal, the <i>Nation</i>, and attended the second International Congress
             of Women in 1919, held in Zurich. There she was designated secretary of the
             new organization Women's International League for Peace and Freedom (WILPF),
             headquartered in Geneva where she remained until 1922. (She would serve as unpaid
@@ -149,8 +149,8 @@ b_bios = [
             to assist a variety of commissions and international groups, including working
             for the League of Nations on topics such as disarmament, aviation, and drug
             control. For WILPF, she studied conditions in Haiti, then occupied by U.S. marines,
-            and edited and was the primary contributor for the report published as <em>Occupied
-                Haiti </em>(1926) that was significant in causing the U.S. to withdraw.
+            and edited and was the primary contributor for the report published as <i>Occupied
+                Haiti </i>(1926) that was significant in causing the U.S. to withdraw.
                 
                 <br><br> 
                 
@@ -177,12 +177,12 @@ b_bios = [
             `,
         otherNotes: "",
         references: ` 
-            <em>Notable American Women: The Modern Period</em> (1980).<br>
+            <i>Notable American Women: The Modern Period</i> (1980).<br>
             NobelPrize.org:<br>
             <a class='indent' href="http://nobelprize.org/nobel_prizes/peace/laureates/1946/balch-bio.html">http://nobelprize.org/nobel_prizes/peace/laureates/1946/balch-bio.html</a>
             <br>
-            Mercedes M. Randall, <em>Improper Bostonian: Emily Greene Balch, Nobel Peace
-            Laureate</em>, 1946, (Twayne Publishers, 1964).<br>
+            Mercedes M. Randall, <i>Improper Bostonian: Emily Greene Balch, Nobel Peace
+            Laureate</i>, 1946, (Twayne Publishers, 1964).<br>
             Image from wikipedia.com: <br>
             <a class='indent' href="https://en.wikipedia.org/wiki/Emily_Greene_Balch">https://en.wikipedia.org/wiki/Emily_Greene_Balch</a><br>
             <i>The Cambridge Chronicle</i>, Feb. 10, 1900, May 10 1913, Jan. 3 1957.
@@ -269,7 +269,7 @@ b_bios = [
 
             `,
         otherNotes: "",
-        references: ` <em>Notable American Women</em> (1609-1950) Vol I.<br> 
+        references: ` <i>Notable American Women</i> (1609-1950) Vol I.<br> 
         Baldwin school<br>
         <a class='indent' href="https://baldwin.cpsd.us/">https://baldwin.cpsd.us/</a>
             <br>Image from wikipedia<br>
@@ -339,9 +339,9 @@ b_bios = [
 
             `,
         otherNotes: "",
-        references: ` <em>The Boston Globe</em>, November 9, 1901.<br>
-        <em>
-        The Cambridge Chronicle</em>, November 9, 1901.
+        references: ` <i>The Boston Globe</i>, November 9, 1901.<br>
+        <i>
+        The Cambridge Chronicle</i>, November 9, 1901.
         `,
         photos: ["images_bios/BarlowNov91901.png"],
         photoTitles: ["Cambridge Chronicle November 9, 1901"],
@@ -394,8 +394,8 @@ b_bios = [
 
             `,
         otherNotes: "",
-        references: ` <em>The Boston Globe</em> June 25, 1999.<br>
-        <em>The Cambridge Chronicle</em>,  17 June 1999.
+        references: ` <i>The Boston Globe</i> June 25, 1999.<br>
+        <i>The Cambridge Chronicle</i>,  17 June 1999.
         <br><i>Cambridge City Directory</i>, 1965.<br>
         <i>The Boston Globe</i> Sep 12, 1945.
 
@@ -427,8 +427,8 @@ b_bios = [
 
             Mary Bancroft, author and intelligence officer
             for the Office of Strategic Services, was born in Cambridge, Massachusetts, in 1903
-            to Mary Agnes (Cogan) and Hugh Bancroft, later publisher of <em>The Wall Street
-                Journal</em>. Her mother, who studied at Radcliffe College, died soon after
+            to Mary Agnes (Cogan) and Hugh Bancroft, later publisher of <i>The Wall Street
+                Journal</i>. Her mother, who studied at Radcliffe College, died soon after
             Mary was born. As a child, Bancroft lived at 12 Ware Street and went to the Winsor School, in Boston
             in 1921. She entered Smith College in 1922, but left college after three months,
             and soon after married Sherwin Badger, figure skating champion, who had graduated
@@ -450,8 +450,8 @@ b_bios = [
             envoy to Switzerland who was involved in the early plots against Hitler. After
             the war, she divorced her Swiss husband in 1947, and then worked as a freelance
             journalist and translator. She returned to America in 1953, settling in New
-            York City, where she lectured professionally and wrote novels, including <em>Upside
-            Down in the Magnolia Tree</em> (1952), and <em>The Inseparables</em> (1958).
+            York City, where she lectured professionally and wrote novels, including <i>Upside
+            Down in the Magnolia Tree</i> (1952), and <i>The Inseparables</i> (1958).
 
             <blockquote>
             "This is a deliciously nostalgic book about a little girl, Kathy (Mrs. Bancroft),
@@ -463,15 +463,15 @@ b_bios = [
             </blockquote>
 
             She continued to work as a translator and publish book reviews. In 1983, she
-            published a memoir, <em>Autobiography of a Spy</em>. 
+            published a memoir, <i>Autobiography of a Spy</i>. 
             
             <br><br>
             
             Bancroft became involved in Democratic politics,
             working on various campaigns. She continued her interest in Jungian psychology
             through her correspondence and membership in the Analytical Psychology Club
-            of New York and the Jung Foundation and sat on the editorial board of <em>Psychological
-                Perspectives</em> as consultant and book reviewer. She died in Manhattan on
+            of New York and the Jung Foundation and sat on the editorial board of <i>Psychological
+                Perspectives</i> as consultant and book reviewer. She died in Manhattan on
             January 10, 1997. Her papers were given to the Schlesinger library.
 
             `,
@@ -547,11 +547,11 @@ b_bios = [
 
             `,
         otherNotes: "",
-        references: `<em>Cambridge Chronicle:</em><br>
+        references: `<i>Cambridge Chronicle:</i><br>
         Jun. 16, 1966<br>Jan. 12, 1967<br>
         June 8, 1995<br>June 12, 1997<br>
         April 25, 2001<br>
-        Images from <em>Boston Globe</em>  Apr 24, 2001, March 3, 2014.
+        Images from <i>The Boston Globe</i>  Apr 24, 2001, March 3, 2014.
         `,
         photos: ["images_bios/barron3.png", "images_bios/barron2.png"],
         photoTitles: ["", "The Cambridge Chronicle, 12 January 1967"],
@@ -590,16 +590,16 @@ b_bios = [
             Henry Wadsworth Longfellow from 1866 to 1882 and assisted Longfellow in compiling
             
 
-            <em>Poems of Places</em> in a series of small volumes between 1875 and 1878,
-            making ten translations for the work. She also edited the <em>Longfellow Birthday-Book</em>.
-            She is best known for <em>The Seven Voices of Sympathy</em> (1881) a compilation
+            <i>Poems of Places</i> in a series of small volumes between 1875 and 1878,
+            making ten translations for the work. She also edited the <i>Longfellow Birthday-Book</i>.
+            She is best known for <i>The Seven Voices of Sympathy</i> (1881) a compilation
             of Longfellow's prose and poetry. She issued a selection of poems from English
-            and American authors in the <em>Cambridge Book of Poetry and Song</em> (1882).
+            and American authors in the <i>Cambridge Book of Poetry and Song</i> (1882).
             
             <br><br>
             
-            In the late 1880s, she began to publish her poetry in <em>Lippincott</em> magazine
-            and <em>Century</em> magazine on a regular basis and moved to New York City
+            In the late 1880s, she began to publish her poetry in <i>Lippincott</i> magazine
+            and <i>Century</i> magazine on a regular basis and moved to New York City
             although she kept her ties to Cambridge. In 1891 she married a Frenchman, Adolphe
             Rog&eacute;, who died five years later. She organized and read at a Longfellow
             memorial meeting at Sanders theater that raised money for the Longfellow fund.
@@ -615,9 +615,9 @@ b_bios = [
         otherNotes: "",
         references: ` Houghton Library archives under Rog&eacute; (Henry
             Wadsworth Longfellow collection)<br>
-            <em>Appleton encyclopedia</em><br>
+            <i>Appleton encyclopedia</i><br>
              Frances E
-            Willard and Mary A. Livermore, <em>American Women: Fifteen Hundred Biographies</em>
+            Willard and Mary A. Livermore, <i>American Women: Fifteen Hundred Biographies</i>
             (1897).
             <br>Image from wikimedia commons.
         `,
@@ -734,7 +734,7 @@ b_bios = [
 
             `,
         otherNotes: "",
-        references: ` Mary Towle Palmer. <em>The Story of the Bee</em>.
+        references: ` Mary Towle Palmer. <i>The Story of the Bee</i>.
             Riverside Press, Cambridge 1924 (held in Schlesinger Library, Radcliffe).
         `,
         photos: [""],
@@ -803,7 +803,7 @@ b_bios = [
             US Navy. She later founded the Montessori Education Association and became its
             president. She also opened a school in Washington, D.C. and started the magazine of the Montessori Education 
             Association,
-            <em>Freedom for the Child</em>.
+            <i>Freedom for the Child</i>.
             
             <br><br>
             
@@ -816,11 +816,11 @@ b_bios = [
         otherNotes: "",
         references: `
             Bell Family Papers, Library of Congress, Washington DC, Lilias M Toward.
-            <br><em>Mabel Bell: Alexander's Silent Partner</em> (Methuen, 1984).
+            <br><i>Mabel Bell: Alexander's Silent Partner</i> (Methuen, 1984).
             <br>
-            Ann J. Bishundayal, <em>Mabel Hubbard Bell</em> Protea Publishing Company, 2002.<br>
-            Waite, Helen <em>Make a Joyful Sound Romance of Mabel Hubbard and Alexander
-            Graham Bell</em>, Philadelphia: Mcrae Smith 1961.
+            Ann J. Bishundayal, <i>Mabel Hubbard Bell</i> Protea Publishing Company, 2002.<br>
+            Waite, Helen <i>Make a Joyful Sound Romance of Mabel Hubbard and Alexander
+            Graham Bell</i>, Philadelphia: Mcrae Smith 1961.
             <br>Image from wikimedia commons.
             <br>Street address from 1873 Hopkins Map, Cambridge Historical Commission.<br>
             <i>Mabel Bell, the Driving Force Behind Alexander Graham Bell</i>, Assoc. for the Deaf and Hard of Hearing:
@@ -886,9 +886,9 @@ b_bios = [
             `,
         otherNotes: "",
         references: ` Ozeline (Pearson) Wise papers and biographical information,
-            Schlesinger Library. An oral biography is included in the <em>Black Women Oral
+            Schlesinger Library. An oral biography is included in the <i>Black Women Oral
                 History
-                Project</em>of Schlesinger Library.
+                Project</i>of Schlesinger Library.
                 <br>
                 <i>The Cambridge Chronicle</i>, 23 July 1921.<br>
                 <i>The Cambridge Chronicle</i>, 15 June 1967.<br>
@@ -966,7 +966,7 @@ b_bios = [
             
             <br><br>
             
-            Between 1985 and 1999, she and Larry published <em>Orienteering North America</em>,
+            Between 1985 and 1999, she and Larry published <i>Orienteering North America</i>,
             a national magazine about the sport. In 1997, they began operating Berman's
             Orienteering Supply, a mail order business.
             
@@ -985,8 +985,8 @@ b_bios = [
         references: `
 
             Tony Chamberlain. &#8220;Berman, a women's movement unto herself with 3 unofficial
-            wins&#8221; <em>Boston Globe</em>, April 16, 2006.<br>
-            Hal Higdon, <em>Boston: A Century of Running</em> (1995).<br>
+            wins&#8221; <i>The Boston Globe</i>, April 16, 2006.<br>
+            Hal Higdon, <i>Boston: A Century of Running</i> (1995).<br>
             Sara Mae Berman, personal communication.<br>
             Photograph by Jaye R. Phillips, from the personal collection of Sara Mae Berman.<br>
 
@@ -1082,8 +1082,8 @@ b_bios = [
             <br><br>
             
             Among the
-            best known of her novels are <em>Growing up Rich</em> (1975) and <em>Professor
-                Romeo</em> (1989). 
+            best known of her novels are <i>Growing up Rich</i> (1975) and <i>Professor
+                Romeo</i> (1989). 
                 
                 In a 1968 talk to Radcliffe Phi Beta Kappa, Bernays reflected on life and work and writing:
            
@@ -1102,9 +1102,9 @@ b_bios = [
 
                 In recent years she has joined her husband (noted for his
             biographies of Mark Twain, Lincoln Steffens, and Walt Whitman ) in writing two
-            books, one on the manner in which names have changed, <em>The Language of Names</em>
-            (1997) and another, a double memoir, <em>Back Then: Two Lives in 1950s New York
-            </em>(2002). She published a new novel <em>Trophy House</em> in 2005 and is
+            books, one on the manner in which names have changed, <i>The Language of Names</i>
+            (1997) and another, a double memoir, <i>Back Then: Two Lives in 1950s New York
+            </i>(2002). She published a new novel <i>Trophy House</i> in 2005 and is
             currently teaching at the Nieman Foundation, Harvard University. 
             
             <br><br>
@@ -1116,12 +1116,12 @@ b_bios = [
         otherNotes: "",
         references: ` David Walton, &#8220;Gotham when they were Young&#8221;
 
-            <em>New York Times</em> June 9, 2002.<br>
+            <i>New York Times</i> June 9, 2002.<br>
             Christopher Lehmann-Haupt. &#8220;Whats
             in a Name: Ima Hogg Knew&#8221;
-            <em> NY Times</em>, January 1997.<br>
+            <i> NY Times</i>, January 1997.<br>
             Anne Bernays
-            &#8220;Remembering Mrs McIntosh &#8220; <em>Chronicle of Higher Education</em>,
+            &#8220;Remembering Mrs McIntosh &#8220; <i>Chronicle of Higher Education</i>,
             Feb 9, 2002<br>&#8220;Meet the Writers: Anne Bernays&#8221; (includes interview)
             Barnes and Noble website.<br>
             <i>The Cambridge Chronicle</i> 2 May 1968.<br>
@@ -1171,8 +1171,8 @@ b_bios = [
 
             `,
         otherNotes: "",
-        references: ` Ogilvie, Marilyn and Joy Harvey. <em>Biographical
-                Dictionary of Women Scientists</em>. Routledge Press, 2000.
+        references: ` Ogilvie, Marilyn and Joy Harvey. <i>Biographical
+                Dictionary of Women Scientists</i>. Routledge Press, 2000.
                 <br><i>Cambridge City Directory</i>, 1972.
         `,
         photos: ["images_bios/grete bibring.jpg"],
@@ -1213,9 +1213,9 @@ b_bios = [
             <br><br>
             
             She attended Vassar
-            College where, in addition to working for<em> The Vassar Miscellany</em>, the
+            College where, in addition to working for<i> The Vassar Miscellany</i>, the
             school newspaper, she was one of the founders of the Vassar literary magazine
-            <em>Con Spirito</em> which endorsed socially conscious and avant-garde writing.
+            <i>Con Spirito</i> which endorsed socially conscious and avant-garde writing.
             Elizabeth's earliest work influenced by George Herbert and Gerard Manley Hopkins,
             appeared in the literary magazine she had founded. During this time, Bishop
             met the poet Marianne Moore, who became a close friend, and mentor, and who
@@ -1223,8 +1223,8 @@ b_bios = [
             
             <br><br>
 
-            Following her graduation, Bishop's first manuscript<em>
-                North and South </em>was chosen for publication in August 1946. During this
+            Following her graduation, Bishop's first manuscript<i>
+                North and South </i>was chosen for publication in August 1946. During this
             period, she met Robert Lowell who helped her secure the post of poetry consultant
             for the Library of Congress while she worked on her second book. She traveled
             through France, Spain, North Africa, Ireland and Italy, but made her home in
@@ -1236,11 +1236,11 @@ b_bios = [
             <br><br>
             
 
-            In 1954 Bishop published her second book <em>A
-                Cold Spring,</em> which won the Pulitzer Prize in 1956. Her third book <em>Questions
-                of Travel</em>, included her childhood experiences and her life in Brazil. After
+            In 1954 Bishop published her second book <i>A
+                Cold Spring,</i> which won the Pulitzer Prize in 1956. Her third book <i>Questions
+                of Travel</i>, included her childhood experiences and her life in Brazil. After
             Soares committed suicide with an overdose of tranquilizers, Bishop returned
-            to the United States. Bishop's book <em>Complete Poems</em>, was awarded
+            to the United States. Bishop's book <i>Complete Poems</i>, was awarded
             the National Book Award in 1970. That year Bishop began to teach at Harvard
             University where she remained for seven years, also spending short stints at
             the University of Washington, New York University.
@@ -1251,7 +1251,7 @@ b_bios = [
             she also taught at Massachusetts Institute for Technology. In 1976, Bishop became
             the first American and the first woman to be awarded the Books Abroad/Neustadt
             International Prize for Literature. That same year, Bishop published her final
-            collection of poetry entitled <em>Geography III</em>, awarded the Book Critics
+            collection of poetry entitled <i>Geography III</i>, awarded the Book Critics
             Circle Award in 1977. In October of 1979, Bishop passed away at the age of sixty-eight,
             widely acclaimed as an important modern poet.
 
@@ -1346,16 +1346,16 @@ b_bios = [
             her family from New Jersey to Boston at the age of ten and studied in a number
             of local schools, graduating from Boston University in 1881. She immediately
             began to work in the offices of the
-            paper established by her mother, the <em>Woman's Journal</em> with which
+            paper established by her mother, the <i>Woman's Journal</i> with which
             she was connected until the beginning of World War I.
             
             <br><br> 
             
             From 1887-1905, she edited
-            and distributed the <em>Woman's Column</em>, a periodical collection of
+            and distributed the <i>Woman's Column</i>, a periodical collection of
             suffrage news articles. She was also a founder of the Massachusetts League of
             Women Voters. She was a champion of women's rights for many years as well
-            as at one time an associate editor of <em>Ladies Home Journal</em>. She was
+            as at one time an associate editor of <i>Ladies Home Journal</i>. She was
             involved with the National American Women's Suffrage Association, Women's
             Christian Temperance Union, the Women's Trade Union League, the National
             Association for the Advancement of Colored People, and the American Peace Society.
@@ -1364,8 +1364,8 @@ b_bios = [
             Armenian and Russian protestors. She translated and published several volumes
             of the verses of Armenian, Yiddish, Russian, Hungarian, and Mexican poets. .She
             was active in the protests surrounding the case of Sacco and Vanzetti in the
-            1920s. In 1930, she published a biography of her mother entitled: <em>Lucy Stone,
-                Pioneer in Women's Rights. </em>
+            1920s. In 1930, she published a biography of her mother entitled: <i>Lucy Stone,
+                Pioneer in Women's Rights. </i>
                 
                 <br><br>
                 
@@ -1391,8 +1391,8 @@ b_bios = [
             `,
         otherNotes: "",
         references: `
-            Cambridge Historical Commission (files), Obituary from <em>Cambridge Chronicle</em>.<br>
-            <em>Notable American Women</em> (1607-1950) Vol I.
+            Cambridge Historical Commission (files), Obituary from <i>Cambridge Chronicle</i>.<br>
+            <i>Notable American Women</i> (1607-1950) Vol I.
             <br>
             George Grantham Bain Collection, Library of Congress.
             <br><i>Cambridge City Directory<i>, 1944.<br>
@@ -1489,7 +1489,7 @@ b_bios = [
 
             `,
         otherNotes: "",
-        references: ` <em>Boston Globe </em>September 3, 2007, obituary.<br>
+        references: ` <i>The Boston Globe </i>September 3, 2007, obituary.<br>
             <i>Cambridge Chronicle</i> obituary, August 23, 2007.<br>
             <i>The Cambridge Chronicle</i>, 20 April 1995.<br>
                <i>The Boston Globe</i>, Oct 08, 1989, Page 443.
@@ -1549,7 +1549,7 @@ b_bios = [
 
             `,
         otherNotes: "",
-        references: ` <em>Cambridge Chronicle</em> June 13, 2001.<br>
+        references: ` <i>Cambridge Chronicle</i> June 13, 2001.<br>
         <i>Cambridge Chronicle</i>, 2 June 1983.<br>
         <i>Cambridge City Directory</i>, 1968.
 
@@ -1614,10 +1614,10 @@ b_bios = [
 
             `,
         otherNotes: "",
-        references: ` Ogilvie, Marilyn. <em>A Dame full of Vim and Vigor.</em>
+        references: ` Ogilvie, Marilyn. <i>A Dame full of Vim and Vigor.</i>
             1998.<br>
-            Ogilvie, Marilyn and Joy Harvey. <em>Biographical Dictionary of Women
-                Scientists</em>. Routledge Press, 2000.<br>
+            Ogilvie, Marilyn and Joy Harvey. <i>Biographical Dictionary of Women
+                Scientists</i>. Routledge Press, 2000.<br>
                 <i> Cambridge City Directory</i> 1954.
         `,
         photos: [""],
@@ -1695,14 +1695,14 @@ b_bios = [
             `,
         otherNotes: "",
         references: `Abeel,
-            Daphne, Ed. <em>Cambridge in the Twentieth Century</em>, Cambridge MA: Cambridge
+            Daphne, Ed. <i>Cambridge in the Twentieth Century</i>, Cambridge MA: Cambridge
             Historical
             Society, 2007.<br>
-            Kendall, Alan <em>The Tender Tyrant</em> London:
+            Kendall, Alan <i>The Tender Tyrant</i> London:
             Macdonall and Jane's, 1977.<br>
-            Monsaingeon, Bruno <em>Mademoiselle</em> Manchester
+            Monsaingeon, Bruno <i>Mademoiselle</i> Manchester
             UK: Carcanet, 1985.<br>
-            Rosenstiel, Leonie <em>A Life in Music NY</em>: WW Norton
+            Rosenstiel, Leonie <i>A Life in Music NY</i>: WW Norton
             1982.
             <br><i>Cambridge City Directory</i>, 1941.<br>
             Image from wikipedia:<br> <a class='indent' href="https://en.wikipedia.org/wiki/Nadia_Boulanger#/media/File:Nadia_Boulanger_1925.jpg">
@@ -1747,7 +1747,7 @@ b_bios = [
             
             Along with her parents, they joined the colonists headed by John Winthrop,
             future governor of the colony, they arrived in New England on Winthrop's
-            flagship <em>Arabella</em>. Upon arrival, her father was named deputy governor
+            flagship <i>Arabella</i>. Upon arrival, her father was named deputy governor
             of the Massachusetts Bay Colony. The positions of her husband and father gave
             her a place of honor in the new colony. After a year in Charlestown, they moved
             to Cambridge around 1631, near what is now 1384 Massachusetts Avenue in the
@@ -1759,20 +1759,20 @@ b_bios = [
             Bradstreet reared eight children in all. Her procreative
             years were also a period of great poetic energy. Her most popular work included
             poems to and about family members, although she also wrote some formal elegies.
-            One collection, <em>The Tenth Muse Lately Sprung up in America</em>, was published
+            One collection, <i>The Tenth Muse Lately Sprung up in America</i>, was published
             in her lifetime without her knowledge or consent (1650). This group of poems,
             published by her brother-in-law in England, had no references to the New World.
-            A later, superior compilation, <em>Several Poems Compiled with a Great Variety
-                of Wit and Learning</em>, appeared seven years after her death (1678) and included
+            A later, superior compilation, <i>Several Poems Compiled with a Great Variety
+                of Wit and Learning</i>, appeared seven years after her death (1678) and included
             her response to the New England landscape, reflecting a Puritan view of life.
             
 
             `,
         otherNotes: "",
-        references: `Hannah Winthrop, <em>Historic Guide to Cambridge</em>,
-            1907<br><em>The Oxford Companion to Women's Writing in the United States</em>
+        references: `Hannah Winthrop, <i>Historic Guide to Cambridge</i>,
+            1907<br><i>The Oxford Companion to Women's Writing in the United States</i>
             (1995).
-            <br><em> Notable American Women</em> (1607-1950) Vol I.<br>
+            <br><i> Notable American Women</i> (1607-1950) Vol I.<br>
             Photo from <a href="https://en.wikipedia.org/wiki/Anne_Bradstreet#/media/File:Frontispiece_for_An_Account_of_Anne_Bradstreet_The_Puritan_Poetess,_and_Kindred_Topics,_edited_by_Colonel_Luther_Caldwell_(Boston,_1898)_(cropped).jpg">
             https://en.wikipedia.org/wiki/Anne_Bradstreet#/media/File:Frontispiece_for_An_Account_of_Anne_Bradstreet_The_Puritan_Poetess,_and_Kindred_Topics,_edited_by_Colonel_Luther_Caldwell_(Boston,_1898)_(cropped).jpg</a>
         `,
@@ -1821,7 +1821,7 @@ b_bios = [
 
             `,
         otherNotes: "",
-        references: `<em>Boston Globe </em>July 17, 2005.
+        references: `<i>The Boston Globe </i>July 17, 2005.
         <br><i>Cambridge City Directory</i>, 1971.<br>
         Legacy.com obituary:<br>
         <a class='indent' href="https://www.legacy.com/us/obituaries/bostonglobe/name/hermine-brand-obituary?id=26471657">
@@ -1857,7 +1857,7 @@ b_bios = [
             Brass and Harry Brass. Raised in a lively orthodox Jewish household in Winthrop,
             Massachusetts, she was influenced by the enthusiastic cooking of her mother and grandmother.
             As a young woman, she attended Northeastern University where she studied English
-            and Journalism, graduating with a Bachelor of Arts degree <em>cum laude</em>
+            and Journalism, graduating with a Bachelor of Arts degree <i>cum laude</i>
             and with Departmental Honors in English in 1964. 
             
             <br><br>
@@ -1911,18 +1911,18 @@ b_bios = [
             at museums, libraries, and educational institutions throughout the country.<br>
              In 2006, they launched their first publication based
             on manuscript cookbooks, creating a new category of cookbook that translates
-            heirloom recipes for the modern kitchen. This book, <em>Heirloom Baking with
-                the Brass Sisters</em>, was one of three nominees for a James Beard Foundation
+            heirloom recipes for the modern kitchen. This book, <i>Heirloom Baking with
+                the Brass Sisters</i>, was one of three nominees for a James Beard Foundation
             Award in the Baking and Dessert category in 2007.
             
             <br><br>
             
-          Their second book, <em>Heirloom Cooking with the Brass
-            Sisters, Recipes You Remember and Love</em>, appeared in October 2008. Both
-         this and the previous volume were selected by <em>Food &amp; Wine Magazine</em>
+          Their second book, <i>Heirloom Cooking with the Brass
+            Sisters, Recipes You Remember and Love</i>, appeared in October 2008. Both
+         this and the previous volume were selected by <i>Food &amp; Wine Magazine</i>
            to be noted among the 25 best cookbooks published in 2007 and 2009, and were
-          included in the magazine's volumes <em>The Best of the Best 25 Cookbooks 2007
-            and The Best of the Best 25 Cookbooks 2009</em>.
+          included in the magazine's volumes <i>The Best of the Best 25 Cookbooks 2007
+            and The Best of the Best 25 Cookbooks 2009</i>.
             
             <br><br>
             
@@ -1946,20 +1946,20 @@ b_bios = [
             recipes.<br>
             `,
         otherNotes: "",
-        references: `Marilynn Brass, Sheila Brass. <em>Heirloom Baking
+        references: `Marilynn Brass, Sheila Brass. <i>Heirloom Baking
                 with the Brass Sisters: more than 100 years of recipes discovered from family
-                cookbooks, original journals, scraps of paper, and grandmother's kitchen.</em>
+                cookbooks, original journals, scraps of paper, and grandmother's kitchen.</i>
             New York, NY: Black Dog &amp; Leventhal Publishers, 2006.<br><br>
-            Marilynn Brass, Sheila Brass. <em>Heirloom Cooking With The Brass Sisters: Recipes
-                You Remember and Love</em>. New York, NY: Black Dog &amp; Leventhal Publishers,
+            Marilynn Brass, Sheila Brass. <i>Heirloom Cooking With The Brass Sisters: Recipes
+                You Remember and Love</i>. New York, NY: Black Dog &amp; Leventhal Publishers,
             2008.<br><br>
-            Marilynn Brass, Sheila Brass. <em>Baking With The Brass Sisters: Over 125 Recipes
+            Marilynn Brass, Sheila Brass. <i>Baking With The Brass Sisters: Over 125 Recipes
                 for Classic Cakes, Pies, Cookies, Breads, Desserts, and Savories from America's
-                Favorite Home Bakers</em>. New York, NY: St. Martin's Griffin, 2015.<br><br>
-            <em>Miller's Buyer's Guide: Kitchenware: What To Look for And What
-                to Pay For Kitchenware For Over 2000 Items Of Kitchenware</em>. London: Mitchell
+                Favorite Home Bakers</i>. New York, NY: St. Martin's Griffin, 2015.<br><br>
+            <i>Miller's Buyer's Guide: Kitchenware: What To Look for And What
+                to Pay For Kitchenware For Over 2000 Items Of Kitchenware</i>. London: Mitchell
             Beazley, 2005.<br><br>
-            Bill Brett, Kerry Brett, Carol Beggy. <em>Boston, Inspirational Women</em> Boston,
+            Bill Brett, Kerry Brett, Carol Beggy. <i>Boston, Inspirational Women</i> Boston,
             MA: Three Bean Press, 2011. <br>
             The Brass Sisters' s website: <a href="http://www.thebrasssisters.com" >www.thebrasssisters.com</a>.
 
@@ -2011,8 +2011,8 @@ b_bios = [
          grandmother inspired her.</p>
         <p>She attended Massachusetts College of Art and Design, majoring in Fashion Design and Illustration. 
         She graduated in 1958 with a Bachelor of Fine Arts degree in the top 10 percent of her class.&nbsp;<br>
-        She was a fashion designer for ten years in New York and Boston. Her designs were featured in&nbsp;<em>
-        Women&apos;s Wear Daily&nbsp;</em>and sold in specialty shops.
+        She was a fashion designer for ten years in New York and Boston. Her designs were featured in&nbsp;<i>
+        Women&apos;s Wear Daily&nbsp;</i>and sold in specialty shops.
         
         <br><br>
         
@@ -2044,13 +2044,13 @@ b_bios = [
         
         In 2006, 
         they launched their first publication based on unpublished cookbooks, creating a new category of cookbook that
-        translates heirloom recipes for the modern kitchen. This book,&nbsp;<em>Heirloom Baking with the Brass Sisters</em>, 
+        translates heirloom recipes for the modern kitchen. This book,&nbsp;<i>Heirloom Baking with the Brass Sisters</i>, 
         was one of three nominees for a James Beard Foundation Award in the Baking and Dessert category.
         
         <br><br>Their 
-        second book, <em>Heirloom Cooking with the Brass Sisters</em>, appeared in October 2008. Both this and the previous
-        volume were selected by <em>Food &amp; Wine Magazine</em> as among the 25 best cookbooks of the year, and were 
-        included in the magazine&apos;s volumes of&nbsp;<em>The Best of the Best Cookbooks</em>.
+        second book, <i>Heirloom Cooking with the Brass Sisters</i>, appeared in October 2008. Both this and the previous
+        volume were selected by <i>Food &amp; Wine Magazine</i> as among the 25 best cookbooks of the year, and were 
+        included in the magazine&apos;s volumes of&nbsp;<i>The Best of the Best Cookbooks</i>.
        
         <br><br>In 2008, the
         sisters appeared on their own television show, &ldquo;The Brass Sisters: Queens of Comfort Food,&rdquo; which
@@ -2058,8 +2058,8 @@ b_bios = [
         &nbsp;&ldquo;The Brass Sisters Celebrate the Holidays&rdquo;&nbsp;on the Cooking Channel. They were part of a 
         select group to win a &ldquo;Throwdown&rdquo; with Chef Bobby Flay on the Food Network by baking their 
         mother&apos;s recipe for Pineapple Upside-Down Cake.</p>
-        <p>In 2015, they published&nbsp;<em>Baking with the Brass Sisters: Over 125 Recipes for Classic Cakes, Pies,
-         Cookies, Breads, Desserts, and Savories from America&apos;s Favorite Home Bakers.</em>
+        <p>In 2015, they published&nbsp;<i>Baking with the Brass Sisters: Over 125 Recipes for Classic Cakes, Pies,
+         Cookies, Breads, Desserts, and Savories from America&apos;s Favorite Home Bakers.</i>
          
          <br><br>With her sister,
           Marilynn, Sheila was honored by the City of Cambridge in 2016 when they were named &ldquo;Cambridge 
@@ -2068,16 +2068,16 @@ b_bios = [
             `,
         otherNotes: "",
         references: `Marilynn Brass, Sheila Brass.
-        <em>&nbsp;Heirloom Baking with the Brass Sisters: more than 100 years of recipes discovered from family 
-        cookbooks, original journals, scraps of paper, and grandmother&apos;s kitchen</em>. New York, NY: Black
-        Dog &amp; Leventhal Publishers, 2006.<br>Marilynn Brass, Sheila Brass.&nbsp;<em>Heirloom Cooking with 
-        the Brass Sisters: Recipes You Remember and Love</em>. New York, NY: Black Dog &amp; Leventhal Publishers,
-        2008<br>Marilynn Brass, Sheila Brass.&nbsp;<em>Baking with the Brass Sisters: Over 125 Recipes for 
-        Classic Cakes, Pies, Cookies, Breads, Desserts, and Savories from America&apos;s Favorite Home Bakers</em>.
-        New York, NY: St. Martin&apos;s Griffin, 2015.<br><em>Miller&apos;s Buyer&apos;s Guide: Kitchenware: 
-        What to Look for and What to Pay for Kitchenware for Over 2000 Items of Kitchenware</em>. London: Mitchell
-        Beazley, 2005.<br>Bill Brett, Kerry Brett, Carol Beggy.&nbsp;<em>Boston, Inspirational Women&nbsp;
-        </em>Boston, MA: Three Bean Press, 2011.<br>The Brass Sisters&apos; s website: 
+        <i>&nbsp;Heirloom Baking with the Brass Sisters: more than 100 years of recipes discovered from family 
+        cookbooks, original journals, scraps of paper, and grandmother&apos;s kitchen</i>. New York, NY: Black
+        Dog &amp; Leventhal Publishers, 2006.<br>Marilynn Brass, Sheila Brass.&nbsp;<i>Heirloom Cooking with 
+        the Brass Sisters: Recipes You Remember and Love</i>. New York, NY: Black Dog &amp; Leventhal Publishers,
+        2008<br>Marilynn Brass, Sheila Brass.&nbsp;<i>Baking with the Brass Sisters: Over 125 Recipes for 
+        Classic Cakes, Pies, Cookies, Breads, Desserts, and Savories from America&apos;s Favorite Home Bakers</i>.
+        New York, NY: St. Martin&apos;s Griffin, 2015.<br><i>Miller&apos;s Buyer&apos;s Guide: Kitchenware: 
+        What to Look for and What to Pay for Kitchenware for Over 2000 Items of Kitchenware</i>. London: Mitchell
+        Beazley, 2005.<br>Bill Brett, Kerry Brett, Carol Beggy.&nbsp;<i>Boston, Inspirational Women&nbsp;
+        </i>Boston, MA: Three Bean Press, 2011.<br>The Brass Sisters&apos; s website: 
         <a href="http://www.thebrasssisters.com/" >www.thebrasssisters.com</a>.<br>
         <i>The Boston Globe</i>, Sept. 12, 2022</p>
      
@@ -2138,8 +2138,8 @@ b_bios = [
 
             `,
         otherNotes: "",
-        references: `Ogilvie, Marilyn and Joy Harvey. <em>Biographical
-                Dictionary of Women Scientists</em>. Routledge Press, 2000.<br>
+        references: `Ogilvie, Marilyn and Joy Harvey. <i>Biographical
+                Dictionary of Women Scientists</i>. Routledge Press, 2000.<br>
                 <i>Massachusetts, Death Index</i>, 1970-2003.<br>
                 <i>U.S. Naturalization Record Indexes</i>, 1791-1992.
 
@@ -2335,7 +2335,7 @@ b_bios = [
 
             `,
         otherNotes: "",
-        references: ` <em>Notable American Women, Modern Period</em> (Belnap
+        references: ` <i>Notable American Women, Modern Period</i> (Belnap
             Press: 1980).<br>
             Photo from wikipedia.com:<br>
             <a class='indent' href="https://en.wikipedia.org/wiki/Charlotte_Hawkins_Brown#/media/File:Charlotte_Eugenia_Hawkins_Brown.jpg">https://en.wikipedia.org/wiki/Charlotte_Hawkins_Brown#/media/File:Charlotte_Eugenia_Hawkins_Brown.jpg</a><br>
@@ -2385,7 +2385,7 @@ b_bios = [
 
             `,
         otherNotes: "",
-        references: ` <em>Cambridge Chronicle</em> Oct. 20, 1999, 4 December 1975
+        references: ` <i>Cambridge Chronicle</i> Oct. 20, 1999, 4 December 1975
         <br><I>Cambridge City Directory</i>, 1954<br>
         <i>Cambridge High and Latin yearbook</i>, 1917<br>
         <i>Massachusetts Birth Records</i>, 1840-1915
@@ -2426,7 +2426,7 @@ b_bios = [
             <br><br>Sara took an active role in Ole Bull's complicated
             financial affairs. The family moved to Cambridge and rented James Russell Lowell's
             house while they had a house built for them at 168 Brattle Street. After Ole's
-            death, Sara wrote his biography, <em>Ole Bull: A Memoir</em>, which was published
+            death, Sara wrote his biography, <i>Ole Bull: A Memoir</i>, which was published
             by Houghton-Mifflin in 1883. She was active in the cultural and social circles
             of Boston and Cambridge, and became a close companion of important figures including
             Julia Ward Howe, Annie Allegra Longfellow Thorp, daughter of the poet Henry
@@ -2443,8 +2443,8 @@ b_bios = [
 
             `,
         otherNotes: "",
-        references: ` <em>Dictionary of Wisconsin History (Ole Bull)</em>.<br>
-            Sara C. Bull, <em>Ole Bull: A Memoir</em> (1883)<br>&#8220The Bull-Curtis Collection
+        references: ` <i>Dictionary of Wisconsin History (Ole Bull)</i>.<br>
+            Sara C. Bull, <i>Ole Bull: A Memoir</i> (1883)<br>&#8220The Bull-Curtis Collection
             Guide,&#8221; Cambridge Historical Society Library.
         `,
         photos: ["images_bios/Sara_Bull_photo.png"],
@@ -2478,8 +2478,8 @@ b_bios = [
             with a degree in physics and obtaining her Ph.D. from University of Wisconsin
             in 1934. <br><br>
             
-            Her early papers on color variations in the bacterium <em>Serratia
-                marcescens</em> were significant studies in microbial genetics. In 1937 she
+            Her early papers on color variations in the bacterium <i>Serratia
+                marcescens</i> were significant studies in microbial genetics. In 1937 she
             married Henry Bunting. She taught biology at a number of colleges, including
             Bennington, Gaucher, Yale, and Wellesley. After the death of her husband in
             1954, she took an administrative position at Douglass College for Women, Rutgers
@@ -2505,9 +2505,9 @@ b_bios = [
 
             `,
         otherNotes: "",
-        references: ` Ogilvie, Marilyn and Joy Harvey. <em>Biographical
-                Dictionary of Women Scientists.</em> Routledge Press, 2000. <br>Obituary in <em>Harvard
-                Gazette</em>, 1998.
+        references: ` Ogilvie, Marilyn and Joy Harvey. <i>Biographical
+                Dictionary of Women Scientists.</i> Routledge Press, 2000. <br>Obituary in <i>Harvard
+                Gazette</i>, 1998.
                 <br><i>Cambridge City Directory</i>, 1963.<br>
                 Photo from wikipedia.com:
                 <br><a class='indent' href="https://en.wikipedia.org/wiki/Mary_Bunting#/media/File:Mary_Bunting.jpg">https://en.wikipedia.org/wiki/Mary_Bunting#/media/File:Mary_Bunting.jpg</a>
@@ -2575,7 +2575,7 @@ b_bios = [
 
             `,
         otherNotes: "",
-        references: `<em>Cambridge Chronicle</em> May 7, 1959, January 29, 1991, September 30, 1999.
+        references: `<i>Cambridge Chronicle</i> May 7, 1959, January 29, 1991, September 30, 1999.
         <br><i>The Boston Globe</i>
         Thu, Sep 30, 1999, page 77.
         `,
@@ -2621,7 +2621,7 @@ b_bios = [
             
             `,
         otherNotes: "",
-        references: ` <em>Cambridge Chronicle</em>  16 April 1953, 12 August 1999.
+        references: ` <i>Cambridge Chronicle</i>  16 April 1953, 12 August 1999.
 
         `,
         photos: [""],
@@ -2668,7 +2668,7 @@ b_bios = [
 
             `,
         otherNotes: "",
-        references: `<em>Cambridge Chronicle</em> July 22, 1999, April 3, 2002.<br>
+        references: `<i>Cambridge Chronicle</i> July 22, 1999, April 3, 2002.<br>
         <i>The Cambridge Chronicle</i>, 8 January 1970.
 
         `,
@@ -2717,7 +2717,7 @@ b_bios = [
 
             `,
         otherNotes: "",
-        references: `<em>Cambridge Chronicle</em> 2 February, 2000.
+        references: `<i>Cambridge Chronicle</i> 2 February, 2000.
         <br><i>Cambridge City Directory</i>, 1972.<br>
         <i>The Cambridge Tribune</i>, 23 November 1918.<br>
         <i>U.S. Census</i> 1910, 1920, 1930.<br>
@@ -2772,7 +2772,7 @@ b_bios = [
 
             `,
         otherNotes: "",
-        references: ` <em>Cambridge Chronicle</em> Sept. 16, 1999.<br>
+        references: ` <i>Cambridge Chronicle</i> Sept. 16, 1999.<br>
         <i>US Census</i> 1910, 1941.<br>
         King Institute at Stanford University:
         <br>

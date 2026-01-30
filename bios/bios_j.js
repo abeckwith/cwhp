@@ -36,8 +36,8 @@ j_bios = [
             her freedom for three hundred dollars after Jacobs was frightened by hearing
             of the arrival of her former owner in that city. A Quaker abolitionist, Amy Post,
             urged her to write the full story of her life. Returning to Boston, she began
-            to write her biography, entitled <em>Incidents in the Life of a Slave Girl, Written
-                by Herself</em>. It was then edited by Lydia Child, a well known Boston-area
+            to write her biography, entitled <i>Incidents in the Life of a Slave Girl, Written
+                by Herself</i>. It was then edited by Lydia Child, a well known Boston-area
             writer who had strong abolitionist beliefs. Jacobs traveled to London to try
             to sell
             her manuscript, and it was finally published in 1861. After the civil war, she
@@ -51,11 +51,11 @@ j_bios = [
             life. She is buried in Mount Auburn Cemetery.
             `,
         otherNotes: "",
-        references: ` <em>Incidents in the Life of a Slave Girl, Written
+        references: ` <i>Incidents in the Life of a Slave Girl, Written
                 by
-                Herself </em>(London 1861) reprinted as <em>Harriet Jacobs, Incidents in the
+                Herself </i>(London 1861) reprinted as <i>Harriet Jacobs, Incidents in the
                 Life of a
-                Slave Girl</em> (Simon &amp; Schuster
+                Slave Girl</i> (Simon &amp; Schuster
             2003).<br>
             Harriet Jacobs website by Julie Adams.<br>
            Video history of Harriet Jacobs' life produced by Mount Auburn Cemetery:<br>
@@ -135,11 +135,11 @@ j_bios = [
 
             Jacobs transcribed Cambridge's earliest public
             records and prepared the copy manuscripts for publication in two volumes. The
-            first was <em>The Register Book of the Lands and Houses in the &quot;New Towne&quot;
+            first was <i>The Register Book of the Lands and Houses in the &quot;New Towne&quot;
                 and the Town of Cambridge with the Records of the Proprietors of the Common
-                Lands being the Records Generally Called &quot;The Proprietors Records</em>
-            (1896), and the second volume was <em>The Records of the Town of Cambridge (Formerly
-                Newtowne) Massachusetts 1630-1703</em>(1901). This laborious undertaking no
+                Lands being the Records Generally Called &quot;The Proprietors Records</i>
+            (1896), and the second volume was <i>The Records of the Town of Cambridge (Formerly
+                Newtowne) Massachusetts 1630-1703</i>(1901). This laborious undertaking no
             doubt consumed many years of her time. She was 83 years old at the time of the
             publication of the first volume and 88 years old when the second volume was
             published. 
@@ -147,15 +147,15 @@ j_bios = [
             <br><br>She died at home on 14 May 1902 age 89 years and was buried at Mount
             Auburn Cemetery. `,
         otherNotes: "",
-        references: `<em>Virtual American Biographies</em> <br>
+        references: `<i>Virtual American Biographies</i> <br>
         <a class='indent'
                 href="http://www.famousamericans.net/sarahspraguejacobs">http://www.famousamericans.net/sarahspraguejacobs</a><br>
-            <em>Appleton's Encylcopedia of American Biography</em> (1888)
+            <i>Appleton's Encylcopedia of American Biography</i> (1888)
             <br><i>Cambridge
             Vital Records</i>. <br>
             City of Cambridge <i>Annual Reports</i>.<br> 
             Federal Census.<br>Prefaces to
-            the <em>Proprietors Records </em>and <em>Records of the Town of Cambridge.</em>.
+            the <i>Proprietors Records </i>and <i>Records of the Town of Cambridge.</i>.
         `,
         photos: [""],
         photoTitles: [],
@@ -216,7 +216,7 @@ j_bios = [
             with the Massachusetts Woman Suffrage Association, Johnson became a member of the national
             council of the National American Woman Suffrage Association and by 1917, she
             was chairwoman of the Massachusetts branch. In 1919-1920, with Mary P. Sleeper,
-            she edited <em>A Citizen's Guide</em> for the Boston Equal Suffrage Association
+            she edited <i>A Citizen's Guide</i> for the Boston Equal Suffrage Association
             for Good Government. <br><br>
 
             Grace Johnson became interested in the League
@@ -228,8 +228,8 @@ j_bios = [
             Training School, the Boston University School of Education, and at the Massachusetts
             Department of Education, University Extension school. Grace Johnson published
             a number of articles and books on the League of Nations including (with Sir
-            Herbert Ames) <em>The Case of China and Japan before the League of Nations:
-                A Dramatization of the Events of 1931-1933</em> (1933). She worked for proportional
+            Herbert Ames) <i>The Case of China and Japan before the League of Nations:
+                A Dramatization of the Events of 1931-1933</i> (1933). She worked for proportional
             representation in Cambridge (Plan E) and testified on prohibition before the
             U.S. Congress. 
             
@@ -297,7 +297,7 @@ j_bios = [
             of the Fiduciary Trust to the World Trade Center. <br><br>
 
             Palache married Russell Kennedy Jones, an advertising
-            executive and co-author of <em>The Cruising Cookbook</em>, on December 21, 1954 (she was living at
+            executive and co-author of <i>The Cruising Cookbook</i>, on December 21, 1954 (she was living at
              100 Appleton Street at the time).
             
             <br><br>She and her husband lived in the town of North Salem, New York, where she served
@@ -308,7 +308,7 @@ j_bios = [
         otherNotes: "",
         references: `
             Palache family papers, Schlesinger Library, finding guide.<br>
-            &#8220;A P. Jones&#8221; <em>New York Times</em> obituary June 13, 1989.<br>
+            &#8220;A P. Jones&#8221; <i>New York Times</i> obituary June 13, 1989.<br>
             Photograph of Alice Palache and Katharine Hepburn at Bryn Mawr in the 1920s,
             Schlesinger Library collections.
             <br>Image from <a href="https://en.wikipedia.org/wiki/Alice_Palache_Jones" >https://en.wikipedia.org/wiki/Alice_Palache_Jones</a>

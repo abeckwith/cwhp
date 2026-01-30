@@ -57,7 +57,7 @@ o_bios = [
             Cambridge.`,
         otherNotes: "",
         references: `
-            Written by Kimm Topping, printed in <em>Mapping Feminist Cambridge</em> guidebook, 2019:<br>
+            Written by Kimm Topping, printed in <i>Mapping Feminist Cambridge</i> guidebook, 2019:<br>
              <a class='indent' 
                 href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a>
             <br>
@@ -101,13 +101,13 @@ o_bios = [
             High School for Young Ladies. She was a childhood friend of the poet James Russell
             Lowell, which may have inspired her to write poetry herself. <br><br>In her twenties
             she began to publish children's stories and poetry, some of which had
-            a national circulation. <em>Lucy's Party and Other Tales</em> (1842) was intended
-            for children; <em>Sweet Auburn and Mount Auburn with Other Poems</em> (1844)
+            a national circulation. <i>Lucy's Party and Other Tales</i> (1842) was intended
+            for children; <i>Sweet Auburn and Mount Auburn with Other Poems</i> (1844)
             described the grounds of Mount Auburn both before and after it became a cemetery.
-            Her book of poetry, <em>Morning Songs of American Freedom</em> (1876), included
+            Her book of poetry, <i>Morning Songs of American Freedom</i> (1876), included
             patriotic poems, a number of which celebrated the courage of sea captains, from
             whom her father was descended. Longfellow thought well enough of her work to
-            include one of her poems in his anthology, <em>Poems of Places</em> (1879).
+            include one of her poems in his anthology, <i>Poems of Places</i> (1879).
             <br><br>
             In 1858, the city of Cambridge purchased the Athenaeum
             (founded by Edmund Dana as a private library) and renamed it the Dana Library&#8212;Caroline
@@ -121,18 +121,18 @@ o_bios = [
             Towards the end of her life, Orne became interested
             in her family history. She joined the Hannah Winthrop Chapter of the Daughters
             of the American Revolution and published a study of her mother's family,
-            the Stone family, from the early 1630s, titled<em> A Pioneer in New England</em>
-            (1887, reprinted 1930). When the organization published <em>An Historic Guide
-                to Cambridge</em> in 1907, it included an account of her publications. Orne
+            the Stone family, from the early 1630s, titled<i> A Pioneer in New England</i>
+            (1887, reprinted 1930). When the organization published <i>An Historic Guide
+                to Cambridge</i> in 1907, it included an account of her publications. Orne
             lived in her family home at 107 Auburn Street until her death in 1905. She is
             buried in Mount Auburn Cemetery with the rest of her family. `,
         otherNotes: "",
         references: ` &quot;Friend of Longfellow: Playmate of Lowell,&quot;
             obituary of Caroline F. Orne. <br>
-            <em>Cambridge Chronicle</em> February 11, 1905.<br>
+            <i>Cambridge Chronicle</i> February 11, 1905.<br>
             Orne family biographies and landmark
                 report for Orne's home at 107 Auburn Street, Cambridge Historical Commission.
-            <em>Who's Who in America</em> (1905).<br>
+            <i>Who's Who in America</i> (1905).<br>
             Image from Cambridge Public Library.
         `,
         photos: ["images_bios/caroline_orne.png"],

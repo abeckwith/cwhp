@@ -154,7 +154,7 @@ m_bios = [
 
             From 2018 to 2020, Kimm Topping, Feminist and Queer History Scholar and Youth
             Educator, researched Cambridge history, conducted interviews with Cambridge feminists, and wrote and
-            produced the <em>Mapping Feminist History</em> guidebook. Kimm also organized and led Walking Tours. The
+            produced the <i>Mapping Feminist History</i> guidebook. Kimm also organized and led Walking Tours. The
             Mapping Feminist Guide highlights feminist, socialist, and educational institutions that emerged and thrived
             in Inman Square from the 1970s through the 1990s. These places, also featured in this database, are part of
             Cambridge feminist history. The Mapping Feminist Cambridge project acknowledges that most feminist
@@ -162,8 +162,8 @@ m_bios = [
             disability. A need still remains to address the intersections of all identity groups and their contributions
             to the feminist movement.`,
         otherNotes: "",
-        references: ` <em>
-                Mapping Feminist Cambridge</em> guidebook, 2019, with support from the Cambridge Women's Commission and
+        references: ` <i>
+                Mapping Feminist Cambridge</i> guidebook, 2019, with support from the Cambridge Women's Commission and
             the Mapping Feminist Cambridge Advisory Committee. <a
                 href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a>
 
@@ -231,13 +231,13 @@ m_bios = [
             died on October 25, 2009 at the age of 100.`,
         otherNotes: "",
         references: `
-            <em>
-                Harvard Annual Reports</em>, 1952-1953.<br>
+            <i>
+                Harvard Annual Reports</i>, 1952-1953.<br>
             Greep, Roy O.&#8220;Professor Helen Wendler (Deane) Markham, 1917-1966&#8221;
-            <em>Journal of</em> <em>Histochemisty and Cytochemisty</em> v. 14, no. 12, pp.
+            <i>Journal of</i> <i>Histochemisty and Cytochemisty</i> v. 14, no. 12, pp.
             881-3, 1967.<br>
             Family records of James G. Deane.<br>
-            Markham, Helen Deane.<em> Papers</em>,<em> 1941-1968</em>. Schlesinger Library,
+            Markham, Helen Deane.<i> Papers</i>,<i> 1941-1968</i>. Schlesinger Library,
             Hollis Library Catalog summary of archival collection.<br>
             <i>Cambridge City Directory</i>, 1954.
         `,
@@ -283,8 +283,8 @@ m_bios = [
             anthropological documentary filmmaker. Over a period of two decades, Lorna Marshall
             spent more time in Botswana and Namibia than she did in Cambridge, developing
             close personal ties to the !Kung. She published two well-received monographs,
-            <em>!Kung of Nyae Nyae</em> (1975) and, when she was in her late nineties, <em>Nyae
-                Nyae !Kung Belief and Rites </em>(1999). <br><br>
+            <i>!Kung of Nyae Nyae</i> (1975) and, when she was in her late nineties, <i>Nyae
+                Nyae !Kung Belief and Rites </i>(1999). <br><br>
 
             Lorna Marshall spent the last years of her life
             near her daughter in Peterborough, New Hampshire. Schlesinger holds a diary
@@ -296,13 +296,13 @@ m_bios = [
             also became a serious student of anthropology. Only nineteen when she first
             went with her mother to Africa, Thomas continued her mother's work. As
             early as 1959, in her late twenties, Thomas published a study of the group,
-            <em>The Harmless People</em>, which was highly praised.  `,
+            <i>The Harmless People</i>, which was highly praised.  `,
         otherNotes: "",
         references: `
             Boston Globe obituary July 24, 2002; Lorna Marshall
             notebooks 1943-1996, Peabody Museum, Harvard University.<br>
             Elizabeth Marshall
-            Thomas, <em>The Old Way, a Story of the First People</em> (2006).<br>
+            Thomas, <i>The Old Way, a Story of the First People</i> (2006).<br>
             Book cover from <a href="https://peacefulsocieties.uncg.edu/societies/juhoansi/">
             https://peacefulsocieties.uncg.edu/societies/juhoansi/</a>.<br>
             <i>Cambridge City Directory</i>, 1941.<br>
@@ -366,7 +366,7 @@ m_bios = [
             `,
         otherNotes: "",
         references: `
-            Written by Kimm Topping, printed in <em>Mapping Feminist Cambridge</em> guidebook, 2019: <a
+            Written by Kimm Topping, printed in <i>Mapping Feminist Cambridge</i> guidebook, 2019: <a
                 href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">
                 https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a><br>
                 <i>The Cambridge Chronicle</i>, 29 May 1975.
@@ -460,7 +460,7 @@ m_bios = [
         references: `
             Desrosiers, Marian. Nomination to the Cambridge Women's Heritage Proect.<br>
             Farragher, Thomas. &#8220;Genevieve M. Mathison, 93; pioneering scientist helped
-            improve radar,&#8221; <em>The Boston Globe</em>, May 25, 2004.`,
+            improve radar,&#8221; <i>The Boston Globe</i>, May 25, 2004.`,
         photos: ["images_bios/Genevieve%20McGlinchey%20Mathison%20small.jpeg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
@@ -507,9 +507,9 @@ m_bios = [
             a program that recently celebrated its 50th anniversary.  <br><br>
 
         Mazur was boosting the local poetry scene long before she became a poet herself.  She was awarded a literature
-        fellowship from the National Endowment for the Arts in 1977 and her first book of poems, <em>Nightfire</em>, was published
+        fellowship from the National Endowment for the Arts in 1977 and her first book of poems, <i>Nightfire</i>, was published
         in 1978.  She went on to publish six more works of poetry, including 2001's They Can't Take That Away from Me 
-        (a finalist for the National Book Award) and 2005's <em>Zeppo's First Wife: New and Selected Poems</em>, which went on
+        (a finalist for the National Book Award) and 2005's <i>Zeppo's First Wife: New and Selected Poems</i>, which went on
         to win the Massachusetts Book Prize.  Mazur is the 2005 recipient of the St. Botolph Club Foundation's 
         Distinguished Artist Award and was The Carl and Lily Pforzheimer Foundation Fellow for 2008-2009 at 
         the Harvard Radcliffe Institute.  She has also been a contributing editor at Boston Review, Agni, 
@@ -582,13 +582,13 @@ m_bios = [
             in hopes of teaching botany in a woman's college. 
             
             <br><br>She also began to publish
-            articles in the Boston <em>Transcript</em> under the name of &#8220;Jean Kinkaid&#8221;.
+            articles in the Boston <i>Transcript</i> under the name of &#8220;Jean Kinkaid&#8221;.
             After a bout of illness, she had to drop out of public school teaching but continued
-            to write newspaper articles for both the <em>Transcript</em> and the Boston<em>
-                Globe</em> which soon accepted her as a regular journalist. <br><br>
+            to write newspaper articles for both the <i>Transcript</i> and the Boston<i>
+                Globe</i> which soon accepted her as a regular journalist. <br><br>
                 
             In October 1887, she married Samuel Merrill, an
-            editor at the <em>Globe</em>, and the couple moved to Cambridge (45 Bellevue Avenue) where she continued
+            editor at the <i>Globe</i>, and the couple moved to Cambridge (45 Bellevue Avenue) where she continued
             to write for the paper and to participate in community affairs. She was a founding
             member and president of the Cantabrigia Club, and lectured on current events
             before the organization. She also served as an officer of the Associated Charities
@@ -597,9 +597,9 @@ m_bios = [
             1891 served as its president. <br><br>
 
             In 1894, she started a magazine to further the
-            New England kitchen movement in a magazine entitled <em>The New-England Kitchen</em>
+            New England kitchen movement in a magazine entitled <i>The New-England Kitchen</i>
             sponsored by the Household Economic Association. She co-edited a new magazine,
-            <em>American Motherhood</em> with Dr Mary Wood-Allen that emphasized home-making
+            <i>American Motherhood</i> with Dr Mary Wood-Allen that emphasized home-making
             and advice to women in the late 1890s that continued until 1909 or later. 
             <br><br>
 
@@ -608,14 +608,14 @@ m_bios = [
             to cover births. She organized the company with other women with the intent
             of combining philanthropy with business, but the company went bankrupt two years
             later. She and her husband were listed as living at 45 Bellevue Avenue in Cambridge
-            in the 1904 edition of the<em> Blue Book of Cambridge</em>.`,
+            in the 1904 edition of the<i> Blue Book of Cambridge</i>.`,
         otherNotes: "",
         references: `
-            Julia Ward Howe, Editor, <em>Representative Women of New England</em>, 1904.<br>
-            Jennie Cunningham Croly, <em>The History of the Woman's Club Movement
-                in America</em>, 1898.<br>
-            <em>Blue Book of Cambridge</em>, Cambridge MA, 1904.<br>
-            &#8221;Birth Insurance attacked&#8221;<em> New York Times</em>, May 11, 1906.
+            Julia Ward Howe, Editor, <i>Representative Women of New England</i>, 1904.<br>
+            Jennie Cunningham Croly, <i>The History of the Woman's Club Movement
+                in America</i>, 1898.<br>
+            <i>Blue Book of Cambridge</i>, Cambridge MA, 1904.<br>
+            &#8221;Birth Insurance attacked&#8221;<i> New York Times</i>, May 11, 1906.
             <br>Image from <a href="https://en.wikipedia.org/wiki/Estelle_M._H._Merrill" >https://en.wikipedia.org/wiki/Estelle_M._H._Merrill</a>
         <br><i>Cambridge City Directory</i>, 1890.
             `,
@@ -666,11 +666,11 @@ m_bios = [
                 in 1971, but retaining her position as Curator of Drawings for a further four
                 years. 
                 
-                <br><br>She produced a number of important catalogues, including: <em>Drawings
-                in the Fogg Museum of Art </em>(1940), <em>The Ingres Centennial Exhibition,
-                1867-1967 </em>(1967), <em>One Hundred Master Drawings, presented in honor of
-                Paul J. Sachs </em>(1949), and <em>David to Corot: French Drawings in the Fogg
-                Museum of Art </em>(1996). 
+                <br><br>She produced a number of important catalogues, including: <i>Drawings
+                in the Fogg Museum of Art </i>(1940), <i>The Ingres Centennial Exhibition,
+                1867-1967 </i>(1967), <i>One Hundred Master Drawings, presented in honor of
+                Paul J. Sachs </i>(1949), and <i>David to Corot: French Drawings in the Fogg
+                Museum of Art </i>(1996). 
                 <br><br>
 
             Agnes Mongan was visiting professor and visiting
@@ -685,7 +685,7 @@ m_bios = [
         references: `
                 Biography of Agnes Mongan, Agnes Mongan papers,
                 Harvard Art Museum Archives.<br>
-                <em>Harvard University Gazette</em>, September19,
+                <i>Harvard University Gazette</i>, September19,
                 1996.
                 <br>Image from wikipedia.com:<br> 
                 <a class='indent' href="https://en.wikipedia.org/wiki/Agnes_Mongan" >https://en.wikipedia.org/wiki/Agnes_Mongan</a>
@@ -752,7 +752,7 @@ m_bios = [
             eleven years later, at 101.`,
         otherNotes: "",
         references: `Schlesinger Library: Papers of Dorothea May Moore.<br>
-            Obituary (as Dorothea Moore Burkhard) <em>AAP</em> (American Academy of Pediatrics) <em>News</em> Vol.
+            Obituary (as Dorothea Moore Burkhard) <i>AAP</i> (American Academy of Pediatrics) <i>News</i> Vol.
             12 No.
             2 February 1996, p. 25.
             <br><i>The Cambridge Tribune</i>, 30 October 1915.
@@ -818,7 +818,7 @@ m_bios = [
             Art. Since 1993 the Museum of Fine Arts, Boston, which holds a number of her
             significant paintings, has awarded the Maud Morgan prize yearly to a mid-career
             woman artist. In 1995, at the age of ninety-two, she published an autobiography,
-            <em>Maud's Journey: A Life From Art</em>. 
+            <i>Maud's Journey: A Life From Art</i>. 
             
             <br><br>She died four years later in
             Cambridge. Plans have been made to create an art museum and gallery in her honor
@@ -839,8 +839,8 @@ m_bios = [
             Oral Interview
             with Maud Morgan, Archives of American Art, Smithsonian Institution; (Microfilm
             of her scrapbooks are also held at the Smithsonian).<br>
-            Maud Morgan, <em>Maud's
-                Journey: A Life From Art</em>.( Berkeley, New Earth Publications) 1995. <br>
+            Maud Morgan, <i>Maud's
+                Journey: A Life From Art</i>.( Berkeley, New Earth Publications) 1995. <br>
            
         <br>Image from wikipedia:<br><a  class='indent'  href="https://en.wikipedia.org/wiki/Maud_Morgan" >https://en.wikipedia.org/wiki/Maud_Morgan</a>.<br>
         <i>The Boston Globe</i> "Nevertheless, they persisted: standout New England women painters",
@@ -917,32 +917,32 @@ by Cate McQuaid,, April 12, 2017.
             great grandchildren. (New York Times, 1988.) `,
         otherNotes: "",
         references: `
-            Books and Writers website, <em>Robert (Lee) Frost (1874-1963)</em>. 2002. Found
+            Books and Writers website, <i>Robert (Lee) Frost (1874-1963)</i>. 2002. Found
             on
             May
             31, 2008
             at <a href="http://www.kirjasto.sci.fi/rfrost.htm" >http://www.kirjasto.sci.fi/rfrost.htm</a>.<br><br>
             Faggen,
-            R. (2001). <em>The Cambridge Companion to Robert Frost. </em>University Press,
+            R. (2001). <i>The Cambridge Companion to Robert Frost. </i>University Press,
             Cambridge, UK. Found on May 15, 2008 
             <a href="http://books.google.com/books?id=ApVwkZqt6uwC&amp;printsec=copyright&amp;dq=faggen+the+cambridge+companion+to+robert+frost" 
             >here</a>
             <br><br>
             Parini,
-            J. (1999). <em>Robert Frost: a life.</em> Fistzhenry &amp; Whiteside Ltd.,
+            J. (1999). <i>Robert Frost: a life.</i> Fistzhenry &amp; Whiteside Ltd.,
             Markham, Ontario. <br>
-            <em>New
-                York Times</em> Obituary, 11/29/1988. &#8220;Theodore Morrison, poet and professor,
+            <i>New
+                York Times</i> Obituary, 11/29/1988. &#8220;Theodore Morrison, poet and professor,
             87&#8221;. Found on May 15, 2008 at 
             <a href="http://query.nytimes.com/gst/fullpage.html?res=940DE0DA143FF93AA15752C1A96E948260" >
             http://query.nytimes.com/gst/fullpage.html?res=940DE0DA143FF93AA15752C1A96E948260</a><br><br>
             Seymour,
             M. (1996). &#8220;Stopping by woods for seduction&#8221;,
-            <em>New York
-                Times</em> article published May 19, 1996, found on May 15, 2008
+            <i>New York
+                Times</i> article published May 19, 1996, found on May 15, 2008
             <a href="http://query.nytimes.com/gst/fullpage.html?res=9C07EFD91339F93AA25756C0A960958260" >here</a><br><br>
             Tuten, Nancy Lewis and John Zubizarreta, editors.
-            <em>Robert Frost Encyclopedia</em>. Westport,
+            <i>Robert Frost Encyclopedia</i>. Westport,
             Conn.: Greenwood Press, 2001. Found 
             <a href="http://books.google.com/books?id=RjZuWeTJpAkC&amp;pg=PA466&amp;lpg=PA466&amp;dq=Robert+Frost+Encyclopedia+Tuten+Zubizarreta" >
             here</a><br><br>Image courtesty of Middlebury College Special Collections, Middlebury, Vermont<br><br>
@@ -984,8 +984,8 @@ by Cate McQuaid,, April 12, 2017.
             Cambridge at the time).
             The two married and became an inseparable couple. 
             
-            <br><br>When he began to serve <em>Scientific
-                American</em> as book editor, Phylis joined him in reviewing children's
+            <br><br>When he began to serve <i>Scientific
+                American</i> as book editor, Phylis joined him in reviewing children's
             science books for thirty-five years. She also worked with him on the NOVA series
             &#8220;Powers of Ten&#8221; for PBS, and worked on the book that arose from
             that series. The two also collaborated on a later NOVA series &#8220;The Ring
@@ -1061,8 +1061,8 @@ by Cate McQuaid,, April 12, 2017.
 
             <br><br>
 
-            In 1981, Rosario and Aurora both contributed pieces to <em>This Bridge Called My Back: 
-            Writings by Radical Women of Color</em>, edited by Cher'rie Moraga and Gloria Anzald&#250;a, 
+            In 1981, Rosario and Aurora both contributed pieces to <i>This Bridge Called My Back: 
+            Writings by Radical Women of Color</i>, edited by Cher'rie Moraga and Gloria Anzald&#250;a, 
             and Morales would soon become a well-known figure among Cambridge feminists and poets.  
 
             
@@ -1097,11 +1097,11 @@ by Cate McQuaid,, April 12, 2017.
             who had died of cancer.  Rosario died of multiple myeloma, a cancer associated 
             with the pesticide dieldrin, in 2011. Her daughter Aurora moved to Cambridge 
             that year, and in 2014 published a collection of her own and Rosario's prose writing,
-            <em>Cosecha and Other Stories</em>.   
+            <i>Cosecha and Other Stories</i>.   
 
             <br><br>
 
-            In 2005, Smith College's <em>Voices of Feminism Oral History Project</em> published an 
+            In 2005, Smith College's <i>Voices of Feminism Oral History Project</i> published an 
             extensive interview with Morales, reflecting on all parts of her life and her 
             life's work.  In it, she stated, "I fell in love with New England and really with
             the community of the feminist movement that I'm part of. It's my home. I've become
@@ -1116,8 +1116,8 @@ by Cate McQuaid,, April 12, 2017.
         references: `
           Wikipedia profile:<br><a class='indent' href="https://en.wikipedia.org/wiki/Rosario_Morales" >https://en.wikipedia.org/wiki/Rosario_Morales</a>.
           <br>
-        <em>Cambridge Chronicle</em> articles from 1982-1990.<br>
-        <em>Boston Globe</em> March 4, 1982.<br>
+        <i>Cambridge Chronicle</i> articles from 1982-1990.<br>
+        <i>The Boston Globe</i> March 4, 1982.<br>
        Smith College interview:<br> <a class='indent'  href="https://www.smith.edu/libraries/libs/ssc/vof/transcripts/Morales.pdf" >https://www.smith.edu/libraries/libs/ssc/vof/transcripts/Morales.pdf</a>.<br>
        Images source: Aurora Morales. <br>
        1989 Cambridge Phone Book.

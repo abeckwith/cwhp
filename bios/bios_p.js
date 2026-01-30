@@ -26,7 +26,7 @@ p_bios = [
             Island. Her health deteriorated further, but in spite of this she was given
             a position with the Western Sanitary Commission in Saint Louis, Missouri. There
             she worked at Lawson Hospital and later on a steamboat for wounded and ill soldiers,
-            <em>City of Alton</em>. During this period, she contracted malaria. She was
+            <i>City of Alton</i>. During this period, she contracted malaria. She was
             made supervisor of nurses at the Barracks Hospital, near St. Louis, the largest
             hospital in the area, where she reduced the death rate remarkably. After the
             war, the hospital began to serve freed slaves. <br><br>
@@ -45,11 +45,11 @@ p_bios = [
             Auburn Hospital began. The first hospital structure, still extant, was completed
             in 1886 and named the Parsons Building in honor of Emily Elizabeth Parsons.
             After her death, her father published her correspondence detailing her experiences
-            as a war nurse, <em>Memoir of Emily Elizabeth Parsons </em>(1880). `,
+            as a war nurse, <i>Memoir of Emily Elizabeth Parsons </i>(1880). `,
         otherNotes: "",
-        references: `<em>Notable American Women</em> (1950).<br>
-        <em>Biographical
-                Dictionary of Women Scientists</em> (2000).<br>
+        references: `<i>Notable American Women</i> (1950).<br>
+        <i>Biographical
+                Dictionary of Women Scientists</i> (2000).<br>
             Image from wikipedia public domain entry for Emily Parsons.
         `,
         photos: ["images_bios/emily_Parsons.jpg"],
@@ -90,10 +90,10 @@ p_bios = [
             and professor of economics. The couple moved to Alabama when Fritz accepted
             a position at a black school, Talladega College; he taught there from 1944 to
             1952. At the college, Yvonne became keenly aware of racial discrimination, as
-            she reported in a PBS documentary, <em>From Swastika to Jim Crow,</em> that
+            she reported in a PBS documentary, <i>From Swastika to Jim Crow,</i> that
             recounted the experiences of Jewish refugees teaching at black colleges in the
             South. The couple moved to Cambridge in 1952, where Fritz Pappenheim wrote a
-            groundbreaking study, <em>The Alienation of Modern Man</em> (1959), and continued
+            groundbreaking study, <i>The Alienation of Modern Man</i> (1959), and continued
             to teach and lecture. <br><br>
 
             After her husband's death in 1964, Yvonne
@@ -112,13 +112,13 @@ p_bios = [
             <br><br>For twenty years before her death, she was a member of &#8220;Writers
             In Action,&#8221; a group that met weekly at her home to send letters to public
             officials and news outlets on various social and economic issues. Her last letter
-            to the <em>Boston Globe</em> was sent only two weeks before her death. Over
+            to the <i>Boston Globe</i> was sent only two weeks before her death. Over
             many years she was assistant to her neighbor, Philip Morrison, an atomic physicist
-            and a peace activist, in his role as book editor of the <em>Scientific American</em>.
+            and a peace activist, in his role as book editor of the <i>Scientific American</i>.
             She died in Cambridge at the age of ninety-five.`,
         otherNotes: "",
-        references: `Avi Steinberg in <em>The Boston Globe</em> July 19, 2005.<br>
-            <em>Monthly Review</em>, December 1995.<br>
+        references: `Avi Steinberg in <i>The Boston Globe</i> July 19, 2005.<br>
+            <i>Monthly Review</i>, December 1995.<br>
             <i>Cambridge City Directory</i>, 1968.<br>
             Photo credit: Alabama Holocaust Education Center, received from Steven Rasmussen, son of Lore May Rasmussen, a colleague of Fritz Pappenheim at Talladega College:
             <br><a class='indent' href="https://ahecinfo.org/survivors/pappenheim-fritz/">
@@ -164,7 +164,7 @@ p_bios = [
             <br><br>
             In 1934 she married the Russian astronomer, Sergei
             Gaposchkin, with whom she had three children. The two published a classic work,
-            <em>Variable Stars</em>, in 1938. Although husband and wife worked together,
+            <i>Variable Stars</i>, in 1938. Although husband and wife worked together,
             Cecelia was the more celebrated. In 1938 she was named an astronomer and lecturer
             at Harvard Observatory. In 1956 she was appointed Phillips Professor of Astronomy,
             becoming the first woman to receive a tenured professorship at Harvard University;
@@ -182,13 +182,13 @@ p_bios = [
             needed to find a balance between their professional and home life. She died
             in 1979.`,
         otherNotes: "",
-        references: `Cecilia Payne-Gaposchkin: <em>The Dyers Hand: An
-                Autobiography and Other Recollections.</em> Cambridge, UK: Cambridge University
+        references: `Cecilia Payne-Gaposchkin: <i>The Dyers Hand: An
+                Autobiography and Other Recollections.</i> Cambridge, UK: Cambridge University
             Press, 1984.<br>
-            <em>Women's Book of Records and Achievement</em>, 1979. Phyllis J, Read
-            and Bernard L. Wilieb. <em>The Book of Women's Firsts</em>, New York,
-            1992. Marilyn Ogilvie and Joy Harvey (eds.) <em>Biographical Dictionary of Women
-                Scientists</em>. Routledge, 2000.<br>
+            <i>Women's Book of Records and Achievement</i>, 1979. Phyllis J, Read
+            and Bernard L. Wilieb. <i>The Book of Women's Firsts</i>, New York,
+            1992. Marilyn Ogilvie and Joy Harvey (eds.) <i>Biographical Dictionary of Women
+                Scientists</i>. Routledge, 2000.<br>
                 Image from wikipedia.com:<br>
                 <a class='indent' href="https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin" >https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin</a>
         `,
@@ -226,7 +226,7 @@ p_bios = [
             and laundries with a small group of other Cambridge women. 
             
             <br><br>In a series of articles
-            in the <em>Atlantic Monthly</em> (1868-1869), she suggested cooperative housekeeping
+            in the <i>Atlantic Monthly</i> (1868-1869), she suggested cooperative housekeeping
             as a prelude to cooperative retail selling by women, and recommended that the
             women who joined the cooperatives should be paid salaries to manage the business
             of obtaining goods, preparing meals, and hiring domestic help. She formed the
@@ -242,10 +242,10 @@ p_bios = [
             
             <br><br>
              Melusina published on various topics, emphasizing different
-            aspects of cooperative living. Her first book, <em>Co-operation</em> (1876),
+            aspects of cooperative living. Her first book, <i>Co-operation</i> (1876),
             envisaged wider communities that would include communal work areas. In 1884
-            she published <em>Co-operative Housekeeping</em>, subtitled, <em>how not to
-                do it and how to do it: a study in sociology</em>. She had originally presented
+            she published <i>Co-operative Housekeeping</i>, subtitled, <i>how not to
+                do it and how to do it: a study in sociology</i>. She had originally presented
             this material as a paper at the Illinois Social Science meeting in 1880, still
             promoting her ideas of the 1860s and 1870s. By 1903, she had patented a design
             for a cooperative apartment building with communal kitchens. 
@@ -254,12 +254,12 @@ p_bios = [
             in 1923 at the age of 87.`,
         otherNotes: "",
         references: `
-            Dolores Hayden, <em>The Grand Domestic Revolution: A History of Feminist Designs
-                for American Homes, Neighborhoods, and Cities</em> (Cambridge: MIT Press, 1981).<br>
+            Dolores Hayden, <i>The Grand Domestic Revolution: A History of Feminist Designs
+                for American Homes, Neighborhoods, and Cities</i> (Cambridge: MIT Press, 1981).<br>
             Norma P Atkinson. &#8220;An examination of the life and thought of Zina Fay
             Peirce an American reformer and feminist.&#8221; (Ph.D. thesis, Ball State University,
             1984).<br>
-            Tad Beckman, <em>An Outline of Charles Sanders Peirce's Life</em>. Philosophy
+            Tad Beckman, <i>An Outline of Charles Sanders Peirce's Life</i>. Philosophy
             170 Course Notes, Harvey Mudd College, Claremont, CA 91711.
           
             <br>

@@ -39,7 +39,7 @@ h_bios = [
             Longfellow Park, between Memorial Drive and Mt. Auburn Street. <br><br>
 
             She
-            was the author of <em>The Aunts</em>, a 1992 memoir of the four Curtis sisters
+            was the author of <i>The Aunts</i>, a 1992 memoir of the four Curtis sisters
             of Beacon Hill and Manchester. Some of her letters from her father are held
             in the Charles Hopkinson collection in the Smithsonian Archives of American
             Art. The Curtis family papers, in the Schlesinger Library, include some material
@@ -47,8 +47,8 @@ h_bios = [
         otherNotes: "",
         references: `
             Charles Hopkinson collection, Smithsonian Archives of American Art.<br>
-            Papers, 1797-1991 of the Curtis family, Schlesinger Library<em>.<br>
-                Cambridge Chronicle</em> October 21, 1993.<br>
+            Papers, 1797-1991 of the Curtis family, Schlesinger Library<i>.<br>
+                Cambridge Chronicle</i> October 21, 1993.<br>
             Corrections and additions by her children.<br>
             <i>Cambridge City Directory</i>, 1961.
         `,
@@ -95,21 +95,21 @@ h_bios = [
             Medical School as an assistant professor, the first woman to be appointed to
             the medical faculty. She remained there for sixteen years without a promotion,
             excluded as a member of the Harvard Faculty Club. She went on to publish a number
-            of important books, most notably <em>Industrial Toxicology</em> (1934) and including
-            an autobiography, <em>Exploring the Dangerous Trades: The Autobiography of Alice
-                Hamilton</em> (1943). She was the only member of the League of Nations Health
+            of important books, most notably <i>Industrial Toxicology</i> (1934) and including
+            an autobiography, <i>Exploring the Dangerous Trades: The Autobiography of Alice
+                Hamilton</i> (1943). She was the only member of the League of Nations Health
             Committee (1924-1930). <br><br>
             
             After her retirement, she continued to be active in both
             national and local groups and to support liberal causes. She was awarded many
             honorary degrees in her retirement years.`,
         otherNotes: "",
-        references: ` <em>Cambridge Chronicle</em> Sept. 20, 2000<br>
+        references: ` <i>Cambridge Chronicle</i> Sept. 20, 2000<br>
          Barbara
-            Sicherman. <em>Alice Hamilton M.D.: A life in Letters</em>. Harvard University
+            Sicherman. <i>Alice Hamilton M.D.: A life in Letters</i>. Harvard University
             Press, 1984.<br>
-             Ogilvie, Marilyn and Joy Harvey. <em>Biographical Dictionary of
-                Women Scientists</em> (2000).<br>
+             Ogilvie, Marilyn and Joy Harvey. <i>Biographical Dictionary of
+                Women Scientists</i> (2000).<br>
                 Image from wikipedia.com:
                 <br><a class='indent' href="https://en.wikipedia.org/wiki/Alice_Hamilton" >https://en.wikipedia.org/wiki/Alice_Hamilton</a>
         `,
@@ -303,7 +303,7 @@ h_bios = [
             Harvard Medical School. She is
             the author of the award-winning books Father-Daughter Incest (Harvard University
             Press, 1981), and Trauma and Recovery (Basic Books, 1992). 
-            Her new book, <em>Truth and Repair: How Trauma Survivors Envision Justice</em>, was published
+            Her new book, <i>Truth and Repair: How Trauma Survivors Envision Justice</i>, was published
             in March, 2023. `,
         otherNotes: "",
         references: `
@@ -359,7 +359,7 @@ h_bios = [
             In 1989, she was residing at 101 Brattle Street in Cambridge. In 1997, she
             was Acting Director of Congregational Studies. The Suzanne Hiatt Chair in Feminist
             Pastoral Theology was named after her. In 1993, she published with Emily C Hewitt,
-            <em>Women Priests, Yes or No?</em> She contributed extensive book chapters and
+            <i>Women Priests, Yes or No?</i> She contributed extensive book chapters and
             articles on a variety of topics. She presented a woman for ordination of the
             Diocese of London's first ordination of women in St Paul's Cathedral
             in 1994. Hiatt received an Honorary LLD from Regis College in 1988. <br><br>
@@ -369,9 +369,9 @@ h_bios = [
             Columbia University, Union Theological Seminary, Archive of Women in Theological
             Scholarship. `,
         otherNotes: "",
-        references: ` <em>The Witness</em> magazine Monday, July 15,
+        references: ` <i>The Witness</i> magazine Monday, July 15,
             2002.<br>
-             <em>Cambridge Chronicle</em> June 5 2002. 
+             <i>Cambridge Chronicle</i> June 5 2002. 
              <br>Biographical note, Archive of
             Women in Theological Scholarship by Leslie Reyman: (October 2000). <br>
             &nbsp;&nbsp;&nbsp;&nbsp;<a
@@ -407,7 +407,7 @@ h_bios = [
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Agnes Boyle O'Reilly was the daughter of Irish-born Catholic poet and editor
-            of <em>The Pilot</em>, John Boyle O'Reilly. She married William Ernest
+            of <i>The Pilot</i>, John Boyle O'Reilly. She married William Ernest
             Hocking, then an
             instructor in comparative religion at Andover Theological Seminary, in Boston
             on June 28, 1905. They had three children, Richard Hocking (1906-2001), Hester
@@ -500,8 +500,8 @@ h_bios = [
             for defamation. 
             `,
         otherNotes: "",
-        references: `Lucius R.Paige. <em>A History of Cambridge 1630
-                -1877 with a Genealogical Register</em> Boston, Cambridge 1877, 856-863.<br>
+        references: `Lucius R.Paige. <i>A History of Cambridge 1630
+                -1877 with a Genealogical Register</i> Boston, Cambridge 1877, 856-863.<br>
                 <i>The Cambridge Chronicle</i>, 7 October 1937.
 
         `,
@@ -543,11 +543,11 @@ h_bios = [
             produced the play and performed a central role. In order to support herself,
             she worked as a stenographer with the Massachusetts Bureau of Statistics, beginning
             her professional literary career only in 1900 when she published a short story
-            in the first issue of <em>The Colored American Magazine</em>. She wrote continuously
+            in the first issue of <i>The Colored American Magazine</i>. She wrote continuously
             for the magazine, eventually becoming its literary editor. Her work includes
-            many short stories, essays, and two serialized novels: <em>Winona: A Tale of
-                Negro Life in the South and Southwest</em> and <em>Of One Blood: or, The Hidden
-                Self.</em> 
+            many short stories, essays, and two serialized novels: <i>Winona: A Tale of
+                Negro Life in the South and Southwest</i> and <i>Of One Blood: or, The Hidden
+                Self.</i> 
                 
                 <br><br>In 1902, Pauline Hopkins wrote:
             <blockquote>"Is it not true that the fate of the Negro is the romance of American History?"
@@ -595,8 +595,8 @@ h_bios = [
             She was living at 19 Jay Street in Cambridge at the time of her death.
             `,
         otherNotes: "",
-        references: `<em>The Unruly Voice: Rediscovering Pauline Elizabeth
-                Hopkins</em>. Ed. John C. Gruesser. Urbana: U of Illinois P, 1996. <br>
+        references: `<i>The Unruly Voice: Rediscovering Pauline Elizabeth
+                Hopkins</i>. Ed. John C. Gruesser. Urbana: U of Illinois P, 1996. <br>
                 Cambridge
             Public Library website &#8220;Penwomen of Cambridge Past: Biographies of
             Our Literary Foremothers&#8221;.<br>
@@ -753,12 +753,12 @@ h_bios = [
             Noted projects of Howe's at this time were her 1901 and 1904 renovations
             of the Griswold residence at 23 Craigie Street in Cambridge. Howe was also noted
             for pioneering the use of stucco. Articles about her plasterwork appeared in
-            <em>Architectural Review </em>and<em> Architectural Record</em>. In a 1907 issue
-            of <em>Architectural Revew</em>, she gave advice about designing serving pantries
+            <i>Architectural Review </i>and<i> Architectural Record</i>. In a 1907 issue
+            of <i>Architectural Revew</i>, she gave advice about designing serving pantries
             for small houses. <br><br>
 
             In 1913 Howe co-published, with MIT graduate Constance
-            Fuller, <em>Details of Old New England Houses</em>. Howe became known for her
+            Fuller, <i>Details of Old New England Houses</i>. Howe became known for her
             &#8220;ability to create simple, efficient floor plans; and her effort to minimize
             expense.&#8221; &#8220;Howe used to see the house being torn down and would
             run quickly and take the mantels and doors.&#8221;(Allaback).<br><br>
@@ -768,13 +768,13 @@ h_bios = [
             renewal to the firm. In the early 1920's Howe and Manning participated
             in the design of Mariemont, Ohio a planned community outside of Cincinnati using
             the principles of John Nolan and the English garden city as a model. They were
-            also asked to submit designs by <em>McCall's </em>magazine for its small
+            also asked to submit designs by <i>McCall's </i>magazine for its small
             house series.<br><br>
 
             Howe and Manning further expanded in 1926 when
             they acquired a third partner, Mary Almy, like Howe, a native of Cambridge.
             This same year, the firm won first prize for The Charles Almy House in a Cape
-            Code competition sponsored by <em>House Beautiful</em>.<br><br>
+            Code competition sponsored by <i>House Beautiful</i>.<br><br>
 
             Howe was active on several housing planning commissions
             throughout her life, but organizations concerned with housing problems represented
@@ -799,26 +799,26 @@ h_bios = [
         Photo by Florence Maynard, courtesy
             MIT Museum. <br>
             
-            Abeel, Daphne. <em>Cambridge in the Twentieth Century</em>, Cambridge Historical
+            Abeel, Daphne. <i>Cambridge in the Twentieth Century</i>, Cambridge Historical
             Society: Cambridge, Massachusetts, 2007. <br>
-            Allaback, Sarah. <em>The First American Women Architects</em>. Urbana and Chicago:
+            Allaback, Sarah. <i>The First American Women Architects</i>. Urbana and Chicago:
             University of Illinois Press, 2007.<br>
-            American Institute of Architects. <em>The A.I.A. Historical Directory of American
-                Architects.</em>
+            American Institute of Architects. <i>The A.I.A. Historical Directory of American
+                Architects.</i>
             <br>
-            &quot;An Alumna's Architectural Career,&quot; <em>Technology Review</em>, vol.
+            &quot;An Alumna's Architectural Career,&quot; <i>Technology Review</i>, vol.
             66, no. 2 (December 1963), pp. 21, 38.<br>
             &quot;An Architectural Monograph: The Colonel Robert Means House at Amherst,
-            New Hampshire.&quot; New York: R. F. Whitehead, 1927, <em>White Pine Series
-                of Architectural Monographs</em>, vol. 13, no. 5.<br>
-            Ben-Joseph, Eran, Holly D. Ben-Joseph and Anne C. Dodge.<em> Against all Odds:
-                MIT's Pioneering Women of Landscape Architecture</em>. Massachusetts Institute
+            New Hampshire.&quot; New York: R. F. Whitehead, 1927, <i>White Pine Series
+                of Architectural Monographs</i>, vol. 13, no. 5.<br>
+            Ben-Joseph, Eran, Holly D. Ben-Joseph and Anne C. Dodge.<i> Against all Odds:
+                MIT's Pioneering Women of Landscape Architecture</i>. Massachusetts Institute
             of Technology, School of Architecture and Planning, City Design and Development
             Group: Cambridge, Massachusetts, November 2006. <br>
-            Cambridge Historical Society. <em>Cambridge Historical Society Proceedings</em>.<br>
+            Cambridge Historical Society. <i>Cambridge Historical Society Proceedings</i>.<br>
             Cole, Doris and Taylor, Karen Cord, The Lady Architects, Mid March Arts Press:
             New York, 1990.<br>
-            Howe, Lois L. and Constance Fuller<em> Details from Old New England Houses</em>.
+            Howe, Lois L. and Constance Fuller<i> Details from Old New England Houses</i>.
             New York: Architectural Book Publishing Co., 1913. <br>
             Howe, Manning &amp; Almy Papers,1883-1972, MIT Archives and Special Collections.<br>
            
@@ -826,7 +826,7 @@ h_bios = [
             Nathanson, Larry M.D., &#8220;Lois Lilly Howe: Pioneer Career Woman, Architect,
             Cambridge Citizen.&#8221;.<br>
             &quot;Serving Pantries in
-            Small Houses.&quot; <em>Architectural Review</em>, vol. 14, no. 3 (March 1907).<br>
+            Small Houses.&quot; <i>Architectural Review</i>, vol. 14, no. 3 (March 1907).<br>
         `,
         photos: ["images_bios/howe.jpg"],
         photoTitles: [],
@@ -867,7 +867,7 @@ h_bios = [
         While at the AG's Office, she was an Assistant Attorney General, first focusing on family 
         and community crimes, doing victim compensation law. Soon thereafter, she became a Special 
         Assistant District Attorney for the Plymouth County District Attorney's Office and later 
-        the Suffolk District Attorney's Office, helping get the <em>Safe Neighborhood Initiative</em> off the
+        the Suffolk District Attorney's Office, helping get the <i>Safe Neighborhood Initiative</i> off the
          ground. She also worked in the Public Integrity Division, working on public corruption cases. 
          Later, she worked for the Middlesex and Suffolk District Attorney's Offices, as an Assistant
          District Attorney, focusing on crimes of domestic violence.  She also worked for the Middlesex 
@@ -912,8 +912,8 @@ h_bios = [
         otherNotes: "",
         references: ` 
         Interview with Audrey Huang, April 2, 2025.<br>
-        <em>Belmont Voice</em> article, Oct. 13, 2024.<br>
-        Alma Boudreau obit, <em>Cambridge Chronicle</em>, May 18, 1995.<br>
+        <i>Belmont Voice</i> article, Oct. 13, 2024.<br>
+        Alma Boudreau obit, <i>Cambridge Chronicle</i>, May 18, 1995.<br>
         Photos courtesy of Audrey Huang.
         `,
 
@@ -977,25 +977,25 @@ h_bios = [
         early eighties, she created innovative courses on biology and politics from
         a feminist perspective. She began to publish studies of the politics of women's
         health, on the position of women in academia and research and
-        on the ethics of gene therapy and genetic testing including, <em>The Politics
-            of Women's Biology</em> (1990); <em>Profitable Promises: Essays on Women
-            Science and Health</em> (1994); and <em>Exploding the Gene Myth,</em> with her
+        on the ethics of gene therapy and genetic testing including, <i>The Politics
+            of Women's Biology</i> (1990); <i>Profitable Promises: Essays on Women
+            Science and Health</i> (1994); and <i>Exploding the Gene Myth,</i> with her
         son Elijah Wald, (1993). She was a board member of Science for the People in
         the 1970s and 1980s, along with geneticists Richard Lewontin and Jonathan Beckwith.
         She is a founding board member of The Council for Responsible Genetics.
         <br><br>
         
         Retiring
-        in 1990, she became professor <em>emerita</em> in the Department of Molecular
+        in 1990, she became professor <i>emerita</i> in the Department of Molecular
         and Cellular Biology at Harvard. In 2003, she was awarded an honorary Doctorate
         of Science by Clark University. In May 2005, the Massachusetts American Civil
         Liberties Union presented her with the Luther Knight Macnair award for her work
         on bioethics.
             `,
         otherNotes: "",
-        references: ` Benjamin F. Shearer and Barbara Smith Shearer <em>Notable
-                Women in the Life Sciences</em>. Westport CN 1996.; R. Hubbard and E. Wald.<br>
-            &#8220;George Wald Memorial Talk&#8221; in <em>Rhodopsin and Photransduction</em>,
+        references: ` Benjamin F. Shearer and Barbara Smith Shearer <i>Notable
+                Women in the Life Sciences</i>. Westport CN 1996.; R. Hubbard and E. Wald.<br>
+            &#8220;George Wald Memorial Talk&#8221; in <i>Rhodopsin and Photransduction</i>,
             pp. 5-20. Chichester: [Novartis Foundation Symposium 224].
             <br> Online conversation
             with Frank Aqueno in 1993. <br>
@@ -1072,8 +1072,8 @@ h_bios = [
 
 `,
         otherNotes: "",
-        references: `<em>Notable American Women, Modern Period</em>;
-            <em>Encyclopedia Britannica</em>, <em>Wikipedia</em>.<br>
+        references: `<i>Notable American Women, Modern Period</i>;
+            <i>Encyclopedia Britannica</i>, <i>Wikipedia</i>.<br>
             Image from wikipedia:<br>
              <a class='indent' href="https://en.wikipedia.org/wiki/Anna_Hyatt_Huntington" >https://en.wikipedia.org/wiki/Anna_Hyatt_Huntington</a>
         <br>
@@ -1158,7 +1158,7 @@ h_bios = [
             world, climbing the Matterhorn, Mont Blanc, and the more difficult Dolomites;
             she also scaled every 4,000-link-to-top in the White Mountains (celebrating her 80th
             birthday on the summit of Mount Washington), and knew well the peaks in the
-            Canadian Rockies and Sierra Nevada. The <em>Christian Science Monitor</em> once
+            Canadian Rockies and Sierra Nevada. The <i>Christian Science Monitor</i> once
             described her as a &#8220;petite sportswoman&#8221; as she stood less than five
             feet tall. When she was at home in Cambridge, Marjorie was an active volunteer
             including for the Appalachian Mountain Club (editor, officer, life member),

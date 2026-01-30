@@ -103,8 +103,8 @@ s_bios = [
             studied in New York at the Civic Repertory Theater. She returned to Boston,
             where she taught creative writing and choral speaking, and directed plays at
             the old Stuart School in the Fenway. She also lectured on poetry at the Winsor
-            School and Milton Academy. Her first book, <em>Encounter in April</em>, was
-            published in 1937, and a year later she published <em>The Single Hound</em>.
+            School and Milton Academy. Her first book, <i>Encounter in April</i>, was
+            published in 1937, and a year later she published <i>The Single Hound</i>.
             Sarton at first wanted to be an actress, and spent the years 1927-ca.1935 at
             the New York Civic Repertory Theater and in Paris. When she proved unsuccessful
             as an actress, she turned to writing fiction. Her first short stories did not
@@ -112,24 +112,24 @@ s_bios = [
             who was to become a passionate friend and lover for the next decades. <br><br>
 
             May Sarton began to write poetry seriously and
-            in 1939 returned to the United States. Her collection of poems, <em>Inner Landscape</em>,
+            in 1939 returned to the United States. Her collection of poems, <i>Inner Landscape</i>,
             was published that year, and she began to earn her living lecturing and giving
             poetry readings at various colleges and schools. During World War II, she worked
             for the Office of War Information in the film department. In 1945, she won the
             Gold Rose for Poetry and the Edward Bland Memorial prize. After the war, with
-            publication of the novel, <em>The Bridge of Years</em>, and a poetry collection,
-            The <em>Lion and the Rose</em> (1948), Sarton's reputation began to grow.
-            Her short stories were published in <em>The New Yorker</em> and <em>Harper's
-                Bazaar</em>, and she wrote several articles for the <em>Atlantic Monthly</em>,
-            <em>Harper's</em>, <em>The Kenyan Review</em>, <em>The Reporter</em>,
+            publication of the novel, <i>The Bridge of Years</i>, and a poetry collection,
+            The <i>Lion and the Rose</i> (1948), Sarton's reputation began to grow.
+            Her short stories were published in <i>The New Yorker</i> and <i>Harper's
+                Bazaar</i>, and she wrote several articles for the <i>Atlantic Monthly</i>,
+            <i>Harper's</i>, <i>The Kenyan Review</i>, <i>The Reporter</i>,
             and others. She supported herself by teaching in universities from 1950 to 1955,
             serving as Briggs-Copeland instructor in composition at Harvard from 1950 to
-            1952. In 1954 he wrote a biography of her father, <em>I Knew a Phoenix</em>,
+            1952. In 1954 he wrote a biography of her father, <i>I Knew a Phoenix</i>,
             depicting Cambridge and the academic world in which she grew up. <br><br>
 
             After 1958, when both her parents died, she sold
             her family home in Cambridge and moved to Nelson, New Hampshire, where she wrote
-            <em>The Small Room</em> and <em>Mrs. Stevens Hears the Mermaids Singing</em>.
+            <i>The Small Room</i> and <i>Mrs. Stevens Hears the Mermaids Singing</i>.
             Because this second book depicted a lesbian affair, she was required to excise
             some passages before her publisher would agree to accept it. This book is considered
             the author's most intense study of the feminine artist as a misunderstood
@@ -144,23 +144,23 @@ s_bios = [
             Holistic Education. <br><br>
 
             In 1973, Sarton moved to New York. Later, she
-            published two autobiographies, <em>Plant Dreaming Deep</em> and <em>A World
-                of Light</em>, published in 1968 and 1976, respectively. In the 1980s, she suffered
+            published two autobiographies, <i>Plant Dreaming Deep</i> and <i>A World
+                of Light</i>, published in 1968 and 1976, respectively. In the 1980s, she suffered
             a stroke, which left her unable to write for over nine months; later she published,
-            <em>After the Stroke</em> (1988). A year before her death, May published a last
-            volume of poems, <em>Coming into Eighty</em> (1994). She died of breast cancer
+            <i>After the Stroke</i> (1988). A year before her death, May published a last
+            volume of poems, <i>Coming into Eighty</i> (1994). She died of breast cancer
             on Sunday, July 17, 1993, in York Hospital, Maine. 
 
             Sarton published more than fifty books of poetry, memoirs, novels, and essays.
-            <br><br>In 1982, the first comprehensive scholarly look at her work, <em>May Sarton:
-                Woman and Poet</em> by Constance Hunting, was published by the National Poetry
+            <br><br>In 1982, the first comprehensive scholarly look at her work, <i>May Sarton:
+                Woman and Poet</i> by Constance Hunting, was published by the National Poetry
             Foundation. In 1996, a plaque commemorating her life and work, was erected on
             the grounds of the main branch of the Cambridge Public Library. `,
         otherNotes: "",
-        references: ` May Sarton, <em>I Knew a Phoenix</em>,<em>Plant
-                Dreaming Deep</em>, <em>A World of Light</em>. <br>Constance Hunting <em>May Sarton:
-                Woman and Poet</em>.
-                <br><br>National Poetry Foundation, 1982; <em>Great Women Writers</em>.
+        references: ` May Sarton, <i>I Knew a Phoenix</i>,<i>Plant
+                Dreaming Deep</i>, <i>A World of Light</i>. <br>Constance Hunting <i>May Sarton:
+                Woman and Poet</i>.
+                <br><br>National Poetry Foundation, 1982; <i>Great Women Writers</i>.
             <br>Henry Holt, 1994; Cambridge Historical Commission files.<br>
             Image from wikipedia.com:<br>
             <a class='indent' href="https://en.wikipedia.org/wiki/May_Sarton" >https://en.wikipedia.org/wiki/May_Sarton</a>
@@ -195,14 +195,14 @@ s_bios = [
             of the well-known Harvard physiologist, Walter B. Cannon, and his wife, Cornelia
             James Cannon. After graduating from Radcliffe College in 1934, Marian spent
             a year traveling in China and studying Chinese painting in Peking. On her return
-            home, she wrote and illustrated <em>San Bao and His Adventures in Peking</em>,
+            home, she wrote and illustrated <i>San Bao and His Adventures in Peking</i>,
             a classic children's book of the 1930s. <br><br>
             
             In 1940 she married the historian Arthur
             Schlesinger, Jr., whom she had met during his junior year at Harvard; they had
             four children. The couple divorced in 1970. In 1979, while living at 109 Irving 
             Street in Cambridge, she published an autobiography,
-            <em>Snatched From Oblivion</em>, that described growing up in an academic household
+            <i>Snatched From Oblivion</i>, that described growing up in an academic household
             in Cambridge dominated by strong-minded women, including her novelist mother. 
             In this book she also depicted an assortment of Cambridge characters of the
             1920s and 1930s, the politics of the time, and town-gown confrontations.
@@ -225,10 +225,10 @@ s_bios = [
 
 `,
         otherNotes: "",
-        references: `Marian Cannon Schlesinger, <em>Snatched from Oblivion</em>,
+        references: `Marian Cannon Schlesinger, <i>Snatched from Oblivion</i>,
             (Little Brown, 1979).<br>
-            Arthur Schlesinger, Jr. <em>A Life in the 20th Century: Innocent Beginnings,
-                1917-1950</em>. Houghton Mifflin, 2000.<br>
+            Arthur Schlesinger, Jr. <i>A Life in the 20th Century: Innocent Beginnings,
+                1917-1950</i>. Houghton Mifflin, 2000.<br>
                 <i>Cambridge City Directory</i>, 1972.<br>
                 Image from wikipedia.com:<br>
                 <a class='indent' href="https://en.wikipedia.org/wiki/Marian_Cannon_Schlesinger" >https://en.wikipedia.org/wiki/Marian_Cannon_Schlesinger</a>
@@ -349,10 +349,10 @@ s_bios = [
             </blockquote>`,
         otherNotes: "",
         references: `Oral interview by Sarah Boyer. <br>For information
-            on the Simplex Steering Committee, see <em>The Tech</em>, 1990.<br>
+            on the Simplex Steering Committee, see <i>The Tech</i>, 1990.<br>
             Christopher
-            Montgomery, &#8220;Boston project creates new niche,&#8221; <em>Cleveland Plain
-                Dealer</em>, November 28, 2005.<br>
+            Montgomery, &#8220;Boston project creates new niche,&#8221; <i>Cleveland Plain
+                Dealer</i>, November 28, 2005.<br>
                 <i>Cambridge City Directory</i>, 1954.<br>
                 <i>The Cambridge Chronicle</i>, 13 January 2005.
 
@@ -408,7 +408,7 @@ s_bios = [
             in their children&rsquo;s educational experience. The policy is still in effect. <br><br>
 
              In 2001, Simmons successfully ran for a seat on the Cambridge City Council, and in
-            2008, she was unanimously elected Mayor by fellow Council members, making national headlines as the the
+            2008, she was unanimously elected Mayor by fellow Council members, making national headlines as the
             first African American openly lesbian mayor in the country (and the first African American female mayor in
             Massachusetts). She served again as Mayor from 2016 to 2017. In January 2018, she began her ninth term on
             the City Council. The hallmarks of her tenure have been affordable housing, inclusionary zoning, public
@@ -446,13 +446,13 @@ s_bios = [
             MIT Oral history interview with Joe McMaster, video and transcript, Feb. 25, 2016:<br>
             <a class='indent'
                 href="https://infinitehistory.mit.edu/video/denise-simmons">https://infinitehistory.mit.edu/video/denise-simmons</a> <br>
-            Ratigan, Evelyn<em>. </em>&quot;Cambridge Officials Unveil Monument to Prince Hall,&quot; <em>Cambridge
-                Chronicle</em>, 5/18/2010.<br>
+            Ratigan, Evelyn<i>. </i>&quot;Cambridge Officials Unveil Monument to Prince Hall,&quot; <i>Cambridge
+                Chronicle</i>, 5/18/2010.<br>
             Cambridge City Council Resolution to Name Prince Hall a Founding Father, 10/20/2008. 
             <br>
             Denise Simmons Election Website and Bio. <br>
-            Monroe, Rev. Irene.&ldquo;Black Episcopal Congregation Celebrates Lesbian Marriage,&rdquo; <em>Huffington
-                Post</em>, 11/10/2009:
+            Monroe, Rev. Irene.&ldquo;Black Episcopal Congregation Celebrates Lesbian Marriage,&rdquo; <i>Huffington
+                Post</i>, 11/10/2009:
                 <br> <a class='indent'href="https://www.huffingtonpost.com/irene-monroe/black-episcopal-congregat_b_281261.html"
                 >https://www.huffingtonpost.com/irene-monroe/black-episcopal-congregat_b_281261.html</a>
             <br>
@@ -525,9 +525,9 @@ s_bios = [
         `,
         otherNotes: "",
         references: `
-            Obituary, <em>Resonance</em> June 2006.<br>
+            Obituary, <i>Resonance</i> June 2006.<br>
             Oral interview in Schlesinger Library.<br>
-            DMS<em>E News</em> (MIT). April 2001. <br>
+            DMS<i>E News</i> (MIT). April 2001. <br>
             <i>Cambridge City Directory</i>, 1972.<br>
             Image from University of Chicago Photographic Archive, apf1-07690, Hanna Holborn Gray Special Collections Research Center, University of Chicago Library.
            `,
@@ -577,9 +577,9 @@ s_bios = [
             Development in Boston. She also worked as a consultant for the Better Homes
             Foundation, Save the Children, and the Women's Housing Coalition in Albuquerque.<br><br>
 
-            Sprague wrote two manuals,<em> A Development Primer:
-            Starting Housing or Business Ventures by and/or for Women</em> (1984), and <em>A
-            Manual on Transitional Housing</em> (1986). 
+            Sprague wrote two manuals,<i> A Development Primer:
+            Starting Housing or Business Ventures by and/or for Women</i> (1984), and <i>A
+            Manual on Transitional Housing</i> (1986). 
             In a 1986 letter to <i>The Boston Globe</i>, Sprague wrote to set the record straight about transitional housing:
             
             <blockquote>
@@ -590,9 +590,9 @@ s_bios = [
             </blockquote>
 
             She also wrote two major books,
-            <em>Taking Action: A Comprehensive Approach to Housing Women and Children in
-            Massachusetts </em>(1988), and <em>More than Housing: Lifeboats for Women and
-            Children</em> (1991). She lectured at Columbia, MIT, Arizona State University,
+            <i>Taking Action: A Comprehensive Approach to Housing Women and Children in
+            Massachusetts </i>(1988), and <i>More than Housing: Lifeboats for Women and
+            Children</i> (1991). She lectured at Columbia, MIT, Arizona State University,
             and in the Netherlands, Canada, the People's Republic of China, and the
             former Soviet Union and traveled the United States speaking about issues of homelessness for women and children.
              She won the Massachusetts Women's Political Caucus's
@@ -713,8 +713,8 @@ s_bios = [
             her land and people under the control of the Massachusetts Bay Colony. She died
             around 1650 and is buried somewhere in what is now Medford.`,
         otherNotes: "",
-        references: ` Benjamin Bussey Thatcher, <em>Indian Biography</em>.
-            New York (1832); Lucius R. Paige. <em>History of Cambridge 1630-1877</em>, Boston
+        references: ` Benjamin Bussey Thatcher, <i>Indian Biography</i>.
+            New York (1832); Lucius R. Paige. <i>History of Cambridge 1630-1877</i>, Boston
             1877.
             <br>Menotomy Journal timeline.
             <br> Frederick J Lund (compiler), &#8220;Brief

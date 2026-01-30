@@ -57,8 +57,8 @@ e_bios = [
            
             `,
         otherNotes: "",
-        references: ` Phyllis J. Read and Bernard L. Witlieb, <em>The
-                Book of Women's Firsts</em> (1992); &#8220;Changing the Face of Medicine&#8221;
+        references: ` Phyllis J. Read and Bernard L. Witlieb, <i>The
+                Book of Women's Firsts</i> (1992); &#8220;Changing the Face of Medicine&#8221;
             National Library of Medicine web site. <br>
             &nbsp;&nbsp;&nbsp;&nbsp;<a
                 href="http://www.nlm.nih.gov/changingthefaceofmedicine/physicians/biography_99.html" >http://www.nlm.nih.gov/changingthefaceofmedicine/physicians/biography_99.html</a>
@@ -116,9 +116,9 @@ e_bios = [
             and her late husband, Frank Louis Evelyn, on June 13, 2009. They had lived at 300 Walden Street
             for many years.`,
         otherNotes: "",
-        references: ` <em>Cambridge Chronicle, </em>January 20, 2005.<br>
-            Cambridge Public Library <em>Annual Report</em> FY99.
-            <br>Image from <em>Boston Globe</em>, Aug. 17, 2011.<br>
+        references: ` <i>Cambridge Chronicle, </i>January 20, 2005.<br>
+            Cambridge Public Library <i>Annual Report</i> FY99.
+            <br>Image from <i>The Boston Globe</i>, Aug. 17, 2011.<br>
             <I>Cambridge City Directory</i>, 1972.<br>
             <i>U.S., Social Security Death Index</i>, 1935-2014.
         `,

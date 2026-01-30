@@ -26,7 +26,7 @@ w_bios = [
         otherNotes: "",
         references: ` <i>City Council resolution</i>, April 2, 2001.<br>
         <i>Cambridge Chronicle</i> November 1 1924.<br>
-        <I>Boston Globe</i> May 30, 1946.<br>
+        <I>The Boston Globe</i> May 30, 1946.<br>
         <I>Cambridge City Directory</i>, 1965.<br>
         Image from Regis College 1945 yearbook.
         `,
@@ -91,7 +91,7 @@ w_bios = [
             `,
         otherNotes: "",
         references: `
-            Obituary <em>Boston Globe</em>, January 5, 2010.<br>
+            Obituary <i>The Boston Globe</i>, January 5, 2010.<br>
             Family information.<br>
             <i>Cambridge City Directory</i>, 1972.
         `,
@@ -253,13 +253,13 @@ w_bios = [
         references: `
        
             Personal Interview by Sandra Pullman, January 2003.<br>
-            Betsy Warrior's work on battered women is cited in R Emerson Dobash, <em>Women,
-                Violence and Social Change</em>, Routledge 1992 and R. Amy Elman <em>Sexual
-                Subordination and State Intervention: Comparing Sweden and the United States</em>.
+            Betsy Warrior's work on battered women is cited in R Emerson Dobash, <i>Women,
+                Violence and Social Change</i>, Routledge 1992 and R. Amy Elman <i>Sexual
+                Subordination and State Intervention: Comparing Sweden and the United States</i>.
             Berghahn Books. 1996.<br>
             Her work with Cell 16 and the Women's
-                Center is discussed in Flora Davis, <em>Moving the Mountain: The Women's
-                Movement in America Since 1960</em>. Simon and Schuster, 1991.
+                Center is discussed in Flora Davis, <i>Moving the Mountain: The Women's
+                Movement in America Since 1960</i>. Simon and Schuster, 1991.
         `,
         photos: ["images_bios/bw-head-small.jpg"],
         photoTitles: [],
@@ -333,7 +333,7 @@ w_bios = [
             <br>
             Burks, Sarah L. Cambridge Historical Commission memo re: 23 Everett Street,
             23 June 2005.<br>
-            &quot;League of Women Voters Meet In Third Conference,&quot; Cambridge <em>Tribune</em>,
+            &quot;League of Women Voters Meet In Third Conference,&quot; Cambridge <i>Tribune</i>,
             March 31, 1923.<br>
             <i>The Cambridge Tribune</i>,  10 November 1923.
 
@@ -369,9 +369,9 @@ w_bios = [
             <br><br>
             
             Soon after, at the age of twenty-five, she opened a school in Salem which she
-            ran for two years. She began to publish her poetry in the <em>Atlantic Monthly</em>
-            and <em>Harpers' Magazine</em>, collected in a volume entitled simply,
-            <em>Poems</em> (New York, 1859), but her interest turned to sculpture. She studied
+            ran for two years. She began to publish her poetry in the <i>Atlantic Monthly</i>
+            and <i>Harpers' Magazine</i>, collected in a volume entitled simply,
+            <i>Poems</i> (New York, 1859), but her interest turned to sculpture. She studied
             with the sculptor, and painter, William Rimmer, in Boston. In that same year
             that her book of poetry appeared, she opened a sculpture studio in the backyard
             of her family home. Subsequently, she made several visits to Rome where she
@@ -400,15 +400,15 @@ w_bios = [
             Wellesley College Archives.
             `,
         otherNotes: "",
-        references: ` <em>
-            Appleton's Encyclopedia</em>.
+        references: ` <i>
+            Appleton's Encyclopedia</i>.
             <br>
             Reitzes, Lisa B. &#8220;The Political Voice of the Artist: Anne Whitney's &quot;Roma&quot;
-            and &quot;Harriet Martineau&quot;. <em>American Art</em>, 8, (2) 44-65; (Spring,
-            1994). <em><br>
-            Notable American Women</em> vol. 3 (1950).<br>
+            and &quot;Harriet Martineau&quot;. <i>American Art</i>, 8, (2) 44-65; (Spring,
+            1994). <i><br>
+            Notable American Women</i> vol. 3 (1950).<br>
             Anne Whitney Papers, Wellesley College Archives.<br>
-            Martin, Elizabeth and Vivan Meyer. <em>Female Gazes: Seventy-Five Women Artists</em>.
+            Martin, Elizabeth and Vivan Meyer. <i>Female Gazes: Seventy-Five Women Artists</i>.
             Toronto: Second Story Press, 1997.<br>
             Whitney image from wikipedia:<br>
             <a class=indent' href="https://en.wikipedia.org/wiki/Anne_Whitney" >https://en.wikipedia.org/wiki/Anne_Whitney</a> <br>
@@ -535,14 +535,14 @@ w_bios = [
             to the Schlesinger Library at Radcliffe. In March 2004, the Cambridge Women's
             Heritage Project celebrated the history of the Window Shop. On March 10, 2007,
             the Window Shop held a meeting in honor of the publication of a book detailing
-            its history. <em>The Window Shop: Safe Harbor for Refugees, 1939-1972</em>,
+            its history. <i>The Window Shop: Safe Harbor for Refugees, 1939-1972</i>,
             was written by by Ellen Miller, Ilse Heyman and Dorothy Dahl, and published
             in 2007 by iUniverse. It is available in bookstores.`,
         otherNotes: "",
         references: ` Finding aid, The Window Shop Papers, Schlesinger
             Library, Radcliffe Institute<br> Eleanor Roosevelt, &#8220;My Day&#8221;, May 30,
-            1950; Ellen Miller, Ilse Heyman, Dorothy Dahl<em>The Window Shop: Safe Harbor
-                for Refugees, 1939-1972</em>, Diesel books, 2007.<br>
+            1950; Ellen Miller, Ilse Heyman, Dorothy Dahl<i>The Window Shop: Safe Harbor
+                for Refugees, 1939-1972</i>, Diesel books, 2007.<br>
                 Photo: <i>The Cambridge Book</i>, 1966.
            
         `,
@@ -589,7 +589,7 @@ w_bios = [
          
             `,
         otherNotes: "",
-        references: ` <em>An Historic Guide to Cambridge</em>, Appendix &#8220;Edward
+        references: ` <i>An Historic Guide to Cambridge</i>, Appendix &#8220;Edward
             Winship&#8221;.<br>
                Photo from findagrave.com:<br>
                <a class='indent' href="https://www.findagrave.com/memorial/20848657/joanna-winship#view-photo=7093541">
@@ -651,8 +651,8 @@ w_bios = [
             by John Singleton Copley, is held in the Metropolitan Museum of New York.`,
         otherNotes: "",
         references: ` Mercy Otis Warren letters, Mass Historical Society.<br>
-            Kate Davies., <em>Catharine Macaulay and Mercy Otis Warren: The Revolutionary
-                Atlantic and the Politics of Gender.</em> (New York: Oxford University Press,
+            Kate Davies., <i>Catharine Macaulay and Mercy Otis Warren: The Revolutionary
+                Atlantic and the Politics of Gender.</i> (New York: Oxford University Press,
             2005).<br>
             
                 Image from wikipedia.com:<br>
@@ -719,12 +719,12 @@ w_bios = [
 
             From 1965, Wise lived with her sister, who had suffered a series of strokes,
             caring for her sister until her death in 1977. She contributed an oral interview
-            to the <em>Black Women Oral History Project</em> of Schlesinger Library. Ozeline Wise
+            to the <i>Black Women Oral History Project</i> of Schlesinger Library. Ozeline Wise
             died in 1988 and left her papers, as well as those of her sister and her father,
             to Schlesinger Library.`,
         otherNotes: "",
         references: ` Ozeline (Pearson) Wise papers and biographical information, Schlesinger
-            Library. <br>Ozeline (Pearson) Wise interview, <em>Black Women Oral History Project</em> of
+            Library. <br>Ozeline (Pearson) Wise interview, <i>Black Women Oral History Project</i> of
             Schlesinger Library.<br>
             <i>Cambridge City Directory</i>, 1965.<br>
             <i>The Cambridge Chronicle</i>, 24 February 1983.
@@ -790,7 +790,7 @@ w_bios = [
             retirement from the City Council, she worked at the Cambridge Housing Authority
             for many years. Her papers are held at Schlesinger Library, Radcliffe Institute.`,
         otherNotes: "",
-        references: ` <em>Cambridge Chronicle</em>, August 12,1999.
+        references: ` <i>Cambridge Chronicle</i>, August 12,1999.
         <br>Schlesinger
             Library biography and guide to Pearl Katz Wise papers.<br>
             <i>Cambridge City Directory</i>, 1930 & 1965.<br>
@@ -1049,7 +1049,7 @@ w_bios = [
         otherNotes: "",
         references: `
             NOTE: The Women&rsquo;s Community Health Center archive is housed at Schlesinger Library, Radcliffe Institute.<br>
-            Written by Kimm Topping, printed in <em>Mapping Feminist Cambridge</em> guidebook, 2019: <a
+            Written by Kimm Topping, printed in <i>Mapping Feminist Cambridge</i> guidebook, 2019: <a
                 href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a>
         `,
         photos: [""],

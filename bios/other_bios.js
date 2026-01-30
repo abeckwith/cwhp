@@ -55,11 +55,11 @@
 
             `,
         otherNotes: "",
-        references: ` Phyllis J. Read and Bernard L. Witlieb <em>The
-                Book of Women's Firsts</em>, 1992.<br>
+        references: ` Phyllis J. Read and Bernard L. Witlieb <i>The
+                Book of Women's Firsts</i>, 1992.<br>
             Wikipedia (online encyclopedia) <a
                 href="http://en.wikipedia.org/wiki/Constance_M._K._Applebee" >http://en.wikipedia.org/wiki/Constance_M._K._Applebee</a>;<br>
-            <em>Encyclopedia Britannica </em>(2006)<br>
+            <i>Encyclopedia Britannica </i>(2006)<br>
             <a href="https://www.britannica.com/biography/Constance-M-K-Applebee" >https://www.britannica.com/biography/Constance-M-K-Applebee</a><br>
             January 5, 1959 Sports Illustrated<br>
             Image from wikipedia
@@ -104,10 +104,10 @@
             for promoting too open a forum on this topic. <br><br>
             
             Megan interned in the business
-            department of <em>Harvard Magazine</em> as a work-study student. She also starred
+            department of <i>Harvard Magazine</i> as a work-study student. She also starred
             in many Harvard theater productions while at college, most notably as the Acid
-            Queen in a student production of The Who's <em>Tommy</em>. She sang in
-            the <em>a capella</em> singing group &#8220;The Callbacks&#8221;, often counseling
+            Queen in a student production of The Who's <i>Tommy</i>. She sang in
+            the <i>a capella</i> singing group &#8220;The Callbacks&#8221;, often counseling
             apprehensive performers at auditions. <br><br>After leaving Harvard, she took a job
             as spokesperson for the US attorney's office in Manhattan, appearing regularly
             in New York press reports.<br>
@@ -145,13 +145,13 @@
             author, the daughter of Elizabeth (Cook) and Thomas Adams. Born in the town
             of Medfield, she began to publish to supplement her family's income, writing
             on religious and historical themes. Her first book was a list of religious groups
-            entitled <em>Alphabetical Compendium of the Various Sects Which Have Appeared
-                From the Beginning of the Christian Era to the Present </em>(1784), This went
+            entitled <i>Alphabetical Compendium of the Various Sects Which Have Appeared
+                From the Beginning of the Christian Era to the Present </i>(1784), This went
             through a number of editions in Boston and London. She followed this with historical
-            works, <em>A Summary History of New-England </em>(1799), and <em>A History of
-                the Jews</em> (1812).<br><br> She began to attract friends among literary and religious
-            men in Boston who provided an annuity for her. She produced a final study, <em>Letters
-                on the Gospels</em> in 1826. Although eccentric in her old age, she had a decided
+            works, <i>A Summary History of New-England </i>(1799), and <i>A History of
+                the Jews</i> (1812).<br><br> She began to attract friends among literary and religious
+            men in Boston who provided an annuity for her. She produced a final study, <i>Letters
+                on the Gospels</i> in 1826. Although eccentric in her old age, she had a decided
             influence on her contemporaries and was among the first persons to be buried
             at Mount Auburn Cemetery. An autobiographical memoir of her life appeared the
             year after her death, written partly to provide financial support for her younger
@@ -166,8 +166,8 @@
             </blockquote>
             `,
         otherNotes: "",
-        references: `<em>Notable American Women</em>; <em>Cambridge
-                Chronicle</em> 12-13-00<br>Image from wikipedia
+        references: `<i>Notable American Women</i>; <i>Cambridge
+                Chronicle</i> 12-13-00<br>Image from wikipedia
                 <br>"A summary history of New-England: from the first settlement at Plymouth, to the acceptance of the federal Constitution", Hannah Adams, 1799. Access 
                 this book online here: <a href="https://archive.org/details/summaryhistoryof00adamrich/mode/2up">
                 https://archive.org/details/summaryhistoryof00adamrich/mode/2up</a>
@@ -222,9 +222,9 @@
             the stage in 1874. Two years later she died of pneumonia and was buried in Mt
             Auburn Cemetery, Cambridge. `,
         otherNotes: "",
-        references: `<em> American Women: 1500 Hundred Biographies</em>,
-            Frances E. Willard and Mary A. Livermore (eds.), Volume I, (1897)<br><em>Notable
-                American Women</em> (1950)<br><em>Encyclopedia Americana</em>, 1995<br>
+        references: `<i> American Women: 1500 Hundred Biographies</i>,
+            Frances E. Willard and Mary A. Livermore (eds.), Volume I, (1897)<br><i>Notable
+                American Women</i> (1950)<br><i>Encyclopedia Americana</i>, 1995<br>
 Image from <a href="https://en.wikipedia.org/wiki/Charlotte_Cushman" >https://en.wikipedia.org/wiki/Charlotte_Cushman</a>
         `,
         photos: ["images_bios/Charlotte_Cushman_(Sully,_1843).jpg"],
@@ -268,9 +268,9 @@ Image from <a href="https://en.wikipedia.org/wiki/Charlotte_Cushman" >https://en
             served as artistic director of the New York International Ballet Competition.`,
         otherNotes: "",
         references: `
-            Phyllis J. Read and Bernard L. Witlieb <em>The
-                Book of Women's Firsts,</em> 1992.<br>
-            Carolyn Warner,<em>Treasury of Women's Quotations,</em> 1992<br>New York
+            Phyllis J. Read and Bernard L. Witlieb <i>The
+                Book of Women's Firsts,</i> 1992.<br>
+            Carolyn Warner,<i>Treasury of Women's Quotations,</i> 1992<br>New York
             International Ballet Competition/retrieved on May 19, 2006
         `,
         photos: ["images_bios/dantuono.png"],
@@ -324,12 +324,12 @@ Image from <a href="https://en.wikipedia.org/wiki/Charlotte_Cushman" >https://en
             `,
         otherNotes: "",
         references: `
-            <em>Notable American Women: Modern Period</em><br>
-            Sarah Allaback, <em>The First American Women Architects</em>. University of
+            <i>Notable American Women: Modern Period</i><br>
+            Sarah Allaback, <i>The First American Women Architects</i>. University of
             Illinois Press, 2008 <br>
             <a
                 href="http://web.mit.edu/museum/chicago/bennett29.html">http://web.mit.edu/museum/chicago/bennett29.html</a>
-            <em>Encyclopedia Britannia</em><br>
+            <i>Encyclopedia Britannia</i><br>
             <a href="https://www.ancestry.com/family-tree/person/tree/4314195/person/132430538456">
             https://www.ancestry.com/family-tree/person/tree/4314195/person/132430538456</a>/<br>
 
@@ -380,14 +380,14 @@ Image from <a href="https://en.wikipedia.org/wiki/Charlotte_Cushman" >https://en
             in sanitary chemistry and continued to work in the field of sanitation and home
             economics (a field she helped establish) until her death. She also created a
             Center for Right Living in her home in Jamaica Plain, testing foods and promoting
-            sanitation. <br><br>She published two widely cited books, <em>The Chemistry of Cooking
-                and Cleaning</em> (1882) and <em>Air Water and Food from a Sanitary Point of
-                View</em> (1900). `,
+            sanitation. <br><br>She published two widely cited books, <i>The Chemistry of Cooking
+                and Cleaning</i> (1882) and <i>Air Water and Food from a Sanitary Point of
+                View</i> (1900). `,
         otherNotes: "",
-        references: ` <em>Notable American Women</em> Vol 3; Ogilvie,
-            Marilyn and Joy Harvey <em>Dictionary of Women Scientists </em>(2000); Ancker,
-            Jessica Scalzi, <em>Domesticity, Science, and Social Control: Ellen Swallow
-                Richards and the New England Kitchen</em> (1987).<br>
+        references: ` <i>Notable American Women</i> Vol 3; Ogilvie,
+            Marilyn and Joy Harvey <i>Dictionary of Women Scientists </i>(2000); Ancker,
+            Jessica Scalzi, <i>Domesticity, Science, and Social Control: Ellen Swallow
+                Richards and the New England Kitchen</i> (1987).<br>
                 Image from <a href="https://en.wikipedia.org/wiki/Ellen_Swallow_Richards" >https://en.wikipedia.org/wiki/Ellen_Swallow_Richards</a>
         `,
         photos: ["images_bios/Ellen_Swallow_Richards.jpg"],

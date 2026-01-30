@@ -54,7 +54,7 @@ l_bios = [
             in Cambridge, Massachusetts, and Flavigny-sur-Ozerain in Burgundy, France.`,
         otherNotes: "",
         references: `
-            Wilma Slaight, &#8220;Florence Ladd&#8221; <em>Wellesley 125th anniversary</em>,
+            Wilma Slaight, &#8220;Florence Ladd&#8221; <i>Wellesley 125th anniversary</i>,
             August 28, 2000:<br>
             <a class='indent' href="http://www.wellesley.edu/Anniversary/ladd.html" >http://www.wellesley.edu/Anniversary/ladd.html</a><br>
             Florence Cawthorne Ladd, personal communication.<br>
@@ -90,11 +90,11 @@ l_bios = [
             homeless, but learned to manage her problems, becoming a leader in the mental
             health community. 
             
-            <br><br>In 1993, she began to write for <em>Spare Change News</em>,
+            <br><br>In 1993, she began to write for <i>Spare Change News</i>,
             the street newspaper dedicated to homelessness, poverty, housing and other social
             issues; and then became the editor-in chief for some years until 2002. Her personal
             experience of homelessness gave her the knowledge, experience and sensitivity
-            to lead and encourage those involved in producing <em>Spare Change</em>. She
+            to lead and encourage those involved in producing <i>Spare Change</i>. She
             has participated in events discussing journalism for the homeless. She was a
             presenter at a panel on homelessness for the Harvard Extension School alumni
             in December 1997.
@@ -104,9 +104,9 @@ l_bios = [
             read her poetry at Stone Soup in Cambridge.`,
         otherNotes: "",
         references: `
-            Doug Holder &#8220;Farewell, to the editor of <em>Spare Change </em>Newspaper
+            Doug Holder &#8220;Farewell, to the editor of <i>Spare Change </i>Newspaper
             in Cambridge, MA.&#8221;.<br>
-             <em>Cambridge Chronicle</em> January 29, 2002.<br>
+             <i>Cambridge Chronicle</i> January 29, 2002.<br>
           
        <br> Image from Doug Holder blogspot:<br>
        <a class='indent' href="https://dougholder.blogspot.com/2012/01/linda-larson-poet-who-writes-what-she.html" >https://dougholder.blogspot.com/2012/01/linda-larson-poet-who-writes-what-she.html</a>`,
@@ -200,10 +200,10 @@ l_bios = [
             She worked at the observatory until her death from cancer at fifty-two. 
             `,
         otherNotes: "",
-        references: ` <em>
-                Notable American Women</em>, Vol 2.<br>
-            Ogilvie and Harvey, <em>Biographical Dictionary of Women in Science</em> (2000).<br>
-            <em>Boston Globe,</em> February 1, 2005.<br>
+        references: ` <i>
+                Notable American Women</i>, Vol 2.<br>
+            Ogilvie and Harvey, <i>Biographical Dictionary of Women in Science</i> (2000).<br>
+            <i>The Boston Globe,</i> February 1, 2005.<br>
             Image from wikipedia.com:<br> <a class='indent' href="https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt" >https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt</a>
         `,
         photos: ["images_bios/Henrietta_Swan_Leavitt.jpg"],
@@ -248,8 +248,8 @@ l_bios = [
             `,
         otherNotes: "",
         references: `NOTE: The Lesbian Avengers archive is housed at The History Project:<br>
-            <a class='indent' href="www.historyproject.org" >www.historyproject.org</a><em>.<br>
-            </em>Written by Kimm Topping, printed in <em>Mapping Feminist Cambridge</em> guidebook, 2019: <a
+            <a class='indent' href="www.historyproject.org" >www.historyproject.org</a><i>.<br>
+            </i>Written by Kimm Topping, printed in <i>Mapping Feminist Cambridge</i> guidebook, 2019: <a
                 href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a>.
                 <br>Image from https://www.wbur.org/news/2019/06/17/lesbian-avengers, with permission from the History Project at <a href="https://historyproject.org/" >https://historyproject.org/</a>.
         `,
@@ -335,10 +335,10 @@ l_bios = [
             in 2000. `,
         otherNotes: "",
         references: `
-            &quot;Edith Lesley Wolfard,&quot; <em>American Women: The Official Who's Who
-                Among the Women of the Nation, vol. II, 1937-38.</em> Los Angeles: American
+            &quot;Edith Lesley Wolfard,&quot; <i>American Women: The Official Who's Who
+                Among the Women of the Nation, vol. II, 1937-38.</i> Los Angeles: American
             Publishing Inc., 1937, p. 751.<br>
-            &quot;Edith Lesley Wolfard,&quot; <em>Who's Who in New England, vol. 3, 1938</em>,
+            &quot;Edith Lesley Wolfard,&quot; <i>Who's Who in New England, vol. 3, 1938</i>,
             Chicago: A.N. Marquis Co., 1938, p. 1386.<br>
             &#8220;Edith Lesley&#8221; Wikipedia online.<br>
             &#8220;Edith Lesley&#8221; Lesley University Archives on-line site, December
@@ -511,12 +511,12 @@ l_bios = [
             `,
         otherNotes: "",
         references: `
-            Alice M. Longfellow. <em>An account of a visit to Hiawatha's people </em>(1901): <br>
+            Alice M. Longfellow. <i>An account of a visit to Hiawatha's people </i>(1901): <br>
             
             &nbsp&nbsp&nbsp&nbsp&nbsp;<a href="https://archive.org/details/songofhiawathawi0000henr/page/n13/mode/2up">https://archive.org/details/songofhiawathawi0000henr/page/n13/mode/2up</a>.
             <br>
             Alice m. Longfellow Papers, Longfellow National Historic Site. <br>
-            <em>Biography of Alice M Longfellow</em>, Longfellow National Historic Site.<br>
+            <i>Biography of Alice M Longfellow</i>, Longfellow National Historic Site.<br>
             Image from wikipedia.com:<br>
             <a class='indent' href="https://en.wikipedia.org/wiki/Alice_Mary_Longfellow" >https://en.wikipedia.org/wiki/Alice_Mary_Longfellow</a>
         `,
@@ -565,15 +565,15 @@ l_bios = [
             both her parents. <br><br>
 
             Maria's poetry was published in Rufus Griswald's
-            <em>Female Poets of America</em> and <em>Putnam's Magazine</em>. In 1853,
+            <i>Female Poets of America</i> and <i>Putnam's Magazine</i>. In 1853,
             one year after she returned from Italy, Maria died of tuberculosis at the Lowells'
             home in Cambridge. Although only sixteen of her poems were published during
             her lifetime, her husband published a memorial volume of Maria's poems
             in 1855. `,
         otherNotes: "",
-        references: ` <em>
-                Notable American Women, Vol II</em>; Vernon, Hope Jillson.<br>
-            <em>The Poems of Maria Lowell</em>, with unpublished letters and a biography.
+        references: ` <i>
+                Notable American Women, Vol II</i>; Vernon, Hope Jillson.<br>
+            <i>The Poems of Maria Lowell</i>, with unpublished letters and a biography.
             Providence, Rhode Island: Brown University Press, 1936. <br>
             Papers of James Russell Lowell, Houghton Library, Harvard University (includes
             letters to and from Maria White Lowell).<br>
@@ -619,7 +619,7 @@ l_bios = [
             American
             Revolutionary Literature in the mid-1970's. In the late 1970s, she began to
             write books for children, the first based on her childhood recollections of
-            the death of her sister from cancer. This book, <em>A Season to Die</em> (1977) launched
+            the death of her sister from cancer. This book, <i>A Season to Die</i> (1977) launched
             her into a successful career. That same year, she was divorced from her husband.
             She has produced 20 novels and won the Newbery Medal twice, as well as winning
             many other awards. Her books often cover difficult subjects such as adoption,
@@ -628,12 +628,12 @@ l_bios = [
             19th-century farmhouse in New Hampshire.`,
         otherNotes: "",
         references: `
-            &quot;Lowry, Lois.&quot; <em>Contemporary Authors</em>. Ed. Susan M. Trosky. Detroit: Gale
+            &quot;Lowry, Lois.&quot; <i>Contemporary Authors</i>. Ed. Susan M. Trosky. Detroit: Gale
             Research, Inc., 1994.<br>
-            Smith, Amanda. &quot;PW Interviews: Lois Lowry.&quot; <em>Publisher Weekly</em>. 21
+            Smith, Amanda. &quot;PW Interviews: Lois Lowry.&quot; <i>Publisher Weekly</i>. 21
             February 1986: 152-153.<br>
-            Zaidman, Laura M. &quot;Lois Lowry.&quot; <em>American Writers for Children
-                Since 1960. Dictionary of Literary Biography.</em> Vol 52.<br>
+            Zaidman, Laura M. &quot;Lois Lowry.&quot; <i>American Writers for Children
+                Since 1960. Dictionary of Literary Biography.</i> Vol 52.<br>
             Lois Lowry Papers-1977-1993 Kerlan Collection, University of Minnesota. Includes
             book manuscripts.<br>
             Image from wikipedia:<br> <a  class='indent' href="https://en.wikipedia.org/wiki/Lois_Lowry" >https://en.wikipedia.org/wiki/Lois_Lowry</a>.
@@ -698,7 +698,7 @@ l_bios = [
 
             In 1918, Luscomb left architecture to become executive
             secretary for the Boston Equal Suffrage Association, and began to sell copies
-            of the <em>Woman's Journal</em> on Boston Common, and to give speeches
+            of the <i>Woman's Journal</i> on Boston Common, and to give speeches
             on suffrage throughout New England. After 1920, she found full-time work in
             various socially concerned organizations. She was a founding member of the Boston
             League of Women Voters. She also worked with the Massachusetts Civic League,
@@ -760,14 +760,14 @@ l_bios = [
             <i>The May 2, 1914 Suffragist Parade that Luscomb helped inspire participation in:</i>`,
         otherNotes: "",
         references: `
-            Sharon Hartman Strom, <em>Political Woman: Florence Luscomb and the Legacy of
-                Radical Reform</em>, Philadelphia, 2001.<br>
-            Rollins, Ann, <em>Women's History Tour of Cambridge</em>, Ribe: Cambridge,
+            Sharon Hartman Strom, <i>Political Woman: Florence Luscomb and the Legacy of
+                Radical Reform</i>, Philadelphia, 2001.<br>
+            Rollins, Ann, <i>Women's History Tour of Cambridge</i>, Ribe: Cambridge,
             Massachusetts, 1987.<br>
             MIT Museum, Biographical file.<br>
-            Schlesinger Library. <em>Papers in the Woman's Rights Collection, 1904-1959:
-                A Finding Aid</em>. Cambridge, Massachusetts, 2005.<br>
-            Schlesginer Library.<em> Florence Luscomb Papers, 1856-1987: A Finding Aid</em>.
+            Schlesinger Library. <i>Papers in the Woman's Rights Collection, 1904-1959:
+                A Finding Aid</i>. Cambridge, Massachusetts, 2005.<br>
+            Schlesginer Library.<i> Florence Luscomb Papers, 1856-1987: A Finding Aid</i>.
             Cambridge, Massachusetts, 1989.<br>
             <i>The Cambridge Tribune</i>, 28 March 1914.
 <br><i>The Boston Globe</i>, May 03, 1914.<br>
@@ -845,7 +845,7 @@ l_bios = [
         Image from legacy.com:<br><a class='indent'  href="https://www.legacy.com/us/obituaries/legacyremembers/mary-leno-obituary?id=59453208" >
         https://www.legacy.com/us/obituaries/legacyremembers/mary-leno-obituary?id=59453208</a><br>
 
-        <i>Boston Globe</i>, Sept. 10, 2000, April 26, 2018, Nov. 16, 2008.<Br>
+        <i>The Boston Globe</i>, Sept. 10, 2000, April 26, 2018, Nov. 16, 2008.<Br>
         <i>The Cambridge Chronicle</i>, 8 May 1997.
         `,
         photos: ["images_bios/leno_mary.jpeg"],

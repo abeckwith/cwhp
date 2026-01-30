@@ -104,11 +104,11 @@ y_bios = [
         otherNotes: "",
         references: `
             Arvind Dilawar, &ldquo;Advocates For Self-managed Abortions Are Preparing For a Post-Roe World&rdquo;,
-            <em>Pacific Standard</em>, 7/12/2019,<br> <a
+            <i>Pacific Standard</i>, 7/12/2019,<br> <a
                 href="https://psmag.com/social-justice/advocates-for-self-managed-abortions-are-preparing-for-a-post-roe-world" >Link</a>
             <br> <br>
             Baker, Carrie. &ldquo;We Heart: The Period Tracking App Resisting Anti-abortion Government
-            Surveillance,&rdquo; <em>Ms. Magazine</em>, 1/27/2020,<br> <a
+            Surveillance,&rdquo; <i>Ms. Magazine</i>, 1/27/2020,<br> <a
                 href="https://msmagazine.com/2020/01/27/we-heart-the-period-tracking-app-resisting-anti-abortion-government-surveillance/" >Link</a>
             <br> <br>
             Harvard Library Hollis Catalogue of Susan Yanow publications, accessed 6/2/2020: <br><a
@@ -130,18 +130,18 @@ y_bios = [
             Our Bodies, Ourselves:<br> <a
                 href="https://www.ourbodiesourselves.org/our-story/contributors/susan-yanow/" >https://www.ourbodiesourselves.org/our-story/contributors/susan-yanow/</a>
             <br> <br>
-            Redden, Molly. &ldquo;New website offers US women help to perform their own abortions,&rdquo; <em>The
-                Guardian</em>, 4/27/2017,<br> <a
+            Redden, Molly. &ldquo;New website offers US women help to perform their own abortions,&rdquo; <i>The
+                Guardian</i>, 4/27/2017,<br> <a
                 href="https://www.theguardian.com/world/2017/apr/27/abortion-website-women-help-women" >https://www.theguardian.com/world/2017/apr/27/abortion-website-women-help-women</a>
             <br> <br>
-            <em>Rewire.News</em> articles by Susan Yanow, accessed 6/2/1010:<br> <a
+            <i>Rewire.News</i> articles by Susan Yanow, accessed 6/2/1010:<br> <a
                 href="https://rewire.news/author/susan-yanow/" >https://rewire.news/author/susan-yanow/</a> <br>
             Self-Managed Abortion Podcast, Part 1: <a href="https://www.smapodcast.org" >https://www.smapodcast.org</a>
             <br> <br>
             Women Help Women: Euki App.<br> <a
                 href="https://womenhelp.org/en/page/1082/euki-app" >https://womenhelp.org/en/page/1082/euki-app</a> <br>
-            Yanow, Susan. &ldquo;It is time to integrate abortion into primary care.&rdquo; <em>American journal of
-                public health</em> vol. 103,1 (2013): 14-6. doi:10.2105/AJPH.2012.3011196
+            Yanow, Susan. &ldquo;It is time to integrate abortion into primary care.&rdquo; <i>American journal of
+                public health</i> vol. 103,1 (2013): 14-6. doi:10.2105/AJPH.2012.3011196
         `,
         photos: ["images_bios/Sarah Yanow_headshot 2018_small.jpg"],
         photoTitles: ["Photo by Phyllis Bretholtz"],
@@ -178,7 +178,7 @@ y_bios = [
         <br><br>For many years, Anna Yona also taught
         Italian at the New England Conservatory of Music. After the war, her cousin,
         Primo Levi, sent her a manuscript; she translated a chapter of what would later
-        be published as <em>Survival in Auschwitz</em>. (She submitted the manuscript
+        be published as <i>Survival in Auschwitz</i>. (She submitted the manuscript
         to Little, Brown, which chose not to publish the book; forty years later, the
         book would make Levi famous in America.) In 1972, Yona was living at 159 Upload Road in Cambridge.<br><br>
 
@@ -200,16 +200,16 @@ y_bios = [
          exile and a personal displacement."</blockquote>
         `,
         otherNotes: "",
-        references: ` Sergio Parussa. <em>I Would Have Liked to Flee
-            to Patagonia: Conversations with Anna Yona Bridges: A Jewish Feminist Journal</em>
+        references: ` Sergio Parussa. <i>I Would Have Liked to Flee
+            to Patagonia: Conversations with Anna Yona Bridges: A Jewish Feminist Journal</i>
         Autumn 2005, Vol. 10, No. 2: Pages 10-27.
-        <br> Alexander Stille. <em>Benevolence
-            and Betrayal: Five Italian Jewish Families under Fascism </em>(1991).
+        <br> Alexander Stille. <i>Benevolence
+            and Betrayal: Five Italian Jewish Families under Fascism </i>(1991).
             <br> Anna Yona
         Papers, Immigration History Research Center, College of Liberal Arts, University
         of Minnesota <br> Obituary, Gloria Negri &#8220;Anna Yona at 98; hosted Italian-Hour
         radio show&#8221;.
-        <br> <em>Boston Globe</em>, October 15, 2006
+        <br> <i>The Boston Globe</i>, October 15, 2006
         <br><i>Cambridge City Directory</i>, 1972,<br>
         Image and quote from <i>Printed Matter</i>, Centro Primo Levi Online Monthly:
 

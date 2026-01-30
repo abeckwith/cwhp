@@ -39,7 +39,7 @@ a_bios = [
 
         In 1972, Ackermann was also  a delegate to the Democratic National Convention from
         Massachusetts. In 1989, she wrote an account of her experiences as a Cambridge
-        politician in a book entitled, <em>"You the Mayor?: The Education of a City Politician"</em>, which
+        politician in a book entitled, <i>"You the Mayor?: The Education of a City Politician"</i>, which
         offers insights into political life and the functioning of a city. In her memoir, she explained:
         
         <blockquote>
@@ -136,7 +136,7 @@ a_bios = [
         otherNotes: "",
         references: ` University of New Hampshire special collections
             biographical note<br>
-            Review of Abbott's autobiography in <em>Time Magazine</em>, Oct 05, 1936.<br>
+            Review of Abbott's autobiography in <i>Time Magazine</i>, Oct 05, 1936.<br>
             Image from wikipedia.com:<br><a class='indent' href="https://en.wikipedia.org/wiki/Eleanor_Hallowell_Abbott#/media/File:Portrait_of_Eleanor_Hallowell_Abbott.jpg">https://en.wikipedia.org/wiki/Eleanor_Hallowell_Abbott#/media/File:Portrait_of_Eleanor_Hallowell_Abbott.jpg</a><br>
             <i>Cambridge Tribune</i>, March 11, 1893, December 25, 1892, October 21, 1905.<br>
             <i>The New York Times</i>, January 3, 1937.<br>
@@ -175,24 +175,24 @@ a_bios = [
             Born in Ireland, Mary Manning went to London to
             study theater when she was 16 years old. After returning to Ireland, she worked
             as an actress and playwright in the 1920s and 1930s at the renowned Abbey Theater
-            and the Gate Theater in Dublin; she also wrote film criticism for the <em>Irish Statesman</em>.
+            and the Gate Theater in Dublin; she also wrote film criticism for the <i>Irish Statesman</i>.
             Two of her plays were produced at the Abbey Theater, and she worked collaboratively
             on several projects with the playwright Samuel Beckett, who had been her childhood
             friend. In 1935, she emigrated to Boston and married Mark De Wolfe Howe, a lawyer
             who became a professor at Harvard Law School. Her three daughters were raised
             in Cambridge. 
           <br><br>
-While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote the novel, <em>Mount
-                Venus</em> (1938), and was the drama director at Radcliffe College during World
+While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote the novel, <i>Mount
+                Venus</i> (1938), and was the drama director at Radcliffe College during World
             War II. She helped found the Poet's Theater in Cambridge, which produced
             some of Yeats' early plays and produced work by new playwrights in the
             1950s. After the death of her husband in 1967, she returned to Dublin as theater
-            critic for <em>The Irish Times</em>. In 1980, she returned to Cambridge and
+            critic for <i>The Irish Times</i>. In 1980, she returned to Cambridge and
             married her lawyer, Faneuil Adams.<br>
             <br>
-            Her writings include the novel <em>The Last Chronicles
-                of Ballyfungus</em> (1978), a humorous view of the Anglo-Irish gentry, and the
-            play <em>Go Lovely Rose</em>, based on the life of Rose Kennedy, produced as
+            Her writings include the novel <i>The Last Chronicles
+                of Ballyfungus</i> (1978), a humorous view of the Anglo-Irish gentry, and the
+            play <i>Go Lovely Rose</i>, based on the life of Rose Kennedy, produced as
             a one woman show at the Fourth International Women Playwright's Conference
             held in Galway shortly before her death at the age of 93.
           
@@ -231,8 +231,8 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
 
             `,
         otherNotes: "",
-        references: ` <em>Boston Globe</em> Jun. 27, 1999.
-        <br><em>New York Times</em> June 27, 1999.<br>
+        references: ` <i>The Boston Globe</i> Jun. 27, 1999.
+        <br><i>New York Times</i> June 27, 1999.<br>
             Samuel Beckett Collection, University of Texas, Austin.
             <br>Susan
             Howe collection, Geisel Library, University of California, San Diego.
@@ -286,7 +286,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
             <br><br>
             
             In 1865, she co-authored a record of her
-            husband's expedition to Brazil, <EM>A Journey in Brazil</EM>. She wrote the introduction, which began this way:
+            husband's expedition to Brazil, <i>A Journey in Brazil</i>. She wrote the introduction, which began this way:
             
             <blockquote>
             In the winter of 1865 it became necessary for me, on account of some disturbance of my health, to seek 
@@ -314,9 +314,9 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
 
             `,
         otherNotes: "",
-        references: ` <em>Notable American Women</em> (1609-1950) Vol
+        references: ` <i>Notable American Women</i> (1609-1950) Vol
             I. <br>
-            <em>Dictionary of American Biography</em>, 1928.
+            <i>Dictionary of American Biography</i>, 1928.
             <br>Image from wikipedia.com:<br>
             <a class='indent' href="https://en.wikipedia.org/wiki/Elizabeth_Cabot_Agassiz">https://en.wikipedia.org/wiki/Elizabeth_Cabot_Agassiz</a><br>
             <I>A Journey In Brazil</i>, 1868, Boston: Tucknor and Fields:<br>
@@ -355,15 +355,15 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         <br><br>
         
         In 1989 she was tapped to be the editor and publisher of 
-        <em>Italian Americana: Cultural and Historial Review</em>, a journal dedicated to exploring the 
+        <i>Italian Americana: Cultural and Historial Review</i>, a journal dedicated to exploring the 
         Italian emigrant/immigrant experience, and she remained in that position for 25 years.
         
          <br><br>
 
-        Albright also co-authored and edited with Elvira G. Di Fabio the book <em>Republican Ideals
-            in the Selected Literary Works of Italian-American Joseph Rocchietti, 1835-1845</em>
-        (Edwin Mellen Press, 2004), wrote a memoir in 2009, and co-edited 2011's <em>American Woman, Italian Style:
-        Italian Americana's Best Writings on Women </em>
+        Albright also co-authored and edited with Elvira G. Di Fabio the book <i>Republican Ideals
+            in the Selected Literary Works of Italian-American Joseph Rocchietti, 1835-1845</i>
+        (Edwin Mellen Press, 2004), wrote a memoir in 2009, and co-edited 2011's <i>American Woman, Italian Style:
+        Italian Americana's Best Writings on Women </i>
         <br><br>She also served two terms as vice president of the American Italian Historical Association.
         
         <br><br>
@@ -427,7 +427,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
 
             Elizabeth Cannon Aldrich received a bachelor's
             degree in history from Radcliffe College in 1941. While in college, she served
-            as a reporter for the <em>New York Times</em> and the <em>Boston Herald</em>.
+            as a reporter for the <i>New York Times</i> and the <i>Boston Herald</i>.
             
             
             <br><br>
@@ -449,8 +449,8 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
 
             `,
         otherNotes: "",
-        references: ` <em>Boston Globe</em> Mar. 11, 2001.
-        <br><em>New York Times</em>,
+        references: ` <i>The Boston Globe</i> Mar. 11, 2001.
+        <br><i>New York Times</i>,
             (paid notice) Mar. 7, 2001.<br>
             <i>U.S. Social Security Index</i>.<br>
             <i>Cambridge City Directory</i>: 1948, 1989.
@@ -486,10 +486,10 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
             <br><br> 
             
             Aldrich assisted Harvard Professor Ralph Barton Perry in the
-            1935 Pulitzer Prize-winning biography,<em> The Thought and Character of William
-            James</em>, later becoming sole editor of the briefer version of that work.
-            In 1942, she produced a volume of James' selected writings: <em>As William
-            James Said.</em> 
+            1935 Pulitzer Prize-winning biography,<i> The Thought and Character of William
+            James</i>, later becoming sole editor of the briefer version of that work.
+            In 1942, she produced a volume of James' selected writings: <i>As William
+            James Said.</i> 
             
             <br><br>
             
@@ -500,10 +500,10 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
 
             `,
         otherNotes: "",
-        references: ` <em>Cambridge Chronicle</em> Feb. 18, 2000.
+        references: ` <i>Cambridge Chronicle</i> Feb. 18, 2000.
         <br>Paid death
             notice of Judge Bailey Aldrich, September 29, 2002.
-            <br><em>New York Times</em>
+            <br><i>New York Times</i>
             Obituary of Bailey Aldrich, September 30, 2002.
         `,
         photos: [""],
@@ -570,7 +570,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         otherNotes: "",
         references: `
         <br>
-        Judith Rosen, "Alice James Books at 30", <em>Publishers Weekly</em>,
+        Judith Rosen, "Alice James Books at 30", <i>Publishers Weekly</i>,
         May 19, 2003.<br>
         <i>Bookwomen: 70 who have made a difference</i>, Women's National
         Book Association. <br>
@@ -650,8 +650,8 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
 
             `,
         otherNotes: "",
-        references: `<em>Boston Globe</em>, Sept. 9, 2009.
-        <br>Image from <em>Boston Globe</em>, Sept. 9, 2009.<br>
+        references: `<i>The Boston Globe</i>, Sept. 9, 2009.
+        <br>Image from <i>The Boston Globe</i>, Sept. 9, 2009.<br>
             <i>Massachusetts, Death Index</i>, 1970-2003.<br>
             <i>The Cambridge Chronicle</i>,  24 July 1986, 2 October 1986, 27 September 1990.
 
@@ -694,8 +694,8 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         activities, she was a founding member of Cambridge Tenants Union, a board member
         of the 
         <a href="bios.html?lNm=MassachusettsFeministFederalCreditUnion&mNm=&fNm=">
-        Massachusetts Feminist Credit Union</a>, and active in the organization <em>Save Central
-        Square</em>. Ellen lived on Kirkland Street in Cambridge.
+        Massachusetts Feminist Credit Union</a>, and active in the organization <i>Save Central
+        Square</i>. Ellen lived on Kirkland Street in Cambridge.
         
         <br><br>
         
@@ -831,7 +831,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         Dominga died at home in Cambridge after a brief illness at the age of 95.
             `,
         otherNotes: "",
-        references: ` <em>Cambridge Chronicle</em>, Nov. 17, 1999.<br>
+        references: ` <i>Cambridge Chronicle</i>, Nov. 17, 1999.<br>
         Ancestry.com Naturalization records.<br>
         <i>U.S. Census</i> records.<br>
         <i>Cambridge City Directory</i> 1941, 1944 ,1972.
@@ -894,7 +894,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
 
             `,
         otherNotes: "",
-        references: ` &#8220;Palliative Care&#8221;, <em>Religion and Ethics Newsweekly</em>,
+        references: ` &#8220;Palliative Care&#8221;, <i>Religion and Ethics Newsweekly</i>,
         PBS Episode 245, July 9, 1999.<br>
         <a class='indent'
             href="http://www.pbs.org/wnet/religionandethics/week245/cover.html">http://www.pbs.org/wnet/religionandethics/week245/cover.html</a><br>
@@ -979,9 +979,9 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
             committed to truth and justice and the restitution of their true identity to
             the children disappeared with their parents or born during the captivity of
             their kidnapped mothers during the 1976-1983 dictatorship. A long relationship
-            with the Grandmother's group resulted in the publication of her book, <em>Searching
+            with the Grandmother's group resulted in the publication of her book, <i>Searching
             for Life: The Grandmothers of the Plaza de Mayo and the Disappeared Children
-            of Argentina</em>, published by The University of California Press in 1999.
+            of Argentina</i>, published by The University of California Press in 1999.
             A reviewer wrote of her research and resulting book:
 
             <blockquote>
@@ -1046,7 +1046,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
             working with a few international relief organizations, Argaw was disillusioned
             by the manner in which the focus on larger goals seemed to ignore everyday hardships.
            She chose to organize the Ethiopian Adbar Women's Alliance &#8220;in
-            a spiritual way&#8221; She developed the award-winning newsletter, <em>Mela</em>,
+            a spiritual way&#8221; She developed the award-winning newsletter, <i>Mela</i>,
             the only bi-lingual Ethiopian newsletter in the country, which is based and
             produced by her organization in Cambridge. 
             
@@ -1229,7 +1229,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
 
             `,
         otherNotes: "",
-        references: `<em>Cambridge Chronicle</em>, June 7, 1973 & October 2, 2000 & May 4, 2006.<br>
+        references: `<i>Cambridge Chronicle</i>, June 7, 1973 & October 2, 2000 & May 4, 2006.<br>
         <i>Cambridge City Directory</i>, 1972.
         `,
         photos: [""],
@@ -1298,7 +1298,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         `,
         otherNotes: "",
         references: `
-        <i>Boston Globe</i>, obituary, September 8, 2013, page B9.<br>
+        <i>The Boston Globe</i>, obituary, September 8, 2013, page B9.<br>
         <i>The Cambridge Chronicle</i>, 26 June 2002.
         `,
         photos: ["images_bios/armstrong_barbara.png"],
@@ -1522,7 +1522,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         and against the rising prominence of chain stores, and especially in Harvard Square.
         <br><br>
 
-        In a 1999 letter to the editor of the Cambridge Chronicle, John Bovey of Chauncy Street included
+        In a 1999 letter to the editor published in <i>The Cambridge Chronicle</i>, John Bovey of Chauncy Street included
         a story that gave a window into Antupit's artistry and personality:
         <blockquote>
         "Not long ago while I was shopping in the Evergood Grocery, another customer turned suddenly from

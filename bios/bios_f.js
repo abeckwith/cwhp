@@ -21,8 +21,8 @@ f_bios = [
             1999-2000, she was a fellow in the Center for Reflective Community at MIT. She 
             has documented social action movements, including the women's movement, 
             as photographer and videographer as a free-lance photographer from 1976 to 1988. 
-            Her photographs regularly appeared in <em>Gay Community News</em>, <em>Off Our 
-            Backs</em>, and <em>Equal Times</em>. 
+            Her photographs regularly appeared in <i>Gay Community News</i>, <i>Off Our 
+            Backs</i>, and <i>Equal Times</i>. 
             
             <br><br>
             She began as a media arts activist when the cable 
@@ -44,7 +44,7 @@ f_bios = [
         otherNotes: "",
         references: ` Personal information, biographical information 
             in Susan Fleischmann, &#8220;TV Station: How To Create An Award-Winning Public 
-            Access Station&#8221;.<br> <em>Be the Media</em>, online book:
+            Access Station&#8221;.<br> <i>Be the Media</i>, online book:
             <br><a class='indent' href="http://www.bethemedia.com/tableofcontents.htm" >http://www.bethemedia.com/tableofcontents.htm</a><br>
 
             Photo by Sean Effel. <br>
@@ -102,7 +102,7 @@ f_bios = [
           
   `,
         otherNotes: "",
-        references: `Written by Kimm Topping, printed in <em>Mapping Feminist Cambridge</em> guidebook, 2019: 
+        references: `Written by Kimm Topping, printed in <i>Mapping Feminist Cambridge</i> guidebook, 2019: 
         <a href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf" >https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a><br>
         <br>Ad listing:<i>The Cambridge Chronicle</i>, 21 March 1974.<br>
         Photo of building: Cambridge Historical Commission.
@@ -163,7 +163,7 @@ f_bios = [
       has been often cited as ground-breaking. She was awarded a Bunting fellowship
       at Radcliffe in 1991 and has remained active in that organization. She is
       presently
-      professor <em>emerita</em> at Boston University.<br><br>
+      professor <i>emerita</i> at Boston University.<br><br>
 
 
     A skilled singer, Gaby Friedler sang folk songs in the caf&eacute;s of Cambridge
@@ -172,15 +172,15 @@ f_bios = [
       throughout
       her residency in the city.`,
         otherNotes: "",
-        references: ` Karma Kitaj <em>Women Who Could . . . and Did: 
-      Lives of 26 Exemplary Artists and Scientists</em>. (2002).<br>
+        references: ` Karma Kitaj <i>Women Who Could . . . and Did: 
+      Lives of 26 Exemplary Artists and Scientists</i>. (2002).<br>
       Cynthia R. Daniels, &#8221;Between Fathers and Fetuses: The Social Construction of Male Reproduction 
       and the Politics of Fetal Harm.&#8221; Signs, Vol. 22, No. 3 (Spring, 1997),
       pp. 579-616.<br>
-      (reprinted in <em>Women, Science and Technology: A Reader in Feminist 
-      Science Studies Mary Wyer</em> (ed.) 312-331.(2001).<br>
-      Cynthia R Daniels. <em>Exposing 
-      Men: The Science and Politics of Male Reproduction</em>. New York (2006).<br>
+      (reprinted in <i>Women, Science and Technology: A Reader in Feminist 
+      Science Studies Mary Wyer</i> (ed.) 312-331.(2001).<br>
+      Cynthia R Daniels. <i>Exposing 
+      Men: The Science and Politics of Male Reproduction</i>. New York (2006).<br>
       Woods Hole Museum profile:<br>
       <a class='indent' href="https://woodsholemuseum.org/WHHWomen/GladysFriedler.html">https://woodsholemuseum.org/WHHWomen/GladysFriedler.html</a>`,
         photos: ["images_bios/Friedler_Gaby.jpg"],
@@ -215,8 +215,8 @@ f_bios = [
 
      Miss Frye attended the Boston School of the Museum 
     of Fine Arts and was a member of the Boston Society of Arts and Crafts. In her 
-    early twenties, she illustrated children's books, including the <em>Wonderful 
-    Adventures of Nils</em> by Swedish author Selma Lagerlof. 
+    early twenties, she illustrated children's books, including the <i>Wonderful 
+    Adventures of Nils</i> by Swedish author Selma Lagerlof. 
     A 1913 Houston Post article describes how Frye came to illustrate "The Wonderful Adventure of Nils.":
 
     <blockquote>
@@ -255,7 +255,7 @@ f_bios = [
         photos: ["images_bios/frye.jpg", "images_bios/frye2.png"],
         photoTitles: [
             "Illustration from The Adventures of Nils by Mary Hamilton Frye, page 154",
-            "Boston Globe, June 1921"
+            "The Boston Globe, June 1921"
         ],
         dateCreated: "prior to 2009",
         dateUpdated: "01.11.2026",
@@ -294,13 +294,13 @@ f_bios = [
     closely with the leaders of the Trancendentalist movement, offering &#8220;Conversations&#8221; 
     to interested men and women on topics that ranged from women's rights 
     to philosophy. She also joined Emerson in editing and writing for the Transcendentalist 
-    journal, <em>The Dial</em>. <br><br>
+    journal, <i>The Dial</i>. <br><br>
 
     In 1844, she moved to New York to write critical 
-    essays on literature and art for Horace Greeley's newspaper, the <em>New 
-    York Tribune</em>. During this period, she published her most influential book, 
-    <em>Woman in the Nineteenth Century</em> (1845). Two years later, she was given 
-    the opportunity to travel to Europe as the <em>Tribune</em>'s foreign 
+    essays on literature and art for Horace Greeley's newspaper, the <i>New 
+    York Tribune</i>. During this period, she published her most influential book, 
+    <i>Woman in the Nineteenth Century</i> (1845). Two years later, she was given 
+    the opportunity to travel to Europe as the <i>Tribune</i>'s foreign 
     correspondent. <br><br>
 In 
     England, she met many famous literary men and women and the Italian exile and 
@@ -327,9 +327,9 @@ In
     serving the local community today, assisting over 1,500 people each year with 
     educational, support, outreach, and community services.`,
         otherNotes: "",
-        references: `<em>Notable American Women</em> (1607-1950) Vol 
+        references: `<i>Notable American Women</i> (1607-1950) Vol 
     I.
-    <br>Robert N Hudspeth, <em>The Letters of Margaret Fuller </em>Vol 1-V (1988).<br>
+    <br>Robert N Hudspeth, <i>The Letters of Margaret Fuller </i>Vol 1-V (1988).<br>
     Margaret Fuller Neighborhood House website:<br> 
     <a class='indent' href="http://www.margaretfullerhouse.org/index.html">http://www.margaretfullerhouse.org/index.html</a>
     <br>

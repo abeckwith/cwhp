@@ -50,7 +50,7 @@ n_bios = [
         otherNotes: "",
         references: ` Center for New Words site &#8220;History&#8221;.
             <br>
-            &#8220;From the Schlesinger Library&#8221; <em>Radcliffe Quarterly</em>, Winter
+            &#8220;From the Schlesinger Library&#8221; <i>Radcliffe Quarterly</i>, Winter
             2003.<br>
             
            <i>Queer History Boston Digital Archives:</i><br>

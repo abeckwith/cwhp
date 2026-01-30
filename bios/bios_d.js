@@ -19,11 +19,11 @@ d_bios = [
             School, she developed a strong interest in the Colonial and Revolutionary history
             of Cambridge from the time she was nineteen. 
             
-            <br><br>She contributed to <em>A Historic
-                Guide to Cambridge</em> in 1907, and served on the board of the Cambridge Historical
+            <br><br>She contributed to <i>A Historic
+                Guide to Cambridge</i> in 1907, and served on the board of the Cambridge Historical
             Society. She is responsible for collecting the correspondence, notes, legal
             records and photographs of the family preserved at the Longfellow House archives.Her
-            history of the Dana family <em>The Dana Family in America</em> was published
+            history of the Dana family <i>The Dana Family in America</i> was published
             only after her death. Her papers are useful in reflecting the life of a middle-class
             woman of a well-known family. `,
         otherNotes: "",
@@ -79,7 +79,7 @@ d_bios = [
             entered elementary school. <br>
             `,
         otherNotes: "",
-        references: `<em>Teaching Tolerance</em> magazine, Number
+        references: `<i>Teaching Tolerance</i> magazine, Number
             24, Fall 2003.
             <br><i>Cambridge Chronicle</i> 30 Nov 1972.
         `,
@@ -120,17 +120,17 @@ d_bios = [
             After graduating in 1900, she studied for
             two years at the New England Conservatory of Music and then went to Germany
             to study in the Royal Conservatory of Munich. On returning to America, she published
-            a book on her experiences in Munich (<em>An American Girl in Munich</em>) in,
+            a book on her experiences in Munich (<i>An American Girl in Munich</i>) in,
             1905 and proceeded to direct the Radcliffe Glee Club and music director at Simmons
             Glee Club. She sang soprano in the Cecilia Society and began to win prizes for
-            her composition. Marion MacDowell produced the first performance of her cantata,<em>The
-                Desolate City</em> (1913) at the MacDowell Colony following which she was regularly
+            her composition. Marion MacDowell produced the first performance of her cantata,<i>The
+                Desolate City</i> (1913) at the MacDowell Colony following which she was regularly
             invited to use the studios of the colony in Petersborough New Hampshire to create her musical
             compositions. 
             
             <br><br>Although her first compositions were more conventional, she became
             interested in modern music while preparing a piece for soprano, chorus and orchestra
-            based on a poem The <em>Song of Jael</em> (1940) by her friend Edwin Arlington
+            based on a poem The <i>Song of Jael</i> (1940) by her friend Edwin Arlington
             Robinson. Her pieces began to be played by major artists, by the Boston Symphony
             Orchestra, and in programs of significant American music in Carnegie Hall, and
             for NBC radio. She made important gifts to women's colleges to support
@@ -139,10 +139,10 @@ d_bios = [
             
             <br><br>Her papers are held at Schlesinger Library, Radcliffe Institute.`,
         otherNotes: "",
-        references: ` <em>
-                Notable American Women, Modern Period</em>
+        references: ` <i>
+                Notable American Women, Modern Period</i>
             (1980).<br>
-            Madeline Goss, <em>Modern Music-Makers: Contemporary American Composers</em>
+            Madeline Goss, <i>Modern Music-Makers: Contemporary American Composers</i>
             New York, (1952).<br>
             Biography, Finding Aid Mabel Wheeler Daniels Papers, Schlesinger
             Library, Radcliffe Institute.<br>
@@ -198,8 +198,8 @@ d_bios = [
         Tribute to Women Award in 1993. 
             `,
         otherNotes: "",
-        references: ` <em>Cambridge Chronicle</em> May 4, 1961, 4 February 1965, 10 January 1974, Jan 17, 2001.
-        <br>Image from <em>Boston Globe</em>Sept. 13, 1993.
+        references: ` <i>Cambridge Chronicle</i> May 4, 1961, 4 February 1965, 10 January 1974, Jan 17, 2001.
+        <br>Image from <i>The Boston Globe</i>Sept. 13, 1993.
         <br><i>U.S., Social Security Applications and Claims Index</i>, 1936-2007.
         <br>FindAGrave.com:<br>
         <a class='indent' href="https://www.findagrave.com/memorial/210753844/sybil-noble-darbeloff">
@@ -264,7 +264,7 @@ d_bios = [
         work of six CPD detectives and officers and Darling was one of them.  In 1977, 
         at age 57, Darling was selected as the top police officer of the year for 
         Massachusetts - she had served for 27 years at that point.   In 1979, she 
-        was quoted in the <em>Cambridge Chronicle</em> lamenting the closing of the feminist 
+        was quoted in the <i>Cambridge Chronicle</i> lamenting the closing of the feminist 
         Boston Area Rape Crisis Center (located in Cambridge) saying that the center
         was a good resource and that there are "very nice, very capable, and very dedicated" people there. <br><br>
 
@@ -275,13 +275,13 @@ d_bios = [
         otherNotes: "",
         references: ` 
 
-        <em>Cambridge Chronicle</em>  17 December 1953, 30 March 1967, 3 May 1977, 18 October 1979.<br>
-        <em>The Boston Globe</em>, July 17 1995. <br>
+        <i>Cambridge Chronicle</i>  17 December 1953, 30 March 1967, 3 May 1977, 18 October 1979.<br>
+        <i>The Boston Globe</i>, July 17 1995. <br>
         Cambridge Police Department History:<br>
         <a class='indent' href="https://www.cambridgema.gov/Departments/cambridgepolice/aboutthedepartment/departmenthistory">https://www.cambridgema.gov/Departments/cambridgepolice/aboutthedepartment/departmenthistory</a><br>
         <i>U.S. Census</i> 1930<br>
         <i>Cambridge City Directory</i> 1954, 1961.<br>
-        U.S. Dept. of Veteran Affairs <em>BIRLS Death File</em>.<br>
+        U.S. Dept. of Veteran Affairs <i>BIRLS Death File</i>.<br>
         <br>
         Image from Cambridge Police Department Facebook page post: Mar. 7, 2019:<br>
         <a class='indent' href="https://www.facebook.com/CambridgePolice/posts/pfbid027e1x9n6tt7ptBYiYNwW71f3QFrYmrhohWCt2yB24pryzyq2rU6rLn8yqZe2mrxsJl">https://www.facebook.com/CambridgePolice/posts/pfbid027e1x9n6tt7ptBYiYNwW71f3QFrYmrhohWCt2yB24pryzyq2rU6rLn8yqZe2mrxsJl</a>
@@ -317,7 +317,7 @@ d_bios = [
 
             It was created initially to provide an alternative
             to the gay bar scene. Bilitis was the fictional lesbian lover of Sappho as described
-            in the poetry of Pierre Lou&yuml;s in <em>Songs of Bilitis</em> (1894). The &#8220;Daughters
+            in the poetry of Pierre Lou&yuml;s in <i>Songs of Bilitis</i> (1894). The &#8220;Daughters
             of Bilitis&#8221; name was intended as a sly reference to conservative organizations
             like the Daughters of the American Revolution and other similar groups. <br><br>
             
@@ -326,7 +326,7 @@ d_bios = [
             in the 1970s about whether it should support gay rights or feminism. During its
             heyday, it had chapters throughout the US and Australia. Between 1959 and 1972,
             the DOB
-            published a national newsletter, <em>The Ladder</em>. The Cambridge chapter of DOB held meetings at
+            published a national newsletter, <i>The Ladder</i>. The Cambridge chapter of DOB held meetings at
             the Old Cambridge Baptist Church at 1151 Massachusetts Avenue well in to the 1990s.
             
             <blockquote>
@@ -349,9 +349,9 @@ d_bios = [
             Gittings.<br>
             `,
         otherNotes: "",
-        references: `Gallo, Marcia M. <em>Different Daughters: A history
+        references: `Gallo, Marcia M. <i>Different Daughters: A history
                 of the Daughters of
-                Bilitis and the Birth of the Lesbian Rights Movement</em>, Carroll &amp; Graf, 2006.<br>
+                Bilitis and the Birth of the Lesbian Rights Movement</i>, Carroll &amp; Graf, 2006.<br>
                 <i>Cambridge Day</i>, October 31, 2024. <br>
                 Interview with Sarah Boyer:<br>
                 <a class='indent' href="https://www.cambridgeday.com/2024/03/31/sarah-boyers-coming-out-becoming-ourselves-takes-daughters-from-secret-society-to-acceptance/">https://www.cambridgeday.com/2024/03/31/sarah-boyers-coming-out-becoming-ourselves-takes-daughters-from-secret-society-to-acceptance/</a><br>
@@ -393,8 +393,8 @@ d_bios = [
             and Aaron. <br><br>
                 
              Davis began her career in neighborhood planning for the city of Cambridge, and
-            later worked as a journalist for NPR, <em>Time</em>, <em>The Boston Herald</em>, <em>The Boston Globe</em>
-            and <em>Money</em> magazine. In 1982, Davis became an administrator at her son&rsquo;s school, the Agassiz
+            later worked as a journalist for NPR, <i>Time</i>, <i>The Boston Herald</i>, <i>The Boston Globe</i>
+            and <i>Money</i> magazine. In 1982, Davis became an administrator at her son&rsquo;s school, the Agassiz
             Preschool, a parent cooperative community. Davis cites the successful democratic decision making process at
             the school as one of the reasons she chose to run for local office and pursue a career in politics. From
             1987 to 1995, Davis served four terms on the Cambridge School Committee, where she focused on developing the
@@ -484,7 +484,7 @@ d_bios = [
                 &ldquo;Inventing a radical feminist bisexuality&rdquo;, and a transcription of Charlie King&rsquo;s
                 songbook &ldquo;Songs for the Current Millennium&rdquo; (2013). Deihl&rsquo;s papers on women&rsquo;s
                 music and her daily diaries, which span 50 years, will become part of the archives of the Schlesinger
-                Library on the the History of Women in America at the Radcliffe Institute for Advanced Study. Her
+                Library on the History of Women in America at the Radcliffe Institute for Advanced Study. Her
                 writings for the Bisexual Resource Center are now part of the Northeastern University Libraries Archives
                 and Special Col-lections. <br><br>
 
@@ -530,7 +530,7 @@ d_bios = [
                     href="https://www.wbur.org/remembrance-project/2015/07/07/the-remembrance-project-marcia-deihl"
                     >https://www.wbur.org/remembrance-project/2015/07/07/the-remembrance-project-marcia-deihl</a>.
                 <br>
-                Hale, Kendall. <em>Radical Passions</em>. Bloomington: iUniverse, 2008. E-book. <br>
+                Hale, Kendall. <i>Radical Passions</i>. Bloomington: iUniverse, 2008. E-book. <br>
                 New Harmony Sisterhood Band. &hellip;And Ain&rsquo;t I a Woman, Paredon Records, 1977. Smithsonian
                 Center for Folklife and Cultural Heritage. Web. 31 March. 2019:<br><a class='indent'
                     href="https://folkways.si.edu/new-harmony-sisterhood-band/and-aint-i-a-woman/african-american-music-folk-struggle-protest/album/smithsonian"
@@ -538,7 +538,7 @@ d_bios = [
                 <br>Smithsonian Center for Folklife and Heritage, <i>Paredon Records collection (Archivo
                 de Paredon Records), circa 1964-2007</i>:<br><a class='indent' href="https://sirismm.si.edu/EADpdfs/CFCH.PARE.pdf"
                     >https://sirismm.si.edu/EADpdfs/CFCH.PARE.pdf</a>. <br>
-                Seligson, Susan. &ldquo;The Good Life of Marcia Deihl.&rdquo; <em>Bostonia</em>. Winter Spring, 2016:
+                Seligson, Susan. &ldquo;The Good Life of Marcia Deihl.&rdquo; <i>Bostonia</i>. Winter Spring, 2016:
                <br><a class='indent' href="http://www.bu.edu/bostonia/winter-spring16/marcia-deihl-cambridge/"
                     >http://www.bu.edu/bostonia/winter-spring16/marcia-deihl-cambridge/</a>.</span><br>
                  Photo
@@ -579,24 +579,24 @@ d_bios = [
             Mary Andrews was daughter of Thomas Jefferson
             Andrews and his wife Juliette Robbins. She was educated in the Boston public
             schools and in 1846, married a Baptist Minister Rev. Charles Wheeler Denison,
-            editor of the <em>Emancipator</em>, the first antislavery journal in New York.
-            When her husband became an assistant editor to the <em>Boston Olive Branch</em>,
+            editor of the <i>Emancipator</i>, the first antislavery journal in New York.
+            When her husband became an assistant editor to the <i>Boston Olive Branch</i>,
             the journal published her first written piece. 
             
             <br><br>In 1847, she published her first
-            novel, <em>Edna Etheril, The Boston Seamstress</em>, which was a success. During
+            novel, <i>Edna Etheril, The Boston Seamstress</i>, which was a success. During
             her lifetime, she was prolific, publishing over eighty novels, writing under the pen names
             of N. I. Edson and Clara Vance. She also crusaded against alcohol in her book,
-            <em>Gertrude Russel</em> (1849), published by the American Baptist Publication
+            <i>Gertrude Russel</i> (1849), published by the American Baptist Publication
             Society. Her novels, written in a lively style with colorful dialogue often
             depicted poor and struggling individuals overcoming temptations, concluding
-            with the triumph of good over evil. With titles such as <em>Out of Prison</em>
-            (1864), <em>Carrie Hamilton</em> (1866), <em>Led to the Light</em> (1867), <em>That
-                Wife of Mine</em> (1877) and <em>Cracker Joe</em> (1889) she endorsed conservative
+            with the triumph of good over evil. With titles such as <i>Out of Prison</i>
+            (1864), <i>Carrie Hamilton</i> (1866), <i>Led to the Light</i> (1867), <i>That
+                Wife of Mine</i> (1877) and <i>Cracker Joe</i> (1889) she endorsed conservative
             religious and social ideas, but did so with humor. Denison also contributed
-            on a continuous basis to a number of popular periodicals, principally <em>Frank
-            Leslie's Monthly</em>, <em>Harper's Weekly</em>, the <em>People's
-            Home Journal</em>, and <em>Youth's Companion</em>. 
+            on a continuous basis to a number of popular periodicals, principally <i>Frank
+            Leslie's Monthly</i>, <i>Harper's Weekly</i>, the <i>People's
+            Home Journal</i>, and <i>Youth's Companion</i>. 
             
             <br><br>During the last two
             years of the Civil War, her husband was a hospital chaplain in Washington D.
@@ -609,9 +609,9 @@ d_bios = [
             Fourteen months before her death she came back to Cambridge to live in the house
             of her brother Dr. R. R. Andrews, where she died.`,
         otherNotes: "",
-        references: `<em>American Women Writers</em> (1979).<br>
-            <em>Boston
-                Evening Transcript</em>, October 17, 1911.
+        references: `<i>American Women Writers</i> (1979).<br>
+            <i>Boston
+                Evening Transcript</i>, October 17, 1911.
         `,
         photos: ["images_bios/Mary_A._Denison.png"],
         photoTitles: [],
@@ -649,16 +649,16 @@ d_bios = [
 
             Der-Hovanessian attended Boston University where
             she obtained an A.B. and later did graduate work at Harvard where she studied
-            with Robert Lowell. She first worked as a journalist on the <em>Medford Mercury</em>
+            with Robert Lowell. She first worked as a journalist on the <i>Medford Mercury</i>
             and then in New York City. She married James Dalley, with whom she had two daughters. By 1988, she was living in Cambridge.
 
             <br><br>
             Diana Der-Hovanessian is the author of twenty-three books of poetry and translations
             and has received numerous awards from the National Endowment for the Arts, the
             Poetry Society of America, the National Writers Union, and PEN-Columbia Translation
-            Center, among others. Her work has appeared in publications such as <em>Paris
-                Review</em>, <em>Nation</em>, <em>Partisan Review</em>, <em>American Scholar</em>,
-            <em>New York Times</em>, <em>Poetry</em>, and <em>AGNI Magazine</em>. Recently,
+            Center, among others. Her work has appeared in publications such as <i>Paris
+                Review</i>, <i>Nation</i>, <i>Partisan Review</i>, <i>American Scholar</i>,
+            <i>New York Times</i>, <i>Poetry</i>, and <i>AGNI Magazine</i>. Recently,
             Garrison Keillor has read poems from her books on the radio on his 'Writer's
             Almanac' on National Public Radio. <br><br>
 
@@ -677,14 +677,14 @@ d_bios = [
         references: `
             Sally Cragin, &#8220;Worcester-born poet Diana Der-Hovanessian visits the old
             neighborhood,&#8221.<br>
-            <em>The Worcester Phoenix</em>, November 12 - 19, 1999.<br>
-            McIntire, D. <em>International Who's Who in Poetry and Poets' Encyclopedia</em>,
+            <i>The Worcester Phoenix</i>, November 12 - 19, 1999.<br>
+            McIntire, D. <i>International Who's Who in Poetry and Poets' Encyclopedia</i>,
             Routledge, 2001, p. 139-40.<br>
             Červená Barva Press interview:<br>
             <a class='indent' href="http://www.cervenabarvapress.com/der-hovanessianinterview.htm">
             http://www.cervenabarvapress.com/der-hovanessianinterview.htm</a><br>
             <i>The Cambridge Chronicle</i>, 9 June 1988.<br>
-            <i>Boston Globe</i> obit, March 4, 2018.
+            <i>The Boston Globe</i> obit, March 4, 2018.
         `,
         photos: ["images_bios/der_hovanessian.jpg"],
         photoTitles: [],
@@ -719,7 +719,7 @@ d_bios = [
             after, she began to work at the Vienna Psychiatric Clinic under Julius Wagner-Jauregg,
             and then went to Munich to study with Emil Kraepelin. After a series of miscarriages,
             she had one son, Martin in 1917. During her studies in Munich, she had read
-            Sigmund Freud's <em>Interpretation of Dreams</em> which determined her
+            Sigmund Freud's <i>Interpretation of Dreams</i> which determined her
             to become a psychoanalyst.
             
             <br><br>In 1916, she began to work with Freud, first attending
@@ -728,7 +728,7 @@ d_bios = [
             women to be analyzed by Freud. 
             From 1925 to 1933, Deutsch was director of Freud's
             Vienna Psychoanalytic Clinic that trained psychoanalysts. She published her
-            first book, <em>The Psychology of Women's Sexual Functions</em>, the first psychoanalytic
+            first book, <i>The Psychology of Women's Sexual Functions</i>, the first psychoanalytic
             study of women by a woman. 
             
             <br><br>With the rise of Hitler in 1934 and the take-over
@@ -738,20 +738,20 @@ d_bios = [
             Drive across from Fresh Pond). She became
             an Associate Psychiatrist at the Massachusetts General Hospital and an active
             member of the Boston Psychoanalytic Society, publishing a two volume book on
-            women's psychology, <em>The Psychology of Women</em> (1944-45). 
+            women's psychology, <i>The Psychology of Women</i> (1944-45). 
             
             <br><br>In 1964, Deutsch's
             husband, Felix, died . She continued to live an active professional life, publishing
-            an interesting memoir <em>Confrontations with Myself.</em> (1972). 
+            an interesting memoir <i>Confrontations with Myself.</i> (1972). 
             
             <br><br>She died
             in 1982 in Cambridge at the age of 97. Her papers, including some correspondence
             with Freud, are deposited at Schlesinger Library.`,
         otherNotes: "",
         references: `
-            Sayers, J. <em>Mothers of Psychoanalysis</em>.
+            Sayers, J. <i>Mothers of Psychoanalysis</i>.
             New York, 1991. <br>
-            Roazen, Paul. <em>Helene Deutsch, A Psychoanalyst's Life</em>,
+            Roazen, Paul. <i>Helene Deutsch, A Psychoanalyst's Life</i>,
             (Garden City, N.Y, 1985).<br>
             <i>Finding aid</i>, Helene (Rosenbach) Deutsch papers, Schlesinger
             Library.<br>
@@ -788,8 +788,8 @@ d_bios = [
             because of illness. <br><br>
             
             Dorothea wrote several books for young readers, including
-            an elementary science textbook, <em>Conversations on Common Things </em>(1824),<em>
-                Hymns for Children</em> (1825), and <em>American Moral Tales for Young Persons</em>
+            an elementary science textbook, <i>Conversations on Common Things </i>(1824),<i>
+                Hymns for Children</i> (1825), and <i>American Moral Tales for Young Persons</i>
             (1832). In 1831, Dix opened a new school in Boston, where she taught until 1836,
             until she collapsed from phsycial and nervous exhaustion. While recuperating
             in Liverpool, England, she met several leading British reformers who shared
@@ -815,8 +815,8 @@ d_bios = [
             state governments to assume their proper care by producing &#8220;memorials&#8221;
             describing the appalling conditions. Altogether, Dix inspired the establishment
             of 32 state hospitals and 120 private and county hospitals. She expanded her
-            survey to the prisons and published a book <em>Remarks on Prisons and Prison
-            Discipline in the United States</em> (1845). 
+            survey to the prisons and published a book <i>Remarks on Prisons and Prison
+            Discipline in the United States</i> (1845). 
             
             <br><br>
             Dix was mentioned in an 1860 Dowse Institute lecture on "Modern Infidelity"
@@ -837,10 +837,10 @@ d_bios = [
             at the age of eighty-five and was buried in Mount Auburn Cemetery,
             Cambridge.`,
         otherNotes: "",
-        references: `Ogilvie, Marilyn and Joy Harvey. <em>Biographical
-                Dictionary of Women Scientists</em>. Routledge Press, 2000.<br>
-            <em>Notable American
-                Women</em> (1950) Vol I.<br>
+        references: `Ogilvie, Marilyn and Joy Harvey. <i>Biographical
+                Dictionary of Women Scientists</i>. Routledge Press, 2000.<br>
+            <i>Notable American
+                Women</i> (1950) Vol I.<br>
     
             Photo of Dorothea Lynde Dix from wikipedia.com:<br>
             <a class='indent' href="https://en.wikipedia.org/wiki/Dorothea_Dix#/media/File:Dorothea_Dix_1802%E2%80%931887.jpg">https://en.wikipedia.org/wiki/Dorothea_Dix#/media/File:Dorothea_Dix_1802%E2%80%931887.jpg</a>
@@ -903,7 +903,7 @@ d_bios = [
         otherNotes: "",
         references: `
             Charles Hagen, &#8220;Review/Art.<br>
-            When the Outside World Is Danger <em>New York Times</em> December 27, 1991.<br>
+            When the Outside World Is Danger <i>New York Times</i> December 27, 1991.<br>
             Cambridge Arts Council website.<br>
             Ellen Driscoll's website:<br>
             <a class='indent' href="http://www.ellendriscoll.net">http://www.ellendriscoll.net</a>
@@ -1007,9 +1007,9 @@ d_bios = [
             <br><br>
             
             She has written for many periodicals including the American Friends Service
-            Committee's <em>PeaceWork</em> and the Buddhist Peace Fellowship's, <em>Turning
-                Wheel</em>. Her book on writing for social change: <em>Undoing the Silence:
-                Six Tools for Social Change Writing</em> was published in November 2007 by New
+            Committee's <i>PeaceWork</i> and the Buddhist Peace Fellowship's, <i>Turning
+                Wheel</i>. Her book on writing for social change: <i>Undoing the Silence:
+                Six Tools for Social Change Writing</i> was published in November 2007 by New
             Village Press. <br>
             
 
@@ -1028,12 +1028,12 @@ d_bios = [
         otherNotes: "",
         references: `
             Information from Skip Schiel and Louise Dunlap.<br>
-            Louise Dunlap, &#8220;Hiroshima Flame Interfaith Pilgrimage&#8221; <em>Peacework</em>
+            Louise Dunlap, &#8220;Hiroshima Flame Interfaith Pilgrimage&#8221; <i>Peacework</i>
             December 2001.<br>
-            &#8220;Hiroshima Flame at New York's Ground Zero&#8221; <em>PeaceWork</em>,
+            &#8220;Hiroshima Flame at New York's Ground Zero&#8221; <i>PeaceWork</i>,
             September 2002.<br>
             Vanessa E. Jones &quot;The way of oneness&quot;.<br>
-            <em>Boston Globe</em> April 19, 2006.<br>
+            <i>The Boston Globe</i> April 19, 2006.<br>
             Undoing Silence website:<br>
             <a class='indent' href="http://www.undoingsilence.org">http://www.undoingsilence.org</a>
         `,
@@ -1082,10 +1082,10 @@ d_bios = [
             printing press in Cambridge and settled in a house in close proximity to Harvard
             College (Crooked Street, now Holyoke Street) and bought another house in which the Daye family lived and operated
             the printing press (later to become the Cambridge Press), that printed the first
-            books in the colonies, <em>The Whole Book of Psalmes</em>, <em>The Liberties
+            books in the colonies, <i>The Whole Book of Psalmes</i>, <i>The Liberties
                 of the Massachusetts
-                Colonies in New England</em> (now in the Boston Athenaeum), and the <em>Almanack</em> for the
-            Years of <em>1639</em>, <em>1640</em>, and <em>4161</em>.
+                Colonies in New England</i> (now in the Boston Athenaeum), and the <i>Almanack</i> for the
+            Years of <i>1639</i>, <i>1640</i>, and <i>4161</i>.
             
             <br><br>
             In 1641, Elizabeth Glover married Henry Dunster, president of Harvard from
@@ -1094,15 +1094,15 @@ d_bios = [
             The Glover children later sued Dunster for a share of the estate. `,
         otherNotes: "",
         references: `
-            Hudak, Leona M. <em>Early American Women Printers
-                and Publishers 1639-1820</em>,
+            Hudak, Leona M. <i>Early American Women Printers
+                and Publishers 1639-1820</i>,
             The Scarecrow Press, Inc.<br>
             Metuchen, New Jersey, 1978.<br>
             Cambridge Historical
-            Society <em>Proceedings</em>, vol. III:12-17; VI:22; XDIV: 64. <br>
-            See also <em>History
+            Society <i>Proceedings</i>, vol. III:12-17; VI:22; XDIV: 64. <br>
+            See also <i>History
                 of Printing
-                in America</em> (1878).
+                in America</i> (1878).
         `,
         photos: ["images_bios/dunster.jpeg"],
         photoTitles: ["Image depicting early American women printers"],

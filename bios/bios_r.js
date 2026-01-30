@@ -30,9 +30,9 @@ r_bios = [
              The couple married in 1935, and moved to Paris where
             they began their collaboration in children's books. A French publisher became
             interested in Hans' drawings and commissioned him to write a children's
-            book, published as <em>Rafi and the Nine Monkeys</em> which included a curious
-            monkey that was the inspiration of the future children's book <em>Curious
-            George</em>. <br><br>
+            book, published as <i>Rafi and the Nine Monkeys</i> which included a curious
+            monkey that was the inspiration of the future children's book <i>Curious
+            George</i>. <br><br>
             
             In 1940, the Reys fled Paris before the advancing Nazi army invaded.<br><br>
             She spoke about this in a 1996 <i>Christian Science Monitor</i> interview, 
@@ -50,13 +50,13 @@ r_bios = [
 
             The couple traveled to via Spain and Portugal, then back to Brazil and from there
             to New York City, taking the illustrated manuscript of the new book they had
-            just written. <em>Curious George</em> was published by Houghton Mifflin in 1941.
+            just written. <i>Curious George</i> was published by Houghton Mifflin in 1941.
             Together, the Reys wrote seven books about the curious little monkey, with Hans
             doing the most of the illustrations and Margret working primarily on the stories.
             Though they shared much of the work, Margret's name did not appear on the books
             for the first several
             years, but this was corrected in later editions. They published other children's
-            stories including <em>Pretzel</em> in 1944, which was the first book to list
+            stories including <i>Pretzel</i> in 1944, which was the first book to list
             Margret as author.<br><br>
 
             In 1963, Margret Rey and her husband moved to
@@ -84,14 +84,14 @@ r_bios = [
         references: `
             Dinitia Smith, &#8220;How Curious George Escaped the Nazis&#8221; NY Times September
             13, 2005.<br>
-            Louise Borden, <em>The Journey That Saved Curious George: The True Wartime Escape
-                of Margret and H. A. Rey</em> (Houghton Mifflin. 2005).<br>
+            Louise Borden, <i>The Journey That Saved Curious George: The True Wartime Escape
+                of Margret and H. A. Rey</i> (Houghton Mifflin. 2005).<br>
             Finding Aid to the H.A. and Margret Rey Papers, De Grummond Children's
             Literature Collection, University of Southern Mississppi, Hattiesburg<br>
             Margret Rey biography, Greenville Public Library web site, Greenville, R.I.
             <br>
-            Amy Miller, &quot;Curious George moves into Harvard Square,&quot; <em>Cambridge
-                Chronicle</em>, July 25, 1996.<br>
+            Amy Miller, &quot;Curious George moves into Harvard Square,&quot; <i>Cambridge
+                Chronicle</i>, July 25, 1996.<br>
             <br><i>Cambridge City Directory</i>, 1965.
         <br><i>Christian Science Monitor</i> interview, May 23, 1996:<br>
         <a class='indent' href="https://www.csmonitor.com/1996/0523/052396.feat.books.3.html">https://www.csmonitor.com/1996/0523/052396.feat.books.3.html</a>
@@ -135,23 +135,23 @@ r_bios = [
             
             <br><br>She
             founded a Center for Research on Careers at Harvard and served as its director
-            from 1963 to 1966, retiring as <em>emerita</em> professor in 1966. During this
+            from 1963 to 1966, retiring as <i>emerita</i> professor in 1966. During this
             period, she spent her winters in her home in Cambridge at 86 Buckingham Street and her summers in New
             Mexico After both husband and wife experienced heart attacks for which they
             were hospitalized, they retired to Tucson in 1967 where she was named adjunct
             professor of psychology at the University of Arizona. During her lifetime, she
-            wrote more than 100 books and articles, including <em>The Making of a Scientist</em>
+            wrote more than 100 books and articles, including <i>The Making of a Scientist</i>
             (1952) which examined creativity in science. She was awarded a Lesley College
             honorary degree. <br><br>
             
             Roe died in Tucson Arizona in 1991.`,
         otherNotes: "",
-        references: `<em>
-                New York Times</em> Anne Roe obit June 4, 1991.<br>
-            Super, Donald E., &#8220;Anne Roe 1904-1991&#8221;, <em>The Counseling Psychologist</em>,
+        references: `<i>
+                New York Times</i> Anne Roe obit June 4, 1991.<br>
+            Super, Donald E., &#8220;Anne Roe 1904-1991&#8221;, <i>The Counseling Psychologist</i>,
             Vol. 20, No. 4, 734-736 (1992).<br>
-            Wrenn, Robert L., &quot;The Evolution of Anne Roe,&quot; <em>J Counseling &amp;
-                Development</em> 63: 267-75, Jan 1985.<br>
+            Wrenn, Robert L., &quot;The Evolution of Anne Roe,&quot; <i>J Counseling &amp;
+                Development</i> 63: 267-75, Jan 1985.<br>
                 <I>Cambridge City Directory</i>, 1965.<br>
                 Birth date from ancestry.com:<br>
                 <a class='indent' href="https://www.ancestry.com/family-tree/person/tree/71942149/person/292480937875/facts?_phsrc=prV2552&_phstart=successSource">
@@ -232,12 +232,12 @@ r_bios = [
             was 8 Craigie Circle, in Cambridge, when she died on March 1, 1964 at the age of
             eighty-two.`,
         otherNotes: "",
-        references: `<em>
-            </em>Nomination and family information provided by George Roorbach.<br>
-            Obituary, <em>The Boston Herald</em>, March 2, 1964.<br>
-            Obituary, <em>Boston Traveler</em>, March 2, 1964.<br>
-            Roorbach, Anne. &#8220;Harvard's Glass Flowers.&#8221; <em>American German
-                Review</em>, June 1937, 14-17.
+        references: `<i>
+            </i>Nomination and family information provided by George Roorbach.<br>
+            Obituary, <i>The Boston Herald</i>, March 2, 1964.<br>
+            Obituary, <i>Boston Traveler</i>, March 2, 1964.<br>
+            Roorbach, Anne. &#8220;Harvard's Glass Flowers.&#8221; <i>American German
+                Review</i>, June 1937, 14-17.
                 <br><i>Cambridge City Directory</i>, 1921.
         `,
         photos: ["images_bios/Anne%20Roorbach%20small.jpeg"],
@@ -284,7 +284,7 @@ r_bios = [
              From
             1968 to 1975, she left graduate work to become an editor for behavioral studies
             at the Harvard University Press. In 1974 she and Stephan Thernstrom developed
-            the idea of creating the<em> Harvard Encyclopedia of American Ethnic Groups </em>(1980), of which she became
+            the idea of creating the<i> Harvard Encyclopedia of American Ethnic Groups </i>(1980), of which she became
             managing editor. She started her own press,
             Langdon Press, after leaving Harvard University Press, and worked as a free-lance
             author and consultant. <br><br>
@@ -302,8 +302,8 @@ r_bios = [
             months before Orlov's own death. `,
         otherNotes: "",
         references: ` &#8220;Ann Orlov Rubinow,&#8221; obituary news
-            article by Bryan Marquard, <em>Boston Globe</em> January 25, 2007.<br>
-            Obituary, <em>Cambridge Chronicle</em>
+            article by Bryan Marquard, <i>Boston Globe</i> January 25, 2007.<br>
+            Obituary, <i>Cambridge Chronicle</i>
             (under Betty A. Rubinow) January 22, 2007.<br>
             <i>Cambridge City Directory</i>, 1961.<br>
             <i>The Boston Globe</i>, Jan 25, 2007.<br>

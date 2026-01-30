@@ -73,17 +73,17 @@ g_bios = [
             the rest of her life, adhering to the Southern cause during the Civil War. <br><br>
             In
             1832, she began to publish and edit a magazine designed for women and children
-            that she called <em>The Rose</em>. It was soon renamed <em>The Southern Rose</em>,
+            that she called <i>The Rose</i>. It was soon renamed <i>The Southern Rose</i>,
             and was widely read throughout the country. Gilman produced most of the content
             herself in the form of poetry and children's verses and stories as well
             as serialized novels about domestic life. Highly popular, her writings and her
             magazine supplemented the family's income that was strained by the birth
             of seven children born between 1820 and 1840.<br><br>
 
-            Her first novel, <em>Recollections of a Housekeeper</em>,
+            Her first novel, <i>Recollections of a Housekeeper</i>,
             written under the pseudonym, Clarissa Packard, portrayed women's lives
             in New England, described by her as at odds with that of the South. In her heavily
-            autobiographical <em>Recollections of a Southern Matron</em>, written in 1838,
+            autobiographical <i>Recollections of a Southern Matron</i>, written in 1838,
             she objected to the fashionable Southern belle as a woman defined by men and
             suggested other modes of behavior. She used her writing to comment on the societies
             of North and the South, comparing and contrasting their views of the domestic
@@ -98,8 +98,8 @@ g_bios = [
             emphasized historical events from the period of the Revolutionary War.
             `,
         otherNotes: "",
-        references: `Moss, Elizabeth. <em>Domestic Novelists in the Old
-                South</em>. Louisiana: Louisiana State University Press, 1992.
+        references: `Moss, Elizabeth. <i>Domestic Novelists in the Old
+                South</i>. Louisiana: Louisiana State University Press, 1992.
                 <br> Haberly, David.
             &#8220;Caroline Howard Gilman&#8221; for Unitarian Universalist Historical Society
             (UUHS), 1999-2007, website includes portrait.
@@ -182,7 +182,7 @@ g_bios = [
             Women&rsquo;s Center. Elizabeth and Freada collaborated with the Feminist Alliance Against Rape which
             published national bi-monthly newsletters.`,
         otherNotes: "",
-        references: `Written by Kimm Topping, printed in <em>Mapping Feminist Cambridge</em>
+        references: `Written by Kimm Topping, printed in <i>Mapping Feminist Cambridge</i>
             guidebook, 2019:<br>
            <a class='indent'
                 href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a>
@@ -221,27 +221,27 @@ g_bios = [
              She has one son and lived  and worked
             in Cambridge part of each year.<br><br>
 
-            In 1986, her first book of poetry <em>Firstborn</em>
+            In 1986, her first book of poetry <i>Firstborn</i>
             was published and received the Academy of American Poet's Prize. This collection
             was known for its variety of first-person personae, all disaffected or angry.
-            Her next book <em>The House on the Marshland</em>, 1975, included historical
+            Her next book <i>The House on the Marshland</i>, 1975, included historical
             and fairytale characters such as Joan of Arc and Gretel (of Hansel and Gretel).
-            In 1980, she published <em>Descending Figure </em>with various imaginative personae.
-            In 1985, her book of poetry, <em>The Triumph of Achilles</em> appeared, which
-            won the National Book Critics Circle Award, The <em>Boston Globe</em> Literary
+            In 1980, she published <i>Descending Figure </i>with various imaginative personae.
+            In 1985, her book of poetry, <i>The Triumph of Achilles</i> appeared, which
+            won the National Book Critics Circle Award, The <i>Boston Globe</i> Literary
             Press Award, and the Poetry Society of the America's Melville Kane Award. In
-            1990, her fifth book was published entitled <em>Ararat</em>, which won the Rebekah
+            1990, her fifth book was published entitled <i>Ararat</i>, which won the Rebekah
             Johnson Bobbitt National Prize for Poetry. 
             
             <br><br>She began to write long poems with
-            sequences connecting to tell a single story. <em>Ararat</em> deals with a family
+            sequences connecting to tell a single story. <i>Ararat</i> deals with a family
             of three women in the aftermath of the death of a husband and a father. Her
-            next book written as a series of poems, <em>Wild Iris</em>, was published in
+            next book written as a series of poems, <i>Wild Iris</i>, was published in
             1992 and won the Pulitzer Prize for poetry in 1993 and the Poetry Society of
             the America's William Carlos William Award. She published three more books of
-            poetry, <em>Meadowlands</em>, written in 1996, <em>Vita Nova</em> in 1999, and
-            The Seven Ages in 2001 (she was living on Ellsworth Park in Cambridge at the time). She also wrote a book of essays on poetry entitled <em>Proofs
-                and Theories: Essays on Poetry</em> in 1994, that won the PEN/Martha Albrand
+            poetry, <i>Meadowlands</i>, written in 1996, <i>Vita Nova</i> in 1999, and
+            The Seven Ages in 2001 (she was living on Ellsworth Park in Cambridge at the time). She also wrote a book of essays on poetry entitled <i>Proofs
+                and Theories: Essays on Poetry</i> in 1994, that won the PEN/Martha Albrand
             Award for Nonfiction.
             
             <br><br>
@@ -311,8 +311,8 @@ g_bios = [
             After a decade, the couple divorced. Miriam pursued her love of
             poetry by joining poetry workshops and working with the Cambridge poetry collective,
             Alice James Books, from the early 1970s to
-            the early 1980s. She published two books of poetry with the press, <em>Permanent
-                Wave</em> (1977) and <em>Signal :: Noise</em> (1982). She also polished her
+            the early 1980s. She published two books of poetry with the press, <i>Permanent
+                Wave</i> (1977) and <i>Signal :: Noise</i> (1982). She also polished her
             craft at a number of art colonies including the Fine Arts Work Center in Provincetown,
             Ragdale, in Chicago, and the famed McDowell Colony in Peterborough, New Hampshire.
             Realizing that poetry never pays the rent, she became a technical writer and
@@ -352,16 +352,16 @@ g_bios = [
             Photography, and the Nelson Gallery (N.H.) between 1994 and 2006. She founded
             and coordinated the Word &amp; Image Lecture series, sponsored by Lesley Seminars
             and The Center for Photographic Exhibition of the New England School of Photography.
-            She also served as Photography Editor for the <em>Women's Review of Books</em>
-            and Poetry Editor for <em>Sojourner</em> newspaper, Boston.
+            She also served as Photography Editor for the <i>Women's Review of Books</i>
+            and Poetry Editor for <i>Sojourner</i> newspaper, Boston.
             <br><br>
 
             While she continued to publish individual poems
             in various publications over the years, in 1996 she published a third book of
-            poetry, <em>Commercial Traveler</em>, with Garden Street Press of Truro, Massachusetts.
-            More recently, she edited an anthology of poems for the online magazine <em>Frigate</em>
+            poetry, <i>Commercial Traveler</i>, with Garden Street Press of Truro, Massachusetts.
+            More recently, she edited an anthology of poems for the online magazine <i>Frigate</i>
             (http://www.frigatezine.com, Issue 2 November 2000 - September 2001), entitled
-            <em>Night Shift: Poets on Work</em>. Her photographs illustrating the subject
+            <i>Night Shift: Poets on Work</i>. Her photographs illustrating the subject
             of work appeared throughout this issue. In 2007, she contributed a permanent
             traveling collection to the Griffin Museum of Photography. <br><br>
 
@@ -373,9 +373,9 @@ g_bios = [
             `,
         otherNotes: "",
         references: `
-            Obituary, <em>The Boston Globe</em> , May 14, 2008. <br>
+            Obituary, <i>The Boston Globe</i> , May 14, 2008. <br>
             Bryan Marquard. &#8220;Miriam Goodman, 69; poet also nurtured others' art&#8221;
-            <em>The Boston Globe</em>, May 16, 2008.
+            <i>The Boston Globe</i>, May 16, 2008.
            <br>
             Leslie Lawrence &#8220;Miriam Goodman, Poet, 1938-2008&#8221; We Remember, Jewish
             Women's Archive website.<br>
@@ -572,7 +572,7 @@ g_bios = [
         otherNotes: "",
         references: `
             Graham and Parks Alternative School web site<br>
-            <em>Metropolis Magazine</em>, Harvard inc., 2001.<br>
+            <i>Metropolis Magazine</i>, Harvard inc., 2001.<br>
             <i>Cambridge City Directory</i>, 1972.<br>
             <i>The Cambridge Chronicle</i>,  17 April 1980.<br>
             Photo from legacy.com:<br>
@@ -700,8 +700,8 @@ g_bios = [
             James Albert Revaleon and Ruby Higginbotham, was a lifelong resident of Cambridge.
             She lived at 9 Worcester Street at a home in The Port neighborhood. A former teacher,
             she was known for her keen love for and knowledge of history. The Revaleon family
-            has an interesting history and is highlighted in <em>Twenty Families of Color
-                in Massachusetts, 1742&#8211;1998</em> by Frank Dorman.<br><br>
+            has an interesting history and is highlighted in <i>Twenty Families of Color
+                in Massachusetts, 1742&#8211;1998</i> by Frank Dorman.<br><br>
 
             Her grandfather Albert Leroy Revaleon enlisted
             in the 55th regiment in the Civil War, a regiment of Black soldiers formed after
@@ -751,8 +751,8 @@ g_bios = [
             Devoted to her community, she is depicted in the
             top left-hand corner of the mural behind the Harvest Cooperative Supermarket
             in Central Square. In 2002, on her ninetieth birthday, she was awarded the key
-            to the City of Cambridge. Since then, she compiled a booklet entitled <em>African American
-                Women&#8212;Firsts </em>that celebrates in words and photographs the accomplishments
+            to the City of Cambridge. Since then, she compiled a booklet entitled <i>African American
+                Women&#8212;Firsts </i>that celebrates in words and photographs the accomplishments
             of Black women U.S. history. She served as a member of the Cambridge African
             American Heritage Trail Committee and the Cambridge Historical Commission, and
             in 2004 she was the first recipient of the Margaret Fuller Lifetime Achievement
@@ -764,11 +764,11 @@ g_bios = [
             99. `,
         otherNotes: "",
         references: `
-            Cambridge <em>Tab</em> Feb. 25, 1999.<br>
-            <em>4word</em> article, November 2003, &quot;A Conversation with Suzanne Revaleon
+            Cambridge <i>Tab</i> Feb. 25, 1999.<br>
+            <i>4word</i> article, November 2003, &quot;A Conversation with Suzanne Revaleon
             Green&quot;.<br>
-            Cambridge Historical Commission files<em>.<br>
-            </em>Salem State Alumni site. <br>
+            Cambridge Historical Commission files<i>.<br>
+            </i>Salem State Alumni site. <br>
                         Image credit: History Cambridge.
 
         `,
@@ -810,7 +810,7 @@ g_bios = [
             `,
         otherNotes: "",
         references: `
-            Written by Kimm Topping, printed in <em>Mapping Feminist Cambridge</em>
+            Written by Kimm Topping, printed in <i>Mapping Feminist Cambridge</i>
             guidebook, 2019: <a
                 href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a>
         `,

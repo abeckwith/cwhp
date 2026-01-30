@@ -33,8 +33,8 @@ k_bios = [
             became the first women elected to the Cambridge School Committee. Phebe Kendall
             served until 1894. In 1896, Phebe Mitchell Kendall edited a biography of her
             sister, Maria Mitchell (1818-1889) who had made her name as astronomer, educator,
-            and advocate for the education of women. (<em>Maria Mitchell: Life, Letters
-                and Journals</em> (Boston 1896). <br><br>
+            and advocate for the education of women. (<i>Maria Mitchell: Life, Letters
+                and Journals</i> (Boston 1896). <br><br>
 
             Phebe Kendall died in 1907. Her son, William Mitchell
             Kendall, had a distinguished career as an architect and was active in many art
@@ -47,14 +47,14 @@ k_bios = [
             Cambridge Vital Records; City of Cambridge Annual
             Reports.<br>
             Federal Census.<br>
-            Kendall, Phebe Mitchell. <em>Maria Mitchell: Life,
-                Letters and Journals</em>, book online. <br>
-            Harvard University Library Open Collections Program: <em>Women Working, 1870-1930</em>
+            Kendall, Phebe Mitchell. <i>Maria Mitchell: Life,
+                Letters and Journals</i>, book online. <br>
+            Harvard University Library Open Collections Program: <i>Women Working, 1870-1930</i>
             <br> <a class='indent' 
                 href="http://ocp.hul.harvard.edu/ww/people_mitchell.html">http://ocp.hul.harvard.edu/ww/people_mitchell.html</a>
            <br>
             Gray, Christoper. &quot;Streetscapes/McKin, Mead &amp; White: A Skeptic's View
-            of a Renowned Architectural Firm,&quot; <em>New York Times</em>, 2 June 2006,
+            of a Renowned Architectural Firm,&quot; <i>New York Times</i>, 2 June 2006,
             online archives.<br>
             Image from Cambridge Historical Commission.
         `,
@@ -120,15 +120,15 @@ k_bios = [
             these issues and sits on the board of the Center for Arms Control and Non-Proliferation.<br><Br>
             
             In 1987, she was awarded an honorary doctoral degree by Mount Holyoke College.
-            She retired from MIT as professor <em>emerita</em> in 1994. Her papers are at
+            She retired from MIT as professor <i>emerita</i> in 1994. Her papers are at
             MIT Library archives. `,
         otherNotes: "",
-        references: `<em> Notable Women in the Physical Sciences</em>.
+        references: `<i> Notable Women in the Physical Sciences</i>.
             Benjamin F. Shearer and Barbara S. Shearer (eds). Westport, CN,. 1997<br>
              Interview,
             Oral History Project, MIT archives; Vera Kistiakowsky Papers, MIT Library archives.<br>
-            Carol Berczuk, &#8220;Choices and Successes: Honoring Women Pioneers &#8220;<em>
-                Annals of the New York Academy of Sciences</em> 869 (1), 22&#8211;33, 1999.
+            Carol Berczuk, &#8220;Choices and Successes: Honoring Women Pioneers &#8220;<i>
+                Annals of the New York Academy of Sciences</i> 869 (1), 22&#8211;33, 1999.
                 <br>
                 Image from <a href="https://en.wikipedia.org/wiki/Vera_Kistiakowsky" >https://en.wikipedia.org/wiki/Vera_Kistiakowsky</a>
         `,

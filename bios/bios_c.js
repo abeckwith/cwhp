@@ -47,7 +47,7 @@ c_bios = [
         references: `<i>George Wright Collection</i> at the Cambridge Historical
             Society<br>37th
             Annual Report of Cambridge Social Union.
-            <br><em>4word</em>, October 2001.<br>
+            <br><i>4word</i>, October 2001.<br>
             <i>Cambridge Chronicle</i>, 28 January 1971.
         `,
         photos: ["images_bios/neighborhood house on moore.jpg"],
@@ -192,12 +192,12 @@ c_bios = [
             held at Smith College and include student transcripts and faculty reports as
             well as other documents and exhibitions.`,
         otherNotes: "",
-        references: `Dorothy May Anderson, <em>Women, Design and the
-                Cambridge School</em>. Cambridge School of Architecture and Landscape Architecture
+        references: `Dorothy May Anderson, <i>Women, Design and the
+                Cambridge School</i>. Cambridge School of Architecture and Landscape Architecture
             records at Smith College 
             and in William Allan Neilsen's presidential archives at Smith College.<br>
-            Doris Cole, <em>Eleanor Raymond, Architect.<br>
-            </em> Philadelphia: The Art Alliance
+            Doris Cole, <i>Eleanor Raymond, Architect.<br>
+            </i> Philadelphia: The Art Alliance
             Press, 1981.<br>
             Susana Torre, &quot;Women in American Architecture: A Historic
             and Contemporary Perspective,&#8221; NY: Whitney Library of Design, 1977.
@@ -250,9 +250,9 @@ c_bios = [
             
             <br><br>
             Classifying stellar bodies according
-            to their temperatures, she published the <em>Henry Draper Catalogue</em> in
+            to their temperatures, she published the <i>Henry Draper Catalogue</i> in
             nine volumes (1918-1924), which listed the faintest to the brightest spectra
-            of stars from the North to South Poles and the <em>Henry Draper Extension</em>
+            of stars from the North to South Poles and the <i>Henry Draper Extension</i>
             in two volumes (1925-1949) that included even fainter stars. The two catalogs
             represented a total of about 350,000 stars. She also discovered 300 long-period
             variable stars. She was made an honorary member of the Royal Astronomical Society
@@ -270,8 +270,8 @@ c_bios = [
             on her subject.
             `,
         otherNotes: "",
-        references: `<em>Notable American Women</em> vol I (1950); Ogilvie,
-            Marilyn and Joy Harvey. <em>Biographical Dictionary of Women Scientists</em>,
+        references: `<i>Notable American Women</i> vol I (1950); Ogilvie,
+            Marilyn and Joy Harvey. <i>Biographical Dictionary of Women Scientists</i>,
             (2000).
               Annie Jump Cannon, head-and-shoulders
             portrait, 1922.<br>
@@ -324,7 +324,7 @@ c_bios = [
             In order to have privacy
             for her writing, she had the habit of hiding in the bathroom or in her car,
             as vividly described by her daughter Marion Cannon Schlesinger
-            in the memoir, <em>Snatched from Oblivion</em>.
+            in the memoir, <i>Snatched from Oblivion</i>.
             Cannon wrote about women's rights, birth control, and public 
             education and published a total of eight novels. She was also involved with Planned 
              Parenthood and the League of Women Voters.<br><br>
@@ -363,7 +363,7 @@ c_bios = [
           
           `,
         otherNotes: "",
-        references: `Marion Cannon Schlesinger, <em>Snatched from Oblivion</em>,
+        references: `Marion Cannon Schlesinger, <i>Snatched from Oblivion</i>,
             Little Brown (1997).<br>
             Cambridge Public Library &#8220;Penwomen of Cambridge Past: Biographies
             of Our Literary Foremothers&#8221;.<br>
@@ -423,18 +423,18 @@ c_bios = [
             Hospital.`,
         otherNotes: "",
         references: `
-            <em>27th Annual report of Cambridge Social Union</em> October 31, 1889, p 12,
+            <i>27th Annual report of Cambridge Social Union</i> October 31, 1889, p 12,
             (see George Wright Collection at The Cambridge Historical Society).
             <br>
             May Alden Ward.&#8221;The Influence of Women's Clubs in New England and in the
-            Middle-Eastern States,&#8221; <em>Annals of the American Academy of Political
-                and Social Science</em>, Vol. 28 Woman's Work and Organizations (Sep., 1906),
+            Middle-Eastern States,&#8221; <i>Annals of the American Academy of Political
+                and Social Science</i>, Vol. 28 Woman's Work and Organizations (Sep., 1906),
             pp. 7-28.<br>
-            Grace S. Rice &#8220;The Cantabrigia Club&#8221; in <em>Cambridge Sketches by
-                Cambridge Authors</em> edited by Estelle M. H. Merrill (Cambridge Young Women's
+            Grace S. Rice &#8220;The Cantabrigia Club&#8221; in <i>Cambridge Sketches by
+                Cambridge Authors</i> edited by Estelle M. H. Merrill (Cambridge Young Women's
             Christian Association, 1896).<br>
-            Jennie Cunningham Croly, &#8220;The Cantabrigia Club&#8221; in <em>The History
-                of the Woman's Club Movement in America</em>, New York, 1898.
+            Jennie Cunningham Croly, &#8220;The Cantabrigia Club&#8221; in <i>The History
+                of the Woman's Club Movement in America</i>, New York, 1898.
                 <br>Photo from <i>The Cambridge Tribune</i>,  29 October 1892.
 
         `,
@@ -476,10 +476,10 @@ c_bios = [
             to emphasize that they were only one cell of an organic movement and in reference
 
             its original meeting address, 16 Lexington Avenue. The group began to publish
-            a magazine, <em>No More Fun and Games; A Journal of Female Liberation</em>.
+            a magazine, <i>No More Fun and Games; A Journal of Female Liberation</i>.
             The Female Liberation group grew out of Cell 16. Its most important contribution
-            was its publication of the magazine <em>The Second Wave Magazine: A Magazine
-                for the New Feminism</em> in 1971 that continued until 1983 even after its parent
+            was its publication of the magazine <i>The Second Wave Magazine: A Magazine
+                for the New Feminism</i> in 1971 that continued until 1983 even after its parent
             organization was dissolved. It included news stories, poetry, fiction, graphics,
             and articles that expressed a wide range of feminist viewpoints. 
             
@@ -489,7 +489,7 @@ c_bios = [
         otherNotes: "",
         references: ` Cell 16 archives, Northwestern Library, Women's
             Movement Archives.Files include administrative files and artwork of the magazines
-            as well as copies of <em>The Second Wave</em>.
+            as well as copies of <i>The Second Wave</i>.
         `,
         photos: ["images_bios/The_Second_Wave_First_Issue_Cover.png"],
         photoTitles: [],
@@ -576,8 +576,8 @@ c_bios = [
             Irving Lorge, who directed educational research at Teachers College, Columbia
             University. She went on to do graduate work with Edgar Dale at Ohio State University,
             where she received an A.M. degree in 1947 and her Ph.D. in 1952. She became
-            interested in the issue of readability which led her to write <em>Readability:
-                An Appraisal of Research and Application</em> (1958). She returned to City College
+            interested in the issue of readability which led her to write <i>Readability:
+                An Appraisal of Research and Application</i> (1958). She returned to City College
             as lecturer, rising to professor by 1965. She collaborated throughout her life
             with Florence Roswell, director of the reading clinic at the college, on the
             diagnosis and treatment of reading difficulties.
@@ -595,14 +595,14 @@ c_bios = [
             children and children's television programs including &quot;Sesame Street,&quot;
             &quot;The Electric Company,&quot; and &quot;Between the Lions.&quot; She was
             interested in the issues surrounding reading and poverty and produced a book
-            on this topic,<em>The Reading Crisis: Why Poor Children Fall Behind</em> (1990).
-            Her final book, <em>The Academic Achievement Challenge: What Really Works in
-                Classrooms</em>, was published after her death in 2000.`,
+            on this topic,<i>The Reading Crisis: Why Poor Children Fall Behind</i> (1990).
+            Her final book, <i>The Academic Achievement Challenge: What Really Works in
+                Classrooms</i>, was published after her death in 2000.`,
         otherNotes: "",
-        references: `<em>Cambridge Chronicle</em>, December 2, 1999.<br>
+        references: `<i>Cambridge Chronicle</i>, December 2, 1999.<br>
             <a
                 href="http://education.stateuniversity.com/pages/1819/Chall-Jeanne-1921-1999.html" >http://education.stateuniversity.com/pages/1819/Chall-Jeanne-1921-1999.html</a><br>
-            <em>Harvard Gazette</em> obituary December 2 1999.
+            <i>Harvard Gazette</i> obituary December 2 1999.
         `,
         photos: ["images_bios/jeanne chall.jpeg"],
         photoTitles: [],
@@ -644,7 +644,7 @@ c_bios = [
             <br><br>By the 1960's, \"Joyce Chen's\" had become a famous restaurant, visited by patrons
             that ranged from celebrities to ordinary restaurant-goers. She began to teach
             Chinese cooking at both the Cambridge and Boston Adult Education Centers and,
-            in 1962, she published a widely-praised cookbook,<em> Joyce Chen Cook Book</em>.
+            in 1962, she published a widely-praised cookbook,<i> Joyce Chen Cook Book</i>.
             By 1968, she was asked to present a television cooking show for WGBH (PBS) &#8220;Joyce
             Chen Cooks&#8221;. In time, she opened restaurants in various locations in Cambridge,
             including ones in Central Square, on Memorial Drive, on Rindge Avenue, and in Boston. 
@@ -658,7 +658,7 @@ c_bios = [
             one four years after her death. Her three children continued her retail,
             cookware, and Chinese food businesses.`,
         otherNotes: "",
-        references: ` <em>Boston</em> <em>Globe</em>, May 19, 1994.
+        references: ` <i>Boston</i> <i>Globe</i>, May 19, 1994.
             
         <br>Wikipedia entry:<br>
         <a class='indent' href="https://en.wikipedia.org/wiki/Joyce_Chen_(chef)">https://en.wikipedia.org/wiki/Joyce_Chen_(chef)</a>
@@ -701,7 +701,7 @@ c_bios = [
             During that period, Julia took classes at the famous Cordon Blue cooking school.
             In 1951, she opened a cooking school, L'Ecole des Trois Gourmandes, (The
             School of Three Gourmands) with two partners. In 1961, the three women published
-            <em>Mastering the Art of French Cookery</em>, considered at the time to be the
+            <i>Mastering the Art of French Cookery</i>, considered at the time to be the
             best book on the subject in English. <br><br>
 
             In 1961, Julia and her husband moved to Cambridge
@@ -709,7 +709,7 @@ c_bios = [
             regular series of television programs, &#8220;The French Chef&#8221; on Boston's
             WGBH, part of the Public Broadcasting Service, that catapulted her into national
             celebrity. She won a Peabody Award in 1965 and an Emmy in 1966 for the series,
-            which continued for ten years In 1968, she published <em>The French Chef Cookbook</em>,
+            which continued for ten years In 1968, she published <i>The French Chef Cookbook</i>,
             including much of the content from her programs. In the 1970s and 1980s, she
             starred in further programs, &#8220;Julia and Company&#8221; and &#8220;Dinner
             at Julia's.&#8221; A series of cookbooks also came out of this, along with her
@@ -758,7 +758,7 @@ c_bios = [
             Child (1920-1993) are in the Schlesinger Library at Radcliffe. `,
         otherNotes: "",
         references: ` Schlesinger Library, Julia Child collection guide<br>
-            <em>Treasury of Women's Quotations</em> by Carolyn Warner, Prentice Hall,
+            <i>Treasury of Women's Quotations</i> by Carolyn Warner, Prentice Hall,
             Englewood Cliffs, NJ, 1992.<br>
             Schlesinger Papers:<br>
             <a class='indent' href="https://guides.library.harvard.edu/schlesinger_julia_child">https://guides.library.harvard.edu/schlesinger_julia_child</a><br>
@@ -879,7 +879,7 @@ c_bios = [
             and much of the menu.
             `,
         otherNotes: "",
-        references: `Written by Kimm Topping, printed in <em>Mapping Feminist Cambridge</em>
+        references: `Written by Kimm Topping, printed in <i>Mapping Feminist Cambridge</i>
             guidebook, 2019: <a
                 href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">
                 https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a>
@@ -945,7 +945,7 @@ c_bios = [
           
             `,
         otherNotes: "",
-        references: `Written by Kimm Topping, printed in <em>Mapping Feminist Cambridge</em>
+        references: `Written by Kimm Topping, printed in <i>Mapping Feminist Cambridge</i>
             guidebook, 2019: <a
                 href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a>
 <br>Photo: Cambridge Chronicle 24 October 1989.
@@ -1012,12 +1012,12 @@ c_bios = [
             Investment Co., Melrose Realty Co. Inc., and the Strathcona Realty Trust.`,
         otherNotes: "",
         references: `
-            Charles M. Sullivan, <em>Old Cambridge </em>manuscript. MIT press.<br>
+            Charles M. Sullivan, <i>Old Cambridge </i>manuscript. MIT press.<br>
             Jacob Rader Marcus, The American Jewish Woman, 1654-1980 (1981) p. 117.<br>
-            Eric Von Scmidt and Jim Rooney, <em>Baby, Let Me Follow You Down: The illustrated
-                Story of the Cambridge Folk Years</em>, p. 15.<br>
-            Obituary, <em>Harvard Crimson</em> Wednesday, February 03, 1965.<br>
-            James Cramer in <em>Harvard Crimson</em> &quot;Part I: The Rise of Eddie Crane.
+            Eric Von Scmidt and Jim Rooney, <i>Baby, Let Me Follow You Down: The illustrated
+                Story of the Cambridge Folk Years</i>, p. 15.<br>
+            Obituary, <i>Harvard Crimson</i> Wednesday, February 03, 1965.<br>
+            James Cramer in <i>Harvard Crimson</i> &quot;Part I: The Rise of Eddie Crane.
             Power in Cambridge.&quot; February 07, 1975. <br>
             A list of her Real Estate holdings is held in the Harvard University Corporation
             archives (B.U.D. 81, Real Estate, March 6, 1967 &#8220;List of Properties in
@@ -1098,7 +1098,7 @@ c_bios = [
             are held in the Radcliffe College archives in Schlesinger Library 
             `,
         otherNotes: "",
-        references: `<em>Notable American Women, Modern Period</em><br>
+        references: `<i>Notable American Women, Modern Period</i><br>
             Ada Louise Comstock papers, Smith College.<br>Image from wikipedia.com:<br>
             <a class='indent' href="https://en.wikipedia.org/wiki/Ada_Comstock">https://en.wikipedia.org/wiki/Ada_Comstock</a>
             <br><i>Cambridge City Directory</i>, 1928.
@@ -1345,7 +1345,7 @@ c_bios = [
             `,
         otherNotes: "",
         references: `
-            <em>Cambridge Chronicle</em>. Sept 6, 2000.<br>
+            <i>Cambridge Chronicle</i>. Sept 6, 2000.<br>
             hollywood.com.<br>
             <br>Image from wikipedia.com:
             <br><a class='indent' href="https://en.wikipedia.org/wiki/Jane_Curtin" >https://en.wikipedia.org/wiki/Jane_Curtin</a>

@@ -37,8 +37,8 @@ t_bios = [
             of x-ray fluoroscopy. With the heart surgeon Alfred Blalock, she pioneered an
             operation in 1944 to correct the &#8220;blue baby&#8221; syndrome, a congenital
             heart syndrome in which an infant is born with a leaky septum of the heart and
-            an undeveloped pulmonary artery. Her book, <em>Congenital Malfunctions of the
-                Heart </em>(1947), became a classic on the subject. In the early 1960s, she
+            an undeveloped pulmonary artery. Her book, <i>Congenital Malfunctions of the
+                Heart </i>(1947), became a classic on the subject. In the early 1960s, she
             traveled to Germany to examine children born with phocomelia (severely shortened
             limbs) as a result of their mothers' use of the anti-nausea drug, thalidomide.
             Her testimony before the Food and Drug Administration successfully kept this
@@ -58,10 +58,10 @@ t_bios = [
             Academy of Sciences in 1973. She died in Pennsylvania in an automobile accident
             at the age of eighty-seven.`,
         otherNotes: "",
-        references: ` Marilyn Ogilvie and Joy Harvey, <em>Biographical
-                Dictionary of Women Scientists</em>. Routledge, 2000.
+        references: ` Marilyn Ogilvie and Joy Harvey, <i>Biographical
+                Dictionary of Women Scientists</i>. Routledge, 2000.
                 <br> Phyllis J. Read and Bernard
-            L. Witlieb,<em> The Book of Women's Firsts</em>, New York: Random House,
+            L. Witlieb,<i> The Book of Women's Firsts</i>, New York: Random House,
             1992.<br>
             <i>Cambridge City Directory </i>, 1900.
        <br> Image from wikipedia.com:<br>
@@ -131,10 +131,10 @@ t_bios = [
             `,
         otherNotes: "",
         references: `
-            &#8220;Learning without drudgery&#8221; <em>Time</em> magazine February 10, 1947.<br>
-            Edward Yeomans. <em>Shady Hill School: The First Fifty Years</em> Cambridge,
+            &#8220;Learning without drudgery&#8221; <i>Time</i> magazine February 10, 1947.<br>
+            Edward Yeomans. <i>Shady Hill School: The First Fifty Years</i> Cambridge,
             Massachusetts: Windflower Press, 1979.<br>
-            May Sarton,<em> Recovering: A Journal, 1978-1979</em>,. New York: W.W. Norton
+            May Sarton,<i> Recovering: A Journal, 1978-1979</i>,. New York: W.W. Norton
             pp 242-244.<br>
             <i>Cambridge City Directory</i>, 1946.
             <br>Image used wth permission from Shady Hill School:
@@ -168,7 +168,7 @@ t_bios = [
             Helen Meriwether Lewis lived in Cambridge from 1937 until her death in 1997. She began her early education
             in New York City, where her mother was a public school teacher, continuing her
             high school years at St. Catherine's School in Richmond, Virginia. She earned
-            her <em>A.B.</em> from Radcliffe College in 1928 in government, but her interest
+            her <i>A.B.</i> from Radcliffe College in 1928 in government, but her interest
             in astronomy was stimulated by undergraduate work at the Harvard Observatory,
             where she assisted Professor Willem Luyten in identifying white dwarf stars.
             
@@ -195,16 +195,16 @@ t_bios = [
          
             <br><br>In 1986, she was awarded a $50,000 prize by TWA for accurately predicting, thirty
             years before, the range, cruising speed, passenger capacity, and use of jet
-            engines by commercial airlines (earning a listing in the <em>Guinness Book of
-                World Records</em>). She died shortly before her ninety-second birthday, and
+            engines by commercial airlines (earning a listing in the <i>Guinness Book of
+                World Records</i>). She died shortly before her ninety-second birthday, and
             a memorial service was held at Christ Church, Cambridge. `,
         otherNotes: "",
         references: `
             Dorritt, Hoffleit, &#8220;In Memory of Helen Meriwether Lewis Thomas, August
-            21 1905-August 6 1997.&#8221; <em>Journal of the Association of Variable Star
-                Observers ( JAAVSO)</em> 28: 40-46, 2000;. <br>
+            21 1905-August 6 1997.&#8221; <i>Journal of the Association of Variable Star
+                Observers ( JAAVSO)</i> 28: 40-46, 2000;. <br>
             Hoffleit, Dorritt &#8220;Eloge: Helen Meriwether Lewis Thomas, 21 August 1905-6
-            August 1997 [Obituary]&#8221; <em>Isis</em> 89: 316, 1998.<br>
+            August 1997 [Obituary]&#8221; <i>Isis</i> 89: 316, 1998.<br>
             <i>The Cambridge Chronicle</i>, 10 June 1993.
             <br><i>Cambridge City Directory</i>, 1963.<br>
             Image from <i>University of Chicago Press Journals</i>:<br>
@@ -291,7 +291,7 @@ t_bios = [
             <br>
             Schlesinger Library, online Flickr photo album, link viewed February 23, 2015:<br>
             <a class='indent' href="https://www.flickr.com/photos/schlesinger_library/13270319163/">https://www.flickr.com/photos/schlesinger_library/13270319163/</a> <br>
-            <em>Black Women in America, A Historical Encyclopedia</em> ed. Darlene Clark,
+            <i>Black Women in America, A Historical Encyclopedia</i> ed. Darlene Clark,
             Carlson Publishing, Inc.,1993.<br>
             <i>Cambridge Chronicle</i>, 21 November 1985.<br>
             Image from wikipedia.com:<br>
@@ -354,8 +354,8 @@ t_bios = [
             of Malacology. Before her death, she received many awards and honorary degrees
             and served as consultant to many scientific organizations. `,
         otherNotes: "",
-        references: ` <em>
-                Harvard Gazette</em>, May 2001.<br>
+        references: ` <i>
+                Harvard Gazette</i>, May 2001.<br>
             Obituary on sciencenetwork.com.<br>
             <i>Cambridge City Directory</i>, 1965.<br>
                 Image from wikipedia.com:<br> 
