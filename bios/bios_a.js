@@ -1506,7 +1506,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         opened a new studio in Porter Square. Despite her reputation as a creative photographer, the new
          location proved difficult for returning customers and walk-ins alike, which greatly affected her 
          business. Antupit closed that studio and began afresh in neighboring Belmont before finally retiring.
-          The Antupit and the Koby-Antupit studios had a lasting impact on both the citizens and business
+          The Koby-Antupit studios had a lasting impact on both the citizens and business
            community in Cambridge.
         <br><br>
 
@@ -1568,7 +1568,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
 
         `,
         photos: ["images_bios/Antupit_Frances002.jpg" , "images_bios/Antupit_Frances003.jpg" ],
-        photoTitles: [],
+        photoTitles: ["", "Photo by Sam Antupit"],
         dateCreated: "01.30.2026",
         dateUpdated: "",
 
