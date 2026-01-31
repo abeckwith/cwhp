@@ -776,7 +776,7 @@ s_bios = [
                 <i>The Dighton Herald</i>, Aug. 18, 1898.<br>
         <i>The Cambridge Tribune</i>,  2 July 1898.<br>
         <i>1880 U.S. Census</i> for Virginia.<br>
-        <i>Boston Globe</i>, Nov 29, 1899 .<br>
+        <i>Boston Globe</i>, Nov 29, 1899.<br>
         <I>Wikipedia entry</i>:<br>
         <a class='indent'  href="https://en.wikipedia.org/wiki/Alberta_Virginia_Scott">https://en.wikipedia.org/wiki/Alberta_Virginia_Scott</a><br>
         <i>Cambridge Office of Tourism</i>:<br>

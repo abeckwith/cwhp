@@ -104,5 +104,7 @@ photoList = [
     "bios.html?lNm=Chall&mNm=Sternlicht&fNm=Jeanne",
     "bios.html?lNm=Chen&mNm=&fNm=Joyce",
     "bios.html?last=Antupit&middle=Vivian&first=Frances",
-    "bios.html?last=Axelrod&middle=&first=Janet"
+    "bios.html?last=Axelrod&middle=&first=Janet", 
+    "bios.html?last=Scott&middle=Virginnia&first=Alberta",
+    "bios.html?ln=Peirce&mN=Melusina&fN=Harriet"
 ];
