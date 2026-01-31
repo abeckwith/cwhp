@@ -322,7 +322,7 @@ p_bios = [
             she attributes her later successes. She attended the Longfellow school and Cambridge High and Latin.
             <br><br>
 
-            In a 1977 Cambridge Chronicle article, entitled, "Valiant Miss Piltch...", Dan McLaughlin wrote that...
+            In a 1977 Cambridge Chronicle article, entitled, <i>Valiant Miss Piltch...</i>, Dan McLaughlin wrote that...
            
             <blockquote>
             "Long before Women's Lib, Sylvia Piltch, of Dana St., Cambridge, chief physical therapist at
