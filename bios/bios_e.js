@@ -22,7 +22,7 @@ e_bios = [
             was appointed as a resident at Yale University and rose through the ranks to
             a position on the faculty. <br><br>
 
-            With .wards Park she developed a treatment
+            With Edwards Park she developed a treatment
             for rickets using cod-liver oil, vitamin D and exposure to sun. In 1924, she
             was named director of the Division of Child and Maternal Health at the U.S.
             Children's Bureau on a part-time basis while she continued to teach and
@@ -60,14 +60,16 @@ e_bios = [
         references: ` Phyllis J. Read and Bernard L. Witlieb, <i>The
                 Book of Women's Firsts</i> (1992); &#8220;Changing the Face of Medicine&#8221;
             National Library of Medicine web site. <br>
-            &nbsp;&nbsp;&nbsp;&nbsp;<a
+            <a class='indent'
                 href="http://www.nlm.nih.gov/changingthefaceofmedicine/physicians/biography_99.html" >http://www.nlm.nih.gov/changingthefaceofmedicine/physicians/biography_99.html</a>
             <br>Image from wikipedia.com:<br>
             <a class='indent' href="https://en.wikipedia.org/wiki/Martha_May_Eliot">https://en.wikipedia.org/wiki/Martha_May_Eliot</a>
              <br>
              <i>The Cambridge Chronicle</i>, 8 October 1959. <br>
-             <i>Cambridge City Directory</i>, 1972 . `,
-        photos: ["images_bios/martha_may_eliot.jpg"],
+             <i>Cambridge City Directory</i>, 1972.<br>
+             Second Image from the National Library of Medicine:<br>
+             <a class='indent' href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1448446/">https://pmc.ncbi.nlm.nih.gov/articles/PMC1448446/<.a> `,
+        photos: ["images_bios/martha_may_eliot.jpg", "images_bios/eliot2.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
         dateUpdated: "",

@@ -206,15 +206,15 @@ p_bios = [
         poc: false,
         organization: false,
         lastName: "Peirce",
-        firstName: "Melusina",
-        middleName: "",
+        firstName: "Harriet \"Zina\"",
+        middleName: "Melusina",
         familyName: "Fay",
         
         title: `Social scientist, writer, feminist`,
         birthDate: "02.24.1836",
         birthLocation: "Burlington, Vermont",
         deathDate: "04.28.1923",
-        deathLocation: "Cambridge, Massachusetts",
+        deathLocation: "Watertown, Massachusetts",
         narrative: `
             Born Harriet Melusina Fay, and called Zina, she
             was one of six daughters of Emily (Hopkins) and Reverend Charles Fay, an Episcopal
@@ -231,9 +231,26 @@ p_bios = [
             women who joined the cooperatives should be paid salaries to manage the business
             of obtaining goods, preparing meals, and hiring domestic help. She formed the
             Cooperative Housekeeping Association in 1870, but the experiment was short lived,
-            following the objection of some of the members' husbands. 
-            
+            following the objection of some of the members' husbands. <br><Br>
+
+            A 1981 Cambridge Chronicle summary of a new book about Peirce's Cooperative
+             (<i>The Grand Domestic Revolution</i>) gives the reader a visual of the Bow Street shop,
+              on edge of Harvard Square:
+
+            <blockquote>
+            "...If you had brought your laundry to Bow St. over a century ago, you would have gone to a
+             modest little establishment called the Cambridge Cooperative Housekeeping Society and found 
+             yourself participating in a unique and radical (even by today's standards) experiment.
             <br><br>
+
+            "The very proper lady who took your bundle over the counter would have been Melusina Fay Peirce...It 
+            wasn't that the Peirces had fallen upon hard times...but that Zina, as she was know to famliars, had 
+            embarked on a campaign to liberate housewives from the oppression of unpaid domestic work. The laundry
+             was part of a cooperative where women performed household chores under one roof, and then charged their
+              husbands for goods and services."
+             </blockquote>
+
+     
              The marriage of Melusina and Charles Peirce was strained.
             This has been attributed to his temper and infidelity. Although she accompanied
             her husband to Europe in 1875, Melusina separated from him later that year and
@@ -250,8 +267,8 @@ p_bios = [
             promoting her ideas of the 1860s and 1870s. By 1903, she had patented a design
             for a cooperative apartment building with communal kitchens. 
             
-            <br><br>She died in Cambridge
-            in 1923 at the age of 87.`,
+            <br><br>She died in Watertown
+            in 1923 at the age of 87 and is buried in Mt. Auburn Cemetery.`,
         otherNotes: "",
         references: `
             Dolores Hayden, <i>The Grand Domestic Revolution: A History of Feminist Designs
@@ -263,18 +280,22 @@ p_bios = [
             170 Course Notes, Harvey Mudd College, Claremont, CA 91711.
           
             <br>
-            Ancestry.com genealogy records including family trees, vital records, U.S. Census
-            reports, and city directory entries.<br>
-            Image from wikipedia.com:<br>
+            Ancestry.com genealogy records  (vital records, U.S. Census
+            reports, and city directory entries).<br>
+            Portrait image from FindaGrave.com:<Br>
+            <i>The Cambridge Express</i>, 21 November 1981.
+
+            <a class='indent' href="https://www.findagrave.com/memorial/209682089/harriet_melusina-peirce">https://www.findagrave.com/memorial/209682089/harriet_melusina-peirce</a><Br>
+            Book image from wikipedia.com:<br>
             <a class='indent' href="https://en.wikipedia.org/wiki/Melusina_Fay_Peirce" >https://en.wikipedia.org/wiki/Melusina_Fay_Peirce</a>
         `,
-        photos: ["images_bios/peirce.png"],
+        photos: ["images_bios/peirce_melusina.jpeg", "images_bios/peirce.png"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "04.07.2025",
+        dateUpdated: "01.31.2026",
 
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Reformer", "Author"],
     },
