@@ -734,4 +734,68 @@ s_bios = [
         authors: "CWHP volunteers",
         categories: ["Community Leader", "Political Leader"],
     },
+      {
+        poc: false,
+        organization: false,
+        lastName: "Scott",
+        firstName: "Alberta",
+        middleName: "Virginnia",
+        familyName: "",
+
+        title: `Teacher, first Black graduate of Radcliffe College`,
+        birthDate: "00.00.1875",
+        birthLocation: "Green Spring, Virginia",
+        deathDate: "08.30.1902",
+        deathLocation: "Cambridge, Massachusetts",
+        narrative: `
+        Alberta Scott was the first African-American graduate of Radcliffe College.
+        <br><br>
+
+        Her parents Fannie and Smith A. Scott (a laborer) had lived in a "shanty" on an old estate willed 
+        to them after the Civil War. When Alberta Scott was six year old, the family sold their plantation 
+        home and moved to Cambridge, where they became members of the Union Baptist Church and Smith evenutally
+        became a pastor.  Scott's teachers 
+        at Cambridge Latin School were so encouraging of her school work that she was determined to get a 
+        college education. She had a particular interest in languages and literature. 
+
+        <br><br>
+        She was accepted to Radcliffe College and while there was a member of the "Idler" theater club as
+         well as the German club. Upon graduation in 1898, she planned on returning to the South to teach,
+          which had been her dream. She first taught in the city of Indianapolis for two years, and then
+           at the Tuskegee Institute in Alabama for one year.
+
+        <br><br>
+        Sadly, Alberta Scott passed away in 1902 in Cambridge at age 26. She had battled illness for more
+         than a year, which, at the time, was attributed to overwork and deep grief over the sudden loss 
+         of her father two years earlier (her father was 52 years old when he died). The family was living
+          at 37 Hubbard Avenue at the time, but had also lived at 28 Union Street, where there is today 
+          a placard in her honor.    
+        `,
+        otherNotes: "",
+        references: ` 
+                <i>The Dighton Herald</i>, Aug. 18, 1898.<br>
+        <i>The Cambridge Tribune</i>,  2 July 1898.<br>
+        <i>1880 U.S. Census</i> for Virginia.<br>
+        <i>Boston Globe</i>, Nov 29, 1899 .<br>
+        <I>Wikipedia entry</i>:<br>
+        <a class='indent'  href="https://en.wikipedia.org/wiki/Alberta_Virginia_Scott">https://en.wikipedia.org/wiki/Alberta_Virginia_Scott</a><br>
+        <i>Cambridge Office of Tourism</i>:<br>
+        <a class='indent' href="https://cambridgeusa.org/listings/alberta-v-scott/">https://cambridgeusa.org/listings/alberta-v-scott/</a><br>
+        <i>Photo credits</i>:<br>
+        <a class='indent' href="https://abhwomen.org/avs-leadership-academy">https://abhwomen.org/avs-leadership-academy</a><br>
+        <a class='indent' href="https://en.wikipedia.org/wiki/Alberta_Virginia_Scott">https://en.wikipedia.org/wiki/Alberta_Virginia_Scott</a>
+
+        `,
+        photos: ["images_bios/scott2.png", "images_bios/scott.jpg"],
+        photoTitles: [
+            
+        ],
+        dateCreated: "01.31.2026",
+        dateUpdated: "",
+
+        photoHeights: [],
+        editors: "",
+        authors: "Anthony Beckwith",
+        categories: ["Teacher"],
+    },
 ];
