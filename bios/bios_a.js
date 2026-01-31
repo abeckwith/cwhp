@@ -1202,7 +1202,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         organization: false,
         lastName: "Azevedo",
         firstName: "Louise",
-        middleName: "A.",
+        middleName: "Anne",
         familyName: "",
         
         title: `Nursing home volunteer`,
@@ -1212,25 +1212,31 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         deathLocation: "",
         narrative: `
 
-
             Life-long resident of North Cambridge (she lived at 1 Rice Circle), Louise
             Azevedo was a Portuguese family and attended catholic schools in Cambridge,
-             including the Notre Dame school. She graduated from Bunker Hill Community College and the University of Massachusetts
+             including the Notre Dame school. She graduated from Bunker Hill Community College 
+             and the University of Massachusetts
             at Boston, where she received a bachelor's degree in science. 
-            
+            <br><br>
+            Her father George's father Humber Azevado was born in Portugal and came to New England in 1923, 
+            finding work as a barber in the Cambridge/Somerville area.
+            Her mother Rose Furtado's parents were also from Portugal; Rose worked as a weaver.
+
+
             <br><br>
             
-            She worked
-            as a volunteer as a nurse at Cambridge nursing homes, including Youville Hospital, Vernon
+            Louise worked
+            as a volunteer and as a nurse at Cambridge nursing homes, including Youville Hospital, Vernon
             Hall Nursing Home and Neville Manor Nursing Home. She was also an active volunteer
             in North Cambridge Little League baseball. 
          
-            Louise's father George Azevedo was a Korean War veteran and house painter
+            Louise's father George Azevedo was a Korean War veteran and house painter.
 
             `,
         otherNotes: "",
         references: `<i>Cambridge Chronicle</i>, June 7, 1973 & October 2, 2000 & May 4, 2006.<br>
         <i>Cambridge City Directory</i>, 1972.
+        <i>U.S. Census</i>, 1950
         `,
         photos: [""],
         photoTitles: [],

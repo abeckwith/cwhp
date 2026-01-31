@@ -872,7 +872,59 @@ b_bios = [
             newspapers in the Boston area, living at 26 Mead Street in Cambridge.
             
             <br><br>
-            
+            Bennett was a constant presence in the life of the City of Cambridge. Her name appears in local papers
+             117 times from 1919 to 1977.<br><Br>
+            In the early 1920s, Bennett advertised her services in dress-making ("Misses' and Children's Dresses a Specialty").
+            <br>
+
+      
+            1930 was a busy year for Bennet. That year, she was on the "Negro Committee" for the International 
+            Festival, which was the finale to the celebration of the 300th anniversary of the founding of 
+            Massachusetts, to take place in Cambridge at Memorial Hall.  She was also on the board of directors
+             of the Cambridge Cosmopolitan Civic league formed "for the sole purpose of bettering the welfare
+              of the community." And in December of 1930, she served as financial secretary on the executive 
+              committee for that same group. A <i>Cambridge Tribune</i> article, entitled "RACIAL GROUPS IN
+               CITY ORGANIZE FOR GENERAL WELFARE," displayed the preamble to the group's constitution:
+
+            <blockquote>
+            "We, the racial groups of the city of Cambridge, in order to insure the general welfare of the 
+            community, to promote cooperation, understanding and good-will, do ordain and establish this
+             association."
+            </blockquote>
+
+            In 1937, Bennett headed a committee that organized an international festival at St. Paul's A.M.E.
+             church, featuring "...native speakers from Africa, America, England, and India."
+            <br>
+
+      
+            In 1942, she is mentioned as the superintendent of the church school at St. Paul's.
+            <br>
+
+      
+            In 1953, Bennett served as a trustee for the Massachusetts Chapter of the Rheumatism and 
+            Arthritis Foundation.
+            <br>
+
+      
+            In 1954, she was on the membership committee for the Cambridge division of the NAACP.
+            <br>
+
+      
+            In 1955, she was on the Cambridge Community Center committee sponsoring a moonlight dance and
+             cruise in Boston Harbor.
+            <br>
+
+      
+            In 1967, Bennett was honored at St. Paul's and...
+            <blockquote>
+            "A testimonial was given...by friends, well-wishers, and members of her church. Mrs. Bennett,
+             a long time resident of Cambridge, attended its public schools, was graduated from Wilberforce 
+             University and took special courses at Harvard. [A Mrs. Tinsely] paid a unique tribute using each 
+             of the letters of Mrs. Bennett's first name "Satyra" and designating a meaning to each: "S" was 
+             used for "service"...ending with "A" which stood for "activities" in so many of which Mrs. Bennett
+              has taken part."
+              </blockquote>
+
             A member of St. Paul AME Church for over seventy
             years, Satyra served as treasurer, trustee, superintendent of the Sunday School,
             and member of the Board of Christian
@@ -890,19 +942,22 @@ b_bios = [
                 History
                 Project</i>of Schlesinger Library.
                 <br>
-                <i>The Cambridge Chronicle</i>, 23 July 1921.<br>
-                <i>The Cambridge Chronicle</i>, 15 June 1967.<br>
+                <i>The Cambridge Chronicle</i>, 23 July 1921, 3 October 1930, 6 August 1921, 28 November 1930, 
+                14 October 1937, 18 June 1953, 20 May 1954, 4 
+            August 1955, 3 December 1942,  15 June 1967.<Br>
+
+            <i>The Cambridge Tribune</i>,  13 December 1930
                 <i>U.S., Social Security Death Index</i>, 1935-2014.
 
 
         `,
-        photos: ["images_bios/bennett.png", "images_bios/bennett2.png"],
-        photoTitles: ["The Cambridge Chronicle, 23 July 1921"],
+        photos: ["images_bios/bennett3.png", "images_bios/bennett.png"],
+        photoTitles: ["", "Cambridge Chronicle, 1919"],
         dateCreated: "prior to 2009",
-        dateUpdated: "",
+        dateUpdated: "01.31.2026",
 
-        photoHeights: ["150"],
-        editors: "",
+        photoHeights: ["", "190"],
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Community Leader", "Volunteer"],
     },
