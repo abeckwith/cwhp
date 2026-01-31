@@ -660,9 +660,9 @@ c_bios = [
             of her restaurant:
             
             <blockquote>
-            In the 1960s, Joyce Chen was the most famous Chinese restauran in America.
+            "In the 1960s, Joyce Chen's was the most famous Chinese restaurant in America.
             Her food captured the fancy of blue-collar workers and academics and even food
-            critics. Nathan Pusey, then president of Harvard, dine at Joyce Chen, as did John
+            critics. Nathan Pusey, then president of Harvard, dined at Joyce Chen, as did John
             Kenneth Galbraith, James Beard, Julia Child, and Henry Kissinger."
             </blockquote>
             `,
@@ -1232,9 +1232,12 @@ c_bios = [
             counselor in the public school system. She was very active in the Sanctuary
             movement in the 1980s and was one of the co-founders of Centro
                 Presente in 1981 during the period that she was attached to Saint Mary's
-            Catholic Church at 134 Norfolk Street in Cambridge. She worked for six years as co-director of Centro
+            Catholic Church at 134 Norfolk Street in Cambridge. 
+            
+            
+            <br><Br>She worked for six years as co-director of Centro
             Presente and for three years at Saint Francis House doing immigration work with
-            homeless and low-income people from around the world. Sister Rose eventually
+            homeless and low-income people from around the world, often also serving as Spanish-English interpreter. Sister Rose eventually
             moved back to her home state of Kentucky where she became the director of the Dominican
             Earth Center in Springfield (founded in 1997), a ministry of the Dominicans
             of St. Catharine, Kentucky that encourages a philosophy and lifestyle of sustainable

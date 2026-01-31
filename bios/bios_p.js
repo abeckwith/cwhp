@@ -206,7 +206,7 @@ p_bios = [
         poc: false,
         organization: false,
         lastName: "Peirce",
-        firstName: "Harriet \"Zina\"",
+        firstName: "Harriet",
         middleName: "Melusina",
         familyName: "Fay",
         
@@ -216,7 +216,7 @@ p_bios = [
         deathDate: "04.28.1923",
         deathLocation: "Watertown, Massachusetts",
         narrative: `
-            Born Harriet Melusina Fay, and called Zina, she
+            Harriet Melusina Fay (she went by her first name or her nickname "Zina")
             was one of six daughters of Emily (Hopkins) and Reverend Charles Fay, an Episcopal
             priest. Melusina married the philosopher and scientist, Charles Sanders Peirce
             in 1862. The couple moved to a small house on Arrow Street in Cambridge. A Cambridge
