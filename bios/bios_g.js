@@ -10,7 +10,7 @@ g_bios = [
         title: `Pianist, organist`,
         birthDate: "11.13.1903",
         birthLocation: "",
-        deathDate: "01.00.2002",
+        deathDate: "01.26.2002",
         deathLocation: "",
         narrative: `
             Dorothy A. (Wood) Gatherwright was born in Cambridge
@@ -37,7 +37,7 @@ g_bios = [
         references: ` Oral interview by Sarah Boyer.<br>
         <i>City of Cambridge
             vital statistics</i>, Cambridge City Clerk's office.<br>
-            <i>Cambridge Chronicle</a>, February 6, 2002.
+            <i>Cambridge Chronicle</i>, February 6, 2002.
         `,
         photos: [""],
         photoTitles: [],

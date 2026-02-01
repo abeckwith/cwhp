@@ -433,14 +433,15 @@ l_bios = [
             <i>Cambridge Vital Records</i>.<br>
             Information also provided by Florence Lewis, daughter of Emily Lewis.<br>
             <i>Cambridge City Directory</i>, 1920.
+            <i>The Cambridge Chronicle</i>, 2 August 1973
         `,
-        photos: [""],
-        photoTitles: [],
+        photos: ["images_bios/lewis.png"],
+        photoTitles: ["1973 Cambridge Chronicle"],
         dateCreated: "prior to 2009",
-        dateUpdated: "",
+        dateUpdated: "02.01.2026",
 
-        photoHeights: [],
-        editors: "",
+        photoHeights: ["500"],
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Nurse", "Volunteer", "Community Leader"],
     },
