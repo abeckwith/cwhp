@@ -416,7 +416,9 @@ s_bios = [
             made government accessibility to citizens a priority, holding weekly walk-in hours, opening the
             Mayor&rsquo;s Parlor for public ceremonies, and hosting Town Hall meetings at City Hall on issues pertaining
             to senior citizens, affordable housing, immigrants' rights in an era of national divisiveness, and to the
-            LGBTQ community. Simmons founded a free after school leadership program for 8th grade girls, which now is
+            LGBTQ community. 
+            
+            <br><br>Simmons founded a free after school leadership program for 8th grade girls, which now is
             run in partnership with YWCA Cambridge, called the Girls Only Leadership Development program (GOLD). During
             her second term as Mayor, Simmons also successfully pushed for greater historic representation of women in
             City Hall, which throughout more than 130 years had previously only featured portraits of prominent men who
@@ -432,8 +434,18 @@ s_bios = [
             recognize Prince Hall as a Founding Father of the United States, which passed. She sees the memorial as a
             monument to all civil rights activists that followed in Hall&rsquo;s footsteps. Simmons is also behind an
             effort to create a Cambridge museum, which would document the city&rsquo;s rich and diverse history. 
-            
             <br><br>
+            Simmons was at October 2024 opening of the Economic Mobility Hub at Rindge Commons near the Alewife 
+            MBTA station. This is a mixed-use building with affordable housing units and where the non-profit
+             Just-A-Start made their new headquarters. After decrying the increasing cost of housing Cambridge, 
+             Simmons said:
+            <blockquote>
+            "This project aims to preserve and nurture the diversity that really defines the city of Cambridge, 
+            and it's important to acknowledge that these kinds of programs don't operate in
+             isolation...[the project is a] testament of the strong collaboration between state agencies, 
+             community organizations, and local government...Cambridge is leading the way for other communities."
+            </blockquote>
+            
              Simmons is a mother to four children, Jada, Nadene, Atieno, and Anthony (deceased),
             and a grandmother to five. In August 2009, she married her longtime partner Mattie B. Hayes of Brooklyn, New York.
             They became the first same-sex couple to marry at St. Bartholomew&rsquo;s Episcopal Church, one of the
@@ -450,6 +462,8 @@ s_bios = [
                 Chronicle</i>, 5/18/2010.<br>
             Cambridge City Council Resolution to Name Prince Hall a Founding Father, 10/20/2008. 
             <br>
+            <i>The Boston Globe</i>, October 15, 2024.<br>
+
             Denise Simmons Election Website and Bio. <br>
             Monroe, Rev. Irene.&ldquo;Black Episcopal Congregation Celebrates Lesbian Marriage,&rdquo; <i>Huffington
                 Post</i>, 11/10/2009:
@@ -462,11 +476,11 @@ s_bios = [
         photos: ["images_bios/Simmons Blue Suit_small.jpg"],
         photoTitles: [],
         dateCreated: "00.00.2018",
-        dateUpdated: "04.12.2025",
+        dateUpdated: "02.01.2026",
         photoPos: ["6"],
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: [
             "Community Leader",
