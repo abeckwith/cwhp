@@ -863,7 +863,7 @@ g_bios = [
           
         
              `,
-        photos: [""],
+        photos: ["", ""],
         photoTitles: [],
         dateCreated: "11.15.2025",
         dateUpdated: "",
@@ -907,7 +907,7 @@ g_bios = [
           
         
              `,
-        photos: [""],
+        photos: ["", ""],
         photoTitles: [],
         dateCreated: "11.15.2025",
         dateUpdated: "",

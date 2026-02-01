@@ -71,7 +71,7 @@ function showBirthdays() {
             if (thename.deathDate != "" && thename.birthDate != "")
                 console.log(
                     parseInt(thename.deathDate.slice(-4)) -
-                        parseInt(thename.birthDate.slice(-4))
+                        parseInt(thename.birthDate.slice(-4)),
                 );
 
             if (thename.authors.indexOf("CWHP volunteers") != -1)
@@ -90,11 +90,8 @@ function showBirthdays() {
             fName = stripName(thename.firstName);
             mName = stripName(thename.middleName);
             theLink =
-                "<a href='" + 
-                getHref(
-                lName ,
-                mName ,
-                fName )+
+                "<a href='" +
+                getHref(lName, mName, fName) +
                 "'>" +
                 thename.lastName +
                 ", " +
@@ -113,11 +110,11 @@ function showBirthdays() {
                 noQuote += theLink + "<br>";
                 noqtct++;
             }
-            if (thename.photos[0] == "") {
+            //two photos and I'm not using the first one:
+            if (thename.photos.length == 1 && thename.photos[0] == "") {
                 noImage += theLink + "<br>";
                 noimgct++;
             }
-
 
             //for sorting by birthyear:
             nameForSort = thename.firstName + " " + thename.lastName;
@@ -150,7 +147,7 @@ function showBirthdays() {
                 //must be org
                 allNames += "<b>" + nameBuild + "</b>";
             else allNames += nameBuild;
-            
+
             hasFullDate =
                 thename.birthDate.substring(0, 2) != "00" &&
                 thename.birthDate.indexOf("ca") == -1;

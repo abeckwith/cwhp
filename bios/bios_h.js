@@ -1243,7 +1243,7 @@ h_bios = [
           <i>Cambridge City Directory</i>, 1894.
         
              `,
-        photos: [""],
+        photos: ["", ""],
         photoTitles: [],
         dateCreated: "11.15.2025",
         dateUpdated: "",

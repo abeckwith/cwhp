@@ -434,7 +434,7 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
     html += "<br>" + narr;
 
     //possible second image:
-    if (person.photos.length > 1) {
+    if (person.photos.length > 1 && person.photos[1] != "") {
         //go through all photos:
         tbl = "<table width='2vh'>";
         for (let i = 1; i < person.photos.length; i++) {

@@ -74,6 +74,10 @@ function search() {
                     text = text.replaceAll("<\\em>", "");
                     text = text.replaceAll("<i>", "");
                     text = text.replaceAll("<\\i>", "");
+                    text = text.replaceAll("<h1>", "");
+                    text = text.replaceAll("<\\h1>", "");
+                    text = text.replaceAll("<center>", "");
+                    text = text.replaceAll("<\\center>", "");
                     text = text.replaceAll("<b>", "");
                     text = text.replaceAll("<\\b>", "");
                     text = text.replaceAll("<blockquote>", "");

@@ -1179,7 +1179,7 @@ by Cate McQuaid,, April 12, 2017.
           Image from GoogleMaps.
         
              `,
-        photos: ["images_bios/mckay.png"],
+        photos: ["images_bios/mckay.png", ""],
         photoTitles: ["The house McKay grew up in, at 7 Shepard Street"],
         dateCreated: "11.15.2025",
         dateUpdated: "",

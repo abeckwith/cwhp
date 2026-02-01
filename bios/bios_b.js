@@ -730,20 +730,35 @@ b_bios = [
             in a patriotic parade through the streets of Cambridge to help raise money for
             Liberty Loans. Concerned with health care, The Bee also raised money and helped
             design a children's solarium in the children's ward for the Cambridge
-            Hospital.
+            Hospital.<br><br>
+
+            In 1924, Mary Towle Palmer, who had been a member, wrote an account of their work, in
+            <i>The Story of the Bee</i>. She wrote about the time during the Civil War: 
+            <blockquote>
+            "Wherever in our walks [in Cambridge] we saw a United States flag flying, we saluted it
+             like true soldiers.<br><br>
+
+            "We sometimes passed the old arsenal which stood on the corner of Garden and Follen Streets,
+             where a house of singularly beautiful brown stone now stands surrounded by its large garden. 
+             There we would stop and peer through the fence to watch the evolutions of the Harvard students
+              who lived there in squads and were armed by the State and were regularly drilled...Our brothers 
+              and cousins were there and might some day become full-fledged soldiers."
+            </blockquote> 
 
             `,
         otherNotes: "",
         references: ` Mary Towle Palmer. <i>The Story of the Bee</i>.
             Riverside Press, Cambridge 1924 (held in Schlesinger Library, Radcliffe).
+            <br>
+            Photo from page 14 of the <i>The Story of the Bee</i>.
         `,
-        photos: [""],
-        photoTitles: [],
+        photos: ["images_bios/Bee.png"],
+        photoTitles: [""],
         dateCreated: "prior to 2009",
-        dateUpdated: "",
+        dateUpdated: "02.01.2026",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Social/Philanthropic Organization"],
     },
@@ -3095,7 +3110,7 @@ b_bios = [
           <i>Cambridge City Directory</i>, 1908.
         
              `,
-        photos: [""],
+        photos: ["", ""],
         photoTitles: [],
         dateCreated: "11.15.2025",
         dateUpdated: "",

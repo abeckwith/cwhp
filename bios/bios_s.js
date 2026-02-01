@@ -279,7 +279,7 @@ s_bios = [
           
         
              `,
-        photos: [""],
+        photos: ["", ""],
         photoTitles: [],
         dateCreated: "11.15.2025",
         dateUpdated: "",
@@ -674,7 +674,7 @@ s_bios = [
           https://platestacks.cfa.harvard.edu/women-at-hco/mabel-cushman-stevens</a>
         
              `,
-        photos: ["images_bios/stevens.jpg"],
+        photos: ["images_bios/stevens.jpg", ""],
         photoTitles: [""],
         dateCreated: "11.15.2025",
         dateUpdated: "",
