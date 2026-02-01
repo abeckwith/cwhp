@@ -25,6 +25,7 @@ function startBio() {
 
     //get params from URL:
     p = getParams();
+    console.log(p)
     //when page first loads
     ltrIndex = 0;
     personIndex = 0;
@@ -644,7 +645,8 @@ function makeSidebar(letterIndex, personIndex, stepping, topical, search) {
     if (!topical) setBoldInSideBar(all_bios, letterIndex, personIndex);
 }
 function getHref(l, m, f) {
-    return "bios.html?last=" + l + "&middle=" + m + "&first=" + f;
+    l = l.replaceAll(",", "");
+    return "bios.html?last=" + l.replaceAll(" ", "") + "&middle=" + m  + "&first=" + f ;
 }
 /**
  *

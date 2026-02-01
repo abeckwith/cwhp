@@ -100,11 +100,11 @@ function search() {
                     result +=
                         "" +
                         totalPeople +
-                        ". <span class='recents-name'><a href='bios.html?ln=" +
+                        ". <span class='recents-name'><a href='bios.html?last=" +
                         lName +
-                        "&mN=" +
+                        "&middle=" +
                         mName +
-                        "&fN=" +
+                        "&first=" +
                         fName +
                         "' target='_blank'>" +
                         person.firstName +
