@@ -1843,8 +1843,8 @@ b_bios = [
             1907<br><i>The Oxford Companion to Women's Writing in the United States</i>
             (1995).
             <br><i> Notable American Women</i> (1607-1950) Vol I.<br>
-            Photo from <a href="https://en.wikipedia.org/wiki/Anne_Bradstreet#/media/File:Frontispiece_for_An_Account_of_Anne_Bradstreet_The_Puritan_Poetess,_and_Kindred_Topics,_edited_by_Colonel_Luther_Caldwell_(Boston,_1898)_(cropped).jpg">
-            https://en.wikipedia.org/wiki/Anne_Bradstreet#/media/File:Frontispiece_for_An_Account_of_Anne_Bradstreet_The_Puritan_Poetess,_and_Kindred_Topics,_edited_by_Colonel_Luther_Caldwell_(Boston,_1898)_(cropped).jpg</a>
+            Photo from wikipedia:<br>
+            <a class='indent' href="https://en.wikipedia.org/wiki/Anne_Bradstreet">https://en.wikipedia.org/wiki/Anne_Bradstreet</a>
         `,
         photos: ["images_bios/bradstreet.jpg"],
         photoTitles: [],

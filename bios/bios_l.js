@@ -154,8 +154,8 @@ l_bios = [
             Interview by Sandra Pullman, 2003.<br>
             <i>U.S. Census</i> 1950.<br>
             Correponsdence with Robert Layne.<br>
-            Massachusetts, U.S., State and Federal Naturalization Records, 1798-1950 for Christol Louise Layne.<br>
-            <i>Cambridge City Directory</i> 1950.
+           <i>Massachusetts, U.S., State and Federal Naturalization Records, 1798-1950</i> for Christol Louise Layne.<br>
+            <i>Cambridge City Directory</i>, 1950.
 
         `,
         photos: [""],
@@ -841,8 +841,8 @@ l_bios = [
         `,
         otherNotes: "",
         references: `
-        CCTV Instagram post:<br><a  class='indent'  href="https://www.instagram.com/p/DOTEMspDly9/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" >
-        Sept. 7, 2025</a>.<br>
+        CCTV Instagram post, Sept. 7, 2025:<br>
+        <a  class='indent'  href="https://www.instagram.com/p/DOTEMspDly9/" >https://www.instagram.com/p/DOTEMspDly9/</a>.<br>
         Image from legacy.com:<br><a class='indent'  href="https://www.legacy.com/us/obituaries/legacyremembers/mary-leno-obituary?id=59453208" >
         https://www.legacy.com/us/obituaries/legacyremembers/mary-leno-obituary?id=59453208</a><br>
 

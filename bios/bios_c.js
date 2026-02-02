@@ -766,7 +766,7 @@ c_bios = [
             The papers of Julia
             Child (1920-1993) are in the Schlesinger Library at Radcliffe. `,
         otherNotes: "",
-        references: ` Schlesinger Library, Julia Child collection guide<br>
+        references: ` Schlesinger Library, Julia Child collection guide.<br>
             <i>Treasury of Women's Quotations</i> by Carolyn Warner, Prentice Hall,
             Englewood Cliffs, NJ, 1992.<br>
             Schlesinger Papers:<br>

@@ -832,7 +832,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
             `,
         otherNotes: "",
         references: ` <i>Cambridge Chronicle</i>, Nov. 17, 1999.<br>
-        Ancestry.com Naturalization records.<br>
+        <i>Ancestry.com</i> Naturalization records.<br>
         <i>U.S. Census</i> records.<br>
         <i>Cambridge City Directory</i> 1941, 1944 ,1972.
             `,

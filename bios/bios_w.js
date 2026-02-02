@@ -18,8 +18,8 @@ w_bios = [
             <br><br>
             
             Wadden got her B.A. from Regis College in Weston in 1946 and was a lifelong resident of 
-            Cambridge, living on Concord Avenue She taught in the Cambridge Public
-            schools for thirty-eight years, including at the Harrington School She lived at 159 Concord
+            Cambridge, living on Concord Avenue. She taught in the Cambridge Public
+            schools for thirty-eight years, including at the Harrington School. She lived at 159 Concord
              Avenue in Cambridge. The Cambridge City Council passed a resolution
             in recognition of her life and achievements on April 2, 2001.<br>
             `,
