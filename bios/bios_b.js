@@ -2733,7 +2733,7 @@ b_bios = [
         
         <blockquote>
         "...recognized for her ongoing efforts to educate Co-Op members and staff about the damaging effects of
-         institutional racism. Burton was also [instrumental] in the development of an affrimative action progra at the Co-Op."
+         institutional racism. Burton was also [instrumental] in the development of an affrimative action program at the Co-Op."
          </blockquote>
 
         Burton's mother had joined the Co-Op the first year that it opened and in 1983. Burton appeared at a Cambridge 
@@ -2752,7 +2752,7 @@ b_bios = [
         Burton was later a member of the board of
         directors of the Cambridge Council on Aging. She was elected vice president
         in 1996 and president in 1997. She also served as vice president of the American
-        Association of Retired Persons (AARP). 
+        Association of Retired Persons (AARP).  She was living at 929 Massachusetts Avenue at the time.
         
         <br><br>
         She served on the city's advisory
