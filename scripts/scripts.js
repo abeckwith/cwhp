@@ -103,8 +103,13 @@ function showRecents(num) {
 
                 //only add to list if within number of months selected:
                 if (monthsDifference < RECENT_MONTHS_LIMIT) {
-                    recentCount++;
-
+                    recentCount++; 
+                    
+                    brLoc = thename.title.toLowerCase().indexOf("<br>");
+                    if(brLoc !=-1)
+                        strippedTitle = thename.title.substring(0, brLoc);
+                    else
+                        strippedTitle = thename.title;
                     // html +=
                     html_build =
                         "<br></i>" +
@@ -121,7 +126,7 @@ function showRecents(num) {
                         ", " +
                         thename.firstName +
                         "</a></span>,&nbsp;<i> " +
-                        thename.title +
+                        strippedTitle +
                         "";
                     recentsObjects.push({ html_build, monthNum, year, dayNum });
                 }
@@ -176,7 +181,11 @@ function showRecents(num) {
                 //only add to list if within number of months selected:
                 if (monthsDifference < RECENT_MONTHS_LIMIT2) {
                     recentUpdatesCount++;
-
+                    brLoc = thename.title.toLowerCase().indexOf("<br>");
+                    if(brLoc !=-1)
+                        strippedTitle = thename.title.substring(0, brLoc);
+                    else
+                        strippedTitle = thename.title;
                     // html +=
                     html_build =
                         "<br></i>" +
@@ -193,7 +202,7 @@ function showRecents(num) {
                         ", " +
                         thename.firstName +
                         "</a></span>,<i> &nbsp;" +
-                        thename.title +
+                        strippedTitle +
                         "";
                     recentUpdatesObjects.push({
                         html_build,
