@@ -2719,10 +2719,11 @@ b_bios = [
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
 
-        Jeanne Burton was an active member of the Cambridge Community, serving on a variety of boards and volunteering.
+        Jeanne Burton was an active member of the Cambridge community, serving on a variety of boards,
+        advocating for racial justice and doing volunteer work.
          
-        Her father William Washington (b.California) was a tailor and her mother Martha Marshall, born in North Carolina, 
-        had been a supervisor of 
+        Her father William Washington (born in California) was a tailor and her mother Martha Marshall (born in North Carolina), 
+        was a supervisor of 
         <a href="https://cwhp.cambridgema.gov/bios.html?last=WindowShop&middle=&first=">The Window Shop</a> in Harvard Square 
         for over 20 years.<br><br>
 
@@ -2738,7 +2739,7 @@ b_bios = [
         Burton's mother had joined the Co-Op the first year that it opened and in 1983. Burton appeared at a Cambridge 
         City Council meeting to discuss issues of racism at the co-op, saying:
         <blockquote>
-        There are instances of discrimination that are so many, so plentiful, that I can't go into them here...That 
+        "There are instances of discrimination that are so many, so plentiful, that I can't go into them here...That 
         kind of attitude is something that has to be dealt with, and not from within the co-op, because it is clear
          nothing is going to happen from within...I'm asking the city to send someone into the co-op [the co-op 
          received grants from the city] and confer with our board and with our manager about what the HUD regulations
