@@ -2709,43 +2709,73 @@ b_bios = [
         organization: false,
         lastName: "Burton",
         firstName: "Jeanne",
-        middleName: "V.",
-        familyName: "",
+        middleName: "Vingge",
+        familyName: "Washginton",
 
         title: `Community activist`,
         birthDate: "09.24.1929",
-        birthLocation: "",
+        birthLocation: "Boston, Massachusetts",
         deathDate: "07.14.1999",
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
-            Jeanne V. Burton was a member of the board of
-            directors of the Cambridge Council on Aging. She was elected vice president
-            in 1996 and president in 1997. She also served as vice president of the American
-            Association of Retired Persons (AARP) and in the 1970s was a "Mother's March Captain,"
-            helping to raise money for causes like the March of Dimes. 
-            
-            <br><br>
-            She served on the city's advisory
-            group during the development of the accessible taxi services, and also has served
-            on the board of the Alzheimer's Association, the YWCA, CEOC, the Vision
-            Foundation, the Cambridge Commission for Persons with Disabilities, and the
-            school's panel to interview school principals. She offered consultation
-            to CASCAP on the development of affordable assisted living units at Harvard
-            Place in Cambridge. 
-            
-            <br><br>
-            She died in 1999 and by 2002, Cambridge had created a Jeanne V. Burton Community Service Award, to be awarded annually.
+
+        Jeanne Burton was an active member of the Cambridge Community, serving on a variety of boards and volunteering.
+         
+        Her father William Washington (b.California) was a tailor and her mother Martha Marshall, born in North Carolina, 
+        had been a supervisor of 
+        <a href="https://cwhp.cambridgema.gov/bios.html?last=WindowShop&middle=&first=">The Window Shop</a> in Harvard Square 
+        for over 20 years.<br><br>
+
+        In the 1970s, Burton was a "Mother's March Captain," helping to raise money for causes like the March of Dimes.
+        In 1984, Burton recieved Cambridge's Racial Justice Award. She had been a member of the Cambridge Food Co-op's Board of 
+        Trustees and was...
+        
+        <blockquote>
+        "...recognized for her ongoing efforts to educate Co-Op members and staff about the damaging effects of
+         institutional racism. Burton was also [instrumental] in the development of an affrimative action progra at the Co-Op."
+         </blockquote>
+
+        Burton's mother had joined the Co-Op the first year that it opened and in 1983. Burton appeared at a Cambridge 
+        City Council meeting to discuss issues of racism at the co-op, saying:
+        <blockquote>
+        There are instances of discrimination that are so many, so plentiful, that I can't go into them here...That 
+        kind of attitude is something that has to be dealt with, and not from within the co-op, because it is clear
+         nothing is going to happen from within...I'm asking the city to send someone into the co-op [the co-op 
+         received grants from the city] and confer with our board and with our manager about what the HUD regulations
+          are in hiring and membership..."
+        </blockquote>
+        
+        In 1985, Burton testified in front of the State legislature on the need to do more to help Alzheimer's 
+        patients and their families.
+ 
+        Burton was later a member of the board of
+        directors of the Cambridge Council on Aging. She was elected vice president
+        in 1996 and president in 1997. She also served as vice president of the American
+        Association of Retired Persons (AARP). 
+        
+        <br><br>
+        She served on the city's advisory
+        group during the development of the accessible taxi services, and also has served
+        on the board of the Alzheimer's Association, the YWCA, CEOC, the Vision
+        Foundation, the Cambridge Commission for Persons with Disabilities, and the
+        school's panel to interview school principals. She offered consultation
+        to CASCAP on the development of affordable assisted living units at Harvard
+        Place in Cambridge. 
+        
+        <br><br>
+        She died in 1999 and by 2002, Cambridge had created a Jeanne V. Burton Community Service Award, to be awarded annually.
 
             `,
         otherNotes: "",
-        references: `<i>Cambridge Chronicle</i>, July 22, 1999, April 3, 2002.<br>
-        <i>The Cambridge Chronicle</i>, 8 January 1970.
-
+        references: `
+        <i>Cambridge Chronicle</i> 8 January 1970,  April 3, 2002, 14 July 1983, 22 September 1983, 8 March 1984, 14 February 1985, July 22, 1999.<br>
+        <i>Massachusetts, U.S., Death Index</i>, 1970-2003.<br>
+        <i>U.S. Census</i>, 1930.
         `,
         photos: [""],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "12.17.2025",
+        dateUpdated: "02.03.2026",
 
         photoHeights: [],
         editors: "Anthony Beckwith",

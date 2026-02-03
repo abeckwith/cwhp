@@ -105,12 +105,20 @@ function showRecents(num) {
                 if (monthsDifference < RECENT_MONTHS_LIMIT) {
                     recentCount++; 
                     
+                    //some titles are two lines - get rid of second line:
                     brLoc = thename.title.toLowerCase().indexOf("<br>");
                     if(brLoc !=-1)
                         strippedTitle = thename.title.substring(0, brLoc);
                     else
                         strippedTitle = thename.title;
+
+                    //if org, not first name, so don't show a , :
+                    if(thename.firstName != "")
+                        fnm = ", " + thename.firstName;
+                    else
+                        fnm = "";
                     // html +=
+
                     html_build =
                         "<br></i>" +
                         thename.dateCreated.replaceAll(".", "/") +
@@ -123,8 +131,7 @@ function showRecents(num) {
                         ) +
                         "'>" +
                         thename.lastName.replaceAll("'", "") +
-                        ", " +
-                        thename.firstName +
+                        fnm + 
                         "</a></span>,&nbsp;<i> " +
                         strippedTitle +
                         "";
@@ -166,7 +173,6 @@ function showRecents(num) {
                 thename.dateUpdated != "" &&
                 hasFullDate
             ) {
-                // console.log(thename.dateUpdated);
                 //GET YEAR:
                 year = parseInt(thename.dateUpdated.substring(6));
                 dayNum = parseInt(thename.dateUpdated.substring(3, 5));
@@ -181,11 +187,19 @@ function showRecents(num) {
                 //only add to list if within number of months selected:
                 if (monthsDifference < RECENT_MONTHS_LIMIT2) {
                     recentUpdatesCount++;
+
+                    //some titles are two lines - get rid of second line:
                     brLoc = thename.title.toLowerCase().indexOf("<br>");
                     if(brLoc !=-1)
                         strippedTitle = thename.title.substring(0, brLoc);
                     else
                         strippedTitle = thename.title;
+
+                    //if org, not first name, so don't show a , :
+                    if(thename.firstName != "")
+                        fnm = ", " + thename.firstName;
+                    else
+                        fnm = "";
                     // html +=
                     html_build =
                         "<br></i>" +
@@ -199,8 +213,7 @@ function showRecents(num) {
                         ) +
                         "'>" +
                         thename.lastName +
-                        ", " +
-                        thename.firstName +
+                        fnm +
                         "</a></span>,<i> &nbsp;" +
                         strippedTitle +
                         "";
@@ -217,7 +230,7 @@ function showRecents(num) {
     html2 =
         "<br><br><Center><span>These " +
         recentUpdatesCount +
-        " bios have had <b>edits or updates</b> made to them in the last " +
+        " bios have had significant <b>edits or updates</b> made to them in the last " +
         RECENT_MONTHS_LIMIT2 +
         " months:</span><br></center>";
     //SORT ALGORITHM: first by year, then month, then day:
