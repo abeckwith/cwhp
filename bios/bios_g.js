@@ -188,15 +188,19 @@ g_bios = [
                 href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a>
             <br>
             NOTE: The Goddard-Cambridge Graduate Program in Social Change archive has been deposited at the University of
-            Massachusetts, Boston.
+            Massachusetts, Boston.<br>
+            A summary of the UMass collection can be found here: 
+            <a class='indent' href="https://archives.umb.edu/repositories/2/resources/236">https://archives.umb.edu/repositories/2/resources/236</a><br>
+            All images courtesy of <i>University Archives and Special Collections</i>, Joseph P. Healey Library, 
+            University of Massachusetts Boston.
         `,
-        photos: [""],
-        photoTitles: [],
+        photos: ["images_bios/goddard4.JPG", "images_bios/goddard1.JPG", "images_bios/goddard3.JPG" ],
+        photoTitles: ["From the Feminist Studies group at Goddard", "1971 Adversitement"],
         dateCreated: "prior to 2009",
-        dateUpdated: "",
+        dateUpdated: "02.04.2026",
 
-        photoHeights: [],
-        editors: "",
+        photoHeights: ["350", "350", "460"],
+        editors: "Anthony Beckwith",
         authors: "Kimm Topping",
         categories: ["Educational Institution/School", "School/Institution"],
     },
