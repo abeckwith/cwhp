@@ -488,8 +488,15 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
     }
 
     //references & date updated:
-    if (person.references.trim() !== "")
-        html += "<br><br><strong>References:</strong><br>" + person.references;
+    if (person.references.trim() !== ""){
+        refIndent = "";
+        refs = person.references.split("<br>");
+        console.log(refs)
+        refs.forEach(element => {
+            refIndent += "<span class='references'>" + element + "</span><Br>";
+        });
+        html += "<br><br><strong>References:</strong><br>" + refIndent;//person.references;
+    }
 
     //link to open printable version:
     html +=

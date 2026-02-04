@@ -1095,8 +1095,7 @@ d_bios = [
         otherNotes: "",
         references: `
             Hudak, Leona M. <i>Early American Women Printers
-                and Publishers 1639-1820</i>,
-            The Scarecrow Press, Inc.<br>
+                and Publishers 1639-1820</i>, The Scarecrow Press, Inc.
             Metuchen, New Jersey, 1978.<br>
             Cambridge Historical
             Society <i>Proceedings</i>, vol. III:12-17; VI:22; XDIV: 64. <br>

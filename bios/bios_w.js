@@ -25,7 +25,7 @@ w_bios = [
             `,
         otherNotes: "",
         references: ` <i>City Council resolution</i>, April 2, 2001.<br>
-        <i>Cambridge Chronicle</i>, November 1 1924.<br>
+        <i>Cambridge Chronicle</i>, November 1, 1924.<br>
         <I>The Boston Globe</i>, May 30, 1946.<br>
         <I>Cambridge City Directory</i>, 1965.<br>
         Image from Regis College 1945 yearbook.

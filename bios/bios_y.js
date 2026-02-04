@@ -200,7 +200,7 @@ y_bios = [
          exile and a personal displacement."</blockquote>
         `,
         otherNotes: "",
-        references: ` Sergio Parussa. <i>I Would Have Liked to Flee
+        references: `Sergio Parussa. <i>I Would Have Liked to Flee
             to Patagonia: Conversations with Anna Yona Bridges: A Jewish Feminist Journal</i>
         Autumn 2005, Vol. 10, No. 2: Pages 10-27.
         <br> Alexander Stille. <i>Benevolence

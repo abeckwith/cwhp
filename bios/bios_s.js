@@ -814,4 +814,89 @@ s_bios = [
         authors: "Anthony Beckwith",
         categories: ["Teacher"],
     },
+          {
+        poc: false,
+        organization: false,
+        lastName: "Squier",
+        firstName: "Dorothy",
+        middleName: "Allegra",
+        familyName: "McKay",
+
+        title: `Author, copywriter`,
+        birthDate: "08.11.1902",
+        birthLocation: "Cambridge, Massachusetts",
+        deathDate: "01.01.1995",
+        deathLocation: "Weymouth, Massachusetts",
+        narrative: `
+       
+        From 1982 to 1989 Dorothy Squier wrote dozens of essays that were published in the <i>Cambridge
+         Chronicle</i>, recalling her early years growing up in Cambridge. In 1993, she published these 
+         essays with additional material in the book "A Lighthearted Look at Growing Up: Treasured Memories
+          of Cambridge," which was published by the Cambridge Public Library.
+        <br><br>
+
+        Squier's mother was Mary Jane Hutchinson, born in Ireland (she was a homemaker, but in 1930, after
+         her husband died, was listed as a chambermaid). Her father was George Alexander McKay, who was 
+         born in Canada, and worked an electrician for the elevated trains. Squier was one of seven daughters
+          and attended Harvard Grammar School in Cambridge. She grew up on the middle floor of a triple-decker 
+          at 30A Baldwin Street and later moved to 54 Baldwin Street, attending Cambridge Latin High School.
+        <br><br>
+
+        In her book, Squier recalls the shops on the ground floor of the triple-deckers on Kirkland as Jimmie's 
+        Meat Market, Phil's Dry Goods, and Hamilton's Bakery (which they called "Hammie's"). She also recalls 
+        the diversity of cultures in her neighborhood, including Irish, Scots, Nova Scotians, British, Italians,
+         Jews and a small number of Armenians, Swedes and Black families. She climbed on the cannons in the 
+         Cambridge Common, rode the horse cars, and remembered seeing early movies at YMCA's Durrell Hall. 
+         She describes the early Mt. Auburn Hospital, horse-drawn carts selling strawberries on Cambridge Street,
+          graduation from elementary school at the armory near MIT, and cleaning clothes with a washboard.
+        <br><Br>
+
+        In recalling her high school experience, she said:
+
+        <blockquote>
+        "What an opportunity for an appreciation of art, science, botany, and beauty. What lucky kids to have
+         been brought up in Cambridge in that era. It left us with a persistent yearning for learning that's 
+         never slaked."
+        </blockquote>
+
+        After her father died, she reflected:
+
+        <blockquote>
+        "...we got a homey flat on Shepard Street where Mama felt at peace at last, and there she'd settle for
+         her thirty something years. We had survived the market crash of 1929, but lost our savings when Roosevelt
+          closed the banks."
+          <Br><br>
+
+        "My new husband and I moved into a tiny apartment, Number One Craigie Street, a most desirable Cambridge 
+        address...we [later moved to] Gerry Street, and I found a heaven-sent job at the old University Press of 
+        Cambridge which dated back to the 1600's, even before Harvard had its own press."
+        </blockquote>
+
+        Her husband was Joel Hyde Squier, who worked in advertising. Dorothy worked as the head copywriter for 
+        the Stop & Shop companies and it was only upon her retirement that she studied with the Famous Writers 
+        School and began writing her nostalgia pieces, eventually leading to her memoir.
+        `,
+        otherNotes: "",
+        references: ` 
+            Squier, Dorothy. <i>A Lighthearted Look at Growing Up: Treasured Memories of Cambridge.</i> Cambridge Public Library, 1993 (available at the <a href="https://www.cambridgema.gov/Departments/cambridgepubliclibrary/Locations/mainlibrary/cambridgeroom">Cambridge Room</a>, main branch, Cambridge Public Library).<br>
+            Image source: "Treasured Memories of Cambridge</i>, 1993.<br>
+            <i>The Boston Globe</i>, Dec 16, 1971.<br>
+            <i>Cambridge Chronicle</i> archives.<br>
+            <i>U.S. Census</i>, 1900, 1920, 1930.<br>
+            Massachusetts, U.S., Birth Records, 1840-1915.<br>
+            <i>The Cambridge Chronicle</i>, 26 January 1995.
+
+        `,
+        photos: ["images_bios/squier1.png", "images_bios/squier2.png"],
+        photoTitles: [
+            
+        ],
+        dateCreated: "02.04.2026",
+        dateUpdated: "",
+
+        photoHeights: [],
+        editors: "",
+        authors: "Anthony Beckwith",
+        categories: ["Author", "Copywriter"],
+    },
 ];
