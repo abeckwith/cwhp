@@ -367,7 +367,7 @@ In
          <br><br>
          
          Cambridge
-        resident <a href="bios.html?ln=Thompson&mN=Crutchfield&fN=Mary">Mary Crutchfield Thompson</a>
+        resident <a href="bios.html?last=Thompson&middle=Crutchfield&first=Mary">Mary Crutchfield Thompson</a>
         (one of the first African Americans to graduate from Tufts Dental School) recalled Lane in a
         1977 interview:
         
