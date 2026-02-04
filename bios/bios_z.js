@@ -8,10 +8,10 @@ z_bios = [
         familyName: "Totsi",
         
         title: `Community director`,
-        birthDate: "",
+        birthDate: "01.31.1926",
         birthLocation: "Cambridge, Massachusetts",
-        deathDate: "",
-        deathLocation: "",
+        deathDate: "07.14.2010",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
          Dolores Zappala was born and raised in Cambridge, the daugther of Anthony and Dolores (Totsi) Zappala. She was educated in 
          Cambridge schools, graduating from Matignon High School in 1965. In the 1960s, while living at 23 Florence Street, she joined the Blessed
@@ -23,14 +23,14 @@ z_bios = [
              <br><br>
 
             SAC traces its origin back to the 1930's when a local parish, all-female drill team formed in the 
-            Cambridgeport area of Cambridge, Massachusetts as a summer activity for young girls. The color guards 
+            Cambridgeport area as a summer activity for young girls. The color guards 
             remained the only surviving all-female color guard in the world until 2001. The youngest groups 
-            (the "B" and Cadet groups) still include only girls. The SAC is dedicated to teaching the marching
+            (the "B" and Cadet groups) still include only girls. 
+            
+            <br><Br>The SAC is dedicated to teaching the marching
             and exhibition skills to “at risk” or disadvantaged youth who then perform throughout the world.
             Young women have been known to move across country and from Japan and other countries to join the group. 
-            The SAC Juniors were World Class Finalists for 22 of the last 27 years, and have been WGI World Class medalists
-                five times; earning the World Class Bronze Medals in 1988 and 2005, World Class Silver Medals in 
-                1989 and 1996 and the World Class Gold Medal and WGI World Championship in 1990. From 1999 though
+            The SAC Juniors were World Class Finalists for 22 of the last 27 years. From 1999 though
                 2001, the SAC Juniors won three consecutive Eastern Massachusetts Titles. They placed among the 
                 top ten of the international color guard association, the Winter Guard International (WGI) World Championships.
             <br><br>
@@ -38,7 +38,11 @@ z_bios = [
                 Dolores Zappala served as President of the Board of Directors of the Winter Guard International 
             for more than a decade, guiding the organization through critical years. She continued as a member
             of the steering committee of the Winter Guard International as well as directing and influencing
-            the Cambridge organization.
+            the Cambridge organization.<br>
+            <Br>
+
+            Zappala was also active in the Blessed Sacrament PTA, volunteered for the American Legion Post 27, and 
+            was an officer for the Cambridge Baseball League.
         References:
         `,
         otherNotes: "",
@@ -47,15 +51,16 @@ z_bios = [
         (this includes a photograph of the Zappala family)<br>
         World Guard International:
         <br> <a class='indent' href="https://www.wgi.org/about-wgi/what-is-wgi/hall-of-fame/" >https://www.wgi.org/about-wgi/what-is-wgi/hall-of-fame/</a>
-        <br><br>Photo from <i>Cambridge Chronicle</i>, April 11, 1968  .
+        <br><i>Cambridge Chronicle</i>, 17 November 1955, 16 December 1965, April 11, 1968.<br>
+        <i>The Boston Globe</i>, July 18, 2010.
 `,
         photos: ["images_bios/zappala_dolores.png"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "07.11.2025",
+        dateUpdated: "02.04.2026",
         photoPos: [],
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Community Leader"],
     },
