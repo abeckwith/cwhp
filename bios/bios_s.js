@@ -879,7 +879,7 @@ s_bios = [
         otherNotes: "",
         references: ` 
             Squier, Dorothy. <i>A Lighthearted Look at Growing Up: Treasured Memories of Cambridge.</i> Cambridge Public Library, 1993 (available at the <a href="https://www.cambridgema.gov/Departments/cambridgepubliclibrary/Locations/mainlibrary/cambridgeroom">Cambridge Room</a>, main branch, Cambridge Public Library).<br>
-            Image source: "Treasured Memories of Cambridge</i>, 1993.<br>
+            Image source: <i>Treasured Memories of Cambridge</i>, 1993.<br>
             <i>The Boston Globe</i>, Dec 16, 1971.<br>
             <i>Cambridge Chronicle</i> archives.<br>
             <i>U.S. Census</i>, 1900, 1920, 1930.<br>
