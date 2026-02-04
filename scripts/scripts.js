@@ -490,7 +490,10 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
     //references & date updated:
     if (person.references.trim() !== ""){
         refIndent = "";
-        refs = person.references.split("<br>");
+        refs = person.references.replaceAll("<Br>", "<br>");
+        refs = refs.replaceAll("<BR>", "<br>");
+
+        refs = refs.split("<br>");
         console.log(refs)
         refs.forEach(element => {
             refIndent += "<span class='references'>" + element + "</span><Br>";

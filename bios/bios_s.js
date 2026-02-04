@@ -497,7 +497,7 @@ s_bios = [
         familyName: "Kimball",
 
         title: `Historian, editor, administrator`,
-        birthDate: "00.00.1908",
+        birthDate: "05.08.1907",
         birthLocation: "Oak Park, Illinois",
         deathDate: "02.06.2001",
         deathLocation: "Ellensburg, Washington",
@@ -528,10 +528,29 @@ s_bios = [
             from 1971 to 1973 (at the time, she was living at 31 Madison Avenue in Cambridge). She also served as director of the Radcliffe Seminars from
             1963-1971. She wrote two books that reflected her experiences at Los Alamos
             as well as her knowledge of the science and the scientists and their varied
-            reactions to the creation of the atomic bomb, A Peril and a Hope: the Scientists'
-            Movement in America 1945-1947 (Chicago: University of Chicago Press, 1965),
-            and (with Charles Weiner), J. Robert Oppenheimer: Letters and Recollections.
+            reactions to the creation of the atomic bomb: <i>A Peril and a Hope: the Scientists'
+            Movement in America 1945-1947</i> (Chicago: University of Chicago Press, 1965),
+            and (with Charles Weiner), <i>J. Robert Oppenheimer: Letters and Recollections</i>
             (Harvard University Press, 1980). <br><br>
+
+
+            In 1982, she was interviewed by Martin J. Sherwin for the Atomic Heritage Foundation's <i>Voices
+             of the Manhattan Project</i> and explained the meaning of the title of her first book:
+
+            <blockquote>
+            "The title of the book - which does not tell very much about the contents unless one knows already,
+             A Peril and a Hope – the phrase was taken from the talk that [Oppenheimer] gave at Los Alamos in his
+             farewell speech to his colleagues there. Officially, this speech was given to the newly organized 
+             Association of Los Alamos Scientists. This was in mid-October of 1945 after he had resigned as director,
+              but before he left.
+            <Br><Br>
+            "He spoke then about the fact - which was greatly influenced by the thinking of his good friend Niels 
+            Bohr – that because in the release of atomic energy there lay such a great peril for the world, that 
+            there was perhaps a hope that nations would learn to live together. This speech, which is printed 
+            for the first time officially, except in private circulation at the time for Los Alamos, greatly 
+            influenced the thinking and the actions of his colleagues at Los Alamos."
+            </blockquote>
+
             
             For the last six years of her life, she moved
             to the state of Washington to be near her daughter.
@@ -543,15 +562,21 @@ s_bios = [
             Oral interview in Schlesinger Library.<br>
             DMS<i>E News</i> (MIT). April 2001. <br>
             <i>Cambridge City Directory</i>, 1972.<br>
-            Image from University of Chicago Photographic Archive, apf1-07690, Hanna Holborn Gray Special Collections Research Center, University of Chicago Library.
+            <i>Mt. Holyoke Yearbook</i>, 1927.<Br>
+            Interview by Martin Sherwin:<br>
+            <a class='indent' href="https://ahf.nuclearmuseum.org/voices/oral-histories/alice-kimball-smiths-interview/">https://ahf.nuclearmuseum.org/voices/oral-histories/alice-kimball-smiths-interview/</a><Br>
+
+            Image from University of Chicago Photographic Archive, apf1-07690, Hanna Holborn Gray Special Collections Research Center, University of Chicago Library.<br>
+            Birthdate from FindAGrave:<br>
+            <a class='indent' href="https://www.findagrave.com/memorial/194193560/alice-marchant-smith">https://www.findagrave.com/memorial/194193560/alice-marchant-smith</a>
            `,
-        photos: ["images_bios/Alice_Kimball_Smith.jpg"],
-        photoTitles: [""],
+        photos: ["images_bios/Alice_Kimball_Smith.jpg","images_bios/smith2.png"],
+        photoTitles: ["", "1927 Mt. Holyoke Yearbook"],
         dateCreated: "prior to 2009",
-        dateUpdated: "04.11.2025",
+        dateUpdated: "02.04.2026",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Author"],
     },
