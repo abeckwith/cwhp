@@ -837,7 +837,7 @@ s_bios = [
 
         Squier's mother was Mary Jane Hutchinson, born in Ireland (she was a homemaker, but in 1930, after
          her husband died, was listed as a chambermaid). Her father was George Alexander McKay, who was 
-         born in Canada, and worked an electrician for the elevated trains. Squier was one of seven daughters
+         born in Canada, and worked as an electrician for the elevated trains. Squier was one of seven daughters
           and attended Harvard Grammar School in Cambridge. She grew up on the middle floor of a triple-decker 
           at 30A Baldwin Street and later moved to 54 Baldwin Street, attending Cambridge Latin High School (Baldwin 
           was re-named Roberts Road in 1947).
@@ -870,7 +870,7 @@ s_bios = [
 
         "My new husband and I moved into a tiny apartment, Number One Craigie Street, a most desirable Cambridge 
         address...we [later moved to] Gerry Street, and I found a heaven-sent job at the old University Press of 
-        Cambridge which dated back to the 1600's, even before Harvard had its own press."
+        Cambridge."
         </blockquote>
 
         Her husband was Joel Hyde Squier, who worked in advertising. Dorothy worked as the head copywriter for 

@@ -231,41 +231,49 @@ cards = [
         "in Cambridge in the 1920s and 1930s (<i>Snatched From Oblivion</i>, 1979) and the second centered "+
         "on her her adult life in Cambridge (<i>I Remember: A Life of Politics, Painting and People</i>, 2012)",
     },
+     {
+        name: "Dorothy Squier",
+        link: "bios.html?last=Squier&middle=Allegra&first=Dorothy",
+        image: "images_bios/squier1.png",
+        sentence: `Squier wrote dozens of essays for the Cambridge Chronicle with <b>remembrances of 
+        growing up in Cambridge</b>, from 1982 to 1989. In 1993, the Cambridge Public Library published
+        here essays in book form.
+        `
+    },
      // {
     //     name: "",
     //     link: "",
     //     image: "",
-    //     sentence: "",
+    //     sentence: `
+    // `,
     // },
      // {
     //     name: "",
     //     link: "",
     //     image: "",
-    //     sentence: "",
+    //     sentence: `
+    // `,
     // },
      // {
     //     name: "",
     //     link: "",
     //     image: "",
-    //     sentence: "",
+    //     sentence: `
+    // `,
     // },
      // {
     //     name: "",
     //     link: "",
     //     image: "",
-    //     sentence: "",
+    //     sentence: `
+    // `,
     // },
      // {
     //     name: "",
     //     link: "",
     //     image: "",
-    //     sentence: "",
-    // },
-     // {
-    //     name: "",
-    //     link: "",
-    //     image: "",
-    //     sentence: "",
+    //     sentence: `
+    // `,
     // },
 ];
 /**
