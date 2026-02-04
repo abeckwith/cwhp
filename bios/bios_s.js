@@ -839,7 +839,8 @@ s_bios = [
          her husband died, was listed as a chambermaid). Her father was George Alexander McKay, who was 
          born in Canada, and worked an electrician for the elevated trains. Squier was one of seven daughters
           and attended Harvard Grammar School in Cambridge. She grew up on the middle floor of a triple-decker 
-          at 30A Baldwin Street and later moved to 54 Baldwin Street, attending Cambridge Latin High School.
+          at 30A Baldwin Street and later moved to 54 Baldwin Street, attending Cambridge Latin High School (Baldwin 
+          was re-named Roberts Road in 1947).
         <br><br>
 
         In her book, Squier recalls the shops on the ground floor of the triple-deckers on Kirkland as Jimmie's 

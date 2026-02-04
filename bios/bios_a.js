@@ -1403,7 +1403,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
          of Unity" at Harvard Stadium, which was headlined by Bob Marley and the Wailers and featured Patti 
          LaBelle, Eddie Palmieri, and Babatunde Olatunji, and a speech from comedian and activist Dick Gregory.<br><br>
 
-        Axelrod and her family lived for many years on Berekely Street in Cambridge. She was a part-time consultant in the late 1980s for Lotus and arranged six art shows per year, 
+        Axelrod and her family lived for many years on Berkeley Street in Cambridge. She was a part-time consultant in the late 1980s for Lotus and arranged six art shows per year, 
         highlighting local artists in two-dimensional media. In 1989, she was working to create an on-site 
         day care facility at Lotus and in the late 1990s, Axelrod wrote regular letters to the Cambridge 
         Chronicle as a Cambridge Public Library Trustee, advocating for the building of the new main branch 
