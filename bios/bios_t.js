@@ -230,19 +230,21 @@ t_bios = [
         organization: false,
         lastName: "Thompson",
         firstName: "Mary",
-        middleName: "Crutchfield",
-        familyName: "",
+        middleName: "P.",
+        familyName: "Crutchfield",
         
         title: `Dentist`,
-        birthDate: "00.00.1902",
-        birthLocation: "North Carolina",
+        birthDate: "11.30.1902",
+        birthLocation: "Henderson, North Carolina",
         deathDate: "03.16.1985",
         deathLocation: "Cape Cod, Massachusetts",
         narrative: `
+
             One of the first African American women to graduate
             from Tufts Dental School, Mary Crutchfield was the first black woman to practice
             dentistry in the Boston area. The only child of William and Lydia Hatch Crutchfield,
-            Mary was born in North Carolina and raised in Cambridge, Massachusetts. After graduation
+            Mary was born in North Carolina and raised in Cambridge, Massachusetts. She attended Summer School
+            at Boston University in 1925.  After graduation
             from Tufts College Dental School in 1930, she worked at the Boston Dispensary,
             and founded the Children's Dental Clinic in her Cambridge home on Windsor
             Street. She was awarded a certificate in recognition of her contribution to
@@ -254,6 +256,7 @@ t_bios = [
             a project initiated by this sorority founded by college trained African American
             women. She later served as the AKA chapter president. <br><br>
 
+            In 1950, she was the chairperson of the Prince Hall Masonic Symphonic Band.
              She married Oscar Thompson in 1948. The couple,
             who later moved to Natick, Massachusetts, believed in bringing races together and founded
             one of the first Fair Housing committees in America. The NAACP presented her
@@ -293,15 +296,16 @@ t_bios = [
             <a class='indent' href="https://www.flickr.com/photos/schlesinger_library/13270319163/">https://www.flickr.com/photos/schlesinger_library/13270319163/</a> <br>
             <i>Black Women in America, A Historical Encyclopedia</i> ed. Darlene Clark,
             Carlson Publishing, Inc.,1993.<br>
-            <i>Cambridge Chronicle</i>, 21 November 1985.<br>
+            <i>Cambridge Chronicle</i>, 22 August 1925, 19 October 1950, 21 November 1985.<br>
             Image from wikipedia.com:<br>
              <a class='indent' href="https://commons.wikimedia.org/wiki/File:Mary_Crutchfield_Thompson_%2813270319163%29.jpg" >https://commons.wikimedia.org/wiki/File:Mary_Crutchfield_Thompson_%2813270319163%29.jpg</a>
            
+       <Br> <i>New York State, Passenger and Crew Lists</i>, June 24, 1960.
         `,
         photos: ["images_bios/thompson_mary.png"],
         photoTitles: [],
         dateCreated: "prior to 2016",
-        dateUpdated: "01.11.2026",
+        dateUpdated: "02.04.2026",
 
         photoHeights: [],
         editors:"Anthony Beckwith",
