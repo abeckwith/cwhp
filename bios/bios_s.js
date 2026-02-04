@@ -831,8 +831,8 @@ s_bios = [
        
         From 1982 to 1989 Dorothy Squier wrote dozens of essays that were published in the <i>Cambridge
          Chronicle</i>, recalling her early years growing up in Cambridge. In 1993, she published these 
-         essays with additional material in the book "A Lighthearted Look at Growing Up: Treasured Memories
-          of Cambridge," which was published by the Cambridge Public Library.
+         essays with additional material in the book <i>A Lighthearted Look at Growing Up: Treasured Memories
+          of Cambridge</i>," which was published by the Cambridge Public Library.
         <br><br>
 
         Squier's mother was Mary Jane Hutchinson, born in Ireland (she was a homemaker, but in 1930, after
