@@ -2710,7 +2710,7 @@ b_bios = [
         lastName: "Burton",
         firstName: "Jeanne",
         middleName: "Vingge",
-        familyName: "Washginton",
+        familyName: "Washington",
 
         title: `Community activist`,
         birthDate: "09.24.1929",
