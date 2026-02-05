@@ -138,9 +138,10 @@ function bday() {
     const day = today.getDate();
     var seed = parseInt(day + "" + month + "" + year);
 
-    //get 5 random bio numbers:
+    //get 25 random bio numbers:
     shuffledNumbers = [];
-    shuffledNumbers.push(Math.floor(random() * photoList.length));
+
+    // shuffledNumbers.push(Math.floor(random() * photoList.length - 1));
 
     for (let index = 0; index < 25; index++) {
         chosen = true;

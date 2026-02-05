@@ -808,12 +808,17 @@ s_bios = [
          than a year, which, at the time, was attributed to overwork and deep grief over the sudden loss 
          of her father two years earlier (her father was 52 years old when he died). The family was living
           at 37 Hubbard Avenue at the time, but had also lived at 28 Union Street, where there is today 
-          a placard in her honor.    
+          a placard in her honor. (The first family of color to reside at 28 Union was that of Peter Charles Woods and his
+        wife, Virginia Welford Woods, who lived there from 1887-1894.) 
         `,
         otherNotes: "",
         references: ` 
                 <i>The Dighton Herald</i> (Dighton, Kansas), Aug. 18, 1898.<br>
         <i>The Cambridge Tribune</i>,  2 July 1898.<br>
+        <i>Final Landmark Designation Report Alberta Scott House</i>, Sarah Burks, Cambridge Historical Commission, June 30, 2021:<br>
+        <a class='indent' href="https://www.cambridgema.gov/-/media/Files/historicalcommission/pdf/Landmark_reports/L134_28unionst_finalreport.pdf">
+        https://www.cambridgema.gov/-/media/Files/historicalcommission/pdf/Landmark_reports/L134_28unionst_finalreport.pdf</a><br>
+
         <i>1880 U.S. Census</i> for Virginia.<br>
         <i>Boston Globe</i>, Nov 29, 1899.<br>
         <i>Association of Black Harvard Women</i>:<Br>
@@ -832,10 +837,10 @@ s_bios = [
             
         ],
         dateCreated: "01.31.2026",
-        dateUpdated: "",
+        dateUpdated: "02.05.2026",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "Anthony Beckwith",
         categories: ["Teacher"],
     },
