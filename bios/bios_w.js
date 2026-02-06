@@ -1048,20 +1048,45 @@ w_bios = [
             of 1981, only months before WCHC had to close its doors. Fenway Community Health Center provided followup
             care to WCHC patient. Becoming the only women owned licensed clinic in the state was a success but came with
             staff burnout and public criticism. The work of WCHC lived on through the community members engaged with the
-            center.`,
+            center.<Br><Br>
+            
+            When the Center closed, the Cambridge Chronicle described it this way:
+            <blockquote>
+            "The center emphasized education through self-help groups, menopause and fertility consciousness collectives, 
+            and educational presentations. From its inception the center was stridently feminist and often at odds with
+             health authorities. Their battles included a three-year liceniog battle with the state Department of Public
+              Health. <Br><Br>
+              
+              "The center survived that battle but its price was high. After the licensing battle, many staff
+               members left because they were emotionally drained by the energy it took to fight the state. In addition,
+                most were financially strapped and physically exhausted from working 70-hour weeks for $5O. While the 
+                center made periodic attempts to raise pay, the money just wasn't there. 
+                
+                <br><Br>"Throughout its existence the 
+                center "worked on a slim budget," says Davi Birnbaum, another board member. Women using the center's 
+                services were given information on how much the services cost and were then given an envelope and allowed 
+                to pay anonymously. "We always received less money than could be expected," Birnbaum says. Many of the 
+                center's financial problems were due to business decisions made on ideological grounds. DeLorey says 
+                "The original collective structure was unwieldy and burdensome..lt may have been ideologically nice but
+                it did not work."
+            </blockquote>`,
         otherNotes: "",
         references: `
             NOTE: The Women&rsquo;s Community Health Center archive is housed at Schlesinger Library, Radcliffe Institute.<br>
+            <i>The Cambridge Chronicle</i>, 12 April 1979, 7 September 1981
+<br>
+
+
             Written by Kimm Topping, printed in <i>Mapping Feminist Cambridge</i> guidebook, 2019: <a
                 href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a>
         `,
-        photos: [""],
-        photoTitles: [],
+        photos: ["images_bios/wchc.png"],
+        photoTitles: ["April 1979 Cambridge Chronicle"],
         dateCreated: "prior to 2009",
-        dateUpdated: "",
+        dateUpdated: "02.06.2026",
 
-        photoHeights: [],
-        editors: "",
+        photoHeights: ["130"],
+        editors: "Anthony Beckwith",
         authors: "Kimm Topping",
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
     },
