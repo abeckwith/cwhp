@@ -565,7 +565,7 @@ w_bios = [
         familyName: "",
 
         title: `First Cambridge schoolmistress`,
-        birthDate: "00.00.1645",
+        birthDate: "08.01.1645",
         birthLocation: "Cambridge, Massachusetts",
         deathDate: "11.19.1707",
         deathLocation: "Cambridge, Massachusetts",
@@ -591,6 +591,9 @@ w_bios = [
         otherNotes: "",
         references: ` <i>An Historic Guide to Cambridge</i>, Appendix &#8220;Edward
             Winship&#8221;.<br>
+            <i>Massachusetts Town and Vital Records</i>, 1620-1988 for Joanna Winship.<br>
+
+
                Photo from findagrave.com:<br>
                <a class='indent' href="https://www.findagrave.com/memorial/20848657/joanna-winship#view-photo=7093541">
             https://www.findagrave.com/memorial/20848657/joanna-winship#view-photo=7093541</a>

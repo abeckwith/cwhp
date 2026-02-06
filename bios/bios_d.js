@@ -384,12 +384,19 @@ d_bios = [
         deathDate: "",
         deathLocation: "",
         narrative: `
+
+
+
             Raised in Newton, Massachusetts, Henrietta Davis graduated from University of
             Rochester in 1967 with a degree in English Language and Literature. She earned a Master Degree in Community
             Organization and Social Planning from Boston College Graduate School of Social Work in 1972, which included
-            coursework in public policy and city planning at Massachusetts Institute for Technology. In 1996, she
+            coursework in public policy and city planning at Massachusetts Institute for Technology. <Br><Br>
+
+            
+
+            In 1996, she
             received a Master of Public Administration from Harvard University JFK School of Government. She is a
-            longtime resident of Cambridgeport, where she and her husband Richard Bock raised their two sons, Daniel
+            longtime resident of Cambridgeport, where she has lived for over 50 years and where she and her husband Richard Bock raised their two sons, Daniel
             and Aaron. <br><br>
                 
              Davis began her career in neighborhood planning for the city of Cambridge, and
@@ -421,6 +428,22 @@ d_bios = [
             Mass Climate Action Network, the USGBC-MA, the green building council, and the Institute for Market
             Transformation, a national organization promoting energy efficiency in buildings. Davis also attended the
             Paris Climate Talks in 2015. <br><br>
+            In a 2015 interview, she was asked: "Did you did you originally plan to go into politics, or did you have other things in mind originally?"
+             Her response:
+             <blockquote>
+
+            "Well, that kind of happened at MIT [also], because in this Bill Doebel class I took on planning law,
+             he did an exercise and he said, picture yourself in 20 years. Where will you be? And it wasn't until I 
+             sort of did that free writing that I realized that I was interested in politics. And even though I had
+              done kind of volunteer work when I was in high school in Newton on campaigns, I didn't really intend 
+              to go into politics.<br><Br>
+
+            "And when I went to social work school, I didn't think I was going to do that. It wasn't actually until my
+             kids were born and I thought, a lot of these other things don't work with children. How about something 
+             that's sort of more amorphous in terms of the time? Like working all the time instead of just part time. 
+             And so working for the city, working as a school committee member made sense. Plus, I had of course the 
+             interest in what the schools were going to be like for my kids."
+            </blockquote>
             
             Davis divides her time between sustainability and artistic ventures, including
             drawing, watercolor painting and printmaking.
@@ -435,16 +458,18 @@ d_bios = [
             Oral history interview with Henrietta Davis:<br>
             <a class='indent' href="https://infinitehistory.mit.edu/video/henrietta-davis">https://infinitehistory.mit.edu/video/henrietta-davis</a> <br>
             Board Member Bio, ICLEI website.<br>
-                        Photo credit: Richard Bock.
+                        Photo credit: Richard Bock.<Br>
+            Interview from <i>Infinite History<i>, September 15, 2015:
+            <a class='indent' href="https://infinite.mit.edu/video/henrietta-davis/">https://infinite.mit.edu/video/henrietta-davis/</a>
 
         `,
         photos: ["images_bios/Henrietta Davis Bio Photo_small.jpg"],
         photoTitles: [],
         dateCreated: "00.00.2016",
-        dateUpdated: "",
+        dateUpdated: "02.06.2026",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Environmentalist", "Political Leader", "Journalist"],
     },
