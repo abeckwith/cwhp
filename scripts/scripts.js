@@ -630,7 +630,7 @@ function makeSidebar(letterIndex, personIndex, stepping, topical, search) {
     //build each entry, clickable:
     if (!topical && !search) {
         for (i = 0; i < namesLists[letterIndex].length; i++) {
-            firstCommaLast = namesLists[letterIndex][i].replaceAll("'", " ");
+            firstCommaLast = namesLists[letterIndex][i].replaceAll("'", "");
 
             toAdd =
                 "<tr><td class='name-link' id='name-" +
@@ -678,6 +678,7 @@ function makeSidebar(letterIndex, personIndex, stepping, topical, search) {
 }
 function getHref(l, m, f) {
     l = l.replaceAll(",", "");
+    l = l.replaceAll("'", "");
     return "bios.html?last=" + l.replaceAll(" ", "") + "&middle=" + m  + "&first=" + f ;
 }
 /**

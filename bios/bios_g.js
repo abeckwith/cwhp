@@ -194,7 +194,7 @@ g_bios = [
             All images courtesy of <i>University Archives and Special Collections</i>, Joseph P. Healey Library, 
             University of Massachusetts Boston.
         `,
-        photos: ["images_bios/goddard4.JPG", "images_bios/goddard1.JPG", "images_bios/goddard3.JPG" ],
+        photos: ["images_bios/goddard4.jpg", "images_bios/goddard1.JPG", "images_bios/goddard3.JPG" ],
         photoTitles: ["From the Feminist Studies group at Goddard", "1971 Adversitement"],
         dateCreated: "prior to 2009",
         dateUpdated: "02.04.2026",

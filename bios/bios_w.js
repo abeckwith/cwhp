@@ -1073,7 +1073,7 @@ w_bios = [
         otherNotes: "",
         references: `
             NOTE: The Women&rsquo;s Community Health Center archive is housed at Schlesinger Library, Radcliffe Institute.<br>
-            <i>The Cambridge Chronicle</i>, 12 April 1979, 7 September 1981
+            <i>The Cambridge Chronicle</i>, 12 April 1979, 7 September 1981.
 <br>
 
 
