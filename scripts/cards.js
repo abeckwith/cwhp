@@ -71,7 +71,7 @@ cards = [
         link: "bios.html?last=Thompson&middle=P.&first=Mary",
         image: "images_bios/thompson_mary_sm.png",
         sentence:
-            "Thompson was the first <b>Black woman to practice denistry</b> in the Boston area, running a dental " +
+            "Thompson was one of the <b>first Black women to practice denistry</b> in the Boston area, running a dental " +
             "clinic out of her home in Cambridge",
     },
     {

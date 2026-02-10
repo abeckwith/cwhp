@@ -1462,10 +1462,11 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         birthDate: "10.05.1934",
         birthLocation: "Hartford, Connecticut",
         deathDate: "12.12.2025",
-        deathLocation: "Cambridge, Massachusetts",
+        deathLocation: "Walthm, Massachusetts",
         narrative: `
         The photographer Frances V. Antupit was born and raised in Hartford, Connecticut. Her mother, Sylvia
         (Feinberg) Antupit, had studied concert piano and attended the Emil Hartman School of Design in New York.
+        Her father was Louis Antupit, M.D., Chief of Surgery in Hartford, Connecticut.
         <Br><Br>
         
         Frances Antupit graduated from the Rhode Island School of Design (RISD) in 1957 with a Bachelor's 
@@ -1508,7 +1509,6 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         In 1997, the Cambridge Savings Bank bought the building that housed Antupit's studio, and all 
         tenants were given a notice to vacate. Antupit became a vocal advocate for small local businesses 
         in Cambridge. After clearing the studio and giving much of the equipment to her assistant, Antupit
-        
         opened a new studio in Porter Square. Despite her reputation as a creative photographer, the new
          location proved difficult for returning customers and walk-ins alike, which greatly affected her 
          business. Antupit closed that studio and began afresh in neighboring Belmont before finally retiring.

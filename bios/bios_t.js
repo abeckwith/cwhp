@@ -241,7 +241,7 @@ t_bios = [
         narrative: `
 
             One of the first African American women to graduate
-            from Tufts Dental School, Mary Crutchfield was the first black woman to practice
+            from Tufts Dental School, Mary Crutchfield was also one of the first black women to practice
             dentistry in the Boston area. The only child of William and Lydia Hatch Crutchfield,
             Mary was born in North Carolina and raised in Cambridge, Massachusetts. She attended Summer School
             at Boston University in 1925.  After graduation
