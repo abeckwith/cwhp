@@ -12,8 +12,8 @@ let strippedNamesList = [];
 let currentLetter = 0;
 let currentPersonIndex = 0;
 
-let RECENT_MONTHS_LIMIT = 12; //for recent additions page
-let RECENT_MONTHS_LIMIT2 = 3; //for recent edits part of recents page
+let RECENT_MONTHS_LIMIT = 12; //for recent additions
+let RECENT_MONTHS_LIMIT_EDITS = 3; //for recent edits
 
 /**
  * Makes sidebar and then loads bio
@@ -25,7 +25,7 @@ function startBio() {
 
     //get params from URL:
     p = getParams();
-    console.log(p)
+    console.log(p);
     //when page first loads
     ltrIndex = 0;
     personIndex = 0;
@@ -48,8 +48,10 @@ function startBio() {
     }
     if (ltrIndex == -1) ltrIndex = 0;
     searching = true;
+
     //take first letter of last name and make sidebar for that letter:
     makeSidebar(ltrIndex, personIndex, false, false, false);
+
     //set up the page basics:
     init(false, false);
     setBoldInSideBar(bios, ltrIndex, personIndex);
@@ -103,21 +105,17 @@ function showRecents(num) {
 
                 //only add to list if within number of months selected:
                 if (monthsDifference < RECENT_MONTHS_LIMIT) {
-                    recentCount++; 
-                    
+                    recentCount++;
+
                     //some titles are two lines - get rid of second line:
                     brLoc = thename.title.toLowerCase().indexOf("<br>");
-                    if(brLoc !=-1)
+                    if (brLoc != -1)
                         strippedTitle = thename.title.substring(0, brLoc);
-                    else
-                        strippedTitle = thename.title;
+                    else strippedTitle = thename.title;
 
                     //if org, not first name, so don't show a , :
-                    if(thename.firstName != "")
-                        fnm = ", " + thename.firstName;
-                    else
-                        fnm = "";
-                    // html +=
+                    if (thename.firstName != "") fnm = ", " + thename.firstName;
+                    else fnm = "";
 
                     html_build =
                         "<br></i>" +
@@ -131,7 +129,7 @@ function showRecents(num) {
                         ) +
                         "'>" +
                         thename.lastName.replaceAll("'", "") +
-                        fnm + 
+                        fnm +
                         "</a></span>,&nbsp;<i> " +
                         strippedTitle +
                         "";
@@ -146,6 +144,7 @@ function showRecents(num) {
         " NEW BIOS HAVE BEEN ADDED IN THE LAST " +
         RECENT_MONTHS_LIMIT +
         " MONTHS:</span><br></center>";
+
     //SORT ALGORITHM: first by year, then month, then day:
     r = recentsObjects.sort((a, b) => {
         // Primary sort: by age (ascending)
@@ -185,21 +184,18 @@ function showRecents(num) {
                     (currYear - year) * 12 + currMonth - monthNum;
 
                 //only add to list if within number of months selected:
-                if (monthsDifference < RECENT_MONTHS_LIMIT2) {
+                if (monthsDifference < RECENT_MONTHS_LIMIT_EDITS) {
                     recentUpdatesCount++;
 
                     //some titles are two lines - get rid of second line:
                     brLoc = thename.title.toLowerCase().indexOf("<br>");
-                    if(brLoc !=-1)
+                    if (brLoc != -1)
                         strippedTitle = thename.title.substring(0, brLoc);
-                    else
-                        strippedTitle = thename.title;
+                    else strippedTitle = thename.title;
 
                     //if org, not first name, so don't show a , :
-                    if(thename.firstName != "")
-                        fnm = ", " + thename.firstName;
-                    else
-                        fnm = "";
+                    if (thename.firstName != "") fnm = ", " + thename.firstName;
+                    else fnm = "";
                     // html +=
                     html_build =
                         "<br></i>" +
@@ -231,7 +227,7 @@ function showRecents(num) {
         "<br><br><Center><span>These " +
         recentUpdatesCount +
         " bios have had significant <b>edits or updates</b> made to them in the last " +
-        RECENT_MONTHS_LIMIT2 +
+        RECENT_MONTHS_LIMIT_EDITS +
         " months:</span><br></center>";
     //SORT ALGORITHM: first by year, then month, then day:
     r2 = recentUpdatesObjects.sort((a, b) => {
@@ -311,9 +307,11 @@ function formatDateSlash(dateWithDots) {
         dateWithDots.substring(0, 2) != "00"
     ) {
         sep = dateWithDots.split(".");
+        
         //day: eliminate leading zero:
         if (sep[0].charAt(0) == "0") m = sep[0].charAt(1);
         else m = sep[0];
+        
         //month:eliminate leading zero:
         if (sep[1].charAt(0) == "0") d = sep[1].charAt(1);
         else d = sep[1];
@@ -321,6 +319,7 @@ function formatDateSlash(dateWithDots) {
     }
     //just 4-digit year:
     if (dateWithDots.substring(0, 2) == "00") return dateWithDots.substring(6);
+    
     //all others (incl. "before 2009")
     return dateWithDots;
 }
@@ -334,13 +333,12 @@ function openWin() {
     } else {
         var divText = document.getElementById("bio").outerHTML; //get the div
         console.log(divText);
+        
         //lop off extra line breaks from web version:
-        // divText = divText.substring(0, divText.length - 40);
         divText = divText.replaceAll("Printable Version", "");
         divText = divText.replaceAll("🖨 ", "");
 
-        //<br><a onclick='openWin()'><u><b>Printable Version</b></u>
-        divText =
+\        divText =
             "Cambridge Women's Heritage Project (https://cwhp.cambridgema.gov/)<br><br>" +
             divText;
         popup = window.open("", "", "width=800,height=700");
@@ -360,9 +358,7 @@ function openWin() {
  */
 let person = "";
 function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
-    //get the last name fist letter:
 
-    // ltrIndex = "abcdefghijklmnopqrstuvwxyz".indexOf(urllastName.charAt(0).toLowerCase());
     //get all JSON bios for this letter:
     bios = getBios();
 
@@ -376,9 +372,11 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
 
     //name:
     html += "<div class='name-heading'><strong><span id='full-name'>";
+
     if (person.firstName !== "") html += person.firstName + " ";
     if (person.middleName !== "") html += person.middleName + " ";
     if (person.lastName !== " ") html += person.lastName + " ";
+
     if (person.familyName !== "")
         html +=
             "</span><br><span id='born'>(born " +
@@ -389,6 +387,7 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
             person.familyName +
             ")</span> ";
     else html += "</span>";
+
     if (person.firstName != "")
         document.title =
             "CWHP: " + person.lastName + ", " + person.firstName + "";
@@ -424,7 +423,7 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
 
         tbl = "<table align='right'><tr><td>";
 
-        //has a title first first image:
+        //has a title first image:
         if (person.photoTitles.length > 0 && person.photoTitles[0] != "")
             title =
                 '<tr><td align="center" style="width:100px"><i>' +
@@ -488,17 +487,17 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
     }
 
     //references & date updated:
-    if (person.references.trim() !== ""){
+    if (person.references.trim() !== "") {
         refIndent = "";
         refs = person.references.replaceAll("<Br>", "<br>");
         refs = refs.replaceAll("<BR>", "<br>");
 
         refs = refs.split("<br>");
-        console.log(refs)
-        refs.forEach(element => {
+        console.log(refs);
+        refs.forEach((element) => {
             refIndent += "<span class='references'>" + element + "</span><Br>";
         });
-        html += "<br><br><strong>References:</strong><br>" + refIndent;//person.references;
+        html += "<br><br><strong>References:</strong><br>" + refIndent; //person.references;
     }
 
     //link to open printable version:
@@ -535,14 +534,6 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
 
     document.getElementById("bio").innerHTML = html;
 
-    // if (!initial) {
-    //     console.log("Pushing state")
-    //     bioURL =
-    //         "/" + getHref(person.lastName, person.middleName, person.firstName);
-    //     window.history.pushState({}, "New Title", bioURL);
-    //     console.log("makebio:",bioURL)
-    // }
-
     //set style of selected on left side:
     if (!initial && !topical & !search)
         for (let index = 0; index < bios.length; index++) {
@@ -553,7 +544,7 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
                 element.className = "selected-ltr";
             } else {
                 element.style.backgroundColor =
-                    "white"; /*"rgb(250, 235, 223)";*/
+                    "white"; 
                 element.classList.remove("selected-ltr");
                 element.classList.add("name-link");
             }
@@ -571,9 +562,9 @@ function onclickForMakeBio(ltrIndex, indexOfPerson, initial, search, topical) {
     bioURL =
         "/" + getHref(person.lastName, person.middleName, person.firstName);
     window.history.pushState({}, "New Title", bioURL);
-    console.log("onclickmakebio:", bioURL);
     setBoldInSideBar(bios, ltrIndex, indexOfPerson);
 }
+
 function onclickLetter(letterIndex, personIndex, stepping, topical, search) {
     makeSidebar(letterIndex, personIndex, stepping, topical, search);
     bios = getBios();
@@ -582,7 +573,6 @@ function onclickLetter(letterIndex, personIndex, stepping, topical, search) {
     bioURL =
         "/" + getHref(person.lastName, person.middleName, person.firstName);
     window.history.pushState({}, "New Title", bioURL);
-    console.log("onclickLetter:", bioURL);
 }
 /**
  * Creates the left sidebar with the alphabetical list of women
@@ -604,9 +594,7 @@ function makeSidebar(letterIndex, personIndex, stepping, topical, search) {
         names = [];
         strippedNames = [];
         bioLetterList.forEach((thename) => {
-            // if(thename.middleName === "" && thename.firstName=== "")
-            //     lName = thename.lastName;
-            // else
+
             lName = stripName(thename.lastName);
             fName = stripName(thename.firstName);
             mName = stripName(thename.middleName);
@@ -622,7 +610,7 @@ function makeSidebar(letterIndex, personIndex, stepping, topical, search) {
                 names.push(
                     thename.lastName + ", " + thename.firstName + " " + mid,
                 );
-            } else names.push(thename.lastName); //.substring(0, 20) + "..."); //too long
+            } else names.push(thename.lastName); 
         });
         namesLists.push(names);
         strippedNamesList.push(strippedNames);
@@ -648,7 +636,7 @@ function makeSidebar(letterIndex, personIndex, stepping, topical, search) {
                 firstCommaLast +
                 "</a>" +
                 "</td></tr>";
-                html += toAdd;
+            html += toAdd;
         }
     }
     html += "</table>";
@@ -668,18 +656,20 @@ function makeSidebar(letterIndex, personIndex, stepping, topical, search) {
             document.getElementById("bio").innerHTML =
                 "<h1>No entries for " + ltr.toUpperCase() + " yet</h1>";
         }
-    //set URL to first woman in the alpha list:
-    // threeNames = strippedNamesList[letterIndex][0];
-    // bioURL = "/" + getHref(threeNames[0], threeNames[1], threeNames[2]);
-    // window.history.pushState({}, "", bioURL);
-    // console.log("sidebar:", bioURL )
 
     if (!topical) setBoldInSideBar(all_bios, letterIndex, personIndex);
 }
 function getHref(l, m, f) {
     l = l.replaceAll(",", "");
     l = l.replaceAll("'", "");
-    return "bios.html?last=" + l.replaceAll(" ", "") + "&middle=" + m  + "&first=" + f ;
+    return (
+        "bios.html?last=" +
+        l.replaceAll(" ", "") +
+        "&middle=" +
+        m +
+        "&first=" +
+        f
+    );
 }
 /**
  *
@@ -757,6 +747,7 @@ function setupCategories() {
     for (let ltr = 0; ltr < all_bios.length; ltr++) {
         //get list of people for this letter:
         bio_for_ltr = all_bios[ltr];
+
         //go ghrough each person:
         for (
             let personIndex = 0;
@@ -782,12 +773,14 @@ function setupCategories() {
     //put lists of names into array instead of dictionary
     var options = Object.keys(allCats).sort();
     catArray = [];
+
     for (let index = 0; index < options.length; index++) {
         const element = options[index];
         catArray.push([options[index], allCats[options[index]]]);
     }
     //set topic selector:
     let html = "<table><tr><td>TOPIC:</td></tr>";
+
     //build each entry, clickable:
     for (i = 0; i < catArray.length; i++) {
         var opt = catArray[i];
@@ -867,7 +860,6 @@ function showNamesForTopical(option) {
                     choice[i][j][2] + //place in letter list
                     "'>" +
                     "<a onclick='makeBio(" +
-                    // "<a href='" + getHref(choice[i][j][0], choice[i][j][1], choice[i][j][2] ) +
                     choice[i][j][1] +
                     ", " +
                     choice[i][j][2] +
@@ -994,11 +986,6 @@ function setTotals(about) {
         console.log("Each letter count:");
     }
 
-    // document.getElementById("total-women3").innerHTML = totalEntries;
-
-    // for (let i = 0; i < personCounts.length; i++) {
-    //     console.log(alph.charAt(i) + ": " + personCounts[i]);
-    // }
     // Collapsible function for main headers
     var collapsibles = document.getElementsByClassName("collapsible");
     for (var i = 0; i < collapsibles.length; i++) {
@@ -1078,12 +1065,9 @@ function ranPerson() {
     );
 
     //ensures sidebar and URL match person selected:
-    // window.open(site, "_self");
-    // makeBio(letter, person, false, false, false);
     bioURL =
         "/" + getHref(person.lastName, person.middleName, person.firstName);
     window.history.pushState({}, "New Title", bioURL);
-    console.log("random:", bioURL);
 }
 function setBoldInSideBar(bios, letter, loc) {
     for (let person = 0; person < bios[letter].length; person++) {
@@ -1160,7 +1144,6 @@ function next() {
         strippedNamesList[currentLetter][currentPersonIndex][1],
         strippedNamesList[currentLetter][currentPersonIndex][2],
     );
-    // window.open(site, "_self");
     makeBio(currentLetter, currentPersonIndex, false, false, false);
     bioURL =
         "/" + getHref(person.lastName, person.middleName, person.firstName);

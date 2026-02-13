@@ -1167,7 +1167,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         otherNotes: "",
         references: `Jefferson Park Tenant Task Force/Information
             from Mary Russell.<br>
-            Cambridge City Council meeting notes<br>
+            Cambridge City Council meeting notes:<br>
             <a class='indent'
             href="http://www.rwinters.com/council/103105.htm">http://www.rwinters.com/council/103105.htm</a><br>
                 <i>U.S. Census</i> 1930 and 1950.<br>

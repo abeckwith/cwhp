@@ -1,7 +1,10 @@
-function bday() {
+
+function setUpMainPage() {
     currentDate = new Date();
     // Short format (e.g., "12/16/2025")
+
     currentDate = currentDate.toLocaleDateString("en-US");
+
     all_bios = [
         a_bios,
         b_bios,
@@ -43,37 +46,47 @@ function bday() {
         8: "th",
         9: "th",
     };
+    //get components of date:
     nums = currentDate.split("/");
     crMonth = nums[0];
     crDay = nums[1];
     crYear = nums[2];
 
     /*
-     * Get most recent bio that has been added to project and display it
+     * Get most recent bios that have been added to the project and display them
      */
+    //used to sort:
     recentYear = 0;
     recentMonth = 0;
     recentDay = 0;
+
+    //go through every bio:
     all_bios.forEach((bioLtr) => {
         bioLtr.forEach((bio) => {
+
+            //CHECK IF BIO BELONGS TO RECENTS:
             if (bio.dateCreated.indexOf(".") != -1) {
                 found = false;
+                //get year, month day:
                 created = bio.dateCreated.split(".");
                 y = parseInt(created[2]);
                 m = parseInt(created[0]);
                 d = parseInt(created[1]);
 
+                //is it a recent enough year?
                 if (y > recentYear) {
                     found = true;
                 }
+                //if it's the same as the most recent, check if it's a closer day or month:
                 if (y == recentYear) {
                     if (m == recentMonth) {
                         if (d >= recentDay) found = true;
                     }
                     if (m > recentMonth) found = true;
                 }
+
+                //found a recent:
                 if (found) {
-                    
                     recentYear = y;
                     recentMonth = m;
                     recentDay = d;
@@ -88,7 +101,7 @@ function bday() {
                       document.getElementById("most-recent").innerHTML = mostRecentHMTL;
                 }   
             }
-            //does bio birth match today's date?
+            //CHECK IF bio birthDATE match today's date - if so, display on main page:
             if (
                 parseInt(bio.birthDate.substring(0, 2)) == crMonth &&
                 parseInt(bio.birthDate.substring(3, 5)) == crDay
@@ -119,8 +132,11 @@ function bday() {
             }
         });
     });
-    setMenu(0);
-    displayRandomCard();
+    setMenu(0); //show the index page in grey in tabs at top
+
+
+    displayRandomCard(); //show a random card from Fun Facts on main page
+
     /*
      *   CHOOSE RANDOM PHOTOS FOR INDEX PAGE:
      */
@@ -141,14 +157,13 @@ function bday() {
     //get 25 random bio numbers:
     shuffledNumbers = [];
 
-    // shuffledNumbers.push(Math.floor(random() * photoList.length - 1));
-
+    //get 25 random bios:
     for (let index = 0; index < 25; index++) {
         chosen = true;
         while (chosen) {
             num = Math.floor(random() * photoList.length);
             chosen = false;
-            //check if alread chosen:
+            //check if already chosen:
             shuffledNumbers.forEach((element) => {
                 if (element == num) chosen = true;
             });
@@ -156,18 +171,30 @@ function bday() {
         shuffledNumbers.push(num);
     }
 
+    /**
+     * gets bio for carousel photos on main page
+     * 
+     * @param currentPerson URL 
+     * @returns the json bio data of the person
+     */
     function buildBio(currentPerson) {
-        //make name for title:
+        //MAKE NAME FOR TITLE
+
+        //last name:
         stripped = currentPerson.substring(currentPerson.indexOf("?") + 1);
         lastNamePhoto = stripped.substring(
             stripped.indexOf("=") + 1,
             stripped.indexOf("&"),
         );
+
+        //middle name:
         stripped = stripped.substring(stripped.indexOf("&") + 1);
         middleNamePhoto = stripped.substring(
             stripped.indexOf("=") + 1,
             stripped.indexOf("&"),
         );
+
+        //first name:
         stripped = stripped.substring(stripped.indexOf("&") + 1);
         firstNamePhoto = stripped.substring(stripped.indexOf("=") + 1);
 
@@ -176,22 +203,33 @@ function bday() {
 
         //find bio:
         info = getLocation(lastNamePhoto, middleNamePhoto, firstNamePhoto);
+
         ltrIndex2 = info[0];
         personIndex2 = info[1];
 
+        //find last name first letter to locate bio file:
         ltrIndex2 = "abcdefghijklmnopqrstuvwxyz".indexOf(
             lastNamePhoto.charAt(0).toLowerCase(),
         );
+
         bios = getBios();
-        //found bio:
+        //get bio:
         person2 = bios[ltrIndex2][personIndex2];
         return person2;
     }
+    /**
+     * Builds the links to set up carousel on main page:
+     * @param shift shifts by 5 at a time
+     * @returns html wit lnks
+     */
     function buildLinks(shift) {
         html = '<div class="scroll-container"><div class="carousel-primary">';
-        //BUILD HTML TO DISPLAY PHOTOS:
+
+        //build array of 5 links, based on shift:
+
         links = [];
-        for (i = shift; i < 5 + shift; i++) {
+        
+        for (i = shift; i < shift + 5; i++) {
             element = shuffledNumbers[i];
 
             currentPerson = photoList[element];
@@ -211,11 +249,13 @@ function bday() {
         }
         html += "</div></div>";
 
+        
         for (i = 0; i < 5; i++) {
             html += links[i];
         }
         return html;
     }
+    
     let shift = 0;
     html = buildLinks(shift);
 
@@ -224,11 +264,14 @@ function bday() {
     /* rotate 5 photos at a time */
     function rotatePhotos() {
         shift += 5;
-        if (shift == 25) shift = 0;
+        if (shift == 25) shift = 0; //wrap
         html = buildLinks(shift);
+
         document.getElementById("random-intro-photos").innerHTML = html;
     }
 
+    //SET UP THE TIMER TO ROTATE EVERY 4 SECONDS (4000 MILLISECONDS) 
+    //(first one after 7 second delay)
     function repeatedTask() {
         rotatePhotos();
     }

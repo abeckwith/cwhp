@@ -2,7 +2,10 @@
  * Builds the search page
  */
 function search() {
+    //get search term from box:
     keyword = document.getElementById("myInput").value;
+
+    //must be at least 3 characters:
     if (keyword.trim().length <= 2)
         result =
             "<div style='color: red; font-weight:bold'>Search term too short.  Must be 3 characters or more...</div>";
@@ -38,6 +41,7 @@ function search() {
         result = "";
         total = 0;
         totalPeople = 0;
+
         //go through eaach letter:
         for (let index = 0; index < all_bios.length; index++) {
             const letterBios = all_bios[index];
@@ -45,7 +49,8 @@ function search() {
             //go through all people with that last name starting letter:
             for (let index2 = 0; index2 < letterBios.length; index2++) {
                 const person = letterBios[index2];
-                //look for search term (last element will override previous ones in search)
+                
+                //look for search term (next element in this list will override previous ones in search)
                 toSearch = [
                     person.birthDate,
                     person.birthLocation,
@@ -58,7 +63,8 @@ function search() {
                     person.narrative,
                 ];
                 found = false;
-                //go through each keyword to find first that has search term
+
+                //go through each  element to find first that has search term
                 toSearch.forEach((element) => {
                     if (element.toLowerCase().includes(keyword.toLowerCase())) {
                         found = true;
@@ -66,7 +72,7 @@ function search() {
                     }
                 });
                 if (found && total < 2000) {
-                    //narrative without line breaks:
+                    //clean up code that will mess up results display (unclosed tags)
                     text = hasKeyword.replace(/\s+/g, " ");
 
                     text = text.replaceAll("<strong>", "");
@@ -82,16 +88,13 @@ function search() {
                     text = text.replaceAll("<\\b>", "");
                     text = text.replaceAll("<blockquote>", "");
                     text = text.replaceAll("<\\blockquote>", "");
-                    // text = text.replaceAll("<br>", "");
-                    // text = text.replaceAll("<br>", "");
-                    // text = text.replaceAll("<br>", "");
 
                     //get rid of any images:
                     text = removeElements(text, "img");
                     text = removeElements(text, "br");
-                    //    text = removeElements(text, 'h2');
 
                     totalPeople++;
+
                     fName = stripName(person.firstName);
                     mName = stripName(person.middleName);
                     lName = stripName(person.lastName);
@@ -111,25 +114,31 @@ function search() {
                         " " +
                         person.lastName +
                         "</a></span><br>";
+
                     //number of times keywords occurs in this narrative:
                     count = (
                         text
                             .toLowerCase()
                             .match(new RegExp(keyword.toLowerCase(), "g")) || []
                     ).length;
+
                     total += count;
+
                     loc = 0;
-                    //text before and after keyword:
+                    //get the text before and after the keyword (100 characters either side):
                     for (let index = 0; index < count; index++) {
                         loc = text
                             .toLowerCase()
                             .indexOf(keyword.toLowerCase(), loc);
+
                         result += "..." + text.substring(loc - 100, loc);
+                        
                         result +=
                             "<b>" +
                             text.substring(loc, loc + keyword.length) +
                             "</b>";
-                        result +=
+                        
+                            result +=
                             text.substring(
                                 loc + keyword.length,
                                 loc + keyword.length + 100
@@ -145,6 +154,7 @@ function search() {
                 "==> SEARCH RESULTS TRUNCATED: TOO MANY RESULTS. PLEASE REFINE YOUR SEARCH <==<br><br>";
         else msg = "";
 
+        //singular vs. plural:
         if (totalPeople > 1) word = "results";
         else word = "result";
 

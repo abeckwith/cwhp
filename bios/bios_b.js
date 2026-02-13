@@ -283,7 +283,7 @@ b_bios = [
         photoTitles: [],
         dateCreated: "prior to 2009",
         dateUpdated: "",
-
+        
         photoHeights: [],
         editors: "",
         authors: "CWHP volunteers",
@@ -907,6 +907,8 @@ b_bios = [
              association."
             </blockquote>
 
+            Bennett was a consistent presence in Cambridge affairs for much of her life:
+            <br>
             In 1937, Bennett headed a committee that organized an international festival at St. Paul's A.M.E.
              church, featuring "...native speakers from Africa, America, England, and India."
             <br>
@@ -961,7 +963,7 @@ b_bios = [
                 14 October 1937, 18 June 1953, 20 May 1954, 4 
             August 1955, 3 December 1942,  15 June 1967.<Br>
 
-            <i>The Cambridge Tribune</i>,  13 December 1930
+            <i>The Cambridge Tribune</i>,  13 December 1930.<br>
                 <i>U.S., Social Security Death Index</i>, 1935-2014.
 
 

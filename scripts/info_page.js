@@ -1,5 +1,6 @@
-function showBirthdays() {
+function loadInfoPage() {
     setMenu(10);
+
     all_bios = [
         a_bios,
         b_bios,
@@ -28,33 +29,40 @@ function showBirthdays() {
         y_bios,
         z_bios,
     ];
-    recentObjects = [];
-    aliveObjects = [];
-    birthSort = [];
-    allNames = "";
-    bio_count = 0;
 
-    noimgct = 0;
-    noqtct = 0;
-    nbdct = 0;
-    pocct = 0;
+    recentObjects = []; //array of recent entries
+    aliveObjects = []; //array of people likely still alive
+
+    birthSort = [];
+
+    allNames = "";
+    bio_count = 0; //total number of bios
+    noimgct = 0; //total with no image
+    noqtct = 0; //total with no quote
+    nbdct = 0; //total with no birthday
+
+    pocct = 0; //total number of people of color
     pocList = "";
+
     currentDate = new Date();
     currentDate = currentDate.toLocaleDateString("en-US");
 
     nophotocount = 0;
     bDayCount = 0;
 
-    //used in console:
+    //used in console..og
     noQuote = "<br><b>Need QUOTE:</b><br>";
     noImage = "<br><B>Need IMAGE:</b><br>";
     nobirthDate = "<br><b>Need BIRTHDATE:</b><br>";
 
-    womanCount = 0;
-    orgcount = 0;
+    womanCount = 0; //total number that are people
+    orgcount = 0; //total number that are organizations
+
+    //GET AND DISPLAY ALL INFO:
     all_bios.forEach((bioLetterList) => {
         //go through each name for this letter:
         bioLetterList.forEach((thename) => {
+            //people of color count:
             if (thename.poc) {
                 pocct++;
                 pocList +=
@@ -65,6 +73,7 @@ function showBirthdays() {
                     thename.firstName +
                     "\n";
             }
+            //count organizations vs. people:
             if (thename.firstName == "") orgcount++;
             else womanCount++;
 
@@ -79,6 +88,8 @@ function showBirthdays() {
         });
     });
     console.log(pocList);
+
+    //SET UP DISPLAY:
     topDisplay = "TOTAL in database: " + (orgcount + womanCount) + "<br>";
     topDisplay += "# of Women: " + womanCount + "<br>";
     topDisplay += "# of Organizations: " + orgcount + "<br>";
@@ -86,6 +97,7 @@ function showBirthdays() {
     all_bios.forEach((bioLetterList) => {
         //go through each name for this letter:
         bioLetterList.forEach((thename) => {
+            //GET NAME AND MAKE LINK FOR THIS PERSON:
             lName = stripName(thename.lastName);
             fName = stripName(thename.firstName);
             mName = stripName(thename.middleName);
@@ -97,6 +109,8 @@ function showBirthdays() {
                 ", " +
                 thename.firstName +
                 "</a>";
+
+            //check if no birthdate given:
             if (
                 (thename.birthDate.slice(3, 5) == "00" ||
                     thename.birthDate == "") &&
@@ -106,6 +120,8 @@ function showBirthdays() {
                 nobirthDate += theLink + "<br>";
                 nbdct++;
             }
+
+            //check if not quote yet:
             if (thename.narrative.indexOf("blockquote") == -1) {
                 noQuote += theLink + "<br>";
                 noqtct++;
@@ -120,10 +136,13 @@ function showBirthdays() {
             nameForSort = thename.firstName + " " + thename.lastName;
             dateForSort = thename.birthDate.slice(-4);
 
+            //if year has 4 digits, valid year:
             if (dateForSort.length == 4)
                 birthSort.push({ theLink, dateForSort });
 
             bio_count++;
+
+            //set up display for this person:
             nameBuild =
                 bio_count +
                 ". " +
@@ -137,28 +156,33 @@ function showBirthdays() {
             if (nameBuild.slice(-3) === ",  ")
                 nameBuild = nameBuild.substring(0, nameBuild.length - 3);
 
+            //add family name:
             if (thename.familyName != "")
                 nameBuild += " (" + thename.familyName + ")";
 
             nameBuild += "<br>";
 
-            //also gather all names for master list
+            //also gather all names for master list:
             if (thename.firstName == "")
-                //must be org
+                //must be an organization, so bold it:
                 allNames += "<b>" + nameBuild + "</b>";
             else allNames += nameBuild;
 
+            //check if has full date (as opposed to ca.2016)
             hasFullDate =
                 thename.birthDate.substring(0, 2) != "00" &&
                 thename.birthDate.indexOf("ca") == -1;
 
+            //has a full birthdate:
             if (thename.birthDate != "" && hasFullDate) {
                 bDayCount++;
-                //GET YEAR:
+
                 year = parseInt(thename.birthDate.substring(6));
                 dayNum = parseInt(thename.birthDate.substring(3, 5));
                 monthNum = parseInt(thename.birthDate.substring(0, 2));
-                yrs = parseInt(currentDate.slice(-4)) - year;
+
+                yrs = parseInt(currentDate.slice(-4)) - year; //age of person
+
                 lName = stripName(thename.lastName);
                 fName = stripName(thename.firstName);
                 mName = stripName(thename.middleName);
@@ -183,17 +207,18 @@ function showBirthdays() {
 
                 recentObjects.push({ html_build, monthNum, year, dayNum });
             }
+
             //look for women that my still be alive:
             yr = parseInt(thename.birthDate.slice(-4));
+
             currentYear = new Date().getFullYear();
+
             if (currentYear - yr < 100 && thename.deathDate == "") {
                 aliveObjects.push(thename);
             }
         });
     });
-    // console.log(nobirthDate);
-    // console.log(noImage);
-    // console.log(noQuote);
+    //women that don't yet have birthdate and are no longer alive:
     disp =
         nobirthDate +
         "(" +
@@ -208,6 +233,7 @@ function showBirthdays() {
         noqtct +
         ")<br>";
     document.getElementById("other-display").innerHTML = disp;
+
     //SORT ALGORITHM: first by year, then month, then day:
     recentsSorted = recentObjects.sort((a, b) => {
         if (parseInt(a.monthNum) > parseInt(b.monthNum)) return 1;
@@ -226,6 +252,7 @@ function showBirthdays() {
         if (a.lastName < b.lastName) return -1;
         return 0;
     });
+
     bDisplay =
         "<table><tr><th>Birthdate:</th><th>Name:</th><th>Age:</th><th>Born in:</th></tr>";
 
@@ -244,6 +271,8 @@ function showBirthdays() {
         "November",
         "December",
     ];
+
+    //sort by month:
     recentsSorted.forEach((bio) => {
         if (bio.monthNum > previous_month)
             bDisplay +=
@@ -296,11 +325,13 @@ function showBirthdays() {
     });
 
     document.getElementById("summary-numbers").innerHTML = topDisplay;
+
     document.getElementById("birthday-display").innerHTML =
         bDisplay + "<br>TOTAL:" + bDayCount;
+
     document.getElementById("alive-display").innerHTML = aliveDisplay + "<br>";
+
     document.getElementById("all-display").innerHTML = allNames;
+    
     document.getElementById("birth-display").innerHTML = birthDisplay;
-    // + "<br><span id='allnames'><br><br><br><br></span><b>All Names:</b><br>" + allNames;
-    //SORT ALGORITHM: first name:
 }

@@ -12,7 +12,7 @@ body {
     font-size: 2.2vh;
     /* overflow:hidden; */
 }
-#sentence{
+#description{
     font-size:1.2vw;
 }
 .abouts {
@@ -260,7 +260,7 @@ td > a {
     #recents {
         font-size: 3.5vw;
     }
-    #sentence {
+    #description {
         font-size: 2.5vw;
     }
     #recents a {
@@ -640,7 +640,7 @@ a.search-buttons {
         font-style: italic;
         font-size: 2.5vw;
     }
-    #sentence {
+    #description {
         font-size: 2.5vw;
     }
         #gray{

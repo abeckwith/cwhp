@@ -20,7 +20,7 @@ e_bios = [
             pediatrics and received her M.D. degree from Johns Hopkins University in 1918.
             After a residency in pediatrics at Peter Bent Brigham Hospital in Boston, May
             was appointed as a resident at Yale University and rose through the ranks to
-            a position on the faculty. <br><br>
+                 a position on the faculty. <br><br>
 
             With Edwards Park she developed a treatment
             for rickets using cod-liver oil, vitamin D and exposure to sun. In 1924, she
@@ -69,6 +69,7 @@ e_bios = [
              <i>Cambridge City Directory</i>, 1972.<br>
              Second Image from the National Library of Medicine:<br>
              <a class='indent' href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1448446/">https://pmc.ncbi.nlm.nih.gov/articles/PMC1448446/<.a> `,
+        
         photos: ["images_bios/martha_may_eliot.jpg", "images_bios/eliot2.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",

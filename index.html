@@ -7,7 +7,6 @@
     <link rel="apple-touch-icon" sizes="180x180" href="images_util/favicon_io/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="images_util/favicon_io/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="images_util/favicon_io/favicon-16x16.png">
-    <!-- <link rel="manifest" href="/site.webmanifest"> -->
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -15,19 +14,24 @@
     <!-- font: -->
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap"
         rel="stylesheet">
+
     <link href="styles/styles.css" rel="stylesheet">
     <script src="scripts/scripts.js"></script>
     <script src="scripts/photo_names.js"></script>
+    <script src="scripts/index_page_functions.js"></script>
+    <script src="scripts/cards.js"></script>
 
     <!-- for hamburger menu icon: -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
     <meta name="Keywords"
         content="historical, commission, designated, landmarks, easements, conservation, neighborhood, preservation">
+
     <title>Cambridge Women's Heritage Project</title>
+
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://www.w3schools.com/w3css/5/w3.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/5/w3.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
     <script src="bios/bios_a.js"></script>
@@ -56,20 +60,16 @@
     <script src="bios/bios_x.js"></script>
     <script src="bios/bios_y.js"></script>
     <script src="bios/bios_z.js"></script>
-    <style>
 
-    </style>
-    <script src="scripts/index_page_functions.js"></script>
-    <script src="scripts/cards.js"></script>
+
     <style>
         body {
             font-size: 2vw;
-            
-            margin-left:2vh;
-            margin-top:1vh;
-        
+
+            margin-left: 2vh;
+            margin-top: 1vh;
         }
-       
+
         h1,
         h2,
         h3 {
@@ -88,34 +88,33 @@
                 width:350px;
             } */
 
-            h3  {
+            h3 {
                 font-size: 1.5vw;
 
             }
-            .w3-container{
-                font-size:2.5vw;
+
+            .w3-container {
+                font-size: 2.5vw;
             }
         }
-   
     </style>
 </head>
 
-<body onload="bday()">
+<body onload="setUpMainPage()">
 
     <div style="align-content: center">
-        <!-- <img src="images_bios/header.png" style="width:100%;margin-left:0px"> -->
 
         <!-- Menu Bar-->
         <div class="topnav" id="myTopnav">
         </div>
         <div class="fade-in fade-in.delayed">
-                <div class="index-page-text-in-boxes six fade-in"><!--- fade-in.delayed"-->
-                    <div>
-                        <h5 id="celebrate" class="flicker">Celebrate
-                            Cambridge Women's History with us!</h5>
-                    </div>
+            <div class="index-page-text-in-boxes six fade-in"><!--- fade-in.delayed"-->
+                <div>
+                    <h5 id="celebrate" class="flicker">Celebrate
+                        Cambridge Women's History with us!</h5>
                 </div>
             </div>
+        </div>
         <!-- LOGO -->
         <div class="logo">
             <img id="cwhp_logo" src="images_util/logo_xsm.jpg">
@@ -124,53 +123,24 @@
 
         <!-- Intro and clickable images -->
         <div>
-            
+
             <center>
                 <div id="one-card"></div>
-            <!-- <div class="w3-container no-underline-area">
-                <a href="bios.html?ln=Baldwin&mN=Louisa&fN=Maria">
-                    <div class="w3-card-4" style="width:30%;">
-                        <header class="w3-container w3-black">
-                            <h3 style="font-size:1.3vw">
-                                Maria Baldwin
-                            </h3>
-                        </header>
-                        <div class="w3-container"><img src="images_bios/mary louise baldwin.jpeg" alt="Avatar"
-                                class="w3-left w3-circle w3-margin-right" style="width:60px;">
-                            <p>
-                                <span style="font-size:1.1vw">
-                                The first African-American to be appointed as a <b>principal at a public school</b> in
-                                Massachusetts</b> 
-                                (the Agassiz in Cambridge). She was also an activist and a writer
-                                </span>
-                            </p>
-                        
-                        </div>
-                    </div>
-                    </a>
-            </div> -->
             </center>
             <span id="bdaydisplay"></span>
-
             <br>
-            <!-- <div class="fade-in" style="text-align:center;font-size:3vw;">
-                The Cambridge Women's Heritage Project
-            </div> -->
-
             <div id="five-photos" style="margin: 0px auto;">
                 <span id="random-intro-photos"></span>
             </div>
-
-
         </div>
-        <center><span id='photo-legend'>&#x2191; hover to see name &#x2022; click to learn more &#x2191; </span>
+        <center>
+            <span id='photo-legend'>&#x2191; hover to see name &#x2022; click to learn more &#x2191; </span>
             <br>
             <hr style="border: none;height: 1px; background-color: #333; width:75%">
             <span id="most-recent"></span>
-                        <hr style="border: none;height: 1px; background-color: #333; width:75%">
-
+            <hr style="border: none;height: 1px; background-color: #333; width:75%">
         </center>
-    
+
         <!-- nice boxes with text -->
         <div class="index-page-text-in-boxes">
             <ol role="list">
@@ -180,10 +150,6 @@
                 <li class='style-box holographic-card'>CWHP celebrates
                     the contributions of women from the early days of Cambridge to the present - and from every walk of
                     life</li>
-                <!-- <li class='style-box holographic-card'>We currently have over 900 women and women's organizations that have been
-                    nominated for
-                    a place
-                    in the database</li> -->
                 <li class='style-box holographic-card'>
                     We welcome your nominations,
                     your corrections, or your time to help us research, edit, and improve our database!
