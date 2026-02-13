@@ -26,40 +26,49 @@ function startBio() {
     //get params from URL:
     p = getParams();
     console.log(p);
-    //when page first loads
+
     ltrIndex = 0;
     personIndex = 0;
 
     lastNameParam = "";
     middleNameParam = "";
     firstNameParam = "";
+
+    //get names of person from URL params:
     if (typeof p[0] !== "undefined") lastNameParam = p[0][1]; //[0] is key, [1] is param
     if (typeof p[1] !== "undefined") middleNameParam = p[1][1];
     if (typeof p[2] !== "undefined") firstNameParam = p[2][1];
 
-    //if there are any names in the URL, find location in list from names:
+    //if there are any names in the URL, find location in list from those names:
     if (lastNameParam + middleNameParam + firstNameParam !== "") {
         info = getLocation(lastNameParam, middleNameParam, firstNameParam);
+
         ltrIndex = info[0];
         personIndex = info[1];
+
         ltrIndex = "abcdefghijklmnopqrstuvwxyz".indexOf(
             lastNameParam.charAt(0).toLowerCase(),
         );
     }
+
+    //if something goes wrong, just set to the A bios:
     if (ltrIndex == -1) ltrIndex = 0;
+
     searching = true;
 
-    //take first letter of last name and make sidebar for that letter:
+    //take first letter of last name, which person it is, and make sidebar for that letter/person:
     makeSidebar(ltrIndex, personIndex, false, false, false);
 
     //set up the page basics:
     init(false, false);
+
+    //bold the person currently selected:
     setBoldInSideBar(bios, ltrIndex, personIndex);
 
     if (searching) makeBio(ltrIndex, personIndex, false, false, false);
 }
 /**
- * Displays the most recent bios created
+ * Displays the most recent bios created in Recents page
  * @param {Integer} num number of recents to show
  */
 function showRecents(num) {
@@ -80,23 +89,29 @@ function showRecents(num) {
         "December",
     ];
 
+    /*
+     * FIRST: RECENT ADDITIONS:
+     */
     recentsObjects = [];
     recentCount = 0;
+
     //go through each A-Z bio list:
     all_bios.forEach((bioLetterList) => {
         //go through each name for this letter:
         bioLetterList.forEach((thename) => {
+            //check if has full date - if so, see if recent:
             hasFullDate = thename.dateCreated.substring(0, 2) != "00";
             if (
                 thename.dateCreated != "prior to 2009" &&
                 thename.dateCreated != "" &&
                 hasFullDate
             ) {
-                //GET YEAR:
+                //break up date created into components:
                 year = parseInt(thename.dateCreated.substring(6));
                 dayNum = parseInt(thename.dateCreated.substring(3, 5));
                 monthNum = parseInt(thename.dateCreated.substring(0, 2));
 
+                //get current month/year:
                 currYear = new Date().getUTCFullYear();
                 currMonth = new Date().getMonth();
 
@@ -117,6 +132,7 @@ function showRecents(num) {
                     if (thename.firstName != "") fnm = ", " + thename.firstName;
                     else fnm = "";
 
+                    //put together display:
                     html_build =
                         "<br></i>" +
                         thename.dateCreated.replaceAll(".", "/") +
@@ -133,11 +149,12 @@ function showRecents(num) {
                         "</a></span>,&nbsp;<i> " +
                         strippedTitle +
                         "";
-                    recentsObjects.push({ html_build, monthNum, year, dayNum });
+                    recentsObjects.push({ html_build, monthNum, year, dayNum }); //save data to sort before displaying
                 }
             }
         });
     });
+
     html =
         "<Center><span class='nice-header2'>THESE " +
         recentCount +
@@ -145,6 +162,9 @@ function showRecents(num) {
         RECENT_MONTHS_LIMIT +
         " MONTHS:</span><br></center>";
 
+    /*
+     * NEXT: RECENT EDITS
+     */
     //SORT ALGORITHM: first by year, then month, then day:
     r = recentsObjects.sort((a, b) => {
         // Primary sort: by age (ascending)
@@ -162,6 +182,7 @@ function showRecents(num) {
 
     recentUpdatesObjects = [];
     recentUpdatesCount = 0;
+
     //go through each A-Z bio list:
     all_bios.forEach((bioLetterList) => {
         //go through each name for this letter:
@@ -252,6 +273,7 @@ function showRecents(num) {
         html2 += element.html_build;
         console.log(element.html_build);
     });
+
     if (html + html2 != "")
         document.getElementById("recents").innerHTML = html + html2;
     else
@@ -299,7 +321,7 @@ function stripName(nm) {
 /**
  * Changes dots to slashes in dates
  * Also eliminates leading zeroes
- * @param {*} dateWithDots
+ * @param dateWithDots
  */
 function formatDateSlash(dateWithDots) {
     if (
@@ -307,11 +329,11 @@ function formatDateSlash(dateWithDots) {
         dateWithDots.substring(0, 2) != "00"
     ) {
         sep = dateWithDots.split(".");
-        
+
         //day: eliminate leading zero:
         if (sep[0].charAt(0) == "0") m = sep[0].charAt(1);
         else m = sep[0];
-        
+
         //month:eliminate leading zero:
         if (sep[1].charAt(0) == "0") d = sep[1].charAt(1);
         else d = sep[1];
@@ -319,11 +341,13 @@ function formatDateSlash(dateWithDots) {
     }
     //just 4-digit year:
     if (dateWithDots.substring(0, 2) == "00") return dateWithDots.substring(6);
-    
+
     //all others (incl. "before 2009")
     return dateWithDots;
 }
+
 var popup;
+
 /**
  * generates printable version of bio
  */
@@ -332,8 +356,7 @@ function openWin() {
         popup.focus();
     } else {
         var divText = document.getElementById("bio").outerHTML; //get the div
-        console.log(divText);
-        
+
         //lop off extra line breaks from web version:
         divText = divText.replaceAll("Printable Version", "");
         divText = divText.replaceAll("🖨 ", "");
@@ -341,7 +364,10 @@ function openWin() {
         divText =
             "Cambridge Women's Heritage Project (https://cwhp.cambridgema.gov/)<br><br>" +
             divText;
+
+        //CREATE POPUP WINDOW:
         popup = window.open("", "", "width=800,height=700");
+
         var doc = popup.document;
 
         doc.open();
@@ -358,7 +384,6 @@ function openWin() {
  */
 let person = "";
 function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
-
     //get all JSON bios for this letter:
     bios = getBios();
 
@@ -373,6 +398,7 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
     //name:
     html += "<div class='name-heading'><strong><span id='full-name'>";
 
+    //SHOW NAME AT TOP:
     if (person.firstName !== "") html += person.firstName + " ";
     if (person.middleName !== "") html += person.middleName + " ";
     if (person.lastName !== " ") html += person.lastName + " ";
@@ -388,6 +414,7 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
             ")</span> ";
     else html += "</span>";
 
+    //SET TITLE:
     if (person.firstName != "")
         document.title =
             "CWHP: " + person.lastName + ", " + person.firstName + "";
@@ -395,13 +422,13 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
 
     html += "</strong></div>";
 
-    //title and birth info:
+    //add title and birth info:
     html +=
         "<strong><span class='person-title'>" +
         person.title +
         "</span></strong>";
 
-    //birth/death info:
+    //add birth/death info:
     if (person.birthDate != "" || person.birthLocation != "")
         html +=
             "<div>" +
@@ -415,8 +442,9 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
         html += "<div>" + dth + formatLocation(person.deathLocation) + "</div>";
     }
 
-    //has first image
+    //has first image:
     if (person.photos[0] != "") {
+        //set height of image or default:
         if (person.photoHeights.length != 0 && person.photoHeights[0] != "")
             height = person.photoHeights[0];
         else height = 300;
@@ -430,7 +458,10 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
                 person.photoTitles[0] +
                 "</i></td></tr>";
         else title = "";
+
         pushPhoto = "";
+
+        //adds line breaks to push photo down:
         if (person.photoPos != undefined && person.photoPos.length != 0)
             if (person.photoPos[0] != "") {
                 pushPhoto = "";
@@ -451,11 +482,11 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
             "</table>";
     }
 
-    //narrative:
+    //add narrative:
     narr = person.narrative;
     html += "<br>" + narr;
 
-    //possible second image:
+    //add possible second image:
     if (person.photos.length > 1 && person.photos[1] != "") {
         //go through all photos:
         tbl = "<table width='2vh'>";
@@ -486,21 +517,24 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
         html += "</table>";
     }
 
-    //references & date updated:
+    //add references & date updated:
     if (person.references.trim() !== "") {
         refIndent = "";
+
         refs = person.references.replaceAll("<Br>", "<br>");
         refs = refs.replaceAll("<BR>", "<br>");
 
+        //split on BR so I can add references class to style each:
         refs = refs.split("<br>");
-        console.log(refs);
+
         refs.forEach((element) => {
             refIndent += "<span class='references'>" + element + "</span><Br>";
         });
+
         html += "<br><br><strong>References:</strong><br>" + refIndent; //person.references;
     }
 
-    //link to open printable version:
+    //add link to open printable version:
     html +=
         "<br><br><span id='printy'><a onclick='openWin()'><u><b>&#x1F5A8; Printable Version</b></u></a></span>";
 
@@ -509,9 +543,11 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
         "<div class='bottom-line'>Entry created: <B>" +
         formatDateSlash(person.dateCreated) +
         "</b>";
+
     lu = "";
     if (person.dateUpdated !== "")
         lu = "Last updated: <B>" + formatDateSlash(person.dateUpdated) + "</b>";
+
     atr = "";
     edtr = "";
     if (person.authors.trim() !== "")
@@ -543,8 +579,7 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
             if (index == indexOfPerson) {
                 element.className = "selected-ltr";
             } else {
-                element.style.backgroundColor =
-                    "white"; 
+                element.style.backgroundColor = "white";
                 element.classList.remove("selected-ltr");
                 element.classList.add("name-link");
             }
@@ -552,24 +587,44 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
     //reset scroll to top of bio when going to new bio:
     bioWindow = document.getElementById("bio");
     bioWindow.scrollTop = 0;
-    // setBoldInSideBar(bios, currentLetter, currentPersonIndex);
 }
+/**
+ * Make bio based on click of name
+ * @param {Integer} ltrIndex index of letter in alphabet
+ * @param {Integer} indexOfPerson index of person within letter
+ * @param {Integer} initial startup
+ * @param {Boolan} search searching or not
+ * @param {Boolean} topical topical vs. name
+ */
 function onclickForMakeBio(ltrIndex, indexOfPerson, initial, search, topical) {
     makeBio(ltrIndex, indexOfPerson, initial, search, topical);
     bios = getBios();
+
     //GET PERSON JSON:
     person = bios[ltrIndex][indexOfPerson];
+
     bioURL =
         "/" + getHref(person.lastName, person.middleName, person.firstName);
-    window.history.pushState({}, "New Title", bioURL);
+
+    window.history.pushState({}, "New Title", bioURL); //set URL, since page doesn't change
+
     setBoldInSideBar(bios, ltrIndex, indexOfPerson);
 }
-
+/**
+ * Make bio based on click of letter
+ * @param {Integer} ltrIndex index of letter in alphabet
+ * @param {Integer} indexOfPerson index of person within letter
+ * @param {Integer} initial startup
+ * @param {Boolan} search searching or not
+ * @param {Boolean} topical topical vs. name
+ */
 function onclickLetter(letterIndex, personIndex, stepping, topical, search) {
     makeSidebar(letterIndex, personIndex, stepping, topical, search);
+
     bios = getBios();
     //GET PERSON JSON:
     person = bios[letterIndex][personIndex];
+
     bioURL =
         "/" + getHref(person.lastName, person.middleName, person.firstName);
     window.history.pushState({}, "New Title", bioURL);
@@ -590,14 +645,16 @@ function makeSidebar(letterIndex, personIndex, stepping, topical, search) {
     //fill array of names for left side:
     namesLists = [];
     strippedNamesList = [];
+
     all_bios.forEach((bioLetterList) => {
         names = [];
         strippedNames = [];
         bioLetterList.forEach((thename) => {
-
+            //get name from bio:
             lName = stripName(thename.lastName);
             fName = stripName(thename.firstName);
             mName = stripName(thename.middleName);
+
             strippedNames.push([lName, mName, fName]);
 
             if (thename.firstName !== "") {
@@ -605,21 +662,25 @@ function makeSidebar(letterIndex, personIndex, stepping, topical, search) {
                     thename.middleName != "" &&
                     thename.middleName.charAt(0) != '"'
                 )
-                    mid = thename.middleName.charAt(0) + ".";
+                    mid = thename.middleName.charAt(0) + "."; //middle initial
                 else mid = "";
+
                 names.push(
                     thename.lastName + ", " + thename.firstName + " " + mid,
                 );
-            } else names.push(thename.lastName); 
+            } else names.push(thename.lastName);
         });
         namesLists.push(names);
         strippedNamesList.push(strippedNames);
     });
+
     //build each entry, clickable:
     if (!topical && !search) {
         for (i = 0; i < namesLists[letterIndex].length; i++) {
+            //get name for display:
             firstCommaLast = namesLists[letterIndex][i].replaceAll("'", "");
 
+            //build table entry:
             toAdd =
                 "<tr><td class='name-link' id='name-" +
                 letterIndex +
@@ -659,6 +720,13 @@ function makeSidebar(letterIndex, personIndex, stepping, topical, search) {
 
     if (!topical) setBoldInSideBar(all_bios, letterIndex, personIndex);
 }
+/**
+ * Eliminates bad characters from names, then makes link to bio from names
+ * @param {String} l last name
+ * @param {String} m  middle name
+ * @param {String} f first name
+ * @returns html of bio
+ */
 function getHref(l, m, f) {
     l = l.replaceAll(",", "");
     l = l.replaceAll("'", "");
@@ -672,12 +740,12 @@ function getHref(l, m, f) {
     );
 }
 /**
- *
+ * General sorting algorithm based on up to 3 properties
  * @param  jsonArray array of JSON values
  * @param {String} prop1 sort by this property first
  * @param {String} prop2  sort by this property second
  * @param {String} prop3  sort by this property third
- * @returns
+ * @returns sorted array
  */
 function sortJsonByProperties(jsonArray, prop1, prop2, prop3) {
     jsonArray = jsonArray.sort((a, b) => {
@@ -691,10 +759,10 @@ function sortJsonByProperties(jsonArray, prop1, prop2, prop3) {
     });
     return jsonArray;
 }
-/**
- * create categories list with corresponding people names
- */
 let catArray = [];
+/**
+ * returns array of all bios files, sorted by name
+ */
 function getBios() {
     all_bios = [
         a_bios,
@@ -739,11 +807,13 @@ function getBios() {
  */
 function setupCategories() {
     document.getElementById("side-table").innerHTML = "NAMES:";
+
     document.getElementById("bio").innerHTML = "BIO:";
 
     var all_bios = getBios();
 
     allCats = {};
+
     for (let ltr = 0; ltr < all_bios.length; ltr++) {
         //get list of people for this letter:
         bio_for_ltr = all_bios[ltr];
@@ -754,12 +824,16 @@ function setupCategories() {
             personIndex < bio_for_ltr.length;
             personIndex++
         ) {
+            //get person:
             person = bio_for_ltr[personIndex];
 
             //get categories for this person:
             currentCat = person.categories;
+
+            //go through all categories for this person:
             currentCat.forEach((cat) => {
                 mid = "";
+                //build name display:
                 if (person.middleName != "") mid = person.middleName.charAt(0);
                 nm = person.lastName + ", " + person.firstName + " " + mid;
 
@@ -816,7 +890,7 @@ function removeElements(html, el) {
  * @param {String} fn
  * @param {String} mn
  * @param {String} ln
- * @return array with letter index and location index of person specified
+ * @return 2-element array with letter index and location index of person specified
  */
 function getLocation(ln, mn, fn) {
     indexofLetter = 0;
@@ -878,7 +952,7 @@ function showNamesForTopical(option) {
 /**
  *
  * Formats the date for display
- * @param {*} date the date in the form MM.DD.YYYY
+ * @param date the date in the form MM.DD.YYYY
  * @returns formatted date (currently Month day, YEAR)
  */
 function formatDate(prefix, date) {
@@ -944,7 +1018,6 @@ function formatLocation(loc) {
  * Creates the menu bar at the top of each page
  * @param {Integer} whichOneGray the index of the menu item that will be set to grey
  */
-//testing
 function setMenu(whichOneGray) {
     menu =
         '<a id="0" class="top-links" href="index.html">Home</a>' +
@@ -1020,15 +1093,18 @@ function generateAndShuffleRange(start, end) {
 }
 var numInRandomList = 0;
 var all_people = [];
-
+/**
+ * Sets up Subject Index page
+ */
 function startTopical() {
     setMenu(2);
-    setupCategories(); //hello?
+    setupCategories();
     makeSidebar(0, 0, false, true, false);
     init(true, false);
 }
 /**
  * chooses a random person
+ * Called by the Random button
  */
 function ranPerson() {
     setTotals(false);
@@ -1046,7 +1122,9 @@ function ranPerson() {
             ltrCount++;
         });
 
+    //pick one:
     chosen = Math.floor(Math.random() * all_people.length);
+
     //get letter and person within letter:
     currentLetter2 = all_people[chosen][0];
     currentPersonIndex2 = all_people[chosen][1];
@@ -1089,6 +1167,7 @@ window.addEventListener("popstate", (event) => {
 });
 /**
  * Go to previous person (wraps to next letter when needed)
+ * calle by Previous button
  */
 function previous() {
     currentPersonIndex--;
@@ -1107,7 +1186,6 @@ function previous() {
         strippedNamesList[currentLetter][currentPersonIndex][1],
         strippedNamesList[currentLetter][currentPersonIndex][2],
     );
-    // window.open(site, "_self");
     makeBio(currentLetter, currentPersonIndex, true, false, false);
     document.getElementById(
         "name-" + currentLetter + "-" + currentPersonIndex,
@@ -1122,6 +1200,7 @@ function previous() {
 }
 /**
  * Go to nextperson (wraps to next letter when needed)
+ * called by Next button
  */
 function next() {
     currentPersonIndex++;
@@ -1153,7 +1232,7 @@ function next() {
     setBoldInSideBar(bios, currentLetter, currentPersonIndex);
 }
 /**
- * Build clickable alphabet list
+ * Build clickable list of letters of alphabet, set up buttons on bio page
  * @param {Boolean} topical true if called from topical.html
  * @param {Boolean} search true if called from search.html
  */
@@ -1161,7 +1240,7 @@ function init(topical, search) {
     //get rid of ltr after done with topics
     let alphaList = "SELECT: ";
 
-    //build all links:
+    //build all letter links:
     for (let index = 0; index < 26; index++) {
         const element = alphabet[index];
 
@@ -1176,18 +1255,19 @@ function init(topical, search) {
             "</a>";
     }
 
+    //add other divs to bio page:
     html =
         '<div style="margin: 0vh 5vw 0vh 5vw;">' +
-        "<Center>" +
+        "<center>" +
         "<h1 style='margin: 1vh 5vw 0vh 5vw;'>" +
         '    <div id="opening-pictures">Cambridge Women\'s Heritage Project</div>';
     html +=
         '</Center><p style="font-size:2.5vh; margin-top:0.5vh; margin-bottom:0.5vh" align="center">';
 
-    //ALPHABET LIST:
+    //add ALPHABET LIST:
     if (!topical && !search) html += alphaList;
 
-    //prev, random, next buttons:
+    //add prev, random, next buttons:
     if (!topical && !search)
         html +=
             "<center>" +
@@ -1202,12 +1282,7 @@ function init(topical, search) {
     document.getElementById("intro-HTML").innerHTML = html;
 
     //bottom of page:
-    if (!topical && !search)
-        html =
-            // "<center>" +
-            // alphaList +
-            // "</center>" +
-            '<div style="margin-bottom:50px"> </div>';
+    if (!topical && !search) html = '<div style="margin-bottom:50px"> </div>';
     else html = "";
 
     document.getElementById("end-HTML").innerHTML = html;
