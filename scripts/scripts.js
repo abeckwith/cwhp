@@ -338,7 +338,7 @@ function openWin() {
         divText = divText.replaceAll("Printable Version", "");
         divText = divText.replaceAll("🖨 ", "");
 
-\        divText =
+        divText =
             "Cambridge Women's Heritage Project (https://cwhp.cambridgema.gov/)<br><br>" +
             divText;
         popup = window.open("", "", "width=800,height=700");
