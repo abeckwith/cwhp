@@ -109,5 +109,6 @@ photoList = [
     "bios.html?ln=Peirce&mN=Melusina&fN=Harriet",
     "bios.html?last=Bee,%20The&middle=&first=",
     "bios.html?last=Squier&middle=Allegra&first=Dorothy",
-    "bios.html?last=Goddard-CambridgeGraduatePrograminSocialChange&middle=&first="
+    "bios.html?last=Goddard-CambridgeGraduatePrograminSocialChange&middle=&first=",
+    "bios.html?last=DeGuglielmo&middle=Onesta&first=Mary"
 ];
