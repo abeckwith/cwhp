@@ -281,5 +281,5 @@ function setUpMainPage() {
 
         // after initial rotate:
         setInterval(repeatedTask, 7000);
-    }, 4000);
+    }, 7000);
 }
