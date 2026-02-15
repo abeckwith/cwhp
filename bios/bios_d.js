@@ -1138,4 +1138,95 @@ d_bios = [
         authors: "CWHP volunteers",
         categories: ["Businesswoman"],
     },
+        {
+        poc: false,
+        organization: false,
+        lastName: "DeGuglielmo",
+        firstName: "Mary",
+        middleName: "Onesta",
+        familyName: "Grosso",
+
+        title: `Parish founder, mother`,
+        birthDate: "12.24.1885",
+        birthLocation: "Tufo, Italy",
+        deathDate: "01.05.1969",
+        deathLocation: "Cambridge, Massachusetts",
+        narrative: `
+            
+        Mary Grosso immigrated to the United States in 1891 at age 6, with her siblings and her parents 
+        Giuseppe Grosso and Filomena Maria Ciampa Grosso, from Tufo, a tiny town in Southern Italy. At the time, 
+        that region of Southern Italy was experiencing severe poverty, with a mostly illiterate and landless population, 
+        in the middle of an economic crisis. Upon arrival in Boston, Mary's family settled the North End.<br><br>
+
+        Mary Grosso was living on Prince Street in the North End in 1900 when she married Augustino DeGuglielmo, who 
+        lived next door. Mary was working as a candy maker at the time and Augustino as a "weigher."<br><br>
+        
+        By 1908, the couple had moved to East Cambridge where they would spend the rest of their lives. By 1913, 
+        they had purchased a triple-decker at 795 Cambridge Street, where Augustino also ran his new real estate 
+        business. Augustino died in 1934, but DeGuglielmo remained at that address until her death in 1969.<br><br>
+
+        DeGuglielmo and her husband helped co-found the parish of Saint Francis of Assisi in Cambridge in 1917. For 
+        her lifetime of dedication to St. Francis church, the Franciscan Order later made DeGuglielmo an honorary 
+        member of the Order. In 1935, Mayr DeGuglielmo was listed as the owner of another building, at 48-50 Seventh 
+        Street, in East Cambridge. 
+
+        <br><br>The couple had ten children: six boys and four girls. Details of the lives of some of her children
+         help indicate the values that Mary passed on to them and the family's deep connection to service in the City of 
+         Cambridge:
+
+        <ul>
+        <li>
+        Joseph DeGuglielmo was the oldest. He attended Harvard and then was a Cambridge city solicitor, City Council 
+        member, Mayor, and City Manager, and later became an assistant district attorney of Middlesex County and a 
+        judge of the Boston Municipal Court (he had also been a friend of John F. Kennedy before he was elected president).
+        </li>
+
+        <li>
+        Antoine DeGuglielmo was a member of the clergy.
+        </li>
+
+        <li>
+        Mary Angela DeGuglielmo was as a high school teacher, working with physically handicapped students in Cambridge.
+        </li>
+
+
+        <li>
+        Robert DeGuglielmo was a marine and was part of the landing on Guadalcanal in World War II.
+        </li>
+
+        <li>
+        Lillian DeGuglielmo Ferraro was the director of the Cambridge Housing Authority
+        </li>
+
+        <li>
+        Lawrence DeGuglielmo was a treasurer for the campaigns of candidates running for Cambridge offices.
+        </li>
+
+        <li>
+        Frances DeGuglielmo Tingle was a social worker in Cambridge.
+        </ul>`,
+        otherNotes: "",
+        references: `
+           <i>The Cambridge Sentinel</i>, 3 January 1920, 10 December 1938.<br>
+            <i>The Cambridge Chronicle</i>, 9 October 1947, 9 January 1969, 13 February 2002.<br>
+            <i>The Cambridge Tribune</i>, 2 August 1935.<br>
+            <i>U.S. Census</i>, 1920.<br>
+            <i>Massachusetts, U.S., Marriage Records</i>, 1840-1915.<br>
+            <i>U.S., World War I Draft Registration Cards</i>, 1917-1918.<br>
+            <i>FindaGrave</i>:<br>
+            <a class='indent' href="https://www.ancestry.com/search/collections/60525/records/72573655">https://www.ancestry.com/search/collections/60525/records/72573655</a>
+            <br>
+            <i>PBS Destination America:</i><br>
+            <a class='indent' href="https://www.pbs.org/destinationamerica/usim_wn.html">https://www.pbs.org/destinationamerica/usim_wn.html</a>
+                    `,
+        photos: ["images_bios/deguglielmo.png"],
+        photoTitles: [""],
+        dateCreated: "02.15.2026",
+        dateUpdated: "",
+
+        photoHeights: [""],
+        editors: "",
+        authors: "Anthony Beckwith",
+        categories: ["Church member"],
+    },
 ];
