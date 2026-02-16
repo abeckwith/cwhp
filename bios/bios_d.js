@@ -1138,7 +1138,7 @@ d_bios = [
         authors: "CWHP volunteers",
         categories: ["Businesswoman"],
     },
-        {
+    {
         poc: false,
         organization: false,
         lastName: "DeGuglielmo",
@@ -1228,5 +1228,70 @@ d_bios = [
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Church member"],
+    },
+        {
+        poc: false,
+        organization: false,
+        lastName: "DeVito",
+        firstName: "Jennnie",
+        middleName: "",
+        familyName: "Grosso",
+
+        title: `Parish founder, cook, volunteer`,
+        birthDate: "00.00.1884",
+        birthLocation: "Boston, Massachusetts",
+        deathDate: "10.31.1995",
+        deathLocation: "Cambridge, Massachusetts",
+        narrative: `
+            
+            
+        Jennie Grosso's parents were born in Italy, but they had come to Boston by the time Jennie was born.
+        Her family moved to Cambridge when she was 16 years old and she stayed in the city for the next 85 years,
+         most of that time on Cambridge Street. Her sister was 
+         <a href="https://cwhp.cambridgema.gov/bios.html?last=DeGuglielmo&middle=Onesta&first=Mary
+        ">Mary DiGuglielmo</a>.<br><Br>
+
+        Jennie married Italian-born Modestino DeVito and served as the Italian Catholic Women's Association 
+        president and as the chair of the Cambridge's Lodge Stella D'Italia No. 1062, Order of the Sons and 
+        Daughters of Italy. She was a delegate at the statewide convention for the Son's of Italy and advocated for 
+        making Columbus Day a holiday to celebrate Italian heritage. She worked with the Salvation Army and helped 
+        sponsor concerts, plays, and musicals in Cambridge. She also worked as a knitter with the Red Cross, during 
+        World War II. <br><Br>
+
+        She and her husband were founding members of St. Francis of Assisi Church and she continued to be active in 
+        the church for her entire life. For 21 years, starting in 1933, she and her husband ran Musty's Restaurant 
+        (coined from her husband Modestino's nickname "Musty") on 174-176 Gore Street in East Cambridge, where 
+        Jennie was also the cook. <br><Br>
+
+
+        In 1974, Jennie DeVito served on the Italian Heritage Committee that helped produce a 3-day event for the
+         Cambridge Public Library: "The Italian Heritage in Cambridge". In 1976, when she was 92, she was chosen
+          as one of the narrators for Cambridge Public Library film "Heritage of a City." In 1984, the Sons of 
+          Italy held a celebration for her 100th birthday. 
+        Jennie's obituary also stated that she owned the New Ideal Variety Store in Cambridge.<br><Br>
+
+        Mary had one son, Anthony DeVito, who earned his degree in Romance Languages from Harvard University, 
+        served in the United States Army, got a Ph.D., and was a professor of languages at Amherst College and 
+        at Boston University. He served as the director of the Cambridge Public Libraries in the 1940s. The music
+         room at the Main Branch was named after him in 1996.<br><Br>
+        `,
+        otherNotes: "",
+        references: `
+                <i>The Cambridge Tribune</i>, 12 October 1929.<br>
+        <i>The Cambridge Chronicle</i>, 19 November 1936, 18 January 1940, 27 January 1944, 26 September 1946, 
+        4 April 1974,  15 September 1994,  9 November 1995,  28 November 1996.<br>
+        <i>Cambridge City Directory<i>, 1944.<br>
+        <i>The Boston Globe<i>,  Aug 17, 1968.<br>
+        <i>The Cambridge Sentinel<i>, 16 January 1937.
+                    `,
+        photos: ["images_bios/devito_camb_sentinel_jan_16_1937.png", "images_bios/devito_sep_15_1994.png"],
+        photoTitles: ["1937: The restaurant that Jennie ran with her husband", "The Cambridge Chronicle, Sept. 15, 1994"],
+        dateCreated: "02.16.2026",
+        dateUpdated: "",
+
+        photoHeights: [""],
+        editors: "",
+        authors: "Anthony Beckwith",
+        categories: ["Church member", "Cook", "Volunteer"],
     },
 ];
