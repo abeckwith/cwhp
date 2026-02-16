@@ -1233,7 +1233,7 @@ d_bios = [
         poc: false,
         organization: false,
         lastName: "DeVito",
-        firstName: "Jennnie",
+        firstName: "Jennie",
         middleName: "",
         familyName: "Grosso",
 
