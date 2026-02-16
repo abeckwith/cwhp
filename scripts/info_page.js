@@ -102,7 +102,7 @@ function loadInfoPage() {
             fName = stripName(thename.firstName);
             mName = stripName(thename.middleName);
             theLink =
-                "<a href='" +
+                "<a target='_blank' href='" +
                 getHref(lName, mName, fName) +
                 "'>" +
                 thename.lastName +
@@ -160,13 +160,21 @@ function loadInfoPage() {
             if (thename.familyName != "")
                 nameBuild += " (" + thename.familyName + ")";
 
-            nameBuild += "<br>";
+            // nameBuild += "<br>";
 
+            theLink =
+                "<a target='_blank' href='" +
+                getHref(lName, mName, fName) +
+                "'>";
+               
             //also gather all names for master list:
             if (thename.firstName == "")
                 //must be an organization, so bold it:
-                allNames += "<b>" + nameBuild + "</b>";
-            else allNames += nameBuild;
+                theLink += "<b>" + nameBuild + "</b>";
+            else theLink += nameBuild;
+            allNames += theLink + "<br>";
+
+            
 
             //check if has full date (as opposed to ca.2016)
             hasFullDate =
@@ -191,7 +199,7 @@ function loadInfoPage() {
                 html_build =
                     "<tr><td>" +
                     thename.birthDate.replaceAll(".", "/") +
-                    "</b></td><td style='padding-left:10px;'><a href='" +
+                    "</b></td><td style='padding-left:10px;'><a target='_blank' href='" +
                     getHref(lName, mName, fName) +
                     "'>" +
                     thename.lastName +
@@ -293,7 +301,7 @@ function loadInfoPage() {
         fName = stripName(bio.firstName);
         mName = stripName(bio.middleName);
         aliveDisplay +=
-            "<tr><td><a href='" +
+            "<tr><td><a target='_blank' href='" +
             getHref(lName, mName, fName) +
             "'>" +
             bio.lastName +
