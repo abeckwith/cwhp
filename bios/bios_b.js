@@ -2386,6 +2386,16 @@ b_bios = [
             to Caroline Hawkins and Edmund H. Hight. Her extended family moved to Cambridge
             in 1890 when she was seven, where she was raised and educated (55 Essex Street).
 
+            <Br><Br>When Charlotte was about three years old, according to the Charlotte Hawkins Brown Museum... 
+            <blockquote>
+            "By the
+             time that I was twelve years old my desire for leadership had asserted itself, and in the city of Cambridge 
+             I had organized a little kindergarten department in the Sunday School of the Union Baptist Church. Before I
+              was fourteen years of age, I had been chosen orator on a very important occasion when the minister of the 
+              church was celebrating his fifteenth anniversary as pastor, and in the presence of the governor of the 
+              State and his council I had dared to eulogize this pastor and receive the plaudits of the great throng."
+              </blockquote>
+
             Charlotte attended public schools in Cambridge, including the Cambridge English High School. 
             She then attended Massachusetts State Normal School. 
             
@@ -2396,7 +2406,7 @@ b_bios = [
             Alice Freeman Palmer who had funded her education. Although originally intended
             to educate all county children, she soon began to emphasize secondary and junior
             college education. She met and married a Harvard graduate, Edward S. Brown,
-            but the marriage lasted only five years.
+            but the marriage lasted only five years. She remained with the school for almost 50 years.
             
             <br><br> Attracting funding and students throughout
             the country, Charlotte Hawkins Brown continued to return to Cambridge each summer
@@ -2411,13 +2421,19 @@ b_bios = [
             Press: 1980).<br>
             Photo from wikipedia.com:<br>
             <a class='indent' href="https://en.wikipedia.org/wiki/Charlotte_Hawkins_Brown#/media/File:Charlotte_Eugenia_Hawkins_Brown.jpg">https://en.wikipedia.org/wiki/Charlotte_Hawkins_Brown#/media/File:Charlotte_Eugenia_Hawkins_Brown.jpg</a><br>
-            <br>Wikipedia entry:<br>
+            Second photo and quote from Charlotte Hawkins Brown Museum:<br>
+            <a class='indent' href="https://web.archive.org/web/20181002211340/http://www.nchistoricsites.org/chb/early-life.htm">https://web.archive.org/web/20181002211340/http://www.nchistoricsites.org/chb/early-life.htm</a>
+            <Br>
+            Biograhy.com:<br>
+            <a class='indent' href="https://www.biography.com/people/charlotte-hawkins-brown-206525">https://www.biography.com/people/charlotte-hawkins-brown-206525</a><br>
+
+            Wikipedia entry:<br>
             <a class='indent' href="https://en.wikipedia.org/wiki/Charlotte_Hawkins_Brown">https://en.wikipedia.org/wiki/Charlotte_Hawkins_Brown</a>
         `,
-        photos: ["images_bios/brown_charlotte.jpg"],
-        photoTitles: [],
+        photos: ["images_bios/brown_charlotte.jpg","images_bios/brown_charlotte2.jpg"],
+        photoTitles: ["", "1905"],
         dateCreated: "prior to 2009",
-        dateUpdated: "12.21.2025",
+        dateUpdated: "02.18.2026",
 
         photoHeights: [],
         editors: "Anthony Beckwith",
