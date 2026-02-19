@@ -12,9 +12,17 @@ body {
     font-size: 2.2vh;
     /* overflow:hidden; */
 }
-#description{
-    font-size:1.2vw;
+#description {
+    font-size: 1.2vw;
 }
+.no-underline:link,
+.no-underline:visited,
+.no-underline:hover,
+.no-underline:active {
+    text-decoration: none; /* Removes the underline from all link states */
+    color: inherit; /* Makes the link text color inherit from its parent element */
+}
+
 .abouts {
     margin-left: 10vw;
     margin-right: 10vw;
@@ -237,20 +245,20 @@ td > a {
 .right {
     border-radius: 8px;
 }
-#gray{
-    font-size:1.6vw;
-    color: #EAD470;
+#gray {
+    font-size: 1.6vw;
+    color: #ead470;
 }
-.best-color{
-    color:#EAD470;
+.best-color {
+    color: #ead470;
 }
-.references{
+.references {
     display: inline-block;
-     text-indent: -20px;
-     padding-left: 20px;
+    text-indent: -20px;
+    padding-left: 20px;
 }
-.indent{
-    margin-left:2.5vw;
+.indent {
+    margin-left: 2.5vw;
 }
 /* table{
     font-size:89%; 
@@ -314,16 +322,15 @@ td > a {
     #nice-header2 {
         font-size: 2vw;
     }
-            #gray{
-        font-size:2.5vw;
+    #gray {
+        font-size: 2.5vw;
     }
-       #celebrate{
-        font-size:3vw;
+    #celebrate {
+        font-size: 3vw;
     }
-    #latest-link{
-        font-size:3vw;
-}
-
+    #latest-link {
+        font-size: 3vw;
+    }
 }
 /* table{font-size:20%! important;} */
 
@@ -454,21 +461,19 @@ a.letter-links:visited {
     border-radius: 5px;
     text-decoration: none;
 }
-#small-date{
-    font-size:1vw;
+#small-date {
+    font-size: 1vw;
 }
-#latest-link{
-color:blue;
+#latest-link {
+    color: blue;
 }
 .logo {
     padding: 2px;
     text-align: center;
-    margin-bottom:2vw;
-    
+    margin-bottom: 2vw;
 }
-#cwhp-logo{
+#cwhp-logo {
     height: 50vw;
-
 }
 /* RESPONSIVE MENU: */
 .topnav {
@@ -548,7 +553,7 @@ a.search-buttons {
     #cwhp_logo {
         height: 20vw;
         width: auto;
-        margin-bottom:2vw;
+        margin-bottom: 2vw;
     }
     .holographic-card {
         font-size: 10vw;
@@ -643,15 +648,15 @@ a.search-buttons {
     #description {
         font-size: 2.5vw;
     }
-        #gray{
-        font-size:2.5vw;
+    #gray {
+        font-size: 2.5vw;
     }
-    #celebrate{
-        width:75%;
+    #celebrate {
+        width: 75%;
     }
-        #latest-link{
-        font-size:3vw;
-}
+    #latest-link {
+        font-size: 3vw;
+    }
 }
 
 #menu-text {

@@ -163,7 +163,7 @@ function loadInfoPage() {
             // nameBuild += "<br>";
 
             theLink =
-                "<a target='_blank' href='" +
+                "<a target='_blank' class='no-underline' href='" +
                 getHref(lName, mName, fName) +
                 "'>";
                

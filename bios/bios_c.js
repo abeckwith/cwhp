@@ -260,9 +260,19 @@ c_bios = [
             the American Philosophical Society (1925). She was honored with honorary degrees
             from Oxford and the University of Groningen. In 1938, she was made William Cranch
             Bond Astronomer at Harvard, one of the first appointments to a named chair made
-            by Harvard.  
-            
+            by Harvard.  <br><br>
+
+            In 1932, when she was 68 years old, the <i>San Bernardino County Sun</i> ran an article on her, where they stated:
+
+            <blockquote>
+            "This vivacious woman finds in her astronomical work the secrete of her youth. As she says,
+             'Every new spectrum is the gateway to a wonderful new world.' She finds covering the sky something
+              of a large assignment but she adores it because astronomy appeals to the imagination.
             <br><br>
+
+            The honors which the scientific world has heaped upon Dr. Cannon are too long to enumerate..."
+            </blockquote>
+            
             She entertained children as well as colleagues at her home at 4
             Bond Street in Cambridge next to the Observatory, and sponsored egg-rolling
             contests at Easter for children on the hill. She was an advocate of women's
@@ -272,20 +282,22 @@ c_bios = [
         otherNotes: "",
         references: `<i>Notable American Women</i> vol I (1950); Ogilvie,
             Marilyn and Joy Harvey. <i>Biographical Dictionary of Women Scientists</i>,
-            (2000).
-              Annie Jump Cannon, head-and-shoulders
-            portrait, 1922.<br>
+            (2000).<br>
+             <i>San Bernardino County Sun</i>, May 13, 1932.<br>
+
+              Annie Jump Cannon, head-and-shoulders portrait, 1922. 
             New York World Telegram and the Sun Newspaper Photograph Collection, Library.
-            of Congress.<br>Image from wikipedia.com:
+            of Congress.
+            <br>Image from wikipedia.com:
             <br><a class='indent' href="https://en.wikipedia.org/wiki/Annie_Jump_Cannon" >https://en.wikipedia.org/wiki/Annie_Jump_Cannon</a>
         `,
         photos: ["images_bios/annie cannon.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "",
+        dateUpdated: "02.19.2026",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Scientist", "Suffragists/Suffrage Group", "Astronomer"],
     },
