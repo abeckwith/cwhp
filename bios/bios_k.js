@@ -56,7 +56,7 @@ k_bios = [
             Gray, Christoper. &quot;Streetscapes/McKin, Mead &amp; White: A Skeptic's View
             of a Renowned Architectural Firm,&quot; <i>New York Times</i>, 2 June 2006,
             online archives.<br>
-            Image from Cambridge Historical Commission.
+            Image from Cambridge Historical Commission archives.
         `,
         photos: ["images_bios/phebe_mitchell.png"],
         photoTitles: [],

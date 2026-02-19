@@ -1283,9 +1283,12 @@ d_bios = [
         <i>Cambridge City Directory<i>, 1944.<br>
         <i>The Boston Globe<i>,  Aug 17, 1968.<br>
         <i>The Cambridge Sentinel<i>, 16 January 1937.
+        <br>Photo of Musty's: Cambridge Historical Commission archives.
                     `,
-        photos: ["images_bios/devito_camb_sentinel_jan_16_1937.png", "images_bios/devito_sep_15_1994.png"],
-        photoTitles: ["1937: The restaurant that Jennie ran with her husband", "The Cambridge Chronicle, Sept. 15, 1994"],
+        photos: ["images_bios/devito_camb_sentinel_jan_16_1937.png", "images_bios/devito_sep_15_1994.png",
+            "images_bios/devito2.jpg"
+        ],
+        photoTitles: ["1937: The restaurant that Jennie ran with her husband", "The Cambridge Chronicle, Sept. 15, 1994", "Musty's, 1941"],
         dateCreated: "02.16.2026",
         dateUpdated: "",
 

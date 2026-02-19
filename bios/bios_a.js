@@ -1532,28 +1532,28 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         a story that gave a window into Antupit's artistry and personality:
         <blockquote>
         "Not long ago while I was shopping in the Evergood Grocery, another customer turned suddenly from
-         the dairy counter and held out her hand. "You don't remember me,” she said. Smiling at my startled 
-         reaction, she told me that 20 years ago she had done my portrait! “It was for the cover of your 
-         first collection of stories,” she said. 
+         the dairy counter and held out her hand. 'You don't remember me,' she said. Smiling at my startled 
+         reaction, she told me that 20 years ago she had done my portrait! 'It was for the cover of your 
+         first collection of stories,' she said. 
 
 
         <br><Br>
-        And then I warmed to the memory of a most agreeable session in the Koby studio at the top of 
+        "And then I warmed to the memory of a most agreeable session in the Koby studio at the top of 
         the narrow flight of stairs next to the Tasty lunch counter. Ms. Antupit had taken time to talk 
         with me about my life and what I had wanted to project in my fiction. Then fixing me in an appropriate 
         pose before Mr. Koby's antique camera, she leaned down to adjust my beret.
 
 
         <br><Br>
-        My publisher had already issued a stern caveat about headgear: "We do not want our authors to appear 
-        on book jackets with their heads concealed by hats.” When I told her this, Frances Antupit smiled. 
-        “They will have to make an exception,” she said, “Your beret conceals nothing. It's part of you, 
-        like John Gielgud's fedora. Just send the photo on. You will see.” Sure enough, the publisher 
-        acknowledged that the beret struck the right note for stories that dealt with life in the Foreign Service. 
+        "My publisher had already issued a stern caveat about headgear: 'We do not want our authors to appear 
+        on book jackets with their heads concealed by hats.' When I told her this, Frances Antupit smiled. 
+        'They will have to make an exception,' she said, 'Your beret conceals nothing. It's part of you, 
+        like John Gielgud's fedora. Just send the photo on. You will see.' Sure enough, the publisher 
+        acknowledged that the beret struck the right note for stories that dealt with life in the Foreign Service.
 
 
         <br><Br>
-        Ms. Antupit's portraits remain jewels in the crown of black and white photography. This kind of 
+       "Ms. Antupit's portraits remain jewels in the crown of black and white photography. This kind of 
         artistry finds little room amid the bustle and roar of the computerized commerce the flash bulb and
          the quick fix that are rapidly eroding the serenity and the charm of a happier Harvard Square."
         </blockquote>
@@ -1567,18 +1567,18 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         <i>The Cambridge Chronicle</i>, 15 May 1986, 25 February 1999, 25 March 1999, 29 July 2004.<br>
 
         Interview with Frances Antupit by Emily Gonzalez and Meta Partenheimer, February 2018.<br>
-
+        Painting of Koby Studios from Cambridge Historical Commission archives.<br>
 
         Legacy.com obituary:<Br>
         <a class='indent' href="https://www.legacy.com/us/obituaries/bostonglobe/name/frances-antupit-obituary?id=60412431">https://www.legacy.com/us/obituaries/bostonglobe/name/frances-antupit-obituary?id=60412431</a>
 
         `,
-        photos: ["images_bios/Antupit_Frances002.jpg" , "images_bios/Antupit_Frances003.jpg" ],
+        photos: ["images_bios/Antupit_Frances002.jpg" , "images_bios/Antupit_Frances003.jpg", "images_bios/antupit3.png" ],
         photoTitles: ["", "Photo by Sam Antupit"],
         dateCreated: "01.30.2026",
         dateUpdated: "",
 
-        photoHeights: ["", "450"],
+        photoHeights: ["", "450", "400"],
         editors:"",
         authors: "Meta Partenheimer, Anthony Beckwith",
         categories: ["Photographer", "Businesswoman"],

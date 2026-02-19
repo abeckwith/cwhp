@@ -269,7 +269,7 @@ y_bios = [
         <a class='indent' href="https://ywcacam.org/">https://ywcacam.org/</a>
         `,
         photos: ["images_bios/YWCA%201916%20girls%20basketball%20team.jpeg"],
-        photoTitles: ["Cambridge YWCA Girls Basketball Team, 1916. Photo courtesy of the Cambridge Historical Commission."],
+        photoTitles: ["Cambridge YWCA Girls Basketball Team, 1916. Photo from Cambridge Historical Commission archives."],
         dateCreated: "prior to 2009",
         dateUpdated: "04.12.2025",
         photoPos: ["3"],
