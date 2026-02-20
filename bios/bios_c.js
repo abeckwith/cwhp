@@ -1235,9 +1235,9 @@ c_bios = [
         deathDate: "",
         deathLocation: "",
         narrative: `
-            <br>Originally from Louisville, Kentucky, Sister Rose Marie Cummings
-            joined the Dominican Order soon after graduation. Sister Rose visited Puerto
-            Rico from 1966 to 1971 and fell in love with the island. 
+            <br>Originally from Louisville, Kentucky, Sister Rose Marie Cummins
+            joined the Dominican Order soon after graduation. Sister Rose lived and taught at the San Carlos School in Aguadilla, Puerto Rico from 1966
+            to 1971 and fell in love with the island. 
             
             <br><br>She worked in Massachusetts
             from 1972 to 1999. In the mid 1970s, she worked in Framingham, Massachusetts as a bilingual
@@ -1256,7 +1256,7 @@ c_bios = [
             living that benefits our environment and those who inhabit it. 
 
             <br><br>
-            Sister Rose commented on the origins of the name Centro Present in 2006: 
+            Sister Rose commented on the origins of the name Centro Presente in 2006: 
             
             <blockquote>
             "I had heard the story about when people were gathered together for prayer, 
@@ -1285,11 +1285,12 @@ c_bios = [
                 href="http://www.massjwj.net/node/653">http://www.massjwj.net/node/653</a>
             <br>
             <i>Cambridge Chronicle</i>, December 21, 2006.
+            <br>Photo courtesy of Rose Marie Cummins.
         `,
-        photos: [""],
+        photos: ["images_bios/Cummins2.png"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "12.17.2025",
+        dateUpdated: "02.20.2026",
 
         photoHeights: [],
         editors: "Anthony Beckwith",
