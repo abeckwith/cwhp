@@ -1,3 +1,25 @@
+function extractHrefsFromString(htmlString) {
+    // 1. Create a new DOMParser instance.
+    const parser = new DOMParser();
+
+    // 2. Parse the HTML string into a Document object.
+    const doc = parser.parseFromString(htmlString, "text/html");
+
+    // 3. Use querySelectorAll to find all 'a' (anchor) elements.
+    const anchorElements = doc.querySelectorAll("a");
+
+    // 4. Extract the 'href' attribute from each element.
+    const urls = Array.from(anchorElements).map((anchor) => {
+        // The .href property returns the absolute URL, even if the attribute is relative.
+        return anchor.href;
+        // Alternatively, use getAttribute('href') to get the exact value as written in the HTML string.
+        // return anchor.getAttribute('href');
+    });
+
+    // 5. Return the list of URLs.
+    return urls;
+}
+
 function loadInfoPage() {
     setMenu(10);
 
@@ -62,6 +84,38 @@ function loadInfoPage() {
     all_bios.forEach((bioLetterList) => {
         //go through each name for this letter:
         bioLetterList.forEach((thename) => {
+            //check for dead links:
+            links = [];
+
+            const foundUrls = extractHrefsFromString(thename.references);
+            if (foundUrls.length != 0) console.log(foundUrls);
+            foundUrls.forEach((link) => {
+                const url = link; //.href;
+
+                // Only check internal links to avoid CORS issues
+                // if (url.startsWith(window.location.origin)) {
+                    fetch(url, { method: "HEAD" }) // Use HEAD for faster checks
+                        .then((response) => {
+                            if (!response.ok) {
+                                console.error(
+                                    `Broken Link: ${url} (Status: ${response.status})`,
+                                );
+                            }
+                        })
+                        .catch((error) => {
+                            console.error(
+                                `Broken Link: ${url} (Error: ${error.message})`,
+                            );
+                        })
+                        .finally(() => {
+                            checkedCount++;
+                            if (checkedCount === links.length) {
+                                console.log("Finished checking all links.");
+                            }
+                        });
+                // }
+            });
+
             //people of color count:
             if (thename.poc) {
                 pocct++;
@@ -77,14 +131,14 @@ function loadInfoPage() {
             if (thename.firstName == "") orgcount++;
             else womanCount++;
 
-            if (thename.deathDate != "" && thename.birthDate != "")
-                console.log(
-                    parseInt(thename.deathDate.slice(-4)) -
-                        parseInt(thename.birthDate.slice(-4)),
-                );
+            // if (thename.deathDate != "" && thename.birthDate != "")
+            //     console.log(
+            //         parseInt(thename.deathDate.slice(-4)) -
+            //             parseInt(thename.birthDate.slice(-4)),
+            //     );
 
-            if (thename.authors.indexOf("CWHP volunteers") != -1)
-                console.log(thename.lastName + " " + thename.firstName);
+            // if (thename.authors.indexOf("CWHP volunteers") != -1)
+            //     console.log(thename.lastName + " " + thename.firstName);
         });
     });
     console.log(pocList);
@@ -166,15 +220,13 @@ function loadInfoPage() {
                 "<a target='_blank' class='no-underline' href='" +
                 getHref(lName, mName, fName) +
                 "'>";
-               
+
             //also gather all names for master list:
             if (thename.firstName == "")
                 //must be an organization, so bold it:
                 theLink += "<b>" + nameBuild + "</b>";
             else theLink += nameBuild;
             allNames += theLink + "<br>";
-
-            
 
             //check if has full date (as opposed to ca.2016)
             hasFullDate =
@@ -340,6 +392,6 @@ function loadInfoPage() {
     document.getElementById("alive-display").innerHTML = aliveDisplay + "<br>";
 
     document.getElementById("all-display").innerHTML = allNames;
-    
+
     document.getElementById("birth-display").innerHTML = birthDisplay;
 }
