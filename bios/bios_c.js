@@ -1271,15 +1271,14 @@ c_bios = [
             in December 2006.
             `,
         otherNotes: "",
-        references: ` &#8220;Sister Rose Marie Cummins&#8221; Environmental
+        references: ` &#8220;Sister Rose Marie Cummins&#8221;, Environmental
             Quality Commission Earth Day, Earth Day 2006.<br> 
-            <a class='indent' 
-                href="http://www.eqc.ky.gov/eday/eday2006/Sister%2BRose%2BMarie%2BCummins.htm">http://www.eqc.ky.gov/eday/eday2006/Sister+Rose+Marie+Cummins.htm</a><br>
-            &#8220;The evolution of the Latino Community in Cambridge Massachusetts&#8221;
+           
+            &#8220;The evolution of the Latino Community in Cambridge Massachusetts&#8221;,
             Professor Deborah Pacini-Hernandez In collaboration with Maira Prez and Melissa
-            Lee, Spring, 2002. Department of Anthropology, Tufts University
-            <br><a class='indent' 
-                href="http://repository01.lib.tufts.edu:8080/fedora/get/tufts:MS083.001.001.00013/bdef:TuftsPDF/getPDF">http://repository01.lib.tufts.edu:8080/fedora/get/tufts:MS083.001.001.00013/bdef:TuftsPDF/getPDF</a>.
+            Lee, Spring, 2002. Department of Anthropology, Tufts University:<br>
+            <a class='indent' href="https://dl.tufts.edu/concern/pdfs/nc580z97x">https://dl.tufts.edu/concern/pdfs/nc580z97x</a>
+         
             <br>Centro Presente's 25th Anniversary and Holiday Fiesta
            
             <br>
