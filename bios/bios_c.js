@@ -1280,9 +1280,8 @@ c_bios = [
             Lee, Spring, 2002. Department of Anthropology, Tufts University
             <br><a class='indent' 
                 href="http://repository01.lib.tufts.edu:8080/fedora/get/tufts:MS083.001.001.00013/bdef:TuftsPDF/getPDF">http://repository01.lib.tufts.edu:8080/fedora/get/tufts:MS083.001.001.00013/bdef:TuftsPDF/getPDF</a>.
-            Centro Presente's 25th Anniversary and Holiday Fiesta
-            <br><a class='indent' 
-                href="http://www.massjwj.net/node/653">http://www.massjwj.net/node/653</a>
+            <br>Centro Presente's 25th Anniversary and Holiday Fiesta
+           
             <br>
             <i>Cambridge Chronicle</i>, December 21, 2006.
             <br>Photo courtesy of Rose Marie Cummins.
@@ -1291,6 +1290,7 @@ c_bios = [
         photoTitles: [],
         dateCreated: "prior to 2009",
         dateUpdated: "02.20.2026",
+	  photoPos: [3],
 
         photoHeights: [],
         editors: "Anthony Beckwith",
