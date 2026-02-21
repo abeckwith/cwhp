@@ -84,35 +84,37 @@ function loadInfoPage() {
     all_bios.forEach((bioLetterList) => {
         //go through each name for this letter:
         bioLetterList.forEach((thename) => {
-            //check for dead links:
-            links = [];
 
+            //CHECK FOR DEAD LINKS
+            //get all URLS in the references for this person:
             const foundUrls = extractHrefsFromString(thename.references);
+
             if (foundUrls.length != 0) console.log(foundUrls);
+            
             foundUrls.forEach((link) => {
                 const url = link; //.href;
 
                 // Only check internal links to avoid CORS issues
                 // if (url.startsWith(window.location.origin)) {
-                    fetch(url, { method: "HEAD" }) // Use HEAD for faster checks
-                        .then((response) => {
-                            if (!response.ok) {
-                                console.error(
-                                    `Broken Link: ${url} (Status: ${response.status})`,
-                                );
-                            }
-                        })
-                        .catch((error) => {
-                            console.error(
-                                `Broken Link: ${url} (Error: ${error.message})`,
-                            );
-                        })
-                        .finally(() => {
-                            checkedCount++;
-                            if (checkedCount === links.length) {
-                                console.log("Finished checking all links.");
-                            }
-                        });
+                    // fetch(url, { method: "HEAD" }) // Use HEAD for faster checks
+                    //     .then((response) => {
+                    //         if (!response.ok) {
+                    //             console.error(
+                    //                 `Broken Link: ${url} (Status: ${response.status})`,
+                    //             );
+                    //         }
+                    //     })
+                    //     .catch((error) => {
+                    //         console.error(
+                    //             `Broken Link: ${url} (Error: ${error.message})`,
+                    //         );
+                    //     })
+                    //     .finally(() => {
+                    //         checkedCount++;
+                    //         if (checkedCount === links.length) {
+                    //             console.log("Finished checking all links.");
+                    //         }
+                    //     });
                 // }
             });
 

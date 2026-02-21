@@ -663,6 +663,9 @@ function makeSidebar(letterIndex, personIndex, stepping, topical, search) {
                     thename.middleName.charAt(0) != '"'
                 )
                     mid = thename.middleName.charAt(0) + "."; //middle initial
+                else if(thename.familyName != "" &&
+                    thename.familyName.charAt(0) != '"')
+                    mid = thename.familyName.charAt(0) + "."; //maiden initial
                 else mid = "";
 
                 names.push(
