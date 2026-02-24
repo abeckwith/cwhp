@@ -20,7 +20,7 @@ function extractHrefsFromString(htmlString) {
     return urls;
 }
 
-function loadInfoPage() {
+function loadInfoPage(checkLinks) {
     setMenu(10);
 
     all_bios = [
@@ -79,45 +79,26 @@ function loadInfoPage() {
 
     womanCount = 0; //total number that are people
     orgcount = 0; //total number that are organizations
-
+    output = "";
+    linkCount = 0;
     //GET AND DISPLAY ALL INFO:
-    all_bios.forEach((bioLetterList) => {
+    if (checkLinks) {
+        letter = window.prompt("A-Z: ").toUpperCase();
+        ltr_index = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".indexOf(letter);
+        bioLetterList = all_bios[ltr_index];
         //go through each name for this letter:
         bioLetterList.forEach((thename) => {
-
             //CHECK FOR DEAD LINKS
             //get all URLS in the references for this person:
             const foundUrls = extractHrefsFromString(thename.references);
-
-            if (foundUrls.length != 0) console.log(foundUrls);
-            
             foundUrls.forEach((link) => {
-                const url = link; //.href;
-
-                // Only check internal links to avoid CORS issues
-                // if (url.startsWith(window.location.origin)) {
-                    // fetch(url, { method: "HEAD" }) // Use HEAD for faster checks
-                    //     .then((response) => {
-                    //         if (!response.ok) {
-                    //             console.error(
-                    //                 `Broken Link: ${url} (Status: ${response.status})`,
-                    //             );
-                    //         }
-                    //     })
-                    //     .catch((error) => {
-                    //         console.error(
-                    //             `Broken Link: ${url} (Error: ${error.message})`,
-                    //         );
-                    //     })
-                    //     .finally(() => {
-                    //         checkedCount++;
-                    //         if (checkedCount === links.length) {
-                    //             console.log("Finished checking all links.");
-                    //         }
-                    //     });
-                // }
+                window.open(link, "_blank");
             });
-
+        });
+    }
+    all_bios.forEach((bioLetterList) => {
+        //go through each name for this letter:
+        bioLetterList.forEach((thename) => {
             //people of color count:
             if (thename.poc) {
                 pocct++;
@@ -143,8 +124,6 @@ function loadInfoPage() {
             //     console.log(thename.lastName + " " + thename.firstName);
         });
     });
-    console.log(pocList);
-
     //SET UP DISPLAY:
     topDisplay = "TOTAL in database: " + (orgcount + womanCount) + "<br>";
     topDisplay += "# of Women: " + womanCount + "<br>";
@@ -153,6 +132,7 @@ function loadInfoPage() {
     all_bios.forEach((bioLetterList) => {
         //go through each name for this letter:
         bioLetterList.forEach((thename) => {
+           
             //GET NAME AND MAKE LINK FOR THIS PERSON:
             lName = stripName(thename.lastName);
             fName = stripName(thename.firstName);

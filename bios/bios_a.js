@@ -579,7 +579,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         <a class='indent' href="http://www.alicejamesbooks.org">www.alicejamesbooks.org</a><br>
         <i>Down East: The Magazine of Maine</i>, June, 2006. "The People's Poet: Maine's New Poet Laureate, 
         Betsy Sholl, Finds Poetry in the Most Unlikely Places" by Michaela Cavallaro:<br>
-       <a class='indent' href=<"https://web.archive.org/web/20110707230938/http://www.betsysholl.com/news_file_bv.asp?key=34">https://web.archive.org/web/20110707230938/http://www.betsysholl.com/news_file_bv.asp?key=34</a><br>
+       <a class='indent' href="https://web.archive.org/web/20110707230938/http://www.betsysholl.com/news_file_bv.asp?key=34">https://web.archive.org/web/20110707230938/http://www.betsysholl.com/news_file_bv.asp?key=34</a><br>
         Image courtesy of Alice James Books.
     `,
         photos: ["images_bios/alice james books.jpg"],
