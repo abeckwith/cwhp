@@ -548,8 +548,7 @@ d_bios = [
                 <br>
                 Deihl, Marcia. Papers of Marcia Deihl, 1965-2011 (inclusive). Schlesinger Library on the History of
                 Women in America, Radcliffe Institute for Advanced Study, 2009-M153, 2016-M80. Web. 31 March 2019:
-               <br><a class='indent' href="http://id.lib.harvard.edu/alma/990120776210203941/catalog"
-                    >http://id.lib.harvard.edu/alma/990120776210203941/catalog</a>. <br>
+               <br>http://id.lib.harvard.edu/alma/990120776210203941/catalog (no longer available). <br>
                 Ely, Elissa. &ldquo;Marcia Deihl.&rdquo; The Remembrance Project. WBUR. Boston, Massachusetts. July 7,
                 2015. Radio: <br><a class='indent'
                     href="https://www.wbur.org/remembrance-project/2015/07/07/the-remembrance-project-marcia-deihl"
@@ -1060,7 +1059,7 @@ d_bios = [
             Vanessa E. Jones &quot;The way of oneness&quot;.<br>
             <i>The Boston Globe</i>, April 19, 2006.<br>
             Undoing Silence website:<br>
-            <a class='indent' href="http://www.undoingsilence.org">http://www.undoingsilence.org</a>
+            http://www.undoingsilence.org (no longer available).
         `,
         photos: ["images_bios/Louise%20Dunlap.jpg"],
         photoTitles: ["Louise Dunlap. Photo by Skip Schiel"],

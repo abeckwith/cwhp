@@ -116,8 +116,7 @@ y_bios = [
             Later Abortion, History of the Initiative:<br> <a
                 href="https://laterabortion.org/history-initiative">https://laterabortion.org/history-initiative</a>
             <br> <br>
-            NARAL Pro Choice Massachusetts 2016 Annual Champions For Choice Awardees: <br><a
-                href="https://prochoicemass.org/2016/10/21/naral-honors-dr-judyann-bigby-susan-yanow-work-toward-advancement-reproductive-freedom-annual-champions-choice-event/" >Link</a>
+            NARAL Pro Choice Massachusetts 2016 Annual Champions For Choice Awardees: <br>https://prochoicemass.org/2016/10/21/naral-honors-dr-judyann-bigby-susan-yanow-work-toward-advancement-reproductive-freedom-annual-champions-choice-event/ (no longer available)
             <br> <br>
             NPR Radio interviews:<br> <a
                 href="https://www.npr.org/transcripts/9213707">https://www.npr.org/transcripts/9213707</a>,<br><a
@@ -125,8 +124,7 @@ y_bios = [
             <a
                 href="https://www.wbur.org/commonhealth/2018/05/22/abortion-battle-health-information" >https://www.wbur.org/commonhealth/2018/05/22/abortion-battle-health-information</a>
             <br> <br>
-            Nurses for Sexual and Reproductive Health: <br><a
-                href="https://www.nsrh.org/susan-yanow--msw" >https://www.nsrh.org/susan-yanow--msw</a> <br>
+            Nurses for Sexual and Reproductive Health: <br>https://www.nsrh.org/susan-yanow--msw (no longer available) <br>
             Our Bodies, Ourselves:<br> <a
                 href="https://www.ourbodiesourselves.org/our-story/contributors/susan-yanow/" >https://www.ourbodiesourselves.org/our-story/contributors/susan-yanow/</a>
             <br> <br>

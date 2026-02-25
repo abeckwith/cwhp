@@ -999,8 +999,7 @@ by Cate McQuaid,, April 12, 2017.
         references: `
             Dennis Overbye &#8220;Philip Morrison, 89, Builder
             of First Atom Bomb, Dies&#8221; NY Times, April 26, 2005. <br>
-            <a
-                href="http://www.memoriesofmorrison.org/Aboutthissite.htm">www.memoriesofmorrison.org/Aboutthissite.htm</a>
+           www.memoriesofmorrison.org/Aboutthissite.htm (no longer available)
                 <br><i>Cambridge City Directory</i>, 1968.
         `,
         photos: [""],

@@ -269,12 +269,11 @@ g_bios = [
                 href="http://www.nndb.com/people/036/000068829" >http://www.nndb.com/people/036/000068829</a><br>
             Atkins, Christine. &quot;Wishing for Another Poem: The Poetry and Essays of
             Louise Gluck&quot; The New York State Writer's Institute Writer's Online Vol.
-            1 No. 4 (Summer 1997). Date accessed: 12/7/2005 <a
-                href="http://www.english.uiuc.edu/maps/poets/g_l/gluck/about.htm" >
-                http://www.english.uiuc.edu/maps/poets/g_l/gluck/about.htm</a><br>
+            1 No. 4 (Summer 1997). Date accessed: 12/7/2005 
+                http://www.english.uiuc.edu/maps/poets/g_l/gluck/about.htm (no longer available)<br>
             Hass, Robert &quot;About Louise Gluck&quot; Modern American Poetry
           
-            Brief Biography, <a href="http://www.helical-library.net/gluck/bio.asp" >http://www.helical-library.net/gluck/bio.asp</a>. Date accessed:
+            Brief Biography, http://www.helical-library.net/gluck/bio.asp (no longer available). Date accessed:
             4/22/2013<br>
             <i>The Cambridge Chronicle</i>, 3 September 2003.
             <br>
@@ -991,7 +990,7 @@ g_bios = [
         references: ` 
           Oral interview by Anthony Beckwith, December 8, 2025.<br>
         MIT Black History article: <br>
-        <a class='indent' href="https://www.blackhistory.mit.edu/archive/yvonne-harris-and-sherry-glanville-ca-1965" >"Yvonne Harris and Sherr Glanville, ca. 1965"</a><br>
+        https://www.blackhistory.mit.edu/archive/yvonne-harris-and-sherry-glanville-ca-1965, "Yvonne Harris and Sherr Glanville, ca. 1965" (no longer available)<br>
         Upworthy.com:<br>
          <a class='indent' href="https://www.upworthy.com/cambridge-community-center" >"How this beloved, 90-year-old community center continues to be a haven for so many to this day"</a>, March 29, 2020<br>
 

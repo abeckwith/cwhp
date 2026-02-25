@@ -148,8 +148,7 @@ j_bios = [
             Auburn Cemetery. `,
         otherNotes: "",
         references: `<i>Virtual American Biographies</i> <br>
-        <a class='indent'
-                href="http://www.famousamericans.net/sarahspraguejacobs">http://www.famousamericans.net/sarahspraguejacobs</a><br>
+       http://www.famousamericans.net/sarahspraguejacobs (no longer available)<br>
             <i>Appleton's Encylcopedia of American Biography</i> (1888)
             <br><i>Cambridge
             Vital Records</i>. <br>
@@ -238,7 +237,7 @@ j_bios = [
             Nations.`,
         otherNotes: "",
         references: ` Grace A Johnson papers, Schlesinger Library, Radcliffe
-            Institute. <br><a  class='indent'  href="http://oasis.lib.harvard.edu/oasis/deliver/~sch01027" >http://oasis.lib.harvard.edu/oasis/deliver/~sch01027</a><br>
+            Institute. <br>http://oasis.lib.harvard.edu/oasis/deliver/~sch01027 (no longer available)<br>
         
             <i>Cambridge City Directory</i>, 1896.
             <br>Image credit: History Cambridge.<br>

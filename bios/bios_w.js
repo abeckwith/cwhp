@@ -1136,7 +1136,8 @@ w_bios = [
             Cambridge guidebook, 2019:
             <a href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf" >
             https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a><br>
-            <a href="www.nlgmass.org/nlg-mass-history" >www.nlgmass.org/nlg-mass-history</a><br>
+
+            <a href="https://www.nlgmass.org/nlg-mass-history" >www.nlgmass.org/nlg-mass-history</a><br>
             <i>The Cambridge Chronicle</i>, 21 February 1974.
 
         `,

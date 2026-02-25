@@ -2033,7 +2033,7 @@ b_bios = [
             Beazley, 2005.<br><br>
             Bill Brett, Kerry Brett, Carol Beggy. <i>Boston, Inspirational Women</i> Boston,
             MA: Three Bean Press, 2011. <br>
-            The Brass Sisters' s website: <a href="http://www.thebrasssisters.com" >www.thebrasssisters.com</a>.
+            The Brass Sisters' s website: www.thebrasssisters.com (no longer available).
 
 
         `,
@@ -2150,7 +2150,7 @@ b_bios = [
         What to Look for and What to Pay for Kitchenware for Over 2000 Items of Kitchenware</i>. London: Mitchell
         Beazley, 2005.<br>Bill Brett, Kerry Brett, Carol Beggy.&nbsp;<i>Boston, Inspirational Women&nbsp;
         </i>Boston, MA: Three Bean Press, 2011.<br>The Brass Sisters&apos; s website: 
-        <a href="http://www.thebrasssisters.com/" >www.thebrasssisters.com</a>.<br>
+       www.thebrasssisters.com (no longer available).<br>
         <i>The Boston Globe</i>, Sept. 12, 2022</p>
      
 
@@ -2966,7 +2966,7 @@ b_bios = [
         https://achievement.org/achiever/susan-butcher/#interview/</a>.<br>
 
         Alaska Sports Hall of Fame (n.d.). Susan Butcher: Hard-nosed Competitor. <br>Retrieved 7/4/2020
-        from <a href=" http://alaskasports.wpengine.com/inductee/susan-butcher/" > http://alaskasports.wpengine.com/inductee/susan-butcher/</a>.
+        from https://alaskasportshall.org/inductee/susan-butcher/ (no longer available).
         <br><br><a href="https://www.thecrimson.com/article/1974/5/24/the-warehouse-school-one-alternative-pthe/" >
         https://www.thecrimson.com/article/1974/5/24/the-warehouse-school-one-alternative-pthe/</a>.<br><br>
         Image from <a href="https://commons.wikimedia.org/wiki/File:Fairbanks_-_Susan_Butcher_and_Dogs.jpg" >

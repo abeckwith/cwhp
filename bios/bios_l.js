@@ -56,7 +56,7 @@ l_bios = [
         references: `
             Wilma Slaight, &#8220;Florence Ladd&#8221; <i>Wellesley 125th anniversary</i>,
             August 28, 2000:<br>
-            <a class='indent' href="http://www.wellesley.edu/Anniversary/ladd.html" >http://www.wellesley.edu/Anniversary/ladd.html</a><br>
+            http://www.wellesley.edu/Anniversary/ladd.html (no longer available)<br>
             Florence Cawthorne Ladd, personal communication.<br>
             <i>Cambridge Chronicle</i>, 11 September 1975.
         `,
