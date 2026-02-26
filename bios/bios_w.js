@@ -638,18 +638,28 @@ w_bios = [
 
              Hannah provided a lively account of her life in Cambridge in a series of letters to Mercy Otis
             Warren and Abigail Adams. During the Revolutionary war, she described the flight of women and
-            children from the center of Cambridge as the English advanced. &#8220;We were
+            children from the center of Cambridge as the English advanced. 
+           
+            <blockquote>"We were
             directed to a place called Fresh Pond, about a mile from the town, but what
             a distressed
             house did we find it, filled with women whose husbands had gone forth to meet
             the assailants, seventy or eighty of these, with numbers of infant children,
-            weeping and agonizing for the fate of their husbands.&#8221; The following
+            weeping and agonizing for the fate of their husbands."
+            </blockquote>
+            
+            The following
             year, she wrote to Mercy Warren about the eagerness with which men and women
             sought
-            to inoculate themselves and their children against the smallpox.: &quot;The
+            to inoculate themselves and their children against the smallpox: 
+
+            <blockquote>"The
             reigning subject is the small pox. Men, women and children eagerly crowding
             to inoculate is I think as modish as running away from the troops of a barbarous
-            George was last year.&quot; A portrait 
+            George was last year."
+
+            </blockquote>
+             A portrait 
             of her in her late thirties, painted
             by John Singleton Copley, is held in the Metropolitan Museum of New York.`,
         otherNotes: "",
