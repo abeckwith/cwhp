@@ -240,13 +240,15 @@ cards = [
         her essays in book form.
         `
     },
-     // {
-    //     name: "",
-    //     link: "",
-    //     image: "",
-    //     description: `
-    // `,
-    // },
+     {
+        name: "Mary Goodhue",
+        link: "bios.html?last=Goodhue&middle=Louise&first=Mary",
+        image: "images_bios/goodhue3.jpg",
+        description: `
+        Goodhue was a music teacher and the presdident of the Cambridge Musical Club. In 1920, she was described as 
+        the <b> only female stained-glass maker in America</b>.
+    `,
+    },
      // {
     //     name: "",
     //     link: "",

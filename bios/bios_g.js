@@ -1009,4 +1009,108 @@ g_bios = [
         authors: "Anthony Beckwith",
         categories: ["Teacher/Educator", "Volunteer", "Community Leader"],
     },
+        {
+        poc: true,
+        organization: false,
+        lastName: "Goodhue",
+        firstName: "Mary",
+        middleName: "Louise",
+        familyName: "Wright",
+
+        title: `Music teacher, stained glass artist, businesswoman`,
+        birthDate: "09.04.1876",
+        birthLocation: "Cinncinnati, Ohio",
+        deathDate: "03.21.1965",
+        deathLocation: "Weymouth, Massachusetts",
+        narrative: `
+          Mary Louise Wright was born in Cincinnati to Juliet and Daniel T. Wright.  Mary married Harry 
+          Eldridge Goodhue in 1904 and had three sons, Harry, Daniel, 
+          and William. The couple settled in Cambridge and first resided on Buckingham Place, soon after, 
+          relocating to a rental on Martin Street. By 1908 the family had bought a house lot on Fayerweather 
+          Street and hired the architectural firm of Newhall and Blevins to design an Arts and Crafts style 
+          house. Mary taught singing and violin at her home to young students and assisted her husband in
+           his growing stained-glass company. <br><br>
+
+            Mrs. Goodhue was the president of the Cambridge Musical Club, as well as a suffragist. When her 
+            husband Harry, a nationally recognized stained-glass manufacturer, died in 1918, she took over the 
+            stained-glass company, fulfilling existing commissions while teaching her teenage son, Harry 
+            “Wright” Goodhue, the art of making antique stained glass. In a 1920 <i>Boston Globe</i> article, 
+            Mary explained her ability to take over the family business so quickly. 
+            
+            <blockquote>
+            “Having worked so 
+            much with my husband, it comes easy for me to carry on the business. I have hundreds of his 
+            designs to guide me and find little trouble in selecting portions of them for the work I get.
+             I know all about his ideals and became so impregnated with his imagination and genius that I 
+             love the work, even as he did...when he [Harry] died, I simply had to take up 
+             the practical part of the work, but as I was well taught in the artistic part, I found no 
+             trouble in mastering the business part.” 
+             </blockquote>
+             
+             The article listed Mary as the only female stained
+              glassmaker in America and highlighted her winning proposal for a memorial window to be placed
+               in Pilgrim Hall in Plymouth, Massachusetts, in celebration of the Massachusetts Bay Tercentenary.
+                She was selected over dozens of male artists to win the commission. <br><br> 
+
+                Mary's father was a judge on the 
+          Ohio Supreme Court, and her brother, Daniel, held an Associate Justice seat on the Supreme Court of 
+          the District of Columbia.<br><br>
+
+            Mary Goodhue is credited with stained glass windows in churches in the Boston area and as far 
+            as Providence and Detroit. Her memorial windows at Pilgrim Hall and the First Parish Church of
+             Brookline are her most notable. When Harry, the oldest, came of age, he took up the family business, 
+             and Mary returned to her other passion: music. 
+             In 1935 she published the book “Stagefright and its Cure“, to help
+              musicians and public speakers understand the psychological reasons for stagefright and ways to overcome
+               it. <Br><br>
+               
+               In the December 7, 1935, issue of the <i>Musical Courier</i> a reviewer writes of her book:
+            
+               <blockquote>
+            "Those who have quaked at the prospect of facing a huge or even a rather less than ample audience form a 
+            brother-and-sisterhood amazingly universal in extent...
+            Those harassed souls may find considerable help in the friendly little book written from the psychological
+             point of view by Mary Louise Goodhue...
+            <br><Br>
+            "Those who are bothered by reactions that combat and shatter their best intentions when before an audience 
+            owe it to themselves to consult the helpful little volume published by Miss Goodhue...The book has been 
+            endorsed by leading educational authorities."
+
+               </blockquote>
+              Mary lived at the family home on Fayerweather Street until her mid-80s. After the Great Depression, 
+              when her children had left home, she converted the single-family to a duplex and rented out one side 
+              for income. She died in Braintree, Massachusetts, at eighty-eight years old.
+
+
+`,
+        otherNotes: "",
+        references: ` 
+            Clipping of Wright and Mary Louise Goodhue courtesy of Riverside Church Archives.<Br>
+       
+        Find-a-Grave:<br>
+        <a class="indent" href="https://www.findagrave.com/memorial/111543240/mary_louise-goodhue">https://www.findagrave.com/memorial/111543240/mary_louise-goodhue</a><Br>
+        "Only Woman Maker of Stained Glass: Mrs. Harry Goodhue Wins Pilgrim Hall Contest." <i>Boston Daily Globe</i>, 
+        04 July 1920, p. 56. <Br>
+        "Harry W. Goodhue Dead in Providence." <i>Daily Boston Globe</i>, 14 Aug. 1931, p. 19. <br>
+        <i>The Washington Post</i>,  1927-07-03:<Br>
+        <a class='indent' href="https://archive.org/details/per_washington-post_1927-07-03_18644/mode/2up?q=%22mary+louise+goodhue%22"> https://archive.org/details/per_washington-post_1927-07-03_18644/mode/2up?q=%22mary+louise+goodhue%22</a><br>
+            Pilgrim Hall photo by Julie Sloan<br>
+         For more information: <a href="https://cambridgehistoricalcommission.blog/2021/12/01/gothic-glass-and-the-goodhues/">Gothic, Glass, and the Goodhues - The Cambridge Historical Commission Blog</a><br>
+        <br>
+
+        
+             `,
+        photos: ["images_bios/goodhue.jpg", "images_bios/goodhue2.jpeg"],
+        photoTitles: [
+         "Wright Goodhue with his mother, Mary Louise Goodhue, designing the Mercy window for Riverside Church, NY.",
+         "M.L Goodhue, Pilgrim Hall"
+        ],
+        dateCreated: "02.28.2026",
+        dateUpdated: "",
+
+        photoHeights: [],
+        editors: "",
+        authors: "Eric Hill",
+        categories: ["Teacher/Educator", "Musician", "Artists", "Businesswoman"],
+    },
 ];
