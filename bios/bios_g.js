@@ -1095,6 +1095,9 @@ g_bios = [
         <i>The Washington Post</i>,  1927-07-03:<Br>
         <a class='indent' href="https://archive.org/details/per_washington-post_1927-07-03_18644/mode/2up?q=%22mary+louise+goodhue%22"> https://archive.org/details/per_washington-post_1927-07-03_18644/mode/2up?q=%22mary+louise+goodhue%22</a><br>
             Pilgrim Hall photo by Julie Sloan<br>
+        <i>Musical Courier</i>, Dec. 7, 1935:<Br>
+        <a class='indent' href="https://archive.org/details/sim_music-magazine-and-musical-courier_1935-12-07_111_14/page/16/">https://archive.org/details/sim_music-magazine-and-musical-courier_1935-12-07_111_14/page/16/</a>
+        <Br>
          For more information: <a href="https://cambridgehistoricalcommission.blog/2021/12/01/gothic-glass-and-the-goodhues/">Gothic, Glass, and the Goodhues - The Cambridge Historical Commission Blog</a><br>
         <br>
 
