@@ -1026,9 +1026,9 @@ g_bios = [
           Mary Louise Wright was born in Cincinnati to Juliet and Daniel T. Wright.  Mary married Harry 
           Eldridge Goodhue in 1904 and had three sons, Harry, Daniel, 
           and William. The couple settled in Cambridge and first resided on Buckingham Place, soon after, 
-          relocating to a rental on Martin Street. By 1908 the family had bought a house lot on Fayerweather 
+          relocating to a rental on Martin Street. By 1908 the family had bought a house lot at 36 Fayerweather 
           Street and hired the architectural firm of Newhall and Blevins to design an Arts and Crafts style 
-          house. Mary taught singing and violin at her home to young students and assisted her husband in
+          house (at the time, Harry ran a stained-glass company at 23 Church Street, in Harvard Square). Mary taught singing and violin at her home to young students and assisted her husband in
            his growing stained-glass company. <br><br>
 
             Mrs. Goodhue was the president of the Cambridge Musical Club, as well as a suffragist. When her 
@@ -1098,6 +1098,7 @@ g_bios = [
         <i>Musical Courier</i>, Dec. 7, 1935:<Br>
         <a class='indent' href="https://archive.org/details/sim_music-magazine-and-musical-courier_1935-12-07_111_14/page/16/">https://archive.org/details/sim_music-magazine-and-musical-courier_1935-12-07_111_14/page/16/</a>
         <Br>
+        <i>Cambridge City Directories</i>, 1908, 1918.<br>
          For more information: <a href="https://cambridgehistoricalcommission.blog/2021/12/01/gothic-glass-and-the-goodhues/">Gothic, Glass, and the Goodhues - The Cambridge Historical Commission Blog</a><br>
         <br>
 
