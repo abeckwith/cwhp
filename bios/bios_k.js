@@ -142,4 +142,97 @@ k_bios = [
         authors: "CWHP volunteers",
         categories: ["Scientist"],
     },
+        {
+        poc: false,
+        organization: false,
+        lastName: "Kennedy",
+        firstName: "Boomer",
+        middleName: "",
+        familyName: "",
+        
+        title: `Entrepreneur, car repair shop owner`,
+        birthDate: "12.01.1956",
+        birthLocation: "Westport, Connecticut",
+        deathDate: "06.10.2024",
+        deathLocation: "Baltimore, Maryland",
+        narrative: `
+            
+        Boomer Kennedy worked as a waitress, chamber maid, store detective, farm worker, social worker, and watchband 
+        maker before creating a groundbreaking women-owned auto mechanics shop in Cambridge in the mid-1980s. (She had
+         also gotten herself out of alcohol and cocaine addiction that began when she was 12.)
+        <br><br>
+        Kennedy was born in Connecticut (she was born as "Patricia", but she only allowed 
+        a few people to know what her real name was), but by the mid-1970s, she had found her way to the Boston area 
+        and started her studies at UMass/Boston. She dropped out by 1978 to join a friend in a watchband-making business,
+         run out their Somerville home.
+        <br><br>
+        After working at various other jobs in the Boston area, Kennedy had the idea of being an auto mechanic, given her
+         penchant for "fixing things" and enrolled at ITT Technical Institute (which was in Chelsea at the time) in auto 
+         repair; she graduated in late 1983.
+        <br><br>
+        In 1985, Kennedy purchased Jim's Foreign Auto, at 254 Prospect Street in Cambridge, which she then ran for the 
+        next 20 years. She named her new business "Chicago Auto" based on her love of that city. For the first three 
+        months, her shop employed only female workers and she didn't have any male customers, but both of those things 
+        soon changed. 
+        <br><br>
+        A February 1990 <i>Cambridge Chronicle</i> article told some of her story:
+        <blockquote>
+        In place of a gruff-voiced "get 'em in, get 'em out" attitude is an ease and warmth not often found in this 
+        business. Responsibility for this comfortable climate rests principally 33-year-old owner and one of its three
+         mechanics. Those who trust their cars to Kennedy say one of the basic tenets of her business philosophy is 
+         respect for the customer's right to know. "Boomer educates people along with fixing their cars," says Sylvia 
+         Sukop, a long-time customer. "Not only will she do the right thing, but she'll explain everything about why she's doing it." 
+        <br><br>
+
+        Kennedy says "Car owners have been taken advantage of for a long time because they don't know about their cars.
+         I try and break their naivete barrier so they understand what's happening I chip away at their automotive illiteracy." 
+        <br><br>
+
+        "My aim has always been to fix cars, not to prove that a woman could do this,” she says. "I run a business, not 
+        a political movement.” 
+        </blockquote>
+
+        In 1991, she moved her business a few blocks away to 130 Brookline Street, in Cambridge.
+        <br><br>
+
+        In 1994, Kennedy employed four mechanics and her business worked on 125 cars a month, "working under a giant
+         logo of a woman stretching out her strong arms, placed over a giant upside down triangle, the symbol of gay pride."  
+         In 1998, she started a series of Cambridge-based car-care seminars for women. In 1997, the City of Cambridge and M.I.T.
+          honored Kennedy with the Recognition Award for Excellence in Entrepreneurship. At the time, Ray Magliozzi of NPR's 
+          "Car Talk" stated, "I have never met anyone with more enthusiasm for cars or more respect for her customers than Boomer." In 1998, she received the Greater Boston Business council Award for Excellence as a Small Business.
+        <br><br>
+
+        Kennedy was a volunteer in the early 1990s in the buddy system program of the Boston AIDS Action Committee, making 
+        weekly visits to a woman with AIDS.
+        <br><br>
+
+        In the 2000s, Kennedy left her business and changed careers again, becoming a pastry chef at the world-renowned
+         French Laundry. She eventually moved to New Mexico and ran a picture frame store with her life-partner Martha. 
+         She died in 2024, after having moved to Baltimore, Maryland. Upon her death, a woman named Rebecca commented:
+         <blockquote>
+         "I brought my truck to her shop while I was living and working in the Boston area. All women in the shop. 
+         She was proud that I was a pipefitter and welder. She asked why is it that so many of us ended up so butch,
+          I replied 'it's just a job that I enjoy, not a life style for me' (with a wink)."
+        `,
+        otherNotes: "",
+        references: `<i>The Cambridge Chronicle</i>, 15 February 1990, 3 January 1991, 23 June 1994, 24 September 1998, 15 October 1998.<br>
+
+            <i>Cambridge Civic Journal</i>, In Memoriam:<br>
+            <a class='indent' href="http://www.rwinters.com/deaths/#CCJ-Boomer">http://www.rwinters.com/deaths/#CCJ-Boomer</a><Br>
+            Boomer Kennedy, car mechanic, YouTube video:<br>
+            <a class='indent' href="https://www.youtube.com/watch?v=m_GejADU_3Q">https://www.youtube.com/watch?v=m_GejADU_3Q</a><Br>
+            MHRS Class of 1978 Facebook post:<br>
+            <a class='indent' href="https://www.facebook.com/groups/1120678769174418/posts/1154258002483161/">https://www.facebook.com/groups/1120678769174418/posts/1154258002483161/</a>
+            `,
+
+        photos: ["images_bios/boomer.jpg", "images_bios/boomer2.png"],
+        photoTitles: [],
+        dateCreated: "02.28.2026",
+        dateUpdated: "",
+
+        photoHeights: [],
+        editors:"",
+        authors: "Anthony Beckwith",
+        categories: ["Businesswoman", "Auto mechanic"],
+    },
 ];

@@ -1109,7 +1109,7 @@ g_bios = [
          "Wright Goodhue with his mother, Mary Louise Goodhue, designing the Mercy window for Riverside Church, NY.",
          "M.L Goodhue, Pilgrim Hall"
         ],
-        dateCreated: "02.28.2026",
+        dateCreated: "02.27.2026",
         dateUpdated: "",
 
         photoHeights: [],
