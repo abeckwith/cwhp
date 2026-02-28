@@ -154,7 +154,7 @@ k_bios = [
         birthDate: "12.01.1956",
         birthLocation: "Westport, Connecticut",
         deathDate: "06.10.2024",
-        deathLocation: "Baltimore, Maryland",
+        deathLocation: "Troy, New Hampshire",
         narrative: `
             
         Boomer Kennedy worked as a waitress, chamber maid, store detective, farm worker, social worker, and watchband 
@@ -199,7 +199,8 @@ k_bios = [
          logo of a woman stretching out her strong arms, placed over a giant upside down triangle, the symbol of gay pride."  
          In 1998, she started a series of Cambridge-based car-care seminars for women. In 1997, the City of Cambridge and M.I.T.
           honored Kennedy with the Recognition Award for Excellence in Entrepreneurship. At the time, Ray Magliozzi of NPR's 
-          "Car Talk" stated, "I have never met anyone with more enthusiasm for cars or more respect for her customers than Boomer." In 1998, she received the Greater Boston Business council Award for Excellence as a Small Business.
+          "Car Talk" stated, "I have never met anyone with more enthusiasm for cars or more respect for her customers than Boomer." In 1998, 
+          she received the Greater Boston Business council Award for Excellence as a Small Business.
         <br><br>
 
         Kennedy was a volunteer in the early 1990s in the buddy system program of the Boston AIDS Action Committee, making 
@@ -207,21 +208,25 @@ k_bios = [
         <br><br>
 
         In the 2000s, Kennedy left her business and changed careers again, becoming a pastry chef at the world-renowned
-         <i>French Laundry</i>, in California. She eventually moved to New Mexico and ran a picture frame store with her life-partner Martha. 
-         She died in 2024, after having moved to Baltimore, Maryland. Upon her death, a woman named Rebecca commented on 
-         the Facebook page of her old high school:
+         <i>French Laundry</i>, in California. She eventually moved to New Mexico and ran a picture frame store with her 
+         life-partner Martha, then  to Maryland. Upon her death, a woman named Rebecca commented on 
+         the Facebook page of her old New Hampshire high school:
+
          <blockquote>
          "I brought my truck to her shop while I was living and working in the Boston area. All women in the shop. 
          She was proud that I was a pipefitter and welder. She asked why is it that so many of us ended up so butch,
           I replied 'it's just a job that I enjoy, not a life style for me' (with a wink)."
         `,
         otherNotes: "",
-        references: `<i>The Cambridge Chronicle</i>, 15 February 1990, 3 January 1991, 23 June 1994, 24 September 1998, 15 October 1998.<br>
+        references: `<i>The Cambridge Chronicle</i>, 15 February 1990, 3 January 1991, 23 June 1994, 24 September 1998, 
+        15 October 1998.<br>
 
             <i>Cambridge Civic Journal</i>, In Memoriam:<br>
             <a class='indent' href="http://www.rwinters.com/deaths/#CCJ-Boomer">http://www.rwinters.com/deaths/#CCJ-Boomer</a><Br>
             Boomer Kennedy, car mechanic, YouTube video:<br>
             <a class='indent' href="https://www.youtube.com/watch?v=m_GejADU_3Q">https://www.youtube.com/watch?v=m_GejADU_3Q</a><Br>
+            <i>The Keene Sentinel</i>, July 5, 2024:<br>
+            <a class='indent' href="https://www.keenesentinel.com/news/obituaries/patricia-kennedy/article_6da5d293-85d7-5b48-b523-0443822b6de5.html">https://www.keenesentinel.com/news/obituaries/patricia-kennedy/article_6da5d293-85d7-5b48-b523-0443822b6de5.html</a><br>
             MHRS Class of 1978 Facebook post:<br>
             <a class='indent' href="https://www.facebook.com/groups/1120678769174418/posts/1154258002483161/">https://www.facebook.com/groups/1120678769174418/posts/1154258002483161/</a>
             `,
