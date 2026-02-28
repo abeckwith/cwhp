@@ -147,7 +147,7 @@ k_bios = [
         organization: false,
         lastName: "Kennedy",
         firstName: "Boomer",
-        middleName: "",
+        middleName: "Patricia",
         familyName: "",
         
         title: `Entrepreneur, car repair shop owner`,
@@ -162,7 +162,8 @@ k_bios = [
          also gotten herself out of alcohol and cocaine addiction that began when she was 12.)
         <br><br>
         Kennedy was born in Connecticut (she was born as "Patricia", but she only allowed 
-        a few people to know what her real name was), but by the mid-1970s, she had found her way to the Boston area 
+        a few people to know what her real name was—ut of respect for her wishes, her real first name is listed in this profile
+         as her middle name), but by the mid-1970s, she had found her way to the Boston area 
         and started her studies at UMass/Boston. She dropped out by 1978 to join a friend in a watchband-making business,
          run out their Somerville home.
         <br><br>
