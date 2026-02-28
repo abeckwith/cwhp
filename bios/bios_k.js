@@ -207,7 +207,7 @@ k_bios = [
         <br><br>
 
         In the 2000s, Kennedy left her business and changed careers again, becoming a pastry chef at the world-renowned
-         French Laundry. She eventually moved to New Mexico and ran a picture frame store with her life-partner Martha. 
+         <i>French Laundry</i>, in California. She eventually moved to New Mexico and ran a picture frame store with her life-partner Martha. 
          She died in 2024, after having moved to Baltimore, Maryland. Upon her death, a woman named Rebecca commented:
          <blockquote>
          "I brought my truck to her shop while I was living and working in the Boston area. All women in the shop. 
