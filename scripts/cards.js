@@ -251,7 +251,7 @@ cards = [
     },
      {
         name: "Boomer Kennedy",
-        link: "bios.html?last=Kennedy&middle=&first=Boomer",
+        link: "bios.html?last=Kennedy&middle=Patricia&first=Boomer",
         image: "images_bios/boomer.jpg",
         description: `
         Kennedy worked as a waitress, chamber maid, store detective, farm worker, social worker, and watchband maker 
