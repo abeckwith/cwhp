@@ -159,10 +159,10 @@ k_bios = [
             
         Boomer Kennedy worked as a waitress, chamber maid, store detective, farm worker, social worker, and watchband 
         maker before creating a groundbreaking women-owned auto mechanics shop in Cambridge in the mid-1980s. (She had
-         also gotten herself out of alcohol and cocaine addiction that began when she was 12.)
+         also gotten herself out of an alcohol and cocaine addiction that began when she was 12.)
         <br><br>
         Kennedy was born in Connecticut (she was born as "Patricia", but she only allowed 
-        a few people to know what her real name was—ut of respect for her wishes, her real first name is listed in this profile
+        a few people to know what her real name was—out of respect for her wishes, her real first name is listed in this profile
          as her middle name), but by the mid-1970s, she had found her way to the Boston area 
         and started her studies at UMass/Boston. She dropped out by 1978 to join a friend in a watchband-making business,
          run out their Somerville home.
