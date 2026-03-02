@@ -1026,7 +1026,7 @@ g_bios = [
           Mary Louise Wright was born in Cincinnati to Juliet and Daniel T. Wright.  Mary married Harry 
           Eldridge Goodhue in 1904 and had three sons, Harry, Daniel, 
           and William. The couple settled in Cambridge and first resided on Buckingham Place, soon after, 
-          relocating to a rental on Martin Street. By 1908 the family had bought a house lot at 36 Fayerweather 
+          relocating to a rental on Martin Street. By 1908 the family had bought a house lot at 54-56 Fayerweather 
           Street and hired the architectural firm of Newhall and Blevins to design an Arts and Crafts style 
           house (at the time, Harry ran a stained-glass company at 23 Church Street, in Harvard Square). Mary taught singing and violin at her home to young students and assisted her husband in
            his growing stained-glass company. <br><br>
