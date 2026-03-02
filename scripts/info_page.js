@@ -19,6 +19,20 @@ function extractHrefsFromString(htmlString) {
     // 5. Return the list of URLs.
     return urls;
 }
+async function copyTextToClipboard() {
+  try {
+    // Check if the Clipboard API is available and the method exists
+    if (navigator?.clipboard?.writeText) {
+      await navigator.clipboard.writeText(allJustNames);
+      console.log('Text successfully copied to clipboard');
+      document.getElementById("copy-button").textContent = "COPIED TO CLIPBOARD!";
+    } else {
+      console.error('Clipboard API writeText not supported');
+    }
+  } catch (err) {
+    console.error('Failed to copy text: ', err);
+  }
+}
 
 function loadInfoPage(checkLinks) {
     setMenu(10);
@@ -57,7 +71,8 @@ function loadInfoPage(checkLinks) {
 
     birthSort = [];
 
-    allNames = "";
+    allNames = "Organizataions in <b>bold</b><Br>";
+    allJustNames = "";
     bio_count = 0; //total number of bios
     noimgct = 0; //total with no image
     noqtct = 0; //total with no quote
@@ -132,7 +147,6 @@ function loadInfoPage(checkLinks) {
     all_bios.forEach((bioLetterList) => {
         //go through each name for this letter:
         bioLetterList.forEach((thename) => {
-           
             //GET NAME AND MAKE LINK FOR THIS PERSON:
             lName = stripName(thename.lastName);
             fName = stripName(thename.firstName);
@@ -180,8 +194,8 @@ function loadInfoPage(checkLinks) {
 
             //set up display for this person:
             nameBuild =
-                bio_count +
-                ". " +
+                // bio_count +
+                // ". " +
                 thename.lastName +
                 ", " +
                 thename.firstName +
@@ -199,16 +213,19 @@ function loadInfoPage(checkLinks) {
             // nameBuild += "<br>";
 
             theLink =
-                "<a target='_blank' class='no-underline' href='" +
+                "<a target='_blank' href='" +
                 getHref(lName, mName, fName) +
                 "'>";
 
-            //also gather all names for master list:
-            if (thename.firstName == "")
+            if (thename.firstName == "") {
                 //must be an organization, so bold it:
                 theLink += "<b>" + nameBuild + "</b>";
-            else theLink += nameBuild;
-            allNames += theLink + "<br>";
+                justName = thename.lastName;
+            } else {
+                theLink += nameBuild;
+            }
+            allNames += bio_count + ". " + theLink + "</a><br>";
+            allJustNames += nameBuild + "\n";
 
             //check if has full date (as opposed to ca.2016)
             hasFullDate =
@@ -260,6 +277,8 @@ function loadInfoPage(checkLinks) {
             }
         });
     });
+    allJustNames = bio_count + "\n" + allJustNames;
+  
     //women that don't yet have birthdate and are no longer alive:
     disp =
         nobirthDate +
@@ -374,6 +393,7 @@ function loadInfoPage(checkLinks) {
     document.getElementById("alive-display").innerHTML = aliveDisplay + "<br>";
 
     document.getElementById("all-display").innerHTML = allNames;
+    document.getElementById("all-display-just-names").innerHTML = allJustNames;
 
     document.getElementById("birth-display").innerHTML = birthDisplay;
 }
