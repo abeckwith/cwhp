@@ -104,6 +104,22 @@ o_bios = [
             a national circulation. <i>Lucy's Party and Other Tales</i> (1842) was intended
             for children; <i>Sweet Auburn and Mount Auburn with Other Poems</i> (1844)
             described the grounds of Mount Auburn both before and after it became a cemetery.
+            <Br><Br>
+            In an excerpt from her 1844 poem <i>Sweet Auburn</i>, Orne wrote:
+            <blockquote>
+            "Not as thous wast, Sweet Auburn, art thou noow,<br>
+            Not as thou was two hundred years ago!<br>
+            The red man paused beneath thy lofty trees,<br>
+            And caught each murmur borne upon the breeze;<br>
+            With noiseless arrow from unerring bow,<br>
+            They harmless denizens full oft laid low.<br>
+            The red man's children yelled their war-whoop's cry,<Br>
+            And laughed to hear thy echoes make reply.<br>
+            The Indian youth, with skilful hand and true,<Br>
+            O'er thy fair Charles oft sped the swift canoe.<Br>
+            The Indian girl, with darkly glancing eye,<br>
+            And fawn-like motion, bounded lightly by."
+            </blockquote>
             Her book of poetry, <i>Morning Songs of American Freedom</i> (1876), included
             patriotic poems, a number of which celebrated the courage of sea captains, from
             whom her father was descended. Longfellow thought well enough of her work to
@@ -133,15 +149,17 @@ o_bios = [
             Orne family biographies and landmark
                 report for Orne's home at 107 Auburn Street, Cambridge Historical Commission.
             <i>Who's Who in America</i> (1905).<br>
+            "Sweet Auburn", 1944:<Br>
+            <a class='indent' href="https://books.google.com/books?id=jLcRAAAAYAAJ">https://books.google.com/books?id=jLcRAAAAYAAJ</a><br>
             Image from Cambridge Public Library.
         `,
         photos: ["images_bios/caroline_orne.png"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "04.12.2025",
+        dateUpdated: "03.04.2026",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Librarian", "Poet", "Author"],
     },
