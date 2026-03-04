@@ -936,7 +936,10 @@ w_bios = [
             <br>Logo image from Aug. 15, 2025 Facebook post:<br>
              <a class='indent' href="https://www.facebook.com/photo/?fbid=1182736037215446&set=pb.100064371836450.-2207520000/">https://www.facebook.com/photo/?fbid=1182736037215446&set=pb.100064371836450.-2207520000/</a>`,
         photos: ["images_bios/womensctr.png", "images_bios/888MemDr.jpg"],
-        photoTitles: ["Women's Center Logo", "Plaque ready to be placed on Memorial Drive"],
+        photoTitles: [
+            "Women's Center Logo",
+            "Plaque ready to be placed on Memorial Drive",
+        ],
         dateCreated: "prior to 2009",
         dateUpdated: "",
         photoPos: ["3"],
@@ -1204,10 +1207,101 @@ w_bios = [
         photoTitles: ["1979 listing in the Cambridge Chronicle"],
         dateCreated: "prior to 2009",
         dateUpdated: "",
-        photoPos:["3"],
+        photoPos: ["3"],
         photoHeights: [],
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Educational Institution/School", "Feminist Organization"],
+    },
+    {
+        poc: false,
+        organization: true,
+        lastName: "Wong",
+        firstName: "Ide",
+        middleName: "",
+        familyName: "Fong",
+
+        title: `Restaurant owner, mother of ten`,
+        birthDate: "1903",
+        birthLocation: "China",
+        deathDate: "",
+        deathLocation: "",
+        narrative: `
+
+        Ide Fong was born in China in 1903. She married Loy Lee Wong, also born in 1903 in China. The couple arrived 
+        in Seattle in 1926 and from there moved to Cambridge. Ide gave birth to seven girls and three boys, who were
+         all born in Cambridge:<br>
+         
+         Mary Yook (1928), Vincent (1930), Evelyn (1931), Lotus T. (1932), twins Ruby (19340),
+          Jean Christine (1935), Dorothy Ann (1936), Frances (1939), Howard (1943), and Thomas (1946). 
+        <br><br>
+
+        In 1940, Ide and Loy lived at 67 Flagg Street, but within a few years had moved right around the corner to 67
+         Putnam Avenue and they owned a Chinese restaurant, called <i>Young Lee</i>, at 12 Boylston Street, right in the heart
+          of Harvard Square. In 1950, they moved to 129 Upland Road in Cambridge and by the late 1950s, the restaurant 
+          had moved to 27 Church Street.<br><Br>
+          
+          The summary below reviews the details of the lives of some of Ide's daughters:<Br><Br>
+
+        <b>Eveline Wong</b> went to the Saint Peters School and then graduated from Cambridge High and Latin School in 1948. 
+         She worked as a waitress and a bookkeeper in her parents' restaurant until marrying Edward Chin, a former member
+          of the coast guardm and a researcher.<br><br>
+
+        <b>Mary Yook Wong</b> graduated from St. Paul's parochial school and then CHLS, in 1945. She worked at her parents' 
+        restaurant until marrying Chinese-born Fong Pin Ning, who was a businessman and had been a sergeant in the army
+         during World War II. The couple moved to at 107 Oxford Street in Cambridge and had four children. She and her 
+         husband were financial supporters of the Aggasiz Neighborhood Council in the 1990s. When Mary died in 2015, her
+          obit stated:
+        <blockquote>
+
+        "Mary was a life-long resident of Cambridge, MA. She is remembered for her mastery of Cantonese style cooking and 
+        her ability to prepare massive banquets for family and friends. She was also a talented seamstress."
+        </blockquote>
+
+
+        <b>Lotus T. Wong</b> graduated from St. Peters school in 1946 and from Matignon High School in Cambridge in 1950. She 
+        worked as a cashier at the family restaurant and later got her Education degree from Boston College. By 1967, 
+        Lotus had returned to the St. Peter's School as a teacher and was married to Alfred Wong of Fall River. Lotus 
+        died in 1975, at age 42, having lived her entire life in Cambridge until she moved to Dartmouth at the end of her 
+        life. She had one daughter, named Emily.<br><Br>
+
+        <b>Ruby W. Wong</b> married Youn T. Chung and they had four children together and moved to Belmont. She died in 2006, 
+        at age 72.<br><br>
+
+        <b>Jean Christine Wong</b> worked at the family restaurant and later became a lab technician and married James Seeto, of Sharon.
+        <br><br>
+          `,
+        otherNotes: "",
+        references: `
+        
+
+        `,
+        photos: [
+            "images_bios/wong_mary.png",
+            "images_bios/wong_eveline.png",
+            "images_bios/wong_eveline2.png",
+            "images_bios/wongjean.png",
+            "images_bios/wong_lotus.jpg",
+            "images_bios/wong_mary2.jpeg",
+            "images_bios/wong_dorothy.png",
+        ],
+        photoTitles: [
+            "Ide's daughter Mary at CHLS, 1945",
+            "CHLS Yearbook, 1948",
+            "Eveline's 1952 wedding",
+            "1953, CHLS Yearbook",
+            "1964, Boston College",
+            "Mary Wong",
+            "1953, CHLS Yearbook",
+        ],
+        dateCreated: "03.04.2026",
+        dateUpdated: "",
+        photoPos: [""],
+        photoHeights: ["200",
+            "", "", "", "", "200", ""
+        ],
+        editors: "",
+        authors: "Anthony Beckwith",
+        categories: ["Restaurant Owner", "Community member"],
     },
 ];
