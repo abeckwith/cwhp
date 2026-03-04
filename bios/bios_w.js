@@ -1274,6 +1274,22 @@ w_bios = [
         otherNotes: "",
         references: `
         
+        <i>Cambridge City Directory</i>, 1954.<br>
+
+        <i>The Cambridge Chronicle</i>, 20 June 1946, 15 April 1948, 7 November 1963, 29 June 1967, 22 May 1975.<br>
+        <i>Massachusetts, U.S., Birth Index</i>, 1860-1970.<Br>
+
+
+        <i>U.S. census</i>, 1940, 1950.<br>
+        <i>The Boston Globe</i>, Apr 27, 1969.<br>
+        <i>CHLS yearbooks</i>: 1945, 1948, 1953:<Br>
+        <a class='indent' href="https://archive.org/details/cambridgehighandlatinyearbooks?sort=-date">https://archive.org/details/cambridgehighandlatinyearbooks?sort=-date</a><Br>
+        <i>The Boston Globe</i>, Feb. 4, 2015:<Br>
+        <a class='indent' href="https://www.legacy.com/us/obituaries/bostonglobe/name/mary-ning-obituary?id=17863466">https://www.legacy.com/us/obituaries/bostonglobe/name/mary-ning-obituary?id=17863466</a><Br>
+
+        <i>U.S., World War II Draft Cards Young Men</i>, 1940-1947 for Loy Lee Wong<Br>
+        <i>The Whistler</i>, Sept. 1995:<Br>
+        <a class='indent' href="https://agassiz.org/wp-content/uploads/2009/11/Whistler-September-1995.pdf">https://agassiz.org/wp-content/uploads/2009/11/Whistler-September-1995.pdf</a><Br>
 
         `,
         photos: [
