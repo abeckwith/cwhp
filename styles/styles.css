@@ -699,15 +699,16 @@ a.search-buttons {
     margin-bottom: 1vh;
     margin-left: 5px;
     margin-right: 5px;
-    font-size: 1.5vh;
+    font-size: 1.7vh;
+    /* font-family:Verdana, Geneva, Tahoma, sans-serif; */
     color: white;
-    border-radius: 1vh;
+    border-radius: 1.5vh;
     background-color: rgb(76, 13, 92);
     border-style: none;
     box-sizing: border-box;
     cursor: pointer;
     flex-shrink: 0;
-    font-weight: 500;
+    font-weight: 650;
     height: 2vh;
     text-align: center;
     text-shadow: rgba(0, 0, 0, 0.25) 0 3px 8px;

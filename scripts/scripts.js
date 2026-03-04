@@ -1274,10 +1274,10 @@ function init(topical, search) {
     if (!topical && !search)
         html +=
             "<center>" +
-            "<button onclick='previous()' class='random-button-sm'>PREV</button>" +
+            "<button onclick='previous()' class='random-button-sm'><< PREV</button>" +
             '<button class="random-button-sm" role="button" onclick="ranPerson(1)">' +
             "RANDOM ENTRY</button>" +
-            "<button onclick='next()' class='random-button-sm'>NEXT</button>";
+            "<button onclick='next()' class='random-button-sm'>NEXT >></button>";
 
     if (!topical && !search) html += "<br></center>" + "</div>";
     else html += "</center></div>";
