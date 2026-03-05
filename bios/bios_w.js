@@ -1251,7 +1251,7 @@ w_bios = [
 
         <b>Mary Yook Wong</b> graduated from St. Paul's parochial school and then CHLS, in 1945. She worked at her parents' 
         restaurant until marrying Chinese-born Fong Pin Ning, who was a businessman and had been a sergeant in the army
-         during World War II. The couple moved to at 107 Oxford Street in Cambridge and had four children. She and her 
+         during World War II. The couple moved to 107 Oxford Street in Cambridge and had four children. She and her 
          husband were financial supporters of the Aggasiz Neighborhood Council in the 1990s. When Mary died in 2015, her
           obituary stated:
         <blockquote>
