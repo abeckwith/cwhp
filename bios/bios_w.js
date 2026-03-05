@@ -1248,7 +1248,7 @@ w_bios = [
 
         <b>Eveline Wong</b> went to the Saint Peters School and then graduated from Cambridge High and Latin School in 1948. 
          She worked as a waitress and a bookkeeper in her parents' restaurant until marrying Edward Chin, a former member
-          of the coast  and a researcher.<br><br>
+          of the U.S. Coast Guard and a researcher.<br><br>
 
         <b>Mary Yook Wong</b> graduated from St. Paul's parochial school and then CHLS, in 1945. She worked at her parents' 
         restaurant until marrying Chinese-born Fong Pin Ning, who was a businessman and had been a sergeant in the army
@@ -1263,14 +1263,14 @@ w_bios = [
 
           <b>Jean Christine Wong</b> worked at the family restaurant and later became a medical lab technician 
         (in 1956, her photo appeared in the Boston Globe administering free diabetes tests during Boston's seventh annual Diabetes Fair)
-         and married James Seeto, of Sharon.
+         and she married James Seeto, who was born in China and lived in Sharon at the time of their marriage.
         <br><br>
 
         <b>Lotus T. Wong</b> graduated from St. Peters school in 1946 and from Matignon High School in Cambridge in 1950. She 
-        worked as a cashier at the family restaurant and later got her Education degree from Boston College. By 1967, 
-        Lotus had returned to the St. Peter's School as a teacher and was married to Alfred Wong of Fall River. Lotus 
-        died in 1975, at age 42, having lived her entire life in Cambridge until she moved to Dartmouth at the end of her 
-        life. She had one daughter, named Emily.<br><Br>
+        worked as a cashier at the family restaurant and later got her education degree from Boston College. By 1967, 
+        Lotus had returned to the St. Peter's School, this time as a teacher, and was married to Alfred Wong of Fall River. Lotus 
+        died in 1975, at age 42, having lived her entire life in Cambridge until she had moved to Dartmouth at the end of her 
+        life. She had one daughter, Emily Wong.<br><Br>
 
         <b>Ruby W. Wong</b> married Youn T. Chung and they had four children together and moved to Belmont. She later worked as a
         receptionist and 
@@ -1289,8 +1289,8 @@ w_bios = [
         in the 18th century...Mrs. Wing's book offers a new approach, a how-to-do-it book that involves decorating anything
          from lamps to coal scuttles."
          </blockquote>
-         Frances died in 1981 in Newton, Mass., but her funeral
-        was at St. Peter's church in Cambridge.
+         Frances died in 1981 in Newton, Mass., with her funeral
+        held at St. Peter's church in Cambridge.
         <br><hr>
         Shee Wong died on April 26, 1994 at Mt. Auburn Hospital at age 89. All her children were still alive at the time,
         except for Lotus. She left 29 grandchildren and 15 great grandchildren,
