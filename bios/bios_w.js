@@ -1241,7 +1241,7 @@ w_bios = [
 
         In the 1940s, Shee and Loy lived at 67
          Putnam Avenue. They owned and ran a Chinese restaurant, called the <i>Wong Restaurant</i>, at 12 Boylston Street, right in the heart
-          of Harvard Square (this may have also been the <i>Young Lee</a> restaurant at 27 Church Street, it's not clear). In
+          of Harvard Square (this may have also been the <i>Young Lee</i> restaurant at 27 Church Street, it's not clear). In
            1950, they moved to 129 Upland Road in Cambridge.<br><Br>
           
           The summary below reviews the details of the lives of Shee's daughters:<Br><Br>
