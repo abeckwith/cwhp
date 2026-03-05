@@ -1239,7 +1239,7 @@ w_bios = [
           Jean Christine (1935), Dorothy Ann (1936), Frances T. (1939), Howard (1943), and Thomas (1946). 
         <br><br>
 
-        In 1940, Shee and Loy lived at 67 Flagg Street, but within a few years had moved right around the corner to 67
+        In the 1940s, Shee and Loy lived at 67
          Putnam Avenue. They owned and ran a Chinese restaurant, called the <i>Wong Restaurant</i>, at 12 Boylston Street, right in the heart
           of Harvard Square. In 1950, they moved to 129 Upland Road in Cambridge.<br><Br>
           
