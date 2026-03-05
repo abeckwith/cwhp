@@ -1247,7 +1247,7 @@ w_bios = [
 
         <b>Eveline Wong</b> went to the Saint Peters School and then graduated from Cambridge High and Latin School in 1948. 
          She worked as a waitress and a bookkeeper in her parents' restaurant until marrying Edward Chin, a former member
-          of the coast guardm and a researcher.<br><br>
+          of the coast  and a researcher.<br><br>
 
         <b>Mary Yook Wong</b> graduated from St. Paul's parochial school and then CHLS, in 1945. She worked at her parents' 
         restaurant until marrying Chinese-born Fong Pin Ning, who was a businessman and had been a sergeant in the army
@@ -1281,7 +1281,7 @@ w_bios = [
         <b>Dorthy Ann Wong</b> married David Chue Ching in 1961.
         <br><br>
         <b>Frances Wong</b> married dentist Richard L. Wing in 1957 and they had two sons. 
-        In 1966, Frances published "The Complete Book of Decoupage." The Boston Globe said her book <blockquote>
+        In 1966, Frances published "The Complete Book of Decoupage." The Boston Globe ... <blockquote>
         
         "...describes the art 
         of decorating surfaces permanently with paper cut-outs...This practice of imitating Chinese art started in Italy 
