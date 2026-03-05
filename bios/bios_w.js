@@ -1221,27 +1221,29 @@ w_bios = [
         middleName: "Shee",
         familyName: "Fong",
 
-        title: `Restaurant owner, mother of ten`,
+        title: `Restaurant owner`,
         birthDate: "1903",
         birthLocation: "Canton, China",
         deathDate: "04.26.1994",
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
 
-        Lee Shee Fong (she went by "Shee") was born in China in 1903. She married Loy Lee Wong, also born in 1903 in China. 
-        The couple arrived 
-        in Seattle in 1926 and from there moved to Cambridge. Shee gave birth to seven girls and three boys, who were
-         all born in Cambridge:<br>
+        Lee Shee Fong (she went by "Shee") co-owned and ran a restaurant in Cambridge and raised ten children.
+         Shee married Loy Lee Wong, also born in 1903 in China, and the couple arrived 
+        in Seattle in 1926, quickly moving from there to Cambridge, Massachusetts. 
+        
+        <br><Br>Shee gave birth to seven girls and three boys, who were
+         all born in Cambridge:
          
-         Mary Yook (1928), Vincent (1930), Evelyn (1931), Lotus T. (1932), twins Ruby (19340),
-          Jean Christine (1935), Dorothy Ann (1936), Frances (1939), Howard (1943), and Thomas (1946). 
+         Mary Yook (1928), Vincent (1930), Evelyn (1931), Lotus T. (1932), Ruby (1934),
+          Jean Christine (1935), Dorothy Ann (1936), Frances T. (1939), Howard (1943), and Thomas (1946). 
         <br><br>
 
         In 1940, Shee and Loy lived at 67 Flagg Street, but within a few years had moved right around the corner to 67
          Putnam Avenue. They owned and ran a Chinese restaurant, called the <i>Wong Restaurant</i>, at 12 Boylston Street, right in the heart
           of Harvard Square. In 1950, they moved to 129 Upland Road in Cambridge.<br><Br>
           
-          The summary below reviews the details of the lives of some of Shee's daughters:<Br><Br>
+          The summary below reviews the details of the lives of Shee's daughters:<Br><Br>
 
         <b>Eveline Wong</b> went to the Saint Peters School and then graduated from Cambridge High and Latin School in 1948. 
          She worked as a waitress and a bookkeeper in her parents' restaurant until marrying Edward Chin, a former member
@@ -1258,6 +1260,10 @@ w_bios = [
         her ability to prepare massive banquets for family and friends. She was also a talented seamstress."
         </blockquote>
 
+          <b>Jean Christine Wong</b> worked at the family restaurant and later became a medical lab technician 
+        (in 1956, her photo appeared in the Boston Globe administering free diabetes tests during Boston's seventh annual Diabetes Fair)
+         and married James Seeto, of Sharon.
+        <br><br>
 
         <b>Lotus T. Wong</b> graduated from St. Peters school in 1946 and from Matignon High School in Cambridge in 1950. She 
         worked as a cashier at the family restaurant and later got her Education degree from Boston College. By 1967, 
@@ -1265,30 +1271,43 @@ w_bios = [
         died in 1975, at age 42, having lived her entire life in Cambridge until she moved to Dartmouth at the end of her 
         life. She had one daughter, named Emily.<br><Br>
 
-        <b>Ruby W. Wong</b> married Youn T. Chung and they had four children together and moved to Belmont. She died in 2006, 
-        at age 72.<br><br>
+        <b>Ruby W. Wong</b> married Youn T. Chung and they had four children together and moved to Belmont. She later worked as a
+        receptionist and 
+        volunteered at the Cambridge Senior Center on Mass. Ave. in North Cambridge. She died in 2006 at 
+        Mt. Auburn Hospital and at her service, the family held a Buddhist ceremony.<br><br>
 
-        <b>Jean Christine Wong</b> worked at the family restaurant and later became a medical lab technician 
-        (in 1956, her photo appeared in the Boston Globe administering free diabetes tests during the seventh annual Diabetes Fair)
-         and married James Seeto, of Sharon.
-        <br><br>
+      
 
         <b>Dorthy Ann Wong</b> married David Chue Ching in 1961.
-        <br><Br>
-        Shee Wong died on April 26, 1994 at Mt. Auburn Hospital at age 89, leaving 29 grandchildren and 15 great grandchildren,
+        <br><br>
+        <b>Frances Wong</b> married dentist Richard L. Wing in 1957 and they had two sons. 
+        In 1966, Frances published "The Complete Book of Decoupage." The Boston Globe said her book <blockquote>
+        
+        "...describes the art 
+        of decorating surfaces permanently with paper cut-outs...This practice of imitating Chinese art started in Italy 
+        in the 18th century...Mrs. Wing's book offers a new approach, a how-to-do-it book that involves decorating anything
+         from lamps to coal scuttles."
+         </blockquote>
+         Frances died in 1981 in Newton, Mass., but her funeral
+        was at St. Peter's church in Cambridge.
+        <br><hr>
+        Shee Wong died on April 26, 1994 at Mt. Auburn Hospital at age 89. All her children were still alive at the time,
+        except for Lotus. She left 29 grandchildren and 15 great grandchildren,
         many of whom lived in Cambridge. She is buried in Mt. Auburn Cemetery.
+        <hr>
+        Below are more images of Lee Shee Wong's daughters:
           `,
         otherNotes: "",
         references: `
         
         <i>Cambridge City Directory</i>, 1954.<br>
 
-        <i>The Cambridge Chronicle</i>, 20 June 1946, 15 April 1948, 7 November 1963, 29 June 1967, 22 May 1975, 5 May 1994.<br>
+        <i>The Cambridge Chronicle</i>, 20 June 1946, 15 April 1948, 12 December 1957, 7 November 1963, 29 June 1967, 22 May 1975, 5 May 1994, 30 March 2006.<br>
         <i>Massachusetts, U.S., Birth Index</i>, 1860-1970.<Br>
 
 
         <i>U.S. census</i>, 1940, 1950.<br>
-        <i>The Boston Globe</i>, Apr 27, 1969, Nov 14, 1956, Sep 03, 1961, Apr 26, 1994 .<br>
+        <i>The Boston Globe</i>, Apr 27, 1969, Nov 14, 1956, Sep 03, 1961, Mar 04, 1966 , Jun 26, 1981, Apr 26, 1994 .<br>
         <i>CHLS yearbooks</i>: 1945, 1948, 1953:<Br>
         <a class='indent' href="https://archive.org/details/cambridgehighandlatinyearbooks?sort=-date">https://archive.org/details/cambridgehighandlatinyearbooks?sort=-date</a><Br>
         <i>The Boston Globe</i>, Feb. 4, 2015:<Br>
@@ -1321,7 +1340,7 @@ w_bios = [
         dateUpdated: "",
         photoPos: [""],
         photoHeights: ["200",
-            "", "", "", "", "200", ""
+            "", "500", "", "", "200", ""
         ],
         editors: "",
         authors: "Anthony Beckwith",
