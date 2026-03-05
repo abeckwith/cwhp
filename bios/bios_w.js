@@ -1217,31 +1217,31 @@ w_bios = [
         poc: false,
         organization: true,
         lastName: "Wong",
-        firstName: "Ide",
-        middleName: "",
+        firstName: "Lee",
+        middleName: "Shee",
         familyName: "Fong",
 
         title: `Restaurant owner, mother of ten`,
         birthDate: "1903",
-        birthLocation: "China",
-        deathDate: "",
-        deathLocation: "",
+        birthLocation: "Canton, China",
+        deathDate: "04.26.1994",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
 
-        Ide Fong was born in China in 1903. She married Loy Lee Wong, also born in 1903 in China. The couple arrived 
-        in Seattle in 1926 and from there moved to Cambridge. Ide gave birth to seven girls and three boys, who were
+        Lee Shee Fong (she went by "Shee") was born in China in 1903. She married Loy Lee Wong, also born in 1903 in China. 
+        The couple arrived 
+        in Seattle in 1926 and from there moved to Cambridge. Shee gave birth to seven girls and three boys, who were
          all born in Cambridge:<br>
          
          Mary Yook (1928), Vincent (1930), Evelyn (1931), Lotus T. (1932), twins Ruby (19340),
           Jean Christine (1935), Dorothy Ann (1936), Frances (1939), Howard (1943), and Thomas (1946). 
         <br><br>
 
-        In 1940, Ide and Loy lived at 67 Flagg Street, but within a few years had moved right around the corner to 67
-         Putnam Avenue and they owned a Chinese restaurant, called <i>Young Lee</i>, at 12 Boylston Street, right in the heart
-          of Harvard Square. In 1950, they moved to 129 Upland Road in Cambridge and by the late 1950s, the restaurant 
-          had moved to 27 Church Street.<br><Br>
+        In 1940, Shee and Loy lived at 67 Flagg Street, but within a few years had moved right around the corner to 67
+         Putnam Avenue. They owned and ran a Chinese restaurant, called the <i>Wong Restaurant</i>, at 12 Boylston Street, right in the heart
+          of Harvard Square. In 1950, they moved to 129 Upland Road in Cambridge.<br><Br>
           
-          The summary below reviews the details of the lives of some of Ide's daughters:<Br><Br>
+          The summary below reviews the details of the lives of some of Shee's daughters:<Br><Br>
 
         <b>Eveline Wong</b> went to the Saint Peters School and then graduated from Cambridge High and Latin School in 1948. 
          She worked as a waitress and a bookkeeper in her parents' restaurant until marrying Edward Chin, a former member
@@ -1251,7 +1251,7 @@ w_bios = [
         restaurant until marrying Chinese-born Fong Pin Ning, who was a businessman and had been a sergeant in the army
          during World War II. The couple moved to at 107 Oxford Street in Cambridge and had four children. She and her 
          husband were financial supporters of the Aggasiz Neighborhood Council in the 1990s. When Mary died in 2015, her
-          obit stated:
+          obituary stated:
         <blockquote>
 
         "Mary was a life-long resident of Cambridge, MA. She is remembered for her mastery of Cantonese style cooking and 
@@ -1268,20 +1268,27 @@ w_bios = [
         <b>Ruby W. Wong</b> married Youn T. Chung and they had four children together and moved to Belmont. She died in 2006, 
         at age 72.<br><br>
 
-        <b>Jean Christine Wong</b> worked at the family restaurant and later became a lab technician and married James Seeto, of Sharon.
+        <b>Jean Christine Wong</b> worked at the family restaurant and later became a medical lab technician 
+        (in 1956, her photo appeared in the Boston Globe administering free diabetes tests during the seventh annual Diabetes Fair)
+         and married James Seeto, of Sharon.
         <br><br>
+
+        <b>Dorthy Ann Wong</b> married David Chue Ching in 1961.
+        <br><Br>
+        Shee Wong died on April 26, 1994 at Mt. Auburn Hospital at age 89, leaving 29 grandchildren and 15 great grandchildren,
+        many of whom lived in Cambridge. She is buried in Mt. Auburn Cemetery.
           `,
         otherNotes: "",
         references: `
         
         <i>Cambridge City Directory</i>, 1954.<br>
 
-        <i>The Cambridge Chronicle</i>, 20 June 1946, 15 April 1948, 7 November 1963, 29 June 1967, 22 May 1975.<br>
+        <i>The Cambridge Chronicle</i>, 20 June 1946, 15 April 1948, 7 November 1963, 29 June 1967, 22 May 1975, 5 May 1994.<br>
         <i>Massachusetts, U.S., Birth Index</i>, 1860-1970.<Br>
 
 
         <i>U.S. census</i>, 1940, 1950.<br>
-        <i>The Boston Globe</i>, Apr 27, 1969.<br>
+        <i>The Boston Globe</i>, Apr 27, 1969, Nov 14, 1956, Sep 03, 1961, Apr 26, 1994 .<br>
         <i>CHLS yearbooks</i>: 1945, 1948, 1953:<Br>
         <a class='indent' href="https://archive.org/details/cambridgehighandlatinyearbooks?sort=-date">https://archive.org/details/cambridgehighandlatinyearbooks?sort=-date</a><Br>
         <i>The Boston Globe</i>, Feb. 4, 2015:<Br>
@@ -1302,7 +1309,7 @@ w_bios = [
             "images_bios/wong_dorothy.png",
         ],
         photoTitles: [
-            "Ide's daughter Mary at CHLS, 1945",
+            "Shee's daughter Mary at CHLS, 1945",
             "CHLS Yearbook, 1948",
             "Eveline's 1952 wedding",
             "1953, CHLS Yearbook",
