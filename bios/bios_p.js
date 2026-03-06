@@ -558,7 +558,9 @@ p_bios = [
         references: ` 
         Ohio State University remembrances:<Br>
         <a class='indent' href="https://u.osu.edu/chinoperlnotes/2013/12/10/rulan-chao-pian/">https://u.osu.edu/chinoperlnotes/2013/12/10/rulan-chao-pian/</a><Br>
-        Images courtesy of Harvard Archives and CUHK digital repository.
+        Images courtesy of Harvard Archives and CUHK digital repository.<br>
+        Cambridge Historical Commission Instagram post:<br>
+        <a class='indent' href="https://www.instagram.com/p/CqLWHcAMVuI/">https://www.instagram.com/p/CqLWHcAMVuI/</a>
         `,
         photos: ["images_bios/pian2.png","images_bios/pian1.png","images_bios/pian3.png"],
         photoTitles: [""],
