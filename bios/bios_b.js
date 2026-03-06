@@ -2647,7 +2647,7 @@ b_bios = [
             <br><br> She participated
             as a member of the <a href="bios.html?lNm=BackPorchDanceCompany&mNm=&fNm=">Back Porch Dance 
             Company</a>.
-            Burke was quoted in a January 1991 <i>Cambridge Chronicle</i>, article describing her very 
+            Burke was quoted in a January 1991 <i>Cambridge Chronicle</i> article describing her very 
             musical Cape Verdean family and that they would celebrate 
             the holidays by dancing the mazurka:
             
