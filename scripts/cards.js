@@ -258,6 +258,16 @@ cards = [
         before <b>founding a groundbreaking women-owned auto mechanics shop</b> in Cambridge in the mid-1980s.
     `,
     },
+     {
+        name: "Rulan Chao Pian",
+        link: "bios.html?last=Pian&middle=&first=Rulan",
+        image: "images_bios/pian2.png",
+        description: `Pian was an ethnomusicologist who got her Ph.D. in East Asian Languages and Music in 1960. 
+        She also edited and translated her mother's 1945 book “How to Cook and Eat in Chinese.” 
+        That publication was responsible for
+         <b>introducing the terms "stir fry" and "pot sticker" into the American lexicon.</b>
+    `,
+    },
      // {
     //     name: "",
     //     link: "",
@@ -266,6 +276,27 @@ cards = [
     // `,
     // },
      // {
+    //     name: "",
+    //     link: "",
+    //     image: "",
+    //     description: `
+    // `,
+    // },
+       // {
+    //     name: "",
+    //     link: "",
+    //     image: "",
+    //     description: `
+    // `,
+    // },
+     // {
+    //     name: "",
+    //     link: "",
+    //     image: "",
+    //     description: `
+    // `,
+    // },
+       // {
     //     name: "",
     //     link: "",
     //     image: "",

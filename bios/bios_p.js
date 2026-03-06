@@ -490,4 +490,84 @@ p_bios = [
         authors: "Anthony Beckwith, Matthew Peters",
         categories: ["Social worker", "Volunteer", "Teacher/Educator"],
     },
+       {
+        poc: false,
+        organization: false,
+        lastName: "Pian",
+        firstName: "Rulan",
+        middleName: "",
+        familyName: "Chao",
+        
+        title: `Musician and ethnomusicologist`,
+        birthDate: "04.20.1922",
+        birthLocation: "Cambridge, Massachusetts",
+        deathDate: "11.30.2013",
+        deathLocation: "Cambridge, Massachusetts",
+        narrative: `
+        Rulan Chao Pian was born in 1922 to a prominent Chinese family. Her father was linguist and composer 
+        Yuen Ren Chao and her mother was physician and food writer Buwei Yang Chao. The family had resided in 
+        Cambridge since 1920, after her father was appointed to the faculty at Harvard. <br><br>
+
+        Growing up in Cambridge, Rulan was always interested in music, specifically the piano. She enrolled at 
+        Radcliffe College where she received a Bachelor of Arts and Masters of Arts in music history (Western music)
+         in 1943 and 1946, respectively, and a Ph.D. in both East Asian Languages and in Music in 1960.<br><br>
+        
+        In 1945, she married Theodore Pian, who later was hired as Professor of Aeronautics and Astronautics at MIT.
+         Not long after her marriage, Rulan worked as an instructor and lecturer in Chinese language at Harvard; she 
+         would later became Professor in the Department of Music and the Department of East Asian Languages and Civilizations, 
+         in that role, she was one of three tenured female professors in the Harvard Music Department. Together with her 
+         husband, she became co-master of Harvard's South House (now Cabot House), the first non-white housemasters in
+          Harvard history, and they mentored students for years in this role. She retired from Harvard in 1992, but 
+          continued to teach students individually in her home, some of whom lived with her upon their arrival from China.<br><br>
+        
+        Besides her work at Harvard, Rulan, alongside her father, edited and translated her mother's 1945 book “How to
+         Cook and Eat in Chinese,” the book responsible for introducing the terms "stir fry" and "pot sticker" into
+          the American lexicon. In 1961, Rulan and Theodore purchased the Modern house at 14 Brattle Circle, where 
+          they raised their daughter Canta Chao-po Pian. <br><br>
+
+        Pian's 
+        personal collection of manuscripts, correspondence, musical instruments, audio-visual materials, and more was
+         donated to the library of the Chinese University of Hong Kong before her death, a gift which has begun a lasting 
+         impact on Chinese music education for years to come.<br><br>
+
+        At the time of her death, many wrote online remembrances of her, including:
+
+        <blockquote>
+        "Prof. Pian was the most important teacher in my life. When I was a student barely surviving on $1 a day, 
+        she and her husband Ted welcomed me to their home. They not only housed me, fed me, but more importantly, 
+        provided me a nourishing environment where I was able to search for my spiritual and cultural homeland. At 
+        this sad moment, I am so very grateful for and proud of her extraordinary life!" 
+        </blockquote>
+        Another wrote:
+        <blockquote>
+
+        "At that time, I was a TA in world-music courses, although I did not stay in ethnomusicology, and she was <i>wonderful</i>
+         to me: warm, funny (she had a great sense of humor and loved to laugh), always teaching and in the gentlest way. 
+         She taught us all not only how to broaden our scope to include non-Western music but how to be a good person as well
+          as a good scholar."
+        </blockquote>
+
+        A faculty member of the Harvard Music Department wrote:
+        <blockquote>
+
+        "I will always be grateful to Rulan Pian, who paved the way for ethnomusicology in the Harvard Music Department."
+        </blockquote>
+                
+                `,
+        otherNotes: "",
+        references: ` 
+        Ohio State University remembrances:<Br>
+        <a class='indent' href="https://u.osu.edu/chinoperlnotes/2013/12/10/rulan-chao-pian/">https://u.osu.edu/chinoperlnotes/2013/12/10/rulan-chao-pian/</a><Br>
+        Images courtesy of Harvard Archives and CUHK digital repository.
+        `,
+        photos: ["images_bios/pian2.png","images_bios/pian1.png","images_bios/pian3.png"],
+        photoTitles: [""],
+        dateCreated: "03.06.2026",
+        dateUpdated: "",
+
+        photoHeights: [""],
+        editors:"",
+        authors: "Eric Hill",
+        categories: ["Musician", "Ethnomusicologist"],
+    },
 ];
