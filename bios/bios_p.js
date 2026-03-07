@@ -504,9 +504,9 @@ p_bios = [
         deathDate: "11.30.2013",
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
-        Rulan Chao Pian was born in 1922 to a prominent Chinese family. Her father was linguist and composer 
-        Yuen Ren Chao and her mother was physician and food writer Buwei Yang Chao. The family had resided in 
-        Cambridge since 1920, after her father was appointed to the faculty at Harvard. <br><br>
+        Rulan Chao Pian's mother was physician and food writer Buwei Yang Chao. Her father was linguist and composer 
+        Yuen Ren Chao. The couple moved to 
+        Cambridge in 1920, two years before Rulan's birth, after her father was appointed to the faculty at Harvard. <br><br>
 
         Growing up in Cambridge, Rulan was always interested in music, specifically the piano. She enrolled at 
         Radcliffe College where she received a Bachelor of Arts and Masters of Arts in music history (Western music)

@@ -87,7 +87,7 @@ cards = [
         link: "bios.html?ln=CambridgeSchoolofArchitectureandLandcapeArchitecture&mN=&fN=",
         image: "images_bios/CSALA_195x250.jpeg",
         description:
-            "CSALA was the first such school to offer <b>women graduate training</b> in both architecture and landscape architecture under a single faculty",
+            "CSALA was the first such school to <b>offer women graduate training</b> in both architecture and landscape architecture under a single faculty",
     },
 
     {
