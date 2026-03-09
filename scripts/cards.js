@@ -63,7 +63,7 @@ cards = [
         link: "bios.html?lNm=Marshall&mNm=Jean&fNm=Lorna",
         image: "images_bios/marshall_lorna.jpg",
         description:
-            "Marhsall was an anthropologist, who published a book about the !Kung people and who <b>lived be to 104 years old. </b>"+
+            "Marhsall was an anthropologist who published a book about the !Kung people. She <b>lived be to 104 years old. </b>"+
             "Over a period of two decades, she spent <b>more time in Botswana and Namibia than she did in Cambridge</b>, developing close personal ties to the !Kung for her book.",
     },
     {

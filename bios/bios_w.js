@@ -1303,12 +1303,13 @@ w_bios = [
         
         <i>Cambridge City Directory</i>, 1954.<br>
 
-        <i>The Cambridge Chronicle</i>, 20 June 1946, 15 April 1948, 12 December 1957, 7 November 1963, 29 June 1967, 22 May 1975, 5 May 1994, 30 March 2006.<br>
+        <i>The Cambridge Chronicle</i>, 20 June 1946, 15 April 1948, 12 December 1957, 7 November 1963, 29 June 1967, 22 May 1975, 
+        5 May 1994, 30 March 2006.<br>
         <i>Massachusetts, U.S., Birth Index</i>, 1860-1970.<Br>
 
 
         <i>U.S. census</i>, 1940, 1950.<br>
-        <i>The Boston Globe</i>, Apr 27, 1969, Nov 14, 1956, Sep 03, 1961, Mar 04, 1966 , Jun 26, 1981, Apr 26, 1994 .<br>
+        <i>The Boston Globe</i>,  Nov 14, 1956, Sep 03, 1961, Mar 04, 1966 , Apr 27, 1969, Jun 26, 1981, Apr 26, 1994.<br>
         <i>CHLS yearbooks</i>: 1945, 1948, 1953:<Br>
         <a class='indent' href="https://archive.org/details/cambridgehighandlatinyearbooks?sort=-date">https://archive.org/details/cambridgehighandlatinyearbooks?sort=-date</a><Br>
         <i>The Boston Globe</i>, Feb. 4, 2015:<Br>
