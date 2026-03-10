@@ -90,13 +90,14 @@ function setUpMainPage() {
                     recentYear = y;
                     recentMonth = m;
                     recentDay = d;
+                    formattedDate = formatDate("", bio.dateCreated);
                     mostRecentHMTL =
                     "<i>Latest addition to the project: </i><br>"+
                         "<span id='latest-link'><a  href='" +
                         getHref(bio.lastName, bio.middleName, bio.firstName) +
                         "'>" + bio.firstName +
                     " " + bio.lastName +
-                    "</a></span><br><span id='small-date'>(added " + bio.dateCreated.replaceAll(".", "/") + ")</span>";
+                    "</a></span><br><span id='small-date'>(added " + formattedDate + ")</span>";
 
                       document.getElementById("most-recent").innerHTML = mostRecentHMTL;
                 }   
