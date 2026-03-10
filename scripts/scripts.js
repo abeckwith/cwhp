@@ -132,10 +132,15 @@ function showRecents(num) {
                     if (thename.firstName != "") fnm = ", " + thename.firstName;
                     else fnm = "";
 
+                    //get rid of leading zero:
+                    formattedDate = thename.dateCreated;
+                    if(thename.dateCreated.charAt(0) == "0")
+                        formattedDate = "&nbsp;&nbsp;" + formattedDate.substring(1);
+
                     //put together display:
                     html_build =
                         "<br></i>" +
-                        thename.dateCreated.replaceAll(".", "/") +
+                        formattedDate.replaceAll(".", "/") +
                         ":</b>&nbsp;&nbsp;<span class='recents-name'>" +
                         "<a href='" +
                         getHref(
@@ -217,10 +222,16 @@ function showRecents(num) {
                     //if org, not first name, so don't show a , :
                     if (thename.firstName != "") fnm = ", " + thename.firstName;
                     else fnm = "";
+
+                     //get rid of leading zero:
+                    formattedDate = thename.dateUpdated;
+                    if(thename.dateUpdated.charAt(0) == "0")
+                        formattedDate = "&nbsp;&nbsp;" + formattedDate.substring(1);
+                    
                     // html +=
                     html_build =
                         "<br></i>" +
-                        thename.dateUpdated.replaceAll(".", "/") +
+                        formattedDate.replaceAll(".", "/") +
                         ":</b>&nbsp;&nbsp;<span class='recents-name'>" +
                         "<a href='" +
                         getHref(
