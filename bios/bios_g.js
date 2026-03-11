@@ -990,9 +990,9 @@ g_bios = [
         references: ` 
           Oral interview by Anthony Beckwith, December 8, 2025.<br>
         MIT Black History article: <br>
-        https://www.blackhistory.mit.edu/archive/yvonne-harris-and-sherry-glanville-ca-1965, "Yvonne Harris and Sherr Glanville, ca. 1965" (no longer available)<br>
-        Upworthy.com:<br>
-         <a class='indent' href="https://www.upworthy.com/cambridge-community-center" >"How this beloved, 90-year-old community center continues to be a haven for so many to this day"</a>, March 29, 2020<br>
+        <a class='indent' href="https://www.blackhistory.mit.edu/archive/yvonne-harris-and-sherry-glanville-ca-1965">https://www.blackhistory.mit.edu/archive/yvonne-harris-and-sherry-glanville-ca-1965</a><br>
+        Upworthy.com, March 29, 2020<:<br>
+         <a class='indent' href="https://www.upworthy.com/cambridge-community-center" >"How this beloved, 90-year-old community center continues to be a haven for so many to this day"</a><br>
 
         CCC Facebook post:<br> 
         <a class='indent' href="https://www.facebook.com/CambCommCenter/posts/meet-yvonne-gittens-recipient-of-the-2019-janet-ms-k-kendrick-sisters-of-the-cen/10162414874505357/" >"Meet Yvonne Gittens"</a>,  Oct. 7, 2019<br>
