@@ -657,6 +657,9 @@ a.search-buttons {
     #latest-link {
         font-size: 3vw;
     }
+    #expand-icon{
+        width:4vw;
+    }
 }
 
 #menu-text {
