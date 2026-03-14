@@ -281,6 +281,6 @@ function setUpMainPage() {
         rotatePhotos();
 
         // after initial rotate:
-        setInterval(repeatedTask, 13000);
-    }, 13000);
+        setInterval(repeatedTask, 12000);
+    }, 12000);
 }
