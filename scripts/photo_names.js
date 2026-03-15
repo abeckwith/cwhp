@@ -55,7 +55,6 @@ photoList = [
     "bios.html?lNm=Morgan&mNm=&fNm=Maud",
     "bios.html?lNm=Morrison&mNm=&fNm=Kathleen",
     "bios.html?lNm=Parsons&mNm=Elizabeth&fNm=Emily",
-    "bios.html?lNm=Peters&mNm=&fNm=Kaethe",
     "bios.html?lNm=Roe&mNm=&fNm=Anne",
     "bios.html?lNm=Roorbach&mNm=Elizabeth&fNm=Anne",
     "bios.html?lNm=Saavedra-Keber&mNm=&fNm=Sylvia",

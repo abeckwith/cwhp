@@ -270,7 +270,8 @@ function setUpMainPage() {
     /* rotate 5 photos at a time */
     function rotatePhotos() {
         shift += 1;
-        if (shift == 25) shift = 0; //wrap
+        // console.log(shift)
+        if (shift == 20) shift = 0; //wrap
         html = buildLinks(shift);
 
         document.getElementById("random-intro-photos").innerHTML = html;

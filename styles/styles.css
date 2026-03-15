@@ -35,8 +35,8 @@ body {
     right: 0;
     background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent black background */
     padding: 10px;
-    margin-left:1vw;
-    margin-right:1vw;
+    margin-left:2.25vw;
+    margin-right:2.25vw;
     text-align: center;
     font-size:0.8vw;
 }
