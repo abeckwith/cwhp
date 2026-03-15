@@ -22,7 +22,24 @@ body {
     text-decoration: none; /* Removes the underline from all link states */
     color: inherit; /* Makes the link text color inherit from its parent element */
 }
+.container {
+    position: relative; /* The container is the positioning context for the caption */
+    color: white;
+}
 
+.caption-overlay {
+    position: absolute; /* Position the caption absolutely within its container */
+    bottom: -6vw; 
+    /* Position it at the bottom of the image */
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent black background */
+    padding: 10px;
+    margin-left:1vw;
+    margin-right:1vw;
+    text-align: center;
+    font-size:0.8vw;
+}
 .abouts {
     margin-left: 10vw;
     margin-right: 10vw;

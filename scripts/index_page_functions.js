@@ -200,7 +200,7 @@ function setUpMainPage() {
         firstNamePhoto = stripped.substring(stripped.indexOf("=") + 1);
 
         namePhoto =
-            firstNamePhoto + " " + middleNamePhoto + " " + lastNamePhoto;
+            firstNamePhoto + " " + lastNamePhoto;
 
         //find bio:
         info = getLocation(lastNamePhoto, middleNamePhoto, firstNamePhoto);
@@ -237,7 +237,7 @@ function setUpMainPage() {
             person2 = buildBio(currentPerson);
 
             links.push(
-                "<a href='" +
+                "<span class='container'><a href='" +
                     currentPerson +
                     "' target='_self'><img class='opening-images' src='" +
                     person2.photos[0] +
@@ -245,7 +245,12 @@ function setUpMainPage() {
                     namePhoto +
                     "'' title='" +
                     namePhoto +
-                    "'></a>",
+                    "'>"+
+                    " <span class='caption-overlay'>"+
+                    namePhoto + "</span></span></a>",
+
+                   
+  
             );
         }
         html += "</div></div>";
@@ -264,7 +269,7 @@ function setUpMainPage() {
 
     /* rotate 5 photos at a time */
     function rotatePhotos() {
-        shift += 5;
+        shift += 1;
         if (shift == 25) shift = 0; //wrap
         html = buildLinks(shift);
 
@@ -281,6 +286,6 @@ function setUpMainPage() {
         rotatePhotos();
 
         // after initial rotate:
-        setInterval(repeatedTask, 13000);
-    }, 1000);
+        setInterval(repeatedTask, 6000);
+    }, 6000);
 }
