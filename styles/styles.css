@@ -34,7 +34,7 @@ body {
     left: 0;
     right: 0;
     background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent black background */
-    padding: 10px;
+    padding: 0.5vw;
     margin-left:2.25vw;
     margin-right:2.25vw;
     text-align: center;
@@ -546,6 +546,12 @@ a.search-buttons {
     #end-html #opening-pictures {
         font-size: 20px;
     }
+    #small-date {
+    font-size: 2.5vw;
+}
+#latest-text{
+    font-size: 2.7vw;
+}
     #bdaydisplay,
     #dailybday {
         font-size: 20px;
@@ -556,6 +562,12 @@ a.search-buttons {
     #end-html {
         font-size: 5px;
     }
+    .caption-overlay {
+   
+    padding: 0.2vw;
+
+    font-size:1.8vw;
+}
     .flicker {
         font-size: 20px;
         margin-bottom: 10px;

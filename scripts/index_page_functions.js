@@ -92,7 +92,7 @@ function setUpMainPage() {
                     recentDay = d;
                     formattedDate = formatDate("", bio.dateCreated);
                     mostRecentHMTL =
-                    "<i>Latest addition to the project: </i><br>"+
+                    "<i><span id='latest-text'>Latest addition to the project:</span> </i><br>"+
                         "<span id='latest-link'><a  href='" +
                         getHref(bio.lastName, bio.middleName, bio.firstName) +
                         "'>" + bio.firstName +
