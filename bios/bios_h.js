@@ -1253,4 +1253,100 @@ h_bios = [
         authors: "",
         categories: ["Astronomer"],
     },
+       {
+        poc: false,
+        organization: false,
+        lastName: "Hazen",
+        firstName: "Fannie",
+        middleName: "Hallycarnie",
+        familyName: "Titus",
+
+        title: `Nurse, dressmaker`,
+        birthDate: "05.09.1840.",
+        birthLocation: "Vershire, Vermont",
+        deathDate: "01.15.1930",
+        deathLocation: "Cambridge, Massachusetts",
+        narrative: `
+          
+            Fannie (Titus) Hazen (1840-1930) was born in Vershire, Vermont, being the eldest of
+        eleven children of Simeon Bacon Titus and Eliza Jane (Morris) Titus. At thirteen, Fannie
+        moved to Lawrence, Massachusetts and lived with her grandmother, attending grammar
+        school there. She worked briefly as a teacher until the age of eighteen, when she found
+        employment at one of the large textile mills in Lawrence. Leaving the mill on account of
+        an accident, she remained in Lawrence and took up dressmaking until the beginning of
+        the Civil War.
+        <Br><br>
+
+        Fannie's eldest brother, James M. Titus, enlisted in 1861 in the Fourth Vermont
+        Regiment, was wounded at Gettysburg in July 1863. He would die later that year of
+        disease. In November 1863, two of Fannie's younger brothers, Morris P. Hazen,
+        eighteen years old, and Joseph L. Hazen, seventeen, enlisted in the Fourth Vermont
+        Regiment. Fannie returned to Vershire to say farewell. They left the next day for the
+        front.
+                <Br><br>
+
+        Fanny Hazen offered her services to the Sanitary Commission and the Christian
+        Commission to serve as a nurse but she was turned down due to her young age. She
+        applied to Miss Dorthea Dix, Superintendent of Army Nurses in Washington, for an
+        appointment but was again told that she was too young. Fannie persisted in her request
+        and explained that she had lost one brother in the war already and had two brothers,
+        one seventeen (Joseph) and the other eighteen (Morris), in the service, she begged to
+        be allowed to stay in Washington and serve her country. Miss Dix acquiesced and
+        Fannie was sent to Columbia Hospital, Washington, D.C., where she stayed until it
+        closed in June of 1865. While serving as a nurse, after the Battle of Cold Harbor,
+        Virginia in 1864, her youngest brother Joseph, was brought to her with a head wound.
+        Fannie gallantly nursed him until he recovered enough to go home on leave. Her
+        service at the hospital during the Civil War was exemplary and lauded by surgeons,
+        nurses, patients and by Dorthea Dix herself.
+
+         In 1897, referring to her service as Army Nurse during the Civil War, Fannie wrote:
+         <blockquote>
+        "Hour after hour, through those nights of death, I watched the light flicker and die of
+        many noble men whose lives were a sacrifice for their country. Weeks seemed months,
+        and months like years, that ages had passed since my hospital work commenced; and
+        yet the day was not long enough to finish all one would like to do."
+                </blockquote>
+
+        After the war, Fannie Titus married Charles Richard Hazen, a native of Hartford, VT, a
+        veteran of the Nineteenth Massachusetts Infantry, serving until April 1864, when he was
+        honorably discharged. He was a military courier connected with the United States
+        Sanitary Commission. The couple eventually lived on a farm in Chelmsford before
+        Charles' deteriorating health caused by his injury caused them to move to Cambridge,
+        where he found work as a provisions dealer. The couple struggled financially along with
+        Charles' declining health, and Fannie as a result opened a dressmaking establishment
+        and was employed at the Harvard College Divinity School overseeing the grounds and
+        buildings. Seeing success, Fannie purchased a large house at 61 Oxford Street in
+        Cambridge near the college buildings she later worked at.
+                <Br><br>
+
+        Besides her professional work, Fannie Hazen was elected President of the
+        Massachusetts Army Nurses Association also serving as a member of the Woman&#39;s
+        Relief Corps, Daughters of the American Revolution, Cambridge Equal Suffrage League
+        and more. Fannie wrote about some of her experiences in “Our Army Nurses” a 1897
+        publication highlighting the stories of nurses who served their country during the Civil
+        War. In 1924, 84-year-old Fanny was given a key to the City of Boston by Mayor
+        Curley. She was active in nurses and women's groups until her death in 1930. She was
+        predeceased by her husband Charles. Fannie Titus Hazen was 89 years old.
+                <Br><br>
+`,
+        otherNotes: "",
+        references: ` 
+        <i>Our Army Nurses : Unteresting Sketches and Photographs of Over One Hundred
+        of the Noble Women Who Served in Hospitals and on Battlefields During Our Late Civil War,
+        1861-65</i>: Holland, Mary Gardner:<Br>
+        <a class='indent' href="https://archive.org/details/ourarmynursesint00inholl/page/466/mode/2up">https://archive.org/details/ourarmynursesint00inholl/page/466/mode/2up</a>
+
+          
+        
+             `,
+        photos: ["images_bios/hazen.png", ""],
+        photoTitles: [],
+        dateCreated: "03.21.2026",
+        dateUpdated: "",
+
+        photoHeights: [],
+        editors: "",
+        authors: "Eric Hill",
+        categories: ["Nurse", "Dresskmaker"],
+    },
 ];

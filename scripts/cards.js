@@ -268,13 +268,16 @@ cards = [
          <b>introducing the terms "stir fry" and "pot sticker" into the American lexicon.</b>
     `,
     },
-     // {
-    //     name: "",
-    //     link: "",
-    //     image: "",
-    //     description: `
-    // `,
-    // },
+     {
+        name: "Fannie Hazen",
+        link: "bios.html?last=Hazen&middle=Hallycarnie&first=Fannie",
+        image: "images_bios/hazen.png",
+        description: `
+        Because several of her brothers were enlisted at the time, Fannie <b>insisted that she be
+        able to serve as a nurse in the Civil War </b>and was accepted after repeated rejections because of her young
+        age. After the war, she opened a dress-making establishment in Cambridge to help support her family.
+    `,
+    },
      // {
     //     name: "",
     //     link: "",
