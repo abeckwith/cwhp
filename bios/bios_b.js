@@ -705,7 +705,7 @@ b_bios = [
         poc: false,
         organization: true,
         lastName: "Bee",
-        firstName: "The",
+        firstName: "",
         middleName: "",
         familyName: "",
 
