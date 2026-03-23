@@ -1261,7 +1261,7 @@ h_bios = [
         middleName: "Hallycarnie",
         familyName: "Titus",
 
-        title: `Nurse, dressmaker`,
+        title: `Civil War Nurse`,
         birthDate: "05.09.1840.",
         birthLocation: "Vershire, Vermont",
         deathDate: "01.15.1930",
@@ -1335,7 +1335,10 @@ h_bios = [
         of the Noble Women Who Served in Hospitals and on Battlefields During Our Late Civil War,
         1861-65</i>: Holland, Mary Gardner:<Br>
         <a class='indent' href="https://archive.org/details/ourarmynursesint00inholl/page/466/mode/2up">https://archive.org/details/ourarmynursesint00inholl/page/466/mode/2up</a>
-
+        <br>
+        <i>Sketches of Representative Women of New England</i>, p.466-467, edited by Julia Ward Howe, Mary Hannah Graves:<Br>
+        <a class='indent' href="https://books.google.com/books?id=BY0EAAAAYAAJ">https://books.google.com/books?id=BY0EAAAAYAAJ</a><Br>
+        Birth and death dates from <i>Ancestry.com</i><br>
           
         
              `,
