@@ -23,7 +23,7 @@ async function copyTextToClipboard() {
   try {
     // Check if the Clipboard API is available and the method exists
     if (navigator?.clipboard?.writeText) {
-      await navigator.clipboard.writeText(allJustNames);
+      await navigator.clipboard.writeText(allJustNames.replaceAll("<br>", ""));
       console.log('Text successfully copied to clipboard');
       document.getElementById("copy-button").textContent = "COPIED TO CLIPBOARD!";
     } else {
@@ -71,7 +71,7 @@ function loadInfoPage(checkLinks) {
 
     birthSort = [];
 
-    allNames = "Organizataions in <b>bold</b><Br>";
+    allNames = "Organizataions in <b>bold</b><br>";
     allJustNames = "";
     bio_count = 0; //total number of bios
     noimgct = 0; //total with no image
@@ -225,7 +225,7 @@ function loadInfoPage(checkLinks) {
                 theLink += nameBuild;
             }
             allNames += bio_count + ". " + theLink + "</a><br>";
-            allJustNames += nameBuild + "\n";
+            allJustNames += nameBuild + "\n<br>";
 
             //check if has full date (as opposed to ca.2016)
             hasFullDate =
@@ -393,7 +393,7 @@ function loadInfoPage(checkLinks) {
     document.getElementById("alive-display").innerHTML = aliveDisplay + "<br>";
 
     document.getElementById("all-display").innerHTML = allNames;
-    document.getElementById("all-display-just-names").innerHTML = allJustNames;
+    // document.getElementById("all-display-just-names").innerHTML = allJustNames;
 
     document.getElementById("birth-display").innerHTML = birthDisplay;
 }
