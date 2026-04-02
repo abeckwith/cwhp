@@ -1596,40 +1596,47 @@ b_bios = [
         narrative: `
 
 
-            Ann Keefe was born in Boston on December 3, 1939,
-            the daughter of Irish immigrants. She grew up in Cambridge and graduated from
-            Matignon High School. She married Frank Bolger ca. 1960. 
-            
-            <br><br>
-            
-            She worked as parent
-            liaison at the Graham and Parks Alternative Public School for 27 years (she lived at 10 Saint 
-            Paul Street, near City Hall). The
-            Parent Liason positions, now a universal feature of Cambridge schools, are based
-            on the job she created. Her work is nationally recognized as a model for family
-            involvement in schools. She developed a system for forming well-balanced classrooms,
-            she created an admissions policy for CAPS, a complex process looking at race,
-            gender, and income. She served 21 years on the board of Cambridge School Volunteers.
-            For 5 years she was a member of the School Health Task Force, successfully lobbying
-            for additional school nurses and for a comprehensive health policy for the schools.
-            
-            <br><br>
+          
+        Ann Keefe was born in Boston on December 3, 1939, the daughter of Irish immigrants. She grew up in Cambridge and graduated from Matignon High School. She married Frank Bolger around 1960, who, in the 1970s, was listed as a carpenter working for Mass. General Hospital, just over the river in Boston.
+        <br><br>
+        She worked as parent liaison at the Graham and Parks Alternative Public School for 27 years (she lived at 10 Saint Paul Street, near City Hall). The Parent Liason positions, now a universal feature of Cambridge schools, are based on the job she created. Her work is nationally recognized as a model for family involvement in schools. She developed a system for forming well-balanced classrooms, she created an admissions policy for CAPS, a complex process looking at race, gender, and income. She served 21 years on the board of Cambridge School Volunteers. For 5 years she was a member of the School Health Task Force, successfully lobbying for additional school nurses and for a comprehensive health policy for the schools.
+        <br><br>
 
-            In an 1983 article about the Central Square area, Ann was quoted as saying <blockquote>
-            "All of us in the bordering neighborhoods should think about including Central Square as part of our communities."
-            </blockquote>
+        In 1970, Bolger was the Longfellow Community School council secretary.
+        In 1982, there was a discussion
+        (and a bit of controversy) over renaming the newly-combined
+        Cambridge Alternative Schools (CPS) and the Daniel Webster School to
+        the Rosa Parks School. Bolger was a parent coordinator for the "New
+        Alternative Webster School" (a temporary name) and was interviewed
+        in the Cambridge Chronicle:
+        <blockquote>
+
+        "Everyone was free to suggest a name. It could be a famous person, a not so famous person, a
+        concept of an idea, or a geographic area. [The only restriction was] that the word 'Alternative' appear
+        in the new name. Some of the suggested names were really unusual—a lot of thought went into it.
+        Several people...suggested it would be nice to have a Cambridge school named for a minority
+        woman. Names like 'Umojo,' and African word for unity, and 'Calliope,' a musical instrument in which all
+        the parts have to work together [were included in the suggestions.]"
+        </blockquote>
+
+        Bolger also served with the Cambridge School Volunteers and was part of the CSV Long Range Planning
+        Committee. She stayed involved in the schools for more than 20 years and upon her passing, the Graham and
+        Parks School library was renamed in her honor. 
+
+
+    
 
             `,
         otherNotes: "",
         references: ` <i>Cambridge Chronicle</i>, June 13, 2001.<br>
         <i>Cambridge Chronicle</i>, 2 June 1983.<br>
-        <i>Cambridge City Directory</i>, 1968.
+        <i>Cambridge City Directory</i>, 1968, 1972.
 
         `,
         photos: [""],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "12.21.2025",
+        dateUpdated: "03.29.2026",
 
         photoHeights: [],
         editors: "Anthony Beckwith",

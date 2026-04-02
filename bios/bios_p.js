@@ -572,4 +572,92 @@ p_bios = [
         authors: "Eric Hill",
         categories: ["Musician", "Ethnomusicologist"],
     },
+    //        {
+    //     poc: false,
+    //     organization: false,
+    //     lastName: "Paris",
+    //     firstName: "Estelle",
+    //     middleName: "",
+    //     familyName: "Williams",
+        
+    //     title: `Nurse, health advocate, hospital administrator, volunteer`,
+    //     birthDate: "06.28.1924",
+    //     birthLocation: "Buffalo, New York",
+    //     deathDate: "05.30.2017",
+    //     deathLocation: "Cambridge, Massachusetts",
+    //     narrative: `
+    //    Estelle Williams was born to Henry and Estella Williams in 1924. She married Leonard Archibald Paris, who was born Nova Scotia,
+    //     Canada, and was a WWII Army veteran.
+    //     Paris earned her Bachelor of Science degree from Emmanuel College and went to Boston City Hospital's School of Nursing. She
+    //      got her Nurse Practitioner certificate from Harvard Medical School and Mass. General Hospital and belonged to the American 
+    //      Nurses Association and the Nurse Practitioner Associates for Continuing Education. Paris was heavily involved in the life 
+    //      of the City of Cambridge for all of her adult life.
+    //     <br><Br>
+
+    //     In the 1950s, Paris served on the Cambridge Community Center (CCC) parents' committee and volunteered for a local Girl Scouts 
+    //     troop (over the next several decades was deeply involved in the CCC). By 1973, she was serving as a nurse practitioner at the 
+    //     Cambridge Hospital and became the head nurse of pediatrics and adults there. In 1977, she was serving on the Cambridge 
+    //     Biohazards Committee, which was looking at Harvard and MIT's recombinant DNA research, a hotly-debated topic in Cambridge 
+    //     at the time, with Mayor Vellucci becoming directly involved. By 1979, Paris was at the Cambridge Department of Health, Hospital,
+    //      and Housing and helping to hire a new nurse for the North Cambridge Jefferson Park Neighborhood Health Clinic. Paris lived on 
+    //      Fayerweather Street for much of her adult life.
+    //     <br><Br>
+    //     In 1988, she was appointed to the Health and Governing Policy Board of the Cambridge Hospital. That same year, she played a 
+    //     key role in establishing one of the first school-based teen health centers in Massachusetts at Cambridge, Rindge &
+    //     Latin School. In 1990, she was the President of the Cambridge Health Policy Board and in 1992, in a Cambridge Chronicle piece 
+    //     on health care costs written by Barbara Ackermann, Paris is quoted as she describes the "mental gymnastic" providers have to 
+    //     deal with because of deductibles:
+    //     <blockquote>
+    //     There are "...what I call disallowables. What we should have to worry about is not 'Is this a billable visit?' but 'What care 
+    //     does this patient need?'"
+    //     </blockquote>
+
+
+    //     A 1993 Cambridge Chronicle article described Paris as "central in creating neighborhood clinics in the 1960s." The article 
+    //     also described how she and Cambridge Hospital CEO John O'Brien had a personal audience with first lady Hillary Clinton in 
+    //     August of that year. Clinton was impressed with how the hospital was run and praised the hospital for "going beyond conventional
+    //      health care." The Estelle Paris Scholarship at the Cambridge Hospital was set up in 1994  in her name "for resident youths who
+    //       aspire to careers in health care." The scholarship continues today.<br><Br>
+
+    //     In 1993, Paris was the keynote speaker at Cambridge Women's Health Day and at the 1996 YWCA's Tribute to Women, Paris gave 
+    //     this advice to the women attending:
+    //     <blockquote>
+    //     "You need to have goals in your life. You need to care enough about yourself to want to do something for your community, 
+    //     because when you care about yourself, you help others."</blockquote>
+
+    //     In 2013, Paris received an award for helping to make Cambridge a healthier city. Paris had been one of the first black 
+    //     certified nurse practitioners in Cambridge in the 1970s
+    //     and trained several generations of nurses and resident physicians.
+
+    //     In 2005, Paris had been given the Trustee Excellence in Leadership Award. In her nomination, it was described early on 
+    //     she realized…
+    //     <blockquote>
+    //     "...that the health needs of the Afro-American population in Cambridge were being largely unmet, Paris advocated and s
+    //     pearheaded the launch of the Riverside Health Center. Today, the Center, which started as a very modest storefront operation, 
+    //     is a state-of-the-art facility located at 205 Western Avenue in Cambridge…Paris also helped establish the Oliver E. 
+    //     Farnum Senior Health Center, named after Oliver E. Farnum, a dedicated activist and African American civic leader, who worked
+    //     tirelessly on behalf of the elderly." </blockquote>
+
+                
+    //             `,
+    //     otherNotes: "",
+    //     references: ` 
+    //         <i>U.S. Census</i>, 1950.<br>
+    //     <i>U.S., Public Records Index</i>, 1950-1993, Volume 1.<br>
+    //     <i>Boston Herald American’s Cambridge Rambler</i>, 22 September 1977. <br>
+    //     <i>The Cambridge Chronicle</i>, 5 May 1955, 15 August 1957, 30 August 1979, 7 July 1988, 13 September 1990, 23 January 1992, 
+    //     12 August 1993, 18 April 1996, 3 October 1996, 6 June 2013
+    //     <i>The Boston Globe</i>, Jan. 6, 2016, Jun 11, 2017.<br>
+    //     <a href="https://www.linkedin.com/pulse/trustee-excellence-leadership-award-awarded-estelle-paris-burrows">https://www.linkedin.com/pulse/trustee-excellence-leadership-award-awarded-estelle-paris-burrows</a>
+    //     `,
+    //     photos: ["images_bios/parisjuly11993cambchr.png"],
+    //     photoTitles: ["July 1, 1993 Cambridge Chronicle"],
+    //     dateCreated: "04.01.2026",
+    //     dateUpdated: "",
+
+    //     photoHeights: ["400"],
+    //     editors:"",
+    //     authors: "Anthony Beckwith",
+    //     categories: ["Nurse", "Community Activist"],
+    // },
 ];
