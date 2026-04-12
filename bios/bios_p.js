@@ -596,7 +596,7 @@ p_bios = [
 
     //     In the 1950s, Paris served on the Cambridge Community Center (CCC) parents' committee and volunteered for a local Girl Scouts 
     //     troop (over the next several decades was deeply involved in the CCC). By 1973, she was serving as a nurse practitioner at the 
-    //     Cambridge Hospital and became the head nurse of pediatrics and adults there. In 1977, she was serving on the Cambridge 
+    //     Cambridge Hospital and became the head nurse of pediatrics and adults there. Paris served on the 1977 Cambridge 
     //     Biohazards Committee, which was looking at Harvard and MIT's recombinant DNA research, a hotly-debated topic in Cambridge 
     //     at the time, with Mayor Vellucci becoming directly involved. By 1979, Paris was at the Cambridge Department of Health, Hospital,
     //      and Housing and helping to hire a new nurse for the North Cambridge Jefferson Park Neighborhood Health Clinic. Paris lived on 
@@ -613,13 +613,13 @@ p_bios = [
     //     </blockquote>
 
 
-    //     A 1993 Cambridge Chronicle article described Paris as "central in creating neighborhood clinics in the 1960s." The article 
+    //     The Cambridge Chronicle article described Paris as "central in creating neighborhood clinics in the 1960s." The 1993 article 
     //     also described how she and Cambridge Hospital CEO John O'Brien had a personal audience with first lady Hillary Clinton in 
     //     August of that year. Clinton was impressed with how the hospital was run and praised the hospital for "going beyond conventional
     //      health care." The Estelle Paris Scholarship at the Cambridge Hospital was set up in 1994  in her name "for resident youths who
     //       aspire to careers in health care." The scholarship continues today.<br><Br>
 
-    //     In 1993, Paris was the keynote speaker at Cambridge Women's Health Day and at the 1996 YWCA's Tribute to Women, Paris gave 
+    //     Paris was the keynote speaker at the 1993 Cambridge Women's Health Day. At the 1996 YWCA's Tribute to Women, Paris gave 
     //     this advice to the women attending:
     //     <blockquote>
     //     "You need to have goals in your life. You need to care enough about yourself to want to do something for your community, 

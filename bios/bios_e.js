@@ -51,7 +51,17 @@ e_bios = [
             
             <br><br>In 1964 the American Public Health
             Association established an annual award in her name to recognize her achievements
-            in maternal and child health. In 1972, she was awarded the prestigious Howland
+            in maternal and child health. 
+
+            In 1965, Radcliffe payed tribute to three alumnae we had made "distinguished contributions in their fields," including Eliot. 
+            They described her as 
+
+            <blockquote>
+            "...a physician and leader in organizations devoted to the health and welfare of children [which] has been equalled by few women 
+            or men" and a "statesman among public servants and a master of the enlightened use of organizations."
+            </blockquote>
+            
+            In 1972, she was awarded the prestigious Howland
             prize by that organization, the first woman to receive it (at the time, she was living
             at 21 Francis Avenue in Cambridge). 
            
@@ -65,7 +75,7 @@ e_bios = [
             <br>Image from wikipedia.com:<br>
             <a class='indent' href="https://en.wikipedia.org/wiki/Martha_May_Eliot">https://en.wikipedia.org/wiki/Martha_May_Eliot</a>
              <br>
-             <i>The Cambridge Chronicle</i>, 8 October 1959. <br>
+             <i>The Cambridge Chronicle</i>, 8 October 1959, 24 June 1965. <br>
              <i>Cambridge City Directory</i>, 1972.<br>
              Second Image from the National Library of Medicine:<br>
              <a class='indent' href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1448446/">https://pmc.ncbi.nlm.nih.gov/articles/PMC1448446/<.a> `,
@@ -73,10 +83,10 @@ e_bios = [
         photos: ["images_bios/martha_may_eliot.jpg", "images_bios/eliot2.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "",
+        dateUpdated: "04.08.2026",
         photoPos: [],
         photoHeights: [],
-        editors:"",
+        editors:"Anthony BEckwith",
         authors: "CWHP volunteers",
         categories: ["Doctor"],
     },
@@ -131,7 +141,7 @@ e_bios = [
         dateUpdated: "04.05.2025",
         photoPos: [],
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist", "Volunteer"],
     },
@@ -206,7 +216,7 @@ e_bios = [
         dateUpdated: "04.05.2025",
         photoPos: [],
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist", "Teacher/Educator"],
     },
