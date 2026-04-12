@@ -1262,7 +1262,7 @@ h_bios = [
         familyName: "Titus",
 
         title: `Civil War Nurse`,
-        birthDate: "05.09.1840.",
+        birthDate: "05.09.1840",
         birthLocation: "Vershire, Vermont",
         deathDate: "01.15.1930",
         deathLocation: "Cambridge, Massachusetts",
