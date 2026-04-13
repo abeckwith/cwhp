@@ -330,7 +330,7 @@ function displayCards() {
             else mgn = "margin-right:20vw";
             
             html +=
-                '<div class="w3-container no-underline-area">' +
+                '<div class="w3-container no-underline-area fade-element">' +
                 '<a href="' +
                 element.link +
                 '"><div class="w3-card-4" style="width:50%;' +
