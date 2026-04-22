@@ -70,12 +70,20 @@ w_bios = [
             Commonplace, on Oxford Street in Cambridge where she lived for the rest of her
             life. Jim and Julia worked for many peace and social justice causes and hosted
             refugee families from Chile and El Salvador, sometimes for as long as a year,
-            during the periods of oppression in Central and South America. They both were
+            during the periods of oppression in Central and South America. 
+            
+            They both were
             active in the Sanctuary movement (1985 &#8211; 1990) and Julia accompanied Estela
             Ramirez/Magdalena Rivas while she presented her talks on the movement. Julia
             sat on the Cambridge-San Jos&eacute; las Flores sister city committee (1986
             &#8211; 2009), often traveling to San Salvador to encourage democratic development
-            and cultural exchange. <br><br>
+            and cultural exchange. In 1987, Wallace was part of a delegation that visited San Joe las Flores, 
+            in El Salvador. Wallace described the purpose of the visit to the war-torn area:
+            <blockquote>
+            "The people of las Flores invited Cambridge to be a Sister City because they believe that knowledge 
+            about their situation in North America is the best guarantee of their safety."
+            </blockquote>
+       
 
             Toward the end of her life, stricken with Alzheimers,
             she continued to work to the best of her ability with different disadvantaged
@@ -93,6 +101,8 @@ w_bios = [
         references: `
             Obituary <i>The Boston Globe</i>, January 5, 2010.<br>
             Family information.<br>
+            <i>The Cambridge Chronicle</i>, 18 June 1987.<br>
+
             <i>Cambridge City Directory</i>, 1972.
         `,
         photos: ["images_bios/Juliaquilt_cropped_small.jpg"],
@@ -100,7 +110,7 @@ w_bios = [
             "Quilt created by Adbar Ethiopian Women's Alliance in honor of Wallace",
         ],
         dateCreated: "00.00.2014",
-        dateUpdated: "",
+        dateUpdated: "04.22.2026",
 
         photoHeights: [],
         editors: "",

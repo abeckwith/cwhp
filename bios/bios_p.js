@@ -26,7 +26,13 @@ p_bios = [
             Island. Her health deteriorated further, but in spite of this she was given
             a position with the Western Sanitary Commission in Saint Louis, Missouri. There
             she worked at Lawson Hospital and later on a steamboat for wounded and ill soldiers,
-            <i>City of Alton</i>. During this period, she contracted malaria. She was
+            <i>City of Alton</i>. During this period, she contracted malaria. When her father suggested
+            she give up nursing to tend to her own health, she replied:
+            <blockquote>
+            "Remember that I am in the army just as Chauncy is and I must be held to work just as he is; you would never think of 
+            requesting that he not be sent on picket duty because it was hard work."
+            </blockquote>
+            She was
             made supervisor of nurses at the Barracks Hospital, near St. Louis, the largest
             hospital in the area, where she reduced the death rate remarkably. After the
             war, the hospital began to serve freed slaves. <br><br>
@@ -50,12 +56,14 @@ p_bios = [
         references: `<i>Notable American Women</i> (1950).<br>
         <i>Biographical
                 Dictionary of Women Scientists</i> (2000).<br>
+                 <i>Fearless Purpose: Memoir of Emily Elizabeth Parsons</i>, Little Brown and Company, 1880:<br>
+                 <a class='indent' href="https://archive.org/details/memoiremilyeliz00parsgoog/page/n54/mode/2up">https://archive.org/details/memoiremilyeliz00parsgoog/page/n54/mode/2up</a><br>
             Image from wikipedia public domain entry for Emily Parsons.
         `,
         photos: ["images_bios/emily_Parsons.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "04.12.2025",
+        dateUpdated: "04.22.2026",
 
         photoHeights: [],
         editors:"",
