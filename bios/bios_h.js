@@ -185,7 +185,7 @@ h_bios = [
         dateUpdated: "01.10.2026",
 
         photoHeights: [],
-        editors: "Anthony BEckwith",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Businesswoman"],
     },

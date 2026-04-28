@@ -2491,7 +2491,7 @@ b_bios = [
         dateUpdated: "01.29.2026",
 
         photoHeights: [],
-        editors: "Anthony BEckwith",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Volunteer"],
     },

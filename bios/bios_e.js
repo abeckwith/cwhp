@@ -86,7 +86,7 @@ e_bios = [
         dateUpdated: "04.08.2026",
         photoPos: [],
         photoHeights: [],
-        editors:"Anthony BEckwith",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Doctor"],
     },
