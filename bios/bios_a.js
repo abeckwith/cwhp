@@ -328,7 +328,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         dateUpdated: "07.15.2025",
 
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator"],
     },
@@ -842,7 +842,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         dateUpdated: "07.24.2025",
 
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Factory Worker"],
     },

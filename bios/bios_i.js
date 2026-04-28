@@ -78,7 +78,7 @@ i_bios = [
         photoPos: ["2"],
 
         photoHeights: ["200"],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator"],
     },

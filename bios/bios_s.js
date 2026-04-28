@@ -68,7 +68,7 @@ s_bios = [
         dateUpdated: "04.11.2025",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Community Leader", "Teacher/Educator"],
     },
@@ -173,7 +173,7 @@ s_bios = [
         photoHeights: ["250"],
         photoPos: ["2"],
 
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Refugee", "Poet", "Author"],
     },
@@ -769,7 +769,7 @@ s_bios = [
         dateUpdated: "04.12.2025",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Community Leader", "Political Leader"],
     },

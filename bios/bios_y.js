@@ -272,7 +272,7 @@ y_bios = [
         dateUpdated: "04.12.2025",
         photoPos: ["3"],
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Social/Philanthropic Organization"],
     },

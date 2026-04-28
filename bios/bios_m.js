@@ -697,7 +697,7 @@ m_bios = [
         dateUpdated: "04.05.2025",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Historian/History Project"],
     },
@@ -767,7 +767,7 @@ m_bios = [
         dateUpdated: "04.05.2025",
 
         photoHeights: ["200"],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Doctor"],
     },
@@ -852,7 +852,7 @@ by Cate McQuaid,, April 12, 2017.
         dateUpdated: "04.12.2025",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Artist", "Teacher/Educator"],
     },
@@ -1135,7 +1135,7 @@ by Cate McQuaid,, April 12, 2017.
         dateUpdated: "04.30.2025",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "Anthony Beckwith",
         categories: ["Activist", "Poet", "Author"],
     },

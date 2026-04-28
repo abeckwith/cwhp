@@ -116,7 +116,7 @@ l_bios = [
         dateUpdated: "04.12.2025",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Writer", "Editor"],
     },
@@ -586,7 +586,7 @@ l_bios = [
         dateUpdated: "04.05.2025",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Abolitionist", "Poet"],
     },
@@ -645,7 +645,7 @@ l_bios = [
         dateUpdated: "04.05.2025",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Author"],
     },

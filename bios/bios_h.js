@@ -318,7 +318,7 @@ h_bios = [
         dateUpdated: "04.07.2025",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Psychiatrist"],
     },
@@ -388,7 +388,7 @@ h_bios = [
         dateUpdated: "04.08.2025",
 
         photoHeights: [250, 150],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Clergy", "Teacher/Educator"],
     },
@@ -450,7 +450,7 @@ h_bios = [
         dateUpdated: "04.05.2025",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Editor"],
     },
@@ -1079,7 +1079,7 @@ h_bios = [
         <br>
         <i>Cambridge City Directory</i>, 1876.<br>
         Art News article, 2014:<br>
-        <a class='indent' href="https://www.artnews.com/art-news/news/celebrating-anna-hyatt-huntington-2371/></a>
+        <a class='indent' href="https://www.artnews.com/art-news/news/celebrating-anna-hyatt-huntington-2371/">https://www.artnews.com/art-news/news/celebrating-anna-hyatt-huntington-2371/</a>
             `,
         photos: ["images_bios/Anna_Vaughn_Hyatt.jpg"],
         photoTitles: [],

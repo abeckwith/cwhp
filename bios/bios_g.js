@@ -285,7 +285,7 @@ g_bios = [
         dateUpdated: "04.05.2025",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Poet", "Author"],
     },
@@ -681,7 +681,7 @@ g_bios = [
         dateUpdated: "04.08.2025",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist", "Teacher/Educator"],
     },
@@ -781,7 +781,7 @@ g_bios = [
         dateUpdated: "04.08.2025",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Historian/History Project"],
     },

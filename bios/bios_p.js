@@ -66,7 +66,7 @@ p_bios = [
         dateUpdated: "04.22.2026",
 
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Community Leader", "Nurse"],
     },
@@ -206,7 +206,7 @@ p_bios = [
         dateUpdated: "04.07.2025",
 
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Scientist"],
     },
@@ -390,7 +390,7 @@ p_bios = [
             <a class='indent' href="https://www.legacy.com/us/obituaries/bostonglobe/name/sylvia-piltch-obituary?id=17084405">
             https://www.legacy.com/us/obituaries/bostonglobe/name/sylvia-piltch-obituary?id=17084405</a><br>
             <i>Cambridge City Directory</i>, 1931.
-            <i>Cambridge Chronicle</a>, 13 June 1946, 4 May 1950, 29 October 1970.
+            <i>Cambridge Chronicle</i>, 13 June 1946, 4 May 1950, 29 October 1970.
             <i>Boston Herald American's Cambridge Rambler</i>, 24 September 1977.
 
         `,

@@ -438,6 +438,7 @@ c_bios = [
             <i>27th Annual report of Cambridge Social Union</i> October 31, 1889, p 12,
             (see George Wright Collection at The Cambridge Historical Society).
             <br>
+            <i>Cambridge Tribune</i>, October 1892 <br>
             May Alden Ward.&#8221;The Influence of Women's Clubs in New England and in the
             Middle-Eastern States,&#8221; <i>Annals of the American Academy of Political
                 and Social Science</i>, Vol. 28 Woman's Work and Organizations (Sep., 1906),
@@ -453,7 +454,7 @@ c_bios = [
         photos: ["images_bios/cantabrigia.png"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "October 1892 Cambridge Tribune",
+        dateUpdated: "",
 
         photoHeights: [],
         editors: "",
@@ -801,7 +802,7 @@ c_bios = [
         dateUpdated: "12.14.2025",
 
         photoHeights: [],
-        editors: "Anthony Beckwith (updates)",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Chef"],
     },

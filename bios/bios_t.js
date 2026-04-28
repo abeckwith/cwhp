@@ -147,7 +147,7 @@ t_bios = [
         dateUpdated: "04.07.2025",
 
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator"],
     },
@@ -371,7 +371,7 @@ t_bios = [
         dateUpdated: "04.12.2025",
 
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Scientist"],
     },

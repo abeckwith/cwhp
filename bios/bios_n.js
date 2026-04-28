@@ -64,7 +64,7 @@ n_bios = [
         dateUpdated: "04.12.2025",
         photoPos: ["2"],
         photoHeights: ["150"],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
     },

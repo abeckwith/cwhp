@@ -1241,7 +1241,7 @@ function next() {
     bioURL =
         "/" + getHref(person.lastName, person.middleName, person.firstName);
     window.history.pushState({}, "New Title", bioURL);
-    console.log("next:", bioURL);
+    // console.log("next:", bioURL);
 
     setBoldInSideBar(bios, currentLetter, currentPersonIndex);
 }

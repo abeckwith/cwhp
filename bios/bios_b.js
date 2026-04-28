@@ -349,7 +349,7 @@ b_bios = [
         dateUpdated: "11.14.2025",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Abolitionist", "Refugee"],
     },
@@ -406,7 +406,7 @@ b_bios = [
         dateUpdated: "07.29.2025",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Community Leader", "Pilot"],
     },
@@ -1467,7 +1467,7 @@ b_bios = [
             <i>Notable American Women</i> (1607-1950) Vol I.
             <br>
             George Grantham Bain Collection, Library of Congress.
-            <br><i>Cambridge City Directory<i>, 1944.<br>
+            <br><i>Cambridge City Directory</i>, 1944.<br>
             <i>The Cambridge Chronicle</i>, 6 June 1935.
 
 
@@ -2050,7 +2050,7 @@ b_bios = [
         dateUpdated: "04.06.2025",
 
         photoHeights: ["200"],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: [
             "Historian/History Project",
@@ -2910,7 +2910,7 @@ b_bios = [
         dateUpdated: "04.06.2025",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: [""],
     },

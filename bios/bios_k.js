@@ -63,7 +63,7 @@ k_bios = [
         dateCreated: "prior to 2009",
         dateUpdated: "04.06.2025",
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: [
             "Political Leader",
@@ -138,7 +138,7 @@ k_bios = [
         dateUpdated: "04.05.2025",
 
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Scientist"],
     },

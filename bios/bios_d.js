@@ -43,7 +43,7 @@ d_bios = [
         dateUpdated: "04.07.2025",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Historian/History Project"],
     },
@@ -459,7 +459,7 @@ d_bios = [
             <a class='indent' href="https://infinitehistory.mit.edu/video/henrietta-davis">https://infinitehistory.mit.edu/video/henrietta-davis</a> <br>
             Board Member Bio, ICLEI website.<br>
                         Photo credit: Richard Bock.<Br>
-            Interview from <i>Infinite History<i>, September 15, 2015:
+            Interview from <i>Infinite History</i>, September 15, 2015:
             <a class='indent' href="https://infinite.mit.edu/video/henrietta-davis/">https://infinite.mit.edu/video/henrietta-davis/</a>
 
         `,
@@ -1279,8 +1279,8 @@ d_bios = [
                 <i>The Cambridge Tribune</i>, 12 October 1929.<br>
         <i>The Cambridge Chronicle</i>, 19 November 1936, 18 January 1940, 27 January 1944, 26 September 1946, 
         4 April 1974,  15 September 1994,  9 November 1995,  28 November 1996.<br>
-        <i>Cambridge City Directory<i>, 1944.<br>
-        <i>The Boston Globe<i>,  Aug 17, 1968.<br>
+        <i>Cambridge City Directory</i>, 1944.<br>
+        <i>The Boston Globe</i>,  Aug 17, 1968.<br>
         <i>The Cambridge Sentinel<i>, 16 January 1937.
         <br>Photo of Musty's: Cambridge Historical Commission archives.
                     `,

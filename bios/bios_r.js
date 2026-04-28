@@ -165,7 +165,7 @@ r_bios = [
         dateUpdated:"04.07.2025",
         
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Psychologist"],
     },
@@ -307,7 +307,7 @@ r_bios = [
             (under Betty A. Rubinow) January 22, 2007.<br>
             <i>Cambridge City Directory</i>, 1961.<br>
             <i>The Boston Globe</i>, Jan 25, 2007.<br>
-            <br>Image from <i>Vermont Community Newspaper Group:<br>
+            <br>Image from <i>Vermont Community Newspaper Group</i>:<br>
             <A class='indent' href="https://www.vtcng.com/stowereporter/archives/betty-ann-orlov-rubinow/article_5b7f7b21-06cb-5708-ae30-d74b45d2059f.html" >
             https://www.vtcng.com/stowereporter/archives/betty-ann-orlov-rubinow/article_5b7f7b21-06cb-5708-ae30-d74b45d2059f.html</a>
         `,

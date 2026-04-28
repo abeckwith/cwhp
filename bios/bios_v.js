@@ -48,7 +48,7 @@ v_bios = [
         dateUpdated:"04.06.2025",
         
         photoHeights: [],
-        editors:"",
+        editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist"],
     },
