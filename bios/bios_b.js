@@ -3360,7 +3360,7 @@ b_bios = [
        from 1978 to 1994. 
         <br><br>
 
-        In 1966, Darlene "Dar" Nicgorski became a nun in the School Sisters of St. Francis order. As part of her work, 
+        In 1966, <a href="bios.html?last=Nicgorski&middle=&first=Darlene">Darlene "Dar" Nicgorski</a> became a nun in the School Sisters of St. Francis order. As part of her work, 
         she started a childcare center in Holly Springs, Mississippi. 
         <br><br>
 
@@ -3425,7 +3425,8 @@ b_bios = [
         including the 1987 <i>Ms.</i> magazine Woman of the Year, the <i>Earl Warren Civil Liberties Award</i> from the
          ACLU of Northern California, and the <i>Mayor's Proclamation and Key to the City</i> in Santa Cruz.
          <br><Br>
-         Nicgorski died in Pomona, California, on February 28, 2017, at the age of 73.
+         <a href="bios.html?last=Nicgorski&middle=&first=Darlene">Dar Nicgorski</a> died in Pomona, California, on February 28, 2017, at the age of 73.
+       
 
 
 

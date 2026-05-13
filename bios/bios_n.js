@@ -83,7 +83,7 @@ n_bios = [
         deathLocation: "Pomona, California",
         narrative: `
 
-      Chicago-born Chris Blackburn attended seminary in Newton, Massachusetts, and later moved to Wisconsin to work as a 
+      Chicago-born <a href="bios.html?last=Blackburn&middle=&first=Chris">Chris Blackburn</a> attended seminary in Newton, Massachusetts, and later moved to Wisconsin to work as a 
       campus minister.  She returned to the Boston area in 1977 and worked as the executive director of The University 
       Christian Movement in New England, which had an office in the basement of First Church in Cambridge-Congregational,
        from 1978 to 1994. 
