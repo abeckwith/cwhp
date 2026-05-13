@@ -161,7 +161,7 @@ n_bios = [
             `,
         otherNotes: "",
         references: `
-         Peace Commission Awardees:<Br>
+         City of Cambridge Peace Commission Awardees:<Br>
          <a class='indent' href="https://www.cambridgema.gov/-/media/Files/peacecommission/peaceandjusticeawardees19952006.pdf">https://www.cambridgema.gov/-/media/Files/peacecommission/peaceandjusticeawardees19952006.pdf</a>
          <br>  
          University of Arizona's Sanctuary Movement Papers:<br>     

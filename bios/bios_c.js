@@ -970,7 +970,7 @@ c_bios = [
         references: `Written by Kimm Topping, printed in <i>Mapping Feminist Cambridge</i>
             guidebook, 2019: <a
                 href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a>
-<br>Photo: Cambridge Chronicle,24 October 1989.
+<br>Photo: <i>Cambridge Chronicle</i>, 24 October 1989.
         `,
         photos: ["images_bios/clayground.png"],
         photoTitles: [],
