@@ -154,7 +154,6 @@ n_bios = [
         including the 1987 <i>Ms.</i> magazine Woman of the Year, the <i>Earl Warren Civil Liberties Award</i> from the
          ACLU of Northern California, and the <i>Mayor's Proclamation and Key to the City</i> in Santa Cruz.
          <br><Br>
-         Nicgorski died in Pomona, California, on February 28, 2017, at the age of 73.
 
 
 
