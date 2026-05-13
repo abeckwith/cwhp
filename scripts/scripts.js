@@ -542,7 +542,7 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
             refIndent += "<span class='references'>" + element + "</span><Br>";
         });
 
-        html += "<br><br><strong>References:</strong><br>" + refIndent; //person.references;
+        html += "<br><br><strong>References & Sources:</strong><br>" + refIndent; //person.references;
     }
 
     //add link to open printable version:
