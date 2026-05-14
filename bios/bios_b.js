@@ -3457,7 +3457,7 @@ b_bios = [
         photoHeights: [""],
         editors: "Meta Partenheimer",
         authors: "Anthony Beckwith",
-        categories: ["Human Rights Activist"],
+        categories: ["Activist", "Nun"],
     },
     //     {
     //     poc: false,
