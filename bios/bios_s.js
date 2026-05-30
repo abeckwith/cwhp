@@ -154,7 +154,7 @@ s_bios = [
             Sarton published more than fifty books of poetry, memoirs, novels, and essays.
             <br><br>In 1982, the first comprehensive scholarly look at her work, <i>May Sarton:
                 Woman and Poet</i> by Constance Hunting, was published by the National Poetry
-            Foundation. In 1996, a plaque commemorating her life and work, was erected on
+            Foundation. In 1996, a plaque commemorating her life and work was erected on
             the grounds of the main branch of the Cambridge Public Library. `,
         otherNotes: "",
         references: ` May Sarton, <i>I Knew a Phoenix</i>,<i>Plant
