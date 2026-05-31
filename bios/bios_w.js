@@ -1330,7 +1330,7 @@ w_bios = [
 
         <i>U.S., World War II Draft Cards Young Men</i>, 1940-1947 for Loy Lee Wong<Br>
         <i>The Whistler</i>, Sept. 1995:<Br>
-        <a class='indent' href="https://agassiz.org/wp-content/uploads/2009/11/Whistler-September-1995.pdf">https://agassiz.org/wp-content/uploads/2009/11/Whistler-September-1995.pdf</a><Br>
+        <a class='indent' href="https://agassiz.org/wp-content/uploads/2009/11/Whistler-September-1995.pdf">https://agassiz.org/wp-content/uploads/2009/11/Whistler-September-1995.pdf</a> (no longer available)<Br>
 
         `,
         photos: [

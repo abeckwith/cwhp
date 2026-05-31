@@ -134,7 +134,7 @@ y_bios = [
             <br> <br>
             <i>Rewire.News</i> articles by Susan Yanow, accessed 6/2/1010:<br> <a
                 href="https://rewire.news/author/susan-yanow/" >https://rewire.news/author/susan-yanow/</a> <br>
-            Self-Managed Abortion Podcast, Part 1: <a href="https://www.smapodcast.org" >https://www.smapodcast.org</a>
+            Self-Managed Abortion Podcast, Part 1: <a href="https://www.smapodcast.org" >https://www.smapodcast.org</a> (no longer available)
             <br> <br>
             Women Help Women: Euki App.<br> <a
                 href="https://womenhelp.org/en/page/1082/euki-app" >https://womenhelp.org/en/page/1082/euki-app</a> <br>

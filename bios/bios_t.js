@@ -289,8 +289,8 @@ t_bios = [
             Oral history of Mary Crutchfield Thompson in Black Women Oral History Project,
             conducted by Schlesinger Library, Radcliffe and in the Sophia Smith Collection,
             Smith College Northampton Mass.:<br>
-            <A class='indent' href="https://iiif.lib.harvard.edu/manifests/view/drs:45177050$15i">
-            https://iiif.lib.harvard.edu/manifests/view/drs:45177050$15i</a>
+            <A class='indent' href="https://nrs.lib.harvard.edu/URN-3:RAD.SCHL:10050460:VIEW?n=15">
+           https://nrs.lib.harvard.edu/URN-3:RAD.SCHL:10050460:VIEW?n=15</a>
             <br>
             Schlesinger Library, online Flickr photo album, link viewed February 23, 2015:<br>
             <a class='indent' href="https://www.flickr.com/photos/schlesinger_library/13270319163/">https://www.flickr.com/photos/schlesinger_library/13270319163/</a> <br>

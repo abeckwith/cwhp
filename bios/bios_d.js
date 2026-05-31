@@ -549,10 +549,9 @@ d_bios = [
                 Deihl, Marcia. Papers of Marcia Deihl, 1965-2011 (inclusive). Schlesinger Library on the History of
                 Women in America, Radcliffe Institute for Advanced Study, 2009-M153, 2016-M80. Web. 31 March 2019:
                <br>http://id.lib.harvard.edu/alma/990120776210203941/catalog (no longer available). <br>
-                Ely, Elissa. &ldquo;Marcia Deihl.&rdquo; The Remembrance Project. WBUR. Boston, Massachusetts. July 7,
+                Ely, Elissa. &ldquo;Marcia Deihl.&rdquo; The Remembrance Project. WBUR. Boston, Massachusetts,
                 2015. Radio: <br><a class='indent'
-                    href="https://www.wbur.org/remembrance-project/2015/07/07/the-remembrance-project-marcia-deihl"
-                    >https://www.wbur.org/remembrance-project/2015/07/07/the-remembrance-project-marcia-deihl</a>.
+                    https://www.wbur.org/the-remembrance-project/2015/07/07/the-remembrance-project-marcia-deihl">https://www.wbur.org/the-remembrance-project/2015/07/07/the-remembrance-project-marcia-deihl</a>.
                 <br>
                 Hale, Kendall. <i>Radical Passions</i>. Bloomington: iUniverse, 2008. E-book. <br>
                 New Harmony Sisterhood Band. &hellip;And Ain&rsquo;t I a Woman, Paredon Records, 1977. Smithsonian

@@ -917,11 +917,9 @@ by Cate McQuaid,, April 12, 2017.
             great grandchildren. (New York Times, 1988.) `,
         otherNotes: "",
         references: `
-            Books and Writers website, <i>Robert (Lee) Frost (1874-1963)</i>. 2002. Found
-            on
-            May
-            31, 2008
-            at <a href="http://www.kirjasto.sci.fi/rfrost.htm" >http://www.kirjasto.sci.fi/rfrost.htm</a>.<br><br>
+            Books and Writers website, <i>Robert (Lee) Frost (1874-1963)</i>. 2002. Found on
+            May 31, 2008
+            at <a href="http://www.kirjasto.sci.fi/rfrost.htm" >http://www.kirjasto.sci.fi/rfrost.htm</a> (site no longer active).<br><br>
             Faggen,
             R. (2001). <i>The Cambridge Companion to Robert Frost. </i>University Press,
             Cambridge, UK. Found on May 15, 2008 
