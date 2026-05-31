@@ -571,7 +571,9 @@ g_bios = [
             This was created in 1984 by artist David Fichter on a commission from the Cambridge
             Arts Council. When she was no longer an elected official, she continued to
             be an important political figure, fighting against unfair practices such as
-            the recent redistricting of the Cambridge legislative seats.`,
+            the recent redistricting of the Cambridge legislative seats.
+            <br><Br>
+            Watch a <a href="https://bostonlocaltv.org/catalog/V_B8UZAUZIDWD0OLN">1988 WGBH <i>10 O'Clock News</i></a> piece with Graham.`,
         otherNotes: "",
         references: `
             Graham and Parks Alternative School web site<br>
@@ -585,7 +587,7 @@ g_bios = [
         photos: [ "images_bios/graham2.png", "images_bios/Saundra_Graham.png"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "12.27.2025",
+        dateUpdated: "05.31.2026",
 
         photoHeights: [],
         editors: "Anthony Beckwith",

@@ -200,7 +200,9 @@ e_bios = [
             who lives in Maryland with his wife Thulie and two children, Kali and Avery.<br><br>
 
             After retirement, Ewing hosted a monthly community access TV program on women and work, 
-            and has been a part of the Cambridge Committee to Raise the Minimum Wage.`,
+            and has been a part of the Cambridge Committee to Raise the Minimum Wage.<br><br>
+            Watch some <a href="https://bostonlocaltv.org/catalog/BPL_HAEN4MXSID7PQAV"> video footage of the 888 Memorial Drive event</a>
+            from the early 1970's on WHDH TV, `,
         otherNotes: "",
         references: `
             Tess Ewing staff biography (autobiographical statement), College of Public and
@@ -213,7 +215,7 @@ e_bios = [
         photos: ["images_bios/tess_ewing.jpg"],
         photoTitles: [],
         dateCreated: "00.00.2014",
-        dateUpdated: "04.05.2025",
+        dateUpdated: "05.31.2026",
         photoPos: [],
         photoHeights: [],
         editors:"Anthony Beckwith",

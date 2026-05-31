@@ -1092,7 +1092,10 @@ w_bios = [
                 center's financial problems were due to business decisions made on ideological grounds. DeLorey says 
                 "The original collective structure was unwieldy and burdensome..lt may have been ideologically nice but
                 it did not work."
-            </blockquote>`,
+            </blockquote>
+            Watch a <a href="https://bostonlocaltv.org/catalog/V_3YWDHR580M76IGB">1977 interview</a> about the Health Center.
+            `
+            ,
         otherNotes: "",
         references: `
             NOTE: The Women&rsquo;s Community Health Center archive is housed at Schlesinger Library, Radcliffe Institute.<br>
@@ -1106,7 +1109,7 @@ w_bios = [
         photos: ["images_bios/wchc.png"],
         photoTitles: ["April 1979 Cambridge Chronicle"],
         dateCreated: "prior to 2009",
-        dateUpdated: "02.06.2026",
+        dateUpdated: "05.31.2026",
 
         photoHeights: ["130"],
         editors: "Anthony Beckwith",
