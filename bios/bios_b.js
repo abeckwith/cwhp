@@ -2431,7 +2431,7 @@ b_bios = [
             Second photo and quote from Charlotte Hawkins Brown Museum:<br>
             <a class='indent' href="https://web.archive.org/web/20181002211340/http://www.nchistoricsites.org/chb/early-life.htm">https://web.archive.org/web/20181002211340/http://www.nchistoricsites.org/chb/early-life.htm</a>
             <Br>
-            Biograhy.com (link no longer live)<br>
+            Biograhy.com (link no longer available)<br>
             Wikipedia entry:<br>
             <a class='indent' href="https://en.wikipedia.org/wiki/Charlotte_Hawkins_Brown">https://en.wikipedia.org/wiki/Charlotte_Hawkins_Brown</a>
         `,
