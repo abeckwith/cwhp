@@ -580,92 +580,110 @@ p_bios = [
         authors: "Eric Hill",
         categories: ["Musician", "Ethnomusicologist"],
     },
-    //        {
-    //     poc: false,
-    //     organization: false,
-    //     lastName: "Paris",
-    //     firstName: "Estelle",
-    //     middleName: "",
-    //     familyName: "Williams",
+           {
+        poc: false,
+        organization: false,
+        lastName: "Paris",
+        firstName: "Estelle",
+        middleName: "",
+        familyName: "Williams",
         
-    //     title: `Nurse, health advocate, hospital administrator, volunteer`,
-    //     birthDate: "06.28.1924",
-    //     birthLocation: "Buffalo, New York",
-    //     deathDate: "05.30.2017",
-    //     deathLocation: "Cambridge, Massachusetts",
-    //     narrative: `
-    //    Estelle Williams was born to Henry and Estella Williams in 1924. She married Leonard Archibald Paris, who was born Nova Scotia,
-    //     Canada, and was a WWII Army veteran.
-    //     Paris earned her Bachelor of Science degree from Emmanuel College and went to Boston City Hospital's School of Nursing. She
-    //      got her Nurse Practitioner certificate from Harvard Medical School and Mass. General Hospital and belonged to the American 
-    //      Nurses Association and the Nurse Practitioner Associates for Continuing Education. Paris was heavily involved in the life 
-    //      of the City of Cambridge for all of her adult life.
-    //     <br><Br>
+        title: `Nurse, health advocate, hospital administrator, volunteer`,
+        birthDate: "06.28.1924",
+        birthLocation: "Buffalo, New York",
+        deathDate: "05.30.2017",
+        deathLocation: "Cambridge, Massachusetts",
+        narrative: `
+      Estelle Williams was born to Henry and Estella Williams in 1924. She married Leonard Archibald Paris, who was born Nova Scotia, 
+      Canada, and became a WWII Army veteran.
+        Paris went to Boston City Hospital's School of Nursing and decades later earned her Bachelor of Science degree from Emmanuel
+         College. She got her Nurse Practitioner certificate from Harvard Medical School and Mass. General Hospital and belonged to 
+         the American Nurses Association and the Nurse Practitioner Associates for Continuing Education. Paris was heavily involved 
+         in the life of the City of Cambridge for all of her adult life.
+        <br><Br>
 
-    //     In the 1950s, Paris served on the Cambridge Community Center (CCC) parents' committee and volunteered for a local Girl Scouts 
-    //     troop (over the next several decades was deeply involved in the CCC). By 1973, she was serving as a nurse practitioner at the 
-    //     Cambridge Hospital and became the head nurse of pediatrics and adults there. Paris served on the 1977 Cambridge 
-    //     Biohazards Committee, which was looking at Harvard and MIT's recombinant DNA research, a hotly-debated topic in Cambridge 
-    //     at the time, with Mayor Vellucci becoming directly involved. By 1979, Paris was at the Cambridge Department of Health, Hospital,
-    //      and Housing and helping to hire a new nurse for the North Cambridge Jefferson Park Neighborhood Health Clinic. Paris lived on 
-    //      Fayerweather Street for much of her adult life.
-    //     <br><Br>
-    //     In 1988, she was appointed to the Health and Governing Policy Board of the Cambridge Hospital. That same year, she played a 
-    //     key role in establishing one of the first school-based teen health centers in Massachusetts at Cambridge, Rindge &
-    //     Latin School. In 1990, she was the President of the Cambridge Health Policy Board and in 1992, in a Cambridge Chronicle piece 
-    //     on health care costs written by Barbara Ackermann, Paris is quoted as she describes the "mental gymnastic" providers have to 
-    //     deal with because of deductibles:
-    //     <blockquote>
-    //     There are "...what I call disallowables. What we should have to worry about is not 'Is this a billable visit?' but 'What care 
-    //     does this patient need?'"
-    //     </blockquote>
+        In the 1950s, Paris served on the Cambridge Community Center (CCC) parents' committee and volunteered for al Girl Scouts 
+        troop at the Peabody School. Her first nurse practitioner job was with Boston City Hospital's neighborhood health clinic 
+        in 1973 and she eventually  became the head nurse of pediatrics and adults at the Cambridge City Hospital. In 1977, she 
+        was serving on the Cambridge Biohazards Committee, which was looking at Harvard and MIT's recombinant DNA research, a 
+        hotly-debated topic in Cambridge at the time, with Mayor Vellucci becoming directly involved. By 1979, Paris was at the 
+        Cambridge Department of Health, Hospital, and Housing and helping to hire a new nurse for the North Cambridge Jefferson 
+        Park Neighborhood Health Clinic. Paris lived on Fayerweather Street for much of her adult life.
+        <br><Br>
+        In 1988, she was appointed to the Health and Governing Policy Board of the Cambridge Hospital. That same year, she played
+         a key role in establishing one of the first school-based teen health centers in Massachusetts at Cambridge, Rindge &
+        Latin School. In 1990, she was the President of the Cambridge Health Policy Board and in 1992, in a Cambridge Chronicle 
+        piece on health care costs written by Barbara Ackermann, Paris is quoted as she describes the "mental gymnastic" providers
+         have to deal with because of deductibles:
+
+        <blockquote>
+        There are "...what I call disallowables. What we should have to worry about is not 'Is this a billable visit?' but 
+        'What care does this patient need?'"
+        </blockquote>
 
 
-    //     The Cambridge Chronicle article described Paris as "central in creating neighborhood clinics in the 1960s." The 1993 article 
-    //     also described how she and Cambridge Hospital CEO John O'Brien had a personal audience with first lady Hillary Clinton in 
-    //     August of that year. Clinton was impressed with how the hospital was run and praised the hospital for "going beyond conventional
-    //      health care." The Estelle Paris Scholarship at the Cambridge Hospital was set up in 1994  in her name "for resident youths who
-    //       aspire to careers in health care." The scholarship continues today.<br><Br>
+        A 1993 Cambridge Chronicle article described Paris as "central in creating neighborhood clinics in the 1960s." 
+        The article also described how she and Cambridge Hospital CEO John O'Brien had a personal audience with first lady
+         Hillary Clinton in August of that year. Clinton was impressed with how the hospital was run and praised the hospital 
+         for "going beyond conventional health care." The Estelle Paris Scholarship at the Cambridge Hospital was set up in 1994 
+          in her name "for resident youths who aspire to careers in health care." The scholarship continues today.<br><Br>
 
-    //     Paris was the keynote speaker at the 1993 Cambridge Women's Health Day. At the 1996 YWCA's Tribute to Women, Paris gave 
-    //     this advice to the women attending:
-    //     <blockquote>
-    //     "You need to have goals in your life. You need to care enough about yourself to want to do something for your community, 
-    //     because when you care about yourself, you help others."</blockquote>
+        In 1993, Paris was the keynote speaker at Cambridge Women's Health Day and at the 1996 YWCA's Tribute to Women, 
+        Paris gave this advice to the women attending:
+        <blockquote>
+        "You need to have goals in your life. You need to care enough about yourself to want to do something for your 
+        community, because when you care about yourself, you help others."</blockquote>
 
-    //     In 2013, Paris received an award for helping to make Cambridge a healthier city. Paris had been one of the first black 
-    //     certified nurse practitioners in Cambridge in the 1970s
-    //     and trained several generations of nurses and resident physicians.
+        Paris was a lifelong from of Barbara Ackermann. Her daughter Paula reflected on their relationship at Ackermann's memorial service:
 
-    //     In 2005, Paris had been given the Trustee Excellence in Leadership Award. In her nomination, it was described early on 
-    //     she realized…
-    //     <blockquote>
-    //     "...that the health needs of the Afro-American population in Cambridge were being largely unmet, Paris advocated and s
-    //     pearheaded the launch of the Riverside Health Center. Today, the Center, which started as a very modest storefront operation, 
-    //     is a state-of-the-art facility located at 205 Western Avenue in Cambridge…Paris also helped establish the Oliver E. 
-    //     Farnum Senior Health Center, named after Oliver E. Farnum, a dedicated activist and African American civic leader, who worked
-    //     tirelessly on behalf of the elderly." </blockquote>
+        <blockquote>
+        "Both my mother and Barbara chose to send their children to the Community Center because they firmly believed in the mission 
+        and history of the Center…Unlike other nursery schools in Cambridge, our class was thoroughly integrated - probably close to 
+        50/50. I remember the experience well, and several of my nursery school classmates became lifelong friends. Barbara Ackermann's
+         name was actively and regularly spoken in my parents' house over the years...Activism defined their friendship for 65+ years.  
+         They served together on Cambridge's Health Policy Board and talked regularly by phone about health issues in Cambridge, 
+         especially disparities in access to care. In the 1980's when controversy and opposition arose (including bomb threats) 
+         over a measure to make  birth control available in the city's Teen Health Center, introduced by my mother (then nurse manager for 
+         the city's public health clinics), Mrs. Ackermann was one of those who showed up at the hearing to voice her support for the
+          measure and for her friend. The measure was implemented."</blockquote> 
+
+        In 2013, Paris received an award for helping to make Cambridge a healthier city. Paris was the first black certified nurse 
+        practitioner in Cambridge in the 1970s
+        and trained several generations of nurses and resident physicians.
+
+        In 2005, Paris had been given the Trustee Excellence in Leadership Award. In her nomination, it was described that early on she realized…
+        <blockquote>
+        "...that the health needs of the Afro-American population in Cambridge were being largely unmet, Paris advocated and spearheaded the 
+        launch of the Riverside Health Center. Today, the Center, which started as a very modest storefront operation, is a state-of-the-art
+         facility located at 205 Western Avenue in Cambridge…Paris also helped establish the Oliver E. Farnum Senior Health Center, named after
+          Oliver E. Farnum, a dedicated activist and African American civic leader, who worked
+        tirelessly on behalf of the elderly." 
+        </blockquote>
+
 
                 
-    //             `,
-    //     otherNotes: "",
-    //     references: ` 
-    //         <i>U.S. Census</i>, 1950.<br>
-    //     <i>U.S., Public Records Index</i>, 1950-1993, Volume 1.<br>
-    //     <i>Boston Herald American’s Cambridge Rambler</i>, 22 September 1977. <br>
-    //     <i>The Cambridge Chronicle</i>, 5 May 1955, 15 August 1957, 30 August 1979, 7 July 1988, 13 September 1990, 23 January 1992, 
-    //     12 August 1993, 18 April 1996, 3 October 1996, 6 June 2013
-    //     <i>The Boston Globe</i>, Jan. 6, 2016, Jun 11, 2017.<br>
-    //     <a href="https://www.linkedin.com/pulse/trustee-excellence-leadership-award-awarded-estelle-paris-burrows">https://www.linkedin.com/pulse/trustee-excellence-leadership-award-awarded-estelle-paris-burrows</a>
-    //     `,
-    //     photos: ["images_bios/parisjuly11993cambchr.png"],
-    //     photoTitles: ["July 1, 1993 Cambridge Chronicle"],
-    //     dateCreated: "04.01.2026",
-    //     dateUpdated: "",
+                `,
+        otherNotes: "",
+        references: ` 
+        Photos courtesy of Paula Paris<br>
+            <i>U.S. Census</i>, 1950.<br>
+        <i>U.S., Public Records Index</i>, 1950-1993, Volume 1.<br>
+        <i>Boston Herald American's Cambridge Rambler</i>, 22 September 1977. <br>
+        <i>The Cambridge Chronicle</i>, 5 May 1955, 15 August 1957, 30 August 1979, 7 July 1988, 13 September 1990, 23 January 1992, 
+        12 August 1993, 18 April 1996, 3 October 1996, 6 June 2013
+        <i>The Boston Globe</i>, Jan. 6, 2016, Jun 11, 2017.<br>
+        <i>Trustee Excellence in Leadership Award (as awarded to Estelle Paris, RNC, in 2005)</i>:<br>
+        <a class='indent' href="https://www.linkedin.com/pulse/trustee-excellence-leadership-award-awarded-estelle-paris-burrows">https://www.linkedin.com/pulse/trustee-excellence-leadership-award-awarded-estelle-paris-burrows</a>
+        <br>Correspondence with Estelle's Paris' daughter Paula Paris, including 7/12/2020 text written for Barbara Ackermann's memorial service.
+`,
+        photos: ["images_bios/paris_nurse.jpg", "images_bios/paris_clinton.jpg"],
+        photoTitles: ["Paris' nursing school graduation photo", "Receiving the Foster McGraw Award with Ken Reeves and Hilary Clinton"],
+        dateCreated: "06.11.2026",
+        dateUpdated: "",
 
-    //     photoHeights: ["400"],
-    //     editors:"",
-    //     authors: "Anthony Beckwith",
-    //     categories: ["Nurse", "Community Activist"],
-    // },
+        photoHeights: [""],
+        editors:"",
+        authors: "Anthony Beckwith",
+        categories: ["Nurse", "Community Activist"],
+    },
 ];
