@@ -112,5 +112,6 @@ photoList = [
     "bios.html?last=Cummins&middle=Marie&first=Rose", 
     "bios.html?last=Kennedy&middle=Patricia&first=Boomer",
     "bios.html?last=Pian&middle=&first=Rulan", 
-    "bios.html?last=Hazen&middle=Hallycarnie&first=Fannie"
+    "bios.html?last=Hazen&middle=Hallycarnie&first=Fannie",
+    "bios.html?last=Paris&middle=&first=Estelle"
 ];
