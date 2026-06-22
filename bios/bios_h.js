@@ -1,7 +1,8 @@
 h_bios = [
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Halsted",
         firstName: "Isabella",
         middleName: "",
@@ -64,7 +65,8 @@ h_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Hamilton",
         firstName: "Alice",
         middleName: "",
@@ -125,7 +127,8 @@ h_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Hamilton",
         firstName: "Margaret",
         middleName: "Elaine",
@@ -191,7 +194,8 @@ h_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Harvey",
         firstName: "Beatrice",
         middleName: '"Bea"',
@@ -241,7 +245,8 @@ h_bios = [
 
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Herman",
         firstName: "Judith",
         middleName: "",
@@ -324,7 +329,8 @@ h_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Hiatt",
         firstName: "Suzanne",
         middleName: "Radley",
@@ -394,7 +400,8 @@ h_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Hocking",
         firstName: "Agnes",
         middleName: "Boyle",
@@ -456,7 +463,8 @@ h_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Holman",
         firstName: "Winifred",
         middleName: "",
@@ -520,7 +528,8 @@ h_bios = [
     },
     {
         poc: true,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Hopkins",
         firstName: "Pauline",
         middleName: "Elizabeth",
@@ -617,7 +626,8 @@ h_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Horsford",
         firstName: "Cornelia",
         middleName: "",
@@ -680,7 +690,8 @@ h_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Howe",
         firstName: "Lois",
         middleName: "Lilley",
@@ -840,7 +851,8 @@ h_bios = [
     },
     {
         poc: true,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Huang",
         firstName: "Audrey",
         middleName: "I-Wei",
@@ -929,7 +941,8 @@ h_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Hubbard",
         firstName: "Ruth",
         middleName: "",
@@ -1016,7 +1029,8 @@ h_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Huntington",
         firstName: "Anna",
         middleName: "Vaughn",
@@ -1093,7 +1107,8 @@ h_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Hurd",
         firstName: "Marjorie",
         middleName: "",
@@ -1207,7 +1222,8 @@ h_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Henry",
         firstName: "Marian",
         middleName: "Alberta",
@@ -1255,7 +1271,8 @@ h_bios = [
     },
        {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Hazen",
         firstName: "Fannie",
         middleName: "Hallycarnie",

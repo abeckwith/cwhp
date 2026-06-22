@@ -873,7 +873,7 @@ function setupCategories() {
     for (i = 0; i < catArray.length; i++) {
         var opt = catArray[i];
         html +=
-            "<tr><td class='name-link'><a onclick='showNamesForTopical(" +
+            "<tr><td class='name-link'><a id='topic" + i + "' onclick='showNamesForTopical(" +
             i +
             ")'>" +
             catArray[i][0] +
@@ -930,11 +930,18 @@ function getLocation(ln, mn, fn) {
 }
 /**
  * Builds list of names for selected category (used for topical.html)
- * @param {Array} option {name, letter index, name index within letter}
+ * @param Integer option to get {name, letter index, name index within letter}
  */
 var choice = "";
 function showNamesForTopical(option) {
-    choice = catArray[option];
+    choice = catArray[option];   
+    
+    //bold the selected topic:
+    for (i = 0; i < catArray.length; i++) {
+        
+        if(i == option) document.getElementById("topic" + i).style.fontWeight = "bold";
+         else document.getElementById("topic" + i).style.fontWeight = "normal";
+    }
 
     let html = "<table><tr><td></td></tr>";
     //build each entry, clickable:

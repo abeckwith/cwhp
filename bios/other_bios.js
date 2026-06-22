@@ -14,7 +14,8 @@
    other_bios = [
    {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Applebee",
         firstName: "Constance",
         middleName: "M.K.",
@@ -76,7 +77,8 @@
     },
         {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Painter",
         firstName: "Megan",
         middleName: "Lynn",
@@ -128,7 +130,8 @@
     },
         {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Adams",
         firstName: "Hannah",
         middleName: "",
@@ -184,7 +187,8 @@
     },
      {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Cushman",
         firstName: "Charlotte",
         middleName: "Saunders",
@@ -239,7 +243,8 @@ Image from <a href="https://en.wikipedia.org/wiki/Charlotte_Cushman" >https://en
     },
        {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "D'Antuono",
         firstName: "Eleanor",
         middleName: "",
@@ -285,7 +290,8 @@ Image from <a href="https://en.wikipedia.org/wiki/Charlotte_Cushman" >https://en
     },
         {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Hayden",
         firstName: "Sophia",
         middleName: "Gregoria",
@@ -348,7 +354,8 @@ Image from <a href="https://en.wikipedia.org/wiki/Charlotte_Cushman" >https://en
     },
         {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Richards",
         firstName: "Ellen",
         middleName: "Henrietta",

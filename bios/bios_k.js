@@ -1,7 +1,8 @@
 k_bios = [
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Kendall",
         firstName: "Phebe",
         middleName: "",
@@ -72,7 +73,8 @@ k_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Kistiakowsky",
         firstName: "Vera",
         middleName: "",
@@ -144,7 +146,8 @@ k_bios = [
     },
         {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Kennedy",
         firstName: "Boomer",
         middleName: "Patricia",

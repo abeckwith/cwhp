@@ -1,7 +1,8 @@
 v_bios = [
     {
         poc: true,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Valenzuela",
         firstName: "Julia",
         middleName: "Silvia",
@@ -54,7 +55,8 @@ v_bios = [
     },
     {
         poc: true,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Viggiani",
         firstName: "Flavia",
         middleName: "Steiner",

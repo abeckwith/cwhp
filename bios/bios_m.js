@@ -1,7 +1,8 @@
 m_bios = [
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Majors",
         firstName: "Mary",
         middleName: "Josephine",
@@ -124,7 +125,8 @@ m_bios = [
     },
     {
         poc: false,
-        organization: true,
+        workInProgress: false, //true when don't want online yet
+        organization:  true,
         lastName: "Mapping Feminist Cambridge",
         firstName: "",
         middleName: "",
@@ -182,7 +184,8 @@ m_bios = [
    
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Markham",
         firstName: "Helen",
         middleName: "Wendler",
@@ -253,7 +256,8 @@ m_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Marshall",
         firstName: "Lorna",
         middleName: "Jean",
@@ -323,7 +327,8 @@ m_bios = [
     },
     {
         poc: false,
-        organization: true,
+        workInProgress: false, //true when don't want online yet
+        organization:  true,
         lastName: "Massachusetts Feminist Federal Credit Union",
         firstName: "",
         middleName: "",
@@ -386,7 +391,8 @@ m_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Mathison",
         firstName: "Genevieve",
         middleName: "McGlinchey",
@@ -473,7 +479,8 @@ m_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Mazur",
         firstName: "Gail",
         middleName: "Lewis",
@@ -559,7 +566,8 @@ m_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Merrill",
         firstName: "Estelle",
         middleName: "M.",
@@ -631,7 +639,8 @@ m_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Mongan",
         firstName: "Agnes",
         middleName: "",
@@ -703,7 +712,8 @@ m_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Moore",
         firstName: "Dorothea",
         middleName: "May",
@@ -773,7 +783,8 @@ m_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Morgan",
         firstName: "Maud",
         middleName: "",
@@ -858,7 +869,8 @@ by Cate McQuaid,, April 12, 2017.
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Morrison",
         firstName: "Kathleen",
         middleName: "",
@@ -961,7 +973,8 @@ by Cate McQuaid,, April 12, 2017.
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Morrison",
         firstName: "Phylis",
         middleName: "",
@@ -1012,7 +1025,8 @@ by Cate McQuaid,, April 12, 2017.
     },
     {
         poc: true,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Morales",
         firstName: "Rosario",
         middleName: "",
@@ -1140,7 +1154,8 @@ by Cate McQuaid,, April 12, 2017.
 
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "McKay",
         firstName: "Amy",
         middleName: "",
@@ -1188,7 +1203,8 @@ by Cate McQuaid,, April 12, 2017.
     },
      {
         poc: true,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "McCree",
         firstName: "Robin",
         middleName: "Tirrell",

@@ -2,7 +2,8 @@ p_bios = [
 
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Parsons",
         firstName: "Emily",
         middleName: "Elizabeth",
@@ -72,7 +73,8 @@ p_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Pappenheim",
         firstName: "Yvonne",
         middleName: "",
@@ -144,7 +146,8 @@ p_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Payne-Gaposchkin",
         firstName: "Cecilia",
         middleName: "Helena",
@@ -212,7 +215,8 @@ p_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Peirce",
         firstName: "Harriet",
         middleName: "Melusina",
@@ -309,7 +313,8 @@ p_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Piltch",
         firstName: "Sylvia",
         middleName: "Rosslyn",
@@ -406,7 +411,8 @@ p_bios = [
     },
       {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Peters",
         firstName: "Kaethe",
         middleName: "",
@@ -500,7 +506,8 @@ p_bios = [
     },
        {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Pian",
         firstName: "Rulan",
         middleName: "",
@@ -582,7 +589,8 @@ p_bios = [
     },
            {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Paris",
         firstName: "Estelle",
         middleName: "",

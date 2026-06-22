@@ -1,7 +1,8 @@
 y_bios = [
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Yanow",
         firstName: "Susan",
         middleName: "",
@@ -153,7 +154,8 @@ y_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Yona",
         firstName: "Anna",
         middleName: "",
@@ -227,7 +229,8 @@ y_bios = [
     },
     {
         poc: false,
-        organization: true,
+        workInProgress: false, //true when don't want online yet
+        organization:  true,
         lastName: "YWCA of Cambridge 7 Temple Street",
         firstName: "",
         middleName: "",

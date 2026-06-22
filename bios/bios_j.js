@@ -1,7 +1,8 @@
 j_bios = [
     {
         poc: true,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Jacobs",
         firstName: "Harriet",
         middleName: "A.",
@@ -81,7 +82,8 @@ j_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Jacobs",
         firstName: "Sarah",
         middleName: "Sprague",
@@ -172,7 +174,8 @@ j_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Johnson",
         firstName: "Grace",
         middleName: "Allen",
@@ -260,7 +263,8 @@ j_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Jones",
         firstName: "Alice",
         middleName: "",

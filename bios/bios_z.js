@@ -1,7 +1,8 @@
 z_bios = [
  {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Zappala",
         firstName: "Dolores",
         middleName: "M.",

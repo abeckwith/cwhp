@@ -1,7 +1,8 @@
 a_bios = [
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Ackermann",
         firstName: "Barbara",
         middleName: "",
@@ -77,7 +78,8 @@ a_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Abbott",
         firstName: "Eleanor",
         middleName: "Hallowell",
@@ -159,7 +161,8 @@ a_bios = [
 
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Adams",
         firstName: "Mary",
         middleName: "Howe",
@@ -255,7 +258,8 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
 
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Agassiz",
         firstName: "Elizabeth",
         middleName: "Cabot",
@@ -334,7 +338,8 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Albright",
         firstName: "Carol",
         middleName: "",
@@ -412,7 +417,8 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Aldrich",
         firstName: "Elizabeth",
         middleName: "Cannon",
@@ -467,7 +473,8 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Aldrich",
         firstName: "Elizabeth",
         middleName: "",
@@ -518,7 +525,8 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Alice James Books",
         firstName: "",
         middleName: "",
@@ -595,7 +603,8 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
 
     {
         poc: true,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Alleyne",
         firstName: "Corinne",
         middleName: "Helen",
@@ -668,7 +677,8 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Al-Weqayan",
         firstName: "Ellen",
         middleName: "M.",
@@ -732,7 +742,8 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Anders",
         firstName: "Rosalie",
         middleName: "",
@@ -796,7 +807,8 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
     },
     {
         poc: true,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Andrade",
         firstName: "Dominga",
         middleName: "\"Minnie\"",
@@ -849,7 +861,8 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
  
     {
         poc: true,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Archer",
         firstName: "Linda",
         middleName: "Eileen",
@@ -917,7 +930,8 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Arditti",
         firstName: "Rita",
         middleName: "",
@@ -1022,7 +1036,8 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
     },
     {
         poc: true,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Argaw",
         firstName: "Seble",
         middleName: "W.",
@@ -1078,7 +1093,8 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Avakian",
         firstName: "Josephine",
         middleName: "\"Josie\" Camile",
@@ -1199,7 +1215,8 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
     },
     {
         poc: true,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Azevedo",
         firstName: "Louise",
         middleName: "Anne",
@@ -1250,7 +1267,8 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
     },
     {
         poc: true,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Armstrong",
         firstName: "Barbara",
         middleName: "",
@@ -1319,7 +1337,8 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
     },
       {
         poc: true,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Axelrod",
         firstName: "Janet",
         middleName: "Suzann",
@@ -1452,7 +1471,8 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
     },
        {
         poc: true,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Antupit",
         firstName: "Frances",
         middleName: "Vivian",

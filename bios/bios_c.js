@@ -1,7 +1,8 @@
 c_bios = [
     {
         poc: false,
-        organization: true,
+        workInProgress: false, //true when don't want online yet
+        organization:  true,
         lastName: "Cambridge Neighborhood House",
         firstName: "",
         middleName: "",
@@ -62,7 +63,8 @@ c_bios = [
     },
     {
         poc: false,
-        organization: true,
+        workInProgress: false, //true when don't want online yet
+        organization:  true,
         lastName: "Cambridge Political Equality Association",
         firstName: "",
         middleName: "",
@@ -141,7 +143,8 @@ c_bios = [
     },
     {
         poc: false,
-        organization: true,
+        workInProgress: false, //true when don't want online yet
+        organization:  true,
         lastName: "Cambridge School of Architecture and Landcape Architecture",
         firstName: "",
         middleName: "",
@@ -217,7 +220,8 @@ c_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Cannon",
         firstName: "Annie",
         middleName: "Jump",
@@ -303,7 +307,8 @@ c_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Cannon",
         firstName: "Cornelia",
         middleName: "",
@@ -399,7 +404,8 @@ c_bios = [
     },
     {
         poc: false,
-        organization: true,
+        workInProgress: false, //true when don't want online yet
+        organization:  true,
         lastName: "Cantabrigia Club",
         firstName: "",
         middleName: "",
@@ -463,7 +469,8 @@ c_bios = [
     },
     {
         poc: false,
-        organization: true,
+        workInProgress: false, //true when don't want online yet
+        organization:  true,
         lastName: "Cell 16",
         firstName: "",
         middleName: "",
@@ -516,7 +523,8 @@ c_bios = [
     },
     // {
     //     poc: false,
-    //     organization: true,
+    //     workInProgress: false, //true when don't want online yet
+        // organization:  true,
     //     lastName: "Centro Presente",
     //     firstName: "",
     //     middleName: "",
@@ -562,7 +570,8 @@ c_bios = [
     // },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Chall",
         firstName: "Jeanne",
         middleName: "Sternlicht",
@@ -629,7 +638,8 @@ c_bios = [
     },
     {
         poc: true,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Chen",
         firstName: "Joyce",
         middleName: "",
@@ -697,7 +707,8 @@ c_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Child",
         firstName: "Julia",
         middleName: "Carolyn",
@@ -808,7 +819,8 @@ c_bios = [
     },
     {
         poc: false,
-        organization: true,
+        workInProgress: false, //true when don't want online yet
+        organization:  true,
         lastName: "Child Care Resource Center (CCRC)",
         firstName: "",
         middleName: "",
@@ -867,7 +879,8 @@ c_bios = [
     },
     {
         poc: false,
-        organization: true,
+        workInProgress: false, //true when don't want online yet
+        organization:  true,
         lastName: "City Girl Cafe",
         firstName: "",
         middleName: "",
@@ -930,7 +943,8 @@ c_bios = [
     },
     {
         poc: false,
-        organization: true,
+        workInProgress: false, //true when don't want online yet
+        organization:  true,
         lastName: "Clayground",
         firstName: "",
         middleName: "",
@@ -984,7 +998,8 @@ c_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Cohen",
         firstName: "Bertha",
         middleName: "E.",
@@ -1058,7 +1073,8 @@ c_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Comstock",
         firstName: "Ada",
         middleName: "Louise",
@@ -1137,7 +1153,8 @@ c_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Cooke",
         firstName: "Lucy",
         middleName: "",
@@ -1224,7 +1241,8 @@ c_bios = [
     },
     {
         poc: true,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Cummins",
         firstName: "Rose",
         middleName: "Marie",
@@ -1299,7 +1317,8 @@ c_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Curtin",
         firstName: "Jane",
         middleName: "",

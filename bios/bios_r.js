@@ -1,7 +1,8 @@
 r_bios = [
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Rey",
         firstName: "Margaret",
         middleName: "Elizabeth",
@@ -111,7 +112,8 @@ r_bios = [
 
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Roe",
         firstName: "Anne",
         middleName: "",
@@ -171,7 +173,8 @@ r_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Roorbach",
         firstName: "Anne",
         middleName: "Elizabeth",
@@ -252,7 +255,8 @@ r_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Rubinow",
         firstName: "Betty",
         middleName: "Ann",

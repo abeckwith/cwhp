@@ -1,7 +1,8 @@
 g_bios = [
     {
         poc: true,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Gatherwright",
         firstName: "Dorothy",
         middleName: "A.",
@@ -51,7 +52,8 @@ g_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Gilman",
         firstName: "Caroline",
         middleName: "",
@@ -116,7 +118,8 @@ g_bios = [
     },
     {
         poc: false,
-        organization: true,
+        workInProgress: false, //true when don't want online yet
+        organization:  true,
         lastName: "Goddard-Cambridge Graduate Program in Social Change",
         firstName: "",
         middleName: "",
@@ -206,7 +209,8 @@ g_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Gluck",
         firstName: "Louise",
         middleName: "",
@@ -291,7 +295,8 @@ g_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Goodman",
         firstName: "Miriam",
         middleName: "Anne",
@@ -401,7 +406,8 @@ g_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Gould",
         firstName: "Alice",
         middleName: "Bache",
@@ -482,7 +488,8 @@ g_bios = [
     },
     {
         poc: true,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Graham",
         firstName: "Saundra",
         middleName: "Mae",
@@ -596,7 +603,8 @@ g_bios = [
     },
     {
         poc: true,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Gray",
         firstName: "Renae",
         middleName: "",
@@ -689,7 +697,8 @@ g_bios = [
     },
     {
         poc: true,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Green",
         firstName: "Suzanne",
         middleName: "",
@@ -789,7 +798,8 @@ g_bios = [
     },
     {
         poc: false,
-        organization: true,
+        workInProgress: false, //true when don't want online yet
+        organization:  true,
         lastName: "Gypsy Wagon Collective",
         firstName: "",
         middleName: "",
@@ -832,7 +842,8 @@ g_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Gill",
         firstName: "Edith",
         middleName: "Frances",
@@ -880,7 +891,8 @@ g_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Gill",
         firstName: "Mabel",
         middleName: "Abbie",
@@ -924,7 +936,8 @@ g_bios = [
     },
     {
         poc: true,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Gittens",
         firstName: "Yvonne",
         middleName: "",
@@ -1013,7 +1026,8 @@ g_bios = [
     },
         {
         poc: true,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Goodhue",
         firstName: "Mary",
         middleName: "Louise",

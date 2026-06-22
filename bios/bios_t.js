@@ -1,7 +1,8 @@
 t_bios = [
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Taussig",
         firstName: "Helen",
         middleName: "Brooke",
@@ -82,7 +83,8 @@ t_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Taylor",
         firstName: "Katharine",
         middleName: "",
@@ -153,7 +155,8 @@ t_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Thomas",
         firstName: "Helen",
         middleName: "Meriwether",
@@ -227,7 +230,8 @@ t_bios = [
     },
     {
         poc: true,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Thompson",
         firstName: "Mary",
         middleName: "P.",
@@ -314,7 +318,8 @@ t_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Turner",
         firstName: "Ruth",
         middleName: "Dixon",

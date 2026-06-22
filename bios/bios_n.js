@@ -1,7 +1,8 @@
 n_bios = [
     {
         poc: false,
-        organization: true,
+        workInProgress: false, //true when don't want online yet
+        organization:  true,
         lastName: "New Words (Center for)",
         firstName: "",
         middleName: "",
@@ -70,7 +71,8 @@ n_bios = [
     },
        {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Nicgorski",
         firstName: "Darlene",
         middleName: "",

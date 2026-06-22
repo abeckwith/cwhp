@@ -1,7 +1,8 @@
 i_bios = [
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Ireson",
         firstName: "Adeline",
         middleName: "M.",

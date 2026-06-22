@@ -1,7 +1,8 @@
 o_bios = [
     {
         poc: false,
-        organization: true,
+        workInProgress: false, //true when don't want online yet
+        organization:  true,
         lastName: "Oral History Center",
         firstName: "",
         middleName: "",
@@ -83,7 +84,8 @@ o_bios = [
 
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Orne",
         firstName: "Caroline",
         middleName: "Frances",

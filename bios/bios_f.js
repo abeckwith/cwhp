@@ -1,7 +1,8 @@
 f_bios = [
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Fleischmann",
         firstName: "Susan",
         middleName: "",
@@ -62,7 +63,8 @@ f_bios = [
     },
     {
         poc: false,
-        organization: true,
+        workInProgress: false, //true when don't want online yet
+        organization:  true,
         lastName: "Focus Counseling and Consultation, Inc.",
         firstName: "",
         middleName: "",
@@ -123,7 +125,8 @@ f_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Friedler",
         firstName: "Gladys",
         middleName: "",
@@ -196,7 +199,8 @@ f_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Frye",
         firstName: "Mary",
         middleName: "Hamilton",
@@ -268,7 +272,8 @@ f_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Fuller",
         firstName: "Margaret",
         middleName: "",
@@ -349,7 +354,8 @@ In
     },
      {
         poc: true,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Franks",
         firstName: "Goldie",
         middleName: "Theresa",

@@ -1,7 +1,8 @@
 w_bios = [
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Wadden",
         firstName: "Mary",
         middleName: "Frances",
@@ -42,7 +43,8 @@ w_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Wallace",
         firstName: "Julia",
         middleName: "Abernethy",
@@ -119,7 +121,8 @@ w_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Warrior",
         firstName: "Betsy",
         middleName: "",
@@ -284,7 +287,8 @@ w_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Whitman",
         firstName: "Florence",
         middleName: "",
@@ -360,7 +364,8 @@ w_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Whitney",
         firstName: "Anne",
         middleName: "",
@@ -440,7 +445,8 @@ w_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Williams",
         firstName: "Antoinette",
         middleName: "",
@@ -492,7 +498,8 @@ w_bios = [
     },
     {
         poc: false,
-        organization: true,
+        workInProgress: false, //true when don't want online yet
+        organization:  true,
         lastName: "Window Shop",
         firstName: "",
         middleName: "",
@@ -568,7 +575,8 @@ w_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Winship",
         firstName: "Joanna",
         middleName: "",
@@ -621,7 +629,8 @@ w_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Winthrop",
         firstName: "Hannah",
         middleName: "",
@@ -693,7 +702,8 @@ w_bios = [
     },
     {
         poc: true,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Wise",
         firstName: "Ozeline",
         middleName: "Barrett",
@@ -767,7 +777,8 @@ w_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Wise",
         firstName: "Pearl",
         middleName: "",
@@ -832,7 +843,8 @@ w_bios = [
     },
     {
         poc: false,
-        organization: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
         lastName: "Wolf",
         firstName: "Alice",
         middleName: "",
@@ -900,7 +912,8 @@ w_bios = [
     },
     {
         poc: false,
-        organization: true,
+        workInProgress: false, //true when don't want online yet
+        organization:  true,
         lastName: "Women's Center",
         firstName: "",
         middleName: "",
@@ -961,7 +974,8 @@ w_bios = [
     },
     {
         poc: false,
-        organization: true,
+        workInProgress: false, //true when don't want online yet
+        organization:  true,
         lastName: "Women's Coffeehouse, 46 Pleasant Street",
         firstName: "",
         middleName: "",
@@ -1021,7 +1035,8 @@ w_bios = [
     },
     {
         poc: false,
-        organization: true,
+        workInProgress: false, //true when don't want online yet
+        organization:  true,
         lastName: "Women's Community Health Center",
         firstName: "",
         middleName: "",
@@ -1118,7 +1133,8 @@ w_bios = [
     },
     {
         poc: false,
-        organization: true,
+        workInProgress: false, //true when don't want online yet
+        organization:  true,
         lastName: "Women's Law Collective",
         firstName: "",
         middleName: "",
@@ -1179,7 +1195,8 @@ w_bios = [
     },
     {
         poc: false,
-        organization: true,
+        workInProgress: false, //true when don't want online yet
+        organization:  true,
         lastName: "Women's School of Cambridge",
         firstName: "",
         middleName: "",
@@ -1228,7 +1245,8 @@ w_bios = [
     },
     {
         poc: false,
-        organization: true,
+        workInProgress: false, //true when don't want online yet
+        organization:  true,
         lastName: "Wong",
         firstName: "Lee",
         middleName: "Shee",
