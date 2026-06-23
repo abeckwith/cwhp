@@ -610,7 +610,7 @@ p_bios = [
          in the life of the City of Cambridge for all of her adult life.
         <br><Br>
 
-        In the 1950s, Paris served on the Cambridge Community Center (CCC) parents' committee and volunteered for al Girl Scouts 
+        In the 1950s, Paris served on the Cambridge Community Center (CCC) parents' committee and volunteered for a Girl Scouts 
         troop at the Peabody School. Her first nurse practitioner job was with Boston City Hospital's neighborhood health clinic 
         in 1973 and she eventually  became the head nurse of pediatrics and adults at the Cambridge City Hospital. In 1977, she 
         was serving on the Cambridge Biohazards Committee, which was looking at Harvard and MIT's recombinant DNA research, a 
@@ -620,9 +620,11 @@ p_bios = [
         <br><Br>
         In 1988, she was appointed to the Health and Governing Policy Board of the Cambridge Hospital. That same year, she played
          a key role in establishing one of the first school-based teen health centers in Massachusetts at Cambridge, Rindge &
-        Latin School. In 1990, she was the President of the Cambridge Health Policy Board and in 1992, in a Cambridge Chronicle 
-        piece on health care costs written by Barbara Ackermann, Paris is quoted as she describes the "mental gymnastic" providers
-         have to deal with because of deductibles:
+        Latin School. In 1990, she became
+        the President of the Cambridge Health Policy Board. Two years later, in an
+        interview with <i>The Cambridge Chronicle</i>, Paris described the "mental
+        gymnastics" health care providers must perform when justifying
+        deductibles:
 
         <blockquote>
         There are "...what I call disallowables. What we should have to worry about is not 'Is this a billable visit?' but 
@@ -642,7 +644,7 @@ p_bios = [
         "You need to have goals in your life. You need to care enough about yourself to want to do something for your 
         community, because when you care about yourself, you help others."</blockquote>
 
-        Paris was a lifelong from of Barbara Ackermann. Her daughter Paula reflected on their relationship at Ackermann's memorial service:
+        Paris was a lifelong friend of Barbara Ackermann. Paris's daughter Paula reflected on their relationship at Ackermann's memorial service:
 
         <blockquote>
         "Both my mother and Barbara chose to send their children to the Community Center because they firmly believed in the mission 
@@ -659,7 +661,7 @@ p_bios = [
         practitioner in Cambridge in the 1970s
         and trained several generations of nurses and resident physicians.
 
-        In 2005, Paris had been given the Trustee Excellence in Leadership Award. In her nomination, it was described that early on she realized…
+        In 2005, Paris had been given the Trustee Excellence in Leadership Award. Her nomination narrative said that early on, when she realized…
         <blockquote>
         "...that the health needs of the Afro-American population in Cambridge were being largely unmet, Paris advocated and spearheaded the 
         launch of the Riverside Health Center. Today, the Center, which started as a very modest storefront operation, is a state-of-the-art
@@ -687,10 +689,10 @@ p_bios = [
         photos: ["images_bios/paris_nurse.jpg", "images_bios/paris_clinton.jpg"],
         photoTitles: ["Paris' nursing school graduation photo", "Receiving the Foster McGraw Award with Ken Reeves and Hilary Clinton"],
         dateCreated: "06.11.2026",
-        dateUpdated: "",
+        dateUpdated: "06.23.2026",
 
         photoHeights: [""],
-        editors:"",
+        editors:"Meta Partenheimer",
         authors: "Anthony Beckwith",
         categories: ["Nurse", "Community Activist"],
     },

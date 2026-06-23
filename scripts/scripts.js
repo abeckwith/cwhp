@@ -607,6 +607,7 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
  * @param {Boolan} search searching or not
  * @param {Boolean} topical topical vs. name
  */
+
 function onclickForMakeBio(ltrIndex, indexOfPerson, initial, search, topical) {
     makeBio(ltrIndex, indexOfPerson, initial, search, topical);
     bios = getBios();
@@ -1169,6 +1170,7 @@ function ranPerson() {
     window.history.pushState({}, "New Title", bioURL);
 }
 function setBoldInSideBar(bios, letter, loc) {
+    console.log("setting bold")
     for (let person = 0; person < bios[letter].length; person++) {
         document.getElementById(
             "name-" + letter + "-" + person,
