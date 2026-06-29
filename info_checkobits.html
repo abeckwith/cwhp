@@ -94,9 +94,60 @@
                 /* A white background for odd rows (optional, good practice) */
             }
         </style>
+        <script>
+            function checkObits() {
+                all_bios = [
+                    a_bios,
+                    b_bios,
+                    c_bios,
+                    d_bios,
+                    e_bios,
+                    f_bios,
+                    g_bios,
+                    h_bios,
+                    i_bios,
+                    j_bios,
+                    k_bios,
+                    l_bios,
+                    m_bios,
+                    n_bios,
+                    o_bios,
+                    p_bios,
+                    q_bios,
+                    r_bios,
+                    s_bios,
+                    t_bios,
+                    u_bios,
+                    v_bios,
+                    w_bios,
+                    x_bios,
+                    y_bios,
+                    z_bios,
+                ];
+
+
+                //go through each name for this letter:
+                all_bios.forEach((theBio) => {
+                    theBio.forEach((thename) =>{
+                    
+                    yr = parseInt(thename.birthDate.slice(-4));
+                    currentYear = new Date().getFullYear();
+
+                    if (currentYear - yr < 105 && thename.deathDate == "") {
+                        name = '"' + thename.firstName + "+" + thename.lastName + '"';
+                        link = "https://www.google.com/search?q=" + name + "+obit+cambridge";
+                        window.open(link, "_blank");
+                    }
+
+                });
+            });
+                loadInfoPage(false);
+            }
+        
+        </script>
     </head>
 
-<body onload="loadInfoPage(true)">
+<body onload="checkObits()">
     <div class="topnav" id="myTopnav">
     </div>
     <div id="intro-HTML"></div>
@@ -123,7 +174,9 @@
             </div>
         </details>
         <details>
-            <summary>&nbsp;&nbsp;&nbsp;List of <B>All Names</B> (organizations in <b>bold</b>) <br>NOTE: each name <i>is</i> a link to the related bio</summary>
+            <summary>&nbsp;&nbsp;&nbsp;List of <B>All Names</B> (organizations in <b>bold</b>) <br>NOTE: each name
+                <i>is</i> a link to the related bio
+            </summary>
             <div>
                 <!-- collapsible content  here -->
                 <span id='all-display'></span>
