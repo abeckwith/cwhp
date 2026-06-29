@@ -125,25 +125,41 @@
                     z_bios,
                 ];
 
-
+                counter = 0;
                 //go through each name for this letter:
                 all_bios.forEach((theBio) => {
-                    theBio.forEach((thename) =>{
-                    
-                    yr = parseInt(thename.birthDate.slice(-4));
-                    currentYear = new Date().getFullYear();
+                    theBio.forEach((thename) => {
 
-                    if (currentYear - yr < 105 && thename.deathDate == "") {
-                        name = '"' + thename.firstName + "+" + thename.lastName + '"';
-                        link = "https://www.google.com/search?q=" + name + "+obit+cambridge";
-                        window.open(link, "_blank");
-                    }
+                        yr = parseInt(thename.birthDate.slice(-4));
+                        currentYear = new Date().getFullYear();
 
+                        if (currentYear - yr < 105 && thename.deathDate == "") {
+                            counter++;
+                        }
+
+                    });
                 });
-            });
+                ans = prompt("Are you sure you want to open " + counter + " tabs to check for obits? (Y/N)");
+                if (ans.toUpperCase() === "Y") {
+                    all_bios.forEach((theBio) => {
+                        theBio.forEach((thename) => {
+
+                            yr = parseInt(thename.birthDate.slice(-4));
+                            currentYear = new Date().getFullYear();
+
+                            if (currentYear - yr < 105 && thename.deathDate == "") {
+                                counter++;
+                                name = '"' + thename.firstName + "+" + thename.lastName + '"';
+                                link = "https://www.google.com/search?q=" + name + "+obit+cambridge";
+                                window.open(link, "_blank");
+                            }
+
+                        });
+                    });
+                }
                 loadInfoPage(false);
             }
-        
+
         </script>
     </head>
 
