@@ -13,7 +13,7 @@ let currentLetter = 0;
 let currentPersonIndex = 0;
 
 let RECENT_MONTHS_LIMIT = 12; //for recent additions
-let RECENT_MONTHS_LIMIT_EDITS = 3; //for recent edits
+let RECENT_MONTHS_LIMIT_EDITS = 6; //for recent edits
 
 /**
  * Makes sidebar and then loads bio
