@@ -1163,7 +1163,7 @@ c_bios = [
         title: `Healer, clairvoyant`,
         birthDate: "05.04.1819",
         birthLocation: "Calais, Vermont",
-        deathDate: "1895",
+        deathDate: "00.00.1895",
         deathLocation: "",
         narrative: `
             Lucy Ainsworth, also known as &#8220;Sleeping

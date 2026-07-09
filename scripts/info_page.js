@@ -20,18 +20,21 @@ function extractHrefsFromString(htmlString) {
     return urls;
 }
 async function copyTextToClipboard() {
-  try {
-    // Check if the Clipboard API is available and the method exists
-    if (navigator?.clipboard?.writeText) {
-      await navigator.clipboard.writeText(allJustNames.replaceAll("<br>", ""));
-      console.log('Text successfully copied to clipboard');
-      document.getElementById("copy-button").textContent = "COPIED TO CLIPBOARD!";
-    } else {
-      console.error('Clipboard API writeText not supported');
+    try {
+        // Check if the Clipboard API is available and the method exists
+        if (navigator?.clipboard?.writeText) {
+            await navigator.clipboard.writeText(
+                allJustNames.replaceAll("<br>", ""),
+            );
+            console.log("Text successfully copied to clipboard");
+            document.getElementById("copy-button").textContent =
+                "COPIED TO CLIPBOARD!";
+        } else {
+            console.error("Clipboard API writeText not supported");
+        }
+    } catch (err) {
+        console.error("Failed to copy text: ", err);
     }
-  } catch (err) {
-    console.error('Failed to copy text: ', err);
-  }
 }
 
 function loadInfoPage(checkLinks) {
@@ -68,8 +71,9 @@ function loadInfoPage(checkLinks) {
 
     recentObjects = []; //array of recent entries
     aliveObjects = []; //array of people likely still alive
-
+    deathDateObjects = [];
     birthSort = [];
+    deathSort = [];
 
     allNames = "Organizataions in <b>bold</b><br>";
     allJustNames = "";
@@ -77,6 +81,7 @@ function loadInfoPage(checkLinks) {
     noimgct = 0; //total with no image
     noqtct = 0; //total with no quote
     nbdct = 0; //total with no birthday
+    nddct = 0; //total with no death date
 
     pocct = 0; //total number of people of color
     pocList = "";
@@ -128,15 +133,7 @@ function loadInfoPage(checkLinks) {
             //count organizations vs. people:
             if (thename.firstName == "") orgcount++;
             else womanCount++;
-
-            // if (thename.deathDate != "" && thename.birthDate != "")
-            //     console.log(
-            //         parseInt(thename.deathDate.slice(-4)) -
-            //             parseInt(thename.birthDate.slice(-4)),
-            //     );
-
-            // if (thename.authors.indexOf("CWHP volunteers") != -1)
-            //     console.log(thename.lastName + " " + thename.firstName);
+            ``;
         });
     });
     //SET UP DISPLAY:
@@ -170,8 +167,16 @@ function loadInfoPage(checkLinks) {
                 nobirthDate += theLink + "<br>";
                 nbdct++;
             }
+            //check if no deathdate given:
 
-            //check if not quote yet:
+            if (
+                (thename.deathDate.slice(3, 5) == "00" ||
+                    thename.deathDateDate == "") &&
+                thename.firstName != "" &&
+                thename.deathDate.slice(-4) < 1930
+            ) 
+
+            //check if no quote yet:
             if (thename.narrative.indexOf("blockquote") == -1) {
                 noQuote += theLink + "<br>";
                 noqtct++;
@@ -186,10 +191,14 @@ function loadInfoPage(checkLinks) {
             nameForSort = thename.firstName + " " + thename.lastName;
             dateForSort = thename.birthDate.slice(-4);
 
+            //for sorting by deathyear:
+            deathDateForSort = thename.deathDate.slice(-4);
+
             //if year has 4 digits, valid year:
             if (dateForSort.length == 4)
                 birthSort.push({ theLink, dateForSort });
-
+            if (deathDateForSort.length == 4)
+                deathSort.push({ theLink, deathDateForSort });
             bio_count++;
 
             //set up display for this person:
@@ -231,6 +240,10 @@ function loadInfoPage(checkLinks) {
             hasFullDate =
                 thename.birthDate.substring(0, 2) != "00" &&
                 thename.birthDate.indexOf("ca") == -1;
+            hasFullDeathDate =
+                thename.deathDate.substring(0, 2) != "00" &&
+                thename.deathDate.indexOf("ca") == -1;
+            // console.log(thename.lastName + ":" + thename.deathDate.substring(0, 2) )
 
             //has a full birthdate:
             if (thename.birthDate != "" && hasFullDate) {
@@ -266,19 +279,51 @@ function loadInfoPage(checkLinks) {
 
                 recentObjects.push({ html_build, monthNum, year, dayNum });
             }
+            //has a full birthdate:
+            if (thename.deathDate != "" && hasFullDeathDate) {
+                year = parseInt(thename.deathDate.substring(6));
+                dayNum = parseInt(thename.deathDate.substring(3, 5));
+                monthNum = parseInt(thename.deathDate.substring(0, 2));
 
-            //look for women that my still be alive:
-            yr = parseInt(thename.birthDate.slice(-4));
+                yrs = parseInt(currentDate.slice(-4)) - year; //age of person
 
-            currentYear = new Date().getFullYear();
+                lName = stripName(thename.lastName);
+                fName = stripName(thename.firstName);
+                mName = stripName(thename.middleName);
 
-            if (currentYear - yr < 100 && thename.deathDate == "") {
-                aliveObjects.push(thename);
+                //build BIRTHDAY table entry:
+                html_build =
+                    "<tr><td>" +
+                    thename.deathDate.replaceAll(".", "/") +
+                    "</b></td><td style='padding-left:10px;'><a target='_blank' href='" +
+                    getHref(lName, mName, fName) +
+                    "'>" +
+                    thename.lastName +
+                    ", " +
+                    thename.firstName +
+                    "</a></td><td style='text-align:right'>" +
+                    yrs +
+                    "</td><td style='text-align:right'>" +
+                    // if (thename.birthLocation != "")
+                    thename.deathLocation +
+                    "</td>";
+                html_build += "</tr>";
+
+                deathDateObjects.push({ html_build, monthNum, year, dayNum });
+
+                //look for women that my still be alive:
+                yr = parseInt(thename.birthDate.slice(-4));
+
+                currentYear = new Date().getFullYear();
+
+                if (currentYear - yr < 100 && thename.deathDate == "") {
+                    aliveObjects.push(thename);
+                }
             }
         });
     });
     allJustNames = bio_count + "\n" + allJustNames;
-  
+
     //women that don't yet have birthdate and are no longer alive:
     disp =
         nobirthDate +
@@ -307,6 +352,18 @@ function loadInfoPage(checkLinks) {
 
         return 0;
     });
+        //SORT ALGORITHM: first by year, then month, then day:
+    deathDateSorted = deathDateObjects.sort((a, b) => {
+        if (parseInt(a.monthNum) > parseInt(b.monthNum)) return 1;
+        if (parseInt(a.monthNum) < parseInt(b.monthNum)) return -1;
+
+        if (a.theDate != "none" && b.theDate != "none") {
+            if (parseInt(a.dayNum) > parseInt(b.dayNum)) return 1;
+            if (parseInt(a.dayNum) < parseInt(b.dayNum)) return -1;
+        }
+
+        return 0;
+    });
     //SORT ALGORITHM: first name:
     aliveList = aliveObjects.sort((a, b) => {
         if (a.lastName > b.lastName) return 1;
@@ -316,7 +373,8 @@ function loadInfoPage(checkLinks) {
 
     bDisplay =
         "<table><tr><th>Birthdate:</th><th>Name:</th><th>Age:</th><th>Born in:</th></tr>";
-
+   dDisplay =
+        "<table><tr><th>Deathdate:</th><th>Name:</th><th>Age:</th><th>Died in:</th></tr>";
     previous_month = "00";
     const months = [
         "January",
@@ -341,9 +399,17 @@ function loadInfoPage(checkLinks) {
         bDisplay += bio.html_build;
         previous_month = bio.monthNum;
     });
+        //sort by month:
+    deathDateSorted.forEach((bio) => {
+        if (bio.monthNum > previous_month)
+            dDisplay +=
+                "<tr><td><b>" + months[bio.monthNum - 1] + "</b></td></tr>";
+        dDisplay += bio.html_build;
+        previous_month = bio.monthNum;
+    });
 
     bDisplay += "</table>";
-
+    dDisplay += "</table>";
     //BUILD TABLE OF LIKELY ALIVE:
     aliveDisplay = "<table><Tr><th>Name</th><th>BrthYr</th><th>Age</th></tr>";
 
@@ -388,8 +454,10 @@ function loadInfoPage(checkLinks) {
     document.getElementById("summary-numbers").innerHTML = topDisplay;
 
     document.getElementById("birthday-display").innerHTML =
-        bDisplay + "<br>TOTAL:" + bDayCount;
-
+        bDisplay + "<br>TOTAL Known Birthdays:" + bDayCount;
+    document.getElementById("deathday-display").innerHTML =
+        dDisplay;
+        
     document.getElementById("alive-display").innerHTML = aliveDisplay + "<br>";
 
     document.getElementById("all-display").innerHTML = allNames;

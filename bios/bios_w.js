@@ -1253,7 +1253,7 @@ w_bios = [
         familyName: "Fong",
 
         title: `Restaurant owner`,
-        birthDate: "1903",
+        birthDate: "00.00.1903",
         birthLocation: "Canton, China",
         deathDate: "04.26.1994",
         deathLocation: "Cambridge, Massachusetts",

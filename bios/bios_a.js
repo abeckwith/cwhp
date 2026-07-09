@@ -1044,7 +1044,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         familyName: "",
         
         title: `Founder Ethiopian Adbar Women's Alliance`,
-        birthDate: "c.1975",
+        birthDate: "ca.1975",
         birthLocation: "Ethiopia",
         deathDate: "",
         deathLocation: "",
