@@ -169,12 +169,7 @@ function loadInfoPage(checkLinks) {
             }
             //check if no deathdate given:
 
-            if (
-                (thename.deathDate.slice(3, 5) == "00" ||
-                    thename.deathDateDate == "") &&
-                thename.firstName != "" &&
-                thename.deathDate.slice(-4) < 1930
-            )
+   
                 if (thename.narrative.indexOf("blockquote") == -1) {
                     //check if no quote yet:
                     noQuote += theLink + "<br>";
