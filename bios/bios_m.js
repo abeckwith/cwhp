@@ -1008,18 +1008,26 @@ by Cate McQuaid,, April 12, 2017.
             up to bring together recollections of the couple.`,
         otherNotes: "",
         references: `
-            Dennis Overbye &#8220;Philip Morrison, 89, Builder
-            of First Atom Bomb, Dies&#8221; NY Times, April 26, 2005. <br>
+        Read more about Phylis here: <br>
+        <a class='indent' a href="https://www.setileague.org/admin/phylis.htm">https://www.setileague.org/admin/phylis.htm</a><Br>
+        
+        REFERENCES USED:<BR>
+            Dennis Overbye, &#8220;Philip Morrison, 89, Builder
+            of First Atom Bomb, Dies&#8221;, <I>New York Times</I>, April 26, 2005. <br>
            www.memoriesofmorrison.org/Aboutthissite.htm (no longer available)
-                <br><i>Cambridge City Directory</i>, 1968.
-        `,
-        photos: [""],
-        photoTitles: [],
+                <br><i>Cambridge City Directory</i>, 1968.<br>
+                Source for photo of couple: <br>
+                <a class='indent' href="https://www.exploratorium.edu/collaborations/oshers/philip-morrison-phylis-morrison">https://www.exploratorium.edu/collaborations/oshers/philip-morrison-phylis-morrison</a>
+                <br>Source for book cover:<br>
+                <a class='indent' href="https://www.thriftbooks.com/w/crystals-and-crystal-growing_phylis-morrison_alan-holden/319857">https://www.thriftbooks.com/w/crystals-and-crystal-growing_phylis-morrison_alan-holden/319857</a>
+                `,
+        photos: ["images_bios/morrison_phyllis.png", "images_bios/morrison_phyllis2.png"],
+        photoTitles: ["Morrison with her husband, Phil Morrison", "Morrison co-authored this text (her married name at the time was Singer)"],
         dateCreated: "prior to 2009",
-        dateUpdated: "",
+        dateUpdated: "07.09.2026",
 
         photoHeights: [],
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Artist", "Teacher/Educator", "Scientist", "Writer"],
     },
