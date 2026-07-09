@@ -1285,7 +1285,7 @@ b_bios = [
         title: `Poet`,
         birthDate: "02.08.1911",
         birthLocation: "Worcester, Massachusetts",
-        deathDate: "10.6.1979",
+        deathDate: "10.06.1979",
         deathLocation: "",
         narrative: `
 

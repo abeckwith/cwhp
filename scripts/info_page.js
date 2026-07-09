@@ -174,13 +174,12 @@ function loadInfoPage(checkLinks) {
                     thename.deathDateDate == "") &&
                 thename.firstName != "" &&
                 thename.deathDate.slice(-4) < 1930
-            ) 
-
-            //check if no quote yet:
-            if (thename.narrative.indexOf("blockquote") == -1) {
-                noQuote += theLink + "<br>";
-                noqtct++;
-            }
+            )
+                if (thename.narrative.indexOf("blockquote") == -1) {
+                    //check if no quote yet:
+                    noQuote += theLink + "<br>";
+                    noqtct++;
+                }
             //two photos and I'm not using the first one:
             if (thename.photos.length == 1 && thename.photos[0] == "") {
                 noImage += theLink + "<br>";
@@ -279,13 +278,17 @@ function loadInfoPage(checkLinks) {
 
                 recentObjects.push({ html_build, monthNum, year, dayNum });
             }
-            //has a full birthdate:
+            //has a full deathdate:
             if (thename.deathDate != "" && hasFullDeathDate) {
-                year = parseInt(thename.deathDate.substring(6));
+                deathYear = parseInt(thename.deathDate.substring(6));
+                if (thename.birthDate.indexOf("ca") != -1)
+                    birthYear = parseInt(thename.birthDate.substring(3));
+                else birthYear = parseInt(thename.birthDate.substring(6));
+                console.log(thename.lastName, deathYear, birthYear);
                 dayNum = parseInt(thename.deathDate.substring(3, 5));
                 monthNum = parseInt(thename.deathDate.substring(0, 2));
 
-                yrs = parseInt(currentDate.slice(-4)) - year; //age of person
+                yrs = deathYear - birthYear; //age of person
 
                 lName = stripName(thename.lastName);
                 fName = stripName(thename.firstName);
@@ -309,7 +312,12 @@ function loadInfoPage(checkLinks) {
                     "</td>";
                 html_build += "</tr>";
 
-                deathDateObjects.push({ html_build, monthNum, year, dayNum });
+                deathDateObjects.push({
+                    html_build,
+                    monthNum,
+                    deathYear,
+                    dayNum,
+                });
 
                 //look for women that my still be alive:
                 yr = parseInt(thename.birthDate.slice(-4));
@@ -352,7 +360,7 @@ function loadInfoPage(checkLinks) {
 
         return 0;
     });
-        //SORT ALGORITHM: first by year, then month, then day:
+    //SORT ALGORITHM: first by year, then month, then day:
     deathDateSorted = deathDateObjects.sort((a, b) => {
         if (parseInt(a.monthNum) > parseInt(b.monthNum)) return 1;
         if (parseInt(a.monthNum) < parseInt(b.monthNum)) return -1;
@@ -373,7 +381,7 @@ function loadInfoPage(checkLinks) {
 
     bDisplay =
         "<table><tr><th>Birthdate:</th><th>Name:</th><th>Age:</th><th>Born in:</th></tr>";
-   dDisplay =
+    dDisplay =
         "<table><tr><th>Deathdate:</th><th>Name:</th><th>Age:</th><th>Died in:</th></tr>";
     previous_month = "00";
     const months = [
@@ -399,7 +407,7 @@ function loadInfoPage(checkLinks) {
         bDisplay += bio.html_build;
         previous_month = bio.monthNum;
     });
-        //sort by month:
+    //sort by month:
     deathDateSorted.forEach((bio) => {
         if (bio.monthNum > previous_month)
             dDisplay +=
@@ -455,9 +463,8 @@ function loadInfoPage(checkLinks) {
 
     document.getElementById("birthday-display").innerHTML =
         bDisplay + "<br>TOTAL Known Birthdays:" + bDayCount;
-    document.getElementById("deathday-display").innerHTML =
-        dDisplay;
-        
+    document.getElementById("deathday-display").innerHTML = dDisplay;
+
     document.getElementById("alive-display").innerHTML = aliveDisplay + "<br>";
 
     document.getElementById("all-display").innerHTML = allNames;

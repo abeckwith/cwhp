@@ -317,7 +317,7 @@ c_bios = [
         title: `Writer`,
         birthDate: "11.17.1876",
         birthLocation: "Saint Paul, Minnesota",
-        deathDate: "12.7.1969",
+        deathDate: "12.07.1969",
         deathLocation: "Franklin, New Hampshire",
         narrative: `
 

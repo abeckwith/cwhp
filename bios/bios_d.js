@@ -1254,7 +1254,7 @@ d_bios = [
         familyName: "Grosso",
 
         title: `Parish founder, cook, volunteer`,
-        birthDate: "00.00.1884",
+        birthDate: "00.00.1894",
         birthLocation: "Boston, Massachusetts",
         deathDate: "10.31.1995",
         deathLocation: "Cambridge, Massachusetts",
