@@ -284,7 +284,7 @@ function loadInfoPage(checkLinks) {
                 if (thename.birthDate.indexOf("ca") != -1)
                     birthYear = parseInt(thename.birthDate.substring(3));
                 else birthYear = parseInt(thename.birthDate.substring(6));
-                console.log(thename.lastName, deathYear, birthYear);
+                // console.log(thename.lastName, deathYear, birthYear);
                 dayNum = parseInt(thename.deathDate.substring(3, 5));
                 monthNum = parseInt(thename.deathDate.substring(0, 2));
 
