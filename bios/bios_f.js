@@ -267,7 +267,7 @@ f_bios = [
         photoPos: [],
         photoHeights: ["", "580"],
         editors: "Anthony Beckwith",
-        authors: "CWHP volunteers",
+        authors: "Robin Hein",
         categories: ["Artist"],
     },
     {
