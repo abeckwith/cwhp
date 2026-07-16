@@ -240,7 +240,7 @@ f_bios = [
     stained glass windows. She studied in London with the English stained glass 
     artist Christopher Whall and in Boston with Charles Connick. She opened her 
     own stained glass studio on Church Street in Cambridge in 1920. She designed 
-    stained glass windows for churches in Yarmouth, Nova Scotia and Mechanicsville, 
+    stained glass windows for churches in Yarmouth, Nova Scotia and Mechanicville, 
     New York. Locally, she designed windows at Bertram and Eliot halls in the Radcliffe 
     Quadrangle. <br><br>
 
