@@ -36,7 +36,11 @@ async function copyTextToClipboard() {
         console.error("Failed to copy text: ", err);
     }
 }
-
+function getNextLetter(char) {
+  if (char === 'z') return 'a';
+  if (char === 'Z') return 'A';
+  return String.fromCharCode(char.charCodeAt(0) + 1);
+}
 function loadInfoPage(checkLinks) {
     setMenu(10);
 
@@ -103,8 +107,14 @@ function loadInfoPage(checkLinks) {
     linkCount = 0;
     //GET AND DISPLAY ALL INFO:
     if (checkLinks) {
-        letter = window.prompt("A-Z: ").toUpperCase();
-        ltr_index = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".indexOf(letter);
+        alpha = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+        linkLetter = localStorage.getItem('linkLetter');
+        
+        if(alpha.indexOf(linkLetter) == -1)
+            linkLetter = "A";
+        
+        letter = window.prompt("A-Z of last name: ", linkLetter).toUpperCase();
+        ltr_index = alpha.indexOf(letter);
         bioLetterList = all_bios[ltr_index];
         //go through each name for this letter:
         bioLetterList.forEach((thename) => {
@@ -115,6 +125,7 @@ function loadInfoPage(checkLinks) {
                 window.open(link, "_blank");
             });
         });
+        localStorage.setItem('linkLetter', getNextLetter(letter));
     }
     all_bios.forEach((bioLetterList) => {
         //go through each name for this letter:

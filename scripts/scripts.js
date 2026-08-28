@@ -1260,6 +1260,9 @@ function next() {
  * @param {Boolean} search true if called from search.html
  */
 function init(topical, search) {
+    if(!search)     
+        localStorage.setItem('linkLetter', 'A');
+
     //get rid of ltr after done with topics
     let alphaList = "SELECT: ";
 
