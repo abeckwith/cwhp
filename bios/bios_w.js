@@ -426,7 +426,7 @@ w_bios = [
             Martin, Elizabeth and Vivan Meyer. <i>Female Gazes: Seventy-Five Women Artists</i>.
             Toronto: Second Story Press, 1997.<br>
             Whitney image from wikipedia:<br>
-            <a class=indent' href="https://en.wikipedia.org/wiki/Anne_Whitney" >https://en.wikipedia.org/wiki/Anne_Whitney</a> <br>
+            <a class='indent' href="https://en.wikipedia.org/wiki/Anne_Whitney" >https://en.wikipedia.org/wiki/Anne_Whitney</a> <br>
              Statue image from wikipedia:<br>
              <a class='indent' href="https://commons.wikimedia.org/wiki/File:Charles_Sumner_statue_%28Cambridge,_MA%29_-_Anne_Whitney_sculptor.JPG" >https://commons.wikimedia.org/wiki/File:Charles_Sumner_statue_%28Cambridge,_MA%29_-_Anne_Whitney_sculptor.JPG</a>
         `,

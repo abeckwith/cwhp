@@ -670,8 +670,8 @@ g_bios = [
                 href="https://www.bostonherald.com/2008/03/01/second-time-around-is-sweet-for-renae-gray/" >
                 https://www.bostonherald.com/2008/03/01/second-time-around-is-sweet-for-renae-gray/</a><br>
             <span >My Keeper Obituary:</span><a
-                href="http://www.mykeeper.com/profile/HaymarketPeoplesFund/" >
-                http://www.mykeeper.com/profile/HaymarketPeoplesFund/</a><br>
+                href="https://www.mykeeper.com/HaymarketPeoplesFund" >
+                https://www.mykeeper.com/HaymarketPeoplesFund</a><br>
             New England Blacks in Philanthropy website, blog post, 1/31/17,
             https://sel-law.squarespace.com/renae-gray-post<br>
             <span >Silva-Collins, Candelaria, blog,

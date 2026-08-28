@@ -1449,7 +1449,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         <i>Barnard College Yearbook</i>, 1973<br>
         <i>The Cambridge Chronicle</i>, 13 May 1999.<br>
         <i>Barnard Magazine</i>, Spring 2002:
-        <br><a class='indent' href="https://barnard.edu/magazine/spring-2022/lifelong-activist">https://barnard.edu/magazine/spring-2022/lifelong-activist</a> <br>
+        <br><a class='indent' href="https://digitalcollections.barnard.edu/do/c67d184c-5edd-485a-b5f0-6c434ed509a6">https://digitalcollections.barnard.edu/do/c67d184c-5edd-485a-b5f0-6c434ed509a6/a> <br>
         <i>The Boston Globe</i>, May 24, 2017</i>:<br>
         <a class='indent' href="https://www.boston.com/culture/music/2017/05/24/long-before-boston-calling-amandla-festival-brought-bob-marley-and-social-justice-to-harvard/">https://www.boston.com/culture/music/2017/05/24/long-before-boston-calling-amandla-festival-brought-bob-marley-and-social-justice-to-harvard/</a><br>
 

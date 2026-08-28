@@ -105,39 +105,39 @@ y_bios = [
         otherNotes: "",
         references: `
             Arvind Dilawar, &ldquo;Advocates For Self-managed Abortions Are Preparing For a Post-Roe World&rdquo;,
-            <i>Pacific Standard</i>, 7/12/2019,<br> <a
+            <i>Pacific Standard</i>, 7/12/2019,<br> <a class='indent' 
                 href="https://psmag.com/social-justice/advocates-for-self-managed-abortions-are-preparing-for-a-post-roe-world" >Link</a>
             <br> <br>
             Baker, Carrie. &ldquo;We Heart: The Period Tracking App Resisting Anti-abortion Government
-            Surveillance,&rdquo; <i>Ms. Magazine</i>, 1/27/2020,<br> <a
+            Surveillance,&rdquo; <i>Ms. Magazine</i>, 1/27/2020,<br> <a class='indent' 
                 href="https://msmagazine.com/2020/01/27/we-heart-the-period-tracking-app-resisting-anti-abortion-government-surveillance/" >Link</a>
             <br> <br>
             Harvard Library Hollis Catalogue of Susan Yanow publications, accessed 6/2/2020: <br><a
                 href="https://hollis.harvard.edu/primo-explore/search?query=creator,exact,Yanow%20Susan,AND&amp;pfilter=pfilter,exact,articles,AND&amp;tab=everything&amp;search_scope=everything&amp;vid=HVD2&amp;mode=advanced&amp;offset=0" >Link</a>
-            Later Abortion, History of the Initiative:<br> <a
+            Later Abortion, History of the Initiative:<br> <a class='indent' 
                 href="https://laterabortion.org/history-initiative">https://laterabortion.org/history-initiative</a>
             <br> <br>
             NARAL Pro Choice Massachusetts 2016 Annual Champions For Choice Awardees: <br>https://prochoicemass.org/2016/10/21/naral-honors-dr-judyann-bigby-susan-yanow-work-toward-advancement-reproductive-freedom-annual-champions-choice-event/ (no longer available)
             <br> <br>
-            NPR Radio interviews:<br> <a
-                href="https://www.npr.org/transcripts/9213707">https://www.npr.org/transcripts/9213707</a>,<br><a
+            NPR Radio interviews:<br> <a class='indent' 
+                href="https://www.npr.org/transcripts/9213707">https://www.npr.org/transcripts/9213707</a>,<br><a class='indent' 
                 href="https://www.wbur.org/hereandnow/2017/05/04/women-help-women-website-pregnancies" >https://www.wbur.org/hereandnow/2017/05/04/women-help-women-website-pregnancies</a>,
             <a
                 href="https://www.wbur.org/commonhealth/2018/05/22/abortion-battle-health-information" >https://www.wbur.org/commonhealth/2018/05/22/abortion-battle-health-information</a>
             <br> <br>
             Nurses for Sexual and Reproductive Health: <br>https://www.nsrh.org/susan-yanow--msw (no longer available) <br>
-            Our Bodies, Ourselves:<br> <a
+            Our Bodies, Ourselves:<br> <a class='indent' 
                 href="https://www.ourbodiesourselves.org/our-story/contributors/susan-yanow/" >https://www.ourbodiesourselves.org/our-story/contributors/susan-yanow/</a>
             <br> <br>
             Redden, Molly. &ldquo;New website offers US women help to perform their own abortions,&rdquo; <i>The
-                Guardian</i>, 4/27/2017,<br> <a
+                Guardian</i>, 4/27/2017,<br> <a class='indent' 
                 href="https://www.theguardian.com/world/2017/apr/27/abortion-website-women-help-women" >https://www.theguardian.com/world/2017/apr/27/abortion-website-women-help-women</a>
             <br> <br>
             <i>Rewire.News</i> articles by Susan Yanow, accessed 6/2/1010:<br> <a
                 href="https://rewire.news/author/susan-yanow/" >https://rewire.news/author/susan-yanow/</a> <br>
             Self-Managed Abortion Podcast, Part 1: <a href="https://www.smapodcast.org" >https://www.smapodcast.org</a> (no longer available)
             <br> <br>
-            Women Help Women: Euki App.<br> <a
+            Women Help Women: Euki App.<br> <a class='indent' 
                 href="https://womenhelp.org/en/page/1082/euki-app" >https://womenhelp.org/en/page/1082/euki-app</a> <br>
             Yanow, Susan. &ldquo;It is time to integrate abortion into primary care.&rdquo; <i>American journal of
                 public health</i> vol. 103,1 (2013): 14-6. doi:10.2105/AJPH.2012.3011196
