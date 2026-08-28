@@ -60,7 +60,7 @@ o_bios = [
         references: `
             Written by Kimm Topping, printed in <i>Mapping Feminist Cambridge</i> guidebook, 2019:<br>
              <a class='indent' 
-                href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a>
+                href="https://www.cambridgema.gov/-/media/files/womenscommission/mappingfeministcambridge/mappingfeministcambridgeguideinmansquare1970s1990s.pdf">https://www.cambridgema.gov/-/media/files/womenscommission/mappingfeministcambridge/mappingfeministcambridgeguideinmansquare1970s1990s.pdf</a>
             <br>
             The Oral History Center archive is housed at Northeastern University<br> 
             <a

@@ -167,7 +167,7 @@ m_bios = [
         references: ` <i>
                 Mapping Feminist Cambridge</i> guidebook, 2019, with support from the Cambridge Women's Commission and
             the Mapping Feminist Cambridge Advisory Committee. <a
-                href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a>
+                href="https://www.cambridgema.gov/-/media/files/womenscommission/mappingfeministcambridge/mappingfeministcambridgeguideinmansquare1970s1990s.pdf">https://www.cambridgema.gov/-/media/files/womenscommission/mappingfeministcambridge/mappingfeministcambridgeguideinmansquare1970s1990s.pdf</a>
 
         `,
         photos: ["images_bios/map_feminist.png"],
@@ -372,8 +372,8 @@ m_bios = [
         otherNotes: "",
         references: `
             Written by Kimm Topping, printed in <i>Mapping Feminist Cambridge</i> guidebook, 2019: <a
-                href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">
-                https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a><br>
+                href="https://www.cambridgema.gov/-/media/files/womenscommission/mappingfeministcambridge/mappingfeministcambridgeguideinmansquare1970s1990s.pdf">
+                https://www.cambridgema.gov/-/media/files/womenscommission/mappingfeministcambridge/mappingfeministcambridgeguideinmansquare1970s1990s.pdf</a><br>
                 <i>The Cambridge Chronicle</i>, 29 May 1975.
 
 

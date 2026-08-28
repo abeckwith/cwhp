@@ -1119,7 +1119,7 @@ w_bios = [
 
 
             Written by Kimm Topping, printed in <i>Mapping Feminist Cambridge</i> guidebook, 2019: <a
-                href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a>
+                href="https://www.cambridgema.gov/-/media/files/womenscommission/mappingfeministcambridge/mappingfeministcambridgeguideinmansquare1970s1990s.pdf">https://www.cambridgema.gov/-/media/files/womenscommission/mappingfeministcambridge/mappingfeministcambridgeguideinmansquare1970s1990s.pdf</a>
         `,
         photos: ["images_bios/wchc.png"],
         photoTitles: ["April 1979 Cambridge Chronicle"],
@@ -1176,8 +1176,8 @@ w_bios = [
         otherNotes: "",
         references: ` Written by Kimm Topping, printed in Mapping Feminist
             Cambridge guidebook, 2019:
-            <a href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf" >
-            https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a><br>
+            <a href="https://www.cambridgema.gov/-/media/files/womenscommission/mappingfeministcambridge/mappingfeministcambridgeguideinmansquare1970s1990s.pdf" >
+            https://www.cambridgema.gov/-/media/files/womenscommission/mappingfeministcambridge/mappingfeministcambridgeguideinmansquare1970s1990s.pdf</a><br>
 
             <a href="https://www.nlgmass.org/nlg-mass-history" >www.nlgmass.org/nlg-mass-history</a><br>
             <i>The Cambridge Chronicle</i>, 21 February 1974.

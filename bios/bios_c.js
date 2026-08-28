@@ -854,8 +854,8 @@ c_bios = [
             `,
         otherNotes: "",
         references: `Written by Kimm Topping, printed in Mapping Feminist Cambridge guidebook, 2019:<br>
-            <a href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf" >
-                https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf
+            <a href="https://www.cambridgema.gov/-/media/files/womenscommission/mappingfeministcambridge/mappingfeministcambridgeguideinmansquare1970s1990s.pdf" >
+                https://www.cambridgema.gov/-/media/files/womenscommission/mappingfeministcambridge/mappingfeministcambridgeguideinmansquare1970s1990s.pdf
             </a><br>
             Photo: <i>Cambridge Chronicle</i>, 18 November 1971.<br>
             <i>Cambridge Chronicle</i>, 18 November 1971.<br>
@@ -916,8 +916,8 @@ c_bios = [
         otherNotes: "",
         references: `Written by Kimm Topping, printed in <i>Mapping Feminist Cambridge</i>
             guidebook, 2019: <a
-                href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">
-                https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a>
+                href="https://www.cambridgema.gov/-/media/files/womenscommission/mappingfeministcambridge/mappingfeministcambridgeguideinmansquare1970s1990s.pdf">
+                https://www.cambridgema.gov/-/media/files/womenscommission/mappingfeministcambridge/mappingfeministcambridgeguideinmansquare1970s1990s.pdf</a>
                 <br>
                 History Cambridge article on City Girl Cafe:
                 <br><a class='indent' href="https://historycambridge.org/articles/businesses-well-lived-city-girl-cafe/">https://historycambridge.org/articles/businesses-well-lived-city-girl-cafe/</a><br>
@@ -983,7 +983,7 @@ c_bios = [
         otherNotes: "",
         references: `Written by Kimm Topping, printed in <i>Mapping Feminist Cambridge</i>
             guidebook, 2019: <a
-                href="https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf">https://www.cambridgewomenscommission.org/download/CCSW_MFCamb_book_190717.pdf</a>
+                href="https://www.cambridgema.gov/-/media/files/womenscommission/mappingfeministcambridge/mappingfeministcambridgeguideinmansquare1970s1990s.pdf">https://www.cambridgema.gov/-/media/files/womenscommission/mappingfeministcambridge/mappingfeministcambridgeguideinmansquare1970s1990s.pdf</a>
 <br>Photo: <i>Cambridge Chronicle</i>, 24 October 1989.
         `,
         photos: ["images_bios/clayground.png"],
