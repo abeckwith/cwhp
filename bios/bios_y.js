@@ -118,15 +118,18 @@ y_bios = [
                 href="https://laterabortion.org/history-initiative">https://laterabortion.org/history-initiative</a>
             <br> <br>
             NARAL Pro Choice Massachusetts 2016 Annual Champions For Choice Awardees: <br>https://prochoicemass.org/2016/10/21/naral-honors-dr-judyann-bigby-susan-yanow-work-toward-advancement-reproductive-freedom-annual-champions-choice-event/ (no longer available)
-            <br> <br>
+            See instead: <br><a class='indent' href="https://web.archive.org/web/20210307132146/https://prochoicemass.org/2016/10/21/naral-honors-dr-judyann-bigby-susan-yanow-work-toward-advancement-reproductive-freedom-annual-champions-choice-event/">
+            https://web.archive.org/web/20210307132146/https://prochoicemass.org/2016/10/21/naral-honors-dr-judyann-bigby-susan-yanow-work-toward-advancement-reproductive-freedom-annual-champions-choice-event/</a><br>
             NPR Radio interviews:<br> <a class='indent' 
                 href="https://www.npr.org/transcripts/9213707">https://www.npr.org/transcripts/9213707</a>,<br><a class='indent' 
                 href="https://www.wbur.org/hereandnow/2017/05/04/women-help-women-website-pregnancies" >https://www.wbur.org/hereandnow/2017/05/04/women-help-women-website-pregnancies</a>,
             <a
                 href="https://www.wbur.org/commonhealth/2018/05/22/abortion-battle-health-information" >https://www.wbur.org/commonhealth/2018/05/22/abortion-battle-health-information</a>
             <br> <br>
-            Nurses for Sexual and Reproductive Health: <br>https://www.nsrh.org/susan-yanow--msw (no longer available) <br>
-            Our Bodies, Ourselves:<br> <a class='indent' 
+            Nurses for Sexual and Reproductive Health: <br>https://www.nsrh.org/susan-yanow--msw (no longer available)
+            See instead: <br>
+            <a class='indent' href="https://web.archive.org/web/20210614234758/https://www.nsrh.org/susan-yanow--msw">https://web.archive.org/web/20210614234758/https://www.nsrh.org/susan-yanow--msw</a>
+     <Br>       Our Bodies, Ourselves:<br> <a class='indent' 
                 href="https://www.ourbodiesourselves.org/our-story/contributors/susan-yanow/" >https://www.ourbodiesourselves.org/our-story/contributors/susan-yanow/</a>
             <br> <br>
             Redden, Molly. &ldquo;New website offers US women help to perform their own abortions,&rdquo; <i>The
@@ -136,7 +139,10 @@ y_bios = [
             <i>Rewire.News</i> articles by Susan Yanow, accessed 6/2/1010:<br> <a
                 href="https://rewire.news/author/susan-yanow/" >https://rewire.news/author/susan-yanow/</a> <br>
             Self-Managed Abortion Podcast, Part 1: <a href="https://www.smapodcast.org" >https://www.smapodcast.org</a> (no longer available)
-            <br> <br>
+            See instead: <br>
+            <a class='indent' href="https://web.archive.org/web/20230307181516/https://www.smapodcast.org/podcast/part-1-a-story-to-introduce-self-managed-abortion">https://web.archive.org/web/20230307181516/https://www.smapodcast.org/podcast/part-1-a-story-to-introduce-self-managed-abortion</a>
+
+            <br>
             Women Help Women: Euki App.<br> <a class='indent' 
                 href="https://womenhelp.org/en/page/1082/euki-app" >https://womenhelp.org/en/page/1082/euki-app</a> <br>
             Yanow, Susan. &ldquo;It is time to integrate abortion into primary care.&rdquo; <i>American journal of

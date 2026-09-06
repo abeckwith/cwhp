@@ -2066,7 +2066,8 @@ b_bios = [
             Beazley, 2005.<br><br>
             Bill Brett, Kerry Brett, Carol Beggy. <i>Boston, Inspirational Women</i> Boston,
             MA: Three Bean Press, 2011. <br>
-            The Brass Sisters' s website: www.thebrasssisters.com (no longer available).
+            The Brass Sisters' s website: only available in archive form:
+            <br><a class="indent" href="https://web.archive.org/web/20250923152002/http://www.thebrasssisters.com/">https://web.archive.org/web/20250923152002/http://www.thebrasssisters.com/</a>
 
 
         `,
@@ -2183,8 +2184,9 @@ b_bios = [
         New York, NY: St. Martin&apos;s Griffin, 2015.<br><i>Miller&apos;s Buyer&apos;s Guide: Kitchenware: 
         What to Look for and What to Pay for Kitchenware for Over 2000 Items of Kitchenware</i>. London: Mitchell
         Beazley, 2005.<br>Bill Brett, Kerry Brett, Carol Beggy.&nbsp;<i>Boston, Inspirational Women&nbsp;
-        </i>Boston, MA: Three Bean Press, 2011.<br>The Brass Sisters&apos; s website: 
-       www.thebrasssisters.com (no longer available).<br>
+        </i>Boston, MA: Three Bean Press, 2011.<br>  The Brass Sisters' s website: only available in archive form:
+            <br><a class="indent" href="https://web.archive.org/web/20250923152002/http://www.thebrasssisters.com/">https://web.archive.org/web/20250923152002/http://www.thebrasssisters.com/</a>
+<br>
         <i>The Boston Globe</i>, Sept. 12, 2022</p>
      
 
@@ -2462,7 +2464,9 @@ b_bios = [
             Second photo and quote from Charlotte Hawkins Brown Museum:<br>
             <a class='indent' href="https://web.archive.org/web/20181002211340/http://www.nchistoricsites.org/chb/early-life.htm">https://web.archive.org/web/20181002211340/http://www.nchistoricsites.org/chb/early-life.htm</a>
             <Br>
-            Biograhy.com (link no longer available)<br>
+            Biograhy.com source only available in archived site: <br>
+            <a class='indent' href="https://web.archive.org/web/20190327091051/https://www.biography.com/people/charlotte-hawkins-brown-206525">https://web.archive.org/web/20190327091051/https://www.biography.com/people/charlotte-hawkins-brown-206525</a>
+            <Br>
             Wikipedia entry:<br>
             <a class='indent' href="https://en.wikipedia.org/wiki/Charlotte_Hawkins_Brown">https://en.wikipedia.org/wiki/Charlotte_Hawkins_Brown</a>
         `,
@@ -3011,7 +3015,7 @@ b_bios = [
         https://achievement.org/achiever/susan-butcher/#interview/</a>.<br>
 
         Alaska Sports Hall of Fame (n.d.). Susan Butcher: Hard-nosed Competitor. <br>Retrieved 7/4/2020
-        from https://alaskasportshall.org/inductee/susan-butcher/ (no longer available).
+        from <a href="https://alaskasportshall.org/inductee/susan-butcher/">https://alaskasportshall.org/inductee/susan-butcher/</a> .
         <br><br><a href="https://www.thecrimson.com/article/1974/5/24/the-warehouse-school-one-alternative-pthe/" >
         https://www.thecrimson.com/article/1974/5/24/the-warehouse-school-one-alternative-pthe/</a>.<br><br>
         Image from <a href="https://commons.wikimedia.org/wiki/File:Fairbanks_-_Susan_Butcher_and_Dogs.jpg" >

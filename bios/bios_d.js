@@ -556,10 +556,10 @@ d_bios = [
                 <br>
                 Deihl, Marcia. Papers of Marcia Deihl, 1965-2011 (inclusive). Schlesinger Library on the History of
                 Women in America, Radcliffe Institute for Advanced Study, 2009-M153, 2016-M80. Web. 31 March 2019:
-               <br>http://id.lib.harvard.edu/alma/990120776210203941/catalog (no longer available). <br>
+               <br><a class='indent' href="https://id.lib.harvard.edu/alma/990120776210203941/catalog">https://id.lib.harvard.edu/alma/990120776210203941/catalog</a>. <br>
                 Ely, Elissa. &ldquo;Marcia Deihl.&rdquo; The Remembrance Project. WBUR. Boston, Massachusetts,
-                2015. Radio: <br><a class='indent'
-                    https://www.wbur.org/the-remembrance-project/2015/07/07/the-remembrance-project-marcia-deihl">https://www.wbur.org/the-remembrance-project/2015/07/07/the-remembrance-project-marcia-deihl</a>.
+                2015. Radio: <br><a class='indent' href=
+                    "https://www.wbur.org/the-remembrance-project/2015/07/07/the-remembrance-project-marcia-deihl">https://www.wbur.org/the-remembrance-project/2015/07/07/the-remembrance-project-marcia-deihl</a>.
                 <br>
                 Hale, Kendall. <i>Radical Passions</i>. Bloomington: iUniverse, 2008. E-book. <br>
                 New Harmony Sisterhood Band. &hellip;And Ain&rsquo;t I a Woman, Paredon Records, 1977. Smithsonian
@@ -1072,8 +1072,8 @@ d_bios = [
             September 2002.<br>
             Vanessa E. Jones &quot;The way of oneness&quot;.<br>
             <i>The Boston Globe</i>, April 19, 2006.<br>
-            Undoing Silence website:<br>
-            http://www.undoingsilence.org (no longer available).
+            Author Page from New Village Press:<br>
+            <a class='indent' href="https://www.newvillagepress.org/nvp_authors/louise-dunlap/">https://www.newvillagepress.org/nvp_authors/louise-dunlap/</a>
         `,
         photos: ["images_bios/Louise%20Dunlap.jpg"],
         photoTitles: ["Louise Dunlap. Photo by Skip Schiel"],

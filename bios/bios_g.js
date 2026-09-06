@@ -274,11 +274,14 @@ g_bios = [
             Atkins, Christine. &quot;Wishing for Another Poem: The Poetry and Essays of
             Louise Gluck&quot; The New York State Writer's Institute Writer's Online Vol.
             1 No. 4 (Summer 1997). Date accessed: 12/7/2005 
-                http://www.english.uiuc.edu/maps/poets/g_l/gluck/about.htm (no longer available)<br>
+                <br><a class='indent' href="https://www.albany.edu/writers-inst/webpages4/archives/olv1n4.html#gluck">https://www.albany.edu/writers-inst/webpages4/archives/olv1n4.html#gluck</a><br>
             Hass, Robert &quot;About Louise Gluck&quot; Modern American Poetry
           
             Brief Biography, http://www.helical-library.net/gluck/bio.asp (no longer available). Date accessed:
-            4/22/2013<br>
+            4/22/2013. See instead:<br>
+        <a class='indent' href="https://web.archive.org/web/20100702164440/http://www.english.illinois.edu/maps/poets/g_l/gluck/about.htm">https://web.archive.org/web/20100702164440/http://www.english.illinois.edu/maps/poets/g_l/gluck/about.htm</a>
+            <br>
+        
             <i>The Cambridge Chronicle</i>, 3 September 2003.
             <br>
             Image from <a href="https://en.wikipedia.org/wiki/Louise_Gl%C3%BCck" >ttps://en.wikipedia.org/wiki/Louise_Gl%C3%BCck</a>
