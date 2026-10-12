@@ -344,7 +344,7 @@ h_bios = [
         narrative: `
             Born in Hartford, the Rev. Dr. Suzanne Hiatt was
             the oldest child of Alfred and Frances Hiatt. Brought up in Minnesota, she attended
-            high school in Edina MN. She started college at Wellesley and graduated from
+            high school in the city of Edina. She started college at Wellesley and graduated from
             Radcliffe College in 1958. After graduating as Master of Divinity from Episcopal
             Theological School in 1964, she went on to study for her master&#8216;s degree
             in social work from Boston University in 1965. 

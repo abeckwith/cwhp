@@ -37,9 +37,9 @@ async function copyTextToClipboard() {
     }
 }
 function getNextLetter(char) {
-  if (char === 'z') return 'a';
-  if (char === 'Z') return 'A';
-  return String.fromCharCode(char.charCodeAt(0) + 1);
+    if (char === "z") return "a";
+    if (char === "Z") return "A";
+    return String.fromCharCode(char.charCodeAt(0) + 1);
 }
 function loadInfoPage(checkLinks) {
     setMenu(10);
@@ -86,7 +86,8 @@ function loadInfoPage(checkLinks) {
     noqtct = 0; //total with no quote
     nbdct = 0; //total with no birthday
     nddct = 0; //total with no death date
-
+    wip = 0; //# of works in progress
+    wipList = "<table>";
     pocct = 0; //total number of people of color
     pocList = "";
 
@@ -108,11 +109,10 @@ function loadInfoPage(checkLinks) {
     //GET AND DISPLAY ALL INFO:
     if (checkLinks) {
         alpha = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-        linkLetter = localStorage.getItem('linkLetter');
-        
-        if(alpha.indexOf(linkLetter) == -1)
-            linkLetter = "A";
-        
+        linkLetter = localStorage.getItem("linkLetter");
+
+        if (alpha.indexOf(linkLetter) == -1) linkLetter = "A";
+
         letter = window.prompt("A-Z of last name: ", linkLetter).toUpperCase();
         ltr_index = alpha.indexOf(letter);
         bioLetterList = all_bios[ltr_index];
@@ -125,7 +125,7 @@ function loadInfoPage(checkLinks) {
                 window.open(link, "_blank");
             });
         });
-        localStorage.setItem('linkLetter', getNextLetter(letter));
+        localStorage.setItem("linkLetter", getNextLetter(letter));
     }
     all_bios.forEach((bioLetterList) => {
         //go through each name for this letter:
@@ -180,12 +180,11 @@ function loadInfoPage(checkLinks) {
             }
             //check if no deathdate given:
 
-   
-                if (thename.narrative.indexOf("blockquote") == -1) {
-                    //check if no quote yet:
-                    noQuote += theLink + "<br>";
-                    noqtct++;
-                }
+            if (thename.narrative.indexOf("blockquote") == -1) {
+                //check if no quote yet:
+                noQuote += theLink + "<br>";
+                noqtct++;
+            }
             //two photos and I'm not using the first one:
             if (thename.photos.length == 1 && thename.photos[0] == "") {
                 noImage += theLink + "<br>";
@@ -284,6 +283,13 @@ function loadInfoPage(checkLinks) {
 
                 recentObjects.push({ html_build, monthNum, year, dayNum });
             }
+            //look for women that my still be alive:
+            yr = parseInt(thename.birthDate.slice(-4));
+
+            currentYear = new Date().getFullYear();
+            if (currentYear - yr < 100 && thename.deathDate == "") {
+                aliveObjects.push(thename);
+            }
             //has a full deathdate:
             if (thename.deathDate != "" && hasFullDeathDate) {
                 deathYear = parseInt(thename.deathDate.substring(6));
@@ -324,15 +330,17 @@ function loadInfoPage(checkLinks) {
                     deathYear,
                     dayNum,
                 });
-
-                //look for women that my still be alive:
-                yr = parseInt(thename.birthDate.slice(-4));
-
-                currentYear = new Date().getFullYear();
-
-                if (currentYear - yr < 100 && thename.deathDate == "") {
-                    aliveObjects.push(thename);
-                }
+            }
+            if (thename.workInProgress) {
+                wip++;
+                wipList +=
+                    "<tr><td style='padding-left:10px;'><a target='_blank' href='" +
+                    getHref(lName, mName, fName) +
+                    "'>" +
+                    thename.lastName +
+                    ", " +
+                    thename.firstName +
+                    "</a><tr>";
             }
         });
     });
@@ -428,7 +436,6 @@ function loadInfoPage(checkLinks) {
     aliveDisplay = "<table><Tr><th>Name</th><th>BrthYr</th><th>Age</th></tr>";
 
     currentYear = new Date().getFullYear();
-
     aliveList.forEach((bio) => {
         lName = stripName(bio.lastName);
         fName = stripName(bio.firstName);
@@ -477,4 +484,6 @@ function loadInfoPage(checkLinks) {
     // document.getElementById("all-display-just-names").innerHTML = allJustNames;
 
     document.getElementById("birth-display").innerHTML = birthDisplay;
+
+    document.getElementById("wip").innerHTML = "<Br>" + wipList;
 }
