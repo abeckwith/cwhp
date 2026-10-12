@@ -135,8 +135,9 @@ function showRecents(num) {
 
                     //get rid of leading zero:
                     formattedDate = thename.dateCreated;
-                    if(thename.dateCreated.charAt(0) == "0")
-                        formattedDate = "&nbsp;&nbsp;" + formattedDate.substring(1);
+                    if (thename.dateCreated.charAt(0) == "0")
+                        formattedDate =
+                            "&nbsp;&nbsp;" + formattedDate.substring(1);
 
                     //put together display:
                     html_build =
@@ -224,11 +225,12 @@ function showRecents(num) {
                     if (thename.firstName != "") fnm = ", " + thename.firstName;
                     else fnm = "";
 
-                     //get rid of leading zero:
+                    //get rid of leading zero:
                     formattedDate = thename.dateUpdated;
-                    if(thename.dateUpdated.charAt(0) == "0")
-                        formattedDate = "&nbsp;&nbsp;" + formattedDate.substring(1);
-                    
+                    if (thename.dateUpdated.charAt(0) == "0")
+                        formattedDate =
+                            "&nbsp;&nbsp;" + formattedDate.substring(1);
+
                     // html +=
                     html_build =
                         "<br></i>" +
@@ -440,6 +442,7 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
         "</span></strong>";
 
     //add birth/death info:
+
     if (person.birthDate != "" || person.birthLocation != "")
         html +=
             "<div>" +
@@ -542,7 +545,8 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
             refIndent += "<span class='references'>" + element + "</span><Br>";
         });
 
-        html += "<br><br><strong>References & Sources:</strong><br>" + refIndent; //person.references;
+        html +=
+            "<br><br><strong>References & Sources:</strong><br>" + refIndent; //person.references;
     }
 
     //add link to open printable version:
@@ -675,8 +679,10 @@ function makeSidebar(letterIndex, personIndex, stepping, topical, search) {
                     thename.middleName.charAt(0) != '"'
                 )
                     mid = thename.middleName.charAt(0) + "."; //middle initial
-                else if(thename.familyName != "" &&
-                    thename.familyName.charAt(0) != '"')
+                else if (
+                    thename.familyName != "" &&
+                    thename.familyName.charAt(0) != '"'
+                )
                     mid = thename.familyName.charAt(0) + "."; //maiden initial
                 else mid = "";
 
@@ -874,7 +880,9 @@ function setupCategories() {
     for (i = 0; i < catArray.length; i++) {
         var opt = catArray[i];
         html +=
-            "<tr><td class='name-link'><a id='topic" + i + "' onclick='showNamesForTopical(" +
+            "<tr><td class='name-link'><a id='topic" +
+            i +
+            "' onclick='showNamesForTopical(" +
             i +
             ")'>" +
             catArray[i][0] +
@@ -935,13 +943,13 @@ function getLocation(ln, mn, fn) {
  */
 var choice = "";
 function showNamesForTopical(option) {
-    choice = catArray[option];   
-    
+    choice = catArray[option];
+
     //bold the selected topic:
     for (i = 0; i < catArray.length; i++) {
-        
-        if(i == option) document.getElementById("topic" + i).style.fontWeight = "bold";
-         else document.getElementById("topic" + i).style.fontWeight = "normal";
+        if (i == option)
+            document.getElementById("topic" + i).style.fontWeight = "bold";
+        else document.getElementById("topic" + i).style.fontWeight = "normal";
     }
 
     let html = "<table><tr><td></td></tr>";
@@ -1170,7 +1178,7 @@ function ranPerson() {
     window.history.pushState({}, "New Title", bioURL);
 }
 function setBoldInSideBar(bios, letter, loc) {
-    console.log("setting bold")
+    console.log("setting bold");
     for (let person = 0; person < bios[letter].length; person++) {
         document.getElementById(
             "name-" + letter + "-" + person,
@@ -1260,8 +1268,7 @@ function next() {
  * @param {Boolean} search true if called from search.html
  */
 function init(topical, search) {
-    if(!search)     
-        localStorage.setItem('linkLetter', 'A');
+    if (!search) localStorage.setItem("linkLetter", "A");
 
     //get rid of ltr after done with topics
     let alphaList = "SELECT: ";
