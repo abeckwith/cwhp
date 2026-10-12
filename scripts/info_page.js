@@ -334,13 +334,13 @@ function loadInfoPage(checkLinks) {
             if (thename.workInProgress) {
                 wip++;
                 wipList +=
-                    "<tr><td style='padding-left:10px;'><a target='_blank' href='" +
+                    "<a target='_blank' href='" +
                     getHref(lName, mName, fName) +
                     "'>" +
                     thename.lastName +
                     ", " +
                     thename.firstName +
-                    "</a><tr>";
+                    "</a><br>";
             }
         });
     });
