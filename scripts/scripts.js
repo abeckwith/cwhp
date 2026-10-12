@@ -25,7 +25,7 @@ function startBio() {
 
     //get params from URL:
     p = getParams();
-    console.log(p);
+    // console.log(p);
 
     ltrIndex = 0;
     personIndex = 0;

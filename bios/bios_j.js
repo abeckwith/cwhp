@@ -342,9 +342,8 @@ j_bios = [
         deathDate: "",
         deathLocation: "",
         narrative: `
-            Gish Jen is a renowned Cambridge-based author.<br><Br>
-            <hr>
-            <i>This profile is a work in progress, but you can find out more about her from her wikipedia page:<br>
+           <i> Gish Jen is a renowned Cambridge-based author.<br><Br>
+           This profile is a work in progress, but you can find more about Jen from her wikipedia page:<br>
             <a href="https://en.wikipedia.org/wiki/Gish_Jen">https://en.wikipedia.org/wiki/Gish_Jen</a></i>
             <br> <br> 
             `,

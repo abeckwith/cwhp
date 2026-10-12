@@ -1412,4 +1412,42 @@ c_bios = [
         authors: "CWHP volunteers",
         categories: ["Actress"],
     },
+        {
+        poc: false,
+        workInProgress: true, 
+        organization:  false,
+        lastName: "Crossley",
+        firstName: "Callie",
+        middleName: "",
+        familyName: "",
+        
+        title: `Journalist and Radio and Television Personality`,
+        birthDate: "",
+        birthLocation: "Memphis, Tennessee",
+        deathDate: "",
+        deathLocation: "",
+        narrative: `
+           <i> Callie Crossley is a longtime contributor and show host for local public TV and radio (WBGH) and a national contributor
+           on PBS and CNN. She lives in Cambridge.<br><Br>
+           This profile is a work in progress, but you can find more about Crossley from her wikipedia page:<br>
+            <a href="https://en.wikipedia.org/wiki/Callie_Crossley">https://en.wikipedia.org/wiki/Callie_Crossley</a></i>
+            <br> <br> 
+            `,
+        otherNotes: "",
+        references: `
+            <a class='indent' href="https://en.wikipedia.org/wiki/Callie_Crossley">https://en.wikipedia.org/wiki/Callie_Crossley</a><Br>
+
+
+            `,
+        photos: ["images_bios/callie_crossley.jpg"],
+        photoTitles: [],
+        dateCreated: "10.12.2026",
+        dateUpdated:
+ "",
+        
+        photoHeights: [],
+        editors:"",
+        authors: "Anthony Beckwith",
+        categories: ["Writer"],
+    },
 ];
