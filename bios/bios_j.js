@@ -327,4 +327,43 @@ j_bios = [
         authors: "CWHP volunteers",
         categories: ["Businesswoman"],
     },
+     {
+        poc: false,
+        workInProgress: true, 
+        organization:  false,
+        lastName: "Jen",
+        firstName: "Lillian",
+        middleName: "Gish",
+        familyName: "",
+        
+        title: `Author`,
+        birthDate: "08.12.1955",
+        birthLocation: "Long Island, NY",
+        deathDate: "",
+        deathLocation: "",
+        narrative: `
+            Gish Jen is a renowned Cambridge-based author.<br><Br>
+            <hr>
+            <i>This profile is a work in progress, but you can find out more about her from her wikipedia page:<br>
+            <a href="https://en.wikipedia.org/wiki/Gish_Jen">https://en.wikipedia.org/wiki/Gish_Jen</a></i>
+            <br> <br> 
+            `,
+        otherNotes: "",
+        references: `
+            <a class='indent' href="https://www.wgbh.org/people/gish-jen">https://www.wgbh.org/people/gish-jen</a><Br>
+            <a class='indent' href="https://en.wikipedia.org/wiki/Gish_Jen">https://en.wikipedia.org/wiki/Gish_Jen</a>
+
+
+            `,
+        photos: ["images_bios/gishjen.jpg"],
+        photoTitles: [],
+        dateCreated: "10.12.2026",
+        dateUpdated:
+ "",
+        
+        photoHeights: [],
+        editors:"",
+        authors: "Anthony Beckwith",
+        categories: ["Writer"],
+    },
 ];
