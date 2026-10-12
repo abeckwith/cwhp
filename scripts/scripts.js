@@ -104,7 +104,8 @@ function showRecents(num) {
             if (
                 thename.dateCreated != "prior to 2009" &&
                 thename.dateCreated != "" &&
-                hasFullDate
+                hasFullDate &&
+                !thename.workInProgress //don't show ones that don't have full bio
             ) {
                 //break up date created into components:
                 year = parseInt(thename.dateCreated.substring(6));
@@ -282,7 +283,6 @@ function showRecents(num) {
     });
     r2.forEach((element) => {
         html2 += element.html_build;
-        console.log(element.html_build);
     });
 
     if (html + html2 != "")

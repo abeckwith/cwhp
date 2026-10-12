@@ -86,7 +86,7 @@ function setUpMainPage() {
                 }
 
                 //found a recent:
-                if (found) {
+                if (found && !bio.workInProgress) {
                     recentYear = y;
                     recentMonth = m;
                     recentDay = d;
