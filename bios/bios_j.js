@@ -337,7 +337,7 @@ j_bios = [
         familyName: "",
         
         title: `Author`,
-        birthDate: "08.12.1955",
+        birthDate: "",
         birthLocation: "Long Island, NY",
         deathDate: "",
         deathLocation: "",
