@@ -346,8 +346,8 @@ j_bios = [
            This profile is a work in progress, but you can find more about Jen from her wikipedia page:<br>
             <a href="https://en.wikipedia.org/wiki/Gish_Jen">https://en.wikipedia.org/wiki/Gish_Jen</a></i>
             <br> <br> 
-            
-            If you are intested in helping to tell the stories of Cambridge women like Jen, <a href="https://cwhp.cambridgema.gov/about.html">consider joining us as
+
+            If you are intested in helping to tell the stories of Cambridge women like Gish Jen, <a href="https://cwhp.cambridgema.gov/about.html">consider joining us as
             a volunteer</a> 
             `,
         otherNotes: "",
