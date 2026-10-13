@@ -1441,7 +1441,7 @@ c_bios = [
 
 
             `,
-        photos: ["images_bios/callie_crossley.jpg"],
+        photos: ["images_bios/Callie_Crossley.jpg"],
         photoTitles: [],
         dateCreated: "10.12.2026",
         dateUpdated:
