@@ -1291,4 +1291,49 @@ by Cate McQuaid,, April 12, 2017.
         authors: "Anthony Beckwith",
         categories: ["Clerk", "Law Enforcement"],
     },
+     {
+        poc: false,
+        workInProgress: true,
+        organization: false,
+        lastName: "Mason",
+        firstName: "Jean",
+        middleName: "",
+        familyName: "Kaltwasser",
+
+        title: `Housing Advocate, Psychologist, Author`,
+        birthDate: "07.21.1924",
+        birthLocation: "St. Louis, Missouri",
+        deathDate: "03.25.2026",
+        deathLocation: "Cambridge, Massachusetts",
+        narrative: `
+           In 1957, Jean Mason was the chair of the Committee of Against Discrimination for the Urban League of Boston and 
+           later worked on safe housing for women in Cambridge and Cambridge Co-Housing. She also worked as a staff psychologist at the Cambridge
+           Guidance Center. She author two books.<br><Br>
+           <i>This profile is a work in progress, but you can find more about Mason from her obituary:<br>
+            <a href="https://www.legacy.com/us/obituaries/bostonglobe/name/jean-mason-obituary?id=61186965">https://www.legacy.com/us/obituaries/bostonglobe/name/jean-mason-obituary?id=61186965</a></i>
+            <br> <br> 
+            If you are intested in helping to tell the stories of Cambridge women like Eva Paddock, <a href="https://cwhp.cambridgema.gov/about.html">consider joining us as
+            a volunteer</a> 
+            `,
+        otherNotes: "",
+        references: `
+        Legacy.com obituary:<br>
+            <a class="indent" href="https://www.legacy.com/us/obituaries/bostonglobe/name/jean-mason-obituary?id=61186965">https://www.legacy.com/us/obituaries/bostonglobe/name/jean-mason-obituary?id=61186965</a></i>
+        <br>
+        Rogers Funeral Home photo:<Br>
+            <a class="indent" href="https://rogersfuneralhome.net/1/obituaries/2158-mrs-jean-k-mason">https://rogersfuneralhome.net/1/obituaries/2158-mrs-jean-k-mason</a>
+
+    
+
+            `,
+        photos: ["images_bios/Jean_Mason_1.jpg"],
+        photoTitles: [],
+        dateCreated: "10.13.2026",
+        dateUpdated: "",
+
+        photoHeights: [],
+        editors: "",
+        authors: "Anthony Beckwith",
+        categories: ["Author", "Housing Advocate", "Psychologist"],
+    },
 ];

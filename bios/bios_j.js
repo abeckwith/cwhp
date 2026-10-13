@@ -2,12 +2,12 @@ j_bios = [
     {
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Jacobs",
         firstName: "Harriet",
         middleName: "A.",
         familyName: "",
-        
+
         title: `Abolitionist, escaped slave`,
         birthDate: "ca.1813",
         birthLocation: "Edenton, North Carolina",
@@ -69,9 +69,9 @@ j_bios = [
         photoTitles: [],
         dateCreated: "prior to 2009",
         dateUpdated: "04.05.2025",
-        
+
         photoHeights: [],
-        editors:"Anthony Beckwith",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: [
             "Reformer",
@@ -83,12 +83,12 @@ j_bios = [
     {
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Jacobs",
         firstName: "Sarah",
         middleName: "Sprague",
         familyName: "",
-        
+
         title: `Politician,
                 teacher, author, poet, copy editor`,
         birthDate: "03.17.1813",
@@ -162,25 +162,21 @@ j_bios = [
         photoTitles: [],
         dateCreated: "prior to 2009",
         dateUpdated: "",
-        
+
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
-        categories: [
-            "Teacher/Educator",
-            "Political Leader",
-            "Poet","Author"
-        ],
+        categories: ["Teacher/Educator", "Political Leader", "Poet", "Author"],
     },
     {
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Johnson",
         firstName: "Grace",
         middleName: "Allen",
         familyName: "Fitch",
-        
+
         title: `Social activist, suffragist, political leader`,
         birthDate: "09.29.1871",
         birthLocation: "Maples, Indiana",
@@ -251,9 +247,9 @@ j_bios = [
         photoTitles: [],
         dateCreated: "prior to 2009",
         dateUpdated: "04.08.2025",
-        
+
         photoHeights: [],
-        editors:"Anthony Beckwith",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: [
             "Activist",
@@ -264,12 +260,12 @@ j_bios = [
     {
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Jones",
         firstName: "Alice",
         middleName: "",
         familyName: "Palache",
-        
+
         title: `Bank vice president, birth control advocate`,
         birthDate: "04.12.1907",
         birthLocation: "Cambridge, Massachusetts",
@@ -319,26 +315,26 @@ j_bios = [
             `,
         photos: ["images_bios/AlicePalache.png"],
         photoTitles: [],
-        dateCreated: "prior to 2009",dateUpdated:
- "",
-        
+        dateCreated: "prior to 2009",
+        dateUpdated: "",
+
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Businesswoman"],
     },
-     {
+    {
         poc: false,
-        workInProgress: true, 
-        organization:  false,
+        workInProgress: true,
+        organization: false,
         lastName: "Jen",
         firstName: "Lillian",
         middleName: "Gish",
         familyName: "",
-        
+
         title: `Author`,
         birthDate: "00.00.1955",
-        birthLocation: "Long Island, NY",
+        birthLocation: "Long Island, New York",
         deathDate: "",
         deathLocation: "",
         narrative: `
@@ -346,25 +342,25 @@ j_bios = [
            This profile is a work in progress, but you can find more about Jen from her wikipedia page:<br>
             <a href="https://en.wikipedia.org/wiki/Gish_Jen">https://en.wikipedia.org/wiki/Gish_Jen</a></i>
             <br> <br> 
-
-            If you are intested in helping to tell the stories of Cambridge women like Gish Jen, <a href="https://cwhp.cambridgema.gov/about.html">consider joining us as
+            This profile is a work in progress.            
+            If you are intested in helping to tell the stories of Cambridge women like Eva Paddock, <a href="https://cwhp.cambridgema.gov/about.html">consider joining us as
             a volunteer</a> 
             `,
         otherNotes: "",
         references: `
-            <a class='indent' href="https://www.wgbh.org/people/gish-jen">https://www.wgbh.org/people/gish-jen</a><Br>
-            <a class='indent' href="https://en.wikipedia.org/wiki/Gish_Jen">https://en.wikipedia.org/wiki/Gish_Jen</a>
+        <i>The Cambridge Chronicle</i>, Volume 167, Number 44, 29 August 2013<br><Br>
+        
 
+    
 
             `,
         photos: ["images_bios/gishjen.jpg"],
         photoTitles: [],
-        dateCreated: "10.12.2026",
-        dateUpdated:
- "",
-        
+        dateCreated: "10.13.2026",
+        dateUpdated: "",
+
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "Anthony Beckwith",
         categories: ["Writer"],
     },

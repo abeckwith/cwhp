@@ -3506,6 +3506,50 @@ b_bios = [
         authors: "Anthony Beckwith",
         categories: ["Activist", "Nun"],
     },
+         {
+        poc: false,
+        workInProgress: true,
+        organization: false,
+        lastName: "Brown",
+        firstName: "Edna",
+        middleName: "Corinna",
+        familyName: "Robinson",
+
+        title: `Dentist, Dental Surgeon`,
+        birthDate: "03.12.1892",
+        birthLocation: "New York, New York",
+        deathDate: "",
+        deathLocation: "",
+        narrative: `
+           <i>Edna Brown was the first Black woman dentist in Cambridge in 1927. She went on to practice as a
+           dental surgeon in New York City.<br><Br>
+           This profile is a work in progress. If you are intested in helping to tell the stories of Cambridge women like Edna Brown, <a href="https://cwhp.cambridgema.gov/about.html">consider joining us as
+            a volunteer</a> </i>
+            `,
+        otherNotes: "",
+        references: `
+        <i>The Cambridge Chronicle</i>, 8 February 1919 (Dentist advertisement)<br><Br>
+
+        Psi Omega:<br>
+
+        <a class="indent" href="https://www.akaboston.org/post/psi-omega-celebrates-95-years-of-service">https://www.akaboston.org/post/psi-omega-celebrates-95-years-of-service</a><Br> 
+
+        Bay State Banner:<Br>
+        <a class="indent" href="https://www.baystatebanner.com/2016/05/19/dr-jessie-k-garnett-the-first-black-woman-to-practice-dentistry-in-the-hub/">https://www.baystatebanner.com/2016/05/19/dr-jessie-k-garnett-the-first-black-woman-to-practice-dentistry-in-the-hub/ 
+        </a>
+    
+
+            `,
+        photos: ["images_bios/ednabrown.jpg", "images_bios/ednabrown2.png"],
+        photoTitles: ["", "Cambridge Chronicle, Feb. 8, 1919"],
+        dateCreated: "10.13.2026",
+        dateUpdated: "",
+
+        photoHeights: ["", "120"],
+        editors: "",
+        authors: "Anthony Beckwith",
+        categories: ["Dentist"],
+    },
     //     {
     //     poc: false,
     //     workInProgress: false, //true when don't want online yet

@@ -1,14 +1,13 @@
 p_bios = [
-
     {
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Parsons",
         firstName: "Emily",
         middleName: "Elizabeth",
         familyName: "",
-        
+
         title: `Civil war nurse, hospital founder`,
         birthDate: "03.08.1824",
         birthLocation: "Taunton, Massachusetts",
@@ -67,19 +66,19 @@ p_bios = [
         dateUpdated: "04.22.2026",
 
         photoHeights: [],
-        editors:"Anthony Beckwith",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Community Leader", "Nurse"],
     },
     {
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Pappenheim",
         firstName: "Yvonne",
         middleName: "",
         familyName: "Blumenthal",
-        
+
         title: `Social activist`,
         birthDate: "ca.1913",
         birthLocation: "New York, New York",
@@ -140,19 +139,19 @@ p_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Activist"],
     },
     {
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Payne-Gaposchkin",
         firstName: "Cecilia",
         middleName: "Helena",
         familyName: "",
-        
+
         title: `Astronomer`,
         birthDate: "05.10.1900",
         birthLocation: "Windover, Buckinghamshire, England",
@@ -209,19 +208,19 @@ p_bios = [
         dateUpdated: "04.07.2025",
 
         photoHeights: [],
-        editors:"Anthony Beckwith",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Scientist"],
     },
     {
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Peirce",
         firstName: "Harriet",
         middleName: "Melusina",
         familyName: "Fay",
-        
+
         title: `Social scientist, writer, feminist`,
         birthDate: "02.24.1836",
         birthLocation: "Burlington, Vermont",
@@ -307,19 +306,19 @@ p_bios = [
         dateUpdated: "01.31.2026",
 
         photoHeights: [],
-        editors:"Anthony Beckwith",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Reformer", "Author"],
     },
     {
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Piltch",
         firstName: "Sylvia",
         middleName: "Rosslyn",
         familyName: "",
-        
+
         title: `Physical therapist, community advocate, and volunteer`,
         birthDate: "03.08.1925",
         birthLocation: "Cambridge, Massachusetts",
@@ -405,19 +404,19 @@ p_bios = [
         dateUpdated: "01.30.2026",
 
         photoHeights: ["200"],
-        editors:"Anthony Beckwith",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Physical Therapist ", "Volunteer"],
     },
-      {
+    {
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Peters",
         firstName: "Kaethe",
         middleName: "",
         familyName: "Jacob",
-        
+
         title: `Social worker, educator, volunteer`,
         birthDate: "10.03.1914",
         birthLocation: "Erfurt, Germany",
@@ -500,19 +499,19 @@ p_bios = [
         dateUpdated: "",
 
         photoHeights: [""],
-        editors:"",
+        editors: "",
         authors: "Anthony Beckwith, Matthew Peters",
         categories: ["Social worker", "Volunteer", "Teacher/Educator"],
     },
-       {
+    {
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Pian",
         firstName: "Rulan",
         middleName: "",
         familyName: "Chao",
-        
+
         title: `Musician and ethnomusicologist`,
         birthDate: "04.20.1922",
         birthLocation: "Cambridge, Massachusetts",
@@ -577,25 +576,29 @@ p_bios = [
         Cambridge Historical Commission Instagram post:<br>
         <a class='indent' href="https://www.instagram.com/p/CqLWHcAMVuI/">https://www.instagram.com/p/CqLWHcAMVuI/</a>
         `,
-        photos: ["images_bios/pian2.png","images_bios/pian1.png","images_bios/pian3.png"],
+        photos: [
+            "images_bios/pian2.png",
+            "images_bios/pian1.png",
+            "images_bios/pian3.png",
+        ],
         photoTitles: [""],
         dateCreated: "03.06.2026",
         dateUpdated: "",
 
         photoHeights: [""],
-        editors:"",
+        editors: "",
         authors: "Eric Hill",
         categories: ["Musician", "Ethnomusicologist"],
     },
-           {
+    {
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Paris",
         firstName: "Estelle",
         middleName: "",
         familyName: "Williams",
-        
+
         title: `Nurse, health advocate, hospital administrator, volunteer`,
         birthDate: "06.28.1924",
         birthLocation: "Buffalo, New York",
@@ -686,14 +689,66 @@ p_bios = [
         <a class='indent' href="https://www.linkedin.com/pulse/trustee-excellence-leadership-award-awarded-estelle-paris-burrows">https://www.linkedin.com/pulse/trustee-excellence-leadership-award-awarded-estelle-paris-burrows</a>
         <br>Correspondence with Estelle's Paris' daughter Paula Paris, including 7/12/2020 text written for Barbara Ackermann's memorial service.
 `,
-        photos: ["images_bios/paris_nurse.jpg", "images_bios/paris_clinton.jpg"],
-        photoTitles: ["Paris' nursing school graduation photo", "Receiving the Foster McGraw Award with Ken Reeves and Hilary Clinton"],
+        photos: [
+            "images_bios/paris_nurse.jpg",
+            "images_bios/paris_clinton.jpg",
+        ],
+        photoTitles: [
+            "Paris' nursing school graduation photo",
+            "Receiving the Foster McGraw Award with Ken Reeves and Hilary Clinton",
+        ],
         dateCreated: "06.11.2026",
         dateUpdated: "06.23.2026",
 
         photoHeights: [""],
-        editors:"Meta Partenheimer",
+        editors: "Meta Partenheimer",
         authors: "Anthony Beckwith",
         categories: ["Nurse", "Community Activist"],
+    },
+    {
+        poc: false,
+        workInProgress: true,
+        organization: false,
+        lastName: "Paddock",
+        firstName: "Eva",
+        middleName: "",
+        familyName: "Fleishmann",
+
+        title: `Teacher, Principal, Group Therapist`,
+        birthDate: "00.00.1939",
+        birthLocation: "Czechoslovakia",
+        deathDate: "",
+        deathLocation: "",
+        narrative: `
+          
+        In 1935, at the age of four, Eva Paddock and her sister escaped Czechoslovakia to London, just as the Nazis
+         were making incursions into that country. <Br><Br>As an adult, Paddock worked for decades in the Cambridge 
+         Public Schools as a teacher and later a principal. After retiring, she retrained to become a group 
+         therapist, working in Central Square. All three of her children attended K-12 Cambridge Public Schools.
+            <br> <br> 
+
+        <i>  This profile is a work in progress.<br><Br>
+        If you are intested in helping to tell the stories of Cambridge women like Eva Paddock, <a href="https://cwhp.cambridgema.gov/about.html">consider joining us as
+     a volunteer</a> </i>
+            `,
+        otherNotes: "",
+        references: `
+        <i>The Cambridge Chronicle</i>, 6 February 1992 & 29 August 2013.<br><Br>
+        JewishBoston.com:<Br>
+            <a class="indent" href="https://www.jewishboston.com/events/philip-n-backstrom-jr-survivor-lecture-with-eva-paddock/">https://www.jewishboston.com/events/philip-n-backstrom-jr-survivor-lecture-with-eva-paddock/</a><Br><Br>
+            Cambridge Peace Commission:<br>
+            <a class="indent" href="https://www.cambridgema.gov/departments/peacecommission/calendar/2022/05/18/cityofcambridgeannualcommemorationoftheholocaust">https://www.cambridgema.gov/departments/peacecommission/calendar/2022/05/18/cityofcambridgeannualcommemorationoftheholocaust</a>
+
+
+            `,
+        photos: ["images_bios/EvaPaddock.png"],
+        photoTitles: [],
+        dateCreated: "10.13.2026",
+        dateUpdated: "",
+
+        photoHeights: [],
+        editors: "",
+        authors: "Anthony Beckwith",
+        categories: ["Teacher/Educator", "School Principal", "Group Therapist"],
     },
 ];
