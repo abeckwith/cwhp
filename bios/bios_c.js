@@ -1432,6 +1432,8 @@ c_bios = [
            This profile is a work in progress, but you can find more about Crossley from her wikipedia page:<br>
             <a href="https://en.wikipedia.org/wiki/Callie_Crossley">https://en.wikipedia.org/wiki/Callie_Crossley</a></i>
             <br> <br> 
+              If you are intested in helping to tell the stories of Cambridge women like Crossley, <a href="https://cwhp.cambridgema.gov/about.html">consider joining us as
+            a volunteer</a> 
             `,
         otherNotes: "",
         references: `
