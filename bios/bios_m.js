@@ -1336,4 +1336,49 @@ by Cate McQuaid,, April 12, 2017.
         authors: "Anthony Beckwith",
         categories: ["Author", "Housing Advocate", "Psychologist"],
     },
-];
+       {
+        poc: false,
+        workInProgress: true,
+        organization: false,
+        lastName: "Morgan",
+        firstName: "Gertrude",
+        middleName: "",
+        familyName: "Wright",
+
+        title: `Teacher, Civil Rights Activist`,
+        birthDate: "00.00.1861",
+        birthLocation: "Springfield, Illinois",
+        deathDate: "1931",
+        deathLocation: "Cambridge, Massachusetts",
+        narrative: `
+           Gertrude Wright began teaching in St. Louis, Missouri. After meeting Clement Morgan, she moved to 
+           Cambridge and they were married. There, she became involved in W.E.B. Dubois' Niagara Movement and helped to found the 
+           Boston chapter of the NAACP. Morgan Avenue in Cambridge is named after her.<br><Br>
+           <i>This profile is a work in progress. You can learn more about Morgan at this Mt. Auburn cemetery site: 
+           <a href="https://mountauburn.org/notable-residents/gertrude-wright-morgan-1861-1931/">https://mountauburn.org/notable-residents/gertrude-wright-morgan-1861-1931/</a>
+           <br><br>If you are intested in helping to tell the stories of Cambridge 
+           women like Gertrude Morgan, <a href="https://cwhp.cambridgema.gov/about.html">consider joining us as
+            a volunteer</a> </i>
+            `,
+        otherNotes: "",
+        references: `
+        Sangamon County History:<br>
+        <a class="indent" href="https://sangamoncountyhistory.org/racial-integration-in-springfield-public-schools/">https://sangamoncountyhistory.org/racial-integration-in-springfield-public-schools/</a><br>
+        Mt. Auburn Cemetery, Notable residents:<br>
+        <a class="indent" href="https://mountauburn.org/notable-residents/gertrude-wright-morgan-1861-1931/">https://mountauburn.org/notable-residents/gertrude-wright-morgan-1861-1931/</a><br>
+        
+    
+
+            `,
+        photos: ["images_bios/Gertrude-Wright-Morgan.jpeg"],
+        photoTitles: ["Photo from Mt. Auburn Cemetery website",],
+        dateCreated: "10.14.2026",
+        dateUpdated: "",
+
+        photoHeights: [""],
+        editors: "",
+        authors: "Anthony Beckwith",
+        categories: ["Teacher", "Civil Rights Activist"],
+       },
+    ];
+    

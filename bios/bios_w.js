@@ -1379,4 +1379,5 @@ w_bios = [
         authors: "Anthony Beckwith",
         categories: ["Restaurant Owner", "Community member"],
     },
+    
 ];
