@@ -1313,4 +1313,51 @@ d_bios = [
         authors: "Anthony Beckwith",
         categories: ["Church member", "Cook", "Volunteer"],
     },
+     {
+        poc: false,
+        workInProgress: true,
+        organization: false,
+        lastName: "Dorfman",
+        firstName: "Elsa",
+        middleName: "B.",
+        familyName: "",
+
+        title: `Photographer, Author`,
+        birthDate: "04.26.1937",
+        birthLocation: "Cambridge, Massachusetts",
+        deathDate: "05.30.2020",
+        deathLocation: "Cambridge, Massachusetts",
+        narrative: `
+          
+        Except for a brief stint in New York City, Elsa Dorfman spent her life in Cambridge as a
+         photographer with a unique approach: she took portraits using a large-format instant Polaroid camera, 
+        which produced 20 x 24 inch photos (her camera was one of only six in the world). <br> <br> 
+
+        <i>  This profile is a work in progress.<br><Br>
+        You can learn more about Elsa from the archived version of her personal website:<br>
+        <a href="http://archive.elsadorfman.com/">http://archive.elsadorfman.com/</a><br><br>
+        If you are intested in helping to tell the stories of Cambridge women like Elsa Dofrman, <a href="https://cwhp.cambridgema.gov/about.html">consider joining us as
+     a volunteer</a> </i>
+            `,
+        otherNotes: "",
+        references: `
+        WBUR profile:<br>
+       <Br><a class="indent" href="https://www.wbur.org/news/2017/07/14/b-side-elsa-dorfman-errol-morris">https://www.wbur.org/news/2017/07/14/b-side-elsa-dorfman-errol-morris</a>
+        <Br>Wikipedia entry:
+        <Br><a class="indent" href="https://en.wikipedia.org/wiki/Elsa_Dorfman">https://en.wikipedia.org/wiki/Elsa_Dorfman</a>
+        <Br>Griffin Museum:
+        <Br><a class="indent" href="https://griffinmuseum.org/elsa-dorfman/">https://griffinmuseum.org/elsa-dorfman/</a>
+        <Br>Elsa Dorfman personal website:
+        <Br><a class="indent" href="http://archive.elsadorfman.com/">http://archive.elsadorfman.com/</a>
+            `,
+        photos: ["images_bios/Elsa_Dorfman.jpg"],
+        photoTitles: ["Elsa with her Polaroid<Br>Source: wikimedia commons"],
+        dateCreated: "10.15.2026",
+        dateUpdated: "",
+
+        photoHeights: [],
+        editors: "",
+        authors: "Anthony Beckwith",
+        categories: ["Photographer", "Author"],
+    },
 ];
