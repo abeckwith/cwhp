@@ -2,7 +2,7 @@ c_bios = [
     {
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  true,
+        organization: true,
         lastName: "Cambridge Neighborhood House",
         firstName: "",
         middleName: "",
@@ -64,7 +64,7 @@ c_bios = [
     {
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  true,
+        organization: true,
         lastName: "Cambridge Political Equality Association",
         firstName: "",
         middleName: "",
@@ -144,7 +144,7 @@ c_bios = [
     {
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  true,
+        organization: true,
         lastName: "Cambridge School of Architecture and Landcape Architecture",
         firstName: "",
         middleName: "",
@@ -221,7 +221,7 @@ c_bios = [
     {
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Cannon",
         firstName: "Annie",
         middleName: "Jump",
@@ -308,7 +308,7 @@ c_bios = [
     {
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Cannon",
         firstName: "Cornelia",
         middleName: "",
@@ -405,7 +405,7 @@ c_bios = [
     {
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  true,
+        organization: true,
         lastName: "Cantabrigia Club",
         firstName: "",
         middleName: "",
@@ -470,7 +470,7 @@ c_bios = [
     {
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  true,
+        organization: true,
         lastName: "Cell 16",
         firstName: "",
         middleName: "",
@@ -524,7 +524,7 @@ c_bios = [
     // {
     //     poc: false,
     //     workInProgress: false, //true when don't want online yet
-        // organization:  true,
+    // organization:  true,
     //     lastName: "Centro Presente",
     //     firstName: "",
     //     middleName: "",
@@ -540,7 +540,6 @@ c_bios = [
     //         Established in 1981, Centro Presente is an immigrant-led,
     //         community-based organization in Cambridge. It was originally created in response
     //         to the influx of Central Americans fleeing U.S.-sponsored civil war but soon
-            
 
     //         developed into an active community organization with a wider mission to develop
     //         adult education programs (ESL, literacy, and citizenship), youth leadership
@@ -549,7 +548,7 @@ c_bios = [
     //         Mary's Catholic
     //         Church), members of the Salvadoran immigrant community, and members of the legal
     //         community in Cambridge. The current address is 54 Essex Street in Central Square in Cambridge
-    //         but the youth program is based in East Somerville. 
+    //         but the youth program is based in East Somerville.
     //        `,
     //     otherNotes: "",
     //     references: `Un Encuentro con Centro Presente (A discussion
@@ -571,7 +570,7 @@ c_bios = [
     {
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Chall",
         firstName: "Jeanne",
         middleName: "Sternlicht",
@@ -639,7 +638,7 @@ c_bios = [
     {
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Chen",
         firstName: "Joyce",
         middleName: "",
@@ -708,7 +707,7 @@ c_bios = [
     {
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Child",
         firstName: "Julia",
         middleName: "Carolyn",
@@ -820,7 +819,7 @@ c_bios = [
     {
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  true,
+        organization: true,
         lastName: "Child Care Resource Center (CCRC)",
         firstName: "",
         middleName: "",
@@ -880,7 +879,7 @@ c_bios = [
     {
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  true,
+        organization: true,
         lastName: "City Girl Cafe",
         firstName: "",
         middleName: "",
@@ -944,7 +943,7 @@ c_bios = [
     {
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  true,
+        organization: true,
         lastName: "Clayground",
         firstName: "",
         middleName: "",
@@ -999,7 +998,7 @@ c_bios = [
     {
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Cohen",
         firstName: "Bertha",
         middleName: "E.",
@@ -1074,7 +1073,7 @@ c_bios = [
     {
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Comstock",
         firstName: "Ada",
         middleName: "Louise",
@@ -1154,7 +1153,7 @@ c_bios = [
     {
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Cooke",
         firstName: "Lucy",
         middleName: "",
@@ -1242,7 +1241,7 @@ c_bios = [
     {
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Cummins",
         firstName: "Rose",
         middleName: "Marie",
@@ -1308,7 +1307,7 @@ c_bios = [
         photoTitles: [],
         dateCreated: "prior to 2009",
         dateUpdated: "02.20.2026",
-	  photoPos: [3],
+        photoPos: [3],
 
         photoHeights: [],
         editors: "Anthony Beckwith",
@@ -1318,7 +1317,7 @@ c_bios = [
     {
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Curtin",
         firstName: "Jane",
         middleName: "",
@@ -1412,15 +1411,15 @@ c_bios = [
         authors: "CWHP volunteers",
         categories: ["Actress"],
     },
-        {
+    {
         poc: false,
-        workInProgress: true, 
-        organization:  false,
+        workInProgress: true,
+        organization: false,
         lastName: "Crossley",
         firstName: "Callie",
         middleName: "",
         familyName: "",
-        
+
         title: `Journalist and Radio and Television Personality`,
         birthDate: "",
         birthLocation: "Memphis, Tennessee",
@@ -1444,15 +1443,14 @@ c_bios = [
         photos: ["images_bios/Callie_Crossley.jpg"],
         photoTitles: [],
         dateCreated: "10.12.2026",
-        dateUpdated:
- "",
-        
+        dateUpdated: "",
+
         photoHeights: [],
-        editors:"",
+        editors: "",
         authors: "Anthony Beckwith",
         categories: ["Writer"],
     },
-     {
+    {
         poc: false,
         workInProgress: true,
         organization: false,
@@ -1495,6 +1493,6 @@ c_bios = [
         photoHeights: [],
         editors: "",
         authors: "Anthony Beckwith",
-        categories: ["Educator"],
+        categories: ["Teacher/Educator"],
     },
 ];

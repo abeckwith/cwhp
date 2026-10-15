@@ -751,4 +751,48 @@ p_bios = [
         authors: "Anthony Beckwith",
         categories: ["Teacher/Educator", "School Principal", "Group Therapist"],
     },
+    {
+        poc: false,
+        workInProgress: true, 
+        organization:  false,
+        lastName: "Pierce",
+        firstName: "Olive",
+        middleName: "",
+        familyName: "",
+        
+        title: `Photographer, teacher, author`,
+        birthDate: "1925",
+        birthLocation: "Chicago, Illinoi",
+        deathDate: "05.23.2016",
+        deathLocation: "Rockland, Maine",
+        narrative: `
+           Olive Pierce was a prolific Cambridge-based photographer who co-founded the photography program at Cambridge Rindge and Latin School. 
+           She published books of photography and focused throughout her career on issues of peace and justice.<br><Br>
+           <i>This profile is a work in progress, but you can find more about Olive Pierce from her obituary:<br>
+            <a href="https://www.legacy.com/us/obituaries/wickedlocal-cambridgechronicle/name/olive-pierce-obituary?id=16532236">https://www.legacy.com/us/obituaries/wickedlocal-cambridgechronicle/name/olive-pierce-obituary?id=16532236</a></i>
+            <br> <br> 
+              If you are intested in helping to tell the stories of Cambridge women like Chase, <a href="https://cwhp.cambridgema.gov/about.html">consider joining us as
+            a volunteer</a> </i>
+            `,
+        otherNotes: "",
+        references: `
+        2016 Obituary on Legacy.com:<Br>
+            <a class='indent' href="https://www.legacy.com/us/obituaries/wickedlocal-cambridgechronicle/name/olive-pierce-obituary?id=16532236">https://www.legacy.com/us/obituaries/wickedlocal-cambridgechronicle/name/olive-pierce-obituary?id=16532236</a><Br>
+        Cambridge Room photo collection:<Br>
+        <a class='indent' href="https://www.flickr.com/photos/cambridgeroom/collections/72157673301978052">https://www.flickr.com/photos/cambridgeroom/collections/72157673301978052</a><br>
+        CRLS Newspaper reflection from 2026:<Br>
+        <a class='indent' href="https://registerforum.org/25216/arts-entertainment/olive-pierces-photos-document-a-younger-crls/">https://registerforum.org/25216/arts-entertainment/olive-pierces-photos-document-a-younger-crls/</a><br>
+
+            `,
+        photos: ["images_bios/OlivePierce.png"],
+        photoTitles: [],
+        dateCreated: "10.15.2026",
+        dateUpdated:
+ "",
+        
+        photoHeights: [],
+        editors:"",
+        authors: "Anthony Beckwith",
+        categories: ["Photographer", "Teacher/Educator", "Author"],
+    },
 ];
