@@ -1603,6 +1603,57 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         authors: "Meta Partenheimer, Anthony Beckwith",
         categories: ["Photographer", "Businesswoman"],
     },
+     {
+        poc: false,
+        workInProgress: true,
+        organization: false,
+        lastName: "Andujar",
+        firstName: "Sonia",
+        middleName: "E.",
+        familyName: "",
+
+        title: `Public housing advocate`,    
+        birthDate: "",
+        birthLocation: "Puerto Rico",
+        deathDate: "",
+        deathLocation: "",
+        narrative: `
+        
+          Sonia has lived in Cambridge public housing since 1992. As a teenager, she met Boston politician and community organizer
+          Mel King and later began work with the Mel King Institute's Public Housing Training Program, where 
+          she worked for at least 20 years. She has also been a board member of the Alliance of Cambridge Tenants and treasurer 
+          of the Mass Union of Public Housing Tenants.<Br><Br>
+           <i>This profile is a work in progress. 
+            If you are intested in helping to tell the stories of Cambridge women like Sonia Andujar, <a href="https://cwhp.cambridgema.gov/about.html">consider joining us as
+            a volunteer</a> </i>
+            `,
+        otherNotes: "",
+        references: `
+       Mel King Institute:<Br>
+       <a class="indent" href="https://www.melkinginstitute.org/sonia-andujar-spotlight">https://www.melkinginstitute.org/sonia-andujar-spotlight</a>
+        <Br>
+        Mass Association of Community Development Corporations:<br>
+        <a class="indent" href="https://www.macdc.org/news/mel-king-institute%E2%80%99s-public-housing-training-program-trains-hundreds-residents-across">https://www.macdc.org/news/mel-king-institute%E2%80%99s-public-housing-training-program-trains-hundreds-residents-across</a>
+        <Br>
+        Shelterforce (reporting on affordable housing):
+        <Br>
+        <a class="indent" href="https://shelterforce.org/author/sonia-e-andujar/">https://shelterforce.org/author/sonia-e-andujar/</a>
+        <br>
+        Mass Union:<br>
+
+        <a class="indent" href="https://massunion.org/board-officer-nominations/">https://massunion.org/board-officer-nominations/</a>
+
+            `,
+        photos: ["images_bios/andujar_sonia.png"],
+        photoTitles: ["Source: MassUnion website"],
+        dateCreated: "10.15.2026",
+        dateUpdated: "",
+
+        photoHeights: [],
+        editors: "",
+        authors: "Anthony Beckwith",
+        categories: ["Activist"],
+    },
 ];
 
 
