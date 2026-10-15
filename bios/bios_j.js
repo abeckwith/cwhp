@@ -338,19 +338,26 @@ j_bios = [
         deathDate: "",
         deathLocation: "",
         narrative: `
-           <i> Gish Jen is a renowned Cambridge-based author.<br><Br>
-           This profile is a work in progress, but you can find more about Jen from her wikipedia page:<br>
-            <a href="https://en.wikipedia.org/wiki/Gish_Jen">https://en.wikipedia.org/wiki/Gish_Jen</a></i>
+        
+           Leon Lewis wrote of Gish Jen, a nationally-known Cambridge-based author, that she is an...
+           <blockquote>"acclaimed American author known for her insightful explorations of identity, ethnicity, and cultural dynamics, 
+           particularly within the context of the Asian American experience."</blockquote>
+           <i>This profile is a work in progress, but you can find more about Jen from this extensive article by Lewis:<br>
+                   <a href="https://www.ebsco.com/research-starters/biography/gish-jen">https://www.ebsco.com/research-starters/biography/gish-jen</a>
+
             <br> <br> 
-            This profile is a work in progress.            
+             
             If you are intested in helping to tell the stories of Cambridge women like Eva Paddock, <a href="https://cwhp.cambridgema.gov/about.html">consider joining us as
-            a volunteer</a> 
+            a volunteer</a> </i>
             `,
         otherNotes: "",
         references: `
         <i>The Cambridge Chronicle</i>, Volume 167, Number 44, 29 August 2013<br><Br>
-        
-
+        Wikipedia page:
+        <Br><a class="indent" href="https://en.wikipedia.org/wiki/Gish_Jen">https://en.wikipedia.org/wiki/Gish_Jen</a>
+<Br>
+        EBSCO article:<Br>
+        <a class="indent" href="https://www.ebsco.com/research-starters/biography/gish-jen">https://www.ebsco.com/research-starters/biography/gish-jen</a>
     
 
             `,
