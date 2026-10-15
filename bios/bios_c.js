@@ -1441,7 +1441,7 @@ c_bios = [
 
             `,
         photos: ["images_bios/Callie_Crossley.jpg"],
-        photoTitles: [],
+        photoTitles: ["Source: wikipedia"],
         dateCreated: "10.12.2026",
         dateUpdated: "",
 
@@ -1486,7 +1486,7 @@ c_bios = [
        <a class="indent" href="https://www.tributearchive.com/obituaries/32751383/faith-chase">https://www.tributearchive.com/obituaries/32751383/faith-chase</a>
             `,
         photos: ["images_bios/chase_faith.jpeg"],
-        photoTitles: [],
+        photoTitles: ["Source: tributearchive.com"],
         dateCreated: "10.15.2026",
         dateUpdated: "",
 

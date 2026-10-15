@@ -742,7 +742,7 @@ p_bios = [
 
             `,
         photos: ["images_bios/EvaPaddock.png"],
-        photoTitles: [],
+        photoTitles: ["Source: Cambridge Chronicle"],
         dateCreated: "10.13.2026",
         dateUpdated: "",
 
@@ -785,7 +785,7 @@ p_bios = [
 
             `,
         photos: ["images_bios/OlivePierce.png"],
-        photoTitles: [],
+        photoTitles: ["Source: Register Forum article"],
         dateCreated: "10.15.2026",
         dateUpdated:
  "",

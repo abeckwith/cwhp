@@ -3541,7 +3541,7 @@ b_bios = [
 
             `,
         photos: ["images_bios/ednabrown.jpg", "images_bios/ednabrown2.png"],
-        photoTitles: ["", "Cambridge Chronicle, Feb. 8, 1919"],
+        photoTitles: ["Source: Alpha Kappa Alpha Sorority webpage", "Cambridge Chronicle, Feb. 8, 1919"],
         dateCreated: "10.13.2026",
         dateUpdated: "",
 

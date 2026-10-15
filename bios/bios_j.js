@@ -332,7 +332,7 @@ j_bios = [
         middleName: "Gish",
         familyName: "",
 
-        title: `Author`,
+        title: `Author`,    
         birthDate: "00.00.1955",
         birthLocation: "Long Island, New York",
         deathDate: "",
@@ -355,14 +355,14 @@ j_bios = [
         <i>The Cambridge Chronicle</i>, Volume 167, Number 44, 29 August 2013<br><Br>
         Wikipedia page:
         <Br><a class="indent" href="https://en.wikipedia.org/wiki/Gish_Jen">https://en.wikipedia.org/wiki/Gish_Jen</a>
-<Br>
+        <Br>
         EBSCO article:<Br>
         <a class="indent" href="https://www.ebsco.com/research-starters/biography/gish-jen">https://www.ebsco.com/research-starters/biography/gish-jen</a>
     
 
             `,
         photos: ["images_bios/gishjen.jpg"],
-        photoTitles: [],
+        photoTitles: ["Source: wikipedia"],
         dateCreated: "10.13.2026",
         dateUpdated: "",
 

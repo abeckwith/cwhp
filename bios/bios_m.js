@@ -1327,7 +1327,7 @@ by Cate McQuaid,, April 12, 2017.
 
             `,
         photos: ["images_bios/Jean_Mason_1.jpg"],
-        photoTitles: [],
+        photoTitles: ["Source: RogersFunerHome.net"],
         dateCreated: "10.13.2026",
         dateUpdated: "",
 
@@ -1371,7 +1371,7 @@ by Cate McQuaid,, April 12, 2017.
 
             `,
         photos: ["images_bios/Gertrude-Wright-Morgan.jpeg"],
-        photoTitles: ["Photo from Mt. Auburn Cemetery website",],
+        photoTitles: ["Source: Mt. Auburn Cemetery website",],
         dateCreated: "10.14.2026",
         dateUpdated: "",
 
