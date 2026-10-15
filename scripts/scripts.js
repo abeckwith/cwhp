@@ -364,7 +364,7 @@ var popup;
 /**
  * generates printable version of bio
  */
-function openWin() {
+function openWin(fileName) {
     if (popup && !popup.closed) {
         popup.focus();
     } else {
@@ -381,11 +381,16 @@ function openWin() {
         //CREATE POPUP WINDOW:
         popup = window.open("", "", "width=800,height=700");
 
-        var doc = popup.document;
+        //set title for PDF save as:
+        popup.document.title = fileName;
 
-        doc.open();
-        doc.write(divText);
-        doc.close();
+        popup.open(divText);
+        popup.document.body.innerHTML = divText;
+        popup.onload = () => {
+            popup.print();
+            // Close window after printing (optional)
+            popup.onafterprint = () => popup.close();
+        };
     }
 }
 
@@ -550,8 +555,9 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
     }
 
     //add link to open printable version:
+    fileTitle = person.firstName + " " + person.lastName + " CWHP Profile";
     html +=
-        "<br><br><span id='printy'><a onclick='openWin()'><u><b>&#x1F5A8; Printable Version</b></u></a></span>";
+        "<br><br><span id='printy'><a onclick='openWin(\"" + fileTitle + "\")'><u><b>&#x1F5A8; Printable Version</b></u></a></span>";
 
     //date created, last updated, author, editor:
     dt =
