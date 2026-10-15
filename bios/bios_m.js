@@ -1312,7 +1312,7 @@ by Cate McQuaid,, April 12, 2017.
            <i>This profile is a work in progress, but you can find more about Mason from her obituary:<br>
             <a href="https://www.legacy.com/us/obituaries/bostonglobe/name/jean-mason-obituary?id=61186965">https://www.legacy.com/us/obituaries/bostonglobe/name/jean-mason-obituary?id=61186965</a></i>
             <br> <br> 
-            If you are intested in helping to tell the stories of Cambridge women like Eva Paddock, <a href="https://cwhp.cambridgema.gov/about.html">consider joining us as
+            If you are intested in helping to tell the stories of Cambridge women like Jean Mason, <a href="https://cwhp.cambridgema.gov/about.html">consider joining us as
             a volunteer</a> 
             `,
         otherNotes: "",

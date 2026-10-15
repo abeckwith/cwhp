@@ -1452,4 +1452,49 @@ c_bios = [
         authors: "Anthony Beckwith",
         categories: ["Writer"],
     },
+     {
+        poc: false,
+        workInProgress: true,
+        organization: false,
+        lastName: "Chase",
+        firstName: "Faith",
+        middleName: "",
+        familyName: "",
+
+        title: `Educator`,
+        birthDate: "05.24.1929",
+        birthLocation: "Worcester, Massachusetts",
+        deathDate: "08.08.2024",
+        deathLocation: "Connecticut",
+        narrative: `
+        
+           Faith Chase and her family lived in Cambridge for almost 60 years, where she built a career as an early childhood educator, 
+           breaking barriers along the way. According to her obituary:
+           <blockquote>"She spent her working life dedicated to early childhood education. This launched a long career in Cambridge,
+            Massachusetts promoting creative child-focused learning methods as the first African American teacher at Shady Hill School 
+            and as a pre-school admissions consultant at Buckingham Brown & Nichols School. She directed summer enrichment camps for
+            inner-city children and developed luncheon discussion tables for children of color at Shady Hill."</blockquote>
+           <i>This profile is a work in progress, but you can find more about Chase from her obituary:<br>
+                   <a href="https://www.tributearchive.com/obituaries/32751383/faith-chase">https://www.tributearchive.com/obituaries/32751383/faith-chase</a>
+
+            <br> <br> 
+             
+            If you are intested in helping to tell the stories of Cambridge women like Faith Chase, <a href="https://cwhp.cambridgema.gov/about.html">consider joining us as
+            a volunteer</a> </i>
+            `,
+        otherNotes: "",
+        references: `
+        Tribute Archive obituary:<Br>
+       <a class="indent" href="https://www.tributearchive.com/obituaries/32751383/faith-chase">https://www.tributearchive.com/obituaries/32751383/faith-chase</a>
+            `,
+        photos: ["images_bios/chase_faith.jpeg"],
+        photoTitles: [],
+        dateCreated: "10.15.2026",
+        dateUpdated: "",
+
+        photoHeights: [],
+        editors: "",
+        authors: "Anthony Beckwith",
+        categories: ["Educator"],
+    },
 ];

@@ -347,7 +347,7 @@ j_bios = [
 
             <br> <br> 
              
-            If you are intested in helping to tell the stories of Cambridge women like Eva Paddock, <a href="https://cwhp.cambridgema.gov/about.html">consider joining us as
+            If you are intested in helping to tell the stories of Cambridge women like Gish Jen , <a href="https://cwhp.cambridgema.gov/about.html">consider joining us as
             a volunteer</a> </i>
             `,
         otherNotes: "",
