@@ -328,8 +328,8 @@ j_bios = [
         workInProgress: true,
         organization: false,
         lastName: "Jen",
-        firstName: "Lillian",
-        middleName: "Gish",
+        firstName: "Lillian (&quot;Gish&quot;)",
+        middleName: "",
         familyName: "",
 
         title: `Author`,    

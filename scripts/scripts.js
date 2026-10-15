@@ -165,7 +165,7 @@ function showRecents(num) {
     html =
         "<Center><span class='nice-header2'>THESE " +
         recentCount +
-        " NEW BIOS HAVE BEEN ADDED IN THE LAST " +
+        " NEW FULL BIOS HAVE BEEN ADDED IN THE LAST " +
         RECENT_MONTHS_LIMIT +
         " MONTHS:</span><br></center>";
 
