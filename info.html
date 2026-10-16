@@ -105,9 +105,11 @@
             Project</div>
         <div id="end-HTML"></div>
         <span id="summary-numbers"></span><br>
-                CWHP version: 3.1<br>
+        CWHP version: 3.1<br>
 
         <br>ADDITIONAL DATA (<b>NOTE: all links on this page open a new tab</b>): <br>
+            <button style="position:fixed;right:2vw" class="random-button-sm" onclick="closeAll()">Close All</button>
+
         <details>
             <summary>Known <B>Birthdays</B></summary>
             <div>
@@ -116,7 +118,7 @@
 
             </div>
         </details>
-         <details>
+        <details>
             <summary>Known <B>Death Dates</B></summary>
             <div>
                 <!-- collapsible content  here -->
@@ -135,14 +137,15 @@
         <details>
             <summary>List of <B>All Names</B></summary>
             <div>
-                <button class='random-button-sm' onclick="copyTextToClipboard()" id="copy-button">Copy FULL LIST of NAMES to Clipboard!</button>
-                <Br>            
+                <button class='random-button-sm' onclick="copyTextToClipboard()" id="copy-button">Copy FULL LIST of
+                    NAMES to Clipboard!</button>
+                <Br>
                 <!-- collapsible content  here -->
                 <span id='all-display'></span>
 
             </div>
         </details>
-        
+
         <!-- <details>
            <summary>Printable list of <B>All Names</B> (NO links)</summary>
             <div>
@@ -151,7 +154,7 @@
             </div>
         </details> -->
 
-       
+
 
 
         <details>
@@ -179,20 +182,24 @@
     </div>
     <br><br>
 
-<!-- <script>
-    //close other details when one opened:
-    document.querySelectorAll('details').forEach(details => {
-  details.addEventListener('toggle', function() {
-    if (this.open) {
-      document.querySelectorAll('details').forEach(other => {
-        if (other !== this) {
-          other.open = false;
+    <script>
+        function closeAll() {
+            //close other details when one opened:
+            document.querySelectorAll('details').forEach(details => {
+                details.open = false;
+                //   details.addEventListener('toggle', function() {
+                //     if (this.open) {
+                //       document.querySelectorAll('details').forEach(other => {
+                //         if (other !== this) {
+                //           other.open = false;
+                //         }
+                //       });
+                //     }
+                //   });
+
+            });
         }
-      });
-    }
-  });
-});
-</script> -->
+    </script>
 </body>
 
 </html>
