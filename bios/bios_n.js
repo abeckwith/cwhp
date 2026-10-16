@@ -236,4 +236,92 @@ n_bios = [
         authors: "Anthony Beckwith",
         categories: ["Teacher/Educator", "Photographer", "Curator", "Sociologist"],
     },
+     {
+        poc: false,
+        workInProgress: true,
+        organization: false,
+        lastName: "Norton",
+        firstName: "Grace",
+        middleName: "",
+        familyName: "",
+
+        title: `Writer and lecturer`,
+        birthDate: "04.07.1834",
+        birthLocation: "Cambridge, Massachusetts",
+        deathDate: "05.05.1926",
+        deathLocation: "Cambridge, Massachusetts",
+        narrative: `
+        
+          Grace Norton was born at home, at 59 Kirkland Street in Cambridge, the same place where she passed away in 1926, 93 years later.
+           Norton became enamored of French literature and became an authority on the sixteenth 
+          century French Renaissance writer Michel de Montaigne, who had popularized the essay as a genre.<Br><Br>
+           <i>This profile is a work in progress. <Br>If you are intested in helping to tell the stories of Cambridge women like Grace Norton, <a href="https://cwhp.cambridgema.gov/about.html">consider joining us as
+            a volunteer</a> </i>
+            `,
+        otherNotes: "",
+        references: `
+        <i>Boston Evening Globe</i>, Wed, May 05, 1926<br><br>
+        Harvard Univeristy Library:<br>
+        <a class="indent" href="https://web.archive.org/web/20180703141602/http://oasis.lib.harvard.edu/oasis/deliver/~sch00830">https://web.archive.org/web/20180703141602/http://oasis.lib.harvard.edu/oasis/deliver/~sch00830</a>
+        <br><br>
+        Wikipedia:<br>
+        <a class="indent" href="https://en.wikipedia.org/wiki/Grace_Norton">https://en.wikipedia.org/wiki/Grace_Norton</a>
+        <br><br>
+        Abebooks:<br>
+        <a class="indent" href="https://www.abebooks.com/first-edition/Studies-Montaigne-Miss-Grace-Norton-Macmillan/32284767183/bd">https://www.abebooks.com/first-edition/Studies-Montaigne-Miss-Grace-Norton-Macmillan/32284767183/bd</a>
+    
+        `,
+        photos: ["images_bios/norton_grace.png"],
+        photoTitles: ["Source: Abebooks.com"],
+        dateCreated: "10.16.2026",
+        dateUpdated: "",
+
+        photoHeights: [],
+        editors: "",
+        authors: "Anthony Beckwith",
+        categories: ["Teacher/Educator"],
+    },
+     {
+        poc: false,
+        workInProgress: true,
+        organization: false,
+        lastName: "Norris",
+        firstName: "Judy",
+        middleName: "",
+        familyName: "",
+
+        title: `Feminist and activist`,
+        birthDate: "",
+        birthLocation: "",
+        deathDate: "",
+        deathLocation: "",
+        narrative: `
+        
+          Longtime Cambridge resident Judy Norris was involved in the 1971 founding of the Cambridge Women's Center, in Central Square.
+           She has maintained her involvement in the Center for more than 50 years, serving as a volunteer, a fundraiser and grant-writer, a board member, and the board chair. She is passionate about the CWC's mission to
+           "...help women dealing with hunger, homelessness, poverty, mental health issues, domestic violence, and other kinds of trauma."<Br><Br>
+           <i>This profile is a work in progress. <Br>If you are intested in helping to tell the stories of Cambridge women like Judy Norris, <a href="https://cwhp.cambridgema.gov/about.html">consider joining us as
+            a volunteer</a> </i>
+            `,
+        otherNotes: "",
+        references: `
+        FiftyPlus Advocate:<Br>
+        <a class="indent" href="https://www.fiftyplusadvocate.com/2020/05/31/judy-norris-an-in-the-trenches-advocate-for-women/">https://www.fiftyplusadvocate.com/2020/05/31/judy-norris-an-in-the-trenches-advocate-for-women/</a>
+        <br><Br>
+        Cambridge Women's Center:<br>
+        <a class="indent" href="https://www.cambridgewomenscenter.org/team">https://www.cambridgewomenscenter.org/team</a>
+        <br><Br>
+        Linkedin:<br>
+        <a class="indent" href="https://www.linkedin.com/in/judy-norris-81723829/?isSelfProfile=false">https://www.linkedin.com/in/judy-norris-81723829/?isSelfProfile=false</a>
+        `,
+        photos: ["images_bios/Norris.jpg"],
+        photoTitles: ["Source: FiftyPlusAdvocate.com"],
+        dateCreated: "10.16.2026",
+        dateUpdated: "",
+
+        photoHeights: [],
+        editors: "",
+        authors: "Anthony Beckwith",
+        categories: ["Activist", "Feminist"],
+    },
 ];

@@ -577,7 +577,7 @@ b_bios = [
         lastName: "Bates",
         firstName: "Charlotte",
         middleName: "Fiske",
-        familyName: "",
+        familyName: "Roge",
 
         title: `Author, poet, translator, teacher`,
         birthDate: "11.30.1838",
