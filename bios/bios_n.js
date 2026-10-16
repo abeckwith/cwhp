@@ -189,4 +189,51 @@ n_bios = [
         authors: "Anthony Beckwith",
         categories: ["Activist", "Nun"],
     },
+     {
+        poc: false,
+        workInProgress: true,
+        organization: false,
+        lastName: "Norfleet",
+        firstName: "Barbara",
+        middleName: "Pugh",
+        familyName: "",
+
+        title: `Photographer, sociologist, director, curator, teacher`,
+        birthDate: "00.00.1926",
+        birthLocation: "Lakewood, New Jersey",
+        deathDate: "08.08.2024",
+        deathLocation: "Connecticut",
+        narrative: `
+        
+          Barbara "Bobbie" Norfleet has lived in Cambridge for almost 70 years. For decades, she has combined her expertise in the social 
+          sciences with her artistic and photographic skills (she credits auditing a 1970 introductory photography course at Harvard 
+          with her passion for that field). She has published several books of photography, curated museum exhibits (including at 
+          Harvard's Fogg Art), taught sociology courses, exhibited her work in art museums, and was even active the movement to stop
+           the "inner belt" project from being built in Cambridge in the 1970s.<Br><Br>
+           <i>This profile is a work in progress.
+            If you are intested in helping to tell the stories of Cambridge women like Barbara Norfleet, <a href="https://cwhp.cambridgema.gov/about.html">consider joining us as
+            a volunteer</a> </i>
+            `,
+        otherNotes: "",
+        references: `
+       Cambridge Community Foundation:<br>
+       <A class="indent" href="https://cambridgecf.org/cultural-visionary-barbara-norfleet/">https://cambridgecf.org/cultural-visionary-barbara-norfleet/</a>
+       <br><Br>
+       Harvad Art Museums:<Br>
+
+        <a class="indent" href="https://harvardartmuseums.org/exhibitions/6622/the-way-we-never-were-the-american-professional-photographers-collection">https://harvardartmuseums.org/exhibitions/6622/the-way-we-never-were-the-american-professional-photographers-collection</a>
+        <Br><Br>
+        Wikipedia:<br>
+        <a class="indent" href="https://en.wikipedia.org/wiki/Barbara_Norfleet">https://en.wikipedia.org/wiki/Barbara_Norfleet</a>
+      `,
+        photos: ["images_bios/norfleet_barbara.png"],
+        photoTitles: ["Source: Cambridge Community Foundation"],
+        dateCreated: "10.16.2026",
+        dateUpdated: "",
+
+        photoHeights: [],
+        editors: "",
+        authors: "Anthony Beckwith",
+        categories: ["Teacher/Educator", "Photographer", "Curator", "Sociologist"],
+    },
 ];
