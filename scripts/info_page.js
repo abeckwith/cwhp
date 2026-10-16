@@ -87,7 +87,7 @@ function loadInfoPage(checkLinks) {
     nbdct = 0; //total with no birthday
     nddct = 0; //total with no death date
     wip = 0; //# of works in progress
-    wipList = "<table><br><Br>";
+    wipList = "<table>";
     pocct = 0; //total number of people of color
     pocList = "";
 
@@ -237,7 +237,19 @@ function loadInfoPage(checkLinks) {
             } else {
                 theLink += nameBuild;
             }
-            allNames += bio_count + ". " + theLink + "</a><br>";
+
+            //add in title for each person and add to html build:
+            loc = thename.title.toLowerCase().indexOf("<br>");
+            if (loc != -1) titleStripped = thename.title.substring(0, loc);
+            else titleStripped = thename.title;
+            
+            allNames +=
+                bio_count +
+                ". " +
+                theLink +
+                "</a> &nbsp;&nbsp; - " +
+                titleStripped +
+                "<br>";
             allJustNames += nameBuild + "\n<br>";
 
             //check if has full date (as opposed to ca.2016)
@@ -334,16 +346,19 @@ function loadInfoPage(checkLinks) {
             if (thename.workInProgress) {
                 wip++;
                 wipList +=
-                    "<a target='_blank' href='" +
+                    "<Tr><Td style='padding:5px;'><a target='_blank' href='" +
                     getHref(lName, mName, fName) +
                     "'>" +
                     thename.lastName +
                     ", " +
                     thename.firstName +
-                    "</a><br>";
+                    "</a></td><td>" +
+                    thename.title +
+                    "</td></tr>";
             }
         });
     });
+    wipList += "</table>";
     allJustNames = bio_count + "\n" + allJustNames;
 
     //women that don't yet have birthdate and are no longer alive:
@@ -437,7 +452,8 @@ function loadInfoPage(checkLinks) {
     bDisplay += "</table>";
     dDisplay += "</table>";
     //BUILD TABLE OF LIKELY ALIVE:
-    aliveDisplay = "<table><Tr><th>Name</th><th>BrthYr</th><th>Age</th></tr>";
+    aliveDisplay =
+        "<table><Tr><th>Name</th><th>BrthYr</th><th>Age</th><th>Description</th></tr>";
 
     currentYear = new Date().getFullYear();
     aliveList.forEach((bio) => {
@@ -455,7 +471,9 @@ function loadInfoPage(checkLinks) {
             bio.birthDate.slice(-4) +
             "</td><td style='text-align:right'>" +
             (currentYear - bio.birthDate.slice(-4)) +
-            "&nbsp;&nbsp;</td></tr>";
+            "&nbsp;&nbsp;</td><Td>" +
+            bio.title +
+            "</td></tr>";
     });
     aliveDisplay += "</table>";
 
