@@ -87,7 +87,7 @@ function loadInfoPage(checkLinks) {
     nbdct = 0; //total with no birthday
     nddct = 0; //total with no death date
     wip = 0; //# of works in progress
-    wipList = "<table><i>Need full written profile:</i><br><Br>";
+    wipList = "<table><i>Posted with partial profile:</i><br><Br>";
     pocct = 0; //total number of people of color
     pocList = "";
 
