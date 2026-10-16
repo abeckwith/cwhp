@@ -87,7 +87,7 @@ function loadInfoPage(checkLinks) {
     nbdct = 0; //total with no birthday
     nddct = 0; //total with no death date
     wip = 0; //# of works in progress
-    wipList = "<table><i>Posted with partial profile:</i><br><Br>";
+    wipList = "<table><br><Br>";
     pocct = 0; //total number of people of color
     pocList = "";
 
@@ -98,9 +98,9 @@ function loadInfoPage(checkLinks) {
     bDayCount = 0;
 
     //used in console..og
-    noQuote = "<br><b>Need QUOTE:</b><br>";
-    noImage = "<br><B>Need IMAGE:</b><br>";
-    nobirthDate = "<br><b>Need BIRTHDATE:</b><br>";
+    noQuote = "";
+    noImage = "";
+    nobirthDate = "";
 
     womanCount = 0; //total number that are people
     orgcount = 0; //total number that are organizations
@@ -348,18 +348,22 @@ function loadInfoPage(checkLinks) {
 
     //women that don't yet have birthdate and are no longer alive:
     disp =
-        nobirthDate +
+        "<br><b>Need BIRTHDATE:</b><br>" +
         "(" +
         nbdct +
         ")<br>" +
-        noImage +
+        nobirthDate +
+        "<br><B>Need IMAGE:</b><br>" +
         "(" +
         noimgct +
         ")<br>" +
-        noQuote +
+        noImage +
+        "<br><b>Need QUOTE:</b><br>" +
         "(" +
         noqtct +
-        ")<br>";
+        ")<br>" +
+        noQuote;
+
     document.getElementById("other-display").innerHTML = disp;
 
     //SORT ALGORITHM: first by year, then month, then day:
@@ -485,5 +489,10 @@ function loadInfoPage(checkLinks) {
 
     document.getElementById("birth-display").innerHTML = birthDisplay;
 
-    document.getElementById("wip").innerHTML = "<Br>" + wipList;
+    document.getElementById("wip").innerHTML =
+        "<br><i>Posted with partial profile:</i><Br>(" +
+        wip +
+        ")" +
+        wipList +
+        "";
 }
