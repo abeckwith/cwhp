@@ -177,6 +177,20 @@
     </div>
     <br><br>
 v.3.1
+<script>
+    //close other details when one opened:
+    document.querySelectorAll('details').forEach(details => {
+  details.addEventListener('toggle', function() {
+    if (this.open) {
+      document.querySelectorAll('details').forEach(other => {
+        if (other !== this) {
+          other.open = false;
+        }
+      });
+    }
+  });
+});
+</script>
 </body>
 
 </html>

@@ -41,7 +41,9 @@ function getNextLetter(char) {
     if (char === "Z") return "A";
     return String.fromCharCode(char.charCodeAt(0) + 1);
 }
+
 function loadInfoPage(checkLinks) {
+    
     setMenu(10);
 
     all_bios = [
