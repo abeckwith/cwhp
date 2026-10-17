@@ -1,0 +1,103 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hover Page Preview</title>
+
+<style>
+  a {
+    color: #145ca8;
+  }
+
+  .page-preview {
+    display: none;
+    position: fixed;
+    width: 500px;
+    height: 320px;
+    overflow: hidden;
+    background: white;
+    border: 1px solid #aaa;
+    border-radius: 6px;
+    box-shadow: 0 6px 24px #0003;
+    z-index: 9999;
+    pointer-events: none;
+  }
+
+  .page-preview iframe {
+    width: 1000px;
+    height: 640px;
+    border: none;
+    transform: scale(0.5);
+    transform-origin: top left;
+  }
+</style>
+</head>
+<body>
+
+<h2>Explore these pages</h2>
+
+<p><a href="about.html">About us</a></p>
+<p><a href="recents.html">Our history</a></p>
+<p><a href="topical.html">Our projects</a></p>
+
+<div id="pagePreview" class="page-preview">
+  <iframe title="Linked page preview"></iframe>
+</div>
+
+<script>
+const preview = document.getElementById("pagePreview");
+const frame = preview.querySelector("iframe");
+const links = document.querySelectorAll("a");
+
+let hideTimer;
+
+links.forEach(link => {
+  link.addEventListener("mouseenter", () => {
+    clearTimeout(hideTimer);
+
+    // Only preview pages on this same website.
+    const url = new URL(link.href, location.href);
+
+    if (url.origin !== location.origin) return;
+
+    // Place the preview below the link.
+    const rect = link.getBoundingClientRect();
+    const width = 500;
+    const height = 320;
+
+    let left = rect.left;
+    let top = rect.bottom + 8;
+
+    // Keep the preview inside the viewport.
+    left = Math.max(
+      8, Math.min(left, innerWidth - width - 8)
+    );
+
+    if (top + height > innerHeight - 8) {
+      top = rect.top - height - 8;
+    }
+
+    top = Math.max(8, top);
+
+    preview.style.left = left + "px";
+    preview.style.top = top + "px";
+    preview.style.display = "block";
+
+    // Avoid reloading the same page repeatedly.
+    if (frame.src !== url.href) {
+      frame.src = url.href;
+    }
+  });
+
+  link.addEventListener("mouseleave", () => {
+    hideTimer = setTimeout(() => {
+      preview.style.display = "none";
+    }, 150);
+  });
+});
+</script>
+
+</body>
+</html>

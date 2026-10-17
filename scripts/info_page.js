@@ -43,7 +43,6 @@ function getNextLetter(char) {
 }
 
 function loadInfoPage(checkLinks) {
-    
     setMenu(10);
 
     all_bios = [
@@ -89,7 +88,8 @@ function loadInfoPage(checkLinks) {
     nbdct = 0; //total with no birthday
     nddct = 0; //total with no death date
     wip = 0; //# of works in progress
-    wipList = "<table><Tr><th>Name</th><th>Title</th><Th>Date Created</th></tr>";
+    wipList =
+        "<table><Tr><th>Name</th><th>Title</th><Th>Date Created</th></tr>";
     pocct = 0; //total number of people of color
     pocList = "";
 
@@ -244,7 +244,7 @@ function loadInfoPage(checkLinks) {
             loc = thename.title.toLowerCase().indexOf("<br>");
             if (loc != -1) titleStripped = thename.title.substring(0, loc);
             else titleStripped = thename.title;
-            
+
             allNames +=
                 bio_count +
                 ". " +
@@ -356,7 +356,9 @@ function loadInfoPage(checkLinks) {
                     thename.firstName +
                     "</a></td><td>" +
                     thename.title +
-                    "</td><Td>"+ thename.dateCreated+"</td></tr>";
+                    "</td><Td>" +
+                    thename.dateCreated +
+                    "</td></tr>";
             }
         });
     });
@@ -515,4 +517,54 @@ function loadInfoPage(checkLinks) {
         ")" +
         wipList +
         "";
+
+    //set up preview popups for all links:
+    const preview = document.getElementById("pagePreview");
+    const frame = preview.querySelector("iframe");
+    const links = document.querySelectorAll("a");
+    console.log(links);
+    let hideTimer;
+
+    links.forEach((link) => {
+        link.addEventListener("mouseenter", () => {
+            clearTimeout(hideTimer);
+
+            // Only preview pages on this same website.
+            const url = new URL(link.href, location.href);
+
+            if (url.origin !== location.origin) return;
+
+            // Place the preview below the link.
+            const rect = link.getBoundingClientRect();
+            const width = 600;
+            const height = 520;
+
+            let left = rect.left;
+            let top = rect.bottom + 8;
+
+            // Keep the preview inside the viewport.
+            left = Math.max(8, Math.min(left, innerWidth - width - 8));
+
+            if (top + height > innerHeight - 8) {
+                top = rect.top - height - 8;
+            }
+
+            top = Math.max(8, top);
+
+            preview.style.left = left + "px";
+            preview.style.top = top + "px";
+            preview.style.display = "block";
+
+            // Avoid reloading the same page repeatedly.
+            if (frame.src !== url.href) {
+                frame.src = url.href;
+            }
+        });
+
+        link.addEventListener("mouseleave", () => {
+            hideTimer = setTimeout(() => {
+                preview.style.display = "none";
+            }, 150);
+        });
+    });
 }
