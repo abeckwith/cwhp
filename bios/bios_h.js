@@ -179,13 +179,13 @@ h_bios = [
                 href="http://klabs.org/home_page/hamilton.htm">http://klabs.org/home_page/hamilton.htm</a><br>
                 Image from wikipedia<br>
                 <a class='indent' href="https://en.wikipedia.org/wiki/Margaret_Hamilton_%28software_engineer%29" >https://en.wikipedia.org/wiki/Margaret_Hamilton_%28software_engineer%29</a>
-                <br>Second image and quotest from: <i>The Cambridge Chronicle</i>,  24 November 2016
+                <br>Second image and quotes from: <i>The Cambridge Chronicle</i>,  24 November 2016
 
         `,
         photos: ["images_bios/Margaret_Hamilton_1995.jpg", "images_bios/hamilton_margaret2.png"],
         photoTitles: ["", ""],
         dateCreated: "prior to 2009",
-        dateUpdated: "01.10.2026",
+        dateUpdated: "10.17.2026",
 
         photoHeights: [],
         editors: "Anthony Beckwith",
