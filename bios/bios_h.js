@@ -137,8 +137,8 @@ h_bios = [
         title: `NASA software designer, founder of software company`,
         birthDate: "00.00.1936",
         birthLocation: "Paoli, Indiana",
-        deathDate: "",
-        deathLocation: "",
+        deathDate: "09.30.2026",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
             Margaret Hamilton graduated from
             Hancock High School in 1954 and then attended Earlham College in Richmond, Indiana,
