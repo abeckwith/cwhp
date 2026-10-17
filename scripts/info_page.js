@@ -89,7 +89,7 @@ function loadInfoPage(checkLinks) {
     nbdct = 0; //total with no birthday
     nddct = 0; //total with no death date
     wip = 0; //# of works in progress
-    wipList = "<table>";
+    wipList = "<table><Tr><th>Name</th><th>Title</th><Th>Date Created</th></tr>";
     pocct = 0; //total number of people of color
     pocList = "";
 
@@ -356,7 +356,7 @@ function loadInfoPage(checkLinks) {
                     thename.firstName +
                     "</a></td><td>" +
                     thename.title +
-                    "</td></tr>";
+                    "</td><Td>"+ thename.dateCreated+"</td></tr>";
             }
         });
     });
