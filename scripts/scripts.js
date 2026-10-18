@@ -287,7 +287,7 @@ function showRecents(num) {
         html2 += element.html_build;
     });
 
-    additional = "<br><br>Other recents under <span id='latest-link'><a href='info.html'><b>Works in Progress</b> on our Info page</a> </span>";
+    additional = "<br><br>Other recent entries can be found under <span id='latest-link'><a href='info.html'><b>Works in Progress</b> on our Info page</a> </span>";
     if (html + html2 != "")
         document.getElementById("recents").innerHTML = html + html2 + additional;
     else

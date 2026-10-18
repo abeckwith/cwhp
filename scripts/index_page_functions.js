@@ -98,7 +98,7 @@ function setUpMainPage() {
                         "'>" + bio.firstName +
                     " " + bio.lastName +
                     "</a></span><br><span id='small-date'>(added " + formattedDate + ")"+
-                    "<br>Other recents under <b>Works in Progress</b> on our <span id='latest-link'><a href='info.html'>Info</a> </span>page</span>";
+                    "<br>Other recent entries can be found under <b>Works in Progress</b> on our <span id='latest-link'><a href='info.html'>Info</a> </span>page</span>";
 
                       document.getElementById("most-recent").innerHTML = mostRecentHMTL;
                 }   
