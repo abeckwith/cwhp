@@ -1369,4 +1369,49 @@ h_bios = [
         authors: "Eric Hill",
         categories: ["Nurse", "Dresskmaker"],
     },
+       {
+        poc: false,
+        workInProgress: true,
+        organization: false,
+        lastName: "Haas",
+        firstName: "Kitty",
+        middleName: "",
+        familyName: "",
+
+        title: `Businesswoman, clothing designer, shop owner`,
+        birthDate: "00.00.1923",
+        birthLocation: "Vienna, Austria",
+        deathDate: "",
+        deathLocation: "",
+        narrative: `
+        When Kitty Haas' father was going to be sent by the Nazis to a labor camp in 1939, she fought for his freedom 
+        in court, saving him by having a doctor testify that he was too ill to be sent to a labor camp. <Br><Br>
+        After living 
+        in New York City, Haas moved to Cambridge and, in the 1950s, opened her own boutique shop in Harvard Square, where 
+        she designed and stitched custom-made clothing.<br><Br>
+        In 2026, Haas celebrated her 103rd birthday at The Cambridge Homes, on Mt. Auburn Street.
+
+     <Br><Br><i>This profile is a work in progress. To learn more about Kitty Haas, check out this <a
+      href = "https://www.cambridgeday.com/2026/08/25/holocaust-survivor-cantabrigian-kitty-haas/">profile of her in the Cambridge Day.</a>
+      <Br><Br>If you are intested in helping to tell the stories of Cambridge women like Kitty Haas, <a href="https://cwhp.cambridgema.gov/about.html">consider joining us as
+            a volunteer</a> </i>
+            `,
+        otherNotes: "",
+        references: `
+        Cambridge Day Aug. 25, 2026: <br>
+        <a class="indent" href="https://www.cambridgeday.com/2026/08/25/holocaust-survivor-cantabrigian-kitty-haas/">https://www.cambridgeday.com/2026/08/25/holocaust-survivor-cantabrigian-kitty-haas/</a>
+        <Br><Br>
+        Town Talk interview<br>
+        <a class="indent" href="https://archive.org/details/snafuinfinitytown-talk_011420">https://archive.org/details/snafuinfinitytown-talk_011420</a> 
+          `,
+        photos: ["images_bios/haas_kitty.png"],
+        photoTitles: ["Source: Town Talk, Belmont Media Center"],
+        dateCreated: "10.18.2026",
+        dateUpdated: "",
+
+        photoHeights: [],
+        editors: "",
+        authors: "Anthony Beckwith",
+        categories: ["Businesswoman", "Designer"],
+    },
 ];
