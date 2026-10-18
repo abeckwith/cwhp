@@ -155,7 +155,7 @@ function showRecents(num) {
                         fnm +
                         "</a></span>,&nbsp;<i> " +
                         strippedTitle +
-                        "";
+                        "</i>";
                     recentsObjects.push({ html_build, monthNum, year, dayNum }); //save data to sort before displaying
                 }
             }
@@ -247,7 +247,7 @@ function showRecents(num) {
                         fnm +
                         "</a></span>,<i> &nbsp;" +
                         strippedTitle +
-                        "";
+                        "</i>";
                     recentUpdatesObjects.push({
                         html_build,
                         monthNum,
@@ -287,11 +287,12 @@ function showRecents(num) {
         html2 += element.html_build;
     });
 
+    additional = "<br><br>Other recents under <span id='latest-link'><a href='info.html'><b>Works in Progress</b> on our Info page</a> </span>";
     if (html + html2 != "")
-        document.getElementById("recents").innerHTML = html + html2;
+        document.getElementById("recents").innerHTML = html + html2 + additional;
     else
         document.getElementById("recents").innerHTML =
-            "No new entries in the last " + RECENT_MONTHS_LIMIT + " months";
+            "No new entries in the last " + RECENT_MONTHS_LIMIT + " months" + additional;
 }
 
 /**
