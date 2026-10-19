@@ -314,7 +314,7 @@ function showRecents(num) {
 
     additional =
         " </span><Br><br>";
-    if (html + html2 + html3 != "")
+    if (html + html2 != "")
         document.getElementById("recents").innerHTML =
             html + html2 + additional + html3;
     else
@@ -322,7 +322,7 @@ function showRecents(num) {
             "No new entries in the last " +
             RECENT_MONTHS_LIMIT +
             " months" +
-            additional;
+            additional + html3;
 }
 
 /**
