@@ -1008,7 +1008,7 @@ s_bios = [
         1984 NBC Profile of Solano and the bookshop:<Br>
         <a class="indent" href="https://www.youtube.com/watch?v=v6K6zXTkLcY">https://www.youtube.com/watch?v=v6K6zXTkLcY</a>
         <br><br>
-        <i>The Boston Globe</i>, April 23, 2022, <i>A beacon for poets, Louisa Solano, 80, ran the historic Grolier Poetry Book Shop</i>
+        <i>The Boston Globe</i>, April 23, 2022, "A beacon for poets, Louisa Solano, 80, ran the historic Grolier Poetry Book Shop"<Br>
         <i>The Cambridge Chronicle</i>, 17 September 1953, 27 March 1958, 10 August 2006<br>
         Grolier image source: <a href="https://kevinjmkeane.com/wp-content/uploads/2012/07/Grolier-20121.jpg">https://kevinjmkeane.com/wp-content/uploads/2012/07/Grolier-20121.jpg</a>
         <Br>
