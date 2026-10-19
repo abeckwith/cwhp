@@ -2,7 +2,7 @@ s_bios = [
     {
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Saavedra-Keber",
         firstName: "Sylvia",
         middleName: "",
@@ -76,7 +76,7 @@ s_bios = [
     {
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Sarton",
         firstName: 'Eleanore ("May")',
         middleName: "Marie",
@@ -182,7 +182,7 @@ s_bios = [
     {
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Schlesinger",
         firstName: "Marian",
         middleName: "",
@@ -250,7 +250,7 @@ s_bios = [
     {
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Spence",
         firstName: "Helen",
         middleName: "",
@@ -296,7 +296,7 @@ s_bios = [
     {
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Shea",
         firstName: "Mary",
         middleName: "Rose",
@@ -375,7 +375,7 @@ s_bios = [
     {
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Simmons",
         firstName: "E.",
         middleName: "Denise",
@@ -497,7 +497,7 @@ s_bios = [
     {
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Smith",
         firstName: "Alice",
         middleName: "Marchant",
@@ -577,7 +577,10 @@ s_bios = [
             Birthdate from FindAGrave:<br>
             <a class='indent' href="https://www.findagrave.com/memorial/194193560/alice-marchant-smith">https://www.findagrave.com/memorial/194193560/alice-marchant-smith</a>
            `,
-        photos: ["images_bios/Alice_Kimball_Smith.jpg","images_bios/smith2.png"],
+        photos: [
+            "images_bios/Alice_Kimball_Smith.jpg",
+            "images_bios/smith2.png",
+        ],
         photoTitles: ["", "1927 Mt. Holyoke Yearbook"],
         dateCreated: "prior to 2009",
         dateUpdated: "02.04.2026",
@@ -590,7 +593,7 @@ s_bios = [
     {
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Sprague",
         firstName: "Joan",
         middleName: "",
@@ -668,7 +671,7 @@ s_bios = [
     {
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Stevens",
         firstName: "Mabel",
         middleName: "",
@@ -721,7 +724,7 @@ s_bios = [
     {
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Sunksqa",
         firstName: "",
         middleName: "",
@@ -783,10 +786,10 @@ s_bios = [
         authors: "CWHP volunteers",
         categories: ["Community Leader", "Political Leader"],
     },
-      {
+    {
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Scott",
         firstName: "Alberta",
         middleName: "Virginia",
@@ -844,9 +847,7 @@ s_bios = [
 
         `,
         photos: ["images_bios/scott2.png", "images_bios/scott.jpg"],
-        photoTitles: [
-            
-        ],
+        photoTitles: [],
         dateCreated: "01.31.2026",
         dateUpdated: "02.05.2026",
 
@@ -855,10 +856,10 @@ s_bios = [
         authors: "Anthony Beckwith",
         categories: ["Teacher"],
     },
-          {
+    {
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Squier",
         firstName: "Dorothy",
         middleName: "Allegra",
@@ -931,9 +932,7 @@ s_bios = [
 
         `,
         photos: ["images_bios/squier1.png", "images_bios/squier2.png"],
-        photoTitles: [
-            
-        ],
+        photoTitles: [],
         dateCreated: "02.04.2026",
         dateUpdated: "",
 
@@ -941,5 +940,89 @@ s_bios = [
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Author", "Copywriter"],
+    },
+    {
+        poc: false,
+        workInProgress: false, //true when don't want online yet
+        organization: false,
+        lastName: "Solano",
+        firstName: "Louisa",
+        middleName: "",
+        familyName: "",
+
+        title: `Booshope owner, Businesswoman`,
+        birthDate: "11.22.1941",
+        birthLocation: "Cambridge, Massachusetts",
+        deathDate: "04.20.2022",
+        deathLocation: "Brookline, Massachusetts",
+        narrative: `
+       
+        
+        At a young age, Louisa Solano felt a passion for the written word. In 1953, at age 12, she won first prize 
+        in the Cambridge Public Library Summer Book Club, while attending the Agassiz Grammar School. As a senior at 
+        Cambridge High and Latin School, she won the Greek Letters trophy for the best essay on "Greek contributions 
+        to Western Culture." While at CHLS, she also worked at the Cambridge Public Library.<Br><Br>
+
+        After graduating from Boston University, Solano began to work at book stores and by 1974 she had purchased 
+        the 47-year-old Grolier Book Shop in Harvard Square. After deciding to focus solely on poetry, she renamed 
+        it the Grolier Poetry Book Shop and brought new life to a store that had been storied, but musty and was not 
+        as welcoming to women as it was to men.<br><Br> 
+
+
+        Works of poetry were her passion, but it was difficult to make a living from selling them, so Solano had to 
+        take on part-time jobs to keep the store afloat. Gail Mazur commented in an interview:
+        <blockquote>
+
+        “It seems, in retrospect — it seemed then — that it was a miracle, that a tiny bookshop adamantly dealing 
+        only with poetry, could survive into the era of crazy rentals and transient businesses. We who loved the 
+        Grolier were grateful, and awed!” </blockquote>
+
+        Solano ran the bookshop until 2006. That same year, the book <i>Louisa Solano and the Grolier Bookstore</i>
+         was published and it contained an interview with Solano where she recounts her life at the store and how 
+         it led to her interacting with Jack Kerouac, Allen Ginsberg, Seamus Heaney, and Robert Lowell. She was also 
+         friends with local poets Gail Mazur, Robert Pinsky, and Lloyd Scwhartz.<br><Br>
+
+        Solano hosted countless poetry readings, book-signing events, and  poetry contests to connect the shop to
+         the wider community. She was also an anti-war activist and in her later years became involved in climate
+          change activism. She lived her whole life in Cambridge, but died in a nursing home in Brookline in 2022.
+          <br><Br>
+          In a 1984 NBC interview, Solano gave a simple answer to the question of why she dedicated so much time to the bookshop:
+
+          <blockquote>
+          "I just thought that poets deserved a store that represented their interests and their work."
+          </blockquote>
+          In that same video, you can take a step inside her Harvard Square shop and get a feel for the atmosphere she was 
+          able to create: <a href="https://www.youtube.com/watch?v=v6K6zXTkLcY">https://www.youtube.com/watch?v=v6K6zXTkLcY</a>
+
+        `,
+        otherNotes: "",
+        references: ` 
+         
+        TributeArchive obituary:<Br>
+        <a class="indent" href="https://www.tributearchive.com/obituaries/24620687/louisa-solano/">https://www.tributearchive.com/obituaries/24620687/louisa-solano/</a>
+        <Br><Br>
+
+        Louisa Solano Papers, 1956-2013:<br>
+        <a class="indent" href="https://public.archivesspace.dlconsulting.com/repositories/2/resources/50">https://public.archivesspace.dlconsulting.com/repositories/2/resources/50</a>
+        <Br><Br>
+        1984 NBC Profile of Solano and the bookshop:<Br>
+        <a class="indent" href="https://www.youtube.com/watch?v=v6K6zXTkLcY">https://www.youtube.com/watch?v=v6K6zXTkLcY</a>
+        <br><br>
+        <i>The Boston Globe</i>, April 23, 2022, <i>A beacon for poets, Louisa Solano, 80, ran the historic Grolier Poetry Book Shop</i>
+        <i>The Cambridge Chronicle</i>, 17 September 1953, 27 March 1958, 10 August 2006<br>
+        Grolier image source: <a href="https://kevinjmkeane.com/wp-content/uploads/2012/07/Grolier-20121.jpg">https://kevinjmkeane.com/wp-content/uploads/2012/07/Grolier-20121.jpg</a>
+        <Br>
+        Solano image source: <a href="https://upload.wikimedia.org/wikipedia/commons/f/f8/Louisa-solano.jpg?_=20170218060814">https://upload.wikimedia.org/wikipedia/commons/f/f8/Louisa-solano.jpg?_=20170218060814</a>
+        
+        `,
+        photos: ["images_bios/Louisa-Solano.jpg", "images_bios/grolier.jpg"],
+        photoTitles: ["Photo of Solano by Cambridge Photographer Elsa Dofrman", "Grolier today"],
+        dateCreated: "10.19.2026",
+        dateUpdated: "",
+
+        photoHeights: [],
+        editors: "",
+        authors: "Anthony Beckwith",
+        categories: ["Bookstore owner", "Businesswoman"],
     },
 ];
