@@ -1016,11 +1016,11 @@ s_bios = [
         
         `,
         photos: ["images_bios/Louisa-Solano.jpg", "images_bios/grolier.jpg"],
-        photoTitles: ["Photo of Solano by Cambridge Photographer Elsa Dofrman", "Grolier today"],
+        photoTitles: ["Photo of Solano by Cambridge Photographer Elsa Dorfman", "Grolier today"],
         dateCreated: "10.19.2026",
         dateUpdated: "",
 
-        photoHeights: [],
+        photoHeights: ["400", "400"],
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Bookstore owner", "Businesswoman"],
