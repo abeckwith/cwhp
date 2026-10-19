@@ -101,84 +101,81 @@ function showRecents(num) {
         bioLetterList.forEach((thename) => {
             //check if has full date - if so, see if recent:
             hasFullDate = thename.dateCreated.substring(0, 2) != "00";
-            if (
-                thename.dateCreated != "" &&
-                !thename.workInProgress //don't show ones that don't have full bio
-            ) {
-                // console.log(thename.lastName + " " + thename.dateCreated)
-                if (thename.dateCreated.indexOf("prior to") != -1) {
-                    year = parseInt(thename.dateCreated.substring(9)); //get the year
-                    dayNum = 1;
-                    monthNum = 1;
-                    thename.dateCreated = "01.01." + year;
-                } else if (!hasFullDate) {
-                    year = parseInt(thename.dateCreated.substring(6));
-                    dayNum = 1;
-                    monthNum = 1;
-                    thename.dateCreated = "01.01." + year;
-                }
-                //break up date created into components:
+            if (thename.dateCreated == "") thename.dateCreated = "01.01.2009";
 
+            // console.log(thename.lastName + " " + thename.dateCreated)
+            if (thename.dateCreated.indexOf("prior to") != -1) {
+                year = parseInt(thename.dateCreated.substring(9)); //get the year
+                dayNum = 1;
+                monthNum = 1;
+                thename.dateCreated = "01.01." + year;
+            } else if (!hasFullDate) {
                 year = parseInt(thename.dateCreated.substring(6));
-                dayNum = parseInt(thename.dateCreated.substring(3, 5));
-                monthNum = parseInt(thename.dateCreated.substring(0, 2));
-
-                // console.log(dayNum + "/" +)
-                // if(dayNum == 0) dayNum = 1;
-                // if(monthNum == 0) monthNum = 1;
-                //get current month/year:
-                currYear = new Date().getUTCFullYear();
-                currMonth = new Date().getMonth();
-
-                monthsDifference =
-                    (currYear - year) * 12 + currMonth - monthNum;
-
-                //only add to list if within number of months selected:
-                if (monthsDifference < RECENT_MONTHS_LIMIT) withinRange = true;
-                else withinRange = false;
-
-                recentCount++;
-
-                //some titles are two lines - get rid of second line:
-                brLoc = thename.title.toLowerCase().indexOf("<br>");
-                if (brLoc != -1)
-                    strippedTitle = thename.title.substring(0, brLoc);
-                else strippedTitle = thename.title;
-
-                //if org, not first name, so don't show a , :
-                if (thename.firstName != "") fnm = ", " + thename.firstName;
-                else fnm = "";
-
-                //get rid of leading zero:
-                formattedDate = thename.dateCreated;
-                if (thename.dateCreated.charAt(0) == "0")
-                    formattedDate = "&nbsp;&nbsp;" + formattedDate.substring(1);
-
-                //put together display:
-                html_build =
-                    "<br></i>" +
-                    formattedDate.replaceAll(".", "/") +
-                    ":</b>&nbsp;&nbsp;<span class='recents-name'>" +
-                    "<a href='" +
-                    getHref(
-                        thename.lastName,
-                        thename.middleName,
-                        thename.firstName,
-                    ) +
-                    "'>" +
-                    thename.lastName.replaceAll("'", "") +
-                    fnm +
-                    "</a></span>,&nbsp;<i> " +
-                    strippedTitle +
-                    "</i>";
-                recentsObjects.push({
-                    html_build,
-                    monthNum,
-                    year,
-                    dayNum,
-                    withinRange,
-                }); //save data to sort before displaying
+                dayNum = 1;
+                monthNum = 1;
+                thename.dateCreated = "01.01." + year;
             }
+            //break up date created into components:
+
+            year = parseInt(thename.dateCreated.substring(6));
+            dayNum = parseInt(thename.dateCreated.substring(3, 5));
+            monthNum = parseInt(thename.dateCreated.substring(0, 2));
+
+            // console.log(dayNum + "/" +)
+            // if(dayNum == 0) dayNum = 1;
+            // if(monthNum == 0) monthNum = 1;
+            //get current month/year:
+            currYear = new Date().getUTCFullYear();
+            currMonth = new Date().getMonth();
+
+            monthsDifference = (currYear - year) * 12 + currMonth - monthNum;
+
+            //only add to list if within number of months selected:
+            if (monthsDifference < RECENT_MONTHS_LIMIT) withinRange = true;
+            else withinRange = false;
+
+            if(!thename.workInProgress && withinRange) recentCount++;
+
+            //some titles are two lines - get rid of second line:
+            brLoc = thename.title.toLowerCase().indexOf("<br>");
+            if (brLoc != -1) strippedTitle = thename.title.substring(0, brLoc);
+            else strippedTitle = thename.title;
+
+            //if org, not first name, so don't show a , :
+            if (thename.firstName != "") fnm = ", " + thename.firstName;
+            else fnm = "";
+
+            //get rid of leading zero:
+            formattedDate = thename.dateCreated;
+            if (thename.dateCreated.charAt(0) == "0")
+                formattedDate = "&nbsp;&nbsp;" + formattedDate.substring(1);
+
+            //put together display:
+            html_build =
+                "<br></i>" +
+                formattedDate.replaceAll(".", "/") +
+                ":</b>&nbsp;&nbsp;<span class='recents-name'>" +
+                "<a href='" +
+                getHref(
+                    thename.lastName,
+                    thename.middleName,
+                    thename.firstName,
+                ) +
+                "'>" +
+                thename.lastName.replaceAll("'", "") +
+                fnm +
+                "</a></span>,&nbsp;<i> " +
+                strippedTitle +
+                "</i>";
+            wip = thename.workInProgress;
+            recentsObjects.push({
+                html_build,
+                monthNum,
+                year,
+                dayNum,
+                withinRange,
+                wip
+            }); //save data to sort before displaying
         });
     });
 
@@ -279,7 +276,8 @@ function showRecents(num) {
         });
     });
     html2 =
-        "<br><br><Center><span>These " +
+        "<br><Br>Other recent entries can be found under <span id='latest-link'><a href='info.html'><b>Works in Progress</b> on our Info page</a></span>" + 
+        "<hr><br><br><Center><span>These " +
         recentUpdatesCount +
         " bios have had significant <b>edits or updates</b> made to them in the last " +
         RECENT_MONTHS_LIMIT_EDITS +
@@ -299,11 +297,13 @@ function showRecents(num) {
         return 0;
     });
     html3 =
-        "<br><Center><hr><span class='nice-header2'>ALL FULL BIOS in reverse order by date:</span><br></center>";
+        "<br><Center><hr><span class='nice-header2'>ALL BIOS in reverse order by date:</span><br></center>";
 
     //PUT TOGETHER DISPLAY:
     r.forEach((element) => {
-        if (element.withinRange) html += element.html_build;
+       
+        if (element.withinRange &&   !element.wip)
+             html += element.html_build;
     });
     r2.forEach((element) => {
         html2 += element.html_build;
@@ -313,7 +313,7 @@ function showRecents(num) {
     });
 
     additional =
-        "<hr><br><br>Other recent entries can be found under <span id='latest-link'><a href='info.html'><b>Works in Progress</b> on our Info page</a> </span><Br><br>";
+        " </span><Br><br>";
     if (html + html2 + html3 != "")
         document.getElementById("recents").innerHTML =
             html + html2 + additional + html3;
