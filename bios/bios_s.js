@@ -950,7 +950,7 @@ s_bios = [
         middleName: "",
         familyName: "",
 
-        title: `Booshope owner, Businesswoman`,
+        title: `Bookshop owner, Businesswoman`,
         birthDate: "11.22.1941",
         birthLocation: "Cambridge, Massachusetts",
         deathDate: "04.20.2022",
@@ -970,7 +970,7 @@ s_bios = [
 
 
         Works of poetry were her passion, but it was difficult to make a living from selling them, so Solano had to 
-        take on part-time jobs to keep the store afloat. Gail Mazur commented in an interview:
+        take on part-time jobs to keep the store afloat. Local poet Gail Mazur commented in an interview:
         <blockquote>
 
         “It seems, in retrospect — it seemed then — that it was a miracle, that a tiny bookshop adamantly dealing 
