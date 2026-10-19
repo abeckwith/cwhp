@@ -1015,7 +1015,7 @@ s_bios = [
         Solano image source: <a href="https://upload.wikimedia.org/wikipedia/commons/f/f8/Louisa-solano.jpg?_=20170218060814">https://upload.wikimedia.org/wikipedia/commons/f/f8/Louisa-solano.jpg?_=20170218060814</a>
         
         `,
-        photos: ["images_bios/Louisa-Solano.jpg", "images_bios/grolier.jpg"],
+        photos: ["images_bios/Louisa-solano.jpg", "images_bios/grolier.jpg"],
         photoTitles: ["Photo of Solano by Cambridge Photographer Elsa Dorfman", "Grolier today"],
         dateCreated: "10.19.2026",
         dateUpdated: "",
