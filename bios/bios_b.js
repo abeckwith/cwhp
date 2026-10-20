@@ -3521,7 +3521,8 @@ b_bios = [
         deathDate: "",
         deathLocation: "",
         narrative: `
-           <i>Edna Brown was the first Black woman dentist in Cambridge in 1927. She went on to practice as a
+           <i>After graduating from Columbia Dental School in New York City, Edna Brown became the first female Black 
+           dentist in Cambridge in 1916. She later went on to practice as a
            dental surgeon in New York City.<br><Br>
            This profile is a work in progress. If you are intested in helping to tell the stories of Cambridge women like Edna Brown, <a href="https://cwhp.cambridgema.gov/about.html">consider joining us as
             a volunteer</a> </i>
