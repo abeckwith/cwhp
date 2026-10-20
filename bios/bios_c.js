@@ -1426,9 +1426,12 @@ c_bios = [
         deathDate: "",
         deathLocation: "",
         narrative: `
-           <i> Callie Crossley is a longtime contributor and show host for local public TV and radio (WBGH) and a national contributor
-           on PBS and CNN. She lives in Cambridge.<br><Br>
-           This profile is a work in progress, but you can find more about Crossley from her wikipedia page:<br>
+           Cambridge resident Callie Crossley started her career as a journalist for radio station WREC in Memphis, Tennesee, in 1974. 
+           She later worked on the documentary "Eyes on the Prize" and as a producer for ABC's "20/20." She has been a longtime contributor and show host for local public TV and radio (WBGH) and is known nationally as a contributor
+           on PBS and CNN. For years, she brought her strong and informed voice to the WBGH programs <i>On the Media</i> (as a panelist)
+            and <i>Basic Black</i> (as a frequent host) and she currently (as of 2026) hosts <i>The Callie Crossley Show</i> on WGBH.
+            <br><Br>
+           <i>This profile is a work in progress, but you can find more about Crossley from her wikipedia page:<br>
             <a href="https://en.wikipedia.org/wiki/Callie_Crossley">https://en.wikipedia.org/wiki/Callie_Crossley</a></i>
             <br> <br> 
               If you are intested in helping to tell the stories of Cambridge women like Crossley, <a href="https://cwhp.cambridgema.gov/about.html">consider joining us as
@@ -1436,9 +1439,15 @@ c_bios = [
             `,
         otherNotes: "",
         references: `
-            <a class='indent' href="https://en.wikipedia.org/wiki/Callie_Crossley">https://en.wikipedia.org/wiki/Callie_Crossley</a><Br>
-
-
+      
+        Crossley's webpage:<Br>
+        <A class="indent" href="https://www.calliecrossley.com/">https://www.calliecrossley.com/</a><br><Br>
+        HistoryMakers profile:<Br>
+        <a class="indent" href="https://www.thehistorymakers.org/biography/callie-crossley">https://www.thehistorymakers.org/biography/callie-crossley
+</a> <br><Br>
+  Wikipedia:<br>
+            <a class='indent' href="https://en.wikipedia.org/wiki/Callie_Crossley">https://en.wikipedia.org/wiki/Callie_Crossley</a>
+       
             `,
         photos: ["images_bios/Callie_Crossley.jpg"],
         photoTitles: ["Source: wikipedia"],
