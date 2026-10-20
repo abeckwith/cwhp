@@ -1306,9 +1306,13 @@ by Cate McQuaid,, April 12, 2017.
         deathDate: "03.25.2026",
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
-           In 1957, Jean Mason was the chair of the Committee of Against Discrimination for the Urban League of Boston and 
-           later worked on safe housing for women in Cambridge and Cambridge Co-Housing. She also worked as a staff psychologist at the Cambridge
-           Guidance Center. She author two books.<br><Br>
+           In 1957, after moving to the Boston area, Jean Mason became the chair of the Committee of Against Discrimination for the Urban
+            League of Boston and 
+           later worked on safe housing for women in Cambridge and Cambridge Co-Housing. She also obtained advanced degrees in pscychology
+           and worked as a staff psychologist at the 
+           Cambridge
+           Guidance Center and in the Cambridge school system.<Br><Br> Mason authored two memoirs, one in 2008 about her difficult childhood, and the other in 2010, about her 
+           experiences with co-housing.<br><Br>
            <i>This profile is a work in progress, but you can find more about Mason from her obituary:<br>
             <a href="https://www.legacy.com/us/obituaries/bostonglobe/name/jean-mason-obituary?id=61186965">https://www.legacy.com/us/obituaries/bostonglobe/name/jean-mason-obituary?id=61186965</a></i>
             <br> <br> 
@@ -1322,12 +1326,15 @@ by Cate McQuaid,, April 12, 2017.
         <br>
         Rogers Funeral Home photo:<Br>
             <a class="indent" href="https://rogersfuneralhome.net/1/obituaries/2158-mrs-jean-k-mason">https://rogersfuneralhome.net/1/obituaries/2158-mrs-jean-k-mason</a>
+        <Br><Br>
+        Jean Mason's second book, at Walmart.com:<br>
+        <a class="indent" href="https://www.walmart.com/ip/The-View-from-410-Paperback-9781440179822/463951589">https://www.walmart.com/ip/The-View-from-410-Paperback-9781440179822/463951589</a>
 
-    
+
 
             `,
-        photos: ["images_bios/Jean_Mason_1.jpg"],
-        photoTitles: ["Source: RogersFunerHome.net"],
+        photos: ["images_bios/Jean_Mason_1.jpg", "images_bios/mason_jean2.png"],
+        photoTitles: ["Source: RogersFunerHome.net", "Mason's second memoir<br>Source: Walmart Images"],
         dateCreated: "10.13.2026",
         dateUpdated: "",
 
