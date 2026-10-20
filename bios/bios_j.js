@@ -328,8 +328,8 @@ j_bios = [
         workInProgress: true,
         organization: false,
         lastName: "Jen",
-        firstName: "Lillian (&quot;Gish&quot;)",
-        middleName: "",
+        firstName: "Lillian",
+        middleName: "Gish",
         familyName: "",
 
         title: `Author`,    
@@ -338,9 +338,12 @@ j_bios = [
         deathDate: "",
         deathLocation: "",
         narrative: `
-        
-           Leon Lewis wrote of Gish Jen, a nationally-known Cambridge-based author, that she is an...
-           <blockquote>"acclaimed American author known for her insightful explorations of identity, ethnicity, and cultural dynamics, 
+            Lillian "Gish" Jen has written more than 20 novels as well as two non-fiction works focused on comparing 
+            Eastern and Western cultures. She has also published articles in the <i>New York Times, The New Yorker</i>, 
+            and several other publications and has received dozens of literary awards.<br><br>
+
+           Leon Lewis wrote of the Cambridge-based author that she is an...
+           <blockquote>"...acclaimed American author known for her insightful explorations of identity, ethnicity, and cultural dynamics, 
            particularly within the context of the Asian American experience."</blockquote>
            <i>This profile is a work in progress, but you can find more about Jen from this extensive article by Lewis:<br>
                    <a href="https://www.ebsco.com/research-starters/biography/gish-jen">https://www.ebsco.com/research-starters/biography/gish-jen</a>
