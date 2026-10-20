@@ -766,8 +766,9 @@ p_bios = [
         deathDate: "05.23.2016",
         deathLocation: "Rockland, Maine",
         narrative: `
-           Olive Pierce was a prolific Cambridge-based photographer who co-founded the photography program at Cambridge Rindge and Latin School. 
-           She published books of photography and focused throughout her career on issues of peace and justice.<br><Br>
+           After college, Olive Pierce was part of a medical team on a relief mission to Poland sponsored by the Unitarian Service Committee and the United NationsOlive.
+           After her return, she moved to the Boston area and began to study photography. Pierce became a prolific Cambridge-based photographer who co-founded the photography program at Cambridge Rindge and Latin School. 
+           She inspired countless high school students to pursue photography and published books of photography, often focused on issues of peace and justice.<br><Br>
            <i>This profile is a work in progress, but you can find more about Olive Pierce from her obituary:<br>
             <a href="https://www.legacy.com/us/obituaries/wickedlocal-cambridgechronicle/name/olive-pierce-obituary?id=16532236">https://www.legacy.com/us/obituaries/wickedlocal-cambridgechronicle/name/olive-pierce-obituary?id=16532236</a></i>
             <br> <br> 
