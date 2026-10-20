@@ -977,8 +977,9 @@ s_bios = [
         only with poetry, could survive into the era of crazy rentals and transient businesses. We who loved the 
         Grolier were grateful, and awed!” </blockquote>
 
-        Solano ran the bookshop until 2006. That same year, the book <i>Louisa Solano and the Grolier Bookstore</i>
-         was published and it contained an interview with Solano where she recounts her life at the store and how 
+        Solano ran the bookshop until 2006. That same year, the book <i>
+        Louisa Solano: The Grolier Poetry Bookshop</i>
+         was published by Doug Holder and Steve Glines and it contained an interview with Solano where she recounts her life at the store and how 
          it led to her interacting with Jack Kerouac, Allen Ginsberg, Seamus Heaney, and Robert Lowell. She was also 
          friends with local poets Gail Mazur, Robert Pinsky, and Lloyd Scwhartz.<br><Br>
 
