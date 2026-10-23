@@ -522,7 +522,7 @@ function loadInfoPage(checkLinks) {
     const preview = document.getElementById("pagePreview");
     const frame = preview.querySelector("iframe");
     const links = document.querySelectorAll("a");
-    console.log(links);
+    // console.log(links);
     let hideTimer;
 
     links.forEach((link) => {
@@ -531,7 +531,6 @@ function loadInfoPage(checkLinks) {
 
             // Only preview pages on this same website.
             const url = new URL(link.href, location.href);
-
             if (url.origin !== location.origin) return;
 
             // Place the preview below the link.
