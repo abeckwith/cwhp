@@ -135,7 +135,7 @@ h_bios = [
         familyName: "Heafield",
 
         title: `NASA software designer, founder of software company`,
-        birthDate: "00.00.1936",
+        birthDate: "08.17.1936",
         birthLocation: "Paoli, Indiana",
         deathDate: "09.30.2026",
         deathLocation: "Cambridge, Massachusetts",

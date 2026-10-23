@@ -1217,7 +1217,6 @@ function ranPerson() {
     window.history.pushState({}, "New Title", bioURL);
 }
 function setBoldInSideBar(bios, letter, loc) {
-    console.log("setting bold");
     for (let person = 0; person < bios[letter].length; person++) {
         document.getElementById(
             "name-" + letter + "-" + person,
