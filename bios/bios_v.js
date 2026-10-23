@@ -49,6 +49,7 @@ v_bios = [
         dateUpdated:"04.06.2025",
         
         photoHeights: [],
+        recentEditNotes:"",
         editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist"],
@@ -132,6 +133,7 @@ v_bios = [
         dateUpdated:"12.31.2025",
         
         photoHeights: [],
+        recentEditNotes:"",
         editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Actress", "Teacher/Educator", "Musician"],

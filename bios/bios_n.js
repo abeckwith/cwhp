@@ -65,6 +65,7 @@ n_bios = [
         dateUpdated: "04.12.2025",
         photoPos: ["2"],
         photoHeights: ["150"],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
@@ -185,6 +186,7 @@ n_bios = [
         dateUpdated: "",
 
         photoHeights: [""],
+        recentEditNotes:"",
         editors: "Meta Partenheimer",
         authors: "Anthony Beckwith",
         categories: ["Activist", "Nun"],
@@ -232,6 +234,7 @@ n_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Teacher/Educator", "Photographer", "Curator", "Sociologist"],
@@ -277,6 +280,7 @@ n_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Teacher/Educator"],
@@ -320,6 +324,7 @@ n_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Activist", "Feminist"],

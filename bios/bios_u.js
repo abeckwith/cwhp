@@ -45,6 +45,7 @@ u_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Teacher", "Nurse", "Activist"],

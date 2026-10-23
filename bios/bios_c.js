@@ -57,6 +57,7 @@ c_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Social/Philanthropic Organization"],
@@ -137,6 +138,7 @@ c_bios = [
         dateUpdated: "12.28.2025",
 
         photoHeights: [215],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Suffragists/Suffrage Group"],
@@ -214,6 +216,7 @@ c_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Educational Institution/School", "School/Institution"],
@@ -301,6 +304,7 @@ c_bios = [
         dateUpdated: "02.19.2026",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Scientist", "Suffragists/Suffrage Group", "Astronomer"],
@@ -398,6 +402,7 @@ c_bios = [
         dateUpdated: "01.11.2026",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: [""],
@@ -463,6 +468,7 @@ c_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Social/Philanthropic Organization", "Women's Club"],
@@ -517,6 +523,7 @@ c_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Feminist Organization"],
@@ -563,7 +570,8 @@ c_bios = [
     //     dateUpdated: "",
 
     //     photoHeights: [],
-    //     editors: "",
+    //     recentEditNotes:"",
+        // editors: "",
     //     authors: "CWHP volunteers",
     //     categories: ["Social/Philanthropic Organization"],
     // },
@@ -631,6 +639,7 @@ c_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Psychologist"],
@@ -700,6 +709,7 @@ c_bios = [
         dateUpdated: "01.30.2026",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Businesswoman", "Chef"],
@@ -812,6 +822,7 @@ c_bios = [
         dateUpdated: "12.14.2025",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Chef"],
@@ -869,6 +880,7 @@ c_bios = [
         photoPos: ["2"],
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "Kimm Topping",
         categories: [
@@ -936,6 +948,7 @@ c_bios = [
         dateUpdated: "12.20.2025",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "Kimm Topping",
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
@@ -991,6 +1004,7 @@ c_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "Kimm Topping",
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
@@ -1066,6 +1080,7 @@ c_bios = [
         dateUpdated: "",
 
         photoHeights: ["200"],
+        recentEditNotes:"",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Businesswoman"],
@@ -1146,6 +1161,7 @@ c_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator"],
@@ -1234,6 +1250,7 @@ c_bios = [
         dateUpdated: "12.27.2025",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Clairvoyant"],
@@ -1310,6 +1327,7 @@ c_bios = [
         photoPos: [3],
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: [""],
@@ -1407,6 +1425,7 @@ c_bios = [
         dateUpdated: "12.30.2025",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Actress"],
@@ -1455,6 +1474,7 @@ c_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Writer"],
@@ -1500,6 +1520,7 @@ c_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Teacher/Educator"],

@@ -77,6 +77,7 @@ t_bios = [
         dateUpdated: "01.10.2026",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Doctor", "Author"],
@@ -149,6 +150,7 @@ t_bios = [
         dateUpdated: "04.07.2025",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator"],
@@ -221,6 +223,7 @@ t_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors:"",
         authors: "CWHP volunteers",
         categories: [
@@ -312,6 +315,7 @@ t_bios = [
         dateUpdated: "02.04.2026",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Dentist"],
@@ -376,6 +380,7 @@ t_bios = [
         dateUpdated: "04.12.2025",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Scientist"],

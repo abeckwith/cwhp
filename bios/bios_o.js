@@ -77,6 +77,7 @@ o_bios = [
         photoPos: ["2"],
 
         photoHeights: ["250"],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "Kimm Topping",
         categories: ["Historian/History Project"],
@@ -161,6 +162,7 @@ o_bios = [
         dateUpdated: "03.04.2026",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Librarian", "Poet", "Author"],

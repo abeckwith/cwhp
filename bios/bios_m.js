@@ -119,6 +119,7 @@ m_bios = [
         dateUpdated: "12.27.2025",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Nurse", "Military"],
@@ -177,6 +178,7 @@ m_bios = [
         photoPos: ["2"],
 
         photoHeights: ["150"],
+        recentEditNotes:"",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Historian/History Project"],
@@ -250,6 +252,7 @@ m_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Activist", "Scientist"],
@@ -321,6 +324,7 @@ m_bios = [
         dateUpdated: "12.28.2025",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Scientist", "Writer"],
@@ -385,6 +389,7 @@ m_bios = [
         photoPos: ["2"],
 
         photoHeights: [""],
+        recentEditNotes:"",
         editors: "",
         authors: "Kimm Topping",
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
@@ -473,6 +478,7 @@ m_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Activist", "Teacher/Educator", "Scientist"],
@@ -560,6 +566,7 @@ m_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Teacher/Educator", "Poet"],
@@ -633,6 +640,7 @@ m_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Community Leader", "Teacher/Educator", "Writer"],
@@ -706,6 +714,7 @@ m_bios = [
         dateUpdated: "04.05.2025",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Historian/History Project"],
@@ -777,6 +786,7 @@ m_bios = [
         dateUpdated: "04.05.2025",
 
         photoHeights: ["200"],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Doctor"],
@@ -863,6 +873,7 @@ by Cate McQuaid,, April 12, 2017.
         dateUpdated: "04.12.2025",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Artist", "Teacher/Educator"],
@@ -967,6 +978,7 @@ by Cate McQuaid,, April 12, 2017.
         dateUpdated: "12.23.2025",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Business Manager"],
@@ -1027,6 +1039,7 @@ by Cate McQuaid,, April 12, 2017.
         dateUpdated: "07.09.2026",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Artist", "Teacher/Educator", "Scientist", "Writer"],
@@ -1155,6 +1168,7 @@ by Cate McQuaid,, April 12, 2017.
         dateUpdated: "04.30.2025",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "Anthony Beckwith",
         categories: ["Activist", "Poet", "Author"],
@@ -1205,6 +1219,7 @@ by Cate McQuaid,, April 12, 2017.
         dateUpdated: "",
 
         photoHeights: ["230"],
+        recentEditNotes:"",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Astronomer"],
@@ -1287,6 +1302,7 @@ by Cate McQuaid,, April 12, 2017.
         dateUpdated: "",
 
         photoHeights: [""],
+        recentEditNotes:"",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Clerk", "Law Enforcement"],
@@ -1339,6 +1355,7 @@ by Cate McQuaid,, April 12, 2017.
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Author", "Housing Advocate", "Psychologist"],
@@ -1383,6 +1400,7 @@ by Cate McQuaid,, April 12, 2017.
         dateUpdated: "",
 
         photoHeights: [""],
+        recentEditNotes:"",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Teacher", "Civil Rights Activist"],

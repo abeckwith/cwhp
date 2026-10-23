@@ -105,6 +105,7 @@ r_bios = [
         dateUpdated: "12.27.2025",
         
         photoHeights: [225],
+        recentEditNotes:"",
         editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Author"],
@@ -167,6 +168,7 @@ r_bios = [
         dateUpdated:"04.07.2025",
         
         photoHeights: [],
+        recentEditNotes:"",
         editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Psychologist"],
@@ -249,6 +251,7 @@ r_bios = [
         dateUpdated:"",
         
         photoHeights: [],
+        recentEditNotes:"",
         editors:"",
         authors: "CWHP volunteers",
         categories: ["Activist", "Teacher/Educator", "Reformer"],
@@ -321,6 +324,7 @@ r_bios = [
         dateUpdated:"12.27.2025",
         photoPos:[],
         photoHeights: [],
+        recentEditNotes:"",
         editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist", "Writer", "Editor"],

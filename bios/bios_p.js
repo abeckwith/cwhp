@@ -66,6 +66,7 @@ p_bios = [
         dateUpdated: "04.22.2026",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Community Leader", "Nurse"],
@@ -139,6 +140,7 @@ p_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Activist"],
@@ -208,6 +210,7 @@ p_bios = [
         dateUpdated: "04.07.2025",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Scientist"],
@@ -306,6 +309,7 @@ p_bios = [
         dateUpdated: "01.31.2026",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Reformer", "Author"],
@@ -404,6 +408,7 @@ p_bios = [
         dateUpdated: "01.30.2026",
 
         photoHeights: ["200"],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Physical Therapist ", "Volunteer"],
@@ -499,6 +504,7 @@ p_bios = [
         dateUpdated: "",
 
         photoHeights: [""],
+        recentEditNotes:"",
         editors: "",
         authors: "Anthony Beckwith, Matthew Peters",
         categories: ["Social worker", "Volunteer", "Teacher/Educator"],
@@ -586,6 +592,7 @@ p_bios = [
         dateUpdated: "",
 
         photoHeights: [""],
+        recentEditNotes:"",
         editors: "",
         authors: "Eric Hill",
         categories: ["Musician", "Ethnomusicologist"],
@@ -701,6 +708,7 @@ p_bios = [
         dateUpdated: "06.23.2026",
 
         photoHeights: [""],
+        recentEditNotes:"",
         editors: "Meta Partenheimer",
         authors: "Anthony Beckwith",
         categories: ["Nurse", "Community Activist"],
@@ -747,6 +755,7 @@ p_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Teacher/Educator", "School Principal", "Group Therapist"],
@@ -792,6 +801,7 @@ p_bios = [
  "",
         
         photoHeights: [],
+        recentEditNotes:"",
         editors:"",
         authors: "Anthony Beckwith",
         categories: ["Photographer", "Teacher/Educator", "Author"],

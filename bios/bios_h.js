@@ -59,6 +59,7 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Activist", "Author"],
@@ -121,6 +122,7 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Doctor"],
@@ -154,8 +156,8 @@ h_bios = [
             been credited with coining the term "Software Engineering."<br><br>
 
 
-            In 1986, she founded and became CEO of Hamilton Technologies, in Cambridge,
-            a software company. She has been recognized with the Augusta Ada Lovelace Award
+            In 1972, she was living at 46 Shepard Street in Cambridge and by 1986, she had founded and became CEO of software company Hamilton Technologies, also 
+            in Cambridge. She was recognized with the Augusta Ada Lovelace Award
             by the Association of Women in Computing in 1986 and the NASA Exceptional Space
             Act Award, in 2003 for her contributions to the Apollo Program and to the field
             of software engineering.
@@ -179,7 +181,8 @@ h_bios = [
                 href="http://klabs.org/home_page/hamilton.htm">http://klabs.org/home_page/hamilton.htm</a><br>
                 Image from wikipedia<br>
                 <a class='indent' href="https://en.wikipedia.org/wiki/Margaret_Hamilton_%28software_engineer%29" >https://en.wikipedia.org/wiki/Margaret_Hamilton_%28software_engineer%29</a>
-                <br>Second image and quotes from: <i>The Cambridge Chronicle</i>,  24 November 2016
+                <br>Second image and quotes from: <i>The Cambridge Chronicle</i>,  24 November 2016<br>
+                <i>Cambidge City Directory</i>, 1972
 
         `,
         photos: ["images_bios/Margaret_Hamilton_1995.jpg", "images_bios/hamilton_margaret2.png"],
@@ -188,6 +191,7 @@ h_bios = [
         dateUpdated: "10.17.2026",
 
         photoHeights: [],
+        recentEditNotes:"upon her death, updated death date and birthdate",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Businesswoman"],
@@ -238,6 +242,7 @@ h_bios = [
         dateUpdated: "12.24.2025",
 
         photoHeights: ["200"],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Community Leader", "Factory Worker"],
@@ -323,6 +328,7 @@ h_bios = [
         dateUpdated: "04.07.2025",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Psychiatrist"],
@@ -394,6 +400,7 @@ h_bios = [
         dateUpdated: "04.08.2025",
 
         photoHeights: [250, 150],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Clergy", "Teacher/Educator"],
@@ -457,6 +464,7 @@ h_bios = [
         dateUpdated: "04.05.2025",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Editor"],
@@ -522,6 +530,7 @@ h_bios = [
         photoPos: ["2"],
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Acquitted of Witchcraft"],
@@ -620,6 +629,7 @@ h_bios = [
         dateUpdated: "12.30.2025",
 
         photoHeights: ["400"],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Writer"],
@@ -684,6 +694,7 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Author"],
@@ -845,6 +856,7 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Architect"],
@@ -935,6 +947,7 @@ h_bios = [
         dateUpdated: "04.04.2025",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Lawyer", "Teacher/Educator", "Businesswoman"],
@@ -1023,6 +1036,7 @@ h_bios = [
         dateUpdated: "12.29.2025",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist", "Refugee", "Scientist"],
@@ -1101,6 +1115,7 @@ h_bios = [
         dateUpdated: "01.01.2026",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Artist"],
@@ -1216,6 +1231,7 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Sportswoman", "Volunteer"],
@@ -1265,6 +1281,7 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "",
         categories: ["Astronomer"],
@@ -1365,6 +1382,7 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "Eric Hill",
         categories: ["Nurse", "Dresskmaker"],
@@ -1410,6 +1428,7 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Businesswoman", "Designer"],

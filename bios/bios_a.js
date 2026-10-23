@@ -72,6 +72,7 @@ a_bios = [
         dateCreated: "00.00.2014",
         dateUpdated: "12.23.2025",
 
+        recentEditNotes:"",
         editors:"Joan Sindall, Barbara Beckwith",
         authors: "CWHP volunteers",
         categories: ["Political Leader"],
@@ -154,6 +155,7 @@ a_bios = [
         dateUpdated: "12.17.2025",
 
         photoHeights: ["400", "500"],
+        recentEditNotes:"",
         editors:"Joan Sindall & Anthony Beckwith",
         authors: "CWHP Volunteers",
         categories: ["Author"],
@@ -251,6 +253,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         dateUpdated: "12.23.25",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Author"],
@@ -332,6 +335,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         dateUpdated: "07.15.2025",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator"],
@@ -408,6 +412,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         dateUpdated: "12.23.25",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: [
@@ -467,6 +472,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors:"",
         authors: "CWHP volunteers",
         categories: ["Community Leader"],
@@ -519,6 +525,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors:"",
         authors: "CWHP volunteers",
         categories: ["Author"],
@@ -596,6 +603,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         dateUpdated: "12.23.25",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: [""],
@@ -671,6 +679,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         dateUpdated: "12.30.2025",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Nurse"],
@@ -736,6 +745,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         dateUpdated: "12.23.25",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist", "Teacher/Educator"],
@@ -801,6 +811,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors:"",
         authors: "CWHP volunteers",
         categories: ["Activist"],
@@ -854,6 +865,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         dateUpdated: "07.24.2025",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Factory Worker"],
@@ -924,6 +936,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         dateUpdated: "12.23.2025",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: [""],
@@ -1030,6 +1043,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         dateUpdated: "12.23.2025",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Community Leader", "Scientist"],
@@ -1087,6 +1101,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors:"",
         authors: "CWHP volunteers",
         categories: ["Community Leader"],
@@ -1209,6 +1224,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         dateUpdated: "12.13.2025",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist","Housing Advocate"],
@@ -1261,6 +1277,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         dateUpdated: "12.15.2025",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Volunteer"],
@@ -1331,6 +1348,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors:"",
         authors: "Anthony Beckwith",
         categories: ["Dancer", "Choreographer", "Artist", "Fashion Designer"],
@@ -1465,6 +1483,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors:"",
         authors: "Anthony Beckwith, Eli Plenk",
         categories: ["Activist", "Philanthropist", "Executive", "Volunteer"],
@@ -1599,6 +1618,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         dateUpdated: "",
 
         photoHeights: ["", "450", "400"],
+        recentEditNotes:"",
         editors:"",
         authors: "Meta Partenheimer, Anthony Beckwith",
         categories: ["Photographer", "Businesswoman"],
@@ -1650,6 +1670,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Activist"],

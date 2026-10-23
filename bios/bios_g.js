@@ -46,6 +46,7 @@ g_bios = [
         dateUpdated: "12.17.2025",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Musician"],
@@ -112,6 +113,7 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "CWHP volunteers",
         categories: [""],
@@ -203,6 +205,7 @@ g_bios = [
         dateUpdated: "02.04.2026",
 
         photoHeights: ["350", "350", "460"],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "Kimm Topping",
         categories: ["Educational Institution/School", "School/Institution"],
@@ -292,6 +295,7 @@ g_bios = [
         dateUpdated: "04.05.2025",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Poet", "Author"],
@@ -403,6 +407,7 @@ g_bios = [
         dateUpdated: "01.11.2026",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Photographer", "Poet"],
@@ -481,6 +486,7 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "CWHP volunteers",
         categories: [
@@ -600,6 +606,7 @@ g_bios = [
         dateUpdated: "05.31.2026",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist", "Political Leader"],
@@ -694,6 +701,7 @@ g_bios = [
         dateUpdated: "04.08.2025",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist", "Teacher/Educator"],
@@ -795,6 +803,7 @@ g_bios = [
         dateUpdated: "04.08.2025",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Historian/History Project"],
@@ -839,6 +848,7 @@ g_bios = [
         photoPos: ["2"],
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "Kimm Topping",
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
@@ -888,6 +898,7 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "",
         categories: ["Astronomer", "Teacher/Educator"],
@@ -933,6 +944,7 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "",
         categories: ["Astronomer"],
@@ -1023,6 +1035,7 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Teacher/Educator", "Volunteer", "Community Leader"],
@@ -1132,6 +1145,7 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "Eric Hill",
         categories: ["Teacher/Educator", "Musician", "Artists", "Businesswoman"],

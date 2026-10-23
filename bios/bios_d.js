@@ -44,6 +44,7 @@ d_bios = [
         dateUpdated: "04.07.2025",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Historian/History Project"],
@@ -91,6 +92,7 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: ["200"],
+        recentEditNotes:"",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Educational Institution/School"],
@@ -157,6 +159,7 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Musician"],
@@ -216,6 +219,7 @@ d_bios = [
         dateUpdated: "01.10.2026",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Businesswoman", "Community Leader", "Volunteer"],
@@ -297,6 +301,7 @@ d_bios = [
         dateUpdated: "01.09.2026",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Law Enforcement", "Military"],
@@ -372,6 +377,7 @@ d_bios = [
         photoPos: ["2"],
 
         photoHeights: ["150"],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Feminist Organization"],
@@ -476,6 +482,7 @@ d_bios = [
         dateUpdated: "02.06.2026",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Environmentalist", "Political Leader", "Journalist"],
@@ -589,6 +596,7 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Activist", "Musician", "Author"],
@@ -651,6 +659,7 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "CWHP volunteers",
         categories: [""],
@@ -725,6 +734,7 @@ d_bios = [
         dateUpdated: "12.20.2025",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Poet"],
@@ -797,6 +807,7 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Psychiatrist", "Refugee"],
@@ -890,6 +901,7 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Reformer"],
@@ -950,6 +962,7 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "CWHP volunteers",
         categories: [""],
@@ -1002,6 +1015,7 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Scientist"],
@@ -1081,6 +1095,7 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Activist", "Teacher/Educator", "Writer"],
@@ -1148,6 +1163,7 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: ["200"],
+        recentEditNotes:"",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Businesswoman"],
@@ -1240,6 +1256,7 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [""],
+        recentEditNotes:"",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Church member"],
@@ -1309,6 +1326,7 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [""],
+        recentEditNotes:"",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Church member", "Cook", "Volunteer"],
@@ -1356,6 +1374,7 @@ d_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Photographer", "Author"],

@@ -69,6 +69,7 @@ s_bios = [
         dateUpdated: "04.11.2025",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Community Leader", "Teacher/Educator"],
@@ -175,6 +176,7 @@ s_bios = [
         photoHeights: ["250"],
         photoPos: ["2"],
 
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Refugee", "Poet", "Author"],
@@ -243,6 +245,7 @@ s_bios = [
         dateUpdated: "01.17.2026",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Artist", "Author"],
@@ -289,6 +292,7 @@ s_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "",
         categories: ["Astronomer"],
@@ -368,6 +372,7 @@ s_bios = [
         dateUpdated: "12.27.2025",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist", "Child Care Provider"],
@@ -486,6 +491,7 @@ s_bios = [
         photoPos: ["6"],
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: [
@@ -586,6 +592,7 @@ s_bios = [
         dateUpdated: "02.04.2026",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Author"],
@@ -664,6 +671,7 @@ s_bios = [
         dateUpdated: "01.11.2026",
 
         photoHeights: ["400"],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Writer", "Architect"],
@@ -717,6 +725,7 @@ s_bios = [
         dateUpdated: "",
 
         photoHeights: ["200"],
+        recentEditNotes:"",
         editors: "",
         authors: "",
         categories: ["Astronomer"],
@@ -782,6 +791,7 @@ s_bios = [
         dateUpdated: "04.12.2025",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Community Leader", "Political Leader"],
@@ -852,6 +862,7 @@ s_bios = [
         dateUpdated: "02.05.2026",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "Anthony Beckwith",
         categories: ["Teacher"],
@@ -937,6 +948,7 @@ s_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Author", "Copywriter"],
@@ -1022,6 +1034,7 @@ s_bios = [
         dateUpdated: "",
 
         photoHeights: ["400", "400"],
+        recentEditNotes:"",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Bookstore owner", "Businesswoman"],

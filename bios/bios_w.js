@@ -37,6 +37,7 @@ w_bios = [
         dateUpdated: "04.06.2025",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator"],
@@ -115,6 +116,7 @@ w_bios = [
         dateUpdated: "04.22.2026",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist", "Teacher/Educator", "Volunteer"],
@@ -281,6 +283,7 @@ w_bios = [
         photoPos: ["2"],
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist", "Writer", "Editor"],
@@ -358,6 +361,7 @@ w_bios = [
         dateUpdated: "04.12.2025",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Political Leader"],
@@ -439,6 +443,7 @@ w_bios = [
         dateUpdated: "04.08.2025",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Artist", "Poet"],
@@ -492,6 +497,7 @@ w_bios = [
         dateUpdated: "12.14.2014",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Factory Worker", "Volunteer"],
@@ -569,6 +575,7 @@ w_bios = [
         dateUpdated: "",
 
         photoHeights: ["300"],
+        recentEditNotes:"",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Refugee", "Social/Philanthropic Organization"],
@@ -623,6 +630,7 @@ w_bios = [
         photoPos: ["2"],
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator"],
@@ -696,6 +704,7 @@ w_bios = [
         dateUpdated: "04.08.2025",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Community Leader", "Writer"],
@@ -771,6 +780,7 @@ w_bios = [
         dateUpdated: "12.27.2025",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Volunteer"],
@@ -837,6 +847,7 @@ w_bios = [
         dateUpdated: "",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Community Leader", "Political Leader"],
@@ -906,6 +917,7 @@ w_bios = [
         dateUpdated: "04.06.2025",
 
         photoHeights: [],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Political Leader", "Refugee"],
@@ -968,6 +980,7 @@ w_bios = [
         photoPos: ["3"],
 
         photoHeights: ["", "250"],
+        recentEditNotes:"",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Educational Institution/School", "Feminist Organization"],
@@ -1029,6 +1042,7 @@ w_bios = [
         dateUpdated: "04.11.2025",
         photoPos: ["3"],
         photoHeights: ["100"],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Feminist Organization"],
@@ -1127,6 +1141,7 @@ w_bios = [
         dateUpdated: "05.31.2026",
 
         photoHeights: ["130"],
+        recentEditNotes:"",
         editors: "Anthony Beckwith",
         authors: "Kimm Topping",
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
@@ -1189,6 +1204,7 @@ w_bios = [
         dateUpdated: "",
         photoPos: ["3"],
         photoHeights: ["200"],
+        recentEditNotes:"",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
@@ -1239,6 +1255,7 @@ w_bios = [
         dateUpdated: "",
         photoPos: ["3"],
         photoHeights: [],
+        recentEditNotes:"",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Educational Institution/School", "Feminist Organization"],
@@ -1375,6 +1392,7 @@ w_bios = [
         photoHeights: ["200",
             "", "500", "", "", "200", ""
         ],
+        recentEditNotes:"",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Restaurant Owner", "Community member"],

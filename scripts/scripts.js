@@ -247,7 +247,10 @@ function showRecents(num) {
                     if (thename.dateUpdated.charAt(0) == "0")
                         formattedDate =
                             "&nbsp;&nbsp;" + formattedDate.substring(1);
-
+                    if(thename.recentEditNotes !== "")
+                        ren = " (" + thename.recentEditNotes + ")";
+                    else
+                        ren = "";
                     // html +=
                     html_build =
                         "<br></i>" +
@@ -264,7 +267,7 @@ function showRecents(num) {
                         fnm +
                         "</a></span>,<i> &nbsp;" +
                         strippedTitle +
-                        "</i>";
+                        "</i>" + ren;
                     recentUpdatesObjects.push({
                         html_build,
                         monthNum,
@@ -608,7 +611,9 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
         atr = "<div>Author(s):<B> " + person.authors + "</b></div>";
     if (person.editors.trim() !== "")
         edtr = "<div>Editor(s): <B>" + person.editors + "</b>";
-
+    if(person.recentEditNotes !== "")
+        ren = "<Br>&nbsp;&nbsp;&nbsp;("+ person.recentEditNotes + ")";
+    else ren = "";
     //put it all together:
     html +=
         "</div><br>" +
@@ -616,7 +621,7 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
         "<br>" +
         atr +
         "<br>" +
-        lu +
+        lu + ren + 
         "<br>" +
         edtr +
         "<br><img src='images_util/logo_xsm.jpg' style='width:10vw'><br>" +
