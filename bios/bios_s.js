@@ -959,7 +959,7 @@ s_bios = [
        
         
         At a young age, Louisa Solano felt a passion for the written word. In 1953, at age 12, she won first prize 
-        in the Cambridge Public Library Summer Book Club, while attending the Agassiz Grammar School. As a senior at 
+        in the Cambridge Public Library Summer Book Club, while attending the Agassiz Grammar School (the family lived at 124 Oxford Street). As a senior at 
         Cambridge High and Latin School, she won the Greek Letters trophy for the best essay on "Greek contributions 
         to Western Culture." While at CHLS, she also worked at the Cambridge Public Library.<Br><Br>
 
