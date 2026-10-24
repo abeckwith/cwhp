@@ -1379,4 +1379,54 @@ d_bios = [
         authors: "Anthony Beckwith",
         categories: ["Photographer", "Author"],
     },
+     {
+        poc: false,
+        workInProgress: true,
+        organization: false,
+        lastName: "Dunn",
+        firstName: "Elizabeth",
+        middleName: "St. John",
+        familyName: "Meyer",
+
+        title: `Activist, mathematician, social scientist`,
+        birthDate: "00.00.1925",
+        birthLocation: "Boston, Massachusetts",
+        deathDate: "02.24.2019",
+        deathLocation: "Cambridge, Massachusetts",
+        narrative: `
+          Elizabeth "Betsy" Dunn was a feminist and Democratic party activist, who was raised in Cambridge and worked
+           at Harvard and MIT. Dunn lived at 27 Walker Street in Cambridge and became an activist in the 1970s and dedicated
+            herself to furthering women's rights. 
+           Dunn worked at the State House for the Mass. League of Women Voters and worked with NOW, the National Organization 
+           for Women, on passing the ERA (Equal Rights Amendment). Dunn worked tirelessly for women's issues while raising her 
+           three children, as well as working on research in mathematics and conducting studies in sociology and economics.  
+           <Br><Br>
+               <i>  This profile is a work in progress.
+        You can learn more about Dunn from her obituary:<br>
+        <a href="https://www.legacy.com/us/obituaries/wickedlocal-cambridgechronicle/name/elizabeth-dunn-obituary?id=9724327">https://www.legacy.com/us/obituaries/wickedlocal-cambridgechronicle/name/elizabeth-dunn-obituary?id=9724327</a><br><br>
+        </i>If you are intested in helping to tell the stories of Cambridge women like Betsy Dunn, <a href="https://cwhp.cambridgema.gov/about.html">consider joining us as
+     a volunteer</a> 
+            `,
+        otherNotes: "",
+        references: `
+        Legacy.com obit:<br>
+       <a class="indent" href="https://www.legacy.com/us/obituaries/wickedlocal-cambridgechronicle/name/elizabeth-dunn-obituary?id=9724327"> https://www.legacy.com/us/obituaries/wickedlocal-cambridgechronicle/name/elizabeth-dunn-obituary?id=9724327</a>
+       <br><br>
+       Harvard collection:<br>
+        <a class="indent" href="https://hollis.harvard.edu/discovery/fulldisplay?context=L&vid=01HVD_INST:HVD2&lang=en&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&docid=alma990102513710203941">https://hollis.harvard.edu/discovery/fulldisplay?context=L&vid=01HVD_INST:HVD2&lang=en&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&docid=alma990102513710203941 </a>
+       <Br><br>
+       Findagrave:<br>
+        <a class="indent" href="https://www.findagrave.com/memorial/242556255/elizabeth-st_john-dunn">https://www.findagrave.com/memorial/242556255/elizabeth-st_john-dunn </a> 
+                    `,
+        photos: ["images_bios/dunn_betsy.jpeg", "images_bios/dunn_betsy.png"],
+        photoTitles: ["Source: FindAGrave", "Dunn's headstone in Wilton, New Hampshire"],
+        dateCreated: "10.24.2026",
+        dateUpdated: "",
+
+        photoHeights: [],
+        recentEditNotes:"",
+        editors: "",
+        authors: "Anthony Beckwith",
+        categories: ["Activist", "Mathematician"],
+    },
 ];
