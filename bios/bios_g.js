@@ -606,7 +606,7 @@ g_bios = [
         dateUpdated: "05.31.2026",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes:"added link to video",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist", "Political Leader"],

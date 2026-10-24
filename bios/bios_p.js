@@ -66,7 +66,7 @@ p_bios = [
         dateUpdated: "04.22.2026",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes:"added quote from Parsons",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Community Leader", "Nurse"],
@@ -708,7 +708,7 @@ p_bios = [
         dateUpdated: "06.23.2026",
 
         photoHeights: [""],
-        recentEditNotes:"",
+        recentEditNotes:"minor edits",
         editors: "Meta Partenheimer",
         authors: "Anthony Beckwith",
         categories: ["Nurse", "Community Activist"],

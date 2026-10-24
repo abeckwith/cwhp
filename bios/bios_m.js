@@ -1039,7 +1039,7 @@ by Cate McQuaid,, April 12, 2017.
         dateUpdated: "07.09.2026",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes:"updated references and added images",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Artist", "Teacher/Educator", "Scientist", "Writer"],

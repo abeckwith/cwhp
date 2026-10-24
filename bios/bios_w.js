@@ -116,7 +116,7 @@ w_bios = [
         dateUpdated: "04.22.2026",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes:"added quote from Wallace",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist", "Teacher/Educator", "Volunteer"],
@@ -1141,7 +1141,7 @@ w_bios = [
         dateUpdated: "05.31.2026",
 
         photoHeights: ["130"],
-        recentEditNotes:"",
+        recentEditNotes:"added link to video",
         editors: "Anthony Beckwith",
         authors: "Kimm Topping",
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
