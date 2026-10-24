@@ -1409,6 +1409,8 @@ d_bios = [
             `,
         otherNotes: "",
         references: `
+        <i>Cambridge City Directory</i>, 1972<br><br>
+
         Legacy.com obit:<br>
        <a class="indent" href="https://www.legacy.com/us/obituaries/wickedlocal-cambridgechronicle/name/elizabeth-dunn-obituary?id=9724327"> https://www.legacy.com/us/obituaries/wickedlocal-cambridgechronicle/name/elizabeth-dunn-obituary?id=9724327</a>
        <br><br>
