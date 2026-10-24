@@ -245,7 +245,7 @@ s_bios = [
         dateUpdated: "01.17.2026",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes:"added Schelinger quote about CHLS in the 1930s",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Artist", "Author"],
@@ -446,9 +446,9 @@ s_bios = [
             monument to all civil rights activists that followed in Hall&rsquo;s footsteps. Simmons is also behind an
             effort to create a Cambridge museum, which would document the city&rsquo;s rich and diverse history. 
             <br><br>
-            Simmons was at October 2024 opening of the Economic Mobility Hub at Rindge Commons near the Alewife 
+            Simmons was at the October 2024 opening of the Economic Mobility Hub at Rindge Commons near the Alewife 
             MBTA station. This is a mixed-use building with affordable housing units and where the non-profit
-             Just-A-Start made their new headquarters. After decrying the increasing cost of housing Cambridge, 
+             Just-A-Start made their new headquarters. After decrying the increasing cost of housing in Cambridge, 
              Simmons said:
             <blockquote>
             "This project aims to preserve and nurture the diversity that really defines the city of Cambridge, 
@@ -491,7 +491,7 @@ s_bios = [
         photoPos: ["6"],
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes:"added 2024 Simmons quote",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: [
@@ -592,7 +592,7 @@ s_bios = [
         dateUpdated: "02.04.2026",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes:"added image and quote from 1982 interview",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Author"],
@@ -671,7 +671,7 @@ s_bios = [
         dateUpdated: "01.11.2026",
 
         photoHeights: ["400"],
-        recentEditNotes:"",
+        recentEditNotes:"added birth location and excerpt of letter to Boston Globe",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Writer", "Architect"],

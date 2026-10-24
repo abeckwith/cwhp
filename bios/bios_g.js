@@ -407,7 +407,7 @@ g_bios = [
         dateUpdated: "01.11.2026",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes:"added 1993 Goodman poem",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Photographer", "Poet"],

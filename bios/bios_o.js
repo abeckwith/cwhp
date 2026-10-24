@@ -162,7 +162,7 @@ o_bios = [
         dateUpdated: "03.04.2026",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes:"added poem from Orne",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Librarian", "Poet", "Author"],

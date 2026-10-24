@@ -777,7 +777,7 @@ b_bios = [
         dateUpdated: "02.01.2026",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes:"added 1863 image",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Social/Philanthropic Organization"],
@@ -871,7 +871,7 @@ b_bios = [
         dateUpdated: "01.15.2026",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes:"filled out bio with new research",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Suffragists/Suffrage Group", "Businesswoman"],
@@ -997,7 +997,7 @@ b_bios = [
         dateUpdated: "01.31.2026",
 
         photoHeights: ["", "190"],
-        recentEditNotes:"",
+        recentEditNotes:"added image and new research about Bennett's community involvement",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Community Leader", "Volunteer"],
@@ -1620,71 +1620,7 @@ b_bios = [
         authors: "CWHP volunteers",
         categories: ["Activist"],
     },
-    // {
-    //     poc: false,
-    //     workInProgress: false, //true when don't want online yet
-        // organization:  false,
-    //     lastName: "Keefe",
-    //     firstName: "Ann",
-    //     middleName: "Pauline",
-    //     familyName: "",
-
-    //     title: `Activist, school volunteer`,
-    //     birthDate: "12.03.1939",
-    //     birthLocation: "Boston, Massachusetts",
-    //     deathDate: "05.23.2001",
-    //     deathLocation: "Cambridge, Massachusetts",
-    //     narrative: `
-
-
-          
-    //     Ann Keefe was born in Boston on December 3, 1939, the daughter of Irish immigrants. She grew up in Cambridge and graduated from Matignon High School. She married Frank Bolger around 1960, who, in the 1970s, was listed as a carpenter working for Mass. General Hospital, just over the river in Boston.
-    //     <br><br>
-    //     She worked as parent liaison at the Graham and Parks Alternative Public School for 27 years (she lived at 10 Saint Paul Street, near City Hall). The Parent Liason positions, now a universal feature of Cambridge schools, are based on the job she created. Her work is nationally recognized as a model for family involvement in schools. She developed a system for forming well-balanced classrooms, she created an admissions policy for CAPS, a complex process looking at race, gender, and income. She served 21 years on the board of Cambridge School Volunteers. For 5 years she was a member of the School Health Task Force, successfully lobbying for additional school nurses and for a comprehensive health policy for the schools.
-    //     <br><br>
-
-    //     In 1970, Bolger was the Longfellow Community School council secretary.
-    //     In 1982, there was a discussion
-    //     (and a bit of controversy) over renaming the newly-combined
-    //     Cambridge Alternative Schools (CPS) and the Daniel Webster School to
-    //     the Rosa Parks School. Bolger was a parent coordinator for the "New
-    //     Alternative Webster School" (a temporary name) and was interviewed
-    //     in the Cambridge Chronicle:
-    //     <blockquote>
-
-    //     "Everyone was free to suggest a name. It could be a famous person, a not so famous person, a
-    //     concept of an idea, or a geographic area. [The only restriction was] that the word 'Alternative' appear
-    //     in the new name. Some of the suggested names were really unusual—a lot of thought went into it.
-    //     Several people...suggested it would be nice to have a Cambridge school named for a minority
-    //     woman. Names like 'Umojo,' and African word for unity, and 'Calliope,' a musical instrument in which all
-    //     the parts have to work together [were included in the suggestions.]"
-    //     </blockquote>
-
-    //     Bolger also served with the Cambridge School Volunteers and was part of the CSV Long Range Planning
-    //     Committee. She stayed involved in the schools for more than 20 years and upon her passing, the Graham and
-    //     Parks School library was renamed in her honor. 
-
-
-    
-
-    //         `,
-    //     otherNotes: "",
-    //     references: ` <i>Cambridge Chronicle</i>, June 13, 2001.<br>
-    //     <i>Cambridge Chronicle</i>, 2 June 1983.<br>
-    //     <i>Cambridge City Directory</i>, 1968, 1972.
-
-    //     `,
-    //     photos: [""],
-    //     photoTitles: [],
-    //     dateCreated: "prior to 2009",
-    //     dateUpdated: "03.29.2026",
-
-    //     photoHeights: [],
-    //     recentEditNotes:"",
-        // editors: "Anthony Beckwith",
-    //     authors: "CWHP volunteers",
-    //     categories: ["Activist", "Volunteer"],
-    // },
+   
 
     {
         poc: false,
@@ -2506,7 +2442,7 @@ b_bios = [
         dateUpdated: "02.18.2026",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes:"added photo and quote from Brown museum",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator"],
@@ -2556,7 +2492,7 @@ b_bios = [
         dateUpdated: "01.29.2026",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes:"added birth and death dates and new info from research",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Volunteer"],
@@ -2879,7 +2815,7 @@ b_bios = [
         dateUpdated: "02.03.2026",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes:"added quote from racial justice award",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist"],
@@ -3597,100 +3533,5 @@ b_bios = [
         authors: "Anthony Beckwith",
         categories: ["Dentist"],
     },
-    //     {
-    //     poc: false,
-    //     workInProgress: false, //true when don't want online yet
-        // organization:  false,
-    //     lastName: "Bolger",
-    //     firstName: "Ann",
-    //     middleName: "Louise",
-    //     familyName: "Wadden",
-
-    //     title: `Volunteer, community activist`,
-    //     birthDate: "06.06.1933",
-    //     birthLocation: "Cambridge, Massachusetts",
-    //     deathDate: "08.26.2019",
-    //     deathLocation: "Cambridge, Massachusetts",
-    //     narrative: `
-
-    //   Ann Wadden Bolger grew up in Cambridge (lived on Harvard Street?). She attended Cambridge High and Latin School
-    //    where she was part of the French Club, the Outing Club, and the Drama club and preformed in "A Connecticut 
-    //    Yankee In King Arthur's Court" in 1949.<br><br>
-
-    //     Bolger, as a single mother raising five children, was heavily involved in advocating for Cambridge Schools.
-    //      In 1982, there was a discussion (and a bit of controversy) over renaming the newly-combined Cambridge Alternative
-    //       Schools (CPS) and the Daniel Webster School the Rosa Parks School. Bolger was a parent coordinator for the 
-    //       "New Alternative Webster School" (a temporary name) and was interviewed in the Cambridge Chronicle: 
-
-    //     <blockquote>
-    //     "Everyone was free to suggest a name. It could be a famous person, a not so famous person, a concept of an 
-    //     idea, or a geographic area. [The only restriction was] that the word 'Alternative' appear in the new name. 
-    //     Some of the suggested names were really unusual—a lot of thought went into it. Several people...suggested 
-    //     it would be nice to have a Cambridge school named for a minority woman. 
-    //     <Br><br>
-
-    //     "Names like 'Umojo,' and African word for unity, and 'Calliope,' a musical instrument in which all the 
-    //     parts have to work together [were included in the suggestions.]"
-    //     </blockquote>
-
-    //     Bolger also served on the Cambridge School Volunteers and was part of the CSV Long Range Planning 
-    //     Committee. She stayed involved in the schools for more than 20 years and upon her passing, the Graham 
-    //     and Parks School library was renamed in her honor.
-
-    //     In 1983, Bolger was featured on a local cable TV show and talked about Central Square at the time:
-
-    //     <blockquote>
-    //     "When I look over to Central Square, I see the edge of many communities. It's sort of that no man's land 
-    //     of stores and businesses. All of us in the bordering neighborhoods—Mid-Cambridge, Area Four, Cambridgeport 
-    //     and Riverside—should think about including Central Square as a part of our communities."
-    //     </blockquote>
-
-    //     Bolger was a teacher herself and taught fourth grade in the Groton Public schools for almost 20 years.  
-    //     She was also a liberal activist. According to her obituary, with her identity was formed "during the women’s 
-    //     rights, civil rights, and anti-war movements of the 1960’s.  She worked on several political campaigns during 
-    //     the 1960’s and 1970’s and was especially proud of her work for Eugene McCarthy in 1968."  
-    //     <br><br>Bolger is buried in Cambridge Cemetery. 
-
-    //     1950 census: 159 Concord Ave., with sister Eleanor (checks out w/obit)
-    //     father Joseph was a physician, mother Margaret<Br><br>
-
-    //     1970 was Longfellow Community School council secretary (lived on St. Paul St.)<Br><br>
-
-    //     1972: lived at 10 St. Paul St.,  married to Francis X. Bolger, carpenter at MGH. She's listed as "Ann P. Bolger"<Br><br>
-
-    //     '85-'96 was living in Groton, but articles in Cambridge Chronicle showing her serving on groups
-    //      for Cambridge Schools and 1987 article talking about Central Square (mentions her growing up on
-    //       Harvard St. and living on St. Paul). This following up on a 1983 article about Central Sq. that 
-    //       quotes her (and gives her address as St. Paul Street)<Br><br>
-
-    //     1996 - obit for a Florence T. Keefe says mother of Ann Bolger of Cambridge - different Ann Bolger?<Br><br>
-
-    //     1998 Ann Bolger was parent liaison for Graham and Parks<Br><br>
-
-       
-    //         `,
-    //     otherNotes: "",
-    //     references: `
-    //      <i>1972 City Directory</i>.<br>
-
-    //     <i>The Cambridge Chronicle</i>, 11 December 1947, 2 June 1983, 27 November 1986, 17 December 1987.<br>
-    //     Obituary:<Br>
-    //     <a class='indent' href="https://www.brownandhickey.com/obituary/Ann-Bolger">https://www.brownandhickey.com/obituary/Ann-Bolger</a><Br>    
-    //     <i>Cambridge High and Latin Yearbook</i>, 1949:<Br>
-    //     <a class='indent' href="https://archive.org/details/cambridgehighlat1949unse/page/124/mode/2up">https://archive.org/details/cambridgehighlat1949unse/page/124/mode/2up</a>
-    //     <br>
-    //     `,
-    //     photos: ["images_bios/bolger.png", "images_bios/bolger2.png"],
-    //     photoTitles: [
-    //         "1949 CHLS Yearbook",
-    //     ],
-    //     dateCreated: "",
-    //     dateUpdated: "",
-
-    //     photoHeights: [""],
-    //     recentEditNotes:"",
-        // editors: "",
-    //     authors: "Anthony Beckwith",
-    //     categories: ["Volunteer", "Community Activist"],
-    // },
+ 
 ];

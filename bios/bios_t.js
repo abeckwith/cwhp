@@ -315,7 +315,7 @@ t_bios = [
         dateUpdated: "02.04.2026",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes:"added birthdate and birthplace",
         editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Dentist"],

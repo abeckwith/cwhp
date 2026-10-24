@@ -454,7 +454,7 @@ l_bios = [
         dateUpdated: "02.01.2026",
 
         photoHeights: ["500"],
-        recentEditNotes:"",
+        recentEditNotes:"added image from 1973 Chronicle",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Nurse", "Volunteer", "Community Leader"],

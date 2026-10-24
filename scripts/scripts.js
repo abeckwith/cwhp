@@ -13,7 +13,7 @@ let currentLetter = 0;
 let currentPersonIndex = 0;
 
 let RECENT_MONTHS_LIMIT = 12; //for recent additions
-let RECENT_MONTHS_LIMIT_EDITS = 6; //for recent edits
+let RECENT_MONTHS_LIMIT_EDITS = 9; //for recent edits
 
 /**
  * Makes sidebar and then loads bio
@@ -248,7 +248,7 @@ function showRecents(num) {
                         formattedDate =
                             "&nbsp;&nbsp;" + formattedDate.substring(1);
                     if(thename.recentEditNotes !== "")
-                        ren = " (" + thename.recentEditNotes + ")";
+                        ren = "<Br>&nbsp;&nbsp;&nbsp;&nbsp; (" + thename.recentEditNotes + ")<Br>";
                     else
                         ren = "";
                     // html +=

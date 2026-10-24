@@ -219,7 +219,7 @@ d_bios = [
         dateUpdated: "01.10.2026",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes:"added birth location and date info and other results of new research",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Businesswoman", "Community Leader", "Volunteer"],
@@ -482,7 +482,7 @@ d_bios = [
         dateUpdated: "02.06.2026",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes:"added quote from 2015 interview",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Environmentalist", "Political Leader", "Journalist"],

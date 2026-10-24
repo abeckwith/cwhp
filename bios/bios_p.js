@@ -309,7 +309,7 @@ p_bios = [
         dateUpdated: "01.31.2026",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes:"added image and quote from 1981 Chronicle",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Reformer", "Author"],
@@ -408,7 +408,7 @@ p_bios = [
         dateUpdated: "01.30.2026",
 
         photoHeights: ["200"],
-        recentEditNotes:"",
+        recentEditNotes:"added 1977 Chronicle quote",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Physical Therapist ", "Volunteer"],

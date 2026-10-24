@@ -61,7 +61,7 @@ z_bios = [
         dateUpdated: "02.04.2026",
         photoPos: [],
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes:"added birthdate, death date and location, and other of her activities",
         editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Community Leader"],

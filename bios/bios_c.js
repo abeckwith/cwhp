@@ -304,7 +304,7 @@ c_bios = [
         dateUpdated: "02.19.2026",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes:"added newspaper article quote about Cannon",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Scientist", "Suffragists/Suffrage Group", "Astronomer"],
@@ -402,7 +402,7 @@ c_bios = [
         dateUpdated: "01.11.2026",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes:"added excerpt of 1938 Cannon letter to the editor",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: [""],
@@ -528,53 +528,7 @@ c_bios = [
         authors: "CWHP volunteers",
         categories: ["Feminist Organization"],
     },
-    // {
-    //     poc: false,
-    //     workInProgress: false, //true when don't want online yet
-    // organization:  true,
-    //     lastName: "Centro Presente",
-    //     firstName: "",
-    //     middleName: "",
-    //     familyName: "",
-
-    //     title: `Community organization<br>Est. 1981`,
-    //     birthDate: "",
-    //     birthLocation: "",
-    //     deathDate: "",
-    //     deathLocation: "",
-    //     narrative: `
-
-    //         Established in 1981, Centro Presente is an immigrant-led,
-    //         community-based organization in Cambridge. It was originally created in response
-    //         to the influx of Central Americans fleeing U.S.-sponsored civil war but soon
-
-    //         developed into an active community organization with a wider mission to develop
-    //         adult education programs (ESL, literacy, and citizenship), youth leadership
-    //         development (Pintamos Nuestro Mundo), and immigration legal services. <br><br>It was
-    //         founded by Sister Rose Marie Cummins (then attached to Saint
-    //         Mary's Catholic
-    //         Church), members of the Salvadoran immigrant community, and members of the legal
-    //         community in Cambridge. The current address is 54 Essex Street in Central Square in Cambridge
-    //         but the youth program is based in East Somerville.
-    //        `,
-    //     otherNotes: "",
-    //     references: `Un Encuentro con Centro Presente (A discussion
-    //         at Cambridge Community Television) <br>
-    //         Centro Presente's 25th Anniversary and Holiday Fiesta <br>
-    //         Centro Presente's home page: <a href="http://www.cpresente.org" >http://www.cpresente.org</a>
-
-    //     `,
-    //     photos: ["images_bios/centro presente.png"],
-    //     photoTitles: [],
-    //     dateCreated: "prior to 2009",
-    //     dateUpdated: "",
-
-    //     photoHeights: [],
-    //     recentEditNotes:"",
-        // editors: "",
-    //     authors: "CWHP volunteers",
-    //     categories: ["Social/Philanthropic Organization"],
-    // },
+  
     {
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -709,7 +663,7 @@ c_bios = [
         dateUpdated: "01.30.2026",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes:"added 1994 Boston Globe quote",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Businesswoman", "Chef"],
@@ -1327,7 +1281,7 @@ c_bios = [
         photoPos: [3],
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes:"added references and photos",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: [""],
