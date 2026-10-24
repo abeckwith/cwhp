@@ -1412,6 +1412,9 @@ d_bios = [
         Legacy.com obit:<br>
        <a class="indent" href="https://www.legacy.com/us/obituaries/wickedlocal-cambridgechronicle/name/elizabeth-dunn-obituary?id=9724327"> https://www.legacy.com/us/obituaries/wickedlocal-cambridgechronicle/name/elizabeth-dunn-obituary?id=9724327</a>
        <br><br>
+       UMass/Boston collection:<br>
+       <a class="indent" href="https://archives.umb.edu/repositories/2/resources/420">https://archives.umb.edu/repositories/2/resources/420</a>
+       <Br><br>
        Harvard collection:<br>
         <a class="indent" href="https://hollis.harvard.edu/discovery/fulldisplay?context=L&vid=01HVD_INST:HVD2&lang=en&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&docid=alma990102513710203941">https://hollis.harvard.edu/discovery/fulldisplay?context=L&vid=01HVD_INST:HVD2&lang=en&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&docid=alma990102513710203941 </a>
        <Br><br>
