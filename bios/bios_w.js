@@ -1263,7 +1263,7 @@ w_bios = [
     {
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  true,
+        organization:  false,
         lastName: "Wong",
         firstName: "Lee",
         middleName: "Shee",
@@ -1396,6 +1396,74 @@ w_bios = [
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Restaurant Owner", "Community member"],
+    },
+     {
+        poc: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
+        lastName: "Whitney",
+        firstName: "Emma",
+        middleName: "Sargent",
+        familyName: "Barbour",
+
+        title: `Sunday school teacher`,
+        birthDate: "11.20.1843",
+        birthLocation: "Cambridge, Massachusetts",
+        deathDate: "12.27.1888",
+        deathLocation: "Cambridge, Massachusetts",
+        narrative: `
+
+        Emma Barbour lived in Cambridge during the Civil War. While she did not write articles about
+         the war or about life during that time, Whitney did receive, and then preserve, scores of 
+         letters she received from others in the fourteen years before she married William Henry Whitney. 
+        <br><Br>
+        These letters were found by author Shirley Blotnick Moskow's father-in-law in the 1950s at 
+        an antique show. In 1990, Moskow published a book ("Emma's World, An Intimate Look at Lives 
+        Touched by the Civil War Era"), in which she reproduces these letters in their original 
+        format (Moskow was herself born in Cambridge in 1935). The book reveals the details of 
+        everyday life, as well as the impact of the war, as described by letter-writers from both 
+        the north and the south.<br><Br>
+
+        Emma and her father (John Nathaniel Barbour) taught Sunday School at the old Cambridge 
+        Baptist Church and her father operated a grocery store (Barbour & Sons) on Main Street, while the family
+        lived at 124 Oxford Street. 
+        After marrying Whitney, Emma had four children. She is buried at Mt. Auburn Cemetery in Cambridge.
+                `,
+        otherNotes: "",
+        references: `
+       <i>The Cambridge Chronicle</i>, Volume 143, Number 50, 14 December 1989<br><br>
+        <i>Cambridge City Directory</i>, 1965 <br><Br>
+        Short preview of the book:<br>
+        <a class="indent" href="https://archive.org/details/emmasworldintima0000mosk/page/n327/mode/2up">https://archive.org/details/emmasworldintima0000mosk/page/n327/mode/2up</a>
+        <br><Br>
+        Abebooks:<br>
+        <a class="indent" href="https://www.abebooks.com/signed/Emmas-World-Intimate-Look-Lives-Touched/12006633779/bd">https://www.abebooks.com/signed/Emmas-World-Intimate-Look-Lives-Touched/12006633779/bd</a>
+        <br><br>
+        FamilySearch info:<br>
+        <a class="indent" href="https://ancestors.familysearch.org/en/KGX3-M1N/emma-sargent-barbour-1843-1888">https://ancestors.familysearch.org/en/KGX3-M1N/emma-sargent-barbour-1843-1888</a>
+        <br><br>
+        Patch.com article:<Br>
+        <a class="indent" href="https://patch.com/massachusetts/lexington/about-town-emmas-ongoing-world">https://patch.com/massachusetts/lexington/about-town-emmas-ongoing-world</a>
+        <br><br>
+        Boston Public Library info about the family:<Br>
+        <a class="indent" href="https://archives.bpl.org/agents/people/501">https://archives.bpl.org/agents/people/501</a>
+
+        `,
+        photos: [
+            "images_bios/barbour_emma.png","images_bios/barbour_news.png"
+        ],
+        photoTitles: [
+            "Moskow's book about Barbour<Br>Source: abebooks.com","Dec. 14, 1989<br>Moskow reached out through the Cambridge Chronicle to find a picture of Emma"
+        ],
+        dateCreated: "10.24.2026",
+        dateUpdated: "",
+        photoPos: [""],
+        photoHeights: [
+        ],
+        recentEditNotes:"",
+        editors: "",
+        authors: "Anthony Beckwith",
+        categories: ["Teacher/Educator", ""],
     },
     
 ];

@@ -770,8 +770,8 @@ p_bios = [
         familyName: "",
         
         title: `Photographer, teacher, author`,
-        birthDate: "1925",
-        birthLocation: "Chicago, Illinoi",
+        birthDate: "09.16.1925",
+        birthLocation: "Chicago, Illinois",
         deathDate: "05.23.2016",
         deathLocation: "Rockland, Maine",
         narrative: `
@@ -792,13 +792,12 @@ p_bios = [
         <a class='indent' href="https://www.flickr.com/photos/cambridgeroom/collections/72157673301978052">https://www.flickr.com/photos/cambridgeroom/collections/72157673301978052</a><br>
         CRLS Newspaper reflection from 2026:<Br>
         <a class='indent' href="https://registerforum.org/25216/arts-entertainment/olive-pierces-photos-document-a-younger-crls/">https://registerforum.org/25216/arts-entertainment/olive-pierces-photos-document-a-younger-crls/</a><br>
-
+        Birthdate from Voter Registration Lists, found on Ancestry.com
             `,
         photos: ["images_bios/OlivePierce.png"],
         photoTitles: ["Source: Register Forum article"],
         dateCreated: "10.15.2026",
-        dateUpdated:
- "",
+        dateUpdated:"",
         
         photoHeights: [],
         recentEditNotes:"",
