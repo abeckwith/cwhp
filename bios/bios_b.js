@@ -3147,7 +3147,7 @@ b_bios = [
         dateUpdated: "01.15.2026",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes:"added quotes from 2013 essay",
         editors: "Anthony Beckwith",
         authors: "Anthony Beckwith",
         categories: ["Activist", "Writer", "Teacher/Educator", "Journalist"],

@@ -301,7 +301,7 @@ d_bios = [
         dateUpdated: "01.09.2026",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes:"added 1953 quote from Darling",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Law Enforcement", "Military"],

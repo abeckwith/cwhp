@@ -878,7 +878,7 @@ l_bios = [
         dateUpdated: "01.01.2026",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes:"added 1997 quote from Leno about the LEAP project",
         editors: "Anthony Beckwith",
         authors: "Anthony Beckwith",
         categories: ["Activist", "Photographer"],

@@ -205,7 +205,7 @@ g_bios = [
         dateUpdated: "02.04.2026",
 
         photoHeights: ["350", "350", "460"],
-        recentEditNotes:"",
+        recentEditNotes:"added images",
         editors: "Anthony Beckwith",
         authors: "Kimm Topping",
         categories: ["Educational Institution/School", "School/Institution"],

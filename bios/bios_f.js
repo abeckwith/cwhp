@@ -269,7 +269,7 @@ f_bios = [
         dateUpdated: "01.11.2026",
         photoPos: [],
         photoHeights: ["", "580"],
-        recentEditNotes:"",
+        recentEditNotes:"added 1913 Houston Post quote about Frye",
         editors: "Anthony Beckwith",
         authors: "Robin Hein",
         categories: ["Artist"],

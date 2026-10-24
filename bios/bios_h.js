@@ -1087,7 +1087,7 @@ h_bios = [
             Huntington State Park. 
             
             <br><br>
-           <i> Art News</i> ran a 2014 article on the Columbia University's Wallach Art Gallery's exhhhibit “Goddess, 
+           <i> Art News</i> ran a 2014 article on the Columbia University's Wallach Art Gallery's exhibit “Goddess, 
             Heroine, Beast: Anna Hyatt Huntington's New York Sculpture, 1902-1936,” which helped to reintroduce 
             her art to the public:
            
@@ -1115,7 +1115,7 @@ h_bios = [
         dateUpdated: "01.01.2026",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes:"added 2014 Art News quote about Huntington",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Artist"],

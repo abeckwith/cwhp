@@ -134,7 +134,7 @@ function showRecents(num) {
             if (monthsDifference < RECENT_MONTHS_LIMIT) withinRange = true;
             else withinRange = false;
 
-            if(!thename.workInProgress && withinRange) recentCount++;
+            if (!thename.workInProgress && withinRange) recentCount++;
 
             //some titles are two lines - get rid of second line:
             brLoc = thename.title.toLowerCase().indexOf("<br>");
@@ -174,13 +174,17 @@ function showRecents(num) {
                 year,
                 dayNum,
                 withinRange,
-                wip
+                wip,
             }); //save data to sort before displaying
         });
     });
-
-    html =
-        "<Center><span class='nice-header2'>THESE " +
+    topLinks =
+        "<div id='recents-links' style='text-align:right'><a class='recents-links' href='#new-bios'>NEW BIOS</a><br>" +
+        "<a  class='recents-links' href='#latest-link'>RECENT UPDATES</a><br>" +
+        "<a  class='recents-links' href='#all-bios'>ALL, BY DATE</a></div><br>";
+    html ="<span id='new-bios' class='nice-header2'>"+
+        topLinks +
+        "<Center><Br><Br>THESE " +
         recentCount +
         " NEW FULL BIOS HAVE BEEN ADDED IN THE LAST " +
         RECENT_MONTHS_LIMIT +
@@ -247,10 +251,12 @@ function showRecents(num) {
                     if (thename.dateUpdated.charAt(0) == "0")
                         formattedDate =
                             "&nbsp;&nbsp;" + formattedDate.substring(1);
-                    if(thename.recentEditNotes !== "")
-                        ren = "<Br>&nbsp;&nbsp;&nbsp;&nbsp; (" + thename.recentEditNotes + ")<Br>";
-                    else
-                        ren = "";
+                    if (thename.recentEditNotes !== "")
+                        ren =
+                            "<Br>&nbsp;&nbsp;&nbsp;&nbsp; (" +
+                            thename.recentEditNotes +
+                            ")<Br>";
+                    else ren = "";
                     // html +=
                     html_build =
                         "<br></i>" +
@@ -267,7 +273,8 @@ function showRecents(num) {
                         fnm +
                         "</a></span>,<i> &nbsp;" +
                         strippedTitle +
-                        "</i>" + ren;
+                        "</i>" +
+                        ren;
                     recentUpdatesObjects.push({
                         html_build,
                         monthNum,
@@ -279,12 +286,12 @@ function showRecents(num) {
         });
     });
     html2 =
-        "<br><Br>Other recent entries can be found under <span id='latest-link'><a href='info.html'><b>Works in Progress</b> on our Info page</a></span>" + 
-        "<hr><br><br><Center><span>These " +
+        "<br><Br>Other recent entries can be found under <span id='latest-link'><a href='info.html'><b>Works in Progress</b> on our Info page</a></span>" +
+        "<hr>" + topLinks + "<Center><span id='updates'>These " +
         recentUpdatesCount +
         " bios have had significant <b>edits or updates</b> made to them in the last " +
         RECENT_MONTHS_LIMIT_EDITS +
-        " months:</span><br></center>";
+        " months:</span><Br></center>";
     //SORT ALGORITHM: first by year, then month, then day:
     r2 = recentUpdatesObjects.sort((a, b) => {
         // Primary sort: by age (ascending)
@@ -300,13 +307,11 @@ function showRecents(num) {
         return 0;
     });
     html3 =
-        "<br><Center><hr><span class='nice-header2'>ALL BIOS in reverse order by date:</span><br></center>";
+        "<br><Center><hr><span id='all-bios' class='nice-header2'>" + topLinks + "ALL BIOS, in reverse order by date:</span><br></center>";
 
     //PUT TOGETHER DISPLAY:
     r.forEach((element) => {
-       
-        if (element.withinRange &&   !element.wip)
-             html += element.html_build;
+        if (element.withinRange && !element.wip) html += element.html_build;
     });
     r2.forEach((element) => {
         html2 += element.html_build;
@@ -315,8 +320,7 @@ function showRecents(num) {
         html3 += element.html_build;
     });
 
-    additional =
-        " </span><Br><br>";
+    additional = " </span><Br><br>";
     if (html + html2 != "")
         document.getElementById("recents").innerHTML =
             html + html2 + additional + html3;
@@ -325,7 +329,8 @@ function showRecents(num) {
             "No new entries in the last " +
             RECENT_MONTHS_LIMIT +
             " months" +
-            additional + html3;
+            additional +
+            html3;
 }
 
 /**
@@ -611,8 +616,8 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
         atr = "<div>Author(s):<B> " + person.authors + "</b></div>";
     if (person.editors.trim() !== "")
         edtr = "<div>Editor(s): <B>" + person.editors + "</b>";
-    if(person.recentEditNotes !== "")
-        ren = "<Br>&nbsp;&nbsp;&nbsp;("+ person.recentEditNotes + ")";
+    if (person.recentEditNotes !== "")
+        ren = "<Br>&nbsp;&nbsp;&nbsp;(" + person.recentEditNotes + ")";
     else ren = "";
     //put it all together:
     html +=
@@ -621,7 +626,8 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
         "<br>" +
         atr +
         "<br>" +
-        lu + ren + 
+        lu +
+        ren +
         "<br>" +
         edtr +
         "<br><img src='images_util/logo_xsm.jpg' style='width:10vw'><br>" +

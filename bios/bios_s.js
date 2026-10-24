@@ -859,12 +859,12 @@ s_bios = [
         photos: ["images_bios/scott2.png", "images_bios/scott.jpg"],
         photoTitles: [],
         dateCreated: "01.31.2026",
-        dateUpdated: "02.05.2026",
+        dateUpdated: "",
 
         photoHeights: [],
         recentEditNotes:"",
         editors: "Anthony Beckwith",
-        authors: "Anthony Beckwith",
+        authors: "",
         categories: ["Teacher"],
     },
     {

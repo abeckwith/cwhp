@@ -77,7 +77,7 @@ t_bios = [
         dateUpdated: "01.10.2026",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes:"added quote from Dr. Olivieri about Taussig",
         editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Doctor", "Author"],
