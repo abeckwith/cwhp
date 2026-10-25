@@ -3131,7 +3131,8 @@ b_bios = [
 
         When her husband was diagnosed with Alzheimer's disease in 2020, she wrote essays to explore her
         perspective on their experience, freely sharing her "Learning to Care" series with others facing
-        caregiving challenges, at home and in memory care facilities.
+        caregiving challenges, at home and in memory care facilities. In 2026, she published a memoir, 
+        <i>Paper Keeper: Recovering My Story Thru Clues Left Behind</i>.
 
        
             `,
@@ -3139,7 +3140,9 @@ b_bios = [
         references: `Source: in-person interview and email exchange with Anthony Beckwith
         <br>Slave Narrative Essay at BarbaraBeckwith.net:<br>
         <a class='indent' href="https://www.barbarabeckwith.net/2013/10/01/why-read-slave-narratives-2/">https://www.barbarabeckwith.net/2013/10/01/why-read-slave-narratives-2/</a>
-
+        <br><Br>
+        Beckwith's memoir:<br>
+        <a class="indent" href="https://abeckwith.net/paperkeeper/">https://abeckwith.net/paperkeeper/</a>
         `,
         photos: ["images_bios/barbarabeckwith.jpg"],
         photoTitles: [],
