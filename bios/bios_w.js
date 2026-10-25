@@ -1458,7 +1458,7 @@ w_bios = [
         dateCreated: "10.24.2026",
         dateUpdated: "",
         photoPos: [""],
-        photoHeights: [
+        photoHeights: ["", "150"
         ],
         recentEditNotes:"",
         editors: "",
