@@ -330,4 +330,52 @@ r_bios = [
         categories: ["Activist", "Writer", "Editor"],
         
     },
+     {
+        poc: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
+        lastName: "Ronchetti",
+        firstName: "Alice",
+        middleName: "Mary",
+        familyName: "",
+        
+        title: `Librarian`,
+        birthDate: "05.24.1912",
+        birthLocation: "Boston, Massachusetts",
+        deathDate: "10.01.1986",
+        deathLocation: "Waltham, Massachusetts",
+        narrative: `
+        Alice Ronchetti's family moved from Boston to Cambridge when Alice was 9 years old. She went on to serve as a librarian 
+        for the Cambridge Public Library system for 38 years, from 1935 to 1973, working with countless community groups and 
+        schoolchildren. <br><Br>Ronchetti lived at 86 Middlesex Street in North Cambridge and worked at the East Cambridge (O'Connell) Branch 
+        and the Mount Auburn (Collins) Branch of the library. She is buried in the North Cambridge Catholic Cemetery. 
+        A collection at the Cambridge Room contains her papers and photographs that Ronchetti at work.    
+        `,
+        otherNotes: "",
+        references: ` 
+        Photograph collection:
+        <br>
+        <a class="indent" href="https://www.digitalcommonwealth.org/search/commonwealth:q237mb88f">https://www.digitalcommonwealth.org/search/commonwealth:q237mb88f</a>
+        <br><br>
+        The Cambridge Room blog post:<Br>
+        <a class="indent" href="https://thecambridgeroom.wordpress.com/2017/06/14/alice-m-ronchetti-papers-now-available/">https://thecambridgeroom.wordpress.com/2017/06/14/alice-m-ronchetti-papers-now-available/</a>
+        <br><br>
+        The Alice Ronchetti collection:<br>
+
+        <a class="indent" href="https://www.digitalcommonwealth.org/collections/commonwealth:m326pn01h">https://www.digitalcommonwealth.org/collections/commonwealth:m326pn01h</a>
+        <br><br>
+
+        <i>The Cambridge Chronicle</i>, 20 December 1973        `,
+        photos: ["images_bios/ronchetti.png", "images_bios/ronchetti.jpg"],
+        photoTitles: ["1935", "1950"],
+        dateCreated: "10.27.2026",
+        dateUpdated:"",
+        photoPos:[],
+        photoHeights: [],
+        recentEditNotes:"",
+        editors:"",
+        authors: "Anthony Beckwith",
+        categories: ["Librarian"],
+        
+    },
 ];
