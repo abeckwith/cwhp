@@ -378,4 +378,69 @@ r_bios = [
         categories: ["Librarian"],
         
     },
+     {
+        poc: false,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
+        lastName: "Regan",
+        firstName: "Jennifer",
+        middleName: "",
+        familyName: "Read",
+        
+        title: `Poet and artist`,
+        birthDate: "07.16.1934",
+        birthLocation: "Orchard Park, New York",
+        deathDate: "01.07.2016",
+        deathLocation: "Cambridge, Massachusetts",
+        narrative: `
+      Jennifer Regan was born near Buffalo, New York, and went on to graduate from Smith College in Northampton, Massachusetts. Regan 
+      returned to Buffalo, where she published poetry in numerous journals, and reviewed books for The Buffalo News. <br><Br>
+        After getting a divorce in 1988 Regan began to re-evaluate her life and turned to art to help her through this period, 
+        including poetry and quiltmaking.  She began to combine the two forms of expression into one, with poetry threaded into 
+        fabric. She created more than 100 of these so-called "stitched narratives," many of the latter ones using the city of 
+        Cambridge as inspiration (She moved to Cambridge in the early 1990s, singing in the chorus at both Harvard and Radcliffe College). 
+        Upon Regan's death, Tiffany Gaines wrote of her approach:
+        <blockquote>"Her artworks intertwine the Italian Renaissance, Freudian psychology, social issues, pop culture, religion and 
+        poetry to explore her changing role in society. Many stitched narratives reveal Regan’s sense of humor through their playful 
+        imagery and language. When her artworks dealt with socio-political subject matter, she sometimes called her them “subversive stitchery.” She created many pieces depicting Boston, Massachusetts, and often paid homage to post-impressionists like Matisse, Rousseau, and Seurat. "
+        </blockquote>
+
+        Regan had lived in Cambridge for over two decades at the time of her death, at one point on Putnam Avenue and later at 
+        992 Memorial Drive for almost a decade. Regan was a grandmother and had many joys in her life beyond her art. Her obituary 
+        explained that she...
+        <blockquote>"...enjoyed rooting for and was a fan of the Buffalo Bills and the New England Patriots. Jennifer also enjoyed 
+        the company of her many nieces and nephews, was for years active in civic and cultural affairs and was also a loyal and 
+        attentive neighbor. An inventive chef, she lovingly prepared fish caught by her family members, sometimes near Wellfleet,
+         MA, where she enjoyed spending part of every summer."
+        </blockquote>
+        Her involvement in the Cambridge is seen through selected listings in the Cambridge Chronicle:
+        <ul><li><b>October, 1993:</b> Regan had a show at Gallery 57 at the City Hall Annex called "Stitched Narratives."
+        </li><li><b>December, 1993:</b> Regan was appointed to the 40-member Cambridge Commission on the Arts for the 21st Cenrury.
+        </li><li><b>January, 1994:</b> Regan presented "Telling Stories with Fabric, Etc." at the children's room of the Cambridge public library.
+        </li><li><b>March, 1994:</b> Regan had a show at the Blacksmith Poetry House on Brattle Street entitled "Subversive Stitchery."</li></ul>
+        `,
+        otherNotes: "",
+        references: ` 
+       Ancestry.com results for <i>U.S. Phone and Address Directories</i>, 1995-1997, 1998-2002<Br>
+        <i>The Boston Globe</i>, October 21, 1993<Br>
+        <i>The Buffalo News</i>, Jan 30, 2016<Br>
+        <i>The Cambridge Chronicle</i>, 2 December 1993, 13 January 1994, 3 March 1994, 28 January 2016<Br>
+        Burchfield Penny Art Center:<br>
+        <a class="indent" href="https://burchfieldpenney.org/art-and-artists/people/profile:jennifer-regan/">https://burchfieldpenney.org/art-and-artists/people/profile:jennifer-regan/</a>
+        <br><br>
+        The Cambridge Room post:<br>
+        <a class="indent" href="https://thecambridgeroom.wordpress.com/2023/04/11/opening-reception-for-symbolism-and-subversion-an-exhibition-of-jennifer-regans-stitched-narratives/">https://thecambridgeroom.wordpress.com/2023/04/11/opening-reception-for-symbolism-and-subversion-an-exhibition-of-jennifer-regans-stitched-narratives/ </a>
+              `,
+        photos: ["images_bios/regan_jennifer.jpg"],
+        photoTitles: ["Read with one of her art pieces<Br>Source: Burchfield Art Center at Buffalo State University"],
+        dateCreated: "10.27.2026",
+        dateUpdated:"",
+        photoPos:[],
+        photoHeights: [],
+        recentEditNotes:"",
+        editors:"",
+        authors: "Anthony Beckwith",
+        categories: ["Poet","Artist"],
+        
+    },
 ];
