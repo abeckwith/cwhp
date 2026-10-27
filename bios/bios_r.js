@@ -394,10 +394,10 @@ r_bios = [
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
       Jennifer Regan was born near Buffalo, New York, and went on to graduate from Smith College in Northampton, Massachusetts. Regan 
-      returned to Buffalo, where she published poetry in numerous journals, and reviewed books for The Buffalo News. <br><Br>
-        After getting a divorce in 1988 Regan began to re-evaluate her life and turned to art to help her through this period, 
-        including poetry and quiltmaking.  She began to combine the two forms of expression into one, with poetry threaded into 
-        fabric. She created more than 100 of these so-called "stitched narratives," many of the latter ones using the city of 
+      returned to Buffalo, where she published poetry in numerous journals, and reviewed books for <i>The Buffalo News</i>. <br><Br>
+        After getting a divorce in 1988, Regan began to re-evaluate her life and turned to art to help her through this period, 
+        including engaging in feminist poetry and artisitic quiltmaking.  She began to combine the two forms of expression into one, with poetry threaded into 
+        fabric. Regan created more than 100 of these so-called "stitched narratives," some of which used the city of 
         Cambridge as inspiration (She moved to Cambridge in the early 1990s, singing in the chorus at both Harvard and Radcliffe College). 
         Upon Regan's death, Tiffany Gaines wrote of her approach:
         <blockquote>"Her artworks intertwine the Italian Renaissance, Freudian psychology, social issues, pop culture, religion and 
