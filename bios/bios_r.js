@@ -399,10 +399,12 @@ r_bios = [
         including engaging in feminist poetry and artisitic quiltmaking.  She began to combine the two forms of expression into one, with poetry threaded into 
         fabric. Regan created more than 100 of these so-called "stitched narratives," some of which used the city of 
         Cambridge as inspiration (She moved to Cambridge in the early 1990s, singing in the chorus at both Harvard and Radcliffe College). 
-        Upon Regan's death, Tiffany Gaines wrote of her approach:
+        Upon Regan's death, Tiffany Gaines of the Burchfield Penny Art Center wrote of her approach:
+
         <blockquote>"Her artworks intertwine the Italian Renaissance, Freudian psychology, social issues, pop culture, religion and 
         poetry to explore her changing role in society. Many stitched narratives reveal Regan’s sense of humor through their playful 
-        imagery and language. When her artworks dealt with socio-political subject matter, she sometimes called her them “subversive stitchery.” She created many pieces depicting Boston, Massachusetts, and often paid homage to post-impressionists like Matisse, Rousseau, and Seurat. "
+        imagery and language. When her artworks dealt with socio-political subject matter, she sometimes called her them 'subversive stitchery.'
+         She created many pieces depicting Boston, Massachusetts, and often paid homage to post-impressionists like Matisse, Rousseau, and Seurat. "
         </blockquote>
 
         Regan had lived in Cambridge for over two decades at the time of her death, at one point on Putnam Avenue and later at 
@@ -413,10 +415,10 @@ r_bios = [
         attentive neighbor. An inventive chef, she lovingly prepared fish caught by her family members, sometimes near Wellfleet,
          MA, where she enjoyed spending part of every summer."
         </blockquote>
-        Her involvement in the Cambridge is seen through selected listings in the Cambridge Chronicle:
+        Her involvement in the Cambridge community is seen through selected listings in the Cambridge Chronicle:
         <ul><li><b>October, 1993:</b> Regan had a show at Gallery 57 at the City Hall Annex called "Stitched Narratives."
         </li><li><b>December, 1993:</b> Regan was appointed to the 40-member Cambridge Commission on the Arts for the 21st Cenrury.
-        </li><li><b>January, 1994:</b> Regan presented "Telling Stories with Fabric, Etc." at the children's room of the Cambridge public library.
+        </li><li><b>January, 1994:</b> Regan presented "Telling Stories with Fabric, Etc." at the children's room of the Cambridge Public Library.
         </li><li><b>March, 1994:</b> Regan had a show at the Blacksmith Poetry House on Brattle Street entitled "Subversive Stitchery."</li></ul>
         `,
         otherNotes: "",
