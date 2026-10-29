@@ -128,6 +128,7 @@ function loadInfoPage(checkLinks) {
             });
         });
         localStorage.setItem("linkLetter", getNextLetter(letter));
+        
     }
     all_bios.forEach((bioLetterList) => {
         //go through each name for this letter:

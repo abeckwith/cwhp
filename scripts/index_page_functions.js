@@ -97,7 +97,7 @@ function setUpMainPage() {
                         getHref(bio.lastName, bio.middleName, bio.firstName) +
                         "'>" + bio.firstName +
                     " " + bio.lastName +
-                    "</a></span><br><span id='small-date'>(added " + formattedDate + ")"+
+                    ", " + bio.title + "</a></span><br><span id='small-date'>(added " + formattedDate + ")"+
                     "<br>Other recent entries can be found under <b>Works in Progress</b> on our <span id='latest-link'><a href='info.html'>Info page</a></span></span>";
 
                       document.getElementById("most-recent").innerHTML = mostRecentHMTL;
@@ -130,7 +130,7 @@ function setUpMainPage() {
                     "</a>'s <b>" +
                     yrs +
                     suffix +
-                    "</b> birthday! &#x1F381;";
+                    "</b> birthday! &#x1F381;<br>(" + bio.title +")";
             }
         });
     });
