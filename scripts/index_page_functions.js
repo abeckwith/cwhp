@@ -121,8 +121,9 @@ function setUpMainPage() {
                 //things like 112 don't end in "nd":
                 if (yrs % 100 < 14 && yrs % 100 > 10) suffix = "th";
                 //display birthday announcement:
+                beforeName = bio.title.substring(0,1).toLowerCase() + bio.title.substring(1);
                 document.getElementById("bdaydisplay").innerHTML =
-                    "<Center>&#x1F389; Today would be " +
+                    "<Center>&#x1F389; Today would be " + beforeName + " " +
                     link +
                     bio.firstName +
                     " " +
@@ -130,7 +131,7 @@ function setUpMainPage() {
                     "</a>'s <b>" +
                     yrs +
                     suffix +
-                    "</b> birthday! &#x1F381;<br>(" + bio.title +")";
+                    "</b> birthday! &#x1F381;<br>";
             }
         });
     });
