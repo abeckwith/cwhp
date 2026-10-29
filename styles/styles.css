@@ -29,16 +29,21 @@ body {
 
 .caption-overlay {
     position: absolute; /* Position the caption absolutely within its container */
-    bottom: -6vw; 
+    bottom: -6vw;
     /* Position it at the bottom of the image */
     left: 0;
     right: 0;
-    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent black background */
+    background-color: rgba(
+        0,
+        0,
+        0,
+        0.7
+    ); /* Semi-transparent black background */
     padding: 0.5vw;
-    margin-left:2.25vw;
-    margin-right:2.25vw;
+    margin-left: 2.25vw;
+    margin-right: 2.25vw;
     text-align: center;
-    font-size:0.8vw;
+    font-size: 0.8vw;
 }
 .abouts {
     margin-left: 10vw;
@@ -240,6 +245,9 @@ td > a {
     /* width: fit-content; */
     /* display: block; */
     align-content: center;
+}
+#dailybday, #bdaydisplay a {
+    color: blue;
 }
 .left {
     /* width: 200vh; */
@@ -550,11 +558,11 @@ a.search-buttons {
         font-size: 20px;
     }
     #small-date {
-    font-size: 2.5vw;
-}
-#latest-text{
-    font-size: 2.7vw;
-}
+        font-size: 2.5vw;
+    }
+    #latest-text {
+        font-size: 2.7vw;
+    }
     #bdaydisplay,
     #dailybday {
         font-size: 20px;
@@ -566,11 +574,10 @@ a.search-buttons {
         font-size: 5px;
     }
     .caption-overlay {
-   
-    padding: 0.2vw;
+        padding: 0.2vw;
 
-    font-size:1.8vw;
-}
+        font-size: 1.8vw;
+    }
     .flicker {
         font-size: 20px;
         margin-bottom: 10px;
@@ -689,8 +696,8 @@ a.search-buttons {
     #latest-link {
         font-size: 3vw;
     }
-    #expand-icon{
-        width:4vw;
+    #expand-icon {
+        width: 4vw;
     }
 }
 
