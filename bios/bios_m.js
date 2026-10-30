@@ -1405,5 +1405,70 @@ by Cate McQuaid,, April 12, 2017.
         authors: "Anthony Beckwith",
         categories: ["Teacher", "Civil Rights Activist"],
        },
+        {
+        poc: false,
+        workInProgress: false,
+        organization: false,
+        lastName: "Murray",
+        firstName: "Janet",
+        middleName: "",
+        familyName: "Rosenberg",
+
+        title: `Social worker, activist`,
+        birthDate: "04.16.1933",
+        birthLocation: "Boston, Massachusetts",
+        deathDate: "04.12.2024",
+        deathLocation: "Cambridge, Massachusetts",
+        narrative: `
+         
+
+        In the 1970s and 1980s, Janet Murray became involved as a parent in citywide education issues. After growing up in Mattapan, 
+        she moved to Cambridge and was a regular at City Council and School Committee meetings and wrote numerous Cambrige Chronicle 
+        letters to the editor on a variety of school and affordable housing issues or in support of political candidates. She also 
+        served on the Cambridge YWCA board of the directors. By the end of the 1980s, Murray had found her passion around the issue 
+        of hunger in Cambridge. By 1988, she was working with Food For Free, which was part of the Food Pantry network. She also 
+        served on the Working Committee for a Cambridge Rainbow, penning many more letters to the editor decrying local violance 
+        and the federal governments involvement in wars and speaking out against racism and injustice, as well as the
+       Cambridgeport Central America Committee.<Br><Br>
+
+        Murray, who lived in Cambidgeport at 115 Pearl Street, in 1998 spoke of how the Food For Free  organization (for which 
+        she served as co-director at the time) worked:
+        <blockquote>
+        We have a commitment to make sure every program ahs food. We try to get everything donated, but sometimes, when a client
+         has special need, we'll have to pay for something. But about 90 percent of our food is donated to us. Otherwise, we couldn't 
+         afford to do this.
+        </blockquote>
+
+        At the time, local farms and stores donated food to their organization, including Bread & Circus, Carberry's, Trader 
+        Joe's, Hi-Rise Bread, and Iggy's Bread. Murray also served as produce manager for the Cambridge Food Coop.<br><Br>
+
+        Murry received the Peace & Justice award from the City of Cambridge  in 1995.            `,
+        otherNotes: "",
+        references: `
+        Legacy.com obituary:<br>
+        <a class="link" href="https://www.legacy.com/us/obituaries/bostonglobe/name/janet-murray-obituary?id=54978892">https://www.legacy.com/us/obituaries/bostonglobe/name/janet-murray-obituary?id=54978892</a>
+        <br><br>
+        Cambridge Day articles:<br>
+        <a class="link" href="hhttps://www.cambridgeday.com/2024/05/04/food-for-frees-janet-murray-to-be-remembered-at-a-june-15-celebration-of-life-in-harvard-square/">hhttps://www.cambridgeday.com/2024/05/04/food-for-frees-janet-murray-to-be-remembered-at-a-june-15-celebration-of-life-in-harvard-square/</a><Br>
+            <Br><br>
+        <a class="link" href="hhttps://www.cambridgema.gov/-/media/files/peacecommission/peaceandjusticeawardees19952006.pdf">hhttps://www.cambridgema.gov/-/media/files/peacecommission/peaceandjusticeawardees19952006.pdf</a><br>
+ <Br><br>
+ Food for Free website:<Br>
+        <a class="link" href="hhttps://foodforfree.org/tag/cambridge/">hhttps://foodforfree.org/tag/cambridge/</a>
+ <Br><br>
+        <i>The Cambridge Chronicle</i>30 April 1981, 10 November 1988, 17 November 1988 ,28 February 1991, 20 August 1998, 24 October 2013    
+
+            `,
+        photos: ["images_bios/Murray.png"],
+        photoTitles: ["Source: Cambridge Chronicle, 24 Oct 2013<br>The Food Heroes Committee honored seven people for their work towards \"fair, healthy, and sustainable food in the city\""],
+        dateCreated: "10.30.2026",
+        dateUpdated: "",
+
+        photoHeights: ["350"],
+        recentEditNotes:"",
+        editors: "",
+        authors: "Anthony Beckwith",
+        categories: ["Social worker", "Activist"],
+       },
     ];
     
