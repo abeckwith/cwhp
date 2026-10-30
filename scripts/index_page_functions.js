@@ -97,8 +97,8 @@ function setUpMainPage() {
                         getHref(bio.lastName, bio.middleName, bio.firstName) +
                         "'>" + bio.firstName +
                     " " + bio.lastName +
-                    ", " + bio.title + "</a></span><br><span id='small-date'>(added " + formattedDate + ")"+
-                    "<br>Other recent entries can be found under <b>Works in Progress</b> on our <span id='latest-link'><a href='info.html'>Info page</a></span></span>";
+                    ", " + bio.title + "</a></span><br><span id='small-date'>(added " + formattedDate + ")";
+                    // "<br>Other recent entries can be found under <b>Works in Progress</b> on our <span id='latest-link'><a href='info.html'>Info page</a></span></span>";
 
                       document.getElementById("most-recent").innerHTML = mostRecentHMTL;
                 }   
