@@ -456,7 +456,7 @@ In
         Brandeis University, the Female Liberation office on Massachusetts Avenue in Central Square, and at Sword in the Stone 
         Coffeehouse in Boston. In the 1990s she held a poetry reading at Stone Soup at T.T. the Bear's Place in Central Square.<br><br>
 
-        As a poet and astrologer (she was also employed as a typist), Fenton was, for a time, on general relief welfare and was 
+        As a poet and astrologer (she was also employed as a typist), Fenton was, for a time, receiving public assistance and was 
         active with the organization Coalition for Basic Human Needs, a Cambridge-based women-led organization which was created 
         in 1978 to lobby for welfare rights. <br><br>
 
