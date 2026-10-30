@@ -439,7 +439,7 @@ In
         middleName: "",
         familyName: "",
 
-        title: `Poet and astrologer`,
+        title: `Poet, astrologer, activist`,
         birthDate: "06.22.1943",
         birthLocation: "New York, New York",
         deathDate: "06.22.2021",
@@ -466,7 +466,6 @@ In
         Deep blue sunsets melt into Riverside.<br>
         I have my freedom and my body's statistics<Br>
         In a brown folder. Nobody steals anything from me.<br>
-        Poet, astrologer, activist
         <hr>
 
     
