@@ -430,5 +430,79 @@ In
         authors: "Anthony Beckwith",
         categories: ["Teacher", "Writer"],
     },
+       {
+        poc: true,
+        workInProgress: false, //true when don't want online yet
+        organization:  false,
+        lastName: "Fenton",
+        firstName: "Elizabeth",
+        middleName: "",
+        familyName: "",
+
+        title: `Poet and astrologer`,
+        birthDate: "06.22.1943",
+        birthLocation: "New York, New York",
+        deathDate: "06.22.2021",
+        deathLocation: "Cambridge, Massachusetts",
+        narrative: `
+            Elizabeth Fenton grew up in Minneapolis, Minnesota, but by 1972 had settled in Cambridge, where she 
+            remained for the next 50 years.<br><br>
+
+        Fenton was an activist, poet, and astrologer. A book of her poetry, entitled <i>Public Testimony</i>, was published in 
+        1975 by <a href="https://cwhp.cambridgema.gov/bios.html?last=AliceJamesBooks&middle=&first=">Alice James Books</a>, a 
+        Cambridge-based non-profit cooperative poetry press. Prior to that publication, she had published her work in local periodicals like <i>The Boston Phoenix</i> (where she also contributed columns), <i>The Harvard Advocate</i> (which began publication in 1866 and is still publishing in Cambridge today), and the feminist magazine <i>The Second Wave</i>, amongst others.<br><br>
+
+        Fenton gave poetry readings in the 1970s and 1980s at various local venues, like 100 Flowers Bookstore on Pearl Street, 
+        Brandeis University, the Female Liberation office on Massachusetts Avenue in Central Square, and at Sword in the Stone 
+        Coffeehouse in Boston. In the 1990s she held a poetry reading at Stone Soup at T.T. the Bear's Place in Central Square.<br><br>
+
+        As a poet and astrologer (she was also employed as a typist), Fenton was, for a time, on general relief welfare and was 
+        active with the organization Coalition for Basic Human Needs, a Cambridge-based women-led organization which was created 
+        in 1978 to lobby for welfare rights. <br><br>
+
+        In her poem <i>Testimony</i>, Fenton wrote:
+        <blockquote>
+        There's this blowy air here.<br>
+        Deep blue sunsets melt into Riverside.<br>
+        I have my freedom and my body's statistics<Br>
+        In a brown folder. Nobody steals anything from me.<br>
+        Poet, astrologer, activist
+        <hr>
+
+    
+
+
+         
+         
+    `,
+        otherNotes: "",
+        references: `
+        <i>The Boston Phoenix</i>, June 19, 1973.<br>
+        <i>The Boston Globe</i> Feb. 19, 1976, Oct 16, 1980,  April 27, 1991,  Sep 07, 1997<br>
+        <i>The Cambridge Chronicle</i>, 11 January 1973, 19 February 1976<Br>
+
+        <i>Medium</i> article about anti-poverty organizations:<Br>
+        <a class="indent" href="https://medium.com/special-collections/grassroot-organisations-in-combatting-poverty-in-1980s-boston-a07fc2f57684">https://medium.com/special-collections/grassroot-organisations-in-combatting-poverty-in-1980s-boston-a07fc2f57684</a>
+        <br><Br>
+        <i>Star Tribune</i> obituary:<Br>
+        <a class="indent" href="https://obituaries.startribune.com/obituary/elizabeth-fenton-1090158202">https://obituaries.startribune.com/obituary/elizabeth-fenton-1090158202</a>
+        <br><br>
+        Findagrave.com:<Br>
+        <a class="indent" href="https://www.findagrave.com/memorial/237507686/elizabeth-fenton">https://www.findagrave.com/memorial/237507686/elizabeth-fenton</a>
+        
+
+`,
+        photos: [ "images_bios/fenton.png", "images_bios/fenton_cover.png"],
+        photoTitles: ["Source: back cover of <i>Public Testimony</i>, photo by Patricia Walsh", "Source: Cambridge Public Library"],
+        dateCreated: "10.30.2026",
+        dateUpdated: "",
+        photoPos: [""],
+        photoHeights: [""],
+        recentEditNotes:"",
+        editors: "",
+        authors: "Anthony Beckwith",
+        categories: ["Poet", "Astrologer"],
+    },
   
 ];
+
