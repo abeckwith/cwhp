@@ -184,11 +184,10 @@ function showRecents(num) {
         "<a  class='recents-links' href='#all-bios'>ALL, BY DATE</a></div><br>";
     html ="<span id='new-bios' class='nice-header2'>"+
         topLinks +
-        "<Center><Br><Br>THESE " +
-        recentCount +
-        " NEW FULL BIOS HAVE BEEN ADDED IN THE LAST " +
+        "<Center><Br><Br>Profiles of the " + recentCount + " women/organizations listed here " +
+        " have been <b> added in the last " +
         RECENT_MONTHS_LIMIT +
-        " MONTHS:</span><br></center>";
+        " months:</b></span><br></center>";
 
     /*
      * NEXT: RECENT EDITS
