@@ -1089,7 +1089,7 @@ s_bios = [
        Cambridge Black History Project profile:<br>
         <a class="indent" href="https://cambridgeblackhistoryproject.org/project/takako-grace-sato-salvi/">https://cambridgeblackhistoryproject.org/project/takako-grace-sato-salvi/</a>
         <Br><Br> 
-        Cambridge Day araticle:<br>
+        Cambridge Day article:<br>
         <a class="indent" href="https://www.cambridgeday.com/2024/02/12/these-black-cambridge-trailblazers-were-first-ladies-of-nursing-and-song/">https://www.cambridgeday.com/2024/02/12/these-black-cambridge-trailblazers-were-first-ladies-of-nursing-and-song/</a>
         <br><br>
         Cambridge Room papers:<Br>

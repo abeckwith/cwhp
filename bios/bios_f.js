@@ -477,8 +477,8 @@ In
         otherNotes: "",
         references: `
         <i>The Boston Phoenix</i>, June 19, 1973.<br>
-        <i>The Boston Globe</i> Feb. 19, 1976, Oct 16, 1980,  April 27, 1991,  Sep 07, 1997<br>
-        <i>The Cambridge Chronicle</i>, 11 January 1973, 19 February 1976<Br>
+        <i>The Boston Globe</i>, Feb. 19, 1976, Oct 16, 1980,  April 27, 1991,  Sep 07, 1997.<br>
+        <i>The Cambridge Chronicle</i>, 11 January 1973, 19 February 1976.<Br>
 
         <i>Medium</i> article about anti-poverty organizations:<Br>
         <a class="indent" href="https://medium.com/special-collections/grassroot-organisations-in-combatting-poverty-in-1980s-boston-a07fc2f57684">https://medium.com/special-collections/grassroot-organisations-in-combatting-poverty-in-1980s-boston-a07fc2f57684</a>

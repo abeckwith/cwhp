@@ -1446,17 +1446,19 @@ by Cate McQuaid,, April 12, 2017.
         otherNotes: "",
         references: `
         Legacy.com obituary:<br>
-        <a class="link" href="https://www.legacy.com/us/obituaries/bostonglobe/name/janet-murray-obituary?id=54978892">https://www.legacy.com/us/obituaries/bostonglobe/name/janet-murray-obituary?id=54978892</a>
-        <br><br>
+        <a class="indent" href="https://www.legacy.com/us/obituaries/bostonglobe/name/janet-murray-obituary?id=54978892">https://www.legacy.com/us/obituaries/bostonglobe/name/janet-murray-obituary?id=54978892</a>
+        <br><br><br>
         Cambridge Day articles:<br>
-        <a class="link" href="hhttps://www.cambridgeday.com/2024/05/04/food-for-frees-janet-murray-to-be-remembered-at-a-june-15-celebration-of-life-in-harvard-square/">hhttps://www.cambridgeday.com/2024/05/04/food-for-frees-janet-murray-to-be-remembered-at-a-june-15-celebration-of-life-in-harvard-square/</a><Br>
-            <Br><br>
-        <a class="link" href="hhttps://www.cambridgema.gov/-/media/files/peacecommission/peaceandjusticeawardees19952006.pdf">hhttps://www.cambridgema.gov/-/media/files/peacecommission/peaceandjusticeawardees19952006.pdf</a><br>
- <Br><br>
+        <a class="indent" href="https://www.cambridgeday.com/2024/05/04/food-for-frees-janet-murray-to-be-remembered-at-a-june-15-celebration-of-life-in-harvard-square/">hhttps://www.cambridgeday.com/2024/05/04/food-for-frees-janet-murray-to-be-remembered-at-a-june-15-celebration-of-life-in-harvard-square/</a><Br>
+            <Br><br><br>
+            Peace and Justice Awards:<Br>
+        <a class="indent" href="https://www.cambridgema.gov/-/media/files/peacecommission/peaceandjusticeawardees19952006.pdf">hhttps://www.cambridgema.gov/-/media/files/peacecommission/peaceandjusticeawardees19952006.pdf</a><br>
+ <Br><br><br>
  Food for Free website:<Br>
-        <a class="link" href="hhttps://foodforfree.org/tag/cambridge/">hhttps://foodforfree.org/tag/cambridge/</a>
- <Br><br>
-        <i>The Cambridge Chronicle</i>30 April 1981, 10 November 1988, 17 November 1988 ,28 February 1991, 20 August 1998, 24 October 2013    
+        <a class="indent" href="https://foodforfree.org/tag/cambridge/">hhttps://foodforfree.org/tag/cambridge/</a>
+ <Br><br><br>
+        <i>The Cambridge Chronicle:</i><Br>&nbsp;&nbsp;&nbsp;30 April 1981<Br>&nbsp;&nbsp;&nbsp;10 November 1988<Br>&nbsp;&nbsp;&nbsp;17 November 1988
+        <Br>&nbsp;&nbsp;&nbsp;28 February 1991<Br>&nbsp;&nbsp;&nbsp;20 August 1998<Br>&nbsp;&nbsp;&nbsp;24 October 2013    
 
             `,
         photos: ["images_bios/Murray.png"],

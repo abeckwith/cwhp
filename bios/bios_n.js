@@ -55,9 +55,9 @@ n_bios = [
             2003.<br>
             
            <i>Queer History Boston Digital Archives:</i><br>
-           <a class='indent' href="https://historyproject.omeka.net/items/show/872" >https://historyproject.omeka.net/items/show/872</a>Br>
+           <a class='indent' href="https://historyproject.omeka.net/items/show/872" >https://historyproject.omeka.net/items/show/872</a><Br>
             Image from wikipedia.com:<br>
-            <a class='indent' href="https://commons.m.wikimedia.org/" >https://commons.m.wikimedia.org/</a>
+            <a class='indent' href="https://commons.m.wikimedia.org/">https://commons.m.wikimedia.org/</a>
         `,
         photos: ["images_bios/new_words.jpg"],
         photoTitles: [],
