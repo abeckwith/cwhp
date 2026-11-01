@@ -332,6 +332,10 @@ e_bios = [
     Tuberculosis Sanitorium (part of the Cambridge Auxiliary). She also served on the Advisory Committee for the Fiftieth Jubilee
      Celebration of Congregation Beth Isarel in Cambridge. She lived at 46 Fayette Street, a half block away from the S&S (the name 
      of the restaurant came from the Yiddish word for eat: &#1506;&#1505;&#1503; (pronounced "esn" or "es"; so S&S is "eat and eat").
+    <br><Br>
+      <i>This profile is a work in progress.<Br>
+              If you are intested in helping to tell the stories of Cambridge women like Edelstien, <a href="https://cwhp.cambridgema.gov/about.html">consider joining us as
+            a volunteer</a> </i>
 
            `,
         otherNotes: "",
@@ -343,7 +347,7 @@ e_bios = [
         Cambridge Day article about S&S:<Br>
         <a class="indent" href="https://www.cambridgeday.com/2026/05/21/ss-restaurant-turnover/">https://www.cambridgeday.com/2026/05/21/ss-restaurant-turnover/</a>
                <br><Br>
-               HistoryCambridge article:<Br>
+               HistoryCambridge article about S&S:<Br>
                <a class="indent" href="https://historycambridge.org/articles/s-s-restaurant/">https://historycambridge.org/articles/s-s-restaurant/</a> 
 
 
