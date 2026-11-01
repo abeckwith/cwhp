@@ -1,5 +1,6 @@
 p_bios = [
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -72,6 +73,7 @@ p_bios = [
         categories: ["Community Leader", "Nurse"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -146,6 +148,7 @@ p_bios = [
         categories: ["Activist"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -216,6 +219,7 @@ p_bios = [
         categories: ["Scientist"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -315,6 +319,7 @@ p_bios = [
         categories: ["Reformer", "Author"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -414,6 +419,7 @@ p_bios = [
         categories: ["Physical Therapist ", "Volunteer"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -510,6 +516,7 @@ p_bios = [
         categories: ["Social worker", "Volunteer", "Teacher/Educator"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -598,6 +605,7 @@ p_bios = [
         categories: ["Musician", "Ethnomusicologist"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -714,6 +722,7 @@ p_bios = [
         categories: ["Nurse", "Community Activist"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: true,
         organization: false,
@@ -761,6 +770,7 @@ p_bios = [
         categories: ["Teacher/Educator", "School Principal", "Group Therapist"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: true, 
         organization:  false,

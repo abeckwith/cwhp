@@ -1,5 +1,6 @@
 u_bios = [
        {
+        addressFound: false,
         poc: false,
         workInProgress: true,
         organization: false,

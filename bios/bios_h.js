@@ -1,5 +1,6 @@
 h_bios = [
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -65,6 +66,7 @@ h_bios = [
         categories: ["Activist", "Author"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -128,6 +130,7 @@ h_bios = [
         categories: ["Doctor"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -197,6 +200,7 @@ h_bios = [
         categories: ["Businesswoman"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -249,6 +253,7 @@ h_bios = [
     },
 
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -334,6 +339,7 @@ h_bios = [
         categories: ["Teacher/Educator", "Psychiatrist"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -406,6 +412,7 @@ h_bios = [
         categories: ["Clergy", "Teacher/Educator"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -470,6 +477,7 @@ h_bios = [
         categories: ["Teacher/Educator", "Editor"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -536,6 +544,7 @@ h_bios = [
         categories: ["Acquitted of Witchcraft"],
     },
     {
+        addressFound: false,
         poc: true,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -635,6 +644,7 @@ h_bios = [
         categories: ["Writer"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -700,6 +710,7 @@ h_bios = [
         categories: ["Author"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -862,6 +873,7 @@ h_bios = [
         categories: ["Architect"],
     },
     {
+        addressFound: false,
         poc: true,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -953,6 +965,7 @@ h_bios = [
         categories: ["Lawyer", "Teacher/Educator", "Businesswoman"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -1042,6 +1055,7 @@ h_bios = [
         categories: ["Activist", "Refugee", "Scientist"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -1121,6 +1135,7 @@ h_bios = [
         categories: ["Artist"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -1237,6 +1252,7 @@ h_bios = [
         categories: ["Sportswoman", "Volunteer"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -1287,6 +1303,7 @@ h_bios = [
         categories: ["Astronomer"],
     },
        {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -1388,6 +1405,7 @@ h_bios = [
         categories: ["Nurse", "Dresskmaker"],
     },
        {
+        addressFound: false,
         poc: false,
         workInProgress: true,
         organization: false,

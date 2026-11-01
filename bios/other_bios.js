@@ -13,6 +13,7 @@
    
    other_bios = [
    {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -77,6 +78,7 @@
         categories: ["Sportswoman", "Teacher/Educator"],
     },
         {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -131,6 +133,7 @@
         categories: ["Community Leader"],
     },
         {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -189,6 +192,7 @@
         categories: ["Author"],
     },
      {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -246,6 +250,7 @@ Image from <a href="https://en.wikipedia.org/wiki/Charlotte_Cushman" >https://en
         categories: ["Actress"],
     },
        {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -294,6 +299,7 @@ Image from <a href="https://en.wikipedia.org/wiki/Charlotte_Cushman" >https://en
         categories: ["Dancer"],
     },
         {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -359,6 +365,7 @@ Image from <a href="https://en.wikipedia.org/wiki/Charlotte_Cushman" >https://en
         categories: ["Architect"],
     },
         {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,

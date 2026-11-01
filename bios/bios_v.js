@@ -1,5 +1,6 @@
 v_bios = [
     {
+        addressFound: false,
         poc: true,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -55,6 +56,7 @@ v_bios = [
         categories: ["Activist"],
     },
     {
+        addressFound: false,
         poc: true,
         workInProgress: false, //true when don't want online yet
         organization:  false,

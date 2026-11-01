@@ -1,5 +1,6 @@
 s_bios = [
     {
+        addressFound: false,
         poc: true,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -75,6 +76,7 @@ s_bios = [
         categories: ["Community Leader", "Teacher/Educator"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -182,6 +184,7 @@ s_bios = [
         categories: ["Refugee", "Poet", "Author"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -251,6 +254,7 @@ s_bios = [
         categories: ["Artist", "Author"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -298,6 +302,7 @@ s_bios = [
         categories: ["Astronomer"],
     },
     {
+        addressFound: false,
         poc: true,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -378,6 +383,7 @@ s_bios = [
         categories: ["Activist", "Child Care Provider"],
     },
     {
+        addressFound: false,
         poc: true,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -501,6 +507,7 @@ s_bios = [
         ],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -598,6 +605,7 @@ s_bios = [
         categories: ["Author"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -677,6 +685,7 @@ s_bios = [
         categories: ["Writer", "Architect"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -731,6 +740,7 @@ s_bios = [
         categories: ["Astronomer"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -797,6 +807,7 @@ s_bios = [
         categories: ["Community Leader", "Political Leader"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -868,6 +879,7 @@ s_bios = [
         categories: ["Teacher"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -954,6 +966,7 @@ s_bios = [
         categories: ["Author", "Copywriter"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -1040,6 +1053,7 @@ s_bios = [
         categories: ["Bookstore owner", "Businesswoman"],
     },
      {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: false,

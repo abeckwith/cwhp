@@ -1,5 +1,6 @@
 n_bios = [
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  true,
@@ -71,6 +72,7 @@ n_bios = [
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
     },
        {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -192,6 +194,7 @@ n_bios = [
         categories: ["Activist", "Nun"],
     },
      {
+        addressFound: false,
         poc: false,
         workInProgress: true,
         organization: false,
@@ -240,6 +243,7 @@ n_bios = [
         categories: ["Teacher/Educator", "Photographer", "Curator", "Sociologist"],
     },
      {
+        addressFound: false,
         poc: false,
         workInProgress: true,
         organization: false,
@@ -286,6 +290,7 @@ n_bios = [
         categories: ["Teacher/Educator"],
     },
      {
+        addressFound: false,
         poc: false,
         workInProgress: true,
         organization: false,

@@ -1,5 +1,6 @@
 d_bios = [
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -50,6 +51,7 @@ d_bios = [
         categories: ["Historian/History Project"],
     },
     {
+        addressFound: false,
         poc: true,
         workInProgress: false, //true when don't want online yet
         organization:  true,
@@ -98,6 +100,7 @@ d_bios = [
         categories: ["Educational Institution/School"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -166,6 +169,7 @@ d_bios = [
     },
 
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -225,6 +229,7 @@ d_bios = [
         categories: ["Businesswoman", "Community Leader", "Volunteer"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -307,6 +312,7 @@ d_bios = [
         categories: ["Law Enforcement", "Military"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  true,
@@ -383,6 +389,7 @@ d_bios = [
         categories: ["Feminist Organization"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -488,6 +495,7 @@ d_bios = [
         categories: ["Environmentalist", "Political Leader", "Journalist"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -602,6 +610,7 @@ d_bios = [
         categories: ["Activist", "Musician", "Author"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -665,6 +674,7 @@ d_bios = [
         categories: [""],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -740,6 +750,7 @@ d_bios = [
         categories: ["Poet"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -813,6 +824,7 @@ d_bios = [
         categories: ["Psychiatrist", "Refugee"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -907,6 +919,7 @@ d_bios = [
         categories: ["Teacher/Educator", "Reformer"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -968,6 +981,7 @@ d_bios = [
         categories: [""],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -1021,6 +1035,7 @@ d_bios = [
         categories: ["Scientist"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -1101,6 +1116,7 @@ d_bios = [
         categories: ["Activist", "Teacher/Educator", "Writer"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -1169,6 +1185,7 @@ d_bios = [
         categories: ["Businesswoman"],
     },
     {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -1262,6 +1279,7 @@ d_bios = [
         categories: ["Church member"],
     },
         {
+        addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -1332,6 +1350,7 @@ d_bios = [
         categories: ["Church member", "Cook", "Volunteer"],
     },
      {
+        addressFound: false,
         poc: false,
         workInProgress: true,
         organization: false,
@@ -1380,6 +1399,7 @@ d_bios = [
         categories: ["Photographer", "Author"],
     },
      {
+        addressFound: false,
         poc: false,
         workInProgress: true,
         organization: false,
