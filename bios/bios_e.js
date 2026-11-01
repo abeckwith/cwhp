@@ -307,7 +307,62 @@ e_bios = [
         authors: "Joanna Shea O'Brien",
         categories: ["Doctor"],
     },
+ {
+        poc: true,
+        workInProgress: true, //true when don't want online yet
+        organization:  false,
+        lastName: "Edelstein",
+        firstName: "Rebecca",
+        middleName: "",
+        familyName: "Seagal",
+        
+        title: `Restaurant owner, communnity volunteer`,
+        birthDate: "02.12.1875,",
+        birthLocation: "Poland",
+        deathDate: "12.12.1963",
+        deathLocation: "Lynn, Massachusetts",
+        narrative: `
+ 
+        Rebecca “Ma” Edelstein opened the S&S Restaurant and Deli on Cambridge Street in 1919, after having emigrated from Poland in the 
+        previous decade (the restaurant would eventually move two more times, but always stayed on Cambridge Street). The restaurant quickly became an Inman Square institution and a welcoming and comfortable place for 
+        breakfast, lunch, or dinner with family or friends. The fact that the restaurant stayed open for 107 years is a testament 
+        to Edelstein's work and her connections with the community.<Br><Br>
 
+    Edelstein was also a lifetime member of the Cambridge Hebrew Women's Aid Society and was President of the New England Jewish 
+    Tuberculosis Sanitorium (part of the Cambridge Auxiliary). She also served on the Advisory Committee for the Fiftieth Jubilee
+     Celebration of Congregation Beth Isarel in Cambridge. She lived at 46 Fayette Street, a half block away from the S&S (the name 
+     of the restaurant came from the Yiddish word for eat: &#1506;&#1505;&#1503; (pronounced "esn" or "es"; so S&S is "eat and eat").
+
+           `,
+        otherNotes: "",
+        references: `
+        <i>The Boston Globe</i>, Dec. 13, 1963.<Br>
+        <i>Cambridge City Directory</i>, 1944.<Br>
+        Naturalization records Sept. 26, 1931.<Br>
+        <i>The Cambridge Chronicle</i>, 24 July 1941, 22 October 1942, 22 March 1951, 21 May 1964.<br>
+        Cambridge Day article about S&S:<Br>
+        <a class="indent" href="https://www.cambridgeday.com/2026/05/21/ss-restaurant-turnover/">https://www.cambridgeday.com/2026/05/21/ss-restaurant-turnover/</a>
+               <br><Br>
+               HistoryCambridge article:<Br>
+               <a class="indent" href="https://historycambridge.org/articles/s-s-restaurant/">https://historycambridge.org/articles/s-s-restaurant/</a> 
+
+
+
+
+
+    
+        `,
+        photos: ["images_bios/edelstein.png"],
+        photoTitles: ["Source: findagrave.com<Br> From the menu of the S&S Restaurant"],
+        dateCreated: "11.01.2026",
+        dateUpdated: "",
+        photoPos: [],
+        photoHeights: [],
+        recentEditNotes:"",
+        editors:"",
+        authors: "Anthony Beckwith",
+        categories: ["Restaurant owner", "Volunteer"],
+    },
 
    
 
