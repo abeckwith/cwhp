@@ -1039,4 +1039,77 @@ s_bios = [
         authors: "Anthony Beckwith",
         categories: ["Bookstore owner", "Businesswoman"],
     },
+     {
+        poc: false,
+        workInProgress: false, //true when don't want online yet
+        organization: false,
+        lastName: "Salvi",
+        firstName: "Takako",
+        middleName: "Grace",
+        familyName: "Sato",
+
+        title: `Nurse, educator, and counselor`,
+        birthDate: "05.16.1919",
+        birthLocation: "Cambridge, Massachusetts",
+        deathDate: "12.29.2020",
+        deathLocation: "Cambridge, Massachusetts",
+        narrative: `
+       
+            Takako Salvi was a third-generation Cantagbridian, attending the Webster School, Cambridge High and Latin School, and 
+            going on to become the first Black nursing student at Cambridge City Hospital after being rejected because of her race.
+             Her mother fought back against the discrimination, insisting she be allowed entry. 
+        <Br><Br>
+        Takako later earned a B.S. in Education, a Master's degree in Counseling, and a PhD in Applied Child Development from MIT. 
+        She worked with Mt. Auburn Hospital, the Lesley Ellis School and Boston's Floating Hospital and was a board member at the
+         Museum of African American History.
+
+        <br><Br>
+        Takako grew up at 194 Franklin Street in Central Square. At age 13, while attending the Webster School, Takako was in the
+         Junior Tri-Code Club of the "Girl Reserve" department and acted and tap-danced with piano accompaniment. She graduated
+          from CHLS in 1936, the first time the high school conducted the graduation ceremonies at Harvard Stadium (between 10,000 
+          and 12,000 people show up to celebrate the nearly 600 graduates). 
+
+        <br><Br>
+        In 1944, while at the Boston Floating Hospital, Takako was a guest speaker, discussing the "Advancement and Opportunities
+         in Nursing Fields" for a conference. That same year, she married Diwakar Salvi and they raised their children at 123 Hancock
+          Street. In 1964, she penned a Letter to the Editor to the Cambridge Chronicle about solving a problem with her local park 
+          and signed on to a letter about the hiring of the school superintendent. According to her sister, she was a piano player, 
+          a dancer and she loved to work with clay and swim at the local Y.
+        <Br><Br>
+        Takako's papers can be found at the <a href="https://public.archivesspace.dlconsulting.com/repositories/2/accessions/8">Cambridge Room</a> 
+        at the Cambridge Public Library
+
+        `,
+        otherNotes: "",
+        references: ` 
+
+        <I>The Cambridge Tribune</i>, 7 May 1932, 14 May 1932, 12 June 1936<br>
+        <i>The Cambridge Chronicle</i>, 13 May 1932, 10 June 1932, 8 June 1944, 30 January 1964, 15 February 1968<br>
+       
+       Cambridge Black History Project profile:<br>
+        <a class="indent" href="https://cambridgeblackhistoryproject.org/project/takako-grace-sato-salvi/">https://cambridgeblackhistoryproject.org/project/takako-grace-sato-salvi/</a>
+        <Br><Br> 
+        Cambridge Day araticle:<br>
+        <a class="indent" href="https://www.cambridgeday.com/2024/02/12/these-black-cambridge-trailblazers-were-first-ladies-of-nursing-and-song/">https://www.cambridgeday.com/2024/02/12/these-black-cambridge-trailblazers-were-first-ladies-of-nursing-and-song/</a>
+        <br><br>
+        Cambridge Room papers:<Br>
+         <a class="indent" href="https://public.archivesspace.dlconsulting.com/repositories/2/accessions/8">https://public.archivesspace.dlconsulting.com/repositories/2/accessions/8</a>
+         <Br><Br>
+
+        AJ Spears Obituary:<Br>
+        <a class="indent" href="https://www.ajspearsfuneralhome.com/obituary/Takako-Salvi">https://www.ajspearsfuneralhome.com/obituary/Takako-Salvi</a>
+
+
+        `,
+        photos: ["images_bios/salvi1.jpg", "images_bios/salvi2.jpg"],
+        photoTitles: ["Source: AJ Spears website ", "Source: AJ Spears website "],
+        dateCreated: "11.01.2026",
+        dateUpdated: "",
+
+        photoHeights: ["", ""],
+        recentEditNotes:"",
+        editors: "",
+        authors: "Anthony Beckwith",
+        categories: ["Nurse", "Teacher/Educator", "Counselor"],
+    },
 ];
