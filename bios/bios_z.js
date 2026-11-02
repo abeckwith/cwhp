@@ -64,7 +64,7 @@ z_bios = [
         photoHeights: [],
         recentEditNotes:"added birthdate, death date and location, and other of her activities",
         editors:"Anthony Beckwith",
-        authors: "CWHP volunteers",
+        authors: "Sarah Boyle",
         categories: ["Community Leader"],
     },
 ]

@@ -153,10 +153,10 @@ function loadInfoPage(checkLinks) {
     });
     //SET UP DISPLAY:
 
-    topDisplay = "TOTAL in database: " + (orgcount + womanCount) + "<br>";
+    topDisplay = "TOTAL in database: <B>" + (orgcount + womanCount) + "</b><br>";
 
-    topDisplay += "# of Women: " + womanCount + "<br>";
-    topDisplay += "# of Organizations: " + orgcount + "<br>";
+    topDisplay += "# of Women: <B>" + womanCount + "</b><br>";
+    topDisplay += "# of Organizations:<B> " + orgcount + "</b><br>";
     topDisplay += noAddress;
 
     all_bios.forEach((bioLetterList) => {

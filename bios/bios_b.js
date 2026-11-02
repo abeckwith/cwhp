@@ -3277,13 +3277,17 @@ b_bios = [
         <br><br>
         City of Cambridge announcement:<br>
         <a class='indent' href="https://www.cambridgema.gov/CDD/News/2024/5/cambridgebusinesseshonoredat2024legacyluncheonawards">https://www.cambridgema.gov/CDD/News/2024/5/cambridgebusinesseshonoredat2024legacyluncheonawards</a><br><br>
-        Image from findagrave.com:<br>
+        Findagrave.com:<br>
             <a class='indent' href="https://www.findagrave.com/memorial/214077114/elizabeth-anne-butterfield">https://www.findagrave.com/memorial/214077114/elizabeth-anne-butterfield</a><br>
-        <i>Cambridge City Directory</i>, 1972.<br>
+        Bryn Mawr books facebook page:<br>
+        <a class="indent" href="https://www.facebook.com/photo.php?fbid=1488374116632158&set=pb.100063787500284.-2207520000&type=3">https://www.facebook.com/photo.php?fbid=1488374116632158&set=pb.100063787500284.-2207520000&type=3</a>
+        <br><Br>
+        
+            <i>Cambridge City Directory</i>, 1972.<br>
         <i>U.S., Social Security Death Index</i>, 1935-2014.
         `,
-        photos: ["images_bios/butterfield.png"],
-        photoTitles: [""],
+        photos: ["images_bios/butterfield.png","images_bios/butterfield_mawr.jpg"],
+        photoTitles: ["Source: findagrave.com", "Source: Brywn Mawr Books facebook page"],
         dateCreated: "11.15.2025",
         dateUpdated: "",
 
