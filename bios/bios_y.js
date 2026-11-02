@@ -161,7 +161,7 @@ y_bios = [
         categories: ["Activist", "Writer"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -238,7 +238,7 @@ y_bios = [
         categories: ["Radio Host", "Refugee"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  true,

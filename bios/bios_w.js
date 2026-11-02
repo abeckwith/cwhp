@@ -1,6 +1,6 @@
 w_bios = [
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -44,7 +44,7 @@ w_bios = [
         categories: ["Teacher/Educator"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -292,7 +292,7 @@ w_bios = [
         categories: ["Activist", "Writer", "Editor"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -371,7 +371,7 @@ w_bios = [
         categories: ["Political Leader"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -454,7 +454,7 @@ w_bios = [
         categories: ["Artist", "Poet"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -509,7 +509,7 @@ w_bios = [
         categories: ["Factory Worker", "Volunteer"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  true,
@@ -719,7 +719,7 @@ w_bios = [
         categories: ["Community Leader", "Writer"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -864,7 +864,7 @@ w_bios = [
         categories: ["Community Leader", "Political Leader"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -935,7 +935,7 @@ w_bios = [
         categories: ["Political Leader", "Refugee"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  true,
@@ -999,7 +999,7 @@ w_bios = [
         categories: ["Educational Institution/School", "Feminist Organization"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  true,
@@ -1062,7 +1062,7 @@ w_bios = [
         categories: ["Feminist Organization"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  true,
@@ -1226,7 +1226,7 @@ w_bios = [
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  true,
@@ -1278,7 +1278,7 @@ w_bios = [
         categories: ["Educational Institution/School", "Feminist Organization"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
