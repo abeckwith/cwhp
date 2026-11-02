@@ -1,6 +1,6 @@
 c_bios = [
     {
-        addressFound: false,
+        addressFound:true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: true,
@@ -64,7 +64,7 @@ c_bios = [
         categories: ["Social/Philanthropic Organization"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: true,
@@ -146,7 +146,7 @@ c_bios = [
         categories: ["Suffragists/Suffrage Group"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: true,
@@ -225,7 +225,7 @@ c_bios = [
         categories: ["Educational Institution/School", "School/Institution"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -314,7 +314,7 @@ c_bios = [
         categories: ["Scientist", "Suffragists/Suffrage Group", "Astronomer"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -413,7 +413,7 @@ c_bios = [
         categories: [""],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: true,
@@ -480,7 +480,7 @@ c_bios = [
         categories: ["Social/Philanthropic Organization", "Women's Club"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: true,
@@ -537,7 +537,7 @@ c_bios = [
     },
   
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -607,7 +607,7 @@ c_bios = [
         categories: ["Teacher/Educator", "Psychologist"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -678,7 +678,7 @@ c_bios = [
         categories: ["Businesswoman", "Chef"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -792,7 +792,7 @@ c_bios = [
         categories: ["Chef"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: true,
@@ -854,7 +854,7 @@ c_bios = [
         ],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: true,
@@ -920,7 +920,7 @@ c_bios = [
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: true,
@@ -977,7 +977,7 @@ c_bios = [
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -1054,7 +1054,7 @@ c_bios = [
         categories: ["Businesswoman"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -1136,7 +1136,7 @@ c_bios = [
         categories: ["Teacher/Educator"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -1226,7 +1226,7 @@ c_bios = [
         categories: ["Clairvoyant"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -1304,7 +1304,7 @@ c_bios = [
         categories: [""],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: false,

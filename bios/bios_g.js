@@ -1,6 +1,6 @@
 g_bios = [
     {
-        addressFound: false,
+        addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -121,7 +121,7 @@ g_bios = [
         categories: [""],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  true,
@@ -214,7 +214,7 @@ g_bios = [
         categories: ["Educational Institution/School", "School/Institution"],
     },
     {
-        addressFound: false,
+        addressFound:true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -305,7 +305,7 @@ g_bios = [
         categories: ["Poet", "Author"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -418,7 +418,7 @@ g_bios = [
         categories: ["Photographer", "Poet"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -502,7 +502,7 @@ g_bios = [
         ],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -619,7 +619,7 @@ g_bios = [
         categories: ["Activist", "Political Leader"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -715,7 +715,7 @@ g_bios = [
         categories: ["Activist", "Teacher/Educator"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -818,7 +818,7 @@ g_bios = [
         categories: ["Teacher/Educator", "Historian/History Project"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  true,
@@ -1054,7 +1054,7 @@ g_bios = [
         categories: ["Teacher/Educator", "Volunteer", "Community Leader"],
     },
         {
-        addressFound: false,
+        addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
         organization:  false,

@@ -1,6 +1,6 @@
 e_bios = [
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -94,7 +94,7 @@ e_bios = [
         categories: ["Doctor"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -232,7 +232,7 @@ e_bios = [
         categories: ["Activist", "Teacher/Educator"],
     },
      {
-        addressFound: false,
+        addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -312,7 +312,7 @@ e_bios = [
         categories: ["Doctor"],
     },
  {
-        addressFound: false,
+        addressFound: true,
         poc: true,
         workInProgress: true, //true when don't want online yet
         organization:  false,

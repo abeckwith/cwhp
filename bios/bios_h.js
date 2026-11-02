@@ -1,6 +1,6 @@
 h_bios = [
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -66,7 +66,7 @@ h_bios = [
         categories: ["Activist", "Author"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -200,7 +200,7 @@ h_bios = [
         categories: ["Businesswoman"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -339,7 +339,7 @@ h_bios = [
         categories: ["Teacher/Educator", "Psychiatrist"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -412,7 +412,7 @@ h_bios = [
         categories: ["Clergy", "Teacher/Educator"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -544,7 +544,7 @@ h_bios = [
         categories: ["Acquitted of Witchcraft"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -644,7 +644,7 @@ h_bios = [
         categories: ["Writer"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -710,7 +710,7 @@ h_bios = [
         categories: ["Author"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -965,7 +965,7 @@ h_bios = [
         categories: ["Lawyer", "Teacher/Educator", "Businesswoman"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -1055,7 +1055,7 @@ h_bios = [
         categories: ["Activist", "Refugee", "Scientist"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -1135,7 +1135,7 @@ h_bios = [
         categories: ["Artist"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -1252,7 +1252,7 @@ h_bios = [
         categories: ["Sportswoman", "Volunteer"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -1303,7 +1303,7 @@ h_bios = [
         categories: ["Astronomer"],
     },
        {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,

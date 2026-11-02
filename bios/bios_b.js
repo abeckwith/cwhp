@@ -1120,49 +1120,7 @@ b_bios = [
             "Editor",
         ],
     },
-    // {
-    //     addressFound: false,
-        // poc: false,
-    //     workInProgress: false, //true when don't want online yet
-        // organization:  false,
-    //     lastName: "Beukema",
-    //     firstName: "Stephanie",
-    //     middleName: "",
-    //     familyName: "",
-
-    //     title: `Psychologist, educator`,
-    //     birthDate: "c.1953",
-    //     birthLocation: "",
-    //     deathDate: "",
-    //     deathLocation: "",
-    //     narrative: `
-
-
-    //         Stephanie Beukema obtained her doctorate in psychology
-            
-
-    //         from the Harvard School of Education in 1990. She is a developmental psychologist
-    //         with special interest in systems and systemic theories.<br><br> As a licensed psychologist,
-    //         she has been in clinical practice in Harvard Square since 1993. She holds a
-    //         clinical appointment at Harvard Medical School, where she supervises and teaches.
-    //         She has held an adjunct professorship at Lesley University since 1993.  She
-    //         devotes an enormous amount of her time to working with women. 
-
-    //         `,
-    //     otherNotes: "",
-    //     references: ` Lesley University adjunct faculty site 
-    //     `,
-    //     photos: ["images_bios/beukema.jpeg"],
-    //     photoTitles: [],
-    //     dateCreated: "prior to 2009",
-    //     dateUpdated: "",
-
-    //     photoHeights: [],
-    //     recentEditNotes:"",
-        // editors: "",
-    //     authors: "CWHP volunteers",
-    //     categories: ["Psychologist"],
-    // },
+  
     {
         addressFound: false,
         poc: false,
@@ -1452,7 +1410,7 @@ b_bios = [
         categories: ["Historian/History Project"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -1643,7 +1601,7 @@ b_bios = [
    
 
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -1711,7 +1669,7 @@ b_bios = [
         categories: ["Teacher/Educator", "Scientist"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -1803,7 +1761,7 @@ b_bios = [
         categories: ["Teacher/Educator", "Musician"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -1873,7 +1831,7 @@ b_bios = [
         categories: ["Poet"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -2256,7 +2214,7 @@ b_bios = [
         categories: ["Historian/History Project", "Scientist"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  true,
@@ -2401,7 +2359,7 @@ b_bios = [
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -2478,7 +2436,7 @@ b_bios = [
         categories: ["Teacher/Educator"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -2589,7 +2547,7 @@ b_bios = [
         categories: ["Community Leader", "Author"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -2657,7 +2615,7 @@ b_bios = [
         categories: ["Teacher/Educator", "Scientist"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -2727,7 +2685,7 @@ b_bios = [
         categories: ["Teacher/Educator"],
     },
     {
-        addressFound: false,
+        addressFound: tre,
         poc: true,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -2775,7 +2733,7 @@ b_bios = [
         categories: ["Community Leader"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -2857,7 +2815,7 @@ b_bios = [
         categories: ["Activist"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -2915,7 +2873,7 @@ b_bios = [
         categories: ["Teacher/Educator"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -3243,7 +3201,7 @@ b_bios = [
         categories: ["Astronomer"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -3336,7 +3294,7 @@ b_bios = [
         categories: ["Activist", "Non-profit Owner"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
