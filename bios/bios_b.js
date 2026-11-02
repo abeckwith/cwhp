@@ -3214,7 +3214,7 @@ b_bios = [
         birthDate: "06.05.1913",
         birthLocation: "Cleveland, Ohio",
         deathDate: "07.12.1978",
-        deathLocation: "Cambridge, MA",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
 
         Betty Butterfield was a volunteer at the annual Bryn Mawr College used book sale in Princeton, New Jersey, 
@@ -3279,7 +3279,7 @@ b_bios = [
         <a class='indent' href="https://www.cambridgema.gov/CDD/News/2024/5/cambridgebusinesseshonoredat2024legacyluncheonawards">https://www.cambridgema.gov/CDD/News/2024/5/cambridgebusinesseshonoredat2024legacyluncheonawards</a><br><br>
         Findagrave.com:<br>
             <a class='indent' href="https://www.findagrave.com/memorial/214077114/elizabeth-anne-butterfield">https://www.findagrave.com/memorial/214077114/elizabeth-anne-butterfield</a><br>
-        Bryn Mawr books facebook page:<br>
+        Bryn Mawr Bookstore facebook page:<br>
         <a class="indent" href="https://www.facebook.com/photo.php?fbid=1488374116632158&set=pb.100063787500284.-2207520000&type=3">https://www.facebook.com/photo.php?fbid=1488374116632158&set=pb.100063787500284.-2207520000&type=3</a>
         <br><Br>
         
@@ -3287,7 +3287,7 @@ b_bios = [
         <i>U.S., Social Security Death Index</i>, 1935-2014.
         `,
         photos: ["images_bios/butterfield.png","images_bios/butterfield_mawr.jpg"],
-        photoTitles: ["Source: findagrave.com", "Source: Brywn Mawr Books facebook page"],
+        photoTitles: ["Source: findagrave.com", "Source: Brywn Mawr Bookstore facebook page"],
         dateCreated: "11.15.2025",
         dateUpdated: "",
 

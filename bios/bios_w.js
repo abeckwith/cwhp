@@ -1323,7 +1323,7 @@ w_bios = [
           obituary stated:
         <blockquote>
 
-        "Mary was a life-long resident of Cambridge, MA. She is remembered for her mastery of Cantonese style cooking and 
+        "Mary was a life-long resident of Cambridge, Massachusetts. She is remembered for her mastery of Cantonese style cooking and 
         her ability to prepare massive banquets for family and friends. She was also a talented seamstress."
         </blockquote>
 

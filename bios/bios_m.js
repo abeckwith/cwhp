@@ -48,7 +48,7 @@ m_bios = [
 
             Captain Majors retired from the Navy in March
             2011 and now serves as a volunteer as the Command Ombudsman for the Naval Operations
-            Support Center in Quincy, MA. She served as a mentor to countless young
+            Support Center in Quincy, Massachusetts. She served as a mentor to countless young
             women and men at various stages in their military careers. She volunteers as
             the Navy Nurse Corps Advisor to the Navy Nurse Corps Option Midshipmen in the
             Boston Naval Reserve Officers Training Corps Consortium; as an interviewer for
