@@ -1,6 +1,6 @@
 n_bios = [
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  true,
@@ -72,7 +72,7 @@ n_bios = [
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
     },
        {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,

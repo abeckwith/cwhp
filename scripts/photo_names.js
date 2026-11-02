@@ -118,5 +118,6 @@ photoList = [
     "bios.html?last=Ronchetti&middle=Mary&first=Alice",
     "bios.html?last=Regan&middle=&first=Jennifer",
     "bios.html?last=Fenton&middle=&first=Elizabeth",
-    "bios.html?last=Murray&middle=&first=Janet"
+    "bios.html?last=Murray&middle=&first=Janet",
+    "bios.html?last=Salvi&middle=Grace&first=Takako"
 ];

@@ -1,6 +1,6 @@
 m_bios = [
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -187,7 +187,7 @@ m_bios = [
     },
    
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -261,7 +261,7 @@ m_bios = [
         categories: ["Activist", "Scientist"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -334,7 +334,7 @@ m_bios = [
         categories: ["Scientist", "Writer"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  true,
@@ -400,7 +400,7 @@ m_bios = [
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -579,7 +579,7 @@ m_bios = [
         categories: ["Teacher/Educator", "Poet"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -654,7 +654,7 @@ m_bios = [
         categories: ["Community Leader", "Teacher/Educator", "Writer"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -729,7 +729,7 @@ m_bios = [
         categories: ["Historian/History Project"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -890,7 +890,7 @@ by Cate McQuaid,, April 12, 2017.
         categories: ["Artist", "Teacher/Educator"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -996,7 +996,7 @@ by Cate McQuaid,, April 12, 2017.
         categories: ["Business Manager"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -1058,7 +1058,7 @@ by Cate McQuaid,, April 12, 2017.
         categories: ["Artist", "Teacher/Educator", "Scientist", "Writer"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -1189,7 +1189,7 @@ by Cate McQuaid,, April 12, 2017.
     },
 
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -1378,7 +1378,7 @@ by Cate McQuaid,, April 12, 2017.
         categories: ["Author", "Housing Advocate", "Psychologist"],
     },
        {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: true,
         organization: false,
@@ -1424,7 +1424,7 @@ by Cate McQuaid,, April 12, 2017.
         categories: ["Teacher", "Civil Rights Activist"],
        },
         {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false,
         organization: false,

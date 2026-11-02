@@ -1,6 +1,6 @@
 p_bios = [
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -73,7 +73,7 @@ p_bios = [
         categories: ["Community Leader", "Nurse"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -219,7 +219,7 @@ p_bios = [
         categories: ["Scientist"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -319,7 +319,7 @@ p_bios = [
         categories: ["Reformer", "Author"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -516,7 +516,7 @@ p_bios = [
         categories: ["Social worker", "Volunteer", "Teacher/Educator"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: false,

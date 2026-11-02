@@ -76,7 +76,7 @@ s_bios = [
         categories: ["Community Leader", "Teacher/Educator"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -184,7 +184,7 @@ s_bios = [
         categories: ["Refugee", "Poet", "Author"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -302,7 +302,7 @@ s_bios = [
         categories: ["Astronomer"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -507,7 +507,7 @@ s_bios = [
         ],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -685,7 +685,7 @@ s_bios = [
         categories: ["Writer", "Architect"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -807,7 +807,7 @@ s_bios = [
         categories: ["Community Leader", "Political Leader"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -879,7 +879,7 @@ s_bios = [
         categories: ["Teacher"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -966,7 +966,7 @@ s_bios = [
         categories: ["Author", "Copywriter"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -1053,7 +1053,7 @@ s_bios = [
         categories: ["Bookstore owner", "Businesswoman"],
     },
      {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: false,

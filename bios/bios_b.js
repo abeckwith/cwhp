@@ -2685,7 +2685,7 @@ b_bios = [
         categories: ["Teacher/Educator"],
     },
     {
-        addressFound: tre,
+        addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
         organization:  false,

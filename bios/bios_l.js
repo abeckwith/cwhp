@@ -127,7 +127,7 @@ l_bios = [
         categories: ["Writer", "Editor"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -178,7 +178,7 @@ l_bios = [
         categories: ["Childcare Provider"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -229,7 +229,7 @@ l_bios = [
         categories: ["Scientist", "Astronomer"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  true,
@@ -280,7 +280,7 @@ l_bios = [
         categories: ["Feminist Organization"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -377,7 +377,7 @@ l_bios = [
         categories: ["Teacher/Educator"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -467,7 +467,7 @@ l_bios = [
         categories: ["Nurse", "Volunteer", "Community Leader"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -556,7 +556,7 @@ l_bios = [
         categories: ["Philanthropist", "Preservationist"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -680,7 +680,7 @@ l_bios = [
         categories: ["Author"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,

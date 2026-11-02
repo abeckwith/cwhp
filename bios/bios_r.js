@@ -1,6 +1,6 @@
 r_bios = [
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -113,7 +113,7 @@ r_bios = [
     },
 
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -176,7 +176,7 @@ r_bios = [
         categories: ["Teacher/Educator", "Psychologist"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -260,7 +260,7 @@ r_bios = [
         categories: ["Activist", "Teacher/Educator", "Reformer"],
     },
     {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -335,7 +335,7 @@ r_bios = [
         
     },
      {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
@@ -384,7 +384,7 @@ r_bios = [
         
     },
      {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization:  false,
