@@ -322,7 +322,7 @@ e_bios = [
         familyName: "Seagal",
         
         title: `Restaurant owner, communnity volunteer`,
-        birthDate: "02.12.1875,",
+        birthDate: "02.12.1875",
         birthLocation: "Poland",
         deathDate: "12.12.1963",
         deathLocation: "Lynn, Massachusetts",
