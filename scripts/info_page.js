@@ -130,7 +130,6 @@ function loadInfoPage(checkLinks) {
             });
         });
         localStorage.setItem("linkLetter", getNextLetter(letter));
-        
     }
     all_bios.forEach((bioLetterList) => {
         //go through each name for this letter:
@@ -186,11 +185,10 @@ function loadInfoPage(checkLinks) {
                 nobirthDate += theLink + "<br>";
                 nbdct++;
             }
-             //check if address found
+            //check if address found
             if (!thename.addressFound) {
                 noAddress += theLink + "<br>";
                 noAddressCt++;
-    
             }
             //check if no deathdate given:
 
@@ -378,29 +376,17 @@ function loadInfoPage(checkLinks) {
     allJustNames = bio_count + "\n" + allJustNames;
 
     //women that don't yet have birthdate and are no longer alive:
-    disp =
-        "<br><b>Need BIRTHDATE:</b><br>" +
-        "(" +
-        nbdct +
-        ")<br>" +
-        nobirthDate +
-        "<br><B>Need IMAGE:</b><br>" +
-        "(" +
-        noimgct +
-        ")<br>" +
-        noImage +
-        "<br><b>Need QUOTE:</b><br>" +
-        "(" +
-        noqtct +
-        ")<br>" +
-        noQuote+
-          "<br><b>Need ADDRESS:</b><br>" +
-        "(" +
-        noAddressCt +
-        ")<br>" +
-        noAddress;
+    disp = "" + "(" + nbdct + ")<br>" + nobirthDate;
+    document.getElementById("nobirthday-display").innerHTML = disp;
 
-    document.getElementById("other-display").innerHTML = disp;
+    disp2 = "" + "(" + noimgct + ")<br>" + noImage;
+    document.getElementById("image-display").innerHTML = disp2;
+
+    disp3 = "" + "(" + noqtct + ")<br>" + noQuote;
+    document.getElementById("quote-display").innerHTML = disp3;
+
+    disp4 = "" + "(" + noAddressCt + ")<br>" + noAddress;
+    document.getElementById("address-display").innerHTML = disp4;
 
     //SORT ALGORITHM: first by year, then month, then day:
     recentsSorted = recentObjects.sort((a, b) => {
