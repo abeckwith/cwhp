@@ -104,6 +104,8 @@ function loadInfoPage(checkLinks) {
     noImage = "";
     nobirthDate = "";
 
+    let noAddress = "";
+    noAddressCt = 0;
     womanCount = 0; //total number that are people
     orgcount = 0; //total number that are organizations
     output = "";
@@ -151,9 +153,12 @@ function loadInfoPage(checkLinks) {
         });
     });
     //SET UP DISPLAY:
+
     topDisplay = "TOTAL in database: " + (orgcount + womanCount) + "<br>";
+
     topDisplay += "# of Women: " + womanCount + "<br>";
     topDisplay += "# of Organizations: " + orgcount + "<br>";
+    topDisplay += noAddress;
 
     all_bios.forEach((bioLetterList) => {
         //go through each name for this letter:
@@ -180,6 +185,12 @@ function loadInfoPage(checkLinks) {
             ) {
                 nobirthDate += theLink + "<br>";
                 nbdct++;
+            }
+             //check if address found
+            if (!thename.addressFound) {
+                noAddress += theLink + "<br>";
+                noAddressCt++;
+    
             }
             //check if no deathdate given:
 
@@ -382,7 +393,12 @@ function loadInfoPage(checkLinks) {
         "(" +
         noqtct +
         ")<br>" +
-        noQuote;
+        noQuote+
+          "<br><b>Need ADDRESS:</b><br>" +
+        "(" +
+        noAddressCt +
+        ")<br>" +
+        noAddress;
 
     document.getElementById("other-display").innerHTML = disp;
 
