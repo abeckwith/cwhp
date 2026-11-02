@@ -175,18 +175,30 @@ function loadInfoPage(checkLinks) {
                 thename.firstName +
                 "</a>";
 
+            //ONLY for women that have died:
+            yr = parseInt(thename.birthDate.slice(-4));
+            currentYear = new Date().getFullYear();
+            ageVal = currentYear - yr;
+
+            likelyDead = ageVal > 95 || thename.deathDate != "";
             //check if no birthdate given:
             if (
                 (thename.birthDate.slice(3, 5) == "00" ||
                     thename.birthDate == "") &&
                 thename.firstName != "" &&
-                thename.birthDate.slice(-4) < 1930
+                likelyDead
             ) {
                 nobirthDate += theLink + "<br>";
                 nbdct++;
             }
-            //check if address found
-            if (!thename.addressFound) {
+            //check if ADDRESS found
+
+            //if no address and there over 95 or do have a death date:
+            if (
+                !thename.addressFound &&
+                likelyDead &&
+                thename.firstName != ""
+            ) {
                 noAddress += theLink + "<br>";
                 noAddressCt++;
             }

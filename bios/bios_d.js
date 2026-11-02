@@ -1350,7 +1350,7 @@ d_bios = [
         categories: ["Church member", "Cook", "Volunteer"],
     },
      {
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: true,
         organization: false,
@@ -1368,7 +1368,8 @@ d_bios = [
           
         Except for a brief stint in New York City, Elsa Dorfman spent her life in Cambridge as a
          photographer with a unique approach: she took portraits using a large-format instant Polaroid camera, 
-        which produced 20 x 24 inch photos (her camera was one of only six in the world). <br> <br> 
+        which produced 20 x 24 inch photos (her camera was one of only six in the world). Her studio was in her longtime home at
+        607 Franklin Street, near Putnam Ave. <br> <br> 
 
         <i>  This profile is a work in progress.<br><Br>
         You can learn more about Elsa from the archived version of her personal website:<br>
