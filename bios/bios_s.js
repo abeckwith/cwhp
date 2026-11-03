@@ -1081,7 +1081,7 @@ s_bios = [
         Takako grew up at 194 Franklin Street in Central Square. At age 13, while attending the Webster School, Takako was in the
          Junior Tri-Code Club of the "Girl Reserve" department and acted and tap-danced with piano accompaniment. She graduated
           from CHLS in 1936, the first time the high school conducted the graduation ceremonies at Harvard Stadium (between 10,000 
-          and 12,000 people show up to celebrate the nearly 600 graduates). 
+          and 12,000 people showed up to celebrate the nearly 600 graduates). 
 
         <br><Br>
         In 1944, while at the Boston Floating Hospital, Takako was a guest speaker, discussing the "Advancement and Opportunities

@@ -461,7 +461,7 @@ In
 
         Fenton gave poetry readings in the 1970s and 1980s at various local venues, like 100 Flowers Bookstore on Pearl Street, 
         Brandeis University, the Female Liberation office on Massachusetts Avenue in Central Square, and at Sword in the Stone 
-        Coffeehouse in Boston. In the 1990s she held a poetry reading at Stone Soup at T.T. the Bear's Place in Central Square.<br><br>
+        Coffeehouse in Boston. In the 1990s she recited her work at Stone Soup poetry readings, hosted at T.T. the Bear's Place in Central Square. <br><br>
 
         As a poet and astrologer (she was also employed as a typist), Fenton was, for a time, receiving public assistance and was 
         active with the organization Coalition for Basic Human Needs, a Cambridge-based women-led organization which was created 

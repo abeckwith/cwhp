@@ -1445,15 +1445,15 @@ by Cate McQuaid,, April 12, 2017.
         she moved to Cambridge and was a regular at City Council and School Committee meetings and wrote numerous Cambrige Chronicle 
         letters to the editor on a variety of school and affordable housing issues or in support of political candidates. She also 
         served on the Cambridge YWCA board of the directors. By the end of the 1980s, Murray had found her passion around the issue 
-        of hunger in Cambridge. By 1988, she was working with Food For Free, which was part of the Food Pantry network. She also 
-        served on the Working Committee for a Cambridge Rainbow, penning many more letters to the editor decrying local violance 
-        and the federal governments involvement in wars and speaking out against racism and injustice, as well as the
-       Cambridgeport Central America Committee.<Br><Br>
+        of hunger in Cambridge. By 1988, she was working with Food For Free, which was part of the Food Pantry network. She also served 
+        on the Working Committee for a Cambridge Rainbow, penning many more letters to the editor decrying local violence and the 
+        federal government's involvement in wars. She spoke out against racism and injustice and was part of the Cambridgeport 
+        Central America Committee.<Br><Br>
 
         Murray, who lived in Cambidgeport at 115 Pearl Street, in 1998 spoke of how the Food For Free  organization (for which 
         she served as co-director at the time) worked:
         <blockquote>
-        We have a commitment to make sure every program ahs food. We try to get everything donated, but sometimes, when a client
+        We have a commitment to make sure every program has food. We try to get everything donated, but sometimes, when a client
          has special need, we'll have to pay for something. But about 90 percent of our food is donated to us. Otherwise, we couldn't 
          afford to do this.
         </blockquote>
@@ -1468,10 +1468,10 @@ by Cate McQuaid,, April 12, 2017.
         <a class="indent" href="https://www.legacy.com/us/obituaries/bostonglobe/name/janet-murray-obituary?id=54978892">https://www.legacy.com/us/obituaries/bostonglobe/name/janet-murray-obituary?id=54978892</a>
         <br><br><br>
         Cambridge Day articles:<br>
-        <a class="indent" href="https://www.cambridgeday.com/2024/05/04/food-for-frees-janet-murray-to-be-remembered-at-a-june-15-celebration-of-life-in-harvard-square/">hhttps://www.cambridgeday.com/2024/05/04/food-for-frees-janet-murray-to-be-remembered-at-a-june-15-celebration-of-life-in-harvard-square/</a><Br>
+        <a class="indent" href="https://www.cambridgeday.com/2024/05/04/food-for-frees-janet-murray-to-be-remembered-at-a-june-15-celebration-of-life-in-harvard-square/">https://www.cambridgeday.com/2024/05/04/food-for-frees-janet-murray-to-be-remembered-at-a-june-15-celebration-of-life-in-harvard-square/</a><Br>
             <Br><br><br>
             Peace and Justice Awards:<Br>
-        <a class="indent" href="https://www.cambridgema.gov/-/media/files/peacecommission/peaceandjusticeawardees19952006.pdf">hhttps://www.cambridgema.gov/-/media/files/peacecommission/peaceandjusticeawardees19952006.pdf</a><br>
+        <a class="indent" href="https://www.cambridgema.gov/-/media/files/peacecommission/peaceandjusticeawardees19952006.pdf">https://www.cambridgema.gov/-/media/files/peacecommission/peaceandjusticeawardees19952006.pdf</a><br>
  <Br><br><br>
  Food for Free website:<Br>
         <a class="indent" href="https://foodforfree.org/tag/cambridge/">hhttps://foodforfree.org/tag/cambridge/</a>
