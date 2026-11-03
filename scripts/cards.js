@@ -15,15 +15,16 @@ cards = [
             "Ackermann was the <b>first woman</b> to serve as the <b>mayor of the City of Cambridge</b>. As a city councilor, she helped put a stop to " +
             "plans to tear down homes and develop the Inner Belt highway through Cambridge",
     },
-       {
+    {
         name: "Alma Boudreau",
         link: "bios.html?last=Boudreau&middle=Marie&first=Alma",
         image: "images_bios/boudreau_alma3.png",
-        description: "Boudreau grew up in Cambridge and worked at the Temple Street office of the New England "+
-        "Telephone Company <B>for 47 years</b>. As a <B>trustee of the Cambridge Public Library </b>for decades, "+
-         "she was honored in 1989 by having the Concord Avenue CPL branch named after her. At a celebration honoring"+
-         " her work, she retorted:<br> <i>\"You might have thought I put every brick in every branch library building. Well, I"+
-          " didn't. Now let's go have some tea!\"</i>",
+        description:
+            "Boudreau grew up in Cambridge and worked at the Temple Street office of the New England " +
+            "Telephone Company <B>for 47 years</b>. As a <B>trustee of the Cambridge Public Library </b>for decades, " +
+            "she was honored in 1989 by having the Concord Avenue CPL branch named after her. At a celebration honoring" +
+            ' her work, she retorted:<br> <i>"You might have thought I put every brick in every branch library building. Well, I' +
+            " didn't. Now let's go have some tea!\"</i>",
     },
     {
         name: "Maria Baldwin",
@@ -46,16 +47,16 @@ cards = [
         link: "bios.html?lNm=Andrade&mNm=%22Minnie%22&fNm=Dominga",
         image: "images_bios/doffer.png",
         description:
-            "In 1919, at the age of 15, Andrade was working in New Bedford as a <b>cotton mill doffer</b>, replacing bobbins or spindles from a spinning frame as they ran out.<br>"
-            +"She moved to Cambridge in the 1930s and <b>lived on Market Street for over 60 years.</b> ",
+            "In 1919, at the age of 15, Andrade was working in New Bedford as a <b>cotton mill doffer</b>, replacing bobbins or spindles from a spinning frame as they ran out.<br>" +
+            "She moved to Cambridge in the 1930s and <b>lived on Market Street for over 60 years.</b> ",
     },
     {
         name: "Mary Bodecker",
         link: "bios.html?ln=Bodecker&mN=Anne&fN=Mary",
         image: "images_bios/bodecker_sm.png",
         description:
-            "Bodecker set up the first case management program in the country to <b>work with incarcerated women with AIDS. </b>"+
-            "She was also a naturalist, who traveled to Quebec to see baby seals, to Labrador and Newfoundland to study polar bears and snowy owls, and to Antarctica to view the penguin colonies. "+
+            "Bodecker set up the first case management program in the country to <b>work with incarcerated women with AIDS. </b>" +
+            "She was also a naturalist, who traveled to Quebec to see baby seals, to Labrador and Newfoundland to study polar bears and snowy owls, and to Antarctica to view the penguin colonies. " +
             "When almost seventy, <b>she took a dog sledding trip to Alaska, camping in deep snow.</b>",
     },
     {
@@ -63,7 +64,7 @@ cards = [
         link: "bios.html?lNm=Marshall&mNm=Jean&fNm=Lorna",
         image: "images_bios/marshall_lorna.jpg",
         description:
-            "Marhsall was an anthropologist who published a book about the !Kung people. She <b>lived be to 104 years old. </b>"+
+            "Marhsall was an anthropologist who published a book about the !Kung people. She <b>lived be to 104 years old. </b>" +
             "Over a period of two decades, she spent <b>more time in Botswana and Namibia than she did in Cambridge</b>, developing close personal ties to the !Kung for her book.",
     },
     {
@@ -152,95 +153,105 @@ cards = [
         name: "Florence Ladd",
         link: "bios.html?last=Ladd&middle=&first=Florence",
         image: "images_bios/Florence%20Ladd%20small.jpeg",
-        description: "The director of the Bunting Institute at Radcliffe College, Ladd's first novel, <i>Sarah's Psalm</i>, "+
-        "was published in 1996 and won the <b>Best Fiction Award</b> from "+
-        "the Black Caucus of the American Library Association",
+        description:
+            "The director of the Bunting Institute at Radcliffe College, Ladd's first novel, <i>Sarah's Psalm</i>, " +
+            "was published in 1996 and won the <b>Best Fiction Award</b> from " +
+            "the Black Caucus of the American Library Association",
     },
     {
         name: "Grace Allen Johnson",
         link: "bios.html?ln=Johnson&mN=Allen&fN=Grace",
         image: "images_bios/grace_johnson.png",
-        description: "A member of the Massachusetts, as well as the National, Women's Suffrage Associations, "+
-        "Johnson wrote a <b>1915 letter to the Cambridge Tribune</b>, arguing:<br><i> \"Though woman suffrage is delayed in Massachusetts, "+
-        "it is surely coming. Justice demands it. The spirit of the century claims the help of women in the government.\"</i>", 
+        description:
+            "A member of the Massachusetts, as well as the National, Women's Suffrage Associations, " +
+            'Johnson wrote a <b>1915 letter to the Cambridge Tribune</b>, arguing:<br><i> "Though woman suffrage is delayed in Massachusetts, ' +
+            'it is surely coming. Justice demands it. The spirit of the century claims the help of women in the government."</i>',
     },
-       {
+    {
         name: "Helen Wendler Markham",
         link: "bios.html?ln=Markham&mN=Wendler&fN=Helen",
         image: "images_bios/Markham_HWD.jpg",
-        description: "A biologist and histochemist, in 1944 Markham became the <b>first female instructor and "+
-        "later the first female professor</b> in the Department of Anatomy at Harvard Medical School."
+        description:
+            "A biologist and histochemist, in 1944 Markham became the <b>first female instructor and " +
+            "later the first female professor</b> in the Department of Anatomy at Harvard Medical School.",
     },
     {
         name: "Rosario Morales",
         link: "bios.html?last=Morales&middle=&first=Rosario",
         image: "images_bios/rosario%20Sari%20self-portrait%20painting_sm.jpg",
-        description: "A feminist poet, activist, and author, Morales also did oil paintings, printmaking,"+
-        " and fiber arts and was an amateur naturalist anthropologist. In 1987, she was one of 18 "+
-        "Massachusetts poets and writers whose work was <b>inscribed in granite and installed along the "+
-        "new Orange Line MBTA stations</b>.",
+        description:
+            "A feminist poet, activist, and author, Morales also did oil paintings, printmaking," +
+            " and fiber arts and was an amateur naturalist anthropologist. In 1987, she was one of 18 " +
+            "Massachusetts poets and writers whose work was <b>inscribed in granite and installed along the " +
+            "new Orange Line MBTA stations</b>.",
     },
-       {
+    {
         name: "New Words",
         link: "bios.html?last=New%20Words%20(Center%20for)&middle=&first=",
         image: "images_bios/new_words_sm.png",
-        description: "A feminist bookstore in Inman Square for 28 years, which hosted readings and "+
-        "talks by significant women authors and served as an informal community center, it was one of the <B>largest and "+
-        "longest-running women's bookstores in the country.</b>",
+        description:
+            "A feminist bookstore in Inman Square for 28 years, which hosted readings and " +
+            "talks by significant women authors and served as an informal community center, it was one of the <B>largest and " +
+            "longest-running women's bookstores in the country.</b>",
     },
     {
         name: "Cecilia Helena Payne-Gaposchkin",
         link: "bios.html?last=Payne-Gaposchkin&middle=Helena&first=Cecilia",
         image: "images_bios/Cecilia_Gaposchkin_sm.jpg",
-        description: "In 1925, Payne Gaposchkin earned a Ph.D. in astronomy at Radcliffe College, the <b>first person to obtain a Ph.D. in this subject</b> from either Harvard or Radcliffe."+
-        " In 1956 she was appointed Phillips Professor of Astronomy, becoming the <b>first woman to receive a tenured professorship at Harvard University.</b>",
+        description:
+            "In 1925, Payne Gaposchkin earned a Ph.D. in astronomy at Radcliffe College, the <b>first person to obtain a Ph.D. in this subject</b> from either Harvard or Radcliffe." +
+            " In 1956 she was appointed Phillips Professor of Astronomy, becoming the <b>first woman to receive a tenured professorship at Harvard University.</b>",
     },
-          {
+    {
         name: "Sylvia Rosslyn Piltch",
         link: "bios.html?last=Piltch&middle=Rosslyn&first=Sylvia",
         image: "images_bios/piltch.jpeg",
-        description: "During World War II, Piltch became and <b>air raid warden</b> and while attending "+
-        "Boston University's Sargent College for Physical Therapy, she joined the USO, <b>entertaining the "+
-        "troops</b> stationed at Camp Devens and serving as a member of the <b>Jewish War Veterans Auxiliary.</b>",
+        description:
+            "During World War II, Piltch became and <b>air raid warden</b> and while attending " +
+            "Boston University's Sargent College for Physical Therapy, she joined the USO, <b>entertaining the " +
+            "troops</b> stationed at Camp Devens and serving as a member of the <b>Jewish War Veterans Auxiliary.</b>",
     },
     {
         name: "Jane Curtin",
         link: "bios.html?ln=Curtin&mN=&fN=Jane",
         image: "images_bios/Jane_Curtin_at_the_41st_Emmy_Awards_cropped_and_altered.jpg",
-        description: "Curtin was born in Cambridge. When in her senior year of high school, she went to a theater in Inman Square with a "+
-        "friend who was auditioning for an improv show. When the director asked \"Anybody"+
-        " else want to audition?\" Curtin got up on stage and performed, despite having no improv experience, <B>and ended up getting the job.</b>"
-        +" Curtin went on to become an <b>internationally-known actress and comedian.</b>",
+        description:
+            "Curtin was born in Cambridge. When in her senior year of high school, she went to a theater in Inman Square with a " +
+            'friend who was auditioning for an improv show. When the director asked "Anybody' +
+            ' else want to audition?" Curtin got up on stage and performed, despite having no improv experience, <B>and ended up getting the job.</b>' +
+            " Curtin went on to become an <b>internationally-known actress and comedian.</b>",
     },
-       
+
     {
         name: "Clayground",
         link: "bios.html?last=Clayground&middle=&first=",
         image: "images_bios/clayground2.png",
-        description: "Clayground was a <b>women-owned pottery business and collective, "+
-                "founded in 1976</b> by Annie Hoffman and Carole Ann Fer. Women did all"+
-                " of the renovations of the Hampshire Street location, including electrical and plumbing."+
-                "<br><br> Annie recalls: \"We were making vessels. The body is a vessel, and a house is an outer "+
-                "vessel, so <b>learning how to renovate a space was essential and empowering for us as women.\"</b>",
+        description:
+            "Clayground was a <b>women-owned pottery business and collective, " +
+            "founded in 1976</b> by Annie Hoffman and Carole Ann Fer. Women did all" +
+            " of the renovations of the Hampshire Street location, including electrical and plumbing." +
+            '<br><br> Annie recalls: "We were making vessels. The body is a vessel, and a house is an outer ' +
+            'vessel, so <b>learning how to renovate a space was essential and empowering for us as women."</b>',
     },
-     {
+    {
         name: "Marian Cannon Schlesinger",
         link: "bios.html?last=Schlesinger&middle=&first=Marian",
         image: "images_bios/Marian_Schlesinger.jpg",
-        description: "Schleshinger <b>wrote two memoirs about Cambridge</b>. The first was about growing up "+
-        "in Cambridge in the 1920s and 1930s (<i>Snatched From Oblivion</i>, 1979) and the second centered "+
-        "on her her adult life in Cambridge (<i>I Remember: A Life of Politics, Painting and People</i>, 2012)",
+        description:
+            "Schleshinger <b>wrote two memoirs about Cambridge</b>. The first was about growing up " +
+            "in Cambridge in the 1920s and 1930s (<i>Snatched From Oblivion</i>, 1979) and the second centered " +
+            "on her her adult life in Cambridge (<i>I Remember: A Life of Politics, Painting and People</i>, 2012)",
     },
-     {
+    {
         name: "Dorothy Squier",
         link: "bios.html?last=Squier&middle=Allegra&first=Dorothy",
         image: "images_bios/squier1.png",
         description: `Squier wrote dozens of essays for the Cambridge Chronicle with <b>remembrances of 
         growing up in Cambridge</b>, from 1982 to 1989. In 1993, the Cambridge Public Library published
         her essays in book form.
-        `
+        `,
     },
-     {
+    {
         name: "Mary Goodhue",
         link: "bios.html?last=Goodhue&middle=Louise&first=Mary",
         image: "images_bios/goodhue3.jpg",
@@ -249,7 +260,7 @@ cards = [
         the <b> only female stained-glass maker in America</b>.
     `,
     },
-     {
+    {
         name: "Boomer Kennedy",
         link: "bios.html?last=Kennedy&middle=Patricia&first=Boomer",
         image: "images_bios/boomer.jpg",
@@ -258,7 +269,7 @@ cards = [
         before <b>founding a groundbreaking women-owned auto mechanics shop</b> in Cambridge in the mid-1980s.
     `,
     },
-     {
+    {
         name: "Rulan Chao Pian",
         link: "bios.html?last=Pian&middle=&first=Rulan",
         image: "images_bios/pian2.png",
@@ -268,7 +279,7 @@ cards = [
          <b>introducing the terms "stir fry" and "pot sticker" into the American lexicon.</b>
     `,
     },
-     {
+    {
         name: "Fannie Hazen",
         link: "bios.html?last=Hazen&middle=Hallycarnie&first=Fannie",
         image: "images_bios/hazen.png",
@@ -278,35 +289,35 @@ cards = [
         age. After the war, she opened a dress-making establishment in Cambridge to help support her family.
     `,
     },
-     // {
+    // {
     //     name: "",
     //     link: "",
     //     image: "",
     //     description: `
     // `,
     // },
-       // {
+    // {
     //     name: "",
     //     link: "",
     //     image: "",
     //     description: `
     // `,
     // },
-     // {
+    // {
     //     name: "",
     //     link: "",
     //     image: "",
     //     description: `
     // `,
     // },
-       // {
+    // {
     //     name: "",
     //     link: "",
     //     image: "",
     //     description: `
     // `,
     // },
-     // {
+    // {
     //     name: "",
     //     link: "",
     //     image: "",
@@ -321,6 +332,15 @@ function displayCards() {
     html = "";
     count = 0;
 
+    // Loop from the back of the array down to the second element
+    for (let i = cards.length - 1; i > 0; i--) {
+        // Pick a random index from 0 to i
+        const j = Math.floor(Math.random() * (i + 1));
+
+        // Swap elements array[i] and array[j] using destructuring
+        [cards[i], cards[j]] = [cards[j], cards[i]];
+    }
+
     //build each card:
     cards.forEach((element) => {
         if (element.name != "") {
@@ -328,7 +348,7 @@ function displayCards() {
             //left/right alternating position:
             if (count % 2 == 0) mgn = "margin-left:20vw";
             else mgn = "margin-right:20vw";
-            
+
             html +=
                 '<div class="w3-container no-underline-area fade-element">' +
                 '<a href="' +
@@ -357,7 +377,6 @@ function displayRandomCard() {
     element = cards[choice];
 
     if (element.name != "") {
-
         html +=
             '<div class="w3-container no-underline-area">' +
             '<a href="' +
