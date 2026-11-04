@@ -179,9 +179,10 @@ function showRecents(num) {
         });
     });
     topLinks =
-        "<div id='recents-links' style='text-align:right'><a class='recents-links' href='#new-bios'>NEW BIOS</a><br>" +
-        "<a  class='recents-links' href='#latest-link'>RECENT UPDATES</a><br>" +
-        "<a  class='recents-links' href='#all-bios'>ALL, BY DATE</a></div><br>";
+        "<div id='recents-links' style='position:fixed;right:2vw'>"+
+        "<button class='random-button-sm' onclick='location.href=\"#new-bios\"'>NEW BIOS</button><br>" +
+        "<button  class='random-button-sm' onclick='location.href=\"#latest-link\"'>RECENT UPDATES</button><br>" +
+        "<button  class='random-button-sm' onclick='location.href=\"#all-bios\"'>ALL, BY DATE</button></div><br>";
     html ="<span id='new-bios' class='nice-header2'>"+
         topLinks +
         "<Center><Br><Br>Profiles of the " + recentCount + " women/organizations listed here " +
@@ -286,7 +287,7 @@ function showRecents(num) {
     });
     html2 =
         "<br><Br>Other recent entries can be found under <span id='latest-link'><a href='info.html'><b>Works in Progress</b> on our Info page</a></span>" +
-        "<hr>" + topLinks + "<Center><span id='updates'>These " +
+        "<hr><Center><span id='updates'>These " +
         recentUpdatesCount +
         " bios have had significant <b>edits or updates</b> made to them in the last " +
         RECENT_MONTHS_LIMIT_EDITS +
@@ -306,7 +307,7 @@ function showRecents(num) {
         return 0;
     });
     html3 =
-        "<br><Center><hr><span id='all-bios' class='nice-header2'>" + topLinks + "ALL BIOS, in reverse order by date:</span><br></center>";
+        "<br><Center><hr><span id='all-bios' class='nice-header2'><br><Br>ALL BIOS, in reverse order by date:</span><br></center>";
 
     //PUT TOGETHER DISPLAY:
     r.forEach((element) => {
