@@ -382,7 +382,7 @@ function displayRandomCard() {
             '<a href="' +
             element.link +
             '"><div class="w3-card-4" style="width:50%;">' +
-            '<header class="w3-container w3-black"><h3 id="gray">' +
+            '<header class="w3-container w3-black"><i><h3 id="gray">Featured</i>: ' +
             element.name +
             '</h3></header><div class="w3-container"><img src="' +
             element.image +

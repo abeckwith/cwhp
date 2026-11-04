@@ -321,7 +321,7 @@ e_bios = [
         middleName: "",
         familyName: "Seagal",
         
-        title: `Restaurant owner, communnity volunteer`,
+        title: `Restaurant owner, community volunteer`,
         birthDate: "02.12.1875",
         birthLocation: "Poland",
         deathDate: "12.12.1963",
