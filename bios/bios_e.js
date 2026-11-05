@@ -1,5 +1,6 @@
 e_bios = [
     {
+        carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -94,6 +95,7 @@ e_bios = [
         categories: ["Doctor"],
     },
     {
+        carouselMember: true,
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
@@ -152,6 +154,7 @@ e_bios = [
         categories: ["Activist", "Volunteer"],
     },
     {
+        carouselMember: true,
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -232,6 +235,7 @@ e_bios = [
         categories: ["Activist", "Teacher/Educator"],
     },
      {
+        carouselMember: true,
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
@@ -312,6 +316,7 @@ e_bios = [
         categories: ["Doctor"],
     },
  {
+        carouselMember: false,
         addressFound: true,
         poc: true,
         workInProgress: true, //true when don't want online yet

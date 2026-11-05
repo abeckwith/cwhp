@@ -1,5 +1,6 @@
 k_bios = [
     {
+        carouselMember: false,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -74,6 +75,7 @@ k_bios = [
         ],
     },
     {
+        carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -149,6 +151,7 @@ k_bios = [
         categories: ["Scientist"],
     },
         {
+        carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet

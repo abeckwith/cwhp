@@ -1,5 +1,6 @@
 v_bios = [
     {
+        carouselMember: false,
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
@@ -56,6 +57,7 @@ v_bios = [
         categories: ["Activist"],
     },
     {
+        carouselMember: false,
         addressFound: false,
         poc: true,
         workInProgress: false, //true when don't want online yet

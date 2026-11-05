@@ -1,5 +1,6 @@
 z_bios = [
  {
+        carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet

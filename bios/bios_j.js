@@ -1,5 +1,6 @@
 j_bios = [
     {
+        carouselMember: true,
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
@@ -83,6 +84,7 @@ j_bios = [
         ],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -173,6 +175,7 @@ j_bios = [
         categories: ["Teacher/Educator", "Political Leader", "Poet", "Author"],
     },
     {
+        carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -264,6 +267,7 @@ j_bios = [
         ],
     },
     {
+        carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -332,6 +336,7 @@ j_bios = [
         categories: ["Businesswoman"],
     },
     {
+        carouselMember: false,
         addressFound: false,
         poc: false,
         workInProgress: true,

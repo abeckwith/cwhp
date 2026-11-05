@@ -1,5 +1,6 @@
 a_bios = [
     {
+        carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -79,6 +80,7 @@ a_bios = [
         categories: ["Political Leader"],
     },
     {
+        carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -164,6 +166,7 @@ a_bios = [
     },
 
     {
+        carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -263,6 +266,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
     },
 
     {
+        carouselMember: false,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -345,6 +349,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         categories: ["Teacher/Educator"],
     },
     {
+        carouselMember: false,
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -426,6 +431,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         ],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -484,6 +490,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         categories: ["Community Leader"],
     },
     {
+        carouselMember: false,
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -538,6 +545,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         categories: ["Author"],
     },
     {
+        carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -618,6 +626,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
     },
 
     {
+        carouselMember: false,
         addressFound: false,
         poc: true,
         workInProgress: false, //true when don't want online yet
@@ -694,6 +703,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         categories: ["Nurse"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -761,6 +771,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         categories: ["Activist", "Teacher/Educator"],
     },
     {
+        carouselMember: false,
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -828,6 +839,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         categories: ["Activist"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
@@ -884,6 +896,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
     },
  
     {
+        carouselMember: true,
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
@@ -955,6 +968,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         categories: [""],
     },
     {
+        carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -1063,6 +1077,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         categories: ["Community Leader", "Scientist"],
     },
     {
+        carouselMember: false,
         addressFound: false,
         poc: true,
         workInProgress: false, //true when don't want online yet
@@ -1122,6 +1137,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         categories: ["Community Leader"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -1246,6 +1262,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         categories: ["Activist","Housing Advocate"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
@@ -1300,6 +1317,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         categories: ["Volunteer"],
     },
     {
+        carouselMember: true,
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
@@ -1372,6 +1390,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         categories: ["Dancer", "Choreographer", "Artist", "Fashion Designer"],
     },
       {
+        carouselMember: true,
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
@@ -1508,6 +1527,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         categories: ["Activist", "Philanthropist", "Executive", "Volunteer"],
     },
        {
+        carouselMember: true,
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
@@ -1644,6 +1664,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         categories: ["Photographer", "Businesswoman"],
     },
      {
+        carouselMember: false,
         addressFound: false,
         poc: false,
         workInProgress: true,

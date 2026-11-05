@@ -1,5 +1,6 @@
 f_bios = [
     {
+        carouselMember: true,
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -64,6 +65,7 @@ f_bios = [
         categories: ["Activist", "Teacher/Educator"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -128,6 +130,7 @@ f_bios = [
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
     },
     {
+        carouselMember: false,
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -204,6 +207,7 @@ f_bios = [
         categories: ["Scientist"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -279,6 +283,7 @@ f_bios = [
         categories: ["Artist"],
     },
     {
+        carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -363,6 +368,7 @@ In
         categories: ["Social/Philanthropic Organization", "Author"],
     },
      {
+        carouselMember: false,
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
@@ -437,6 +443,7 @@ In
         categories: ["Teacher", "Writer"],
     },
        {
+        carouselMember: true,
         addressFound: false,
         poc: true,
         workInProgress: false, //true when don't want online yet

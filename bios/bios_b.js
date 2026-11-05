@@ -1,5 +1,6 @@
 b_bios = [
     {
+        carouselMember: false,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -90,6 +91,7 @@ b_bios = [
         categories: ["Dancer"],
     },
     {
+        carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -206,6 +208,7 @@ b_bios = [
         categories: ["Activist", "Economist", "Editor"],
     },
     {
+        carouselMember: true,
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
@@ -303,6 +306,7 @@ b_bios = [
         ],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
@@ -366,6 +370,7 @@ b_bios = [
         categories: ["Abolitionist", "Refugee"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -426,6 +431,7 @@ b_bios = [
         categories: ["Community Leader", "Pilot"],
     },
     {
+        carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -510,6 +516,7 @@ b_bios = [
         categories: ["Intelligence Officer", "Author"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -585,6 +592,7 @@ b_bios = [
         categories: ["Businesswoman", "Volunteer"],
     },
     {
+        carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -656,6 +664,7 @@ b_bios = [
         categories: ["Teacher/Educator"],
     },
     {
+        carouselMember: false,
         addressFound: false,
         poc: true,
         workInProgress: false, //true when don't want online yet
@@ -729,6 +738,7 @@ b_bios = [
         categories: ["Dancer"],
     },
     {
+        carouselMember: false,
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -793,6 +803,7 @@ b_bios = [
         categories: ["Social/Philanthropic Organization"],
     },
     {
+        carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -888,6 +899,7 @@ b_bios = [
         categories: ["Teacher/Educator", "Suffragists/Suffrage Group", "Businesswoman"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
@@ -1015,6 +1027,7 @@ b_bios = [
         categories: ["Community Leader", "Volunteer"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -1122,6 +1135,7 @@ b_bios = [
     },
   
     {
+        carouselMember: false,
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -1216,6 +1230,7 @@ b_bios = [
         categories: ["Author"],
     },
     {
+        carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -1264,6 +1279,7 @@ b_bios = [
         categories: ["Psychiatrist", "Refugee"],
     },
     {
+        carouselMember: true,
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -1358,6 +1374,7 @@ b_bios = [
         categories: ["Poet"],
     },
     {
+        carouselMember: true,
         addressFound: false,
         poc: true,
         workInProgress: false, //true when don't want online yet
@@ -1410,6 +1427,7 @@ b_bios = [
         categories: ["Historian/History Project"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -1503,6 +1521,7 @@ b_bios = [
         ],
     },
     {
+        carouselMember: false,
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -1601,6 +1620,7 @@ b_bios = [
    
 
     {
+        carouselMember: false,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -1669,6 +1689,7 @@ b_bios = [
         categories: ["Teacher/Educator", "Scientist"],
     },
     {
+        carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -1761,6 +1782,7 @@ b_bios = [
         categories: ["Teacher/Educator", "Musician"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -1831,6 +1853,7 @@ b_bios = [
         categories: ["Poet"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -1886,6 +1909,7 @@ b_bios = [
         categories: ["Librarian", "Businesswoman"],
     },
     {
+        carouselMember: true,
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -2031,6 +2055,7 @@ b_bios = [
         ],
     },
     {
+        carouselMember: true,
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -2154,6 +2179,7 @@ b_bios = [
         ],
     },
     {
+        carouselMember: false,
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -2214,6 +2240,7 @@ b_bios = [
         categories: ["Historian/History Project", "Scientist"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -2286,6 +2313,7 @@ b_bios = [
         categories: ["Feminist Organization"],
     },
     {
+        carouselMember: false,
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -2359,6 +2387,7 @@ b_bios = [
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
     },
     {
+        carouselMember: true,
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
@@ -2436,6 +2465,7 @@ b_bios = [
         categories: ["Teacher/Educator"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -2487,6 +2517,7 @@ b_bios = [
         categories: ["Teacher/Educator", "Volunteer"],
     },
     {
+        carouselMember: true,
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -2547,6 +2578,7 @@ b_bios = [
         categories: ["Community Leader", "Author"],
     },
     {
+        carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -2615,6 +2647,7 @@ b_bios = [
         categories: ["Teacher/Educator", "Scientist"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
@@ -2685,6 +2718,7 @@ b_bios = [
         categories: ["Teacher/Educator"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
@@ -2733,6 +2767,7 @@ b_bios = [
         categories: ["Community Leader"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -2815,6 +2850,7 @@ b_bios = [
         categories: ["Activist"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -2873,6 +2909,7 @@ b_bios = [
         categories: ["Teacher/Educator"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
@@ -2927,6 +2964,7 @@ b_bios = [
         categories: [""],
     },
     {
+        carouselMember: false,
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -3006,6 +3044,7 @@ b_bios = [
         categories: ["Athlete"],
     },
     {
+        carouselMember: true,
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -3154,6 +3193,7 @@ b_bios = [
         categories: ["Activist", "Writer", "Teacher/Educator", "Journalist"],
     },
     {
+        carouselMember: false,
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -3201,6 +3241,7 @@ b_bios = [
         categories: ["Astronomer"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -3298,6 +3339,7 @@ b_bios = [
         categories: ["Activist", "Non-profit Owner"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -3374,6 +3416,7 @@ b_bios = [
         categories: ["Telephone company worker", "Library Trustee"],
     },
       {
+        carouselMember: false,
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -3497,6 +3540,7 @@ b_bios = [
         categories: ["Activist", "Nun"],
     },
          {
+        carouselMember: false,
         addressFound: false,
         poc: false,
         workInProgress: true,

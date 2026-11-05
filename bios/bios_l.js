@@ -1,5 +1,6 @@
 l_bios = [
     {
+        carouselMember: true,
         addressFound: false,
         poc: true,
         workInProgress: false, //true when don't want online yet
@@ -74,6 +75,7 @@ l_bios = [
         categories: ["Psychologist", "Teacher/Educator"],
     },
     {
+        carouselMember: true,
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -127,6 +129,7 @@ l_bios = [
         categories: ["Writer", "Editor"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
@@ -178,6 +181,7 @@ l_bios = [
         categories: ["Childcare Provider"],
     },
     {
+        carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -229,6 +233,7 @@ l_bios = [
         categories: ["Scientist", "Astronomer"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -280,6 +285,7 @@ l_bios = [
         categories: ["Feminist Organization"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -377,6 +383,7 @@ l_bios = [
         categories: ["Teacher/Educator"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
@@ -467,6 +474,7 @@ l_bios = [
         categories: ["Nurse", "Volunteer", "Community Leader"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -556,6 +564,7 @@ l_bios = [
         categories: ["Philanthropist", "Preservationist"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -618,6 +627,7 @@ l_bios = [
         categories: ["Abolitionist", "Poet"],
     },
     {
+        carouselMember: true,
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -680,6 +690,7 @@ l_bios = [
         categories: ["Author"],
     },
     {
+        carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -818,6 +829,7 @@ l_bios = [
         categories: ["Activist", "Suffragists/Suffrage Group", "Architect"],
     },
     {
+        carouselMember: true,
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet

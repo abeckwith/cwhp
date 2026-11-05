@@ -1,5 +1,6 @@
 y_bios = [
     {
+        carouselMember: true,
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -161,6 +162,7 @@ y_bios = [
         categories: ["Activist", "Writer"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -238,6 +240,7 @@ y_bios = [
         categories: ["Radio Host", "Refugee"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet

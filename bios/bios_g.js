@@ -1,5 +1,6 @@
 g_bios = [
     {
+        carouselMember: false,
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
@@ -53,6 +54,7 @@ g_bios = [
         categories: ["Musician"],
     },
     {
+        carouselMember: false,
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -121,6 +123,7 @@ g_bios = [
         categories: [""],
     },
     {
+        carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -214,6 +217,7 @@ g_bios = [
         categories: ["Educational Institution/School", "School/Institution"],
     },
     {
+        carouselMember: true,
         addressFound:true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -305,6 +309,7 @@ g_bios = [
         categories: ["Poet", "Author"],
     },
     {
+        carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -418,6 +423,7 @@ g_bios = [
         categories: ["Photographer", "Poet"],
     },
     {
+        carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -502,6 +508,7 @@ g_bios = [
         ],
     },
     {
+        carouselMember: true,
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
@@ -619,6 +626,7 @@ g_bios = [
         categories: ["Activist", "Political Leader"],
     },
     {
+        carouselMember: true,
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
@@ -715,6 +723,7 @@ g_bios = [
         categories: ["Activist", "Teacher/Educator"],
     },
     {
+        carouselMember: true,
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
@@ -818,6 +827,7 @@ g_bios = [
         categories: ["Teacher/Educator", "Historian/History Project"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -864,6 +874,7 @@ g_bios = [
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
     },
     {
+        carouselMember: false,
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -915,6 +926,7 @@ g_bios = [
         categories: ["Astronomer", "Teacher/Educator"],
     },
     {
+        carouselMember: false,
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -962,6 +974,7 @@ g_bios = [
         categories: ["Astronomer"],
     },
     {
+        carouselMember: true,
         addressFound: false,
         poc: true,
         workInProgress: false, //true when don't want online yet
@@ -1054,6 +1067,7 @@ g_bios = [
         categories: ["Teacher/Educator", "Volunteer", "Community Leader"],
     },
         {
+        carouselMember: false,
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet

@@ -1,5 +1,6 @@
 h_bios = [
     {
+        carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -66,6 +67,7 @@ h_bios = [
         categories: ["Activist", "Author"],
     },
     {
+        carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -130,6 +132,7 @@ h_bios = [
         categories: ["Doctor"],
     },
     {
+        carouselMember: true,
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -200,6 +203,7 @@ h_bios = [
         categories: ["Businesswoman"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -253,6 +257,7 @@ h_bios = [
     },
 
     {
+        carouselMember: true,
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -339,6 +344,7 @@ h_bios = [
         categories: ["Teacher/Educator", "Psychiatrist"],
     },
     {
+        carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -412,6 +418,7 @@ h_bios = [
         categories: ["Clergy", "Teacher/Educator"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -477,6 +484,7 @@ h_bios = [
         categories: ["Teacher/Educator", "Editor"],
     },
     {
+        carouselMember: false,
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -544,6 +552,7 @@ h_bios = [
         categories: ["Acquitted of Witchcraft"],
     },
     {
+        carouselMember: true,
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
@@ -644,6 +653,7 @@ h_bios = [
         categories: ["Writer"],
     },
     {
+        carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -710,6 +720,7 @@ h_bios = [
         categories: ["Author"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -873,6 +884,7 @@ h_bios = [
         categories: ["Architect"],
     },
     {
+        carouselMember: true,
         addressFound: false,
         poc: true,
         workInProgress: false, //true when don't want online yet
@@ -965,6 +977,7 @@ h_bios = [
         categories: ["Lawyer", "Teacher/Educator", "Businesswoman"],
     },
     {
+        carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -1055,6 +1068,7 @@ h_bios = [
         categories: ["Activist", "Refugee", "Scientist"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -1135,6 +1149,7 @@ h_bios = [
         categories: ["Artist"],
     },
     {
+        carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -1252,6 +1267,7 @@ h_bios = [
         categories: ["Sportswoman", "Volunteer"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -1303,6 +1319,7 @@ h_bios = [
         categories: ["Astronomer"],
     },
        {
+        carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -1405,6 +1422,7 @@ h_bios = [
         categories: ["Nurse", "Dresskmaker"],
     },
        {
+        carouselMember: false,
         addressFound: false,
         poc: false,
         workInProgress: true,

@@ -1,7 +1,6 @@
-
 function setUpMainPage() {
     currentDate = new Date();
-        recents = false;
+    recents = false;
 
     // Short format (e.g., "12/16/2025")
 
@@ -65,7 +64,6 @@ function setUpMainPage() {
     //go through every bio:
     all_bios.forEach((bioLtr) => {
         bioLtr.forEach((bio) => {
-
             //CHECK IF BIO BELONGS TO RECENTS:
             if (bio.dateCreated.indexOf(".") != -1) {
                 found = false;
@@ -94,16 +92,23 @@ function setUpMainPage() {
                     recentDay = d;
                     formattedDate = formatDate("", bio.dateCreated);
                     mostRecentHMTL =
-                    "<i><span id='latest-text'>Latest addition to the project:</span> </i><br>"+
+                        "<i><span id='latest-text'>Latest addition to the project:</span> </i><br>" +
                         "<span id='latest-link'><a  href='" +
                         getHref(bio.lastName, bio.middleName, bio.firstName) +
-                        "'>" + bio.firstName +
-                    " " + bio.lastName +
-                    ", " + bio.title + "</a></span><br><span id='small-date'>(added " + formattedDate.replace(",", "") + ")";
+                        "'>" +
+                        bio.firstName +
+                        " " +
+                        bio.lastName +
+                        ", " +
+                        bio.title +
+                        "</a></span><br><span id='small-date'>(added " +
+                        formattedDate.replace(",", "") +
+                        ")";
                     // "<br>Other recent entries can be found under <b>Works in Progress</b> on our <span id='latest-link'><a href='info.html'>Info page</a></span></span>";
 
-                      document.getElementById("most-recent").innerHTML = mostRecentHMTL;
-                }   
+                    document.getElementById("most-recent").innerHTML =
+                        mostRecentHMTL;
+                }
             }
             //CHECK IF bio birthDATE match today's date - if so, display on main page:
             if (
@@ -123,9 +128,13 @@ function setUpMainPage() {
                 //things like 112 don't end in "nd":
                 if (yrs % 100 < 14 && yrs % 100 > 10) suffix = "th";
                 //display birthday announcement:
-                beforeName = bio.title.substring(0,1).toLowerCase() + bio.title.substring(1);
+                beforeName =
+                    bio.title.substring(0, 1).toLowerCase() +
+                    bio.title.substring(1);
                 document.getElementById("bdaydisplay").innerHTML =
-                    "<Center>&#x1F389; Today would be " + beforeName + " " +
+                    "<Center>&#x1F389; Today would be " +
+                    beforeName +
+                    " " +
                     link +
                     bio.firstName +
                     " " +
@@ -138,7 +147,6 @@ function setUpMainPage() {
         });
     });
     setMenu(0); //show the index page in grey in tabs at top
-
 
     displayRandomCard(); //show a random card from Fun Facts on main page
 
@@ -158,7 +166,17 @@ function setUpMainPage() {
     const month = today.getMonth() + 1;
     const day = today.getDate();
     var seed = parseInt(day + "" + month + "" + year);
-
+    var photoList = [];
+    //go through every bio for carousel list:
+    all_bios.forEach((bioLtr) => {
+        bioLtr.forEach((bio) => {
+            if(bio.carouselMember)
+            {
+                theLink = "bios.html?lNm=" + bio.lastName + "&mNm=" + bio.middleName + "&fNm=" + bio.firstName;
+                photoList.push(theLink);
+            }
+        });
+    });
     //get 25 random bio numbers:
     shuffledNumbers = [];
 
@@ -175,11 +193,10 @@ function setUpMainPage() {
         }
         shuffledNumbers.push(num);
     }
-
     /**
      * gets bio for carousel photos on main page
-     * 
-     * @param currentPerson URL 
+     *
+     * @param currentPerson URL
      * @returns the json bio data of the person
      */
     function buildBio(currentPerson) {
@@ -203,8 +220,7 @@ function setUpMainPage() {
         stripped = stripped.substring(stripped.indexOf("&") + 1);
         firstNamePhoto = stripped.substring(stripped.indexOf("=") + 1);
 
-        namePhoto =
-            firstNamePhoto + " " + lastNamePhoto;
+        namePhoto = firstNamePhoto + " " + lastNamePhoto;
 
         //find bio:
         info = getLocation(lastNamePhoto, middleNamePhoto, firstNamePhoto);
@@ -233,10 +249,9 @@ function setUpMainPage() {
         //build array of 5 links, based on shift:
 
         links = [];
-        
+
         for (i = shift; i < shift + 5; i++) {
             element = shuffledNumbers[i];
-
             currentPerson = photoList[element];
             person2 = buildBio(currentPerson);
 
@@ -249,23 +264,20 @@ function setUpMainPage() {
                     namePhoto +
                     "'' title='" +
                     namePhoto +
-                    "'>"+
-                    " <span class='caption-overlay'>"+
-                    namePhoto + "</span></span></a>",
-
-                   
-  
+                    "'>" +
+                    " <span class='caption-overlay'>" +
+                    namePhoto +
+                    "</span></span></a>",
             );
         }
         html += "</div></div>";
 
-        
         for (i = 0; i < 5; i++) {
             html += links[i];
         }
         return html;
     }
-    
+
     let shift = 0;
     html = buildLinks(shift);
 
@@ -281,7 +293,7 @@ function setUpMainPage() {
         document.getElementById("random-intro-photos").innerHTML = html;
     }
 
-    //SET UP THE TIMER TO ROTATE EVERY 4 SECONDS (4000 MILLISECONDS) 
+    //SET UP THE TIMER TO ROTATE EVERY 4 SECONDS (4000 MILLISECONDS)
     //(first one after 7 second delay)
     function repeatedTask() {
         rotatePhotos();

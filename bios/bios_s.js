@@ -1,5 +1,6 @@
 s_bios = [
     {
+        carouselMember: true,
         addressFound: false,
         poc: true,
         workInProgress: false, //true when don't want online yet
@@ -76,6 +77,7 @@ s_bios = [
         categories: ["Community Leader", "Teacher/Educator"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -184,6 +186,7 @@ s_bios = [
         categories: ["Refugee", "Poet", "Author"],
     },
     {
+        carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -254,6 +257,7 @@ s_bios = [
         categories: ["Artist", "Author"],
     },
     {
+        carouselMember: false,
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -302,6 +306,7 @@ s_bios = [
         categories: ["Astronomer"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
@@ -383,6 +388,7 @@ s_bios = [
         categories: ["Activist", "Child Care Provider"],
     },
     {
+        carouselMember: true,
         addressFound: false,
         poc: true,
         workInProgress: false, //true when don't want online yet
@@ -507,6 +513,7 @@ s_bios = [
         ],
     },
     {
+        carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -605,6 +612,7 @@ s_bios = [
         categories: ["Author"],
     },
     {
+        carouselMember: false,
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -685,6 +693,7 @@ s_bios = [
         categories: ["Writer", "Architect"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -740,6 +749,7 @@ s_bios = [
         categories: ["Astronomer"],
     },
     {
+        carouselMember: false,
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -807,6 +817,7 @@ s_bios = [
         categories: ["Community Leader", "Political Leader"],
     },
     {
+        carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -879,6 +890,7 @@ s_bios = [
         categories: ["Teacher"],
     },
     {
+        carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -966,6 +978,7 @@ s_bios = [
         categories: ["Author", "Copywriter"],
     },
     {
+        carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -1053,6 +1066,7 @@ s_bios = [
         categories: ["Bookstore owner", "Businesswoman"],
     },
      {
+        carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet

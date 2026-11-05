@@ -1,5 +1,6 @@
 t_bios = [
     {
+        carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -84,6 +85,7 @@ t_bios = [
         categories: ["Doctor", "Author"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -158,6 +160,7 @@ t_bios = [
         categories: ["Teacher/Educator"],
     },
     {
+        carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
@@ -235,6 +238,7 @@ t_bios = [
         ],
     },
     {
+        carouselMember: true,
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
@@ -325,6 +329,7 @@ t_bios = [
         categories: ["Dentist"],
     },
     {
+        carouselMember: false,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet

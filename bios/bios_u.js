@@ -1,5 +1,6 @@
 u_bios = [
        {
+        carouselMember: false,
         addressFound: false,
         poc: false,
         workInProgress: true,
