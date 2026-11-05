@@ -185,7 +185,7 @@ function showRecents(num) {
     topLinks =
         "<div id='recents-links' style='position:fixed;right:2vw'>" +
         "<button class='random-button-sm recents-buttons' onclick='location.href=\"#new-bios\"'>NEW BIOS</button><br>" +
-        "<button class='random-button-sm recents-buttons' onclick='location.href=\"#latest-link\"'>RECENT UPDATES</button><br>" +
+        "<button class='random-button-sm recents-buttons' onclick='location.href=\"#updates\"'>RECENT UPDATES</button><br>" +
         "<button class='random-button-sm recents-buttons' onclick='location.href=\"#all-bios\"'>ALL, BY DATE</button></div><br>";
     html =
         "<span id='new-bios' class='nice-header2'>" +
