@@ -1,6 +1,8 @@
 
 function setUpMainPage() {
     currentDate = new Date();
+        recents = false;
+
     // Short format (e.g., "12/16/2025")
 
     currentDate = currentDate.toLocaleDateString("en-US");

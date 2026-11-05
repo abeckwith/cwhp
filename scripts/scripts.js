@@ -15,6 +15,8 @@ let currentPersonIndex = 0;
 let RECENT_MONTHS_LIMIT = 12; //for recent additions
 let RECENT_MONTHS_LIMIT_EDITS = 9; //for recent edits
 
+let recents = false;
+
 /**
  * Makes sidebar and then loads bio
  * Called when page first loads with no params
@@ -67,11 +69,13 @@ function startBio() {
 
     if (searching) makeBio(ltrIndex, personIndex, false, false, false);
 }
+
 /**
  * Displays the most recent bios created in Recents page
  * @param {Integer} num number of recents to show
  */
 function showRecents(num) {
+    recents = true;
     setMenu(5);
     var all_bios = getBios();
     const months = [
@@ -1099,6 +1103,8 @@ function formatLocation(loc) {
  * @param {Integer} whichOneGray the index of the menu item that will be set to grey
  */
 function setMenu(whichOneGray) {
+    if(whichOneGray != whichOneGray)     recents = false;
+
     menu =
         '<a id="0" class="top-links" href="index.html">Home</a>' +
         '<a id="1" class="search-buttons" href="bios.html">Name Index</a>' +
@@ -1123,6 +1129,7 @@ function setMenu(whichOneGray) {
  */
 function setTotals(about) {
     setMenu(9);
+    recents = false;
     alph = "abcdefghijklmnopqrstuvwxyz";
     var all_bios = getBios();
 
@@ -1243,7 +1250,7 @@ window.addEventListener("popstate", (event) => {
 
     console.log("popstate", window.location.href);
     //get URL params and reload page
-    startBio();
+    if(!recents) startBio();
 });
 /**
  * Go to previous person (wraps to next letter when needed)

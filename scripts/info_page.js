@@ -44,6 +44,8 @@ function getNextLetter(char) {
 
 function loadInfoPage(checkLinks) {
     setMenu(10);
+        recents = false;
+
 
     all_bios = [
         a_bios,
