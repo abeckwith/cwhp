@@ -293,7 +293,7 @@ function showRecents(num) {
         });
     });
     html2 =
-        "<br><Br>Other recent entries can be found under <span id='latest-link'><a href='info.html'><b>Works in Progress</b> on our Info page</a></span>" +
+        "<br><Br>Other recent entries can be found under <span id='recents'><a href='info.html'><b>Works in Progress</b> on our Info page</a></span>" +
         "<hr><Center><span id='updates'><Br><Br><Br><Br>These " +
         recentUpdatesCount +
         " bios have had significant <b>edits or updates</b> made to them in the last " +
