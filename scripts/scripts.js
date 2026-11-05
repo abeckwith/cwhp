@@ -1145,8 +1145,7 @@ function setTotals(about) {
         //used in About page
         document.getElementById("total-women").innerHTML = totalEntries;
         document.getElementById("total2").innerHTML = totalEntries;
-        console.log("TOTAL: " + totalEntries);
-        console.log("Each letter count:");
+ 
     }
 
     // Collapsible function for main headers
