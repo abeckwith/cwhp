@@ -246,11 +246,12 @@ td > a {
     /* display: block; */
     align-content: center;
 }
-.recents-buttons{
-    width:9vw;
-    font-size:12px;
+.recents-buttons {
+    width: 9vw;
+    font-size: 12px;
 }
-#dailybday, #bdaydisplay a {
+#dailybday,
+#bdaydisplay a {
     color: blue;
 }
 .left {
@@ -703,10 +704,10 @@ a.search-buttons {
     #expand-icon {
         width: 4vw;
     }
-    .recents-buttons{
-    width:20vw;
-    font-size:10vw;
-}
+    .recents-buttons {
+        width: 20vw;
+        font-size: 10vw;
+    }
 }
 
 #menu-text {

@@ -183,13 +183,16 @@ function showRecents(num) {
         });
     });
     topLinks =
-        "<div id='recents-links' style='position:fixed;right:2vw'>"+
+        "<div id='recents-links' style='position:fixed;right:2vw'>" +
         "<button class='random-button-sm recents-buttons' onclick='location.href=\"#new-bios\"'>NEW BIOS</button><br>" +
         "<button class='random-button-sm recents-buttons' onclick='location.href=\"#latest-link\"'>RECENT UPDATES</button><br>" +
         "<button class='random-button-sm recents-buttons' onclick='location.href=\"#all-bios\"'>ALL, BY DATE</button></div><br>";
-    html ="<span id='new-bios' class='nice-header2'>"+
+    html =
+        "<span id='new-bios' class='nice-header2'>" +
         topLinks +
-        "<Center><Br><Br>Profiles of the " + recentCount + " women/organizations listed here " +
+        "<Center><Br><Br><Br><Br>The " +
+        recentCount +
+        " women/organizations listed here " +
         " have been <b> added in the last " +
         RECENT_MONTHS_LIMIT +
         " months:</b></span><br></center>";
@@ -291,7 +294,7 @@ function showRecents(num) {
     });
     html2 =
         "<br><Br>Other recent entries can be found under <span id='latest-link'><a href='info.html'><b>Works in Progress</b> on our Info page</a></span>" +
-        "<hr><Center><span id='updates'>These " +
+        "<hr><Center><span id='updates'><Br><Br><Br><Br>These " +
         recentUpdatesCount +
         " bios have had significant <b>edits or updates</b> made to them in the last " +
         RECENT_MONTHS_LIMIT_EDITS +
@@ -311,7 +314,7 @@ function showRecents(num) {
         return 0;
     });
     html3 =
-        "<br><Center><hr><span id='all-bios' class='nice-header2'><br><Br>ALL BIOS, in reverse order by date:</span><br></center>";
+        "<br><Center><hr><span id='all-bios' class='nice-header2'><Br><Br><br><Br>ALL BIOS, in reverse order by date:</span><br></center>";
 
     //PUT TOGETHER DISPLAY:
     r.forEach((element) => {
@@ -1103,7 +1106,7 @@ function formatLocation(loc) {
  * @param {Integer} whichOneGray the index of the menu item that will be set to grey
  */
 function setMenu(whichOneGray) {
-    if(whichOneGray != whichOneGray)     recents = false;
+    if (whichOneGray != whichOneGray) recents = false;
 
     menu =
         '<a id="0" class="top-links" href="index.html">Home</a>' +
@@ -1247,10 +1250,11 @@ function setBoldInSideBar(bios, letter, loc) {
 window.addEventListener("popstate", (event) => {
     // If a state has been provided, we have a "simulated" page
     // update the current page.
-
-    console.log("popstate", window.location.href);
-    //get URL params and reload page
-    if(!recents) startBio();
+    if (!recents) {
+        console.log("popstate", window.location.href);
+        //get URL params and reload page
+        startBio();
+    }
 });
 /**
  * Go to previous person (wraps to next letter when needed)
