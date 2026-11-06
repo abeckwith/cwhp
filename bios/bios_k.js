@@ -4,12 +4,12 @@ k_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Kendall",
         firstName: "Phebe",
         middleName: "",
         familyName: "Mitchell",
-        
+
         title: `School committee member,
                 biographer`,
         birthDate: "02.23.1828",
@@ -66,25 +66,24 @@ k_bios = [
         dateCreated: "prior to 2009",
         dateUpdated: "04.06.2025",
         photoHeights: [],
-        recentEditNotes:"",
-        editors:"Anthony Beckwith",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
-        categories: [
-            "Political Leader",
-            "Writer",
-        ],
+        categories: ["Political Leader", "Writer"],
     },
     {
         carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Kistiakowsky",
         firstName: "Vera",
         middleName: "",
         familyName: "",
-        
+
         title: `Physicist`,
         birthDate: "09.09.1928",
         birthLocation: "Princeton, New Jersey",
@@ -145,22 +144,24 @@ k_bios = [
         dateUpdated: "04.05.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
-        editors:"Anthony Beckwith",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Scientist"],
     },
-        {
+    {
         carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Kennedy",
         firstName: "Boomer",
         middleName: "Patricia",
         familyName: "",
-        
+
         title: `Entrepreneur, car repair shop owner`,
         birthDate: "12.01.1956",
         birthLocation: "Westport, Connecticut",
@@ -249,8 +250,13 @@ k_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
-        editors:"",
+        recentEditNotes: "",
+        funFactImage: "images_bios/boomer.jpg",
+        funFact: `
+        Kennedy worked as a waitress, chamber maid, store detective, farm worker, social worker, and watchband maker 
+        before <b>founding a groundbreaking women-owned auto mechanics shop</b> in Cambridge in the mid-1980s.
+    `,
+        editors: "",
         authors: "Anthony Beckwith",
         categories: ["Businesswoman", "Auto mechanic"],
     },

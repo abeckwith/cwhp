@@ -47,6 +47,8 @@ d_bios = [
 
         photoHeights: [],
         recentEditNotes:"",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Historian/History Project"],
@@ -97,6 +99,8 @@ d_bios = [
 
         photoHeights: ["200"],
         recentEditNotes:"",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Educational Institution/School"],
@@ -166,6 +170,8 @@ d_bios = [
 
         photoHeights: [],
         recentEditNotes:"",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Musician"],
@@ -228,6 +234,8 @@ d_bios = [
 
         photoHeights: [],
         recentEditNotes:"added birth location and date info and other results of new research",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Businesswoman", "Community Leader", "Volunteer"],
@@ -312,6 +320,8 @@ d_bios = [
 
         photoHeights: [],
         recentEditNotes:"added 1953 quote from Darling",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Law Enforcement", "Military"],
@@ -390,6 +400,8 @@ d_bios = [
 
         photoHeights: ["150"],
         recentEditNotes:"",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Feminist Organization"],
@@ -497,6 +509,8 @@ d_bios = [
 
         photoHeights: [],
         recentEditNotes:"added quote from 2015 interview",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Environmentalist", "Political Leader", "Journalist"],
@@ -613,6 +627,8 @@ d_bios = [
 
         photoHeights: [],
         recentEditNotes:"",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Activist", "Musician", "Author"],
@@ -678,6 +694,8 @@ d_bios = [
 
         photoHeights: [],
         recentEditNotes:"",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: [""],
@@ -755,6 +773,8 @@ d_bios = [
 
         photoHeights: [],
         recentEditNotes:"",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Poet"],
@@ -830,6 +850,8 @@ d_bios = [
 
         photoHeights: [],
         recentEditNotes:"",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Psychiatrist", "Refugee"],
@@ -926,6 +948,8 @@ d_bios = [
 
         photoHeights: [],
         recentEditNotes:"",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Reformer"],
@@ -989,6 +1013,8 @@ d_bios = [
 
         photoHeights: [],
         recentEditNotes:"",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: [""],
@@ -1044,6 +1070,8 @@ d_bios = [
 
         photoHeights: [],
         recentEditNotes:"",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Scientist"],
@@ -1126,6 +1154,8 @@ d_bios = [
 
         photoHeights: [],
         recentEditNotes:"",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Activist", "Teacher/Educator", "Writer"],
@@ -1196,6 +1226,8 @@ d_bios = [
 
         photoHeights: ["200"],
         recentEditNotes:"",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Businesswoman"],
@@ -1291,6 +1323,8 @@ d_bios = [
 
         photoHeights: [""],
         recentEditNotes:"",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Church member"],
@@ -1363,6 +1397,8 @@ d_bios = [
 
         photoHeights: [""],
         recentEditNotes:"",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Church member", "Cook", "Volunteer"],
@@ -1414,6 +1450,8 @@ d_bios = [
 
         photoHeights: [],
         recentEditNotes:"",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Photographer", "Author"],
@@ -1471,6 +1509,8 @@ d_bios = [
 
         photoHeights: [],
         recentEditNotes:"",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Activist", "Mathematician"],

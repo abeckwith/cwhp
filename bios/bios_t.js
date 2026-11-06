@@ -4,12 +4,12 @@ t_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Taussig",
         firstName: "Helen",
         middleName: "Brooke",
         familyName: "",
-        
+
         title: `Pediatric cardiologist`,
         birthDate: "05.24.1898",
         birthLocation: "Cambridge, Massachusetts",
@@ -72,15 +72,17 @@ t_bios = [
        <br><i>American Heart Assocation</i> article, March 28, 2024:<br>
        <a class='indent' href="https://www.heart.org/en/news/2024/03/28/dr-helen-taussigs-work-saved-blue-babies">
        https://www.heart.org/en/news/2024/03/28/dr-helen-taussigs-work-saved-blue-babies</a>    `,
-       
-       photos: ["images_bios/Helen_Taussig.jpg"],
+
+        photos: ["images_bios/Helen_Taussig.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
         dateUpdated: "01.10.2026",
 
         photoHeights: [],
-        recentEditNotes:"added quote from Dr. Olivieri about Taussig",
-        editors:"Anthony Beckwith",
+        recentEditNotes: "added quote from Dr. Olivieri about Taussig",
+        funFact: "",
+        funFactImage: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Doctor", "Author"],
     },
@@ -89,12 +91,12 @@ t_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Taylor",
         firstName: "Katharine",
         middleName: "",
         familyName: "",
-        
+
         title: `Educator, director of the Shady Hill School`,
         birthDate: "06.24.1888",
         birthLocation: "Hartford, Connecticut",
@@ -154,8 +156,10 @@ t_bios = [
         dateUpdated: "04.07.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
-        editors:"Anthony Beckwith",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator"],
     },
@@ -164,12 +168,12 @@ t_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Thomas",
         firstName: "Helen",
         middleName: "Meriwether",
         familyName: "Lewis",
-        
+
         title: `Historian of science, astronomer, engineer, editor`,
         birthDate: "08.21.1905",
         birthLocation: "New York, New York",
@@ -229,25 +233,24 @@ t_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
-        editors:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
+        editors: "",
         authors: "CWHP volunteers",
-        categories: [
-            "Historian/History Project",
-            "Scientist", "Editor",
-        ],
+        categories: ["Historian/History Project", "Scientist", "Editor"],
     },
     {
         carouselMember: true,
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Thompson",
         firstName: "Mary",
         middleName: "P.",
         familyName: "Crutchfield",
-        
+
         title: `Dentist`,
         birthDate: "11.30.1902",
         birthLocation: "Henderson, North Carolina",
@@ -323,8 +326,12 @@ t_bios = [
         dateUpdated: "02.04.2026",
 
         photoHeights: [],
-        recentEditNotes:"added birthdate and birthplace",
-        editors:"Anthony Beckwith",
+        recentEditNotes: "added birthdate and birthplace",
+        funFactImage: "images_bios/thompson_mary_sm.png",
+        funFact:
+            "Thompson was one of the <b>first Black women to practice denistry</b> in the Boston area, running a dental " +
+            "clinic out of her home in Cambridge",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Dentist"],
     },
@@ -333,12 +340,12 @@ t_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Turner",
         firstName: "Ruth",
         middleName: "Dixon",
         familyName: "",
-        
+
         title: `Biologist, malacologist`,
         birthDate: "12.07.1914",
         birthLocation: "Melrose, Massachusetts",
@@ -390,10 +397,11 @@ t_bios = [
         dateUpdated: "04.12.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
-        editors:"Anthony Beckwith",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Scientist"],
     },
-   
 ];

@@ -4,7 +4,7 @@ w_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Wadden",
         firstName: "Mary",
         middleName: "Frances",
@@ -39,7 +39,9 @@ w_bios = [
         dateUpdated: "04.06.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator"],
@@ -49,7 +51,7 @@ w_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Wallace",
         firstName: "Julia",
         middleName: "Abernethy",
@@ -120,7 +122,9 @@ w_bios = [
         dateUpdated: "04.22.2026",
 
         photoHeights: [],
-        recentEditNotes:"added quote from Wallace",
+        recentEditNotes: "added quote from Wallace",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist", "Teacher/Educator", "Volunteer"],
@@ -130,7 +134,7 @@ w_bios = [
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Warrior",
         firstName: "Betsy",
         middleName: "",
@@ -289,7 +293,9 @@ w_bios = [
         photoPos: ["2"],
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist", "Writer", "Editor"],
@@ -299,7 +305,7 @@ w_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Whitman",
         firstName: "Florence",
         middleName: "",
@@ -369,7 +375,9 @@ w_bios = [
         dateUpdated: "04.12.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Political Leader"],
@@ -379,7 +387,7 @@ w_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Whitney",
         firstName: "Anne",
         middleName: "",
@@ -453,7 +461,9 @@ w_bios = [
         dateUpdated: "04.08.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Artist", "Poet"],
@@ -463,7 +473,7 @@ w_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Williams",
         firstName: "Antoinette",
         middleName: "",
@@ -509,7 +519,9 @@ w_bios = [
         dateUpdated: "12.14.2014",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Factory Worker", "Volunteer"],
@@ -519,7 +531,7 @@ w_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  true,
+        organization: true,
         lastName: "Window Shop",
         firstName: "",
         middleName: "",
@@ -589,7 +601,9 @@ w_bios = [
         dateUpdated: "",
 
         photoHeights: ["300"],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Refugee", "Social/Philanthropic Organization"],
@@ -599,7 +613,7 @@ w_bios = [
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Winship",
         firstName: "Joanna",
         middleName: "",
@@ -646,7 +660,9 @@ w_bios = [
         photoPos: ["2"],
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator"],
@@ -656,7 +672,7 @@ w_bios = [
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Winthrop",
         firstName: "Hannah",
         middleName: "",
@@ -722,7 +738,9 @@ w_bios = [
         dateUpdated: "04.08.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Community Leader", "Writer"],
@@ -732,7 +750,7 @@ w_bios = [
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Wise",
         firstName: "Ozeline",
         middleName: "Barrett",
@@ -800,7 +818,9 @@ w_bios = [
         dateUpdated: "12.27.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Volunteer"],
@@ -810,7 +830,7 @@ w_bios = [
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Wise",
         firstName: "Pearl",
         middleName: "",
@@ -869,7 +889,9 @@ w_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Community Leader", "Political Leader"],
@@ -879,7 +901,7 @@ w_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Wolf",
         firstName: "Alice",
         middleName: "",
@@ -941,7 +963,9 @@ w_bios = [
         dateUpdated: "04.06.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Political Leader", "Refugee"],
@@ -951,7 +975,7 @@ w_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  true,
+        organization: true,
         lastName: "Women's Center",
         firstName: "",
         middleName: "",
@@ -1006,7 +1030,12 @@ w_bios = [
         photoPos: ["3"],
 
         photoHeights: ["", "250"],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFactImage: "images_bios/womensctr_sm.png",
+        funFact:
+            "The Women's Center was founded after a group of women <b>took over a former industrial building at 888 Memorial Drive</b>, " +
+            "which led to purchasing a building at 46 Pleasant Street to help underserved women in the city",
+
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Educational Institution/School", "Feminist Organization"],
@@ -1016,7 +1045,7 @@ w_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  true,
+        organization: true,
         lastName: "Women's Coffeehouse, 46 Pleasant Street",
         firstName: "",
         middleName: "",
@@ -1070,7 +1099,9 @@ w_bios = [
         dateUpdated: "04.11.2025",
         photoPos: ["3"],
         photoHeights: ["100"],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Feminist Organization"],
@@ -1080,7 +1111,7 @@ w_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  true,
+        organization: true,
         lastName: "Women's Community Health Center",
         firstName: "",
         middleName: "",
@@ -1153,8 +1184,7 @@ w_bios = [
                 it did not work."
             </blockquote>
             Watch a <a href="https://bostonlocaltv.org/catalog/V_3YWDHR580M76IGB">1977 interview</a> about the Health Center.
-            `
-            ,
+            `,
         otherNotes: "",
         references: `
             NOTE: The Women&rsquo;s Community Health Center archive is housed at Schlesinger Library, Radcliffe Institute.<br>
@@ -1171,7 +1201,9 @@ w_bios = [
         dateUpdated: "05.31.2026",
 
         photoHeights: ["130"],
-        recentEditNotes:"added link to video",
+        recentEditNotes: "added link to video",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "Kimm Topping",
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
@@ -1181,7 +1213,7 @@ w_bios = [
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  true,
+        organization: true,
         lastName: "Women's Law Collective",
         firstName: "",
         middleName: "",
@@ -1236,7 +1268,9 @@ w_bios = [
         dateUpdated: "",
         photoPos: ["3"],
         photoHeights: ["200"],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
@@ -1246,7 +1280,7 @@ w_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  true,
+        organization: true,
         lastName: "Women's School of Cambridge",
         firstName: "",
         middleName: "",
@@ -1289,7 +1323,9 @@ w_bios = [
         dateUpdated: "",
         photoPos: ["3"],
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Educational Institution/School", "Feminist Organization"],
@@ -1299,7 +1335,7 @@ w_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Wong",
         firstName: "Lee",
         middleName: "Shee",
@@ -1425,20 +1461,20 @@ w_bios = [
         dateCreated: "03.04.2026",
         dateUpdated: "",
         photoPos: [""],
-        photoHeights: ["200",
-            "", "500", "", "", "200", ""
-        ],
-        recentEditNotes:"",
+        photoHeights: ["200", "", "500", "", "", "200", ""],
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Restaurant Owner", "Community member"],
     },
-     {
+    {
         carouselMember: false,
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Whitney",
         firstName: "Emma",
         middleName: "Sargent",
@@ -1488,20 +1524,22 @@ w_bios = [
 
         `,
         photos: [
-            "images_bios/barbour_emma.png","images_bios/barbour_news.png"
+            "images_bios/barbour_emma.png",
+            "images_bios/barbour_news.png",
         ],
         photoTitles: [
-            "Moskow's book about Barbour<Br>Source: abebooks.com","Dec. 14, 1989<br>Moskow reached out through the Cambridge Chronicle to find a picture of Emma"
+            "Moskow's book about Barbour<Br>Source: abebooks.com",
+            "Dec. 14, 1989<br>Moskow reached out through the Cambridge Chronicle to find a picture of Emma",
         ],
         dateCreated: "10.24.2026",
         dateUpdated: "",
         photoPos: [""],
-        photoHeights: ["", "150"
-        ],
-        recentEditNotes:"",
+        photoHeights: ["", "150"],
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Teacher/Educator", ""],
     },
-    
 ];

@@ -4,7 +4,7 @@ m_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Majors",
         firstName: "Mary",
         middleName: "Josephine",
@@ -121,7 +121,9 @@ m_bios = [
         dateUpdated: "12.27.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Nurse", "Military"],
@@ -131,7 +133,7 @@ m_bios = [
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  true,
+        organization: true,
         lastName: "Mapping Feminist Cambridge",
         firstName: "",
         middleName: "",
@@ -182,18 +184,20 @@ m_bios = [
         photoPos: ["2"],
 
         photoHeights: ["150"],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Historian/History Project"],
     },
-   
+
     {
         carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Markham",
         firstName: "Helen",
         middleName: "Wendler",
@@ -258,7 +262,11 @@ m_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFactImage: "images_bios/Markham_HWD.jpg",
+        funFact:
+            "A biologist and histochemist, in 1944 Markham became the <b>first female instructor and " +
+            "later the first female professor</b> in the Department of Anatomy at Harvard Medical School.",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Activist", "Scientist"],
@@ -268,7 +276,7 @@ m_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Marshall",
         firstName: "Lorna",
         middleName: "Jean",
@@ -326,13 +334,21 @@ m_bios = [
             <A href="https://www.ancestry.com/mediaui-viewer/tree/47579690/person/322410618877/media/77b16f60-f4db-46fa-8f7f-7adfe79394d1">Link</a>
 
         `,
-        photos: ["images_bios/marshall_lorna.png", "images_bios/marshall_lorna.jpg"],
+        photos: [
+            "images_bios/marshall_lorna.png",
+            "images_bios/marshall_lorna.jpg",
+        ],
         photoTitles: ["", "Lorna Marshall's book about the !Kung people"],
         dateCreated: "prior to 2009",
         dateUpdated: "12.28.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "images_bios/marshall_lorna.jpg",
+        funFact:
+            "Marhsall was an anthropologist who published a book about the !Kung people. She <b>lived be to 104 years old. </b>" +
+            "Over a period of two decades, she spent <b>more time in Botswana and Namibia than she did in Cambridge</b>, developing close personal ties to the !Kung for her book.",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Scientist", "Writer"],
@@ -342,7 +358,7 @@ m_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  true,
+        organization: true,
         lastName: "Massachusetts Feminist Federal Credit Union",
         firstName: "",
         middleName: "",
@@ -399,7 +415,9 @@ m_bios = [
         photoPos: ["2"],
 
         photoHeights: [""],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "Kimm Topping",
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
@@ -409,7 +427,7 @@ m_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Mathison",
         firstName: "Genevieve",
         middleName: "McGlinchey",
@@ -490,7 +508,9 @@ m_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Activist", "Teacher/Educator", "Scientist"],
@@ -500,7 +520,7 @@ m_bios = [
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Mazur",
         firstName: "Gail",
         middleName: "Lewis",
@@ -580,7 +600,9 @@ m_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Teacher/Educator", "Poet"],
@@ -590,7 +612,7 @@ m_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Merrill",
         firstName: "Estelle",
         middleName: "M.",
@@ -656,7 +678,9 @@ m_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Community Leader", "Teacher/Educator", "Writer"],
@@ -666,7 +690,7 @@ m_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Mongan",
         firstName: "Agnes",
         middleName: "",
@@ -732,7 +756,9 @@ m_bios = [
         dateUpdated: "04.05.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Historian/History Project"],
@@ -742,7 +768,7 @@ m_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Moore",
         firstName: "Dorothea",
         middleName: "May",
@@ -806,7 +832,9 @@ m_bios = [
         dateUpdated: "04.05.2025",
 
         photoHeights: ["200"],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Doctor"],
@@ -816,7 +844,7 @@ m_bios = [
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Morgan",
         firstName: "Maud",
         middleName: "",
@@ -895,7 +923,9 @@ by Cate McQuaid,, April 12, 2017.
         dateUpdated: "04.12.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Artist", "Teacher/Educator"],
@@ -905,7 +935,7 @@ by Cate McQuaid,, April 12, 2017.
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Morrison",
         firstName: "Kathleen",
         middleName: "",
@@ -1002,7 +1032,9 @@ by Cate McQuaid,, April 12, 2017.
         dateUpdated: "12.23.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Business Manager"],
@@ -1012,7 +1044,7 @@ by Cate McQuaid,, April 12, 2017.
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Morrison",
         firstName: "Phylis",
         middleName: "",
@@ -1059,13 +1091,21 @@ by Cate McQuaid,, April 12, 2017.
                 <br>Source for book cover:<br>
                 <a class='indent' href="https://www.thriftbooks.com/w/crystals-and-crystal-growing_phylis-morrison_alan-holden/319857">https://www.thriftbooks.com/w/crystals-and-crystal-growing_phylis-morrison_alan-holden/319857</a>
                 `,
-        photos: ["images_bios/morrison_phyllis.png", "images_bios/morrison_phyllis2.png"],
-        photoTitles: ["Morrison with her husband, Phil Morrison", "Morrison co-authored this text (her married name at the time was Singer)"],
+        photos: [
+            "images_bios/morrison_phyllis.png",
+            "images_bios/morrison_phyllis2.png",
+        ],
+        photoTitles: [
+            "Morrison with her husband, Phil Morrison",
+            "Morrison co-authored this text (her married name at the time was Singer)",
+        ],
         dateCreated: "prior to 2009",
         dateUpdated: "07.09.2026",
 
         photoHeights: [],
-        recentEditNotes:"updated references and added images",
+        recentEditNotes: "updated references and added images",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Artist", "Teacher/Educator", "Scientist", "Writer"],
@@ -1075,7 +1115,7 @@ by Cate McQuaid,, April 12, 2017.
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Morales",
         firstName: "Rosario",
         middleName: "",
@@ -1196,7 +1236,14 @@ by Cate McQuaid,, April 12, 2017.
         dateUpdated: "04.30.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFactImage:
+            "images_bios/rosario%20Sari%20self-portrait%20painting_sm.jpg",
+        funFact:
+            "A feminist poet, activist, and author, Morales also did oil paintings, printmaking," +
+            " and fiber arts and was an amateur naturalist anthropologist. In 1987, she was one of 18 " +
+            "Massachusetts poets and writers whose work was <b>inscribed in granite and installed along the " +
+            "new Orange Line MBTA stations</b>.",
         editors: "Anthony Beckwith",
         authors: "Anthony Beckwith",
         categories: ["Activist", "Poet", "Author"],
@@ -1207,7 +1254,7 @@ by Cate McQuaid,, April 12, 2017.
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "McKay",
         firstName: "Amy",
         middleName: "",
@@ -1249,23 +1296,25 @@ by Cate McQuaid,, April 12, 2017.
         dateUpdated: "",
 
         photoHeights: ["230"],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Astronomer"],
     },
-     {
+    {
         carouselMember: true,
         addressFound: false,
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "McCree",
         firstName: "Robin",
         middleName: "Tirrell",
         familyName: "",
 
-      title: `Probation officer and Assistant Clerk-Magistrate at Cambridge District Court`,
+        title: `Probation officer and Assistant Clerk-Magistrate at Cambridge District Court`,
         birthDate: "00.00.1957",
 
         birthLocation: "Cambridge, Massachusetts",
@@ -1328,18 +1377,28 @@ by Cate McQuaid,, April 12, 2017.
             Interview with Robin McCree, conducted by Anthony Beckwith, Jan. 9 and Jan. 13, 2026
         
              `,
-        photos: ["images_bios/mcree.jpg", "images_bios/mccree1.png", "images_bios/mccree2.png"],
-        photoTitles: ["","Robin McCree at BB&N, 1975", "Robin McCree at Tuftsm 1979"],
+        photos: [
+            "images_bios/mcree.jpg",
+            "images_bios/mccree1.png",
+            "images_bios/mccree2.png",
+        ],
+        photoTitles: [
+            "",
+            "Robin McCree at BB&N, 1975",
+            "Robin McCree at Tuftsm 1979",
+        ],
         dateCreated: "01.13.2026",
         dateUpdated: "",
 
         photoHeights: [""],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Clerk", "Law Enforcement"],
     },
-     {
+    {
         carouselMember: false,
         addressFound: false,
         poc: false,
@@ -1384,17 +1443,22 @@ by Cate McQuaid,, April 12, 2017.
 
             `,
         photos: ["images_bios/Jean_Mason_1.jpg", "images_bios/mason_jean2.png"],
-        photoTitles: ["Source: RogersFunerHome.net", "Mason's second memoir<br>Source: Walmart Images"],
+        photoTitles: [
+            "Source: RogersFunerHome.net",
+            "Mason's second memoir<br>Source: Walmart Images",
+        ],
         dateCreated: "10.13.2026",
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Author", "Housing Advocate", "Psychologist"],
     },
-       {
+    {
         carouselMember: false,
         addressFound: true,
         poc: false,
@@ -1431,17 +1495,19 @@ by Cate McQuaid,, April 12, 2017.
 
             `,
         photos: ["images_bios/Gertrude-Wright-Morgan.jpeg"],
-        photoTitles: ["Source: Mt. Auburn Cemetery website",],
+        photoTitles: ["Source: Mt. Auburn Cemetery website"],
         dateCreated: "10.14.2026",
         dateUpdated: "",
 
         photoHeights: [""],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Teacher", "Civil Rights Activist"],
-       },
-        {
+    },
+    {
         carouselMember: true,
         addressFound: true,
         poc: false,
@@ -1500,15 +1566,18 @@ by Cate McQuaid,, April 12, 2017.
 
             `,
         photos: ["images_bios/Murray.png"],
-        photoTitles: ["Source: Cambridge Chronicle, 24 Oct 2013<br>The Food Heroes Committee honored seven people for their work towards \"fair, healthy, and sustainable food in the city\""],
+        photoTitles: [
+            'Source: Cambridge Chronicle, 24 Oct 2013<br>The Food Heroes Committee honored seven people for their work towards "fair, healthy, and sustainable food in the city"',
+        ],
         dateCreated: "10.30.2026",
         dateUpdated: "",
 
         photoHeights: ["350"],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Social worker", "Activist"],
-       },
-    ];
-    
+    },
+];

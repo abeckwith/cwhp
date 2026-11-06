@@ -80,6 +80,8 @@ o_bios = [
 
         photoHeights: ["250"],
         recentEditNotes:"",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "Kimm Topping",
         categories: ["Historian/History Project"],
@@ -167,6 +169,8 @@ o_bios = [
 
         photoHeights: [],
         recentEditNotes:"added poem from Orne",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Librarian", "Poet", "Author"],

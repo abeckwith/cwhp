@@ -71,7 +71,9 @@ s_bios = [
         dateUpdated: "04.11.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Community Leader", "Teacher/Educator"],
@@ -180,7 +182,9 @@ s_bios = [
         photoHeights: ["250"],
         photoPos: ["2"],
 
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Refugee", "Poet", "Author"],
@@ -251,7 +255,12 @@ s_bios = [
         dateUpdated: "01.17.2026",
 
         photoHeights: [],
-        recentEditNotes:"added Schelinger quote about CHLS in the 1930s",
+        recentEditNotes: "added Schelinger quote about CHLS in the 1930s",
+        funFactImage: "images_bios/Marian_Schlesinger.jpg",
+        funFact:
+            "Schleshinger <b>wrote two memoirs about Cambridge</b>. The first was about growing up " +
+            "in Cambridge in the 1920s and 1930s (<i>Snatched From Oblivion</i>, 1979) and the second centered " +
+            "on her her adult life in Cambridge (<i>I Remember: A Life of Politics, Painting and People</i>, 2012)",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Artist", "Author"],
@@ -300,7 +309,9 @@ s_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "",
         categories: ["Astronomer"],
@@ -382,7 +393,9 @@ s_bios = [
         dateUpdated: "12.27.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist", "Child Care Provider"],
@@ -503,7 +516,9 @@ s_bios = [
         photoPos: ["6"],
 
         photoHeights: [],
-        recentEditNotes:"added 2024 Simmons quote",
+        recentEditNotes: "added 2024 Simmons quote",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: [
@@ -606,7 +621,9 @@ s_bios = [
         dateUpdated: "02.04.2026",
 
         photoHeights: [],
-        recentEditNotes:"added image and quote from 1982 interview",
+        recentEditNotes: "added image and quote from 1982 interview",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Author"],
@@ -687,7 +704,10 @@ s_bios = [
         dateUpdated: "01.11.2026",
 
         photoHeights: ["400"],
-        recentEditNotes:"added birth location and excerpt of letter to Boston Globe",
+        recentEditNotes:
+            "added birth location and excerpt of letter to Boston Globe",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Writer", "Architect"],
@@ -743,7 +763,9 @@ s_bios = [
         dateUpdated: "",
 
         photoHeights: ["200"],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "",
         categories: ["Astronomer"],
@@ -811,7 +833,9 @@ s_bios = [
         dateUpdated: "04.12.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Community Leader", "Political Leader"],
@@ -884,7 +908,9 @@ s_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "",
         categories: ["Teacher"],
@@ -972,7 +998,12 @@ s_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+   funFactImage: "images_bios/squier1.png",
+        funFact:  `Squier wrote dozens of essays for the Cambridge Chronicle with <b>remembrances of 
+        growing up in Cambridge</b>, from 1982 to 1989. In 1993, the Cambridge Public Library published
+        her essays in book form.`,
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Author", "Copywriter"],
@@ -1055,17 +1086,22 @@ s_bios = [
         
         `,
         photos: ["images_bios/Louisa-solano.jpg", "images_bios/grolier.jpg"],
-        photoTitles: ["Photo of Solano by Cambridge Photographer Elsa Dorfman", "Grolier today"],
+        photoTitles: [
+            "Photo of Solano by Cambridge Photographer Elsa Dorfman",
+            "Grolier today",
+        ],
         dateCreated: "10.19.2026",
         dateUpdated: "",
 
         photoHeights: ["400", "400"],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Bookstore owner", "Businesswoman"],
     },
-     {
+    {
         carouselMember: true,
         addressFound: true,
         poc: false,
@@ -1130,12 +1166,17 @@ s_bios = [
 
         `,
         photos: ["images_bios/salvi1.jpg", "images_bios/salvi2.jpg"],
-        photoTitles: ["Source: AJ Spears website ", "Source: AJ Spears website "],
+        photoTitles: [
+            "Source: AJ Spears website ",
+            "Source: AJ Spears website ",
+        ],
         dateCreated: "11.01.2026",
         dateUpdated: "",
 
         photoHeights: ["", ""],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Nurse", "Teacher/Educator", "Counselor"],

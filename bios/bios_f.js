@@ -4,7 +4,7 @@ f_bios = [
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Fleischmann",
         firstName: "Susan",
         middleName: "",
@@ -59,7 +59,9 @@ f_bios = [
         dateUpdated: "",
         photoPos: [],
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Activist", "Teacher/Educator"],
@@ -69,7 +71,7 @@ f_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  true,
+        organization: true,
         lastName: "Focus Counseling and Consultation, Inc.",
         firstName: "",
         middleName: "",
@@ -124,7 +126,9 @@ f_bios = [
         dateUpdated: "",
         photoPos: ["4"],
         photoHeights: ["250", "550"],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "Kimm Topping",
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
@@ -134,7 +138,7 @@ f_bios = [
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Friedler",
         firstName: "Gladys",
         middleName: "",
@@ -201,7 +205,10 @@ f_bios = [
         dateUpdated: "04.11.2025",
         photoPos: [],
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFactImage: "images_bios/Friedler_Gaby.jpg",
+        funFact:
+            "Friedler sang <b>folk songs in the cafés of Cambridge</b> in the late 1950s before becoming a developmental pharmacologist",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Scientist"],
@@ -211,7 +218,7 @@ f_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Frye",
         firstName: "Mary",
         middleName: "Hamilton",
@@ -267,17 +274,19 @@ f_bios = [
      <a class='indent' href="https://itoldya420.getarchive.net/amp/media/illustration-from-the-adventures-of-nils-by-mary-hamilton-frye-page-154-42ec0d">https://itoldya420.getarchive.net/amp/media/illustration-from-the-adventures-of-nils-by-mary-hamilton-frye-page-154-42ec0d</a>
     <br><i>The Boston Globe</i>, Jun 17, 1921, page 11.
         <br><i>The Houston Post</i>  Dec 07, 1913, page 56.
-    `    ,
+    `,
         photos: ["images_bios/frye.jpg", "images_bios/frye2.png"],
         photoTitles: [
             "Illustration from The Adventures of Nils by Mary Hamilton Frye, page 154",
-            "The Boston Globe, June 1921"
+            "The Boston Globe, June 1921",
         ],
         dateCreated: "prior to 2009",
         dateUpdated: "01.11.2026",
         photoPos: [],
         photoHeights: ["", "580"],
-        recentEditNotes:"added 1913 Houston Post quote about Frye",
+        recentEditNotes: "added 1913 Houston Post quote about Frye",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "Robin Hein",
         categories: ["Artist"],
@@ -287,7 +296,7 @@ f_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Fuller",
         firstName: "Margaret",
         middleName: "",
@@ -362,17 +371,19 @@ In
         dateUpdated: "",
         photoPos: [],
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Social/Philanthropic Organization", "Author"],
     },
-     {
+    {
         carouselMember: false,
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Franks",
         firstName: "Goldie",
         middleName: "Theresa",
@@ -431,23 +442,28 @@ In
         <a class='indent' href="https://nrs.lib.harvard.edu/URN-3:RAD.SCHL:10050460:VIEW?n=15">https://nrs.lib.harvard.edu/URN-3:RAD.SCHL:10050460:VIEW?n=15</a><br>
         <i>Cambridge High and Latin School yearbook</i> 1932.
 `,
-        photos: [ "images_bios/franks_sep_4_1906.png", "images_bios/franks.png"],
-        photoTitles: ["Boton Globe, Sept. 4, 1906", "Goldie Franks' daughter Elsie May Franks, CHLS Yearbook, 1932"],
+        photos: ["images_bios/franks_sep_4_1906.png", "images_bios/franks.png"],
+        photoTitles: [
+            "Boton Globe, Sept. 4, 1906",
+            "Goldie Franks' daughter Elsie May Franks, CHLS Yearbook, 1932",
+        ],
         dateCreated: "01.11.2026",
         dateUpdated: "",
         photoPos: ["1"],
         photoHeights: ["160"],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Teacher", "Writer"],
     },
-       {
+    {
         carouselMember: true,
         addressFound: false,
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Fenton",
         firstName: "Elizabeth",
         middleName: "",
@@ -505,17 +521,20 @@ In
         
 
 `,
-        photos: [ "images_bios/fenton.png", "images_bios/fenton_cover.png"],
-        photoTitles: ["Source: back cover of <i>Public Testimony</i>, photo by Patricia Walsh", "Source: Cambridge Public Library"],
+        photos: ["images_bios/fenton.png", "images_bios/fenton_cover.png"],
+        photoTitles: [
+            "Source: back cover of <i>Public Testimony</i>, photo by Patricia Walsh",
+            "Source: Cambridge Public Library",
+        ],
         dateCreated: "10.30.2026",
         dateUpdated: "",
         photoPos: [""],
         photoHeights: [""],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Poet", "Astrologer"],
     },
-  
 ];
-

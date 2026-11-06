@@ -4,7 +4,7 @@ h_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Halsted",
         firstName: "Isabella",
         middleName: "",
@@ -61,7 +61,11 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFactImage: "images_bios/hazen.png",
+        funFact: `   Because several of her brothers were enlisted at the time, Fannie <b>insisted that she be
+        able to serve as a nurse in the Civil War </b>and was accepted after repeated rejections because of her young
+        age. After the war, she opened a dress-making establishment in Cambridge to help support her family.`,
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Activist", "Author"],
@@ -71,7 +75,7 @@ h_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Hamilton",
         firstName: "Alice",
         middleName: "",
@@ -126,7 +130,9 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Doctor"],
@@ -136,7 +142,7 @@ h_bios = [
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Hamilton",
         firstName: "Margaret",
         middleName: "Elaine",
@@ -191,13 +197,18 @@ h_bios = [
                 <i>Cambidge City Directory</i>, 1972
 
         `,
-        photos: ["images_bios/Margaret_Hamilton_1995.jpg", "images_bios/hamilton_margaret2.png"],
+        photos: [
+            "images_bios/Margaret_Hamilton_1995.jpg",
+            "images_bios/hamilton_margaret2.png",
+        ],
         photoTitles: ["", ""],
         dateCreated: "prior to 2009",
         dateUpdated: "10.17.2026",
 
         photoHeights: [],
-        recentEditNotes:"upon her death, updated death date and birthdate",
+        recentEditNotes: "upon her death, updated death date and birthdate",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Businesswoman"],
@@ -207,7 +218,7 @@ h_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Harvey",
         firstName: "Beatrice",
         middleName: '"Bea"',
@@ -250,7 +261,9 @@ h_bios = [
         dateUpdated: "12.24.2025",
 
         photoHeights: ["200"],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Community Leader", "Factory Worker"],
@@ -261,7 +274,7 @@ h_bios = [
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Herman",
         firstName: "Judith",
         middleName: "",
@@ -338,7 +351,9 @@ h_bios = [
         dateUpdated: "04.07.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Psychiatrist"],
@@ -348,7 +363,7 @@ h_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Hiatt",
         firstName: "Suzanne",
         middleName: "Radley",
@@ -412,7 +427,9 @@ h_bios = [
         dateUpdated: "04.08.2025",
 
         photoHeights: [250, 150],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Clergy", "Teacher/Educator"],
@@ -422,7 +439,7 @@ h_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Hocking",
         firstName: "Agnes",
         middleName: "Boyle",
@@ -478,7 +495,9 @@ h_bios = [
         dateUpdated: "04.05.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Editor"],
@@ -488,7 +507,7 @@ h_bios = [
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Holman",
         firstName: "Winifred",
         middleName: "",
@@ -546,7 +565,9 @@ h_bios = [
         photoPos: ["2"],
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Acquitted of Witchcraft"],
@@ -556,7 +577,7 @@ h_bios = [
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Hopkins",
         firstName: "Pauline",
         middleName: "Elizabeth",
@@ -641,13 +662,18 @@ h_bios = [
        <br><i>Cambridge City Directory</i>, 1928.<br>
        "Echoes from the Annual Convention of Northeastern Federation of Colored Women's Clubs," <i>Colored American Magazine</i> 6.10 (Oct. 1903): 709-713.
         <br>"Pauline Elizabeth Hopkins: Black Daughter of the Revolution", by Lois Brown, 2008, Univeristy of North Carolina Press.       `,
-        photos: [ "images_bios/Hopkins2.png", "images_bios/Pauline_Elizabeth_Hopkins.jpg"],
+        photos: [
+            "images_bios/Hopkins2.png",
+            "images_bios/Pauline_Elizabeth_Hopkins.jpg",
+        ],
         photoTitles: [],
         dateCreated: "prior to 2009",
         dateUpdated: "12.30.2025",
 
         photoHeights: ["400"],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Writer"],
@@ -657,7 +683,7 @@ h_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Horsford",
         firstName: "Cornelia",
         middleName: "",
@@ -714,7 +740,9 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Author"],
@@ -724,7 +752,7 @@ h_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Howe",
         firstName: "Lois",
         middleName: "Lilley",
@@ -878,7 +906,14 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFactImage: "images_bios/howe_sm.jpg",
+        funFact:
+            'In 1876, when Howe was just 12 years old, the workers building the Sanders Theatre in Cambridge named Howe <b>"the little superintendent"</b>' +
+            " for her constant comments on the project. She later became a founding member of MIT's <b>first women student's group</b>, " +
+            "while studying architecture." +
+            "",
+
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Architect"],
@@ -888,7 +923,7 @@ h_bios = [
         addressFound: false,
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Huang",
         firstName: "Audrey",
         middleName: "I-Wei",
@@ -971,7 +1006,9 @@ h_bios = [
         dateUpdated: "04.04.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Lawyer", "Teacher/Educator", "Businesswoman"],
@@ -981,7 +1018,7 @@ h_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Hubbard",
         firstName: "Ruth",
         middleName: "",
@@ -1056,13 +1093,15 @@ h_bios = [
         <i>The Boston Globe</i>,"Ruth Hubbard, 92, First woman tenured in biology at Harvard, 9/4/2016.<br>
         <i>The New York Times</i>, "Scholars Face a Challenge by Feminists" by Edward B. Fiske, Nov. 23, 1981.
         `,
-        photos: ["images_bios/Ruth_Wald.jpg"],  
+        photos: ["images_bios/Ruth_Wald.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
         dateUpdated: "12.29.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist", "Refugee", "Scientist"],
@@ -1072,7 +1111,7 @@ h_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Huntington",
         firstName: "Anna",
         middleName: "Vaughn",
@@ -1143,7 +1182,9 @@ h_bios = [
         dateUpdated: "01.01.2026",
 
         photoHeights: [],
-        recentEditNotes:"added 2014 Art News quote about Huntington",
+        recentEditNotes: "added 2014 Art News quote about Huntington",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Artist"],
@@ -1153,7 +1194,7 @@ h_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Hurd",
         firstName: "Marjorie",
         middleName: "",
@@ -1261,7 +1302,9 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Sportswoman", "Volunteer"],
@@ -1271,7 +1314,7 @@ h_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Henry",
         firstName: "Marian",
         middleName: "Alberta",
@@ -1313,17 +1356,19 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "",
         categories: ["Astronomer"],
     },
-       {
+    {
         carouselMember: true,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Hazen",
         firstName: "Fannie",
         middleName: "Hallycarnie",
@@ -1410,18 +1455,25 @@ h_bios = [
           
         
              `,
-        photos: ["images_bios/hazen.png", ""],
+
+        photos: ["images_bios/hazen.png"],
         photoTitles: [],
         dateCreated: "03.21.2026",
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFactImage: "images_bios/hazen.png",
+        funFact: `
+        Because several of her brothers were enlisted at the time, Fannie <b>insisted that she be
+        able to serve as a nurse in the Civil War </b>and was accepted after repeated rejections because of her young
+        age. After the war, she opened a dress-making establishment in Cambridge to help support her family.
+    `,
         editors: "",
         authors: "Eric Hill",
         categories: ["Nurse", "Dresskmaker"],
     },
-       {
+    {
         carouselMember: false,
         addressFound: false,
         poc: false,
@@ -1464,7 +1516,9 @@ h_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Businesswoman", "Designer"],

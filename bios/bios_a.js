@@ -4,15 +4,15 @@ a_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Ackermann",
         firstName: "Barbara",
         middleName: "",
         familyName: "Hulley",
-        
+
         title: `First female mayor of Cambridge`,
         birthDate: "03.01.1925",
-        
+
         birthLocation: "Stockholm, Sweden",
         deathDate: "07.04.2020",
         deathLocation: "Lenox, Massachusetts",
@@ -70,12 +70,16 @@ a_bios = [
         photos: ["images_bios/Barbara%20Ackermann%20small.jpeg"],
         photoTitles: [""],
         photoHeights: [],
-        
+
         dateCreated: "00.00.2014",
         dateUpdated: "12.23.2025",
 
-        recentEditNotes:"",
-        editors:"Joan Sindall, Barbara Beckwith",
+        recentEditNotes: "",
+        funFactImage: "images_bios/Barbara Ackermann small.jpeg",
+        funFact:
+            "Ackermann was the <b>first woman</b> to serve as the <b>mayor of the City of Cambridge</b>. As a city councilor, she helped put a stop to " +
+            "plans to tear down homes and develop the Inner Belt highway through Cambridge",
+        editors: "Joan Sindall, Barbara Beckwith",
         authors: "CWHP volunteers",
         categories: ["Political Leader"],
     },
@@ -84,12 +88,12 @@ a_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Abbott",
         firstName: "Eleanor",
         middleName: "Hallowell",
         familyName: "",
-        
+
         title: `Author`,
         birthDate: "09.22.1872",
         birthLocation: "Cambridge, Massachusetts",
@@ -153,14 +157,19 @@ a_bios = [
             Book cover photo from Abe Books:<br>
             <a class='indent' href="https://www.abebooks.com/first-edition/Being-Little-Cambridge-When-Big-Eleanor/31885289056/bd#&gid=1&pid=1">https://www.abebooks.com/first-edition/Being-Little-Cambridge-When-Big-Eleanor/31885289056/bd#&gid=1&pid=1</a>
         `,
-        photos: ["images_bios/Portrait_of_Eleanor_Hallowell_Abbott.jpg", "images_bios/abbott_cover.png"],
+        photos: [
+            "images_bios/Portrait_of_Eleanor_Hallowell_Abbott.jpg",
+            "images_bios/abbott_cover.png",
+        ],
         photoTitles: ["", "Abbott's memoir <i>Being Little in Cambridge</i>"],
         dateCreated: "prior to 2009",
         dateUpdated: "12.17.2025",
 
         photoHeights: ["400", "500"],
-        recentEditNotes:"",
-        editors:"Joan Sindall & Anthony Beckwith",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
+        editors: "Joan Sindall & Anthony Beckwith",
         authors: "CWHP Volunteers",
         categories: ["Author"],
     },
@@ -170,12 +179,12 @@ a_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Adams",
         firstName: "Mary",
         middleName: "Howe",
         familyName: "Manning",
-        
+
         title: `Novelist, playwright`,
         birthDate: "06.30.1905",
         birthLocation: "Dublin, Ireland",
@@ -259,8 +268,10 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         dateUpdated: "12.23.25",
 
         photoHeights: [],
-        recentEditNotes:"",
-        editors:"Anthony Beckwith",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Author"],
     },
@@ -270,12 +281,12 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Agassiz",
         firstName: "Elizabeth",
         middleName: "Cabot",
         familyName: "Cary",
-        
+
         title: `First President of Radcliffe College`,
         birthDate: "12.05.1822",
         birthLocation: "Boston, Massachusetts",
@@ -343,8 +354,10 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         dateUpdated: "07.15.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
-        editors:"Anthony Beckwith",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator"],
     },
@@ -353,12 +366,12 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Albright",
         firstName: "Carol",
         middleName: "",
         familyName: "Bonomo",
-        
+
         title: `American historian, editor`,
         birthDate: "00.00.1938",
         birthLocation: "",
@@ -422,25 +435,24 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         dateUpdated: "12.23.25",
 
         photoHeights: [],
-        recentEditNotes:"",
-        editors:"Anthony Beckwith",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
-        categories: [
-            "Historian",
-            "Writer", "Editor"
-        ],
+        categories: ["Historian", "Writer", "Editor"],
     },
     {
         carouselMember: false,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Aldrich",
         firstName: "Elizabeth",
         middleName: "Cannon",
         familyName: "",
-        
+
         title: `Community leader`,
         birthDate: "10.31.1919",
         birthLocation: "",
@@ -484,8 +496,10 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
-        editors:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Community Leader"],
     },
@@ -494,12 +508,12 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Aldrich",
         firstName: "Elizabeth",
         middleName: "",
         familyName: "Perkins",
-        
+
         title: `Writer, editor`,
         birthDate: "ca.1907",
         birthLocation: "Cambridge, Massachusetts",
@@ -539,8 +553,10 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
-        editors:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Author"],
     },
@@ -549,12 +565,12 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Alice James Books",
         firstName: "",
         middleName: "",
         familyName: "",
-        
+
         title: `Non-profit cooperative poetry press<br>(founded 1973)`,
         birthDate: "",
         birthLocation: "",
@@ -619,8 +635,10 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         dateUpdated: "12.23.25",
 
         photoHeights: [],
-        recentEditNotes:"",
-        editors:"Anthony Beckwith",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: [""],
     },
@@ -630,12 +648,12 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         addressFound: false,
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Alleyne",
         firstName: "Corinne",
         middleName: "Helen",
         familyName: "Woodson",
-        
+
         title: `Registered nurse, oral historian`,
         birthDate: "07.21.1907",
         birthLocation: "Cambridge, Massachusetts",
@@ -691,14 +709,22 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
             <i>The Cambridge Chronicle</i>,  24 July 1986, 2 October 1986, 27 September 1990.
 
         `,
-        photos: ["images_bios/corinne2.png", "images_bios/corinne woodson alleyne.png"],
-        photoTitles: ["\"Corinne Alleyne, a video producer, oral historian and former nurse, works at a video editing machine at Continental Cablevision (photo by Cheryl A. Miller)\" Camb. Chronicle, 9/27/1990", ""],
+        photos: [
+            "images_bios/corinne2.png",
+            "images_bios/corinne woodson alleyne.png",
+        ],
+        photoTitles: [
+            '"Corinne Alleyne, a video producer, oral historian and former nurse, works at a video editing machine at Continental Cablevision (photo by Cheryl A. Miller)" Camb. Chronicle, 9/27/1990',
+            "",
+        ],
         dateCreated: "prior to 2010",
         dateUpdated: "12.30.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
-        editors:"Anthony Beckwith",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Nurse"],
     },
@@ -707,12 +733,12 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Al-Weqayan",
         firstName: "Ellen",
         middleName: "M.",
         familyName: "Maguire",
-        
+
         title: `Activist, teacher`,
         birthDate: "07.25.1941",
         birthLocation: "",
@@ -765,8 +791,10 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         dateUpdated: "12.23.25",
 
         photoHeights: [],
-        recentEditNotes:"",
-        editors:"Anthony Beckwith",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist", "Teacher/Educator"],
     },
@@ -775,12 +803,12 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Anders",
         firstName: "Rosalie",
         middleName: "",
         familyName: "",
-        
+
         title: `Activist, social worker, Cambridge project coordinator`,
         birthDate: "00.00.1943",
         birthLocation: "Boston, Massachusetts",
@@ -833,8 +861,10 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
-        editors:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Activist"],
     },
@@ -843,12 +873,12 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Andrade",
         firstName: "Dominga",
-        middleName: "\"Minnie\"",
+        middleName: '"Minnie"',
         familyName: "Lopes",
-        
+
         title: `Stitcher`,
         birthDate: "07.10.1904",
         birthLocation: "New Bedford, Massachusetts",
@@ -884,28 +914,34 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         <i>Cambridge City Directory</i> 1941, 1944 ,1972.
             `,
         photos: ["images_bios/andrade.png"],
-        photoTitles: ["1940 U.S. Census for Cambridge showing Dominga as Presser at 41 Market St."],
+        photoTitles: [
+            "1940 U.S. Census for Cambridge showing Dominga as Presser at 41 Market St.",
+        ],
         dateCreated: "prior to 2009",
         dateUpdated: "07.24.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
-        editors:"Anthony Beckwith",
+        recentEditNotes: "",
+        funFactImage: "images_bios/doffer.png",
+        funFact:
+            "In 1919, at the age of 15, Andrade was working in New Bedford as a <b>cotton mill doffer</b>, replacing bobbins or spindles from a spinning frame as they ran out.<br>" +
+            "She moved to Cambridge in the 1930s and <b>lived on Market Street for over 60 years.</b> ",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Factory Worker"],
     },
- 
+
     {
         carouselMember: true,
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Archer",
         firstName: "Linda",
         middleName: "Eileen",
         familyName: "",
-        
+
         title: `Cambridge resident`,
         birthDate: "05.05.1951",
         birthLocation: "",
@@ -962,8 +998,10 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         dateUpdated: "12.23.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
-        editors:"Anthony Beckwith",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: [""],
     },
@@ -972,12 +1010,12 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Arditti",
         firstName: "Rita",
         middleName: "",
         familyName: "",
-        
+
         title: `Biologist, bookstore co-founder
                             `,
         birthDate: "09.09.1934",
@@ -1071,8 +1109,10 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         dateUpdated: "12.23.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
-        editors:"Anthony Beckwith",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Community Leader", "Scientist"],
     },
@@ -1081,12 +1121,12 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         addressFound: false,
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Argaw",
         firstName: "Seble",
         middleName: "W.",
         familyName: "",
-        
+
         title: `Founder Ethiopian Adbar Women's Alliance`,
         birthDate: "ca.1975",
         birthLocation: "Ethiopia",
@@ -1131,8 +1171,10 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
-        editors:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
+        editors: "",
         authors: "CWHP volunteers",
         categories: ["Community Leader"],
     },
@@ -1141,12 +1183,12 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Avakian",
         firstName: "Josephine",
-        middleName: "\"Josie\" Camile",
+        middleName: '"Josie" Camile',
         familyName: "Santagate",
-        
+
         title: `Social activist, housing advocate`,
         birthDate: "09.17.1937",
 
@@ -1256,22 +1298,24 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         dateUpdated: "12.13.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
-        editors:"Anthony Beckwith",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
-        categories: ["Activist","Housing Advocate"],
+        categories: ["Activist", "Housing Advocate"],
     },
     {
         carouselMember: false,
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Azevedo",
         firstName: "Louise",
         middleName: "Anne",
         familyName: "",
-        
+
         title: `Nursing home volunteer`,
         birthDate: "03.01.1959",
         birthLocation: "Cambridge, Massachusetts",
@@ -1311,8 +1355,10 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         dateUpdated: "12.15.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
-        editors:"Anthony Beckwith",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Volunteer"],
     },
@@ -1321,12 +1367,12 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Armstrong",
         firstName: "Barbara",
         middleName: "",
         familyName: "Ward",
-        
+
         title: `Artitst, fashion designer, choreographer`,
         birthDate: "00.00.1940",
         birthLocation: "Cambridge, Massachusetts",
@@ -1384,22 +1430,24 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
-        editors:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
+        editors: "",
         authors: "Anthony Beckwith",
         categories: ["Dancer", "Choreographer", "Artist", "Fashion Designer"],
     },
-      {
+    {
         carouselMember: true,
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Axelrod",
         firstName: "Janet",
         middleName: "Suzann",
         familyName: "",
-        
+
         title: `Feminist activist, funder of social movements, tech VP`,
         birthDate: "11.01.1951",
         birthLocation: "New York, New York",
@@ -1515,28 +1563,30 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
 
       Images from Eli Plenk
         `,
-        photos: ["images_bios/janet_2001.jpg", "images_bios/janet_flower.jpg" ],
+        photos: ["images_bios/janet_2001.jpg", "images_bios/janet_flower.jpg"],
         photoTitles: [],
         dateCreated: "01.25.2026",
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
-        editors:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
+        editors: "",
         authors: "Anthony Beckwith, Eli Plenk",
         categories: ["Activist", "Philanthropist", "Executive", "Volunteer"],
     },
-       {
+    {
         carouselMember: true,
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Antupit",
         firstName: "Frances",
         middleName: "Vivian",
         familyName: "",
-        
+
         title: `Photographer, businesswoman`,
         birthDate: "10.05.1934",
         birthLocation: "Hartford, Connecticut",
@@ -1652,18 +1702,24 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         <a class='indent' href="https://www.legacy.com/us/obituaries/bostonglobe/name/frances-antupit-obituary?id=60412431">https://www.legacy.com/us/obituaries/bostonglobe/name/frances-antupit-obituary?id=60412431</a>
 
         `,
-        photos: ["images_bios/Antupit_Frances002.jpg" , "images_bios/Antupit_Frances003.jpg", "images_bios/antupit3.png" ],
+        photos: [
+            "images_bios/Antupit_Frances002.jpg",
+            "images_bios/Antupit_Frances003.jpg",
+            "images_bios/antupit3.png",
+        ],
         photoTitles: ["", "Photo by Sam Antupit"],
         dateCreated: "01.30.2026",
         dateUpdated: "",
 
         photoHeights: ["", "450", "400"],
-        recentEditNotes:"",
-        editors:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
+        editors: "",
         authors: "Meta Partenheimer, Anthony Beckwith",
         categories: ["Photographer", "Businesswoman"],
     },
-     {
+    {
         carouselMember: false,
         addressFound: false,
         poc: false,
@@ -1674,7 +1730,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         middleName: "E.",
         familyName: "",
 
-        title: `Public housing advocate`,    
+        title: `Public housing advocate`,
         birthDate: "",
         birthLocation: "Puerto Rico",
         deathDate: "",
@@ -1712,13 +1768,11 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Activist"],
     },
 ];
-
-
-
-

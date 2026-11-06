@@ -73,7 +73,12 @@ j_bios = [
         dateUpdated: "04.05.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFactImage: "images_bios/harriet_jacobs.jpg",
+        funFact:
+            "Jacobs lived in Cambridge after the Civil War, but <b>for seven years, she lived hidden from her enslavers in an " +
+            "attic</b> in North Carolina, reading, writing, and sewing, before fleeing in 1842 to New York City and freedom",
+
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: [
@@ -169,7 +174,9 @@ j_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Political Leader", "Poet", "Author"],
@@ -257,7 +264,13 @@ j_bios = [
         dateUpdated: "04.08.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFactImage: "images_bios/grace_johnson.png",
+        funFact:
+            "A member of the Massachusetts, as well as the National, Women's Suffrage Associations, " +
+            'Johnson wrote a <b>1915 letter to the Cambridge Tribune</b>, arguing:<br><i> "Though woman suffrage is delayed in Massachusetts, ' +
+            'it is surely coming. Justice demands it. The spirit of the century claims the help of women in the government."</i>',
+
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: [
@@ -330,7 +343,9 @@ j_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Businesswoman"],
@@ -346,7 +361,7 @@ j_bios = [
         middleName: "Gish",
         familyName: "",
 
-        title: `Author`,    
+        title: `Author`,
         birthDate: "00.00.1955",
         birthLocation: "Long Island, New York",
         deathDate: "",
@@ -384,7 +399,9 @@ j_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Writer"],

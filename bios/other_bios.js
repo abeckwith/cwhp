@@ -74,6 +74,8 @@
 
         photoHeights: [],
         recentEditNotes:"",
+        funFact: "",
+        funFactImage: "",
         editors:"Joan Sindall",
         authors: "CWHP Volunteers",
         categories: ["Sportswoman", "Teacher/Educator"],
@@ -130,6 +132,8 @@
 
         photoHeights: [],
         recentEditNotes:"",
+        funFact: "",
+        funFactImage: "",
         editors:"",
         authors: "CWHP volunteers",
         categories: ["Community Leader"],
@@ -190,6 +194,8 @@
 
         photoHeights: [],
         recentEditNotes:"",
+        funFact: "",
+        funFactImage: "",
         editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Author"],
@@ -249,6 +255,8 @@ Image from <a href="https://en.wikipedia.org/wiki/Charlotte_Cushman" >https://en
 
         photoHeights: [],
         recentEditNotes:"",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Actress"],
@@ -299,6 +307,8 @@ Image from <a href="https://en.wikipedia.org/wiki/Charlotte_Cushman" >https://en
 
         photoHeights: [],
         recentEditNotes:"",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Dancer"],
@@ -366,6 +376,8 @@ Image from <a href="https://en.wikipedia.org/wiki/Charlotte_Cushman" >https://en
 
         photoHeights: [],
         recentEditNotes:"",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Architect"],
@@ -425,6 +437,8 @@ Image from <a href="https://en.wikipedia.org/wiki/Charlotte_Cushman" >https://en
         
         photoHeights: [],
         recentEditNotes:"",
+        funFact: "",
+        funFactImage: "",
         editors:"",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Scientist"],

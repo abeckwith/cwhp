@@ -4,7 +4,7 @@ b_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  true,
+        organization: true,
         lastName: "Back Porch Dance Company",
         firstName: "",
         middleName: "",
@@ -85,7 +85,9 @@ b_bios = [
         photoPos: ["4"],
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Dancer"],
@@ -95,7 +97,7 @@ b_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Balch",
         firstName: "Emily",
         middleName: "Greene",
@@ -202,7 +204,9 @@ b_bios = [
         dateCreated: "prior to 2009",
         dateUpdated: "12.30.2025",
 
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist", "Economist", "Editor"],
@@ -212,7 +216,7 @@ b_bios = [
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Baldwin",
         firstName: "Maria",
         middleName: "Louisa",
@@ -294,9 +298,13 @@ b_bios = [
         photoTitles: [],
         dateCreated: "prior to 2009",
         dateUpdated: "",
-        
+
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFactImage: "images_bios/mary louise baldwin.jpeg",
+        funFact:
+            "Baldwin was the first African-American to be appointed as a <b>principal at a public school</b> in Massachusetts</b> " +
+            "(the Agassiz in Cambridge). She was also an activist and a writer.",
         editors: "",
         authors: "CWHP volunteers",
         categories: [
@@ -310,7 +318,7 @@ b_bios = [
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Barlow",
         firstName: "Louisa",
         middleName: "Frances",
@@ -364,7 +372,9 @@ b_bios = [
         dateUpdated: "11.14.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Abolitionist", "Refugee"],
@@ -374,7 +384,7 @@ b_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Barnes",
         firstName: "Mary",
         middleName: "",
@@ -425,7 +435,9 @@ b_bios = [
         dateUpdated: "07.29.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Community Leader", "Pilot"],
@@ -435,7 +447,7 @@ b_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Bancroft",
         firstName: "Mary",
         middleName: "",
@@ -510,7 +522,9 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Intelligence Officer", "Author"],
@@ -520,7 +534,7 @@ b_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Barron",
         firstName: "Ruth",
         middleName: "Lillian",
@@ -586,7 +600,9 @@ b_bios = [
         dateUpdated: "12.30.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Businesswoman", "Volunteer"],
@@ -596,7 +612,7 @@ b_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Bates",
         firstName: "Charlotte",
         middleName: "Fiske",
@@ -658,7 +674,9 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator"],
@@ -668,7 +686,7 @@ b_bios = [
         addressFound: false,
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Battle",
         firstName: "De Ama",
         middleName: "",
@@ -732,7 +750,9 @@ b_bios = [
         photoPos: ["2"],
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Dancer"],
@@ -742,7 +762,7 @@ b_bios = [
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  true,
+        organization: true,
         lastName: "Bee",
         firstName: "",
         middleName: "",
@@ -797,7 +817,9 @@ b_bios = [
         dateUpdated: "02.01.2026",
 
         photoHeights: [],
-        recentEditNotes:"added 1863 image",
+        recentEditNotes: "added 1863 image",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Social/Philanthropic Organization"],
@@ -807,7 +829,7 @@ b_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Bell",
         firstName: "Mabel",
         middleName: "Gardiner",
@@ -893,17 +915,23 @@ b_bios = [
         dateUpdated: "01.15.2026",
 
         photoHeights: [],
-        recentEditNotes:"filled out bio with new research",
+        recentEditNotes: "filled out bio with new research",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
-        categories: ["Teacher/Educator", "Suffragists/Suffrage Group", "Businesswoman"],
+        categories: [
+            "Teacher/Educator",
+            "Suffragists/Suffrage Group",
+            "Businesswoman",
+        ],
     },
     {
         carouselMember: false,
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Bennett",
         firstName: "Satyra",
         middleName: "",
@@ -1021,7 +1049,10 @@ b_bios = [
         dateUpdated: "01.31.2026",
 
         photoHeights: ["", "190"],
-        recentEditNotes:"added image and new research about Bennett's community involvement",
+        recentEditNotes:
+            "added image and new research about Bennett's community involvement",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Community Leader", "Volunteer"],
@@ -1031,7 +1062,7 @@ b_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Berman",
         firstName: "Sara",
         middleName: "Mae",
@@ -1121,7 +1152,9 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: [
@@ -1133,13 +1166,13 @@ b_bios = [
             "Editor",
         ],
     },
-  
+
     {
         carouselMember: false,
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Bernays",
         firstName: "Anne",
         middleName: "",
@@ -1224,7 +1257,9 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Author"],
@@ -1234,7 +1269,7 @@ b_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Bibring",
         firstName: "Grete",
         middleName: "",
@@ -1273,7 +1308,9 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Psychiatrist", "Refugee"],
@@ -1283,7 +1320,7 @@ b_bios = [
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Bishop",
         firstName: "Elizabeth",
         middleName: "",
@@ -1368,7 +1405,12 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFactImage:
+            "images_bios/Elizabeth_Bishop,_1934_yearbook_portrait.jpg",
+        funFact:
+            "In 1976, Bishop became the first American and the first woman to be awarded the <b>Books" +
+            " Abroad/Neustadt International Prize for Literature</b>",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Poet"],
@@ -1378,7 +1420,7 @@ b_bios = [
         addressFound: false,
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  true,
+        organization: true,
         lastName: "Black Women Oral History Project",
         firstName: "",
         middleName: "",
@@ -1421,7 +1463,9 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Historian/History Project"],
@@ -1431,7 +1475,7 @@ b_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Blackwell",
         firstName: "Alice",
         middleName: "Stone",
@@ -1510,7 +1554,9 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: [
@@ -1525,7 +1571,7 @@ b_bios = [
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Bodecker",
         firstName: "Mary",
         middleName: "Anne",
@@ -1612,19 +1658,23 @@ b_bios = [
         photoPos: ["2"],
 
         photoHeights: ["250"],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFactImage: "images_bios/bodecker_sm.png",
+        funFact:
+            "Bodecker set up the first case management program in the country to <b>work with incarcerated women with AIDS. </b>" +
+            "She was also a naturalist, who traveled to Quebec to see baby seals, to Labrador and Newfoundland to study polar bears and snowy owls, and to Antarctica to view the penguin colonies. " +
+            "When almost seventy, <b>she took a dog sledding trip to Alaska, camping in deep snow.</b>",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Activist"],
     },
-   
 
     {
         carouselMember: false,
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Boring",
         firstName: "Alice",
         middleName: "Middleton",
@@ -1683,7 +1733,9 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Scientist"],
@@ -1693,7 +1745,7 @@ b_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Boulanger",
         firstName: "Nadia",
         middleName: "",
@@ -1776,7 +1828,9 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Musician"],
@@ -1786,7 +1840,7 @@ b_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Bradstreet",
         firstName: "Anne",
         middleName: "",
@@ -1847,7 +1901,9 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Poet"],
@@ -1857,7 +1913,7 @@ b_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Brand",
         firstName: "Hermine",
         middleName: '"Mina"',
@@ -1903,7 +1959,9 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Librarian", "Businesswoman"],
@@ -1913,7 +1971,7 @@ b_bios = [
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Brass",
         firstName: "Marilynn",
         middleName: "Pearl",
@@ -2039,13 +2097,18 @@ b_bios = [
 
 
         `,
-        photos: ["images_bios/brass_marilynn.jpg", "images_bios/Brass sisters.jpg"],
+        photos: [
+            "images_bios/brass_marilynn.jpg",
+            "images_bios/Brass sisters.jpg",
+        ],
         photoTitles: ["", "The Brass Sisters"],
         dateCreated: "00.00.2016",
         dateUpdated: "04.06.2025",
 
         photoHeights: ["200"],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: [
@@ -2059,7 +2122,7 @@ b_bios = [
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Brass",
         firstName: "Sheila",
         middleName: "Janet",
@@ -2162,13 +2225,18 @@ b_bios = [
      
 
         `,
-        photos: ["images_bios/brass_sheila.jpg", "images_bios/Brass sisters.jpg"],
+        photos: [
+            "images_bios/brass_sheila.jpg",
+            "images_bios/Brass sisters.jpg",
+        ],
         photoTitles: ["", "The Brass Sisters"],
         dateCreated: "00.00.2016",
         dateUpdated: "07.29.2025",
 
         photoHeights: ["200"],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Jan Gardner",
         authors: "CWHP Volunteers",
         categories: [
@@ -2183,7 +2251,7 @@ b_bios = [
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Brazier",
         firstName: "Mary",
         middleName: "Agnes",
@@ -2234,7 +2302,9 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Historian/History Project", "Scientist"],
@@ -2244,7 +2314,7 @@ b_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  true,
+        organization: true,
         lastName: "Bread and Roses",
         firstName: "",
         middleName: "",
@@ -2307,7 +2377,9 @@ b_bios = [
         dateUpdated: "12.23.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Feminist Organization"],
@@ -2317,7 +2389,7 @@ b_bios = [
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  true,
+        organization: true,
         lastName: "Bread and Roses Restaurant",
         firstName: "",
         middleName: "",
@@ -2381,7 +2453,9 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "Kimm Topping",
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
@@ -2391,7 +2465,7 @@ b_bios = [
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Brown",
         firstName: "Charlotte",
         middleName: "Eugenia",
@@ -2453,13 +2527,18 @@ b_bios = [
             Wikipedia entry:<br>
             <a class='indent' href="https://en.wikipedia.org/wiki/Charlotte_Hawkins_Brown">https://en.wikipedia.org/wiki/Charlotte_Hawkins_Brown</a>
         `,
-        photos: ["images_bios/brown_charlotte.jpg","images_bios/brown_charlotte2.jpg"],
+        photos: [
+            "images_bios/brown_charlotte.jpg",
+            "images_bios/brown_charlotte2.jpg",
+        ],
         photoTitles: ["", "1905"],
         dateCreated: "prior to 2009",
         dateUpdated: "02.18.2026",
 
         photoHeights: [],
-        recentEditNotes:"added photo and quote from Brown museum",
+        recentEditNotes: "added photo and quote from Brown museum",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator"],
@@ -2469,7 +2548,7 @@ b_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Brunt",
         firstName: "Ruth",
         middleName: "Gillespie",
@@ -2511,7 +2590,10 @@ b_bios = [
         dateUpdated: "01.29.2026",
 
         photoHeights: [],
-        recentEditNotes:"added birth and death dates and new info from research",
+        recentEditNotes:
+            "added birth and death dates and new info from research",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Volunteer"],
@@ -2521,7 +2603,7 @@ b_bios = [
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Bull",
         firstName: "Sara",
         middleName: "",
@@ -2572,7 +2654,9 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Community Leader", "Author"],
@@ -2582,7 +2666,7 @@ b_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Bunting-Smith",
         firstName: "Mary",
         middleName: "",
@@ -2641,7 +2725,9 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Scientist"],
@@ -2651,7 +2737,7 @@ b_bios = [
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Burke",
         firstName: "Antonia",
         middleName: "Neves",
@@ -2712,7 +2798,9 @@ b_bios = [
         dateUpdated: "12.21.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator"],
@@ -2722,7 +2810,7 @@ b_bios = [
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Burrell",
         firstName: "Annie",
         middleName: "Elizabeth",
@@ -2761,7 +2849,9 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Community Leader"],
@@ -2771,7 +2861,7 @@ b_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Burton",
         firstName: "Jeanne",
         middleName: "Vingge",
@@ -2844,7 +2934,9 @@ b_bios = [
         dateUpdated: "02.03.2026",
 
         photoHeights: [],
-        recentEditNotes:"added quote from racial justice award",
+        recentEditNotes: "added quote from racial justice award",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist"],
@@ -2854,7 +2946,7 @@ b_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Butler",
         firstName: "Caroline",
         middleName: "Bernadine",
@@ -2903,7 +2995,9 @@ b_bios = [
         photoPos: ["2"],
 
         photoHeights: ["100"],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator"],
@@ -2913,7 +3007,7 @@ b_bios = [
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Butler",
         firstName: "Gladys",
         middleName: "Marion",
@@ -2958,7 +3052,9 @@ b_bios = [
         dateUpdated: "04.06.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: [""],
@@ -2968,7 +3064,7 @@ b_bios = [
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Butcher",
         firstName: "Susan",
         middleName: "",
@@ -3038,7 +3134,9 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "Siobhan Bredin",
         categories: ["Athlete"],
@@ -3048,7 +3146,7 @@ b_bios = [
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Beckwith",
         firstName: "Barbara",
         middleName: "",
@@ -3187,7 +3285,9 @@ b_bios = [
         dateUpdated: "01.15.2026",
 
         photoHeights: [],
-        recentEditNotes:"added quotes from 2013 essay",
+        recentEditNotes: "added quotes from 2013 essay",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "Anthony Beckwith",
         categories: ["Activist", "Writer", "Teacher/Educator", "Journalist"],
@@ -3197,7 +3297,7 @@ b_bios = [
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Bibber",
         firstName: "Florence",
         middleName: "May",
@@ -3235,7 +3335,9 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP Volunteers",
         categories: ["Astronomer"],
@@ -3245,7 +3347,7 @@ b_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Butterfield",
         firstName: "Elizabeth",
         middleName: '"Betty"',
@@ -3327,13 +3429,21 @@ b_bios = [
             <i>Cambridge City Directory</i>, 1972.<br>
         <i>U.S., Social Security Death Index</i>, 1935-2014.
         `,
-        photos: ["images_bios/butterfield.png","images_bios/butterfield_mawr.jpg"],
-        photoTitles: ["Source: findagrave.com", "Source: Brywn Mawr Bookstore facebook page"],
+        photos: [
+            "images_bios/butterfield.png",
+            "images_bios/butterfield_mawr.jpg",
+        ],
+        photoTitles: [
+            "Source: findagrave.com",
+            "Source: Brywn Mawr Bookstore facebook page",
+        ],
         dateCreated: "11.15.2025",
         dateUpdated: "",
 
         photoHeights: ["400"],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Barbara Beckwith",
         authors: "Jan Gardner",
         categories: ["Activist", "Non-profit Owner"],
@@ -3343,7 +3453,7 @@ b_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Boudreau",
         firstName: "Alma",
         middleName: "Marie",
@@ -3410,17 +3520,25 @@ b_bios = [
         dateUpdated: "",
 
         photoHeights: [""],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFactImage: "images_bios/boudreau_alma3.png",
+        funFact:
+            "Boudreau grew up in Cambridge and worked at the Temple Street office of the New England " +
+            "Telephone Company <B>for 47 years</b>. As a <B>trustee of the Cambridge Public Library </b>for decades, " +
+            "she was honored in 1989 by having the Concord Avenue CPL branch named after her. At a celebration honoring" +
+            ' her work, she retorted:<br> <i>"You might have thought I put every brick in every branch library building. Well, I' +
+            " didn't. Now let's go have some tea!\"</i>",
+
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Telephone company worker", "Library Trustee"],
     },
-      {
+    {
         carouselMember: false,
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Blackburn",
         firstName: "Chris",
         middleName: "",
@@ -3528,18 +3646,21 @@ b_bios = [
         `,
         photos: ["images_bios/chrisanddar2.jpg", "images_bios/chrisanddar.jpg"],
         photoTitles: [
-            "Chris (L) and Dar (R), North Cambridge, c.1992", "Chris (L) and Dar (R), at a 2017 demonstration in California"
+            "Chris (L) and Dar (R), North Cambridge, c.1992",
+            "Chris (L) and Dar (R), at a 2017 demonstration in California",
         ],
         dateCreated: "05.08.2026",
         dateUpdated: "",
 
         photoHeights: [""],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Meta Partenheimer",
         authors: "Anthony Beckwith",
         categories: ["Activist", "Nun"],
     },
-         {
+    {
         carouselMember: false,
         addressFound: false,
         poc: false,
@@ -3577,15 +3698,19 @@ b_bios = [
 
             `,
         photos: ["images_bios/ednabrown.jpg", "images_bios/ednabrown2.png"],
-        photoTitles: ["Source: Alpha Kappa Alpha Sorority webpage", "Cambridge Chronicle, Feb. 8, 1919"],
+        photoTitles: [
+            "Source: Alpha Kappa Alpha Sorority webpage",
+            "Cambridge Chronicle, Feb. 8, 1919",
+        ],
         dateCreated: "10.13.2026",
         dateUpdated: "",
 
         photoHeights: ["", "120"],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Dentist"],
     },
- 
 ];

@@ -1,7 +1,7 @@
 c_bios = [
     {
         carouselMember: false,
-        addressFound:true,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
         organization: true,
@@ -59,7 +59,9 @@ c_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Social/Philanthropic Organization"],
@@ -142,7 +144,9 @@ c_bios = [
         dateUpdated: "12.28.2025",
 
         photoHeights: [215],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Suffragists/Suffrage Group"],
@@ -222,7 +226,11 @@ c_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFactImage: "images_bios/CSALA_195x250.jpeg",
+        funFact:
+            "CSALA was the first such school to <b>offer women graduate training</b> in both architecture and landscape architecture under a single faculty",
+
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Educational Institution/School", "School/Institution"],
@@ -312,7 +320,9 @@ c_bios = [
         dateUpdated: "02.19.2026",
 
         photoHeights: [],
-        recentEditNotes:"added newspaper article quote about Cannon",
+        recentEditNotes: "added newspaper article quote about Cannon",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Scientist", "Suffragists/Suffrage Group", "Astronomer"],
@@ -412,7 +422,9 @@ c_bios = [
         dateUpdated: "01.11.2026",
 
         photoHeights: [],
-        recentEditNotes:"added excerpt of 1938 Cannon letter to the editor",
+        recentEditNotes: "added excerpt of 1938 Cannon letter to the editor",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: [""],
@@ -480,7 +492,9 @@ c_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Social/Philanthropic Organization", "Women's Club"],
@@ -537,12 +551,14 @@ c_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Feminist Organization"],
     },
-  
+
     {
         carouselMember: true,
         addressFound: true,
@@ -609,7 +625,9 @@ c_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Psychologist"],
@@ -681,7 +699,9 @@ c_bios = [
         dateUpdated: "01.30.2026",
 
         photoHeights: [],
-        recentEditNotes:"added 1994 Boston Globe quote",
+        recentEditNotes: "added 1994 Boston Globe quote",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Businesswoman", "Chef"],
@@ -796,7 +816,9 @@ c_bios = [
         dateUpdated: "12.14.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Chef"],
@@ -856,7 +878,9 @@ c_bios = [
         photoPos: ["2"],
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "Kimm Topping",
         categories: [
@@ -926,7 +950,9 @@ c_bios = [
         dateUpdated: "12.20.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "Kimm Topping",
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
@@ -984,7 +1010,14 @@ c_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFactImage: "images_bios/clayground2.png",
+        funFact:
+            "Clayground was a <b>women-owned pottery business and collective, " +
+            "founded in 1976</b> by Annie Hoffman and Carole Ann Fer. Women did all" +
+            " of the renovations of the Hampshire Street location, including electrical and plumbing." +
+            '<br><br> Annie recalls: "We were making vessels. The body is a vessel, and a house is an outer ' +
+            'vessel, so <b>learning how to renovate a space was essential and empowering for us as women."</b>',
         editors: "",
         authors: "Kimm Topping",
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
@@ -1062,7 +1095,9 @@ c_bios = [
         dateUpdated: "",
 
         photoHeights: ["200"],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Businesswoman"],
@@ -1145,7 +1180,9 @@ c_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator"],
@@ -1236,7 +1273,9 @@ c_bios = [
         dateUpdated: "12.27.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Clairvoyant"],
@@ -1315,7 +1354,9 @@ c_bios = [
         photoPos: [3],
 
         photoHeights: [],
-        recentEditNotes:"added references and photos",
+        recentEditNotes: "added references and photos",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: [""],
@@ -1415,7 +1456,15 @@ c_bios = [
         dateUpdated: "12.30.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFactImage:
+            "images_bios/Jane_Curtin_at_the_41st_Emmy_Awards_cropped_and_altered.jpg",
+        funFact:
+            "Curtin was born in Cambridge. When in her senior year of high school, she went to a theater in Inman Square with a " +
+            'friend who was auditioning for an improv show. When the director asked "Anybody' +
+            ' else want to audition?" Curtin got up on stage and performed, despite having no improv experience, <B>and ended up getting the job.</b>' +
+            " Curtin went on to become an <b>internationally-known actress and comedian.</b>",
+
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Actress"],
@@ -1466,7 +1515,9 @@ c_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Writer"],
@@ -1514,7 +1565,9 @@ c_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Teacher/Educator"],

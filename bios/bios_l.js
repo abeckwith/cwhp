@@ -4,7 +4,7 @@ l_bios = [
         addressFound: false,
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Ladd",
         firstName: "Florence",
         middleName: "",
@@ -69,7 +69,12 @@ l_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+  funFactImage: "images_bios/Florence%20Ladd%20small.jpeg",
+        funFact: 
+            "The director of the Bunting Institute at Radcliffe College, Ladd's first novel, <i>Sarah's Psalm</i>, " +
+            "was published in 1996 and won the <b>Best Fiction Award</b> from " +
+            "the Black Caucus of the American Library Association",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Psychologist", "Teacher/Educator"],
@@ -79,7 +84,7 @@ l_bios = [
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Larson",
         firstName: "Linda",
         middleName: "",
@@ -123,7 +128,9 @@ l_bios = [
         dateUpdated: "04.12.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Writer", "Editor"],
@@ -133,7 +140,7 @@ l_bios = [
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Layne",
         firstName: "Christol",
         middleName: "Louise",
@@ -175,7 +182,9 @@ l_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Childcare Provider"],
@@ -185,7 +194,7 @@ l_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Leavitt",
         firstName: "Henrietta",
         middleName: "Swan",
@@ -227,7 +236,9 @@ l_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Scientist", "Astronomer"],
@@ -237,7 +248,7 @@ l_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  true,
+        organization: true,
         lastName: "Lesbian Avengers and LGBTQ Seniors Group",
         firstName: "",
         middleName: "",
@@ -279,7 +290,9 @@ l_bios = [
         photoPos: ["3"],
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "Kimm Topping",
         categories: ["Feminist Organization"],
@@ -289,7 +302,7 @@ l_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Lesley",
         firstName: "Edith",
         middleName: "",
@@ -377,7 +390,12 @@ l_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFactImage: "images_bios/EdithLesley_small2.jpeg",
+        funFact:
+            "After working for a time as a kindergarten teacher in Cambridge, " +
+            "Edith Lesley <b>founded the Lesley School</b>, which eventually became <b>Lesley College</b> (and later Lesley University)",
+
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator"],
@@ -387,7 +405,7 @@ l_bios = [
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Lewis",
         firstName: "Emily",
         middleName: "",
@@ -468,7 +486,9 @@ l_bios = [
         dateUpdated: "02.01.2026",
 
         photoHeights: ["500"],
-        recentEditNotes:"added image from 1973 Chronicle",
+        recentEditNotes: "added image from 1973 Chronicle",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Nurse", "Volunteer", "Community Leader"],
@@ -478,7 +498,7 @@ l_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Longfellow",
         firstName: "Alice",
         middleName: "Mary",
@@ -558,7 +578,9 @@ l_bios = [
         dateUpdated: "12.28.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Philanthropist", "Preservationist"],
@@ -568,7 +590,7 @@ l_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Lowell",
         firstName: "Maria",
         middleName: "",
@@ -621,7 +643,9 @@ l_bios = [
         dateUpdated: "04.05.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Abolitionist", "Poet"],
@@ -631,7 +655,7 @@ l_bios = [
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Lowry",
         firstName: "Lois",
         middleName: "",
@@ -684,7 +708,9 @@ l_bios = [
         dateUpdated: "04.05.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Author"],
@@ -694,7 +720,7 @@ l_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Luscomb",
         firstName: "Florence",
         middleName: "Hope",
@@ -817,13 +843,18 @@ l_bios = [
 <br><i>The Boston Globe</i>, May 03, 1914.<br>
             <i>Cambridge City Directory</i>, 1946.
         `,
-        photos: ["images_bios/Florence%20Luscombe%201977%20small.jpeg", "images_bios/luscomb2.png"],
+        photos: [
+            "images_bios/Florence%20Luscombe%201977%20small.jpeg",
+            "images_bios/luscomb2.png",
+        ],
         photoTitles: [],
         dateCreated: "prior to 2009",
         dateUpdated: "12.27.2025",
 
         photoHeights: ["", "400"],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist", "Suffragists/Suffrage Group", "Architect"],
@@ -833,7 +864,7 @@ l_bios = [
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Leno",
         firstName: "Mary",
         middleName: "M.",
@@ -902,7 +933,12 @@ l_bios = [
         dateUpdated: "01.01.2026",
 
         photoHeights: [],
-        recentEditNotes:"added 1997 quote from Leno about the LEAP project",
+        recentEditNotes: "added 1997 quote from Leno about the LEAP project",
+        funFactImage: "images_bios/leno_mary.jpeg",
+        funFact:
+            'A long-time social activist and photographer, Leno also created "S.L.U.T."(Senior Lesbian Urban Transport), a' +
+            " transportation system where she would <b>help out her elder friends and neighbors</b> by driving them for important appointments and errands",
+
         editors: "Anthony Beckwith",
         authors: "Anthony Beckwith",
         categories: ["Activist", "Photographer"],

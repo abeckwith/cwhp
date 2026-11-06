@@ -4,7 +4,7 @@ g_bios = [
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Gatherwright",
         firstName: "Dorothy",
         middleName: "A.",
@@ -48,7 +48,9 @@ g_bios = [
         dateUpdated: "12.17.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Musician"],
@@ -58,7 +60,7 @@ g_bios = [
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Gilman",
         firstName: "Caroline",
         middleName: "",
@@ -117,7 +119,9 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: [""],
@@ -127,7 +131,7 @@ g_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  true,
+        organization: true,
         lastName: "Goddard-Cambridge Graduate Program in Social Change",
         firstName: "",
         middleName: "",
@@ -205,23 +209,32 @@ g_bios = [
             All images courtesy of <i>University Archives and Special Collections</i>, Joseph P. Healey Library, 
             University of Massachusetts Boston.
         `,
-        photos: ["images_bios/goddard4.jpg", "images_bios/goddard1.JPG", "images_bios/goddard3.JPG" ],
-        photoTitles: ["From the Feminist Studies group at Goddard", "1971 Adversitement"],
+        photos: [
+            "images_bios/goddard4.jpg",
+            "images_bios/goddard1.JPG",
+            "images_bios/goddard3.JPG",
+        ],
+        photoTitles: [
+            "From the Feminist Studies group at Goddard",
+            "1971 Adversitement",
+        ],
         dateCreated: "prior to 2009",
         dateUpdated: "02.04.2026",
 
         photoHeights: ["350", "350", "460"],
-        recentEditNotes:"added images",
+        recentEditNotes: "added images",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "Kimm Topping",
         categories: ["Educational Institution/School", "School/Institution"],
     },
     {
         carouselMember: true,
-        addressFound:true,
+        addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Gluck",
         firstName: "Louise",
         middleName: "",
@@ -303,7 +316,9 @@ g_bios = [
         dateUpdated: "04.05.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Poet", "Author"],
@@ -313,7 +328,7 @@ g_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Goodman",
         firstName: "Miriam",
         middleName: "Anne",
@@ -417,7 +432,9 @@ g_bios = [
         dateUpdated: "01.11.2026",
 
         photoHeights: [],
-        recentEditNotes:"added 1993 Goodman poem",
+        recentEditNotes: "added 1993 Goodman poem",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Photographer", "Poet"],
@@ -427,7 +444,7 @@ g_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Gould",
         firstName: "Alice",
         middleName: "Bache",
@@ -498,7 +515,9 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: [
@@ -512,7 +531,7 @@ g_bios = [
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Graham",
         firstName: "Saundra",
         middleName: "Mae",
@@ -614,13 +633,18 @@ g_bios = [
             <a class='indent' href="https://www.legacy.com/us/obituaries/bostonglobe/name/saundra-graham-obituary?id=52398590">https://www.legacy.com/us/obituaries/bostonglobe/name/saundra-graham-obituary?id=52398590/a>
 
         `,
-        photos: [ "images_bios/graham2.png", "images_bios/Saundra_Graham.png"],
+        photos: ["images_bios/graham2.png", "images_bios/Saundra_Graham.png"],
         photoTitles: [],
         dateCreated: "prior to 2009",
         dateUpdated: "05.31.2026",
 
         photoHeights: [],
-        recentEditNotes:"added link to video",
+        recentEditNotes: "added link to video",
+        funFactImage: "images_bios/Saundra_Graham.png",
+        funFact:
+            "Graham was the first woman of color to be elected to the <b>Cambridge City Council</b>, who " +
+            "also led the fight for <b>rent control</b> in Cambridge",
+
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist", "Political Leader"],
@@ -630,7 +654,7 @@ g_bios = [
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Gray",
         firstName: "Renae",
         middleName: "",
@@ -717,7 +741,9 @@ g_bios = [
         dateUpdated: "04.08.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist", "Teacher/Educator"],
@@ -727,7 +753,7 @@ g_bios = [
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Green",
         firstName: "Suzanne",
         middleName: "",
@@ -821,7 +847,9 @@ g_bios = [
         dateUpdated: "04.08.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Historian/History Project"],
@@ -831,7 +859,7 @@ g_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  true,
+        organization: true,
         lastName: "Gypsy Wagon Collective",
         firstName: "",
         middleName: "",
@@ -868,7 +896,9 @@ g_bios = [
         photoPos: ["2"],
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "Kimm Topping",
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
@@ -878,7 +908,7 @@ g_bios = [
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Gill",
         firstName: "Edith",
         middleName: "Frances",
@@ -920,7 +950,9 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "",
         categories: ["Astronomer", "Teacher/Educator"],
@@ -930,7 +962,7 @@ g_bios = [
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Gill",
         firstName: "Mabel",
         middleName: "Abbie",
@@ -968,7 +1000,9 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "",
         categories: ["Astronomer"],
@@ -978,7 +1012,7 @@ g_bios = [
         addressFound: false,
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Gittens",
         firstName: "Yvonne",
         middleName: "",
@@ -1061,17 +1095,19 @@ g_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Teacher/Educator", "Volunteer", "Community Leader"],
     },
-        {
+    {
         carouselMember: false,
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Goodhue",
         firstName: "Mary",
         middleName: "Louise",
@@ -1166,16 +1202,25 @@ g_bios = [
              `,
         photos: ["images_bios/goodhue.jpg", "images_bios/goodhue2.jpeg"],
         photoTitles: [
-         "Wright Goodhue with his mother, Mary Louise Goodhue, designing the Mercy window for Riverside Church, NY.",
-         "M.L Goodhue, Pilgrim Hall"
+            "Wright Goodhue with his mother, Mary Louise Goodhue, designing the Mercy window for Riverside Church, NY.",
+            "M.L Goodhue, Pilgrim Hall",
         ],
         dateCreated: "02.27.2026",
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFactImage: "images_bios/goodhue3.jpg",
+        funFact: `
+        Goodhue was a music teacher and the presdident of the Cambridge Musical Club. In 1920, she was described as 
+        the <b> only female stained-glass maker in America</b>.`,
         editors: "",
         authors: "Eric Hill",
-        categories: ["Teacher/Educator", "Musician", "Artists", "Businesswoman"],
+        categories: [
+            "Teacher/Educator",
+            "Musician",
+            "Artists",
+            "Businesswoman",
+        ],
     },
 ];

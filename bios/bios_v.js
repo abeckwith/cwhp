@@ -52,6 +52,8 @@ v_bios = [
         
         photoHeights: [],
         recentEditNotes:"",
+        funFact: "",
+        funFactImage: "",
         editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist"],
@@ -138,6 +140,8 @@ v_bios = [
         
         photoHeights: [],
         recentEditNotes:"",
+        funFact: "",
+        funFactImage: "",
         editors:"Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Actress", "Teacher/Educator", "Musician"],

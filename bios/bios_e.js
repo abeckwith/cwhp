@@ -4,12 +4,12 @@ e_bios = [
         addressFound: true,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Eliot",
         firstName: "Martha",
         middleName: "May",
         familyName: "",
-        
+
         title: `Pediatrician, Public Health Administrator, Educator`,
         birthDate: "04.07.1891",
         birthLocation: "Dorchester, Massachusetts",
@@ -82,15 +82,17 @@ e_bios = [
              <i>Cambridge City Directory</i>, 1972.<br>
              Second Image from the National Library of Medicine:<br>
              <a class='indent' href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1448446/">https://pmc.ncbi.nlm.nih.gov/articles/PMC1448446/<.a> `,
-        
+
         photos: ["images_bios/martha_may_eliot.jpg", "images_bios/eliot2.jpg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
         dateUpdated: "04.08.2026",
         photoPos: [],
         photoHeights: [],
-        recentEditNotes:"added quote about Eliot",
-        editors:"Anthony Beckwith",
+        recentEditNotes: "added quote about Eliot",
+        funFact: "",
+        funFactImage: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Doctor"],
     },
@@ -99,12 +101,12 @@ e_bios = [
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Evelyn",
         firstName: "Zelma",
         middleName: "Olivia",
         familyName: "Bradshaw",
-        
+
         title: `African American activist, city employee, volunteer`,
         birthDate: "06.11.1921",
         birthLocation: "",
@@ -148,8 +150,10 @@ e_bios = [
         dateUpdated: "04.05.2025",
         photoPos: [],
         photoHeights: [],
-        recentEditNotes:"",
-        editors:"Anthony Beckwith",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist", "Volunteer"],
     },
@@ -158,12 +162,12 @@ e_bios = [
         addressFound: false,
         poc: false,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Ewing",
         firstName: "Tess",
         middleName: "",
         familyName: "",
-        
+
         title: `Labor and community activist, educator`,
         birthDate: "00.00.1946",
         birthLocation: "Boston, Massachusetts",
@@ -229,22 +233,24 @@ e_bios = [
         dateUpdated: "05.31.2026",
         photoPos: [],
         photoHeights: [],
-        recentEditNotes:"added link to video footage",
-        editors:"Anthony Beckwith",
+        recentEditNotes: "added link to video footage",
+        funFact: "",
+        funFactImage: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist", "Teacher/Educator"],
     },
-     {
+    {
         carouselMember: true,
         addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Easterling",
         firstName: "Dr. Ruth",
         middleName: "Marguerite",
         familyName: "",
-        
+
         title: `Pathologist, first African American woman admitted to Tufts Medical School`,
         birthDate: "02.17.1898",
         birthLocation: "Georgetown County, South Carolina",
@@ -310,22 +316,27 @@ e_bios = [
         dateUpdated: "",
         photoPos: [],
         photoHeights: [],
-        recentEditNotes:"",
-        editors:"",
+        recentEditNotes: "",
+        funFactImage: "images_bios/easterling.png",
+        funFact:
+            "Easterling attended Cambridge High and Latin School and eventually became " +
+            "the <b>first African American woman </b>to be admitted to Tufts University School of Medicine",
+
+        editors: "",
         authors: "Joanna Shea O'Brien",
         categories: ["Doctor"],
     },
- {
+    {
         carouselMember: false,
         addressFound: true,
         poc: true,
         workInProgress: true, //true when don't want online yet
-        organization:  false,
+        organization: false,
         lastName: "Edelstein",
         firstName: "Rebecca",
         middleName: "",
         familyName: "Seagal",
-        
+
         title: `Restaurant owner, community volunteer`,
         birthDate: "02.12.1875",
         birthLocation: "Poland",
@@ -367,17 +378,18 @@ e_bios = [
     
         `,
         photos: ["images_bios/edelstein.png"],
-        photoTitles: ["Source: findagrave.com<Br> From the menu of the S&S Restaurant"],
+        photoTitles: [
+            "Source: findagrave.com<Br> From the menu of the S&S Restaurant",
+        ],
         dateCreated: "11.01.2026",
         dateUpdated: "",
         photoPos: [],
         photoHeights: [],
-        recentEditNotes:"",
-        editors:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
+        editors: "",
         authors: "Anthony Beckwith",
         categories: ["Restaurant owner", "Volunteer"],
     },
-
-   
-
 ];

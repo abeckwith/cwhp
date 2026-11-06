@@ -68,7 +68,9 @@ p_bios = [
         dateUpdated: "04.22.2026",
 
         photoHeights: [],
-        recentEditNotes:"added quote from Parsons",
+        recentEditNotes: "added quote from Parsons",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Community Leader", "Nurse"],
@@ -144,7 +146,9 @@ p_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Activist"],
@@ -216,7 +220,11 @@ p_bios = [
         dateUpdated: "04.07.2025",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFactImage: "images_bios/Cecilia_Gaposchkin_sm.jpg",
+        funFact:
+            "In 1925, Payne Gaposchkin earned a Ph.D. in astronomy at Radcliffe College, the <b>first person to obtain a Ph.D. in this subject</b> from either Harvard or Radcliffe." +
+            " In 1956 she was appointed Phillips Professor of Astronomy, becoming the <b>first woman to receive a tenured professorship at Harvard University.</b>",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Scientist"],
@@ -317,7 +325,9 @@ p_bios = [
         dateUpdated: "01.31.2026",
 
         photoHeights: [],
-        recentEditNotes:"added image and quote from 1981 Chronicle",
+        recentEditNotes: "added image and quote from 1981 Chronicle",
+        funFact: "",
+        funFactImage: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Reformer", "Author"],
@@ -418,7 +428,12 @@ p_bios = [
         dateUpdated: "01.30.2026",
 
         photoHeights: ["200"],
-        recentEditNotes:"added 1977 Chronicle quote",
+        recentEditNotes: "added 1977 Chronicle quote",
+        funFactImage: "images_bios/piltch.jpeg",
+        funFact:
+            "During World War II, Piltch became and <b>air raid warden</b> and while attending " +
+            "Boston University's Sargent College for Physical Therapy, she joined the USO, <b>entertaining the " +
+            "troops</b> stationed at Camp Devens and serving as a member of the <b>Jewish War Veterans Auxiliary.</b>",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Physical Therapist ", "Volunteer"],
@@ -516,7 +531,9 @@ p_bios = [
         dateUpdated: "",
 
         photoHeights: [""],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "Anthony Beckwith, Matthew Peters",
         categories: ["Social worker", "Volunteer", "Teacher/Educator"],
@@ -606,7 +623,13 @@ p_bios = [
         dateUpdated: "",
 
         photoHeights: [""],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFactImage: "images_bios/pian2.png",
+        funFact: `Pian was an ethnomusicologist who got her Ph.D. in East Asian Languages and Music in 1960. 
+        She also edited and translated her mother's 1945 book “How to Cook and Eat in Chinese.” 
+        That publication was responsible for
+         <b>introducing the terms "stir fry" and "pot sticker" into the American lexicon.</b>
+    `,
         editors: "",
         authors: "Eric Hill",
         categories: ["Musician", "Ethnomusicologist"],
@@ -724,7 +747,9 @@ p_bios = [
         dateUpdated: "06.23.2026",
 
         photoHeights: [""],
-        recentEditNotes:"minor edits",
+        recentEditNotes: "minor edits",
+        funFact: "",
+        funFactImage: "",
         editors: "Meta Partenheimer",
         authors: "Anthony Beckwith",
         categories: ["Nurse", "Community Activist"],
@@ -773,7 +798,9 @@ p_bios = [
         dateUpdated: "",
 
         photoHeights: [],
-        recentEditNotes:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Teacher/Educator", "School Principal", "Group Therapist"],
@@ -782,13 +809,13 @@ p_bios = [
         carouselMember: false,
         addressFound: false,
         poc: false,
-        workInProgress: true, 
-        organization:  false,
+        workInProgress: true,
+        organization: false,
         lastName: "Pierce",
         firstName: "Olive",
         middleName: "",
         familyName: "",
-        
+
         title: `Photographer, teacher, author`,
         birthDate: "09.16.1925",
         birthLocation: "Chicago, Illinois",
@@ -817,11 +844,13 @@ p_bios = [
         photos: ["images_bios/OlivePierce.png"],
         photoTitles: ["Source: Register Forum article"],
         dateCreated: "10.15.2026",
-        dateUpdated:"",
-        
+        dateUpdated: "",
+
         photoHeights: [],
-        recentEditNotes:"",
-        editors:"",
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
+        editors: "",
         authors: "Anthony Beckwith",
         categories: ["Photographer", "Teacher/Educator", "Author"],
     },

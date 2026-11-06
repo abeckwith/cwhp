@@ -68,6 +68,11 @@ n_bios = [
         photoPos: ["2"],
         photoHeights: ["150"],
         recentEditNotes:"",
+        funFactImage: "images_bios/new_words_sm.png",
+        funFact: 
+            "A feminist bookstore in Inman Square for 28 years, which hosted readings and " +
+            "talks by significant women authors and served as an informal community center, it was one of the <B>largest and " +
+            "longest-running women's bookstores in the country.</b>",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Business or Service Provider (Women-Owned, Feminist)"],
@@ -191,6 +196,8 @@ n_bios = [
 
         photoHeights: [""],
         recentEditNotes:"",
+        funFact: "",
+        funFactImage: "",
         editors: "Meta Partenheimer",
         authors: "Anthony Beckwith",
         categories: ["Activist", "Nun"],
@@ -241,6 +248,8 @@ n_bios = [
 
         photoHeights: [],
         recentEditNotes:"",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Teacher/Educator", "Photographer", "Curator", "Sociologist"],
@@ -289,6 +298,8 @@ n_bios = [
 
         photoHeights: [],
         recentEditNotes:"",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Teacher/Educator"],
@@ -335,6 +346,8 @@ n_bios = [
 
         photoHeights: [],
         recentEditNotes:"",
+        funFact: "",
+        funFactImage: "",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Activist", "Feminist"],
