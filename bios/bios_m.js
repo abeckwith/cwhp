@@ -1580,4 +1580,62 @@ by Cate McQuaid,, April 12, 2017.
         authors: "Anthony Beckwith",
         categories: ["Social worker", "Activist"],
     },
+      {
+        carouselMember: true,
+        addressFound: false,
+        poc: false,
+        workInProgress: false,
+        organization: false,
+        lastName: "Morris",
+        firstName: "Maureen",
+        middleName: "C.",
+        familyName: "Walsh",
+
+        title: `City worker, union shop steward`,
+        birthDate: "10.13.1962",
+        birthLocation: "Cambridge, Massachusetts",
+        deathDate: "01.21.2024",
+        deathLocation: "Waltham, Massachusetts",
+        narrative: `
+        Maureen \"Mo\" Morris's family lived in Cambridge for generations, including her father John Walsh, her mother Helen F. Murphy, a
+       and her maternal grandparents Patrick Murphy and Julia McGrath.
+        She grew up in Cambridge with eight brothers and two sisters and graduated from Matignon High School in 1980 and went on to 
+        Westfield State College, later marrying Richad P. Morris. <Br><Br>
+       Maureen worked for the City of Cambridge for over 40 years. As a shop steward for Teamsters Local 25 
+        (which represents public works, traffic, electrical, parking, emergency operator, and water treatment plan workers), she fought
+         for the rights of City of Cambridge workers. Upon her death, the Cambridge City Council adopted a resolution recognizing her 
+         contributions to the city. She also advocated for people with Down's Syndrome and those with autism.
+
+                 `,
+        otherNotes: "",
+        references: `
+     
+        <i>U.S., Index to Public Records</i>, 1990.<br>
+        2024 Cambridge City Council resolution:<Br>
+        <a class="indent" href="http://rwinters.com/council/012924.htm#Res3">http://rwinters.com/council/012924.htm#Res3</a>
+        <br><br> 
+        Legacy.com obituary:<Br>
+        <a class="indent" href="https://www.legacy.com/us/obituaries/name/maureen-morris-obituary?id=54169247">https://www.legacy.com/us/obituaries/name/maureen-morris-obituary?id=54169247</a>
+        <Br><br>
+        <i>The Boston Globe</i>, Sat, Jul 01, 2006.<Br>
+        Morris's facebook page:<br>
+        <a class="indent" href="https://www.facebook.com/mo.w.morris">https://www.facebook.com/mo.w.morris</a><Br><br>
+        Teamsters 25 description:<Br>
+        <a class="indent" href="https://www.cambridgema.gov/-/media/files/humanresources/collectivebargainingagreements/teamsterslocal25.pdf">https://www.cambridgema.gov/-/media/files/humanresources/collectivebargainingagreements/teamsterslocal25.pdf</a>
+        <br><br>
+            `,
+        photos: ["images_bios/morris_maureen.png"],
+        photoTitles: [
+            'Source: Legacy.com'],
+        dateCreated: "11.07.2026",
+        dateUpdated: "",
+
+        photoHeights: [""],
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
+        editors: "",
+        authors: "Anthony Beckwith",
+        categories: ["City worker", "Union shop steward"],
+    },
 ];
