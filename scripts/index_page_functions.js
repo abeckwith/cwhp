@@ -99,9 +99,10 @@ function setUpMainPage() {
                         bio.firstName +
                         " " +
                         bio.lastName +
-                        ", " +
-                        bio.title +
-                        "</a></span><br><span id='small-date'>(added " +
+                        " (" +
+                        bio.title.substring(0, 1).toLowerCase() +
+                        bio.title.substring(1) +
+                        ")</a></span><br><span id='small-date'>(added " +
                         formattedDate.replace(",", "") +
                         ")";
                     // "<br>Other recent entries can be found under <b>Works in Progress</b> on our <span id='latest-link'><a href='info.html'>Info page</a></span></span>";
@@ -170,9 +171,14 @@ function setUpMainPage() {
     //go through every bio for carousel list:
     all_bios.forEach((bioLtr) => {
         bioLtr.forEach((bio) => {
-            if(bio.carouselMember)
-            {
-                theLink = "bios.html?lNm=" + bio.lastName + "&mNm=" + bio.middleName + "&fNm=" + bio.firstName;
+            if (bio.carouselMember) {
+                theLink =
+                    "bios.html?lNm=" +
+                    bio.lastName +
+                    "&mNm=" +
+                    bio.middleName +
+                    "&fNm=" +
+                    bio.firstName;
                 photoList.push(theLink);
             }
         });

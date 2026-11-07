@@ -1544,7 +1544,7 @@ w_bios = [
     },
      {
         carouselMember: true,
-        addressFound: false,
+        addressFound: true,
         poc: true,
         workInProgress: false, //true when don't want online yet
         organization: false,
@@ -1560,21 +1560,21 @@ w_bios = [
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
 
-       Adina White grew up in Ohio and as a young girl showed artistic talent. She studied woodcarving at the Cincinnati Art 
+       Adina White grew up in Ohio attending segregated schools and as a young girl showed great artistic talent. She studied woodcarving at the Cincinnati Art 
        Academy and by the 1880s was supporting herself in part by selling her carvings. She went on to teach drawing in St. 
-       Louis, Missouri in the 1890s. White moved to Cambridge by 1900 where she sold her woodcarvings, but also opened a 
+       Louis, Missouri, in the 1890s at Sumner High School, the \"first high school for Black students west of the Mississippi\". White moved to Cambridge by 1900 where she sold her woodcarvings, but also opened a 
        newsdealer shop and eventually branched out to delivering newspapers and running an employment office. In July of 
        1900, she is listed as taking a Theory of Design course at Harvard Summer School.
 
         <br><Br>
       
-        In May of 1902, she Petitioned for a license for an "intelligence office"
-        (according to Rice University's anthropology department, an intelligence office was "managed a number of different
+        In May of 1902, she petitioned for a license for an "intelligence office" in Cambridge
+        (according to Rice University's Anthropology department, an intelligence office was like an employment office, but also "managed a number of different
          tasks, including staffing, finding lost animals, branding animals, providing information about how commodities 
          were doing in the marketplace, or information about commodities that are rare or unusual, and also serving as a
-          pawn shop."). In June of 1910 she applied for a license for pawnbroking.<br><br>
-        White lived at 8 Village Street, near Main Street, in Cambridge. She was one of two citizens who showed up to a December 1928 licensing board meeting to oppose a new 
-        filling station at 289 Massachusetts Avenue, at the intersection with Village Street.<br><br>
+          pawn shop."). In June of 1910 she applied for a license for pawnbroking in Cambridge.<br><br>
+        White lived at 8 Village Street and was one of two citizens who showed up to a December 1928 Cambridge licensing board meeting to oppose a new 
+        filling station at 289 Massachusetts Avenue, at the intersection with Village Street, not far from M.I.T.<br><br>
 
         A detailed article on White's life can be found at the 
         <a href="https://mountauburn.org/notable-residents/adina-e-white-1861-1930/">Mt. Auburn Cemetery website</a>.
