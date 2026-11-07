@@ -1542,4 +1542,73 @@ w_bios = [
         authors: "Anthony Beckwith",
         categories: ["Teacher/Educator", ""],
     },
+     {
+        carouselMember: true,
+        addressFound: false,
+        poc: true,
+        workInProgress: false, //true when don't want online yet
+        organization: false,
+        lastName: "White",
+        firstName: "Adina",
+        middleName: "E.",
+        familyName: "",
+
+        title: `Artist, teacher, and businesswoman`,
+        birthDate: "00.00.1861",
+        birthLocation: "New Richmond, Ohio",
+        deathDate: "00.00.1930",
+        deathLocation: "Cambridge, Massachusetts",
+        narrative: `
+
+       Adina White grew up in Ohio and as a young girl showed artistic talent. She studied woodcarving at the Cincinnati Art 
+       Academy and by the 1880s was supporting herself in part by selling her carvings. She went on to teach drawing in St. 
+       Louis, Missouri in the 1890s. White moved to Cambridge by 1900 where she sold her woodcarvings, but also opened a 
+       newsdealer shop and eventually branched out to delivering newspapers and running an employment office. In July of 
+       1900, she is listed as taking a Theory of Design course at Harvard Summer School.
+
+        <br><Br>
+      
+        In May of 1902, she Petitioned for a license for an "intelligence office"
+        (according to Rice University's anthropology department, an intelligence office was "managed a number of different
+         tasks, including staffing, finding lost animals, branding animals, providing information about how commodities 
+         were doing in the marketplace, or information about commodities that are rare or unusual, and also serving as a
+          pawn shop."). In June of 1910 she applied for a license for pawnbroking.<br><br>
+        White lived at 8 Village Street, near Main Street, in Cambridge. She was one of two citizens who showed up to a December 1928 licensing board meeting to oppose a new 
+        filling station at 289 Massachusetts Avenue, at the intersection with Village Street.<br><br>
+
+        A detailed article on White's life can be found at the 
+        <a href="https://mountauburn.org/notable-residents/adina-e-white-1861-1930/">Mt. Auburn Cemetery website</a>.
+                `,
+        otherNotes: "",
+        references: `
+     
+        Rice University CaMP Anthropology article:<Br>
+        <a class="indent" href="https://campanthropology.org/2018/09/06/history-of-u-s-employment-centers/">https://campanthropology.org/2018/09/06/history-of-u-s-employment-centers/</a>
+        <Br>
+        <i>The Cambridge Tribune</i>, 24 May 1902, 18 June 1910, , 22 December 1928.<Br>
+        <i>The St Louis Republic</i>, Aug 30, 1894.<br>
+        <i>Boston Evening Transcript</i>, Jul 12, 1900.<Br>
+        <i>The Boston Globe</i>, Feb. 4, 1900.<Br>
+        <i>Cambridge City Directory</i>, 1930.<br>
+        Mt. Auburn Cemetery article:<br>
+        <a class="indent" href="https://mountauburn.org/notable-residents/adina-e-white-1861-1930/">https://mountauburn.org/notable-residents/adina-e-white-1861-1930/</a>.
+
+        `,
+        photos: [
+            "images_bios/white_adina.png",
+        ],
+        photoTitles: [
+            "A rendering of Adina White for an article in <br><i>The Boston Globe</i>, Feb. 4, 1900",
+        ],
+        dateCreated: "11.27.2026",
+        dateUpdated: "",
+        photoPos: [""],
+        photoHeights: [""],
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
+        editors: "",
+        authors: "Anthony Beckwith",
+        categories: ["Teacher", "Artist", "Businesswoman"],
+    },
 ];

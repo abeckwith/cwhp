@@ -1582,7 +1582,7 @@ by Cate McQuaid,, April 12, 2017.
     },
       {
         carouselMember: true,
-        addressFound: false,
+        addressFound: true,
         poc: false,
         workInProgress: false,
         organization: false,
