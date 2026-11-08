@@ -1560,8 +1560,9 @@ w_bios = [
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
 
-       Adina White grew up in Ohio attending segregated schools and as a young girl showed great artistic talent. She studied woodcarving at the Cincinnati Art 
-       Academy and by the 1880s was supporting herself in part by selling her carvings. She went on to teach drawing in St. 
+       Adina White grew up in Ohio attending segregated schools. Despite the obstacles, she showed great artistic talent and went on to
+        study woodcarving at the Cincinnati Art 
+       Academy. By the 1880s White was supporting herself in part by selling her carvings. She went on to teach drawing in St. 
        Louis, Missouri, in the 1890s at Sumner High School, the \"first high school for Black students west of the Mississippi\". White moved to Cambridge by 1900 where she sold her woodcarvings, but also opened a 
        newsdealer shop and eventually branched out to delivering newspapers and running an employment office. In July of 
        1900, she is listed as taking a Theory of Design course at Harvard Summer School.
