@@ -1564,7 +1564,8 @@ w_bios = [
         study woodcarving at the Cincinnati Art 
        Academy. By the 1880s White was supporting herself in part by selling her carvings. She went on to teach drawing in St. 
        Louis, Missouri, in the 1890s at Sumner High School, the \"first high school for Black students west of the Mississippi.\" 
-       By 1900, White had moved to Cambridge where she sold her woodcarvings and opened a 
+       After arriving in Cambridge around 1900, White created and sold her woodcarvings. This wasn't enough to support herself, so
+       she also opened a 
        newsdealer shop and delievered newspapers and ran an employment office. In July of 
        1900, she is listed in the <i>Cambridge Chronicle</i> as taking a Theory of Design course at Harvard Summer School.
 

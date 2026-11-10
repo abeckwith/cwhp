@@ -1597,9 +1597,9 @@ by Cate McQuaid,, April 12, 2017.
         deathDate: "01.21.2024",
         deathLocation: "Waltham, Massachusetts",
         narrative: `
-        Maureen \"Mo\" Morris's family lived in Cambridge for generations, including her father John Walsh, her mother Helen F. Murphy, a
+        Maureen \"Mo\" Morris's family lived in Cambridge for generations, including her father John Walsh, her mother Helen F. Murphy,
        and her maternal grandparents Patrick Murphy and Julia McGrath.
-        She grew up in Cambridge with eight brothers and two sisters and graduated from Matignon High School in 1980 and went on to 
+        She grew up in Cambridge with eight brothers and two sisters. She graduated from Matignon High School in 1980 and went on to 
         Westfield State College, later marrying Richad P. Morris. <Br><Br>
        Maureen worked for the City of Cambridge for over 40 years. As a shop steward for Teamsters Local 25 
         (which represents public works, traffic, electrical, parking, emergency operator, and water treatment plan workers), she fought
