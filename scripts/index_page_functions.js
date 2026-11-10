@@ -214,6 +214,9 @@ function setUpMainPage() {
             stripped.indexOf("=") + 1,
             stripped.indexOf("&"),
         );
+        namePhoto = lastNamePhoto;
+
+        lastNamePhoto= lastNamePhoto.replace(/\s/g, '');
 
         //middle name:
         stripped = stripped.substring(stripped.indexOf("&") + 1);
@@ -221,13 +224,16 @@ function setUpMainPage() {
             stripped.indexOf("=") + 1,
             stripped.indexOf("&"),
         );
+     
 
         //first name:
         stripped = stripped.substring(stripped.indexOf("&") + 1);
         firstNamePhoto = stripped.substring(stripped.indexOf("=") + 1);
+           namePhoto = firstNamePhoto + " " + namePhoto;
+        lastNamePhoto= lastNamePhoto.replace(/\s/g, '');
 
-        namePhoto = firstNamePhoto + " " + lastNamePhoto;
-
+        if(namePhoto.length > 30)
+            namePhoto = namePhoto.substring(0, 30) + "...";
         //find bio:
         info = getLocation(lastNamePhoto, middleNamePhoto, firstNamePhoto);
 
