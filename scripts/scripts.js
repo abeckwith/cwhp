@@ -146,8 +146,8 @@ function showRecents(num) {
             else strippedTitle = thename.title;
 
             //if org, not first name, so don't show a , :
-            if (thename.firstName != "") fnm = ", " + thename.firstName;
-            else fnm = "";
+            // if (thename.firstName != "") fnm = ", " + thename.firstName;
+            // else fnm = "";
 
             //get rid of leading zero:
             formattedDate = thename.dateCreated;
@@ -166,9 +166,9 @@ function showRecents(num) {
                     thename.firstName,
                 ) +
                 "'>" +
-                thename.lastName.replaceAll("'", "") +
-                fnm +
-                "</a></span>,&nbsp;<i> " +
+                thename.firstName.replaceAll("'", "") + " " +
+                thename.lastName+
+                "</a></span>&nbsp;<i> " +
                 strippedTitle +
                 "</i>";
             wip = thename.workInProgress;
@@ -249,9 +249,9 @@ function showRecents(num) {
                         strippedTitle = thename.title.substring(0, brLoc);
                     else strippedTitle = thename.title;
 
-                    //if org, not first name, so don't show a , :
-                    if (thename.firstName != "") fnm = ", " + thename.firstName;
-                    else fnm = "";
+                    //if org, no first name, so don't show a , :
+                    // if (thename.firstName != "") fnm = ", " + thename.firstName;
+                    // else fnm = "";
 
                     //get rid of leading zero:
                     formattedDate = thename.dateUpdated;
@@ -265,6 +265,7 @@ function showRecents(num) {
                             ")<Br>";
                     else ren = "";
                     // html +=
+                    console.log("check")
                     html_build =
                         "<br></i>" +
                         formattedDate.replaceAll(".", "/") +
@@ -276,9 +277,9 @@ function showRecents(num) {
                             thename.firstName,
                         ) +
                         "'>" +
-                        thename.lastName +
-                        fnm +
-                        "</a></span>,<i> &nbsp;" +
+                        thename.firstName +
+                        " " + thename.lastName + 
+                        "</a></span> -<i> &nbsp;" +
                         strippedTitle +
                         "</i>" +
                         ren;
