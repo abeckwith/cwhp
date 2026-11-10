@@ -174,11 +174,11 @@ function setUpMainPage() {
             if (bio.carouselMember) {
                 theLink =
                     "bios.html?lNm=" +
-                    bio.lastName +
+                    bio.lastName.replace(/\s/g, '') +
                     "&mNm=" +
-                    bio.middleName +
+                    bio.middleName.replace(/\s/g, '')  +
                     "&fNm=" +
-                    bio.firstName;
+                    bio.firstName.replace(/\s/g, '') ;
                 photoList.push(theLink);
             }
         });
