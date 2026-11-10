@@ -1464,7 +1464,7 @@ d_bios = [
         organization: false,
         lastName: "Dunn",
         firstName: "Elizabeth",
-        middleName: "St. John",
+        middleName: "St.John",
         familyName: "Meyer",
 
         title: `Activist, mathematician, social scientist`,

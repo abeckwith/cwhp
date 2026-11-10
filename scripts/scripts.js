@@ -166,8 +166,9 @@ function showRecents(num) {
                     thename.firstName,
                 ) +
                 "'>" +
-                thename.firstName.replaceAll("'", "") + " " +
-                thename.lastName+
+                thename.firstName.replaceAll("'", "") +
+                " " +
+                thename.lastName +
                 "</a></span>&nbsp;<i> " +
                 strippedTitle +
                 "</i>";
@@ -265,7 +266,6 @@ function showRecents(num) {
                             ")<Br>";
                     else ren = "";
                     // html +=
-                    console.log("check")
                     html_build =
                         "<br></i>" +
                         formattedDate.replaceAll(".", "/") +
@@ -278,7 +278,8 @@ function showRecents(num) {
                         ) +
                         "'>" +
                         thename.firstName +
-                        " " + thename.lastName + 
+                        " " +
+                        thename.lastName +
                         "</a></span> -<i> &nbsp;" +
                         strippedTitle +
                         "</i>" +
@@ -464,9 +465,24 @@ function makeBio(ltrIndex, indexOfPerson, initial, search, topical) {
     html += "<div class='name-heading'><strong><span id='full-name'>";
 
     //SHOW NAME AT TOP:
+    //first deal with things like "St.John":
+    mloc = person.middleName.indexOf(".");
+    lloc = person.lastName.indexOf(".");
+    if (mloc != -1 && person.middleName.charAt(mloc + 1) != " ")
+        pmn =
+            person.middleName.substring(0, mloc + 1) +
+            " " +
+            person.middleName.substring(mloc + 1);
+    else pmn = person.middleName;
+    if (lloc != -1 && person.lastName.charAt(lloc + 1) != " ")
+        pln =
+            person.lastName.substring(0, lloc + 1) +
+            " " +
+            person.lastName.substring(lloc + 1);
+    else pln = person.lastName;
     if (person.firstName !== "") html += person.firstName + " ";
-    if (person.middleName !== "") html += person.middleName + " ";
-    if (person.lastName !== " ") html += person.lastName + " ";
+    if (person.middleName !== "") html += pmn + " ";
+    if (person.lastName !== " ") html += pln + " ";
 
     if (person.familyName !== "")
         html +=
@@ -1146,7 +1162,6 @@ function setTotals(about) {
         //used in About page
         document.getElementById("total-women").innerHTML = totalEntries;
         document.getElementById("total2").innerHTML = totalEntries;
- 
     }
 
     // Collapsible function for main headers
