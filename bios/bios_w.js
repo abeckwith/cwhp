@@ -1605,7 +1605,7 @@ w_bios = [
         photoTitles: [
             "A rendering of Adina White for an article in <br><i>The Boston Globe</i>, Feb. 4, 1900",
         ],
-        dateCreated: "11.27.2026",
+        dateCreated: "11.07.2026",
         dateUpdated: "",
         photoPos: [""],
         photoHeights: [""],
