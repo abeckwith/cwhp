@@ -407,8 +407,8 @@ s_bios = [
         workInProgress: false, //true when don't want online yet
         organization: false,
         lastName: "Simmons",
-        firstName: "E.",
-        middleName: "Denise",
+        firstName: "E. Denise",
+        middleName: "",
         familyName: "",
 
         title: `Business owner,
