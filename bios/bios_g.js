@@ -1281,8 +1281,7 @@ g_bios = [
         photoHeights: ["", "400"],
         recentEditNotes: "",
         funFactImage: "",
-        funFact: `
-       .`,
+        funFact: ``,
         editors: "",
         authors: "Anthony Beckwith",
         categories: [
