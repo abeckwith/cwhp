@@ -232,8 +232,9 @@ function setUpMainPage() {
            namePhoto = firstNamePhoto + " " + namePhoto;
         lastNamePhoto= lastNamePhoto.replace(/\s/g, '');
 
-        if(namePhoto.length > 30)
-            namePhoto = namePhoto.substring(0, 30) + "...";
+        maxNameLengthForCarousel = 25;
+        if(namePhoto.length > maxNameLengthForCarousel )
+            namePhoto = namePhoto.substring(0, maxNameLengthForCarousel ) + "...";
         //find bio:
         info = getLocation(lastNamePhoto, middleNamePhoto, firstNamePhoto);
 
