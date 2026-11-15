@@ -260,4 +260,62 @@ k_bios = [
         authors: "Anthony Beckwith",
         categories: ["Businesswoman", "Auto mechanic"],
     },
+     {
+        carouselMember: true,
+        addressFound: false,
+        poc: false,
+        workInProgress: true, //true when don't want online yet
+        organization: false,
+        lastName: "Klein",
+        firstName: "Leslee",
+        middleName: "",
+        familyName: "",
+
+        title: `Legal services advocate`,
+        birthDate: "07.03.1948",
+        birthLocation: "New York, New York",
+        deathDate: "11.01.2026",
+        deathLocation: "Boston, Massachusetts",
+        narrative: `
+            
+            
+        In 1970, Leslee Klein moved from New York City to Cambridge, where she became in invovled in helping those in need access
+         legal services. She served as the executive director of the Association of Neighborhood Law Clinics, deputy directory of
+          Mass. Correctional Legal Services Corporation, and executive director of the Cambridgeport Problem Center. Through these
+           organizations, Klein helped provide support for tenants' rights, legal services for incarcerated people, and immigration
+            and pyshcological services. She was  also a board member of the Boston Bar Association and the Massachusetts Bar 
+            Association.<Br><Br>
+        In July of 2003, Klein was quoted in the Cambridge Chronicle, commenting on Governorn Mitt Romney $8.65 million veto of 
+        civil legal services:<blockquote>
+        “Civil legal services to poor people are extremely important. Poor people should have the same access to the courts as 
+        people who pay private attorneys.” 
+        </blockquote>
+
+        <i>This profile is a work in progress. To learn more about Klein, you can read her obituary, <a href="https://www.bellodeafuneralhome.com/obituaries/leslee-klein?ttm_pid=212719378&ttm_affiliate=legacypro&ttm_affiliatetype=standard&ttm_campaign=legacy">here</a>.<br>
+        If 
+        you are intested in helping to tell the stories of Cambridge women like Leslee Klein, consider <a href="nominations.html">joining us as a volunteer</a>.
+        </i>`,
+        otherNotes: "",
+        references: `
+        Bell-O'Dea obituary:<Br>
+        <A class="indent" href="https://www.bellodeafuneralhome.com/obituaries/leslee-klein?ttm_pid=212719378&ttm_affiliate=legacypro&ttm_affiliatetype=standard&ttm_campaign=legacy">https://www.bellodeafuneralhome.com/obituaries/leslee-klein?ttm_pid=212719378&ttm_affiliate=legacypro&ttm_affiliatetype=standard&ttm_campaign=legacy</a>
+        <Br><Br>
+
+
+        <i>The Cambridge Chronicle</i>, 13 December 1979, 9 July 2003.
+            `,
+
+        photos: ["images_bios/Klein2.png", "images_bios/Klein.png"],
+        photoTitles: ["Source: Bell-O'Dea 2026 obituary", "Source:  <i>The Cambridge Chronicle</i>, 9 July 2003"],
+        dateCreated: "11.15.2026",
+        dateUpdated: "",
+
+        photoHeights: [],
+        recentEditNotes: "",
+        funFactImage: "",
+        funFact: ``,
+        editors: "",
+        authors: "Anthony Beckwith",
+        categories: ["Legal services advocate"],
+    },
 ];
