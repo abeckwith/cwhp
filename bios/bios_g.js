@@ -1223,4 +1223,71 @@ g_bios = [
             "Businesswoman",
         ],
     },
+     {
+        carouselMember: true,
+        addressFound: true,
+        poc: false,
+        workInProgress: false, //true when don't want online yet
+        organization: false,
+        lastName: "Gifford",
+        firstName: "Gladys",
+        middleName: "",
+        familyName: "Porter",
+
+        title: `Attorney, preservationist`,
+        birthDate: "07.28.1938",
+        birthLocation: "Providence, Rhode Island",
+        deathDate: "03.13.2025",
+        deathLocation: "Cambridge, Massachusetts",
+        narrative: `
+        
+
+        After graduation from Smith College and Northeastern University Law School, Gldays "Pebble" Gifford formed the Harvard Square 
+        Defense Fund (HSDF) in 1979. Under her many years of leadership, the fund helped to preserve the historic nature of 
+        "The Square," encouraged the development of arts institutions, and focused on responsible urban planning. In the 2010s, 
+        Gifford helped the HSDF to reconstitute as the Harvard Square Neighborhood Association to continue preservation work. 
+        She was also a real estate agent and served as a lawyer for the Boston Preservation Alliance.<Br><Br>
+
+        In a 1983 interview, one can discern Gifford's preservationist priorities in her praise for a Harvard Square property manager, Richard A. Dow, the recipient of the HSDF community service award...
+
+        <blockquote>
+        "...because he cares. He has consistently attempted to preserve the quality of the square by renting his properties to quality, service-oriented stores. He has worked often with us and other neighborhood groups on our efforts to appose additional liquor store licenses in the square."
+        </BLOCKQUOTE>
+        Gifford lived at 15 Hilliard Street, just outside of Harvard Square.
+`,
+        otherNotes: "",
+        references: ` 
+        <i>The Cambridge Tab</i>, 1 December 1982.<br>
+        <i>The Cambridge Chronicle</i>, 1 December 1983.<br>
+
+        <i>The Boston Globe</i>, Jun 28, 1986.<Br>
+        Legacy.com obituary:<br>
+        <a class="indent" href="https://www.legacy.com/us/obituaries/bostonglobe/name/gladys-gifford-obituary?id=57914880">https://www.legacy.com/us/obituaries/bostonglobe/name/gladys-gifford-obituary?id=57914880</a>
+        <Br><br>
+        Harvard Square Neighborhood Association:<Br>
+        <a class="indent" href="https://www.harvardsquareneighborhood.org/">https://www.harvardsquareneighborhood.org/</a>
+
+
+        
+             `,
+        photos: ["images_bios/gifford.jpg", "images_bios/gifford.png"],
+        photoTitles: [
+            "Source: Legacy.com",
+            "Source: <i>Cambridge Tab</i>, Dec. 1, 1982",
+        ],
+        dateCreated: "11.15.2026",
+        dateUpdated: "",
+
+        photoHeights: ["", "400"],
+        recentEditNotes: "",
+        funFactImage: "",
+        funFact: `
+       .`,
+        editors: "",
+        authors: "Anthony Beckwith",
+        categories: [
+            "Attorney",
+            "Preservationist"
+        ],
+    },
 ];

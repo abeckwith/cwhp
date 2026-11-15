@@ -442,7 +442,7 @@ t_bios = [
         <i>Memorial service program</i>, 2013.
         `,
         photos: ["images_bios/tynes.png", "images_bios/tynes2.png"],
-        photoTitles: ["Source: memorial service program", "Celebrating Revaleon's retirement from the Cambridge Historical Commission<br>Source: Mar 23, 2006 <i>Cambridge Chronicle</a>"],
+        photoTitles: ["Source: memorial service program", "Celebrating <a href='bios.html?last=Green&middle=&first=Suzanne'>Suzanne Revaleon</a>'s retirement from the Cambridge Historical Commission<br>Source: Mar 23, 2006 <i>Cambridge Chronicle</a>"],
         dateCreated: "11.15.2026",
         dateUpdated: "",
 
