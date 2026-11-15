@@ -404,4 +404,54 @@ t_bios = [
         authors: "CWHP volunteers",
         categories: ["Scientist"],
     },
+      {
+        carouselMember: true,
+        addressFound: false,
+        poc: true,
+        workInProgress: false, //true when don't want online yet
+        organization: false,
+        lastName: "Tynes",
+        firstName: "Jacqueline",
+        middleName: "Ann",
+        familyName: "Goodrum",
+
+        title: `Equal opportunity employment officer`,
+        birthDate: "08.21.1932",
+        birthLocation: "Cambridge, Massachusetts",
+        deathDate: "01.25.2013",
+        deathLocation: "Cambridge, Massachusetts",
+        narrative: `
+            
+        Tynes was born in Cambridge and attended the Webster school and Cambridge High and Latin School. She raised her children in 
+        Cambridge while working as a Social Security claims representative, an Associate Director of Admission at Cambridge College,
+         and an Equal Opportunity Employment Officer for the Regional Commission of New England, where she worked for 32 years until 
+         her retirement. Tynes was also active in the St. Paul African Methodist Episcopal Church for over 50 years and was active in 
+         the Cambridge African American Heritage Society.
+         
+         <Br><Br>In 1985, the Cambridge Civic Unity Committee awarded Tynes their 
+         highest honor, the Clorae Evereteze Human Sercie Award. In 2002, she was recognized in a YWCA tribute to oustanding women.
+
+        `,
+        otherNotes: "",
+        references: ` 
+
+        <i>The Cambridge Chronicle</i>, 27 November 2002, 23 March 2006.<Br>
+        Legacy.com obit:<br>
+        <a class="indent" href="https://www.legacy.com/us/obituaries/bostonglobe/name/jacqueline-tynes-obituary?id=19967098">https://www.legacy.com/us/obituaries/bostonglobe/name/jacqueline-tynes-obituary?id=19967098</a>
+        <Br> 
+        <i>Memorial service program</i>, 2013.
+        `,
+        photos: ["images_bios/tynes.png", "images_bios/tynes2.png"],
+        photoTitles: ["Source: memorial service program", "Celebrating Revaleon's retirement from the Cambridge Historical Commission<br>Source: Mar 23, 2006 <i>Cambridge Chronicle</a>"],
+        dateCreated: "11.15.2026",
+        dateUpdated: "",
+
+        photoHeights: [],
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
+        editors: "",
+        authors: "Anthony Beckwith",
+        categories: ["Community member"],
+    },
 ];
