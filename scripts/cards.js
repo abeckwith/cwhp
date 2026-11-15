@@ -7,7 +7,7 @@ function getCards(){
   all_bios.forEach((bioLtr) => {
         bioLtr.forEach((bio) => {
 
-            if(bio.funFact !== "" && bio.funFact !== undefined){
+            if(bio.funFact.trim() !== "" && bio.funFact !== undefined){
                 n = bio.firstName + " " + bio.lastName;
                 l = "bios.html?last=" + bio.lastName + "&middle=" + bio.middleName + "&first=" + bio.firstName;
 
