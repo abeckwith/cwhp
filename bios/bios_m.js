@@ -1538,15 +1538,15 @@ by Cate McQuaid,, April 12, 2017.
         Murray, who lived in Cambidgeport at 115 Pearl Street, in 1998 spoke of how the Food For Free  organization (for which 
         she served as co-director at the time) worked:
         <blockquote>
-        We have a commitment to make sure every program has food. We try to get everything donated, but sometimes, when a client
+        "We have a commitment to make sure every program has food. We try to get everything donated, but sometimes, when a client
          has special need, we'll have to pay for something. But about 90 percent of our food is donated to us. Otherwise, we couldn't 
-         afford to do this.
+         afford to do this."
         </blockquote>
 
         At the time, local farms and stores donated food to their organization, including Bread & Circus, Carberry's, Trader 
         Joe's, Hi-Rise Bread, and Iggy's Bread. Murray also served as produce manager for the Cambridge Food Coop.<br><Br>
 
-        Murry received the Peace & Justice award from the City of Cambridge  in 1995.            `,
+        Murray received the Peace & Justice award from the City of Cambridge  in 1995.            `,
         otherNotes: "",
         references: `
         Legacy.com obituary:<br>

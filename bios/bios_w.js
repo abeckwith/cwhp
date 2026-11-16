@@ -1505,8 +1505,8 @@ w_bios = [
                 `,
         otherNotes: "",
         references: `
-       <i>The Cambridge Chronicle</i>, Volume 143, Number 50, 14 December 1989<br><br>
-        <i>Cambridge City Directory</i>, 1965 <br><Br>
+       <i>The Cambridge Chronicle</i>, Volume 143, Number 50, 14 December 1989.<br><br>
+        <i>Cambridge City Directory</i>, 1965. <br><Br>
         Short preview of the book:<br>
         <a class="indent" href="https://archive.org/details/emmasworldintima0000mosk/page/n327/mode/2up">https://archive.org/details/emmasworldintima0000mosk/page/n327/mode/2up</a>
         <br><Br>

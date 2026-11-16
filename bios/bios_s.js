@@ -1136,7 +1136,7 @@ s_bios = [
         <br><Br>
         In 1944, while at the Boston Floating Hospital, Takako was a guest speaker, discussing the "Advancement and Opportunities
          in Nursing Fields" for a conference. That same year, she married Diwakar Salvi and they raised their children at 123 Hancock
-          Street. In 1964, she penned a Letter to the Editor to the Cambridge Chronicle about solving a problem with her local park 
+          Street. In 1964, she penned a Letter to the Editor to <i>The Cambridge Chronicle</i> about solving a problem with her local park 
           and signed on to a letter about the hiring of the school superintendent. According to her sister, she was a piano player, 
           a dancer and she loved to work with clay and swim at the local Y.
         <Br><Br>
@@ -1175,8 +1175,13 @@ s_bios = [
 
         photoHeights: ["", ""],
         recentEditNotes: "",
-        funFact: "",
-        funFactImage: "",
+        funFact: `
+        In the 1940s, Salvi became <b>the first Black nursing student at Cambridge City Hospital</b>.
+
+        She earned a B.S. in Education, a Master's degree in Counseling, and a PhD in Applied Child Development from 
+        MIT and worked with Mt. Auburn Hospital, the Lesley Ellis School and Boston's Floating Hospital and was a board member
+        at the Museum of African American History. `,
+        funFactImage: "images_bios/salvi1.jpg",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Nurse", "Teacher/Educator", "Counselor"],
