@@ -491,9 +491,7 @@ t_bios = [
         to patrol the district affected and a police woman was asked for, with the result ot the appointment of Miss Taylor."
         </blockquote>
 
-        In December of 1928, Taylor (along with other police officials) attended the Harvard Dramatic Club performance of 
-        "Fiesta." In their report, they stated that the "dialogue of the play makes it unfit for presentation." The play was written by a lifelong communist, Michael Gold, and focused on Mexico after
-        their revolution. Throughout her career, Taylor gave several talks about being a police officer, 
+        Throughout her career, Taylor gave several talks about being a police officer, 
         including at the St. James Episcopal in North Cambridge and the League of Women Voters. In January of 1938, she was quoted 
         discussing how recreation centers' budgets were being cut, leading to more crime, including among young women:
        
@@ -510,7 +508,7 @@ t_bios = [
         In June of 1950, Taylor was quoted in the Boston Globe in a story about a new planetarium in Science Park, showing her 
         interest the welfare of the youth of Cambridge: 
         <blockquote>
-        "I am sure a planetarium would interest and no doubt influence even those most difficult youngers who do not show any 
+        "I am sure a planetarium would interest and no doubt influence even those most difficult youngsters who do not show any 
         interest in playgrounds, settlement house activities or any other community offerings"
         </blockquote>
 
