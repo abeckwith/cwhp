@@ -454,4 +454,107 @@ t_bios = [
         authors: "Anthony Beckwith",
         categories: ["Community member"],
     },
+    {
+        carouselMember: true,
+        addressFound: true,
+        poc: false,
+        workInProgress: false, //true when don't want online yet
+        organization: false,
+        lastName: "Taylor",
+        firstName: "Edith",
+        middleName: "Josephine",
+        familyName: "",
+
+        title: `Police officer`,
+        birthDate: "11.17.1887",
+        birthLocation: "Waltham, Massachusetts",
+        deathDate: "00.00.1977",
+        deathLocation: "Nova Scotia, Canada",
+        narrative: `
+            
+         Edith Taylor (often cited in the newspaper and city directories as "J. Edith Taylor") was hired to be the first female 
+        Cambridge police officer in 1919. She was hired as an investigator in July of 1919 and became a full-time policewoman 
+        
+        in March of 1921.
+        
+        <br><Br>
+        In a <i>Cambridge Chronicle</i> article from November of 1930, Taylor was asked about the origins of her hiring:
+        
+        <blockquote>
+        "The naval radio training station [W.C.T.U.], conducted at Harvard college during the World War, was responsible for 
+        the appointment in this city of a police woman, Miss J. Edith Taylor, only woman officer of this city, told members 
+        of the Women's Christian Temperance Union at their meeting held in the Y.W.C.A. headquarters Monday afternoon.<br><Br>
+
+        Previous to the appointment of a regulation woman police officer, cases Involving young girls were usually cared for 
+        by the Women's Protective league. With hundreds of young men housed at Harvard for their training days an Influx of 
+        young women and girls was drawn to the city. Members of the Women's Protective league, lacking official power, were helpless 
+        to patrol the district affected and a police woman was asked for, with the result ot the appointment of Miss Taylor."
+        </blockquote>
+
+        In December of 1928, Taylor (along with other police officials) attended the Harvard Dramatic Club performance of 
+        "Fiesta." In their report, they stated that the "dialogue of the play makes it unfit for presentation." The play was written by a lifelong communist, Michael Gold, and focused on Mexico after
+        their revolution. Throughout her career, Taylor gave several talks about being a police officer, 
+        including at the St. James Episcopal in North Cambridge and the League of Women Voters. In January of 1938, she was quoted 
+        discussing how recreation centers' budgets were being cut, leading to more crime, including among young women:
+       
+        <blockquote>
+        "Miss Edith Taylor, policewoman of the city of Cambridge, believes that something more should be done to meet the needs of
+         girls, particularly for those in the early teens. This should be taken care of to meet the increasing seriousness of 
+         tendencies that result in delinquency which she finds taking place in Cambridge."
+        </blockquote>
+
+        In 1946, it was reported that all cases involving girls went through her, a policy likely in effect since her hiring.
+        Taylor trained her replacement, Louise Darling, in 1949. They  worked together for 2 years, at which point Taylor retired 
+        after 32 years on the force, leaving Darling as the sole female police officer in Cambridge.<br><Br>
+
+        In June of 1950, Taylor was quoted in the Boston Globe in a story about a new planetarium in Science Park, showing her 
+        interest the welfare of the youth of Cambridge: 
+        <blockquote>
+        "I am sure a planetarium would interest and no doubt influence even those most difficult youngers who do not show any 
+        interest in playgrounds, settlement house activities or any other community offerings"
+        </blockquote>
+
+        Taylor also was instrumental in establishing a Big Brother/Big Sister program in Cambridge. You can read a report by 
+        Taylor on the state of affairs in Cambridge in 1927 in this <a href="https://thecambridgeroom.wordpress.com/2012/06/21/report-of-j-edith-taylor-police-woman-1927/">Cambridge Room post</a>.
+
+
+        `,
+        otherNotes: "",
+        references: ` 
+
+        <i>Cambridge City Directory</i>, 1926.<br>
+        A<i>ncestry.com</i> member tree.<br>
+        Cambridge Police Department history page:<br>
+        <a class="indent" href="https://www.cambridgema.gov/departments/cambridgepolice/aboutthedepartment/departmenthistory">https://www.cambridgema.gov/departments/cambridgepolice/aboutthedepartment/departmenthistory</a>
+        <br><br>
+        Cambridge Police Department facebook post:<br>
+        <a class="indent" href="https://www.facebook.com/CambridgePolice/posts/in-honor-of-international-womens-day-which-is-celebrated-tomorrow-march-8th-the-/2216535315051166/">https://www.facebook.com/CambridgePolice/posts/in-honor-of-international-womens-day-which-is-celebrated-tomorrow-march-8th-the-/2216535315051166/</a>
+        <br><br> 
+        The Cambridge Room posts:<Br>
+        <a class="indent" href="https://thecambridgeroom.wordpress.com/2012/06/28/photo-of-j-edith-taylor-cambridges-first-policewoman/">https://thecambridgeroom.wordpress.com/2012/06/28/photo-of-j-edith-taylor-cambridges-first-policewoman/</a>
+        <Br><br>
+        <a class="indent" href="https://thecambridgeroom.wordpress.com/2012/06/21/report-of-j-edith-taylor-police-woman-1927/">https://thecambridgeroom.wordpress.com/2012/06/21/report-of-j-edith-taylor-police-woman-1927/</a>
+        <Br><br>
+
+        <i>The Cambridge Chronicle</i>, 26 February 1921, 11 April 1930, 28 November 1930, 3 April 1941, 29 March 1979.<Br>
+        <i>The Cambridge Tribune</i>, 14 April 1923, 5 April 1935, 7 January 1938.<br>
+       <i>The Boston Evening Globe</i>, Dec. 15, 1928.<br>
+        <i>The Boston Globe</i>, June 4, 1950.<br>
+        Wikipedia entry for Michael Gold:<Br>
+        <a class="indent" href="https://en.wikipedia.org/wiki/Mike_Gold">https://en.wikipedia.org/wiki/Mike_Gold</a>
+     
+        `,
+        photos: ["images_bios/taylor_edith.jpg"],
+        photoTitles: ["Taylor is on the right<br>Source: The Cambridge Room website"],
+        dateCreated: "11.17.2026",
+        dateUpdated: "",
+
+        photoHeights: [],
+        recentEditNotes: "",
+        funFact: "Taylor was the <b>first female Cambridge police officer</a>, starting as a policewoman in 1919.",
+        funFactImage: "images_bios/taylor_edith.jpg",
+        editors: "",
+        authors: "Anthony Beckwith",
+        categories: ["Police officer"],
+    },
 ];
