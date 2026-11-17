@@ -1487,9 +1487,9 @@ w_bios = [
         deathLocation: "Cambridge, Massachusetts",
         narrative: `
 
-        Emma Barbour lived in Cambridge during the Civil War. While she did not write articles about
+        Emma Barbour grewup and lived in Cambridge in the years surrounding the Civil War. While she did not write articles about
          the war or about life during that time, Whitney did receive, and then preserve, scores of 
-         letters she received from others in the fourteen years before she married William Henry Whitney. 
+         letters she received from others in the fourteen years from 1854 to 1868. 
         <br><Br>
         These letters were found by author Shirley Blotnick Moskow's father-in-law in the 1950s at 
         an antique show. In 1990, Moskow published a book ("Emma's World, An Intimate Look at Lives 
@@ -1498,10 +1498,21 @@ w_bios = [
         everyday life, as well as the impact of the war, as described by letter-writers from both 
         the north and the south.<br><Br>
 
+        Some of the letters were written by friends and relatives when they were in other parts of the country and others
+        were written to Emma by Cantabrigians while she was traveling or vacationing. In addition to news of the war,
+        the letters include morsels of daily life about the
+        weather, fashion, concerts, and runaway horse and buggies. An August 18, 1860, letter told of a storm that hit Cambridge:
+        <blockquote> "The lightning was very vivid and it struck the barn, house and office of Mr. M.L. Smith. Their girl 
+        was scrubbing the knives which attracted the lightning, her face was scorched a little, no other injury. The office 
+        was partially destroyed by fire-The Orthodox church in Old Cambridge also received an electric shock, no damage."
+</blockquote>
+
+        More than one letter discusses reading articles in the <i>The Cambridge Chronicle</i> about the war and other subjects.<Br><Br>
         Emma and her father (John Nathaniel Barbour) taught Sunday School at the old Cambridge 
         Baptist Church and her father operated a grocery store (Barbour & Sons) on Main Street, while the family
         lived at 124 Oxford Street. 
-        After marrying Whitney, Emma had four children. She is buried at Mt. Auburn Cemetery in Cambridge.
+        Emma married William Henry Whitney in her parents' living room on February 18, 1868 and the couple had four children together. 
+        She is buried at Mt. Auburn Cemetery in Cambridge.
                 `,
         otherNotes: "",
         references: `
@@ -1521,7 +1532,9 @@ w_bios = [
         <br><br>
         Boston Public Library info about the family:<Br>
         <a class="indent" href="https://archives.bpl.org/agents/people/501">https://archives.bpl.org/agents/people/501</a>
-
+        <br>
+        Moskow, Shirley Blotnick. <i>Emma's World: An Intimate Look at Lives Touched by the Civil War Era</i>.
+    Far Hills, N.J. : New Horizon Press, 2019.
         `,
         photos: [
             "images_bios/barbour_emma.png",
@@ -1532,13 +1545,13 @@ w_bios = [
             "Dec. 14, 1989<br>Moskow reached out through the Cambridge Chronicle to find a picture of Emma",
         ],
         dateCreated: "10.24.2026",
-        dateUpdated: "",
+        dateUpdated: "11.16.2026",
         photoPos: [""],
         photoHeights: ["", "150"],
-        recentEditNotes: "",
+        recentEditNotes: "Added information and quotes from the Moskow book",
         funFact: "",
         funFactImage: "",
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "Anthony Beckwith",
         categories: ["Teacher/Educator", ""],
     },
