@@ -573,9 +573,9 @@ c_bios = [
         title: `Reading expert, psychologist,
                 educator`,
         birthDate: "01.01.1921",
-        birthLocation: "",
+        birthLocation: "Poland",
         deathDate: "11.27.1999",
-        deathLocation: "",
+        deathLocation: "Cambridge, Massachusetts",
         narrative: `
 
             Jeanne
@@ -617,18 +617,20 @@ c_bios = [
         references: `<i>Cambridge Chronicle</i>, December 2, 1999.<br>
             <a
                 href="http://education.stateuniversity.com/pages/1819/Chall-Jeanne-1921-1999.html" >http://education.stateuniversity.com/pages/1819/Chall-Jeanne-1921-1999.html</a><br>
-            <i>Harvard Gazette</i> obituary December 2 1999.
+            <i>Harvard Gazette</i> obituary December 2 1999.<br><Br>
+            Wikipedia page:<br>
+            <a class="indent" href="https://en.wikipedia.org/wiki/Jeanne_Chall">https://en.wikipedia.org/wiki/Jeanne_Chall</a>
         `,
         photos: ["images_bios/jeanne chall.jpeg"],
         photoTitles: [],
         dateCreated: "prior to 2009",
-        dateUpdated: "",
+        dateUpdated: "11.17.2026",
 
         photoHeights: [],
-        recentEditNotes: "",
+        recentEditNotes: "Added birth and death locations",
         funFact: "",
         funFactImage: "",
-        editors: "",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Psychologist"],
     },
