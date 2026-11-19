@@ -507,7 +507,7 @@ t_bios = [
         to patrol the district affected and a police woman was asked for, with the result ot the appointment of Miss Taylor."
         </blockquote>
         A June 1920 <i>Cambridge Chronicle</i> article 
- described Taylor's work to prevent fraternization of young men and women:
+ described Taylor's work at the time this way:
 <blockquote>
 "...In most cases the flash of the business-like badge of Miss Clark's uniform was enough to cower the most ardent wandering Romeo, and in the extreme cases a few well-pointed words did the trick. From all appearances it would seem that this summer Massachusetts avenue will be cleaned of the gay Lotharios who were in the habit of making the place their home 24 hours a day."
 </blockquote>
@@ -524,7 +524,7 @@ t_bios = [
         
 
         In 1946, it was reported that all cases involving girls went through her, a policy likely in effect since her hiring.
-        Taylor trained her replacement, Louise Darling, in 1949. They  worked together for 2 years, at which point Taylor retired 
+        Taylor trained her replacement, <a href="https://cwhp.cambridgema.gov/bios.html?last=Darling&middle=Agnes&first=Louise">Louise Darling</a>, in 1949. They  worked together for 2 years, at which point Taylor retired 
         after 32 years on the force, leaving Darling as the sole female police officer in Cambridge.<br><Br>
 
         In June of 1950, Taylor was quoted in the Boston Globe in a story about a new planetarium in Science Park, showing her 
