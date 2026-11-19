@@ -88,7 +88,7 @@ n_bios = [
         middleName: "",
         familyName: "",
 
-        title: `Human Rights Activist`,
+        title: `Human rights activist`,
         birthDate: "11.19.1943",
         birthLocation: "Milwaukee, Illinois",
         deathDate: "02.28.2017",

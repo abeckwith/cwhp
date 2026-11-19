@@ -3544,7 +3544,7 @@ b_bios = [
         middleName: "",
         familyName: "",
 
-        title: `Human Rights Activist`,
+        title: `Human rights activist`,
         birthDate: "00.00.1948",
         birthLocation: "Chicago, Illinois",
         deathDate: "",

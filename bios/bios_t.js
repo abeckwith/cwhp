@@ -471,7 +471,7 @@ t_bios = [
         deathDate: "00.00.1977",
         deathLocation: "Nova Scotia, Canada",
         narrative: `
-            The first ever U.S. policewoman was sworn in on Sept. 12, 1910, in Los Angelesm California.
+            The first ever U.S. policewoman was sworn in on Sept. 12, 1910, in Los Angeles, California.
 
          Nine years later, Edith Taylor (often cited in the newspaper and city directories as "J. Edith Taylor") was hired to be the first female 
         police officer in the city of Cambridge. She was hired as an investigator in July of 1919 and became a full-time policewoman in March of 1921.        
