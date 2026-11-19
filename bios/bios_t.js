@@ -479,7 +479,7 @@ t_bios = [
         to teach physical education in 1911, moving to Cambridge in 1917.<br><Br>
         
         In a 1916 <i>Cambridge Chronicle</i> article entitled "POLICEWOMEN SAFEGUARD GIRLS," a talk by a Mrs. Julius Andrews, of Brookline, 
-        discussed the "Service of Policewoman to the Community," just as Cambridge was considering hiring a female police officer:
+        discussed the "Service of Policewomen to the Community," just as Cambridge was considering hiring a female police officer:
         <blockquote> 
 
         "Mrs. Andrews showed that this service supplements rather than duplicates that of the regular policemen in that it lays emphasis on 
@@ -504,16 +504,16 @@ t_bios = [
         "Previous to the appointment of a regulation woman police officer, cases involving young girls were usually cared for 
         by the Women's Protective League. With hundreds of young men housed at Harvard for their training days [for WWI] an influx of 
         young women and girls was drawn to the city. Members of the Women's Protective league, lacking official power, were helpless 
-        to patrol the district affected and a police woman was asked for, with the result ot the appointment of Miss Taylor."
+        to patrol the district affected and a police woman was asked for, with the result of the appointment of Miss Taylor."
         </blockquote>
         A June 1920 <i>Cambridge Chronicle</i> article 
  described Taylor's work at the time this way:
 <blockquote>
-"...In most cases the flash of the business-like badge of Miss Clark's uniform was enough to cower the most ardent wandering Romeo, and in the extreme cases a few well-pointed words did the trick. From all appearances it would seem that this summer Massachusetts avenue will be cleaned of the gay Lotharios who were in the habit of making the place their home 24 hours a day."
+"...In most cases the flash of the business-like badge of [Miss Taylor's] uniform was enough to cower the most ardent wandering Romeo, and in the extreme cases a few well-pointed words did the trick. From all appearances it would seem that this summer Massachusetts avenue will be cleaned of the gay Lotharios who were in the habit of making the place their home 24 hours a day."
 </blockquote>
 
         Throughout her career, Taylor gave several talks about being a police officer in the community, 
-        including at the St. James Episcopal in North Cambridge and the League of Women Voters. In January of 1938, she was quoted 
+        including at the St. James Episcopal Church in North Cambridge and the League of Women Voters. In January of 1938, she was quoted 
         discussing how recreation centers' budgets were being cut, leading to more crime, including among young women:
        
         <blockquote>
@@ -528,10 +528,10 @@ t_bios = [
         after 32 years on the force, leaving Darling as the sole female police officer in Cambridge.<br><Br>
 
         In June of 1950, Taylor was quoted in the Boston Globe in a story about a new planetarium in Science Park, showing her 
-        interest the welfare of the youth of Cambridge: 
+        interest in the welfare of the youth of Cambridge: 
         <blockquote>
         "I am sure a planetarium would interest and no doubt influence even those most difficult youngsters who do not show any 
-        interest in playgrounds, settlement house activities or any other community offerings"
+        interest in playgrounds, settlement house activities or any other community offerings."
         </blockquote>
 
         Taylor also was instrumental in establishing a Big Brother/Big Sister program in Cambridge. You can read a report by 
