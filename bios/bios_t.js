@@ -573,7 +573,7 @@ t_bios = [
 
         photoHeights: [],
         recentEditNotes: "",
-        funFact: "Taylor was the <b>first female Cambridge police officer</a>, starting as a policewoman in 1919.",
+        funFact: "Taylor was the <b>first female Cambridge police officer</b>, starting as a policewoman in 1919.",
         funFactImage: "images_bios/taylor_edith.jpg",
         editors: "",
         authors: "Anthony Beckwith",
