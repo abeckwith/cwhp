@@ -471,27 +471,48 @@ t_bios = [
         deathDate: "00.00.1977",
         deathLocation: "Nova Scotia, Canada",
         narrative: `
-            
-         Edith Taylor (often cited in the newspaper and city directories as "J. Edith Taylor") was hired to be the first female 
-        Cambridge police officer in 1919. She was hired as an investigator in July of 1919 and became a full-time policewoman 
+            The first ever U.S. policewoman was sworn in on Sept. 12, 1910, in Los Angelesm California.
+
+         Nine years later, Edith Taylor (often cited in the newspaper and city directories as "J. Edith Taylor") was hired to be the first female 
+        police officer in the city of Cambridge. She was hired as an investigator in July of 1919 and became a full-time policewoman in March of 1921.        
+        Taylor had attended the Convent of the Sacred Heart in Halifax, Nova Scotia, and the Halifax Ladies' College, before returning to Massachusetts 
+        to teach physical education in 1911, moving to Cambridge in 1917.<br><Br>
         
-        in March of 1921.
-        
-        <br><Br>
-        In a <i>Cambridge Chronicle</i> article from November of 1930, Taylor was asked about the origins of her hiring:
+        In a 1916 <i>Cambridge Chronicle</i> article entitled "POLICEWOMEN SAFEGUARD GIRLS," a talk by a Mrs. Julius Andrews, of Brookline, 
+        discussed the "Service of Policewoman to the Community," just as Cambridge was considering hiring a female police officer:
+        <blockquote> 
+
+        "Mrs. Andrews showed that this service supplements rather than duplicates that of the regular policemen in that it lays emphasis on 
+        preventing crime. These social workers (and Mrs. Andrews made it clear that policewomen should be of the grade of social workers)
+        make it their business to watch the conduct of young girls and boys in such places as play-houses, dance-halls and parks as well 
+        as on the streets at night, and the good effects of their work is already being felt in many cities and towns where policewomen 
+        are guarding many young girls from early entrance into a life of crime. That such dangers lie in wait for even little girls was 
+        shown by reference to the statistics of the state of Maryland for instance which show that one thousand girls under the age of
+        ten were assaulted there in one year. Our own Massachusetts figures are equally impressive, showing that many of our women 
+        criminals were introduced to vice between the ages of five and ten, and the majority under the age of fifteen. 
+        <Br><Br>
+        "Mrs. Andrews cited several cases which had come under her personal observation in which young girls had refused to complain to
+        policemen of improper accosting by men in the streets, because they could not bring themselves to speak of such things to a
+        man. She said that even when she appeared in court beside these little girls, she was implored by them to be their spokesman,
+        as they shrank from telling the judge. This led to a reference to a court in Chicago over which Miss Mary Bartelmy presides 
+        as assistant to the judge. Girls are often asked in this court, Mrs. Andrews said, whether they prefer to be tried before 
+        Miss Bartelmy or before a man, and up to this time every girl has chosen to be tried before the woman."
+        </blockquote>
+        In a <i>Cambridge Chronicle</i> article from November of 1930, Taylor was asked about the origins of her hiring. The reporter wrote:
         
         <blockquote>
-        "The naval radio training station [W.C.T.U.], conducted at Harvard college during the World War, was responsible for 
-        the appointment in this city of a police woman, Miss J. Edith Taylor, only woman officer of this city, told members 
-        of the Women's Christian Temperance Union at their meeting held in the Y.W.C.A. headquarters Monday afternoon.<br><Br>
-
-        Previous to the appointment of a regulation woman police officer, cases Involving young girls were usually cared for 
-        by the Women's Protective league. With hundreds of young men housed at Harvard for their training days an Influx of 
+        "Previous to the appointment of a regulation woman police officer, cases involving young girls were usually cared for 
+        by the Women's Protective League. With hundreds of young men housed at Harvard for their training days [for WWI] an influx of 
         young women and girls was drawn to the city. Members of the Women's Protective league, lacking official power, were helpless 
         to patrol the district affected and a police woman was asked for, with the result ot the appointment of Miss Taylor."
         </blockquote>
+        A June 1920 <i>Cambridge Chronicle</i> article 
+ described Taylor's work to prevent fraternization of young men and women:
+<blockquote>
+"...In most cases the flash of the business-like badge of Miss Clark's uniform was enough to cower the most ardent wandering Romeo, and in the extreme cases a few well-pointed words did the trick. From all appearances it would seem that this summer Massachusetts avenue will be cleaned of the gay Lotharios who were in the habit of making the place their home 24 hours a day."
+</blockquote>
 
-        Throughout her career, Taylor gave several talks about being a police officer, 
+        Throughout her career, Taylor gave several talks about being a police officer in the community, 
         including at the St. James Episcopal in North Cambridge and the League of Women Voters. In January of 1938, she was quoted 
         discussing how recreation centers' budgets were being cut, leading to more crime, including among young women:
        
@@ -500,6 +521,7 @@ t_bios = [
          girls, particularly for those in the early teens. This should be taken care of to meet the increasing seriousness of 
          tendencies that result in delinquency which she finds taking place in Cambridge."
         </blockquote>
+        
 
         In 1946, it was reported that all cases involving girls went through her, a policy likely in effect since her hiring.
         Taylor trained her replacement, Louise Darling, in 1949. They  worked together for 2 years, at which point Taylor retired 
@@ -534,12 +556,14 @@ t_bios = [
         <a class="indent" href="https://thecambridgeroom.wordpress.com/2012/06/21/report-of-j-edith-taylor-police-woman-1927/">https://thecambridgeroom.wordpress.com/2012/06/21/report-of-j-edith-taylor-police-woman-1927/</a>
         <Br><br>
 
-        <i>The Cambridge Chronicle</i>, 26 February 1921, 11 April 1930, 28 November 1930, 3 April 1941, 29 March 1979.<Br>
+        <i>The Cambridge Chronicle</i>, 1 April 1916, 20 June 1920, 26 February 1921, 11 April 1930, 28 November 1930, 3 April 1941, 29 March 1979.<Br>
         <i>The Cambridge Tribune</i>, 14 April 1923, 5 April 1935, 7 January 1938.<br>
        <i>The Boston Evening Globe</i>, Dec. 15, 1928.<br>
         <i>The Boston Globe</i>, June 4, 1950.<br>
         Wikipedia entry for Michael Gold:<Br>
-        <a class="indent" href="https://en.wikipedia.org/wiki/Mike_Gold">https://en.wikipedia.org/wiki/Mike_Gold</a>
+        <a class="indent" href="https://en.wikipedia.org/wiki/Mike_Gold">https://en.wikipedia.org/wiki/Mike_Gold</a><Br><Br>
+        Wikipedia for first U.S. policewoman:<Br>
+        <a class="indent" href="https://en.wikipedia.org/wiki/Alice_Stebbins_Wells">https://en.wikipedia.org/wiki/Alice_Stebbins_Wells</a>
      
         `,
         photos: ["images_bios/taylor_edith.jpg"],
