@@ -1523,4 +1523,59 @@ h_bios = [
         authors: "Anthony Beckwith",
         categories: ["Businesswoman", "Designer"],
     },
+     {
+        carouselMember: true,
+        addressFound: false,
+        poc: false,
+        workInProgress: false,
+        organization: false,
+        lastName: "Harvey",
+        firstName: "Joy",
+        middleName: "Dorothy",
+        familyName: "Colby",
+
+        title: `Historian of science, writer, volunteer`,
+        birthDate: "12.17.1934",
+        birthLocation: "Cambridge, Massachusetts",
+        deathDate: "04.11,2026",
+        deathLocation: "Everett, Massachusetts",
+        narrative: `
+       Joy Harvey first became involved with the Cambridge Historical Commission's Cambridge Women's Heritage Project (CWHP) 
+       in 2001. She participated in a suffrage-themed International Women’s Day program where she shared her personal recollections 
+       of <a href="bios.html?last=Luscomb&middle=Hope&first=Florence">Florence Luscomb</a> (1887-1985), whom she knew through family connections when growing up in Cambridge. Harvey was an 
+       active participant in CWHP meetings until she had a stroke around 2016. Her talents in research, writing, and editing 
+       were an integral part of the project getting off the ground. Her special interests in women scientists and poets were
+        matched well with the many fascinating women who have lived and worked in Cambridge over the centuries. Joy wrote 
+        many of the early bios for CWHP, especially the women scientists.
+        <Br><Br>
+        Harvey grew up in Cambridge and graduated from Radcliffe College in 1955. She raisied five children in New Mexico 
+        with her husband Brian Harvey III, while working as
+        a research librarian and editor for a neuroscience group as well as
+        writing and directing plays for the Phoenix Children
+        theater, founding a recorder society and creating a literary press.<br><Br>
+        Harvey returned to Massachusetts to earn her PhD in History of Science in 1983.
+        In addition to working with the Cambridge Historical Commission, she wrote extensively on French
+        Darwinism and French anthropology, publishing her own book Darwin’s first French
+        translator, Clémence Royer, and with Marilyn Ogilvie, edited the widely regarded
+        Biographical Dictionary of Women in Science.
+        `,
+        otherNotes: "",
+        references: `
+        2026 <i>Correspondence from Sarah Burks</i>, Cambridge Historical Commission.<br>
+        Legacy.com obituary:<br>
+        <a class="indent" href="https://www.legacy.com/us/obituaries/name/joy-harvey-obituary?id=61489692">https://www.legacy.com/us/obituaries/name/joy-harvey-obituary?id=61489692</a>
+        `,
+        photos: ["images_bios/harvey_joy.png"],
+        photoTitles: ["Source: Legacy.com"],
+        dateCreated: "11.19.2026",
+        dateUpdated: "",
+
+        photoHeights: [],
+        recentEditNotes: "",
+        funFact: "",
+        funFactImage: "",
+        editors: "",
+        authors: "Anthony Beckwith & Sarah Burks",
+        categories: ["Historian", "Volunteer", "Writer"],
+    },
 ];
