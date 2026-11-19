@@ -1515,4 +1515,59 @@ d_bios = [
         authors: "Anthony Beckwith",
         categories: ["Activist", "Mathematician"],
     },
+       {
+        carouselMember: true,
+        addressFound: true,
+        poc: false,
+        workInProgress: false,
+        organization: false,
+        lastName: "DeLouchrey",
+        firstName: "Eileen",
+        middleName: "Marie",
+        familyName: "Holleran",
+
+        title: `City worker`,
+        birthDate: "00.00.1948",
+        birthLocation: "Cambridge, Massachusetts",
+        deathDate: "02.03.2023",
+        deathLocation: "Grafton, New Hampshire",
+        narrative: `
+          Eileen DeLouchrey  was the daughter of Irish immigrants. She was born in Cambridge and lived and worked 
+          in the city up until her retirement in 2008. Her family lived at 184 Elm Street  and she attended St. Mary's Grammar School and graduated from Cambridge
+           High and Latin School in 1968. 
+        She enjoyed canoeing and was part of a city-worker-based team competing in the 1989 Lotus Cup Canoe Race.
+        <Br><Br>
+        DeLourchrey was a long-time employee of the City of Cambridge, including as an aide at the Cambridge City Hospital and as
+        one of first female parking control officers to ride a motorcycle. She also worked as a foreperson for the Department of
+        Public Works.  She was a recipient of the 1995 Cambridge's Commissioner’s Award for Oustanding performance and the City Council passed
+        a resolution honoring her upon her death. 
+            `,
+        otherNotes: "",
+        references: `
+       <i>Cambridge High and Latin Yearbook</i>, 1968.<br>
+        <i>The Cambridge Chronicle</i>, 15 June 1989.<br>
+        <i>Cambidge City Council resolutions</i>, 2023:<Br>
+        <A class="indent" href="http://rwinters.com/council/022723.htm#Res1">http://rwinters.com/council/022723.htm#Res1</a>
+        <br><Br>
+        Legacy.com obituary:<Br>
+        <A class="indent" href="https://www.legacy.com/funeral-homes/obituaries/name/eileen-delouchrey-obituary?pid=203831426&v=batesville&view=guestbook&page=2">https://www.legacy.com/funeral-homes/obituaries/name/eileen-delouchrey-obituary?pid=203831426&v=batesville&view=guestbook&page=2</a>
+        <br><Br>
+        DeLouchrey's facebook page:<br>
+         <A class="indent" href="https://www.facebook.com/photo/?fbid=10201315177551327&set=ecnf.1529532089">https://www.facebook.com/photo/?fbid=10201315177551327&set=ecnf.1529532089</a>
+
+
+                    `,
+        photos: ["images_bios/delouchrey1.png", "images_bios/delouchrey2.png"],
+        photoTitles: ["Source: CHLS Yearbook, 1968", "Source: DeLouchrey's facebook page"],
+        dateCreated: "11.19.2026",
+        dateUpdated: "",
+
+        photoHeights: [],
+        recentEditNotes:"",
+        funFact: "",
+        funFactImage: "",
+        editors: "",
+        authors: "Anthony Beckwith",
+        categories: ["City worker"],
+    },
 ];
