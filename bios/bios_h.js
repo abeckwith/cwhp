@@ -1548,11 +1548,28 @@ h_bios = [
         matched well with the many fascinating women who have lived and worked in Cambridge over the centuries. Joy wrote 
         many of the early bios for CWHP, especially the women scientists.
         <Br><Br>
-        Harvey grew up in Cambridge and graduated from Radcliffe College in 1955. She raisied five children in New Mexico 
+        Harvey grew up in Cambridge, at 266 Harvard Street. 
+        At the end of the 1943-1944 school year, when she was 10 years old, Harvey was one of nine children from the Peabody school 
+        that did something remarkable: together, they wrote, directed, acted in, and promoted a play called "Sleeping Guard," all 
+        the while keeping their planning secret from their parents. The play was performed on June 22 "in commemoration of the third 
+        anniversary of the Nazi attack on the Soviet Union," according to <i>The Cambridge Chronicle</i>, and was a benefit "for 
+        Russian War Relief." They charged five cents for admission and raised $7.25 from the event. 
+        <br><br>
+        But they weren't done yet.<br><Br>
+        In October of 1944, the children put on another play (writing, directing, acting), called "Woman Trouble in the S'ung Dyansty,"
+         this time for United China War Relief. This time, two adults were included: Janet Sewall, an artist with a focus on China,
+          who was an advisor, and Chiang Kai-sheks wife, Soong Mei-ling, who had gone to Wellesley College in the 1910s and who, 
+          at the time, was visiting her nephew at Harvard.<br><Br>
+        Harvey went on to join the Drama Club and the orchestra at Cambridge High and Latin School and performed in many high school plays, 
+        as well as playing the flute in concerts for the public.<br><Br>
+
+                
+        
+        Harvey graduated from Radcliffe College in 1955. She raisied five children in New Mexico 
         with her husband Brian Harvey III, while working as
         a research librarian and editor for a neuroscience group as well as
         writing and directing plays for the Phoenix Children
-        theater, founding a recorder society and creating a literary press.<br><Br>
+        Theater, founding a recorder society and creating a literary press.<br><Br>
         Harvey returned to Massachusetts to earn her PhD in History of Science in 1983.
         In addition to working with the Cambridge Historical Commission, she wrote extensively on French
         Darwinism and French anthropology, publishing her own book Darwin’s first French
@@ -1562,15 +1579,16 @@ h_bios = [
         otherNotes: "",
         references: `
         2026 <i>Correspondence from Sarah Burks</i>, Cambridge Historical Commission.<br>
+        <i>The Cambridge Chronicle</i>, 29 June 1944, 5 October 1944, 16 June 1955.<Br>
         Legacy.com obituary:<br>
         <a class="indent" href="https://www.legacy.com/us/obituaries/name/joy-harvey-obituary?id=61489692">https://www.legacy.com/us/obituaries/name/joy-harvey-obituary?id=61489692</a>
         `,
-        photos: ["images_bios/harvey_joy.png"],
-        photoTitles: ["Source: Legacy.com"],
+        photos: ["images_bios/harvey_joy.png", "images_bios/harvey_joy2.png", "images_bios/harvey_joy3.png"],
+        photoTitles: ["Source: Legacy.com", "Harvey is in the back, third from the left<Br>Source: <i>Cambridge Chronicle</i>", "Harvey on the right<Br>Source: <i>Cambridge Chronicle</i>"],
         dateCreated: "11.19.2026",
         dateUpdated: "",
 
-        photoHeights: [],
+        photoHeights: ["", "400", ""],
         recentEditNotes: "",
         funFact: "",
         funFactImage: "",
