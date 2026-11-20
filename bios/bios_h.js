@@ -1574,7 +1574,7 @@ h_bios = [
         In addition to working with the Cambridge Historical Commission, she wrote extensively on French
         Darwinism and French anthropology, publishing her own book Darwin’s first French
         translator, Clémence Royer, and with Marilyn Ogilvie, edited the widely regarded
-        Biographical Dictionary of Women in Science.
+        Biographical Dictionary of Women in Science which profiled over 3,000 women scientists.
         `,
         otherNotes: "",
         references: `
@@ -1583,7 +1583,7 @@ h_bios = [
         Legacy.com obituary:<br>
         <a class="indent" href="https://www.legacy.com/us/obituaries/name/joy-harvey-obituary?id=61489692">https://www.legacy.com/us/obituaries/name/joy-harvey-obituary?id=61489692</a>
         <br>The Biographical Dictionary of Women in Science:<br>
-        <a class="indent" href="https://archive.org/details/biographicaldict00ogil_0">https://archive.org/details/biographicaldict00ogil_0</a>
+        <a class="indent" href="https://books.google.com/books?id=LTSYePZvSXYC&printsec=frontcover&source=gbs_ViewAPI#v=onepage&q&f=false">https://books.google.com/books?id=LTSYePZvSXYC&printsec=frontcover&source=gbs_ViewAPI#v=onepage&q&f=false</a>
         `,
         photos: ["images_bios/harvey_joy.png", "images_bios/harvey_joy2.png", "images_bios/harvey_joy3.png"],
         photoTitles: ["Source: Legacy.com", "Harvey is in the back, third from the left<Br>Source: <i>Cambridge Chronicle</i>", "Harvey on the right<Br>Source: <i>Cambridge Chronicle</i>"],
