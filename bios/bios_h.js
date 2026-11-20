@@ -1550,16 +1550,16 @@ h_bios = [
         <Br><Br>
         Harvey grew up in Cambridge, at 266 Harvard Street. 
         At the end of the 1943-1944 school year, when she was 10 years old, Harvey was one of nine children from the Peabody school 
-        that did something remarkable: together, they wrote, directed, acted in, and promoted a play called "Sleeping Guard," all 
-        the while keeping their planning secret from their parents. The play was performed on June 22 "in commemoration of the third 
+        that did something remarkable: together, they wrote, directed, acted in, and promoted a play called "Sleeping Guard"; all in secret, without
+        their parents knowing. The play was performed on June 22 "in commemoration of the third 
         anniversary of the Nazi attack on the Soviet Union," according to <i>The Cambridge Chronicle</i>, and was a benefit "for 
         Russian War Relief." They charged five cents for admission and raised $7.25 from the event. 
         <br><br>
         But they weren't done yet.<br><Br>
         In October of 1944, the children put on another play (writing, directing, acting), called "Woman Trouble in the S'ung Dyansty,"
          this time for United China War Relief. This time, two adults were included: Janet Sewall, an artist with a focus on China,
-          who was an advisor, and Chiang Kai-sheks wife, Soong Mei-ling, who had gone to Wellesley College in the 1910s and who, 
-          at the time, was visiting her nephew at Harvard.<br><Br>
+         and Chiang Kai-shek's wife, Soong Mei-ling, who had gone to Wellesley College in the 1910s and who, 
+          at the time, was visiting her nephew at Harvard. Both women acted as advisors to the children.<br><Br>
         Harvey went on to join the Drama Club and the orchestra at Cambridge High and Latin School and performed in many high school plays, 
         as well as playing the flute in concerts for the public.<br><Br>
 
