@@ -1582,6 +1582,8 @@ h_bios = [
         <i>The Cambridge Chronicle</i>, 29 June 1944, 5 October 1944, 16 June 1955.<Br>
         Legacy.com obituary:<br>
         <a class="indent" href="https://www.legacy.com/us/obituaries/name/joy-harvey-obituary?id=61489692">https://www.legacy.com/us/obituaries/name/joy-harvey-obituary?id=61489692</a>
+        <br>The Biographical Dictionary of Women in Science:<br>
+        <a class="indent" href="https://archive.org/details/biographicaldict00ogil_0">https://archive.org/details/biographicaldict00ogil_0</a>
         `,
         photos: ["images_bios/harvey_joy.png", "images_bios/harvey_joy2.png", "images_bios/harvey_joy3.png"],
         photoTitles: ["Source: Legacy.com", "Harvey is in the back, third from the left<Br>Source: <i>Cambridge Chronicle</i>", "Harvey on the right<Br>Source: <i>Cambridge Chronicle</i>"],
