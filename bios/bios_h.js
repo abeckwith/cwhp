@@ -1537,7 +1537,7 @@ h_bios = [
         title: `Historian of science, writer, volunteer`,
         birthDate: "12.17.1934",
         birthLocation: "Cambridge, Massachusetts",
-        deathDate: "04.11,2026",
+        deathDate: "04.11.2026",
         deathLocation: "Everett, Massachusetts",
         narrative: `
        Joy Harvey first became involved with the Cambridge Historical Commission's Cambridge Women's Heritage Project (CWHP) 
