@@ -1541,7 +1541,7 @@ h_bios = [
         deathLocation: "Everett, Massachusetts",
         narrative: `
        Joy Harvey first became involved with the Cambridge Historical Commission's Cambridge Women's Heritage Project (CWHP) 
-       in 2001. She participated in a suffrage-themed International Women’s Day program where she shared her personal recollections 
+       in 2001. She participated in a suffrage-themed International Women's Day program where she shared her personal recollections 
        of <a href="bios.html?last=Luscomb&middle=Hope&first=Florence">Florence Luscomb</a> (1887-1985), whom she knew through family connections when growing up in Cambridge. Harvey was an 
        active participant in CWHP meetings until she had a stroke around 2016. Her talents in research, writing, and editing 
        were an integral part of the project getting off the ground. Her special interests in women scientists and poets were
@@ -1572,9 +1572,9 @@ h_bios = [
         Theater, founding a recorder society and creating a literary press.<br><Br>
         Harvey returned to Massachusetts to earn her PhD in History of Science in 1983.
         In addition to working with the Cambridge Historical Commission, she wrote extensively on French
-        Darwinism and French anthropology, publishing her own book Darwin’s first French
-        translator, Clémence Royer, and with Marilyn Ogilvie, edited the widely regarded
-        Biographical Dictionary of Women in Science which profiled over 3,000 women scientists.
+        Darwinism and French anthropology, publishing her own book about Charles Darwin's first French
+        translator, Clémence Royer. With Marilyn Ogilvie, she edited the widely regarded
+        <i>Biographical Dictionary of Women in Science</i> which profiled over 3,000 women scientists.
         `,
         otherNotes: "",
         references: `
@@ -1584,6 +1584,8 @@ h_bios = [
         <a class="indent" href="https://www.legacy.com/us/obituaries/name/joy-harvey-obituary?id=61489692">https://www.legacy.com/us/obituaries/name/joy-harvey-obituary?id=61489692</a>
         <br>The Biographical Dictionary of Women in Science:<br>
         <a class="indent" href="https://books.google.com/books?id=LTSYePZvSXYC&printsec=frontcover&source=gbs_ViewAPI#v=onepage&q&f=false">https://books.google.com/books?id=LTSYePZvSXYC&printsec=frontcover&source=gbs_ViewAPI#v=onepage&q&f=false</a>
+        <Br>Harvey's book, <I>Almost a Man of Genius: Clémence Royer, Feminism, and Nineteenth-Century Science</i>:<br>
+        <a class="indent" href="https://archive.org/details/almostmanofgeniu0000harv/mode/2up">https://archive.org/details/almostmanofgeniu0000harv/mode/2up</a>
         `,
         photos: ["images_bios/harvey_joy.png", "images_bios/harvey_joy2.png", "images_bios/harvey_joy3.png"],
         photoTitles: ["Source: Legacy.com", "Harvey is in the back, third from the left<Br>Source: <i>Cambridge Chronicle</i>", "Harvey on the right<Br>Source: <i>Cambridge Chronicle</i>"],
