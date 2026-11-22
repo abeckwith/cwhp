@@ -854,4 +854,88 @@ p_bios = [
         authors: "Anthony Beckwith",
         categories: ["Photographer", "Teacher/Educator", "Author"],
     },
+     {
+        carouselMember: true,
+        addressFound: true,
+        poc: false,
+        workInProgress: false,
+        organization: false,
+        lastName: "Pastriech",
+        firstName: "Truitt",
+        middleName: "Ann",
+        familyName: "Hikes",
+
+        title: `First female firefighter in Massachusetts`,
+        birthDate: "00.00.1942",
+        birthLocation: "",
+        deathDate: "",
+        deathLocation: "",
+        narrative: `
+          Pastreich, who went by her middle name "Ann," grew up in Pine Grove, Pennsylvania. She attended Penn State and graduate school 
+          at Cornell University. In 1967, she married and she and her husband served as Peace Corps volunteers in Chile. By the 1970s, 
+          Ann Pastreich had moved to Cambridge. <Br><Br>
+
+        Shortly after moving to Cambridge, upon witnesseing firefighters rescuing people trapped in a house fire,
+        she decided that she wanted to be a firefighter. She began to prepare for the job and, 
+        in 1977, passed the physical and written firefigher tests. She saw an opening in the nearby Lexington fire department and
+         applied for a position, but was rejected. Sensing sex discrimination (there had never yet been a woman firefighter in 
+         Massachusetts), she challenged the decision in court in 1978. Two years later, the Masschusetts Commission Against 
+         Discrimination ruled in her favor.<Br><br>
+        On September 7, 1980, at age 37, Patreich entered the Massachusetts Firefighting Academy's eight-week training program
+         as the sole woman in a class alongside 28 men. After the training, she became Lexington's (and Massachusetts') first 
+         professional female firefighter.<br><Br>
+        <i>The Harvard Crimson</i> wrote a piece on her three weeks after she started:
+        <blockquote>
+        "Sure they're watching me. They're watching all the rookies," she says, and pauses. "Maybe they're watching me a 
+        little more carefully."<Br><Br>
+        "There were times I thought I couldn't do it," she recalls. "A lot of it was body mechanics--a big man can pull up a 
+        ladder with his arms. While I had to use my whole upper body. I started out imitating their way and had no luck."
+          
+        Good coordination and the ability to endure heights gave her advantages over some colleagues, though. "I wasn't worst at
+         everything. There were guys who could never get their breathing apparatus on in 45 seconds," she says.
+        </blockquote>
+        Pastreich currently lives in North Carolina.
+            `,
+        otherNotes: "",
+        references: `
+        <i>City of Cambridge phone directory</i>, 1993, 2000.<br>
+
+        <i>The West Schuylkill Press and Pine Grove Herald</i>, June 09, 1966.<br>
+
+        <i>Lebanon Daily News and The Lebanon Daily Times</i>, February 11, 1969.<Br>
+
+        <i>The Cambridge Chronicle</i>, 28 August 1980.<br>
+        <i>The Boston Globe</i>, Nov. 8, 1980.<br>
+        <i>Pottsville Republican</i>,
+        Fri, Jun 05, 1964.<Br>
+        True People Search:<br>
+        <a class="indent" href="https://www.truepeoplesearch.com/find/person/p68un4292r4l44902u90">https://www.truepeoplesearch.com/find/person/p68un4292r4l44902u90</a>
+        <Br>
+        Mass. Fire Departments Facebook post, March 8, 2025:<Br>
+        <a class="indent" href="https://www.facebook.com/MassDFS/posts/on-internationalwomensday-we-take-a-moment-to-recognize-ann-pastreich-who-in-198/1065144088985509/">https://www.facebook.com/MassDFS/posts/on-internationalwomensday-we-take-a-moment-to-recognize-ann-pastreich-who-in-198/1065144088985509/</a>
+        <Br>
+        <i>Lexington Times Magazine</i> article:<br>
+        <a class="indent" href="https://lexingtontimesmagazine.com/from-bucket-brigade-to-modern-firefighting/">https://lexingtontimesmagazine.com/from-bucket-brigade-to-modern-firefighting/</a>
+        <Br>
+        <i>Harvard Crimson article</i>:<br>
+        <a class="indent" href="https://www.thecrimson.com/article/1980/12/2/firehouses-1st-woman-feels-at-ease/">https://www.thecrimson.com/article/1980/12/2/firehouses-1st-woman-feels-at-ease/</a>
+        <Br>
+        Getty Images:<Br>
+        <a class="indent" href="https://www.gettyimages.com/detail/news-photo/massachusettss-first-full-time-female-firefighter-ann-news-photo/1312367785">https://www.gettyimages.com/detail/news-photo/massachusettss-first-full-time-female-firefighter-ann-news-photo/1312367785</a>
+
+            `,
+        photos: ["images_bios/pastreich1.png","images_bios/pastreich2.jpg"],
+        photoTitles: ["Source: The Cambridge Chronicle, 28 August 1980", "Source: Massachusetts Department of Fire Services Facebook Post"],
+        dateCreated: "11.22.2026",
+        dateUpdated: "",
+
+        photoHeights: ["400", "450"],
+        recentEditNotes: "",
+        funFact: "Pastreich became the <b>first woman hired as a professional firefighter in Massachusetts</b>, but only after filing and winning"+
+        " a sex discrimintation lawsuit that took two years to settle.",
+        funFactImage: "images_bios/pastreich.png",
+        editors: "",
+        authors: "Anthony Beckwith",
+        categories: ["Firefighter"],
+    },
 ];
