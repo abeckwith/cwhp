@@ -877,7 +877,7 @@ p_bios = [
 
         Shortly after moving to Cambridge, upon witnesseing firefighters rescuing people trapped in a house fire,
         she decided that she wanted to be a firefighter. She began to prepare for the job and, 
-        in 1977, passed the physical and written firefigher tests. She saw an opening in the nearby Lexington fire department and
+        in 1977, passed the physical and written firefighter tests. She saw an opening in the nearby Lexington fire department and
          applied for a position, but was rejected. Sensing sex discrimination (there had never yet been a woman firefighter in 
          Massachusetts), she challenged the decision in court in 1978. Two years later, the Masschusetts Commission Against 
          Discrimination ruled in her favor.<Br><br>

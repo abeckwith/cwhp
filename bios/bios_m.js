@@ -1653,7 +1653,7 @@ by Cate McQuaid,, April 12, 2017.
         birthDate: "11.22.1946",
         birthLocation: "Chicago, Illinois",
         deathDate: "03.26.2020",
-        deathLocation: "Bennington, Vermonth",
+        deathLocation: "Bennington, Vermont",
         narrative: `
       
         Kate Mattes was born in Chicago and grew up in Des Moines, Iowa, where her parents were editors at the Des Moines Register.
@@ -1661,8 +1661,10 @@ by Cate McQuaid,, April 12, 2017.
          In 1970, Mattes became the full-time coordinator of the Agassiz Community Schools council. In 1973, Mattes directed
           Rent-A-Kid/Mayor's Summer Employment program, working with the Cambridge Chamber of Commerce.<Br><Br>
 
-        After her parents died within a year of each other in 1981, she found it difficult to deal with family therapy and 
-        decided she wanted to follow her passion for mystery novels and open a mystery bookstore. She quit her job as director 
+        After her parents died within a year of each other in 1981, she found it difficult to continue as a family therapist while dealing
+        herself with
+        family trauma.
+        Mattes decided that she wanted to follow her passion for reading mystery novels and to open a mystery bookstore. She quit her job as director 
         of a Cambridge family therapy program and went to New York City to apprentice at The Mysterious Bookshop. Upon her 
         return, she was ready to open her own bookstore.
         <Br><Br>
@@ -1673,12 +1675,12 @@ by Cate McQuaid,, April 12, 2017.
          the opening day; they eventually became good friends. The week of the opening, she told the <i>The Cambidge Chronicle</i>:
         <blockquote>
         "I've wanted to open my own mystery bookstore for about 10 years. As a kid I was an avid mystery addict and in college
-         I wrote my undergraduate thesis on the theorly of mystery stories." </blockquote>
+         I wrote my undergraduate thesis on the theory of mystery stories." </blockquote>
 
-        Mattes served for several years on the North Cambridge Stalibization Committee, dedicated to preserving the character 
+        Mattes served for several years on the North Cambridge Stabilization Committee, dedicated to preserving the character 
         of North Cambridge. In the spring of 1987, an MBTA bus slammed into her home and bookstore and she had to move out for
-         a while, until repairs were made. She was able to re-open in October. That same year, Mattes was named one of seventy 
-         "bookwomen who made a difference" by the Women’s National Book Association.
+         a while, until repairs were made. She was able to re-open in October. That same year, Mattes was named one of 70 
+         "bookwomen who made a difference" by the Women's National Book Association.
         In the early 2000s Mattes became a book publisher with her impint Kate's Mystery Books, part of the Boston-based
          publishing company Justin, Charlse &Co. In 2008, she and her store received the Raven Award by the Mystery Writers 
          of America.<br><Br>

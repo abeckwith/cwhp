@@ -604,7 +604,7 @@ a.search-buttons {
     }
     #myInput,
     #results a,
-    .name-link,
+
     .letter-link,
     li,
     li a,
@@ -612,6 +612,9 @@ a.search-buttons {
     .style-box {
         font-size: 15px;
     }
+        .name-link{
+            font-size:10px;
+        }
     #all-sources {
         /* color: red; */
         margin: 2vw 4vw;
@@ -628,7 +631,10 @@ a.search-buttons {
     /* a {
         font-size: 10px;
     } */
-
+  .side-table {
+        max-width: 8%;
+        min-width: 8%;
+    }
     img {
         width: 105px;
     }
@@ -667,6 +673,7 @@ a.search-buttons {
     }
     .right {
         padding-right: 5px;
+        margin-right: 5px;
     }
     .topnav.responsive .icon {
         position: absolute;
