@@ -273,7 +273,7 @@ function loadInfoPage(checkLinks) {
                 bio_count +
                 ". " +
                 theLink +
-                "</a> &nbsp;&nbsp; - " +
+                "</a>, &nbsp;&nbsp; " +
                 titleStripped +
                 "<br>";
             allJustNames += nameBuild + "\n<br>";

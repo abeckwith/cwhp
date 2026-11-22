@@ -1019,7 +1019,7 @@ s_bios = [
         middleName: "",
         familyName: "",
 
-        title: `Bookshop owner, Businesswoman`,
+        title: `Bookshop owner, businesswoman`,
         birthDate: "11.22.1941",
         birthLocation: "Cambridge, Massachusetts",
         deathDate: "04.20.2022",

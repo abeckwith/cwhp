@@ -1482,7 +1482,7 @@ c_bios = [
         middleName: "",
         familyName: "",
 
-        title: `Journalist and Radio and Television Personality`,
+        title: `Journalist, radio and television contributor`,
         birthDate: "",
         birthLocation: "Memphis, Tennessee",
         deathDate: "",

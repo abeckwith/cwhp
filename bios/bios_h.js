@@ -1374,7 +1374,7 @@ h_bios = [
         middleName: "Hallycarnie",
         familyName: "Titus",
 
-        title: `Civil War Nurse`,
+        title: `Civil War nurse`,
         birthDate: "05.09.1840",
         birthLocation: "Vershire, Vermont",
         deathDate: "01.15.1930",

@@ -10,7 +10,7 @@ e_bios = [
         middleName: "May",
         familyName: "",
 
-        title: `Pediatrician, Public Health Administrator, Educator`,
+        title: `Pediatrician, public health administrator, educator`,
         birthDate: "04.07.1891",
         birthLocation: "Dorchester, Massachusetts",
         deathDate: "02.14.1978",

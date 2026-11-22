@@ -3671,7 +3671,7 @@ b_bios = [
         middleName: "Corinna",
         familyName: "Robinson",
 
-        title: `Dentist, Dental Surgeon`,
+        title: `Dentist, dental surgeon`,
         birthDate: "03.12.1892",
         birthLocation: "New York, New York",
         deathDate: "",

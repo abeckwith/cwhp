@@ -765,7 +765,7 @@ p_bios = [
         middleName: "",
         familyName: "Fleishmann",
 
-        title: `Teacher, Principal, Group Therapist`,
+        title: `Teacher, principal, group therapist`,
         birthDate: "00.00.1939",
         birthLocation: "Czechoslovakia",
         deathDate: "",

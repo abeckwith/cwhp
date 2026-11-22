@@ -287,7 +287,7 @@ While in Cambridge (they lived at 25 Brattle Street), Mary Manning Howe wrote th
         middleName: "Cabot",
         familyName: "Cary",
 
-        title: `First President of Radcliffe College`,
+        title: `First president of Radcliffe College`,
         birthDate: "12.05.1822",
         birthLocation: "Boston, Massachusetts",
         deathDate: "06.27.1907",

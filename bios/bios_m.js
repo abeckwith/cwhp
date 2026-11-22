@@ -364,7 +364,7 @@ m_bios = [
         middleName: "",
         familyName: "",
 
-        title: `One of Seventeen National Feminist Credit Unions<br>1975`,
+        title: `One of seventeen National Feminist Credit Unions<br>1975`,
         birthDate: "",
         birthLocation: "",
         deathDate: "",
@@ -1314,7 +1314,7 @@ by Cate McQuaid,, April 12, 2017.
         middleName: "Tirrell",
         familyName: "",
 
-        title: `Probation officer and Assistant Clerk-Magistrate at Cambridge District Court`,
+        title: `Probation officer and assistant clerk magistrate at Cambridge District Court`,
         birthDate: "00.00.1957",
 
         birthLocation: "Cambridge, Massachusetts",
@@ -1409,7 +1409,7 @@ by Cate McQuaid,, April 12, 2017.
         middleName: "",
         familyName: "Kaltwasser",
 
-        title: `Housing Advocate, Psychologist, Author`,
+        title: `Housing advocate, psychologist, author`,
         birthDate: "07.21.1924",
         birthLocation: "St. Louis, Missouri",
         deathDate: "03.25.2026",
@@ -1469,7 +1469,7 @@ by Cate McQuaid,, April 12, 2017.
         middleName: "",
         familyName: "Wright",
 
-        title: `Teacher, Civil Rights Activist`,
+        title: `Teacher, civil rights activist`,
         birthDate: "00.00.1861",
         birthLocation: "Springfield, Illinois",
         deathDate: "1931",
@@ -1637,5 +1637,84 @@ by Cate McQuaid,, April 12, 2017.
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["City worker", "Union shop steward"],
+    },
+     {
+        carouselMember: true,
+        addressFound: true,
+        poc: false,
+        workInProgress: false,
+        organization: false,
+        lastName: "Mattes",
+        firstName: "Kate",
+        middleName: "Shelly",
+        familyName: "",
+
+        title: `Bookshop owner, therapist`,
+        birthDate: "11.22.1946",
+        birthLocation: "Chicago, Illinois",
+        deathDate: "03.26.2020",
+        deathLocation: "Bennington, Vermonth",
+        narrative: `
+      
+        Kate Mattes was born in Chicago and grew up in Des Moines, Iowa, where her parents were editors at the Des Moines Register.
+         A couple of years getting her Master's degree in social work, she moved to Cambridge and began a family therapy practice. 
+         In 1970, Mattes became the full-time coordinator of the Agassiz Community Schools council. In 1973, Mattes directed
+          Rent-A-Kid/Mayor's Summer Employment program, working with the Cambridge Chamber of Commerce.<Br><Br>
+
+        After her parents died within a year of each other in 1981, she found it difficult to deal with family therapy and 
+        decided she wanted to follow her passion for mystery novels and open a mystery bookstore. She quit her job as director 
+        of a Cambridge family therapy program and went to New York City to apprentice at The Mysterious Bookshop. Upon her 
+        return, she was ready to open her own bookstore.
+        <Br><Br>
+        On May 13, 1983 (Friday the 13th), Mattes opened the Boston area's first bookstore that was devoted entirely to mystery
+         books: "Kate's Mystery Bookstore: Murder Under Cover." The store had 10,000 titles when it opened at 2211 Massachusetts
+          Avenue in North Cambridge, with the store on the ground floor and her home on the second floor.
+        2211 Mass Ave. Cambridge-based author Robert Parker helped her install shelves and sent her champagne and flowers on
+         the opening day; they eventually became good friends. The week of the opening, she told the <i>The Cambidge Chronicle</i>:
+        <blockquote>
+        "I've wanted to open my own mystery bookstore for about 10 years. As a kid I was an avid mystery addict and in college
+         I wrote my undergraduate thesis on the theorly of mystery stories." </blockquote>
+
+        Mattes served for several years on the North Cambridge Stalibization Committee, dedicated to preserving the character 
+        of North Cambridge. In the spring of 1987, an MBTA bus slammed into her home and bookstore and she had to move out for
+         a while, until repairs were made. She was able to re-open in October. That same year, Mattes was named one of seventy 
+         "bookwomen who made a difference" by the Women’s National Book Association.
+        In the early 2000s Mattes became a book publisher with her impint Kate's Mystery Books, part of the Boston-based
+         publishing company Justin, Charlse &Co. In 2008, she and her store received the Raven Award by the Mystery Writers 
+         of America.<br><Br>
+        Despite the store's success and the joy she found in the work, Mattes closed the store in 2009, after 27 years in
+         business. At the time, Mattes cited how the book industry had "become less fun." Upon her retirement, she said she 
+         planned to use the time to "catch up on the books she hasn't read yet."
+        That same year, Mattes left Cambridge and moved to Bennington, Vermont. In 2016, she received the Robert B. Parker Award at New England Mobile Book Fair.
+                 `,
+        otherNotes: "",
+        references: `
+     
+       
+        <i>The Cambridge Chronicle</i>, 29 October 1970, 28 June 1973, 12 May 1983, 12 December 1985, 23 July 1987, 13 August 1987, 21 May 1992,
+         15 May 2008, 23 July 2009.
+        <br>
+        <i>The Cambridge Express</i>, 18 June 1983.
+        <br>
+        <i>The Cambridge Tab</i>, 23 November 1983.
+
+        <i>The Boston Globe</i>, May 1 2020, May 5, 2020.<Br>
+       Instagram post:<Br>
+       <a class="indent" href="https://www.instagram.com/p/B_njsn1AKEw/">https://www.instagram.com/p/B_njsn1AKEw/?img_index=3</a>
+            `,
+        photos: ["images_bios/mattes1.png","images_bios/mattes2.png"],
+        photoTitles: [
+            'Source: The Cambridge Chronicle, June 18, 1983 ', 'Source: The Boston Globe, May 1, 2020 '],
+        dateCreated: "11.22.2026",
+        dateUpdated: "",
+
+        photoHeights: [""],
+        recentEditNotes: "",
+        funFact: "Mattes opened the <b>first ever mystery-themed bookstore</b> in the Boston area in 1983, on Friday the thirteenth."+
+        " Despite the store being hit by the #77 MBTA bus in 1987 (she lived in the apartment above the store), her bookshop reopened and lasted until 2009.",
+        funFactImage: "images_bios/mattes1.png",
+        editors: "",
+        authors: "Anthony Beckwith",
+        categories: ["Bookstore owner"],
     },
 ];
