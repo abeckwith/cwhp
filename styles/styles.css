@@ -716,6 +716,10 @@ a.search-buttons {
           transform: scale(0.85);
           padding:5px;
     }
+    .bottom-line{
+        margin-left:5vw;
+        width:60%
+    }
     #bio {
         margin: 0px;
         padding: 0px;
