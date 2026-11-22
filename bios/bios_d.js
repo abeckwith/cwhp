@@ -620,7 +620,7 @@ d_bios = [
         ],
         photoTitles: [
             "Photo by Betsy Sowers",
-            "Photo courtesy of Deborah Silverstein. Pictured: Marcia Diehl, at center, with bandmates of the New Harmony Sisterhood Band--Katie Tolles, Kendal Hale, Pat Oullette and Deborah Silverstein.",
+            "Photo courtesy of Deborah Silverstein. Pictured: Marcia Deihl, at center, with bandmates of the New Harmony Sisterhood Band--Katie Tolles, Kendal Hale, Pat Oullette and Deborah Silverstein.",
         ],
         dateCreated: "00.00.2014",
         dateUpdated: "",

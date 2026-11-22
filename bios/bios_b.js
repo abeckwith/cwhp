@@ -3589,7 +3589,7 @@ b_bios = [
 
         In 1995, the Cambridge Commission on the Status of Women (also known as The Cambridge Women's Commission) worked with the Cambridge Arts Commission, the Cambridge Historical 
         Commission, and City Councilor Katherine Triantafillou, along with local residents Blackburn, Nicgorski, and Marcia 
-        Diehl to create the Cambridge Women's Trail. The trail was designed to celebrate the little-recognized accomplishments of Cambridge
+        Deihl to create the Cambridge Women's Trail. The trail was designed to celebrate the little-recognized accomplishments of Cambridge
          women and their contributions to their community over the history of the city. Blackburn recalls: 
         <blockquote>
 
