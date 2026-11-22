@@ -317,13 +317,26 @@ td > a {
     }
     #bio {
         font-size: 65%;
+        margin-right: 5px;
     }
-
+    #prev-btn, #rand-btn, #next-btn {
+        font-size: 1.2vh;
+        padding:4px;
+        border-radius: 4px;
+    }
+    .main {
+        margin: 0px 5vw;
+        height: 85%;
+    }
     .name-link {
         font-size: 224%;
     }
     .letter-link {
         font-size: 100%;
+    }
+    .right {
+        padding-right: 1px;
+        margin-right: 1px;
     }
     .name-heading {
         font-size: 12%;
@@ -575,6 +588,9 @@ a.search-buttons {
     #size {
         font-size: 30px;
     }
+    #main {
+        margin: 0px 1vw;
+    }
     #end-html {
         font-size: 5px;
     }
@@ -582,6 +598,9 @@ a.search-buttons {
         padding: 0.2vw;
 
         font-size: 1.8vw;
+    }
+    .random-button-sm {
+        font-size: 1vh;
     }
     .flicker {
         font-size: 20px;
@@ -604,7 +623,6 @@ a.search-buttons {
     }
     #myInput,
     #results a,
-
     .letter-link,
     li,
     li a,
@@ -612,9 +630,9 @@ a.search-buttons {
     .style-box {
         font-size: 15px;
     }
-        .name-link{
-            font-size:10px;
-        }
+    .name-link {
+        font-size: 10px;
+    }
     #all-sources {
         /* color: red; */
         margin: 2vw 4vw;
@@ -624,14 +642,15 @@ a.search-buttons {
         font-size: 4%;
     }
     #bio-container {
-        width: 54vw;
+        width: 64vw;
         font-size: 12px;
         margin: 5px;
+        margin-right: 2px;
     }
     /* a {
         font-size: 10px;
     } */
-  .side-table {
+    .side-table {
         max-width: 8%;
         min-width: 8%;
     }

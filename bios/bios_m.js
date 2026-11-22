@@ -1681,7 +1681,7 @@ by Cate McQuaid,, April 12, 2017.
         of North Cambridge. In the spring of 1987, an MBTA bus slammed into her home and bookstore and she had to move out for
          a while, until repairs were made. She was able to re-open in October. That same year, Mattes was named one of 70 
          "bookwomen who made a difference" by the Women's National Book Association.
-        In the early 2000s Mattes became a book publisher with her impint Kate's Mystery Books, part of the Boston-based
+        In the early 2000s Mattes became a book publisher with her imprint Kate's Mystery Books, part of the Boston-based
          publishing company Justin, Charlse &Co. In 2008, she and her store received the Raven Award by the Mystery Writers 
          of America.<br><Br>
         Despite the store's success and the joy she found in the work, Mattes closed the store in 2009, after 27 years in
