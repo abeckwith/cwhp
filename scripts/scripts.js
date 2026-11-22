@@ -1346,7 +1346,7 @@ function init(topical, search) {
     if (!search) localStorage.setItem("linkLetter", "A");
 
     //get rid of ltr after done with topics
-    let alphaList = "SELECT: ";
+    let alphaList = "<span id='select'>SELECT: </span>";
 
     //build all letter links:
     for (let index = 0; index < 26; index++) {
@@ -1367,7 +1367,7 @@ function init(topical, search) {
     html =
         '<div style="margin: 0vh 5vw 0vh 5vw;">' +
         "<center>" +
-        "<h1 style='margin: 1vh 5vw 0vh 5vw;'>" +
+        "<h1 id='the-heading'>" +
         '    <div id="opening-pictures">Cambridge Women\'s Heritage Project</div>';
     html +=
         '</Center><p style="font-size:2.5vh; margin-top:0.5vh; margin-bottom:0.5vh" align="center">';

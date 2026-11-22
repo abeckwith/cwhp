@@ -226,7 +226,9 @@ body {
 .dropdown:hover .dropbtn {
     background-color: rgb(234, 211, 110);
 }
-
+#the-heading {
+    margin: 1vh 5vw 0vh 5vw;
+}
 /** make it so the whole cell is clickable - esp. for side bar of names **/
 td > a {
     display: block;
@@ -311,17 +313,26 @@ td > a {
     table {
         font-size: 45%;
     }
+    #opening-pictures {
+        margin: 1vh 5vw 0vh 5vw;
+        font-size: 3vw;
+    }
     .side-table {
         max-width: 12%;
         min-width: 12%;
+    }
+    .person-title {
+        font-size: 2.8vw;
     }
     #bio {
         font-size: 65%;
         margin-right: 5px;
     }
-    #prev-btn, #rand-btn, #next-btn {
+    #prev-btn,
+    #rand-btn,
+    #next-btn {
         font-size: 1.2vh;
-        padding:4px;
+        padding: 4px;
         border-radius: 4px;
     }
     .main {
@@ -345,6 +356,14 @@ td > a {
         width: 105px;
         height: auto;
     }
+    #born {
+        font-size: 2.7vw;
+        margin-bottom: 5px;
+        border-width: 0px;
+        border-top: 7px;
+        margin-left: 25px;
+        margin-top: 50px;
+    }
     .top-links {
         font-size: 70%;
     }
@@ -353,6 +372,9 @@ td > a {
     }
     #menu-bar {
         font-size: 70%;
+    }
+    #opening-pictures {
+        font-size: 1.3vw;
     }
     #menu-bar {
         font-size: 30vw;
@@ -575,24 +597,39 @@ a.search-buttons {
     #end-html #opening-pictures {
         font-size: 20px;
     }
+    .person-title {
+        font-size: 2.8vw;
+    }
+    #opening-pictures {
+        margin: 1vh 5vw 0vh 5vw;
+        font-size: 3vw;
+    }
+    #select {
+        font-size: 3vw;
+    }
     #small-date {
         font-size: 2.5vw;
     }
     #latest-text {
         font-size: 2.7vw;
     }
-       #bio {
+    #bio {
         font-size: 65%;
         margin-right: 5px;
     }
-    #prev-btn, #rand-btn, #next-btn {
+    #prev-btn,
+    #rand-btn,
+    #next-btn {
         font-size: 1.2vh;
-        padding:4px;
+        padding: 4px;
         border-radius: 4px;
     }
     .main {
         margin: 0px 5vw;
         height: 85%;
+    }
+    #opening-pictures {
+        font-size: 1.3vw;
     }
     #bdaydisplay,
     #dailybday {
@@ -600,6 +637,14 @@ a.search-buttons {
     }
     #size {
         font-size: 30px;
+    }
+    #born {
+        font-size: 2.7vw;
+        margin-bottom: 5px;
+        border-width: 0px;
+        border-top: 7px;
+        margin-left: 25px;
+        margin-top: 50px;
     }
     #main {
         margin: 0px 1vw;
@@ -668,7 +713,8 @@ a.search-buttons {
         min-width: 8%;
     }
     img {
-        width: 105px;
+          transform: scale(0.65);
+          padding:5px;
     }
     #bio {
         margin: 0px;
