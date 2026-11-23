@@ -913,7 +913,7 @@ p_bios = [
         Pastreich stayed with the Lexington Fire Department for 4 1/2 years. After leaving the department, she worked
          with Habitat for Humanity in Nicaragua (for two years) and Peru (for one year).
 
-        Pastreich currently lives in North Carolina. She is proud of her sons, one of whom is an official with the SEIU Local 32J in New York City, with
+        Pastreich currently lives in North Carolina. She is proud of her sons, one of whom is the president of the SEIU Local 32BJ in New York City, with
         more than 180,000 members, and the other enforces mininum wage laws in San Francisco.
             `,
         otherNotes: "",
