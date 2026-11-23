@@ -875,16 +875,21 @@ p_bios = [
           at Cornell University. In 1967, she married and she and her husband served as Peace Corps volunteers in Chile. By the 1970s, 
           Ann Pastreich had moved to Cambridge. <Br><Br>
 
-        Shortly after moving to Cambridge, upon witnesseing firefighters rescuing people trapped in a house fire,
+        In Cambridge, Pastreich had a bookkeeping job with the Cambridge school system and she trained as an ambulance tecnician. 
+        She also studied fire science at Bunker Hill Community College. 
+        After witnesseing firefighters rescuing people trapped in a house fire,
         she decided that she wanted to be a firefighter. She began to prepare for the job and, 
         in 1977, passed the physical and written firefighter tests. She saw an opening in the nearby Lexington fire department and
-         applied for a position, but was rejected. Sensing sex discrimination (there had never yet been a woman firefighter in 
-         Massachusetts), she challenged the decision in court in 1978. Two years later, the Masschusetts Commission Against 
-         Discrimination ruled in her favor.<Br><br>
+         applied for a position. Late in 1977, two men were hired from the group that had passed the test and early in 1978, two more
+        men were hired. Pastreich suspected that she had done better on her tests than these latter two, and eventually contacted a lawyer. 
+        She worked with her lawyer for a year and a half and then filed a complaint with the Massachusetts Commission Against Discrimination. 
+        At that point, Lexington town officials agreed that Pastreich would fill the next available spot.<Br><br>
         On September 7, 1980, at age 37, Patreich entered the Massachusetts Firefighting Academy's eight-week training program
          as the sole woman in a class alongside 28 men. After the training, she became Lexington's (and Massachusetts') first 
          professional female firefighter.<br><Br>
+
         <i>The Harvard Crimson</i> wrote a piece on her three weeks after she started:
+
         <blockquote>
         "Sure they're watching me. They're watching all the rookies," she says, and pauses. "Maybe they're watching me a 
         little more carefully."<Br><Br>
@@ -894,17 +899,33 @@ p_bios = [
         Good coordination and the ability to endure heights gave her advantages over some colleagues, though. "I wasn't worst at
          everything. There were guys who could never get their breathing apparatus on in 45 seconds," she says.
         </blockquote>
-        Pastreich currently lives in North Carolina.
+
+        Pastreich says she really enjoyed the EMT work: it was more frequent and was important work and you had to be skilled at it.
+ She experienced some harassment/hazing when she first arrived; for example, wherever she sat in the firehouse, 
+        the men would all get up and sit elsewhere. But that eventually faded away and there were male firefighters with whom she got along with well and who had
+        no problem with her being in the firehouse.<Br><Br> One day, her unit was called to go to a big fire in Belmont. When they
+        returned, some of the Lexington firefighters, including Pastreich, got a ride with the Belmont engine. When the guys opened
+        the door and she got out, the Belmont firefighters applauded for her, with the Lexington crew responding "Get your own girl!"
+    
+
+        <Br><Br>
+
+        Pastreich stayed with the Lexington Fire Department for 4 1/2 years. After leaving the department, she worked
+         with Habitat for Humanity in Nicaragua (for two years) and Peru (for one year).
+
+        Pastreich currently lives in North Carolina. She is proud of her sons, one of whom is an official with the SEIU Local 32J in New York City, with
+        more than 180,000 members, and the other enforces mininum wage laws in San Francisco.
             `,
         otherNotes: "",
         references: `
+        Interview of Ann Pastreich by Anthony Beckwith, November, 2026.<br>
         <i>City of Cambridge phone directory</i>, 1993, 2000.<br>
 
         <i>The West Schuylkill Press and Pine Grove Herald</i>, June 09, 1966.<br>
 
         <i>Lebanon Daily News and The Lebanon Daily Times</i>, February 11, 1969.<Br>
 
-        <i>The Cambridge Chronicle</i>, 28 August 1980.<br>
+        <i>The Cambridge Chronicle</i> 20 August 1980, 28 August 1980.<br>
         <i>The Boston Globe</i>, Nov. 8, 1980.<br>
         <i>Pottsville Republican</i>,
         Fri, Jun 05, 1964.<Br>
