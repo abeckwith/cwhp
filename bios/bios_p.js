@@ -861,8 +861,8 @@ p_bios = [
         workInProgress: false,
         organization: false,
         lastName: "Pastriech",
-        firstName: "Truitt",
-        middleName: "Ann",
+        firstName: "Ann",
+        middleName: "",
         familyName: "Hikes",
 
         title: `First female firefighter in Massachusetts`,
