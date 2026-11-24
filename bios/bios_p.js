@@ -900,7 +900,7 @@ p_bios = [
          everything. There were guys who could never get their breathing apparatus on in 45 seconds," she says.
         </blockquote>
 
-        Pastreich says she really enjoyed the EMT work: it was more frequent and was important work and you had to be skilled at it.
+        Pastreich says she really enjoyed the EMT work: it was more frequent and important work, and you had to be skilled at it.
  She experienced some harassment/hazing when she first arrived; for example, wherever she sat in the firehouse, 
         the men would all get up and sit elsewhere. But that eventually faded away and there were male firefighters with whom she got along with well and who had
         no problem with her being in the firehouse.<Br><Br> One day, her unit was called to go to a big fire in Belmont. When they
@@ -945,8 +945,8 @@ p_bios = [
         <a class="indent" href="https://www.gettyimages.com/detail/news-photo/massachusettss-first-full-time-female-firefighter-ann-news-photo/1312367785">https://www.gettyimages.com/detail/news-photo/massachusettss-first-full-time-female-firefighter-ann-news-photo/1312367785</a>
 
             `,
-        photos: ["images_bios/pastreich1.png","images_bios/pastreich2.jpg"],
-        photoTitles: ["Source: The Cambridge Chronicle, 28 August 1980", "Source: Massachusetts Department of Fire Services Facebook Post"],
+        photos: ["images_bios/pastreich3.png","images_bios/pastreich2.jpg"],
+        photoTitles: ["Source: Ann Pastreich", "Source: Massachusetts Department of Fire Services Facebook Post"],
         dateCreated: "11.22.2026",
         dateUpdated: "",
 

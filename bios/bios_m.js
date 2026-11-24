@@ -1657,7 +1657,7 @@ by Cate McQuaid,, April 12, 2017.
         narrative: `
       
         Kate Mattes was born in Chicago and grew up in Des Moines, Iowa, where her parents were editors at the Des Moines Register.
-         A couple of years getting her Master's degree in social work, she moved to Cambridge and began a family therapy practice. 
+         A couple of years after getting her Master's degree in social work, she moved to Cambridge and began a family therapy practice. 
          In 1970, Mattes became the full-time coordinator of the Agassiz Community Schools council. In 1973, Mattes directed
           Rent-A-Kid/Mayor's Summer Employment program, working with the Cambridge Chamber of Commerce.<Br><Br>
 
@@ -1671,7 +1671,7 @@ by Cate McQuaid,, April 12, 2017.
         On May 13, 1983 (Friday the 13th), Mattes opened the Boston area's first bookstore that was devoted entirely to mystery
          books: "Kate's Mystery Bookstore: Murder Under Cover." The store had 10,000 titles when it opened at 2211 Massachusetts
           Avenue in North Cambridge, with the store on the ground floor and her home on the second floor.
-        2211 Mass Ave. Cambridge-based author Robert Parker helped her install shelves and sent her champagne and flowers on
+        Cambridge-based author Robert Parker helped her install shelves and sent her champagne and flowers on
          the opening day; they eventually became good friends. The week of the opening, she told the <i>The Cambidge Chronicle</i>:
         <blockquote>
         "I've wanted to open my own mystery bookstore for about 10 years. As a kid I was an avid mystery addict and in college

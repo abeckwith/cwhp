@@ -1556,7 +1556,7 @@ h_bios = [
         Russian War Relief." They charged five cents for admission and raised $7.25 from the event. 
         <br><br>
         But they weren't done yet.<br><Br>
-        In October of 1944, the children put on another play (writing, directing, acting), called "Woman Trouble in the S'ung Dyansty,"
+        In October of 1944, the children put on another play (writing, directing, acting), called "Woman Trouble in the S'ung Dynasty,"
          this time for United China War Relief. This time, two adults were included: Janet Sewall, an artist with a focus on China,
          and Chiang Kai-shek's wife, Soong Mei-ling, who had gone to Wellesley College in the 1910s and who, 
           at the time, was visiting her nephew at Harvard. Both women acted as advisors to the children.<br><Br>
@@ -1565,16 +1565,18 @@ h_bios = [
 
                 
         
-        Harvey graduated from Radcliffe College in 1955. She raisied five children in New Mexico 
+        Harvey graduated from Radcliffe College in 1955. She raised five children in New Mexico 
         with her husband Brian Harvey III, while working as
         a research librarian and editor for a neuroscience group as well as
         writing and directing plays for the Phoenix Children
         Theater, founding a recorder society and creating a literary press.<br><Br>
-        Harvey returned to Massachusetts to earn her PhD in History of Science in 1983.
-        In addition to working with the Cambridge Historical Commission, she wrote extensively on French
-        Darwinism and French anthropology, publishing her own book about Charles Darwin's first French
-        translator, Clémence Royer. With Marilyn Ogilvie, she edited the widely regarded
-        <i>Biographical Dictionary of Women in Science</i> which profiled over 3,000 women scientists.
+
+    
+        Harvey later returned to Massachusetts to earn her PhD in History of Science in 1983. 
+        She wrote extensively on French Darwinism and French anthropology. Her book, <I>Almost a man of genius: 
+        Clémence Royer, Feminism, and Nineteenth-Century Science,</i> a biography of Royer, the first French translator
+         of Charles Darwin's works, was published in 1997. With Marilyn Ogilvie, she edited the widely regarded 
+         <i>Biographical Dictionary of Women in Science</i>, which profiled over 3,000 women scientists in two volumes.
         `,
         otherNotes: "",
         references: `
