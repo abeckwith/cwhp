@@ -871,7 +871,7 @@ p_bios = [
         deathDate: "",
         deathLocation: "",
         narrative: `
-          Pastreich, who went by her middle name "Ann," grew up in Pine Grove, Pennsylvania. She attended Penn State and graduate school 
+          Ann Pastreich grew up in Pine Grove, Pennsylvania. She attended Penn State and graduate school 
           at Cornell University. In 1967, she married and she and her husband served as Peace Corps volunteers in Chile. By the 1970s, 
           Ann Pastreich had moved to Cambridge. <Br><Br>
 
