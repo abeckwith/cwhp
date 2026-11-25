@@ -975,7 +975,7 @@ p_bios = [
         funFact: "Pastreich became the <b>first woman hired as a professional firefighter in Massachusetts</b>, but only after filing and winning"+
         " a sex discrimintation lawsuit that took two years to settle.",
         funFactImage: "images_bios/pastreich3.png",
-        first: "The first professional female firefighter hired in Massachusetts",
+        first: "First female professional firefighter hired in Massachusetts",
         firstYear: "1980",
         editors: "",
         authors: "Anthony Beckwith",

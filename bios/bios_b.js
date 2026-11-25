@@ -3795,7 +3795,7 @@ b_bios = [
         recentEditNotes: "",
         funFact: "",
         funFactImage: "",
-        first: "The first Black female dentist in Cambridge",
+        first: "First Black female dentist in Cambridge",
         firstYear: "1916",
         editors: "",
         authors: "Anthony Beckwith",

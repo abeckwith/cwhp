@@ -79,7 +79,7 @@ a_bios = [
         funFact:
             "Ackermann was the <b>first woman</b> to serve as the <b>mayor of the City of Cambridge</b>. As a city councilor, she helped put a stop to " +
             "plans to tear down homes and develop the Inner Belt highway through Cambridge",
-        first: "The first woman to serve as mayor of Cambridge",
+        first: "First woman to be elected to mayor of City of Cambridge",
         firstYear: "1973",
         editors: "Joan Sindall, Barbara Beckwith",
         authors: "CWHP volunteers",
