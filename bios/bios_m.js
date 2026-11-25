@@ -526,7 +526,7 @@ m_bios = [
         recentEditNotes: "Added link to daughter's biography of her and added photo",
         funFact: "",
         funFactImage: "",
-        first: "The Naval Underwater Ordnance Statio first female engineer and the first woman science department chair at Rogers High School in Newport",
+        first: "The Naval Underwater Ordnance Station first female engineer and the first woman science department chair at Rogers High School in Newport",
         firstYear: "c.1952",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
