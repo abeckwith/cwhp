@@ -79,6 +79,8 @@ j_bios = [
             "Jacobs lived in Cambridge after the Civil War, but <b>for seven years, she lived hidden from her enslavers in an " +
             "attic</b> in North Carolina, reading, writing, and sewing, before fleeing in 1842 to New York City and freedom",
 
+        fact: "",
+        factYear: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: [
@@ -177,6 +179,8 @@ j_bios = [
         recentEditNotes: "",
         funFact: "",
         funFactImage: "",
+        fact: "",
+        factYear: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Political Leader", "Poet", "Author"],
@@ -271,6 +275,8 @@ j_bios = [
             'Johnson wrote a <b>1915 letter to the Cambridge Tribune</b>, arguing:<br><i> "Though woman suffrage is delayed in Massachusetts, ' +
             'it is surely coming. Justice demands it. The spirit of the century claims the help of women in the government."</i>',
 
+        fact: "",
+        factYear: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: [
@@ -346,6 +352,8 @@ j_bios = [
         recentEditNotes: "",
         funFact: "",
         funFactImage: "",
+        fact: "",
+        factYear: "",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Businesswoman"],
@@ -402,6 +410,8 @@ j_bios = [
         recentEditNotes: "",
         funFact: "",
         funFactImage: "",
+        fact: "",
+        factYear: "",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Writer"],

@@ -26,6 +26,30 @@ function getCards(){
         });
     });
 }
+function getFactCards(){
+  all_bios.forEach((bioLtr) => {
+        bioLtr.forEach((bio) => {
+
+            if(bio.fact.trim() !== "" && bio.fact !== undefined){
+                n = bio.firstName + " " + bio.lastName;
+                l = "bios.html?last=" + bio.lastName + "&middle=" + bio.middleName + "&first=" + bio.firstName;
+
+                if(bio.funFactImage == "")
+                    i = bio.photo[0];
+                else i = bio.funFactImage;
+
+                j = {
+                    name: n,
+                    link: l,
+                    image:i,
+                    description: bio.fact,
+                    year: bio.factYear
+                }
+                cards.push(j);
+            }
+        });
+    });
+}
 /**
  * displays fun facts/first on Fun Facts page
  */

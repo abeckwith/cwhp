@@ -66,6 +66,8 @@ z_bios = [
         recentEditNotes:"added birthdate, death date and location, and other of her activities",
         funFact: "",
         funFactImage: "",
+        fact: "",
+        factYear: "",
         editors:"Anthony Beckwith",
         authors: "Sarah Boyle",
         categories: ["Community Leader"],

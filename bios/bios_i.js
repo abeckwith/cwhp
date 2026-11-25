@@ -84,6 +84,8 @@ i_bios = [
         recentEditNotes:"",
         funFact: "",
         funFactImage: "",
+        fact: "",
+        factYear: "",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator"],

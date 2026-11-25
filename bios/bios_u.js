@@ -50,6 +50,8 @@ u_bios = [
         recentEditNotes:"",
         funFact: "",
         funFactImage: "",
+        fact: "",
+        factYear: "",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Teacher", "Nurse", "Activist"],
