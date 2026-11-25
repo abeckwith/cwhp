@@ -1,55 +1,86 @@
-
 cards = [];
+firstsCards = [];
 /**
  * populates cards array with json objects
  */
-function getCards(){
-  all_bios.forEach((bioLtr) => {
+function getCards() {
+    all_bios.forEach((bioLtr) => {
         bioLtr.forEach((bio) => {
-
-            if(bio.funFact.trim() !== "" && bio.funFact !== undefined){
+            if (bio.funFact.trim() !== "" && bio.funFact !== undefined) {
                 n = bio.firstName + " " + bio.lastName;
-                l = "bios.html?last=" + bio.lastName + "&middle=" + bio.middleName + "&first=" + bio.firstName;
+                l =
+                    "bios.html?last=" +
+                    bio.lastName +
+                    "&middle=" +
+                    bio.middleName +
+                    "&first=" +
+                    bio.firstName;
 
-                if(bio.funFactImage == "")
-                    i = bio.photo[0];
+                if (bio.funFactImage == "") i = bio.photo[0];
                 else i = bio.funFactImage;
 
                 j = {
                     name: n,
                     link: l,
-                    image:i,
-                    description: bio.funFact
-                }
+                    image: i,
+                    description: bio.funFact,
+                };
                 cards.push(j);
             }
         });
     });
 }
-function getFactCards(){
-  all_bios.forEach((bioLtr) => {
+/**
+ * Builds the table of Cambridge Women "Firsts"
+ */
+function getFirstsCards() {
+    all_bios.forEach((bioLtr) => {
         bioLtr.forEach((bio) => {
-
-            if(bio.fact.trim() !== "" && bio.fact !== undefined){
+            if (bio.first.trim() !== "" && bio.first !== undefined) {
                 n = bio.firstName + " " + bio.lastName;
-                l = "bios.html?last=" + bio.lastName + "&middle=" + bio.middleName + "&first=" + bio.firstName;
-
-                if(bio.funFactImage == "")
-                    i = bio.photo[0];
-                else i = bio.funFactImage;
+                l =
+                    "bios.html?last=" +
+                    bio.lastName +
+                    "&middle=" +
+                    bio.middleName +
+                    "&first=" +
+                    bio.firstName;
 
                 j = {
                     name: n,
                     link: l,
-                    image:i,
-                    description: bio.fact,
-                    year: bio.factYear
-                }
-                cards.push(j);
+                    description: bio.first,
+                    year: bio.firstYear,
+                };
+                firstsCards.push(j);
             }
         });
     });
+    //TODO sort by year:
+     sortedFirsts = firstsCards.sort((a, b) => {
+        if (a.year > b.year) return 1;
+        if (a.year < b.year) return -1;
+        return 0;
+    });
+
+    html = "<table id='firsts-table'>";
+    sortedFirsts.forEach((fc) => {
+        console.log(html);
+        html +=
+            "<tr><td style='color: rgb(76, 13, 92);font-weight:bold'>" +
+            fc.year +
+            "</td><td><a class='name-link' style='display:inline' href='" +
+            fc.link +
+            "'>" +
+            fc.name +
+            "</a></td><td>" +
+            fc.description +
+            "</td></Tr>";
+    });
+    html += "</table>";
+    document.getElementById("fact-cards").innerHTML = html;
 }
+
 /**
  * displays fun facts/first on Fun Facts page
  */
@@ -72,14 +103,15 @@ function displayCards() {
         if (element.name != "") {
             count++;
             //left/right alternating position:
-            if (count % 2 == 0) mgn = "left-card";//"margin-left:20vw";
-            else mgn = "right-card";//"margin-right:20vw";
-            
+            if (count % 2 == 0)
+                mgn = "left-card"; //"margin-left:20vw";
+            else mgn = "right-card"; //"margin-right:20vw";
+
             html +=
                 '<div class="w3-container no-underline-area fade-element">' +
                 '<a href="' +
                 element.link +
-                '"><div class="w3-card-4 ' + 
+                '"><div class="w3-card-4 ' +
                 mgn +
                 '">' +
                 '<header class="w3-container w3-black"><h3 class="best-color">' +
