@@ -1130,8 +1130,8 @@ function setMenu(whichOneGray) {
         '<a id="1" class="search-buttons" href="bios.html">Name Index</a>' +
         '<a id="2" class="search-buttons" href="topical.html">Subject Index</a>' +
         '<a id="3" class="top-links" href="search.html">Site Search &#x1F50E;</a>' +
-        '<a id="4" class="top-links" href="firsts.html">Firsts</a>' +
-        '<a id="5" class="top-links" href="funfacts.html">Fun Facts</a>' +
+        '<a id="4" class="search-buttons" href="firsts.html">Firsts</a>' +
+        '<a id="5" class="search-buttons" href="funfacts.html">Fun Facts</a>' +
         '<a id="6" class="top-links" href="recents.html">Recently Added</a>' +
         '<a id="7" class="top-links" href="resources.html">Resources</a>' +
         '<a id="8" class="top-links" href="nominations.html">Nominations</a>' +
