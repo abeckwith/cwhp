@@ -17,7 +17,7 @@
     <script src="scripts/cards.js"></script>
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
- <script src="bios/bios_a.js"></script>
+    <script src="bios/bios_a.js"></script>
     <script src="bios/bios_b.js"></script>
     <script src="bios/bios_c.js"></script>
     <script src="bios/bios_d.js"></script>
@@ -66,6 +66,18 @@
             text-decoration: none;
         }
 
+        .left-card {
+            margin-left: 20vw;
+        }
+
+        .right-card {
+            margin-right: 20vw;
+        }
+
+        .w3-card-4 {
+            width: 45%;
+        }
+
         @media screen and (max-width: 700px) {
 
             header.w3-container.w3-black,
@@ -77,6 +89,9 @@
                 font-size: 4.5vw;
             }
 
+            .w3-card-4 {
+                width: 87%;
+            }
         }
 
         body {
@@ -112,34 +127,34 @@
     </style>
     <script>
         function setCards() {
-              all_bios = [
-        a_bios,
-        b_bios,
-        c_bios,
-        d_bios,
-        e_bios,
-        f_bios,
-        g_bios,
-        h_bios,
-        i_bios,
-        j_bios,
-        k_bios,
-        l_bios,
-        m_bios,
-        n_bios,
-        o_bios,
-        p_bios,
-        q_bios,
-        r_bios,
-        s_bios,
-        t_bios,
-        u_bios,
-        v_bios,
-        w_bios,
-        x_bios,
-        y_bios,
-        z_bios,
-    ];
+            all_bios = [
+                a_bios,
+                b_bios,
+                c_bios,
+                d_bios,
+                e_bios,
+                f_bios,
+                g_bios,
+                h_bios,
+                i_bios,
+                j_bios,
+                k_bios,
+                l_bios,
+                m_bios,
+                n_bios,
+                o_bios,
+                p_bios,
+                q_bios,
+                r_bios,
+                s_bios,
+                t_bios,
+                u_bios,
+                v_bios,
+                w_bios,
+                x_bios,
+                y_bios,
+                z_bios,
+            ];
             recents = false;
 
             setMenu(4);

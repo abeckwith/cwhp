@@ -48,16 +48,16 @@ function displayCards() {
         if (element.name != "") {
             count++;
             //left/right alternating position:
-            if (count % 2 == 0) mgn = "margin-left:20vw";
-            else mgn = "margin-right:20vw";
-
+            if (count % 2 == 0) mgn = "left-card";//"margin-left:20vw";
+            else mgn = "right-card";//"margin-right:20vw";
+            
             html +=
                 '<div class="w3-container no-underline-area fade-element">' +
                 '<a href="' +
                 element.link +
-                '"><div class="w3-card-4" style="width:50%;' +
+                '"><div class="w3-card-4 ' + 
                 mgn +
-                '"">' +
+                '">' +
                 '<header class="w3-container w3-black"><h3 class="best-color">' +
                 element.name +
                 '</h3></header><div class="w3-container"><img src="' +
