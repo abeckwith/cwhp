@@ -1359,7 +1359,7 @@ by Cate McQuaid,, April 12, 2017.
           Robin McCree was born, raised, attended school, and worked her entire life in Cambridge. She attended 
           the Russel elementary school in Cambridge and then Cambridge's Buckingham, Browne and Nichols High 
           School. McCree says that she was hired as the first Black female probation officer to work at the Cambridge District
-           Court, Middlesex County, in 1984 and after that the first Black female Assistant Clerk Magistrate
+           Court, Middlesex County, in 1984, and after that the first Black female Assistant Clerk Magistrate
         at the Cambridge District Court, where she worked for 37 years.<br><br>
 
             Her father, Ramon McCree, was a World War II and Korean War veteran who was born and raised in 
@@ -1429,8 +1429,8 @@ by Cate McQuaid,, April 12, 2017.
         recentEditNotes: "",
         funFact: "",
         funFactImage: "",
-        first: "",
-        firstYear: "",
+        first: "First Black female probation officer to work at the Cambridge District Court",
+        firstYear: "1984",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Clerk", "Law Enforcement"],

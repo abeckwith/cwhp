@@ -642,8 +642,8 @@ p_bios = [
         That publication was responsible for
          <b>introducing the terms "stir fry" and "pot sticker" into the American lexicon.</b>
     `,
-        first: "",
-        firstYear: "",
+        first: "First female non-white housemaster at Harvard",
+        firstYear: "c.1950",
         editors: "",
         authors: "Eric Hill",
         categories: ["Musician", "Ethnomusicologist"],

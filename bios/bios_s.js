@@ -1208,8 +1208,8 @@ s_bios = [
         MIT and worked with Mt. Auburn Hospital, the Lesley Ellis School and Boston's Floating Hospital and was a board member
         at the Museum of African American History. `,
         funFactImage: "images_bios/salvi1.jpg",
-        first: "",
-        firstYear: "",
+        first: "First Black nursing student at Cambridge City Hospital",
+        firstYear: "c.1940",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Nurse", "Teacher/Educator", "Counselor"],

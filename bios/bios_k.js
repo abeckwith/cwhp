@@ -16,9 +16,9 @@ k_bios = [
         birthLocation: "Nantucket, Massachusetts",
         deathDate: "06.04.1907",
         deathLocation: "Belmont, Massachusetts",
-        narrative: `Pheb Mitchell and her sister Maria were largely educated by their father,
+        narrative: `Phebe Mitchell and her sister Maria were largely educated by their father,
             William Mitchell, a teacher, banker, and amateur astronomer. Phebe married Joshua
-            Kendall, a private boys' school teacher, and moved to to Bristol, RI by 1860.
+            Kendall, a private boys' school teacher, and moved to to Bristol, Rhode Island, by 1860.
             They later settled in Cambridge.
             
             <br><br>By 1873, Joshua Kendall had opened his
@@ -32,7 +32,7 @@ k_bios = [
 
             In 1879, the Massachusetts Legislature passed
             a law allowing women to vote in school committee elections. That same year,
-            Phebe Mitchell Kendall and Sarah Sprague Jacob
+            Phebe Mitchell Kendall and Sarah Sprague Jacobs
             became the first women elected to the Cambridge School Committee. Phebe Kendall
             served until 1894. In 1896, Phebe Mitchell Kendall edited a biography of her
             sister, Maria Mitchell (1818-1889) who had made her name as astronomer, educator,
@@ -69,8 +69,8 @@ k_bios = [
         recentEditNotes: "",
         funFact: "",
         funFactImage: "",
-        first: "",
-        firstYear: "",
+        first: "1879",
+        firstYear: "First woman elected to the Cambridge School Committee, along with Sarah Jacobs",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Political Leader", "Writer"],
