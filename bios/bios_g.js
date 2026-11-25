@@ -657,8 +657,8 @@ g_bios = [
             "Graham was the first woman of color to be elected to the <b>Cambridge City Council</b>, who " +
             "also led the fight for <b>rent control</b> in Cambridge",
 
-        first: "",
-        firstYear: "",
+        first: "First woman of color to be elected to the Cambridge City Council",
+        firstYear: "1971",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist", "Political Leader"],

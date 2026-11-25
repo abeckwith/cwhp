@@ -506,24 +506,29 @@ m_bios = [
             children for tuberculosis.</p>
         <p>Genevieve McGlinchey Mathison died
             of cancer in 2004 at the age of 93.</p>
+            <Br>A highly-detailed biography of Mathison by her daughter, Marion Mathison Desorisers, can be found 
+            <a href="https://smallstatebighistory.com/the-first-female-scientist-at-naval-underwater-ordnance-station-newport/">here</a
         `,
         otherNotes: "",
         references: `
             Desrosiers, Marian. Nomination to the Cambridge Women's Heritage Proect.<br>
             Farragher, Thomas. &#8220;Genevieve M. Mathison, 93; pioneering scientist helped
-            improve radar,&#8221; <i>The Boston Globe</i>, May 25, 2004.`,
-        photos: ["images_bios/Genevieve%20McGlinchey%20Mathison%20small.jpeg"],
-        photoTitles: [],
+            improve radar,&#8221; <i>The Boston Globe</i>, May 25, 2004.<Br>
+            Biography of Mathison by her daughter, Marion Mathison Desorisers:<Br>
+            <a class="indent" href="https://smallstatebighistory.com/the-first-female-scientist-at-naval-underwater-ordnance-station-newport/">https://smallstatebighistory.com/the-first-female-scientist-at-naval-underwater-ordnance-station-newport/</a
+`,
+        photos: ["images_bios/Genevieve%20McGlinchey%20Mathison%20small.jpeg", "images_bios/mathison2.png"],
+        photoTitles: ["", "<Br>M.I.T. Radiation Lab, Cambridge, MA, 1945 <br>Source: <a href='https://smallstatebighistory.com/the-first-female-scientist-at-naval-underwater-ordnance-station-newport/'>link</a>"],
         dateCreated: "prior to 2009",
-        dateUpdated: "",
+        dateUpdated: "11.25.2026",
 
         photoHeights: [],
-        recentEditNotes: "",
+        recentEditNotes: "Added link to daughter's biography of her and added photo",
         funFact: "",
         funFactImage: "",
-        first: "",
-        firstYear: "",
-        editors: "",
+        first: "The Naval Underwater Ordnance Statio first female engineer and the first woman science department chair at Rogers High School in Newport",
+        firstYear: "c.1952",
+        editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist", "Teacher/Educator", "Scientist"],
     },
@@ -1755,8 +1760,8 @@ by Cate McQuaid,, April 12, 2017.
         funFact: "Mattes opened the <b>first ever mystery-themed bookstore</b> in the Boston area in 1983, on Friday the thirteenth."+
         " Despite the store being hit by the #77 MBTA bus in 1987 (she lived in the apartment above the store), her bookshop reopened and lasted until 2009.",
         funFactImage: "images_bios/mattes1.png",
-        first: "",
-        firstYear: "",
+        first: "Opened the Boston area's first bookstore that was devoted entirely to mystery books",
+        firstYear: "1983",
         editors: "",
         authors: "Anthony Beckwith",
         categories: ["Bookstore owner"],

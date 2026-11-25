@@ -1597,7 +1597,9 @@ c_bios = [
         otherNotes: "",
         references: `
         Tribute Archive obituary:<Br>
-       <a class="indent" href="https://www.tributearchive.com/obituaries/32751383/faith-chase">https://www.tributearchive.com/obituaries/32751383/faith-chase</a>
+       <a class="indent" href="https://www.tributearchive.com/obituaries/32751383/faith-chase">https://www.tributearchive.com/obituaries/32751383/faith-chase</a><Br>
+       Shady Hill website:<br>
+       <A class="indent" href="https://shs.myschoolapp.com/page/give/the-faith-chase-fund?siteId=751&ssl=1">https://shs.myschoolapp.com/page/give/the-faith-chase-fund?siteId=751&ssl=1</a>
             `,
         photos: ["images_bios/chase_faith.jpeg"],
         photoTitles: ["Source: tributearchive.com"],
@@ -1606,8 +1608,8 @@ c_bios = [
 
         photoHeights: [],
         recentEditNotes: "",
-        funFact: "",
-        funFactImage: "",
+        funFact: "First African American teacher at Shady Hill School in Cambridge",
+        funFactImage: "1969",
         first: "",
         firstYear: "",
         editors: "",
