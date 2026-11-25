@@ -934,8 +934,8 @@ h_bios = [
             "while studying architecture." +
             "",
 
-        first: "",
-        firstYear: "",
+        first: "Founding member of MIT's first woman student's group, Eta Sigma Mu; first woman elected to the Boston Society of Architects",
+        firstYear: "1890",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Architect"],
@@ -1333,8 +1333,8 @@ h_bios = [
         recentEditNotes: "",
         funFact: "",
         funFactImage: "",
-        first: "",
-        firstYear: "",
+        first: "One of nine students to enroll in the first graduate level law school for women in America; in 1920, she became the first female attorney in the Boston Legal Aid Society",
+        firstYear: "1915",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Sportswoman", "Volunteer"],
