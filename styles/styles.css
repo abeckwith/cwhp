@@ -380,7 +380,7 @@ td > a {
         font-size: 30vw;
     }
     .opening-images {
-        height: 25vw;
+        height: 35vw;
         width: auto;
         border-radius: 20px;
     }
@@ -587,7 +587,9 @@ a.search-buttons {
     font-size: 1.4vw;
     margin: 2vw 10vw;
 }
-
+     #flyer {
+            width: 50%;
+        }
 @media screen and (max-width: 700px) {
     strong,
     h1,
@@ -699,6 +701,7 @@ a.search-buttons {
     .name-heading {
         font-size: 4%;
     }
+
     #bio-container {
         width: 64vw;
         font-size: 12px;
@@ -713,8 +716,8 @@ a.search-buttons {
         min-width: 8%;
     }
     img {
-          transform: scale(0.85);
-          padding:5px;
+          transform: scale(1.15);
+          /* padding:5px; */
     }
     .bottom-line{
         margin-left:5vw;
@@ -771,6 +774,9 @@ a.search-buttons {
 
         /* other style changes here */
     }
+                #flyer {
+            transform: scale(133%);
+        }
     #nice-header2 {
         font-size: 2vw;
     }

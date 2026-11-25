@@ -1197,7 +1197,7 @@ d_bios = [
         workInProgress: false, //true when don't want online yet
         organization:  false,
         lastName: "Dunster",
-        firstName: "Elizbeth",
+        firstName: "Elizabeth",
         middleName: "Glover",
         familyName: "Harris",
 
