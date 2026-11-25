@@ -860,7 +860,7 @@ p_bios = [
         poc: false,
         workInProgress: false,
         organization: false,
-        lastName: "Pastriech",
+        lastName: "Pastreich",
         firstName: "Ann",
         middleName: "",
         familyName: "Hikes",
