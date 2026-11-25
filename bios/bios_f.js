@@ -166,7 +166,7 @@ f_bios = [
       at Harvard Medical School from 1970 to 1972. 
       
       <br><br>From 1972 until 1999, she was
-      an Associate Professor of Pharmacology and Psychiatry at Boston University
+      an Associate Professor of pharmacology and psychiatry at Boston University
       Medical
       School. She was one of the first to study paternal effects of various drugs
       on the fetus. <br><br>
@@ -417,7 +417,7 @@ In
         1977 interview:
         
         <blockquote> "They used to have the Boardman School right across from where the Newtowne
-            Court housing project is. And we had one black teacher there. Her name was Goldie Lane; 
+            Court housing project is. And we had one Black teacher there. Her name was Goldie Lane; 
             her father was a physician in Cambridge."</blockquote>
 
         In September of 1906, Lane contributed to a Labor Day celebration that took place on the Charles at the foot of the

@@ -634,8 +634,8 @@ h_bios = [
             have known for years where to seek our enemy; it is not the man so much as the environments of
             his social system. Granted that the conditions are hard for a certain class of Southern white
             women; but the results of profligacy are the same in any case, no matter whether white or 
-            black are the partners. Certainly the rapid life of society everywhere at present, among 
-            white and black, is not suggestive of absolute purity, and the black is no worse than his 
+            Black are the partners. Certainly the rapid life of society everywhere at present, among 
+            white and Black, is not suggestive of absolute purity, and the Black is no worse than his 
             environment; he follows the fashions as set by his white superior. 
             <br><br>
                
@@ -662,7 +662,7 @@ h_bios = [
              at Massachusetts Institute of Technology. Her final literary work was a series
             of articles entitled, &quot;Dark Races of the Twentieth Century,&quot; published
             during 1904-1905 in The Voice of the Negro. Mainly interested in the problems
-            of the black middle class, she was one of the first black women writers in America. 
+            of the Black middle class, she was one of the first Black women writers in America. 
             <br><br>
             
             She was living at 19 Jay Street in Cambridge at the time of her death.
@@ -690,8 +690,8 @@ h_bios = [
         recentEditNotes: "",
         funFact: "",
         funFactImage: "",
-        first: "",
-        firstYear: "",
+        first: "Published a short story in the first issue of The Colored American Magazine",
+        firstYear: "1900",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Writer"],
@@ -1126,8 +1126,8 @@ h_bios = [
         recentEditNotes: "",
         funFact: "",
         funFactImage: "",
-        first: "",
-        firstYear: "",
+        first: "First woman tenured as professor of biology at Harvard",
+        firstYear: "1974",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist", "Refugee", "Scientist"],

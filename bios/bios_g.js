@@ -30,7 +30,7 @@ g_bios = [
             American singer.) </blockquote>
             
             Dorothy played what she called &#8220;regular music&#8221;
-            -- Negro spirituals and songs by black composers. According to her niece, Leora
+            -- Negro spirituals and songs by Black composers. According to her niece, Leora
             Littleton, Dorothy taught piano to half the children in Cambridge. She took
             organ lessons and became the organist for the Massachusetts Avenue Baptist Church's
             Sunday school and director of the choir. She was also a member of the Salvation Army Silver Threads. In 1993, Mrs. Gatherwright celebrated
@@ -591,7 +591,7 @@ g_bios = [
             Committee in Cambridge. <br><br>
 
             In 1976, Saundra Graham was elected as State Representative,
-            a seat which she held for the subsequent twelve years. She was the first black
+            a seat which she held for the subsequent twelve years. She was the first Black
             woman representative from Cambridge to the State House and served as Chairwoman
             of the Massachusetts Black Legislative Caucus and as a member of the Massachusetts
             Caucus of Women Legislators. She continued to work for fair housing as a member

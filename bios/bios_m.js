@@ -271,8 +271,8 @@ m_bios = [
         funFact:
             "A biologist and histochemist, in 1944 Markham became the <b>first female instructor and " +
             "later the first female professor</b> in the Department of Anatomy at Harvard Medical School.",
-        first: "",
-        firstYear: "",
+        first: "First female instructor and later the first female professor in the department of Anatomy at Harvard Medical School",
+        firstYear: "1944",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Activist", "Scientist"],
@@ -853,8 +853,8 @@ m_bios = [
         recentEditNotes: "",
         funFact: "",
         funFactImage: "",
-        first: "",
-        firstYear: "",
+        first: "First woman intern at New York Nursery and Child's Hospital",
+        firstYear: "1925",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Doctor"],

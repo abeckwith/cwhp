@@ -248,7 +248,7 @@ b_bios = [
 
             of Baldwin as a primary school teacher at Agassiz Grammar School at 28 Sacramento
             Street. Seven years later, she was appointed principal of that school, the first
-            black woman to be appointed as a principal in Massachusetts. In 1899, she was living at 
+            Black woman to be appointed as a principal in Massachusetts. In 1899, she was living at 
             196 Prospect Street. 
 
             <br><br>
@@ -1441,8 +1441,8 @@ b_bios = [
         funFact:
             "In 1976, Bishop became the first American and the first woman to be awarded the <b>Books" +
             " Abroad/Neustadt International Prize for Literature</b>",
-        first: "",
-        firstYear: "",
+        first: "First American and first woman awarded the Books Abroad/Nesutadt International Prize for Literature",
+        firstYear: "1976",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Poet"],
@@ -1481,7 +1481,7 @@ b_bios = [
             Some women were professionals in education, government, the arts, business, medicine and law, and other women
             worked at home and volunteered locally, regionally and nationally. The interviews cover childhood, education,
             families,
-            career and volunteer accomplishments and their experience as black women in society. The archive, housed at
+            career and volunteer accomplishments and their experience as Black women in society. The archive, housed at
             the Schlesinger Library, includes transcripts, biographies and photographs, all accessible online. 
 
             `,
@@ -2395,7 +2395,7 @@ b_bios = [
        " We defined Bread and Roses as a 'Revolutionary Autonomous Women's Liberation
         Organization.<br>
         1. Revolutionary meant that we supported liberation struggles around the
-        world and at home. We saw the Panthers and the black liberation
+        world and at home. We saw the Panthers and the Black liberation
         movement as part of the 3d world liberation struggle. So we were antiImperialist and anti-racist.
         <br>2. It also meant we were anti-reformist: we didn't want equal rights; we
         wanted liberation [...]

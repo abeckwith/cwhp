@@ -106,10 +106,10 @@ p_bios = [
             <br><br>
             She married Fritz Pappenheim, a German refugee, who was a political activist
             and professor of economics. The couple moved to Alabama when Fritz accepted
-            a position at a black school, Talladega College; he taught there from 1944 to
+            a position at a Black school, Talladega College; he taught there from 1944 to
             1952. At the college, Yvonne became keenly aware of racial discrimination, as
             she reported in a PBS documentary, <i>From Swastika to Jim Crow,</i> that
-            recounted the experiences of Jewish refugees teaching at black colleges in the
+            recounted the experiences of Jewish refugees teaching at Black colleges in the
             South. The couple moved to Cambridge in 1952, where Fritz Pappenheim wrote a
             groundbreaking study, <i>The Alienation of Modern Man</i> (1959), and continued
             to teach and lecture. <br><br>
@@ -229,8 +229,8 @@ p_bios = [
         funFact:
             "In 1925, Payne Gaposchkin earned a Ph.D. in astronomy at Radcliffe College, the <b>first person to obtain a Ph.D. in this subject</b> from either Harvard or Radcliffe." +
             " In 1956 she was appointed Phillips Professor of Astronomy, becoming the <b>first woman to receive a tenured professorship at Harvard University.</b>",
-        first: "",
-        firstYear: "",
+        first: "First person to earn a Ph.D. in Astronomy at Radcliffe College and first person to obtain a Ph.D. in Astronomy from either Harvard or Radcliffe",
+        firstYear: "1925",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Scientist"],
@@ -575,7 +575,7 @@ p_bios = [
         Radcliffe College where she received a Bachelor of Arts and Masters of Arts in music history (Western music)
          in 1943 and 1946, respectively, and a Ph.D. in both East Asian Languages and in Music in 1960.<br><br>
         
-        In 1945, she married Theodore Pian, who later was hired as Professor of Aeronautics and Astronautics at MIT.
+        In 1945, she married Theodore Pian, who later was hired as a professor of aeronautics and astronautics at MIT.
          Not long after her marriage, Rulan worked as an instructor and lecturer in Chinese language at Harvard; she 
          would later became Professor in the Department of Music and the Department of East Asian Languages and Civilizations, 
          in that role, she was one of three tenured female professors in the Harvard Music Department. Together with her 
@@ -720,7 +720,7 @@ p_bios = [
          the city's public health clinics), Mrs. Ackermann was one of those who showed up at the hearing to voice her support for the
           measure and for her friend. The measure was implemented."</blockquote> 
 
-        In 2013, Paris received an award for helping to make Cambridge a healthier city. Paris was the first black certified nurse 
+        In 2013, Paris received an award for helping to make Cambridge a healthier city. Paris was the first Black certified nurse 
         practitioner in Cambridge in the 1970s
         and trained several generations of nurses and resident physicians.
 

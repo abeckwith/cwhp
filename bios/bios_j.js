@@ -304,7 +304,7 @@ j_bios = [
         narrative: `
             Alice (Palache) Jones, daughter of Charles Palache
             and Helen (Markham) Palache, was born in Cambridge, Massachusetts, on April
-            12, 1907 Her father was a professor of Mineralogy at Harvard and her mother
+            12, 1907 Her father was a professor of mineralogy at Harvard and her mother
             taught at the Buckingham girl's school in Cambridge, which was organized
             by her sister, Jeannette (Markham) Scudder. Palache's early life was spent on
             Appleton Street in Cambridge. <br><br>

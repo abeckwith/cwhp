@@ -574,7 +574,7 @@ s_bios = [
             of Chicago. There she served as assistant editor of the renowned Bulletin of
             the Atomic Scientists, a journal that opposed the future use of atomic weapons.
             In 1961, she and her husband moved to Cambridge where her husband was named
-            Professor of Metallurgy at MIT, jointly holding a position in Humanities where
+            a professor of metallurgy at MIT, jointly holding a position in Humanities where
             he taught the history of his subject. <br><br>
 
             Alice Kimball Smith became one of the first Radcliffe

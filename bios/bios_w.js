@@ -300,8 +300,8 @@ w_bios = [
         recentEditNotes: "",
         funFact: "",
         funFactImage: "",
-        first: "",
-        firstYear: "",
+        first: "First to receieve the Jane Doe Unsung Hero Award",
+        firstYear: "1993",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Activist", "Writer", "Editor"],
@@ -384,8 +384,8 @@ w_bios = [
         recentEditNotes: "",
         funFact: "",
         funFactImage: "",
-        first: "",
-        firstYear: "",
+        first: "First woman elected to the Cambridge City Council",
+        firstYear: "1925",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Political Leader"],
@@ -803,7 +803,7 @@ w_bios = [
 
             She held clerical jobs until she married John Wise in 1931. The couple adopted
             a son, Hubert Smith, in 1961. Ozeline Wise worked for the Navy during World War
-            II, and after the war, she was the first black woman employed by the banking
+            II, and after the war, she was the first Black woman employed by the banking
             department of the Commonwealth of Massachusetts, where she worked for nearly
             twenty years.<br><br>
 
@@ -912,8 +912,8 @@ w_bios = [
         recentEditNotes: "",
         funFact: "",
         funFactImage: "",
-        first: "",
-        firstYear: "",
+        first: "First president of the Parent-Teachers Association at Cambridge High and Latin School",
+        firstYear: "1947",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Community Leader", "Political Leader"],

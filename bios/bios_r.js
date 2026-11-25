@@ -67,7 +67,7 @@ r_bios = [
             after, Margret was approached by Alan Shallek who persuaded her to collaborate
             on a series of short films for television that began to appear on the Disney
             Channel in 1980. Margret contined to write and teach. In 1979, she was appointed
-            at Brandeis University as a professor of Creative Writing.
+            at Brandeis University as a professor of creative writing.
             
             <br><br> In 1989, she established
             the Curious George Foundation to benefit children's creativity and animal and
@@ -216,7 +216,7 @@ r_bios = [
             of Commercial Geography at the university. The couple raised four children (three
             girls and a boy) in Philadelphia until the First World War, at which time George
             Roorbach joined the U.S. Shipping Board,and later a
-            Professor of Trade at the Harvard Business School. In 1919, the family moved
+            professor of trade at the Harvard Business School. In 1919, the family moved
             to 16 Kirkland Street in Cambridge, where another son and daughter were born. George
             Roorbach died suddenly from a heart attack on May 23, 1934, while in Washington,
             D.C.<br><br>

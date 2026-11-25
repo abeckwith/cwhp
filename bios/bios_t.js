@@ -82,8 +82,8 @@ t_bios = [
         recentEditNotes: "added quote from Dr. Olivieri about Taussig",
         funFact: "",
         funFactImage: "",
-        first: "",
-        firstYear: "",
+        first: "First female president of the American Heart Association ",
+        firstYear: "1964",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Doctor", "Author"],
@@ -265,7 +265,7 @@ t_bios = [
         narrative: `
 
             One of the first African American women to graduate
-            from Tufts Dental School, Mary Crutchfield was also one of the first black women to practice
+            from Tufts Dental School, Mary Crutchfield was also one of the first Black women to practice
             dentistry in the Boston area. The only child of William and Lydia Hatch Crutchfield,
             Mary was born in North Carolina and raised in Cambridge, Massachusetts. She attended Summer School
             at Boston University in 1925.  After graduation
@@ -292,7 +292,7 @@ t_bios = [
             
             <blockquote>
             "I went to Roberts Elementary...first the Boardman School. They used to have the Boardman School right
-            across from where the Newtowne Court housing project is. And we had one black teacher there. Her name was 
+            across from where the Newtowne Court housing project is. And we had one Black teacher there. Her name was 
             Goldie Lane; her father was a physician in Cambridge. And then I think it was either two, three, or four grades,
             and then you went up to Roberts School, which is on the corner of Harvard and Broadway. And then from there
             you went to Cambridge High and Latin. The Roberts School is where they'd send the kids from class to Forsyth for

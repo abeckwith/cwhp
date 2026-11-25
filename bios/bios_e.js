@@ -92,8 +92,8 @@ e_bios = [
         recentEditNotes: "added quote about Eliot",
         funFact: "",
         funFactImage: "",
-        first: "",
-        firstYear: "",
+        first: "First woman elected president of the American Public Health Association",
+        firstYear: "1947",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
         categories: ["Doctor"],
@@ -328,8 +328,8 @@ e_bios = [
             "Easterling attended Cambridge High and Latin School and eventually became " +
             "the <b>first African American woman </b>to be admitted to Tufts University School of Medicine",
 
-        first: "",
-        firstYear: "",
+        first: "First African American woman to be admitted to Tufts University School of Medicine",
+        firstYear: "1917",
         editors: "",
         authors: "Joanna Shea O'Brien",
         categories: ["Doctor"],
