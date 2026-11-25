@@ -56,6 +56,7 @@ function getFirstsCards() {
             }
         });
     });
+    console.log(firstsCards.length)
     //TODO sort by year:
      sortedFirsts = firstsCards.sort((a, b) => {
         if(a.year.indexOf("c.")!= -1)
@@ -71,7 +72,6 @@ function getFirstsCards() {
 
     html = "<table id='firsts-table'>";
     sortedFirsts.forEach((fc) => {
-        console.log(html);
         html +=
             "<tr><td style='color: rgb(76, 13, 92);font-weight:bold'>" +
             fc.year +
