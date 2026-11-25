@@ -977,7 +977,17 @@ function removeElements(html, el) {
     const parser = new DOMParser();
     const doc = parser.parseFromString(html, "text/html");
 
-    doc.querySelectorAll(el).forEach((img) => img.remove());
+    doc.querySelectorAll(el).forEach((thing) => thing.remove());
+
+    return doc.body.innerHTML;
+}
+function removeLinks(html) {
+    let parser = new DOMParser();
+    let doc = parser.parseFromString(html, 'text/html');
+
+    doc.querySelectorAll('a').forEach(link => {
+        link.replaceWith(...link.childNodes);
+    });
 
     return doc.body.innerHTML;
 }

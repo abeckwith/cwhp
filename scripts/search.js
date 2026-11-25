@@ -77,22 +77,25 @@ function search() {
 
                     text = text.replaceAll("<strong>", "");
                     text = text.replaceAll("<em>", "");
-                    text = text.replaceAll("<\\em>", "");
+                    text = text.replaceAll("</em>", "");
                     text = text.replaceAll("<i>", "");
-                    text = text.replaceAll("<\\i>", "");
+                    text = text.replaceAll("</i>", "");
                     text = text.replaceAll("<h1>", "");
-                    text = text.replaceAll("<\\h1>", "");
+                    text = text.replaceAll("</h1>", "");
                     text = text.replaceAll("<center>", "");
-                    text = text.replaceAll("<\\center>", "");
+                    text = text.replaceAll("</center>", "");
                     text = text.replaceAll("<b>", "");
-                    text = text.replaceAll("<\\b>", "");
+                    text = text.replaceAll("</b>", "");
                     text = text.replaceAll("<blockquote>", "");
-                    text = text.replaceAll("<\\blockquote>", "");
+                    text = text.replaceAll("</blockquote>", "");
+                    // text = text.replaceAll("<a>", "");
+                    // text = text.replaceAll("</a>", "");
 
                     //get rid of any images:
                     text = removeElements(text, "img");
                     text = removeElements(text, "br");
-
+                    text = removeLinks(text);
+                    console.log(text)
                     totalPeople++;
 
                     fName = stripName(person.firstName);
@@ -146,6 +149,7 @@ function search() {
                         loc++;
                     }
                     result += "</center>";
+                    // console.log(result)
                 }
             }
         }
