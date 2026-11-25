@@ -58,8 +58,14 @@ function getFirstsCards() {
     });
     //TODO sort by year:
      sortedFirsts = firstsCards.sort((a, b) => {
-        if (a.year > b.year) return 1;
-        if (a.year < b.year) return -1;
+        if(a.year.indexOf("c.")!= -1)
+            ay = a.year.substring(2);
+        else ay = a.year;
+        if(b.year.indexOf("c.")!= -1)
+            by = b.year.substring(2);
+        else by = b.year;
+        if (ay > by) return 1;
+        if (ay < by) return -1;
         return 0;
     });
 

@@ -229,7 +229,7 @@ p_bios = [
         funFact:
             "In 1925, Payne Gaposchkin earned a Ph.D. in astronomy at Radcliffe College, the <b>first person to obtain a Ph.D. in this subject</b> from either Harvard or Radcliffe." +
             " In 1956 she was appointed Phillips Professor of Astronomy, becoming the <b>first woman to receive a tenured professorship at Harvard University.</b>",
-        first: "First person to earn a Ph.D. in Astronomy at Radcliffe College and first person to obtain a Ph.D. in Astronomy from either Harvard or Radcliffe",
+        first: "First person to earn a Ph.D. in astronomy at Radcliffe College and first person to obtain a Ph.D. in astronomy from either Harvard or Radcliffe",
         firstYear: "1925",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",

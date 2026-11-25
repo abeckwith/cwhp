@@ -209,7 +209,7 @@ b_bios = [
         recentEditNotes: "",
         funFact: "",
         funFactImage: "",
-        first: "Graduated from the first Bryn Mawr senior class",
+        first: "A member of the first graduating class of Bryn Mawr College",
         firstYear: "1899",
         editors: "Anthony Beckwith",
         authors: "CWHP volunteers",
@@ -309,8 +309,8 @@ b_bios = [
         funFact:
             "Baldwin was the first African-American to be appointed as a <b>principal at a public school</b> in Massachusetts</b> " +
             "(the Agassiz in Cambridge). She was also an activist and a writer.",
-        first: "",
-        firstYear: "",
+        first: "First African American female principal in Massachusetts and the Northeast",
+        firstYear: "1889",
         editors: "",
         authors: "CWHP volunteers",
         categories: [
@@ -1179,8 +1179,8 @@ b_bios = [
         recentEditNotes: "",
         funFact: "",
         funFactImage: "",
-        first: "",
-        firstYear: "",
+        first: "Founded the first competitive sports club in New England for both men and women; competed on the first U.S. Women's National Nordic Team (1968); first woman to compete, unofficially in the Boston Marathon (1969)",
+        firstYear: "1962",
         editors: "",
         authors: "CWHP volunteers",
         categories: [
@@ -1700,8 +1700,8 @@ b_bios = [
             "Bodecker set up the first case management program in the country to <b>work with incarcerated women with AIDS. </b>" +
             "She was also a naturalist, who traveled to Quebec to see baby seals, to Labrador and Newfoundland to study polar bears and snowy owls, and to Antarctica to view the penguin colonies. " +
             "When almost seventy, <b>she took a dog sledding trip to Alaska, camping in deep snow.</b>",
-        first: "",
-        firstYear: "",
+        first: "Set up the first case management program in the country to work with incarcerated women with AIDS",
+        firstYear: "c.1990",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Activist"],
@@ -1871,8 +1871,8 @@ b_bios = [
         recentEditNotes: "",
         funFact: "",
         funFactImage: "",
-        first: "",
-        firstYear: "",
+        first: "First woman to conduct symphony orchestras in New York, Boston and Philadelphia",
+        firstYear: "c.1924",
         editors: "",
         authors: "CWHP volunteers",
         categories: ["Teacher/Educator", "Musician"],
