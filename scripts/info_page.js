@@ -43,7 +43,7 @@ function getNextLetter(char) {
 }
 
 function loadInfoPage(checkLinks) {
-    setMenu(10);
+    setMenu(11);
         recents = false;
 
 
