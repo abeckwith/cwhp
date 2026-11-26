@@ -3,12 +3,14 @@ README.md
 
 
 **To add a new bio:**
-1. in the bios folder, go to the appropriate letter for the last name of the person.
+1. in the bios folder, find the appropriate letter for the last name of the person you are adding.
 
-2. The simplest way to understand the fields below and to actually enter a new bios is to copy and paste one of the existing bios and just change the values for each field 
-(make sure you preserve the { and } that surrounds the whole thing, and the comma after the })
+2. The simplest way to begin is to copy and paste one of the existing bios and just change the values for each field:
+ To copy an existing bio, select everything between (AND INCLUDING) the { and } that surround the whole thing - and the comma after the } - and copy
 
-Here are all the fields to fill in:
+3. You can paste the copied bio at the bottom after the last },
+
+4. Now you can edit the bio to reflect the information about the new person. 
 
 `carouselMember:` true or false (set to true if you want this bio to be included in the rotating "carousel" on the main page)
 
@@ -108,10 +110,11 @@ EXAMPLE:
   "She also worked as a librarian."
 
 OR:
-`
+\`
 Smith was a `<b>`juggler in a circus`</b>` for 20 years before becoming mayor.
   She also worked as a librarian.
-`
+\`
+
 `funFactImage:`
 - the name of the image that will be included - just take from one from the "photos:" field
 
