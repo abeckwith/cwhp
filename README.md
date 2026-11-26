@@ -1,16 +1,8 @@
 README.md
 
-To change the period of time for recent additions or recent updates:
-Our Recents page shows recent bios that have been added to the site going back some set number of months and the same for recent edits to bios. You can change these values. As of this writing, the page shows the last 12 months of additions and the last 3 months of edits
 
-1. open the scripts.js file (in the scripts folder)
 
-2. near the top are the two variables to change the values of:
-
-let RECENT_MONTHS_LIMIT = 12; //for recent additions 
-let RECENT_MONTHS_LIMIT_EDITS = 3; //for recent edits 
-
-To add a new bio:
+**To add a new bio:**
 1. in the bios folder, go to the appropriate letter for the last name of the person.
 
 2. The simplest way to understand the fields below and to actually enter a new bios is to copy and paste one of the existing bios and just change the values for each field 
@@ -156,3 +148,13 @@ scripts: all JavaScript files. This is all the code that builds the pages, selec
 - search.js: functions that handle searching the database and returning results for the Search tab
 
 styles: all the CSS files are in this folder. This is code that determines the font, font sizes, colors, backgrounds, borders, margins, etc., as well as adjustments for mobile and hover effects
+
+**To change the period of time for recent additions or recent updates:**
+Our Recents page shows recent bios that have been added to the site going back some set number of months and the same for recent edits to bios. You can change these values. As of this writing, the page shows the last 12 months of additions and the last 3 months of edits
+
+1. open the scripts.js file (in the scripts folder)
+
+2. near the top are the two variables to change the values of:
+
+let RECENT_MONTHS_LIMIT = 12; //for recent additions 
+let RECENT_MONTHS_LIMIT_EDITS = 3; //for recent edits 
