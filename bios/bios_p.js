@@ -938,7 +938,7 @@ p_bios = [
             `,
         otherNotes: "",
         references: `
-        Interview of Ann Pastreich by Anthony Beckwith, November, 2026.<br>
+        Phone interview with Ann Pastreich by Anthony Beckwith, November, 2026.<br>
         <i>City of Cambridge phone directory</i>, 1993, 2000.<br>
 
         <i>The West Schuylkill Press and Pine Grove Herald</i>, June 09, 1966.<br>
