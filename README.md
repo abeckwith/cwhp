@@ -10,116 +10,116 @@ README.md
 
 Here are all the fields to fill in:
 
-carouselMember: true or false (set to true if you want this bio to be included in the rotating "carousel" on the main page)
+`carouselMember:` true or false (set to true if you want this bio to be included in the rotating "carousel" on the main page)
 
-addressFound: true or false (set to true if the address has been found and has been added to the GoogleMap)
+`addressFound:` true or false (set to true if the address has been found and has been added to the GoogleMap)
 
-poc: true or false, no quotes (this is for "person of color", but isn't currently used for anything)
+`poc:` true or false, no quotes (this is for "person of color", but isn't currently used for anything)
 
-organization: true or false, no quotes (true for an organization, false for a person, but isn't currently used for anything)
+`organization:` true or false, no quotes (true for an organization, false for a person, but isn't currently used for anything)
 
-lastName: not the maiden name, unless they didn't marry or change their name
-firstName: for an organization, this will be blank
-middleName: obvious; can be left blank
-familyName: the maiden name; can be left blank
+`lastName:` not the maiden name, unless they didn't marry or change their name
+`firstName:` for an organization, this will be blank
+`middleName:` obvious; can be left blank
+`familyName:` the maiden name; can be left blank
 
-title: this is what will appear in bold and larger font under their name at the top of the bio
+`title:` this is what will appear in bold and larger font under their name at the top of the bio
 
-birthDate and deathDate: 
+`birthDate` and `deathDate:` 
 - must be blank or in the form mm.dd.yyyy, even if you only know the year, in which case you would enter 00.00.yyyy
 - you can also use 00 for the day if you only know the month and year
 birthLocation and deathLocation: don't use abbreviations for state names; can be left blank
 
-narrative: 
-- notice that the text is all between ` and `, not " and ".  This is the backtick, which is below the escape key on your keyboard
+`narrative: `
+- notice that the text is all between \` and \`, not " and ".  This is the backtick, which is below the escape key on your keyboard
 - spacing and alignment within the text affect the actual bio
 - putting text on a new line won't create a new line in the actual bio
-- to go to the next line, include a <br>
-- to insert a blank line between blocks of text, include <br><br>
-- use <b> to bold </b> and <i> to italicize </i>
-- use <blockquote> to create a blockquote </blockquote>, but don't include any <br> before or after these, as <blockquote> will already create those
-- use <a href="the URL">to link to another page</a>
+- to go to the next line, include a `<br>`
+- to insert a blank line between blocks of text, include `<br>``<br>`
+- use `<b>` to bold `</b>` and `<i>` to italicize `</i>`
+- use `<blockquote>` to create a blockquote `</blockquote>`, but don't include any `<br>` before or after these, as `<blockquote>` will already create those
+- use `<a href="the URL">`to link to another page`</a>`
 
-otherNotes: leave blank, not used at this time
+`otherNotes:` leave blank, not used at this time
 
-references: 
+`references: `
 - end each reference with a period
-- use <br> between each reference
+- use `<br>` between each reference
 
-- if there is a link for a reference, include it after the name of the reference and have the URL be the clickable link. Also, include class='indent'  (see below)
+- if there is a link for a reference, include it after the name of the reference and have the URL be the clickable link. Also, include `class='indent'`  (see below)
 
 For example: 
 
-<i>The Crisis</i>, August 1915:<br>
+`<i>`The Crisis`</i>`, August 1915:`<br>`
 
-<a class='indent' href="https://www.thecrisis…">   
+`<a class='indent' href="https://www.thecrisis…">`   
      https://www.thecrisis…
-</a>
-<Br>
+`</a>`
+`<Br>`
 
-photos: NOTE: in order for a photo to be accessible, store it in the images_bios/ folder
+`photos:` NOTE: in order for a photo to be accessible, store it in the `images_bios/ folder`
 - a list of names for each image file for this person, each starting with images_bios/, each in quotes, with commas between each; can be left blank
 - if you want no photo at the top of the bio, but do have more photos for below, you can include empty quotes:
-photos: ["", "jones.jpg"]
-photoTitles: 
+`photos: ["", "jones.jpg"]`
+`photoTitles: `
 - a list of titles that appear under each photo, in quotes, with commas between each
 - can be left blank
 - if no title for first photo, but titles for subsequent ones, you can include empty quotes:
-photoTitles:
+`photoTitles:`
 
-["", "Jones at a protest, 1976"]
-photoHeights: 
+`["", "Jones at a protest, 1976"]`
+`photoHeights: `
 - a list of pixel heights for each photo
 - usually left blank, unless there is a reason to shrink or expand the size of a photo
 - the width will adjust automatically to maintain original aspect ratio
 - normal range of values: 150-400
-photoPos:
+`photoPos:`
 - a list of numbers, indicating how many lines to move each image down from its default spot
 - usually used for photo at top, if it makes sense to push it down a bit 
 - usually a number in the range 1-4
 - may not be included for every bio, but you can add it to any
 
 
-dateCreated: *see birthDate and deathDate above for the date formatting structure
+`dateCreated:` *see birthDate and deathDate above for the date formatting structure
 - the date the bio went live
 
-dateUpdated: *see birthDate and deathDate above for the date formatting structure
+`dateUpdated:` *see birthDate and deathDate above for the date formatting structure
 - the date the bio was added to or edited in some significant way*
-recentEditNotes:
+`recentEditNotes:`
 - a description of what the most recent update has been; this goes with the dateUpdated field
 - example: "Added a new photo and corrected birthdate"
 
-funFact: 
+`funFact: `
 - a description of a fun fact about the person, if there is one
 - if it is multiple lines of text, should either be between ` and ` or use " " and +
-- use <b> and </b> around text to be highlighted
+- use `<b>` and `</b>` around text to be highlighted
 EXAMPLE: 
-"Smith was a <b>juggler in a circus</b> for 20 years before becoming mayor." +
+"Smith was a `<b>`juggler in a circus`</b>` for 20 years before becoming mayor." +
   "She also worked as a librarian."
 
 OR:
 `
-Smith was a <b>juggler in a circus</b> for 20 years before becoming mayor.
+Smith was a `<b>`juggler in a circus`</b>` for 20 years before becoming mayor.
   She also worked as a librarian.
 `
-funFactImage:
+`funFactImage:`
 - the name of the image that will be included - just take from one from the "photos:" field
 
-first:
+`first:`
 - if applicable, a short description (sentence fragment) of what the "first" is
 EXAMPLE: "First woman principal in Massachusetts"
-firstYear:
+`firstYear:`
 - the year that the "first" happened
 
-editors:
+`editors:`
 - the name or names of people that edited the bio over time
 - no list, just text inside a single pair of quotes
 
-authors:
+`authors:`
 - the name or names of the people that worked on the original bio before posting
 - just text inside a single pair of quotes
 
-categories:
+`categories:`
 - a list of categories that fit this person (author, astronomer, etc.), in quotes with commas in between
 
 NOTE: 
@@ -156,5 +156,5 @@ Our Recents page shows recent bios that have been added to the site going back s
 
 2. near the top are the two variables to change the values of:
 
-let RECENT_MONTHS_LIMIT = 12; //for recent additions 
-let RECENT_MONTHS_LIMIT_EDITS = 3; //for recent edits 
+`let RECENT_MONTHS_LIMIT = 12; //for recent additions `
+`let RECENT_MONTHS_LIMIT_EDITS = 3; //for recent edits `
