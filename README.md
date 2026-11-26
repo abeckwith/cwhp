@@ -37,16 +37,16 @@ include the and the comma after the } .
 `birthDate` and `deathDate:` 
 - must be blank or in the form mm.dd.yyyy, even if you only know the year, in which case you would enter 00.00.yyyy
 - you can also use 00 for the day if you only know the month and year
-birthLocation and deathLocation: don't use abbreviations for state names; can be left blank
+
+`birthLocation` and `deathLocation`: don't use abbreviations for state names; can be left blank
 
 `narrative: `
 - notice that the text is all between \` and \`, not " and ".  This is the backtick, which is below the escape key on your keyboard
-- spacing and alignment within the text affect the actual bio
 - putting text on a new line won't create a new line in the actual bio
 - to go to the next line, include a `<br>`
-- to insert a blank line between blocks of text, include `<br>``<br>`
-- use `<b>` to bold `</b>` and `<i>` to italicize `</i>`
-- use `<blockquote>` to create a blockquote `</blockquote>`, but don't include any `<br>` before or after these, as `<blockquote>` will already create those
+- to insert a blank line between blocks of text, include `<br><br>`
+- use `<b>` **to bold** `</b>` and `<i>` __to italicize__ `</i>`
+- use `<blockquote>` to create a blockquote `</blockquote>`, but don't include any `<br>` before or after these, as `<blockquote>` will already create an extra space
 - use `<a href="the URL">`to link to another page`</a>`
 
 `otherNotes:` leave blank, not used at this time
@@ -77,9 +77,7 @@ For example:
 - can be left blank
 - if no title for first photo, but titles for subsequent ones, you can include empty quotes:
 
-`photoTitles:`
-
-`["", "Jones at a protest, 1976"]`
+`photoTitles: ["", "Jones at a protest, 1976"]`
 
 `photoHeights: `
 - a list of pixel heights for each photo
@@ -110,13 +108,15 @@ For example:
 - use `<b>` and `</b>` around text to be highlighted
 
 EXAMPLE: 
-"Smith was a `<b>`juggler in a circus`</b>` for 20 years before becoming mayor." +
-  "She also worked as a librarian."
+`"Smith was a <b>juggler in a circus</b> for 20 years before becoming mayor." +`
+
+  `"She also worked as a librarian."`
 
 OR:
 \`
-Smith was a `<b>`juggler in a circus`</b>` for 20 years before becoming mayor.
-  She also worked as a librarian.
+`Smith was a <b>juggler in a circus</b> for 20 years before becoming mayor.`
+
+  `She also worked as a librarian.`
 \`
 
 `funFactImage:`
